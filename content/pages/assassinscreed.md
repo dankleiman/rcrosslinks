@@ -1,0 +1,24 @@
+---
+title: assassinscreed
+crosslinks:
+- youtubefactsbot
+- youtubot
+- AskHistorians
+- Gamingcirclejerk
+- alotabot
+- botpopularitybot
+- MassdropBot
+- u_imguralbumbot
+- Games
+- tmsbmeta
+- nier
+- assassinscirclejerk
+- gaming
+- john_yukis_bots
+- xkcd
+- UnexpectedHamilton
+- PS4
+- 15minutecostumes
+- explainlikeimfive
+- PeacefulAC
+---

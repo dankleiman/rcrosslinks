@@ -1,0 +1,24 @@
+---
+title: ANormalDayInRussia
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- CredibilityBot
+- tmsbmeta
+- u_imguralbumbot
+- WTF
+- slavs_squatting
+- pics
+- russia
+- gifs
+- ShitAmericansSay
+- autotldr
+- photoshopbattles
+- autourbanbot
+- hmmm
+- bestof
+- funny
+- SubAutoCorrectBot
+- rant
+---

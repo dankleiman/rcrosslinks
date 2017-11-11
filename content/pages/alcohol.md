@@ -1,0 +1,24 @@
+---
+title: alcohol
+crosslinks:
+- youtubefactsbot
+- cocktails
+- bourbon
+- Drugs
+- youtubot
+- wine
+- SubredditDrama
+- beer
+- WritingPrompts
+- trackandfield
+- Cigarettes
+- actuallesbians
+- cripplingalcoholism
+- Scotch
+- GifRecipes
+- raerth
+- AskReddit
+- arduino
+- PassionFruit
+- whiskey
+---

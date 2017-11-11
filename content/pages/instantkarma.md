@@ -1,0 +1,24 @@
+---
+title: instantkarma
+crosslinks:
+- youtubefactsbot
+- livven
+- botwatch
+- iamverybadass
+- youtubot
+- anti_gif_bot
+- JusticeServed
+- Whatcouldgowrong
+- IAmA
+- tmsbmeta
+- autotldr
+- autourbanbot
+- instant_regret
+- gifs
+- funny
+- circlebroke2
+- Roadcam
+- CalamariRaceTeam
+- exmuslim
+- suddenlygay
+---

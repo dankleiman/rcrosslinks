@@ -1,0 +1,24 @@
+---
+title: htpc
+crosslinks:
+- buildapc
+- PleX
+- intelnuc
+- Amd
+- homeserver
+- linuxserver
+- libreELEC
+- PseudoTV
+- homelab
+- customization
+- metric_units
+- explainlikeimfive
+- plex
+- shittyhometheater
+- youtubot
+- Zeos
+- hardwareswap
+- DataHoarder
+- movies
+- buildapcsales
+---

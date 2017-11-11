@@ -1,0 +1,24 @@
+---
+title: Adelaide
+crosslinks:
+- youtubefactsbot
+- youtubot
+- australia
+- autotldr
+- MassdropBot
+- u_imguralbumbot
+- dataisbeautiful
+- BneStrong
+- auslaw
+- PlasticSurgery
+- AskReddit
+- melbourne
+- carporn
+- AUSfreebies
+- papertowns
+- SLRep
+- Ausfood
+- IAmA
+- Colombia
+- xkcd
+---

@@ -1,0 +1,24 @@
+---
+title: TheXanaxCartel
+crosslinks:
+- DarkNetMarkets
+- TheBarbarians
+- youtubefactsbot
+- TheBarbarianClan
+- DarkNetMarketsNoobs
+- DankNation
+- benzodiazepines
+- AlphaBayMarket
+- BartardNation
+- DNMUK
+- TheDarknetGateway
+- AgMarketplace
+- youtubot
+- Stims
+- cocaine
+- Bitcoin
+- alotabot
+- DrugStashes
+- thebarbarians
+- BapeDrugsDNM
+---

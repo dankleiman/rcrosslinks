@@ -1,0 +1,24 @@
+---
+title: GoldandBlack
+crosslinks:
+- zeronet
+- Anarcho_Capitalism
+- autotldr
+- youtubefactsbot
+- Libertarian
+- btc
+- Polycentric_Law
+- Bitcoin
+- Shitstatistssay
+- AnCapitalists
+- IAmA
+- worldnews
+- youtubot
+- AnCap101
+- politics
+- Anarchism
+- Physical_Removal
+- LateStageCapitalism
+- changemyview
+- The_Donald
+---

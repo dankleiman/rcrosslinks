@@ -1,0 +1,24 @@
+---
+title: justicedemocrats
+crosslinks:
+- autotldr
+- Enough_Sanders_Spam
+- WayOfTheBern
+- Kossacks_for_Sanders
+- BlueMidterm2018
+- SandersForPresident
+- Political_Revolution
+- youtubefactsbot
+- AMAAggregator
+- RooseveltRepublicans
+- MassdropBot
+- GGFreeForAll
+- justicerepublicans
+- goodposts_aboutvoting
+- JusticeRepublicans
+- EnoughTrumpSpam
+- hillaryclinton
+- MedicareForAll
+- TumblrInAction
+- ShitLiberalsSay
+---

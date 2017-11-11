@@ -1,0 +1,24 @@
+---
+title: books
+crosslinks:
+- Fantasy
+- AskHistorians
+- IAmA
+- AskReddit
+- todayilearned
+- tmsbmeta
+- whatsthatbook
+- BookRelatedSubs
+- witcher
+- WoT
+- suggestmeabook
+- mildlyinteresting
+- asoiaf
+- Cosmere
+- pics
+- personalfinance
+- philosophy
+- Stormlight_Archive
+- discworld
+- Animorphs
+---

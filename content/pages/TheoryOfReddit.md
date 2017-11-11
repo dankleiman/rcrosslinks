@@ -1,0 +1,24 @@
+---
+title: TheoryOfReddit
+crosslinks:
+- announcements
+- shills
+- SubredditDrama
+- all
+- dataisbeautiful
+- The_Donald
+- modnews
+- AskReddit
+- politics
+- OutOfTheLoop
+- changelog
+- pics
+- ModSupport
+- subredditcancer
+- TrueReddit
+- pic
+- videos
+- dankmemes
+- IAmA
+- TheseFuckingAccounts
+---

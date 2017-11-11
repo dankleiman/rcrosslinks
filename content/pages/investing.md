@@ -1,0 +1,24 @@
+---
+title: investing
+crosslinks:
+- wallstreetbets
+- personalfinance
+- Bitcoin
+- InvestingCJ
+- youtubot
+- financialindependence
+- StockMarket
+- stockaday
+- stocks
+- ethtrader
+- weedstocks
+- xkcd
+- ethereum
+- bestof
+- CryptoCurrency
+- RobinHood
+- alotabot
+- options
+- technology
+- Futurology
+---

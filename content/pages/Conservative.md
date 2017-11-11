@@ -1,0 +1,24 @@
+---
+title: Conservative
+crosslinks:
+- politics
+- The_Donald
+- news
+- AskReddit
+- worldnews
+- socialism
+- Libertarian
+- ShitPoliticsSays
+- NeutralPolitics
+- pics
+- science
+- explainlikeimfive
+- Republican
+- PoliticalHumor
+- u_imguralbumbot
+- LateStageCapitalism
+- EnoughTrumpSpam
+- uncensorednews
+- changemyview
+- nottheonion
+---

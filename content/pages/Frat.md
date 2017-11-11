@@ -1,0 +1,24 @@
+---
+title: Frat
+crosslinks:
+- youtubefactsbot
+- fakeid
+- u_imguralbumbot
+- AskReddit
+- Incels
+- circlebroke2
+- autotldr
+- PennStateUniversity
+- ShitRedditSays
+- NegativeWithGold
+- anti_gif_bot
+- autofellatio
+- ObscureMedia
+- poppunkers
+- SkincareAddiction
+- UIUC
+- hockey
+- ChinaBiz
+- cfb
+- ImGoingToHellForThis
+---

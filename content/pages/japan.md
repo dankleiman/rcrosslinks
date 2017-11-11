@@ -1,0 +1,24 @@
+---
+title: japan
+crosslinks:
+- japancirclejerk
+- autotldr
+- youtubefactsbot
+- japanlife
+- youtubot
+- JapanTravel
+- worldnews
+- korea
+- movingtojapan
+- u_imguralbumbot
+- SubredditDrama
+- place
+- AskReddit
+- Drama
+- newsokur
+- MassdropBot
+- Tokyo
+- LearnJapanese
+- hapas
+- jetprogramme
+---

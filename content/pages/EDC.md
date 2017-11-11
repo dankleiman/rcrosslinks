@@ -1,0 +1,24 @@
+---
+title: EDC
+crosslinks:
+- flashlight
+- youtubefactsbot
+- knifeclub
+- Watches
+- CCW
+- fountainpens
+- tmsbmeta
+- youtubot
+- FidgetSpinners
+- u_imguralbumbot
+- MassdropBot
+- VEDC
+- EDCWhiners
+- dgu
+- AskReddit
+- weekendgunnit
+- john_yukis_bots
+- guns
+- DIY
+- multitools
+---

@@ -1,0 +1,24 @@
+---
+title: diablo3
+crosslinks:
+- Diablo
+- youtubefactsbot
+- D3PS4
+- u_imguralbumbot
+- Diablo3Wizards
+- Diablo3Crusaders
+- Diablo3Necromancers
+- youtubot
+- Diablo3Monks
+- pathofexile
+- Diablo3XboxOne
+- tmsbmeta
+- Diablo3DemonHunters
+- Diablo3witchdoctors
+- Diablo3Barbarians
+- autourbanbot
+- diablo3crusaders
+- d3ps4
+- TacosandDragons
+- alotabot
+---

@@ -1,0 +1,24 @@
+---
+title: subaru
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- XVcrosstrek
+- AutoDetailing
+- battlewagon
+- youtubot
+- livven
+- WRX
+- anti_gif_bot
+- SubaruForester
+- ft86
+- SubaruEmbassy
+- MassdropBot
+- subaruimpreza
+- Shitty_Car_Mods
+- Stance
+- Roadcam
+- funny
+- metric_units
+- tmsbmeta
+---

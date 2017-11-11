@@ -1,0 +1,24 @@
+---
+title: olympics
+crosslinks:
+- autotldr
+- youtubefactsbot
+- ShitAmericansSay
+- BrasilOnReddit
+- todayilearned
+- theocho
+- gifs
+- paralympics
+- youtubot
+- livven
+- Swimming
+- vexillology
+- sports
+- SportingKC
+- Rowing
+- AbandonedPorn
+- metacanada
+- LosAngeles
+- Oceanlinerporn
+- OlympicChannel
+---

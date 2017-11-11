@@ -1,0 +1,24 @@
+---
+title: waiting_to_try
+crosslinks:
+- TryingForABaby
+- BabyBumps
+- JUSTNOMIL
+- WTT_graduates
+- weddingplanning
+- babyrooms
+- personalfinance
+- alotabot
+- xxfitness
+- TFABLinePorn
+- crochet
+- john_yukis_bots
+- clothdiapers
+- ttcafterloss
+- beyondthebump
+- AskWomen
+- babywearing
+- personalfinace
+- youtubefactsbot
+- confession
+---

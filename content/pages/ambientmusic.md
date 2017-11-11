@@ -1,0 +1,24 @@
+---
+title: ambientmusic
+crosslinks:
+- quadcitiesmusic
+- youtubefactsbot
+- youtubot
+- experimentalmusic
+- OldAmbientMusic
+- brokengifs
+- bipolar
+- Psybient
+- dark_ambient
+- DarkAmbient
+- modular
+- DuplicatesBot
+- Metallica
+- alotabot
+- theorb
+- vjing
+- brokenanimegifs
+- Metal
+- UnresolvedMysteries
+- guitarpedals
+---

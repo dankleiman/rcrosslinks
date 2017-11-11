@@ -1,0 +1,24 @@
+---
+title: residentevil
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- gaming
+- tmsbmeta
+- metalgearsolid
+- xboxone
+- silenthill
+- patientgamers
+- u_imguralbumbot
+- gamecollecting
+- thedivision
+- TwoBestFriendsPlay
+- IAmA
+- PS4
+- e
+- autourbanbot
+- autotldr
+- Games
+- shittytumblrgifs
+---

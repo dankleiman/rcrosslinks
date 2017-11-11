@@ -1,0 +1,24 @@
+---
+title: Justfuckmyshitup
+crosslinks:
+- ATBGE
+- u_imguralbumbot
+- youtubot
+- pics
+- livven
+- SwordOrSheath
+- WTF
+- botwatch
+- fakehistoryporn
+- circlebroke2
+- me_irl
+- titleporn
+- tifu
+- awfuleyebrows
+- dankmemes
+- autourbanbot
+- ear_ased
+- RoastMe
+- titlegore
+- KnightsOfPineapple
+---

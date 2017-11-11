@@ -1,0 +1,24 @@
+---
+title: Xcom
+crosslinks:
+- youtubefactsbot
+- xcom2mods
+- youtubot
+- u_imguralbumbot
+- XCOM2
+- livven
+- anti_gif_bot
+- LongWar101
+- sexcom
+- PhoenixPoint
+- IAmA
+- place
+- john_yukis_bots
+- RimWorld
+- Stellaris
+- Games
+- MassdropBot
+- Eve
+- xdev
+- tmsbmeta
+---

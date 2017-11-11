@@ -1,0 +1,24 @@
+---
+title: PeopleFuckingDying
+crosslinks:
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- youtubot
+- tmsbmeta
+- gifs
+- funny
+- aww
+- u_imguralbumbot
+- botwatch
+- AskReddit
+- titleporn
+- rarepuppers
+- BetterEveryLoop
+- pics
+- HumansBeingBros
+- ChildrenFallingOver
+- mildlyinteresting
+- Eyebleach
+- gaming
+---

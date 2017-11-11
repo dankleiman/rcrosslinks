@@ -1,0 +1,24 @@
+---
+title: Kayaking
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- whitewater
+- livven
+- anti_gif_bot
+- kayakfishing
+- MassdropBot
+- canoeing
+- NewZanada
+- canoewithaview
+- holdmybeer
+- diykayakfishing
+- alotabot
+- kayamping
+- AskReddit
+- Wrangler
+- Georgia
+- BookCollecting
+- dayton
+- Wales
+---

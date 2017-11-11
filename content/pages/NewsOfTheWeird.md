@@ -1,0 +1,24 @@
+---
+title: NewsOfTheWeird
+crosslinks:
+- autotldr
+- tmsbmeta
+- badwomensanatomy
+- The_Donald
+- AskReddit
+- shittyaskscience
+- politics
+- LateStageCapitalism
+- funny
+- grilledcheese
+- u_imguralbumbot
+- titlegore
+- offbeat
+- DarwinAwards
+- guns
+- savedyouaclick
+- newsOfTheTragic
+- goodnews
+- trashy
+- Blades
+---

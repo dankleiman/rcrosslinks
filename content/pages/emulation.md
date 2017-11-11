@@ -1,0 +1,24 @@
+---
+title: emulation
+crosslinks:
+- youtubefactsbot
+- cemu
+- Games
+- EmulationOnAndroid
+- pcmasterrace
+- EmuDev
+- autotldr
+- programming
+- Citra
+- RetroArch
+- CEMUcaches
+- youtubot
+- xenia
+- personalfinance
+- MAME
+- SteamController
+- Steam
+- Purei
+- patientgamers
+- Amd
+---

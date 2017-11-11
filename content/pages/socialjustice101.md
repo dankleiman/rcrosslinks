@@ -1,0 +1,24 @@
+---
+title: socialjustice101
+crosslinks:
+- SRSDiscussion
+- SRSsucks
+- MensLib
+- NoStupidQuestions
+- AskFeminists
+- xkcd
+- Drama
+- SocialJusticeInAction
+- john_yukis_bots
+- SushiAbomination
+- SuicideWatch
+- news
+- youtubefactsbot
+- TrueOffMyChest
+- blackgirls
+- AskHistory
+- Negareddit
+- FloridaMan
+- legal
+- sjwhate
+---

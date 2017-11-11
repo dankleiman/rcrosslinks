@@ -1,0 +1,24 @@
+---
+title: shestillsucking
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- aww
+- Quarry
+- bitchimabus
+- battlefield_one
+- copypasta
+- KerbalSpaceProgram
+- SquaredCircle
+- youtubot
+- skyrim
+- leagueoflegends
+- DeFranco
+- gonecivil
+- Serendipity
+- UnnecessaryCensorship
+- oddlyterrifying
+- titleporn
+- squaredCricle
+---

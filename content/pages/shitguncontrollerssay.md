@@ -1,0 +1,24 @@
+---
+title: shitguncontrollerssay
+crosslinks:
+- GunsAreCool
+- politics
+- gunpolitics
+- nottheonion
+- ShitAmericansSay
+- news
+- gifs
+- trees
+- Drama
+- Firearms
+- changemyview
+- weekendgunnit
+- progun
+- BestOfGuzman
+- NOWTTYG
+- bestof
+- liberalgunowners
+- youtubot
+- SubredditDrama
+- moderatepolitics
+---

@@ -1,0 +1,24 @@
+---
+title: CrappyDesign
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- funny
+- xkcd
+- dontdeadopeninside
+- autourbanbot
+- tmsbmeta
+- nocontext
+- mildlyinfuriating
+- mildlyinteresting
+- pics
+- WTF
+- AskReddit
+- ProgrammerHumor
+- SubAutoCorrectBot
+- softwaregore
+- NotMyJob
+- accidentalswastika
+- gifs
+---

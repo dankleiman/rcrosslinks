@@ -1,0 +1,24 @@
+---
+title: bdsm
+crosslinks:
+- BDSMcommunity
+- bdsmfaq
+- u_imguralbumbot
+- autotldr
+- MaxineSapphire
+- freeuse
+- bipolar
+- youtubot
+- gonewildaudio
+- tapebondage
+- guro
+- Bondage
+- eyecontact
+- SexWorkers
+- gentlefemdom
+- found_femdom
+- usedpanties
+- Hawtschwitz
+- littlespace
+- GracefulSubmission
+---

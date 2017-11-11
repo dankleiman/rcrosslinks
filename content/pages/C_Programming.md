@@ -1,0 +1,24 @@
+---
+title: C_Programming
+crosslinks:
+- programming
+- learnprogramming
+- cpp
+- youtubot
+- cpp_questions
+- dailyprogrammer
+- Cprog
+- embedded
+- ruby
+- ucf
+- c_language
+- Cplusplus
+- autotldr
+- cs50
+- youtubefactsbot
+- gcc
+- u_imguralbumbot
+- fuzzing
+- NYCjobs
+- programmingcirclejerk
+---

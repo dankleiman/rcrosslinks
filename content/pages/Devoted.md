@@ -1,0 +1,24 @@
+---
+title: Devoted
+crosslinks:
+- youtubefactsbot
+- Civcraft
+- MtAugusta
+- tmsbmeta
+- devotedmap
+- mtaugustajustice
+- CivEx
+- CraftiaEmpire
+- CivAquila
+- place
+- livven
+- MassdropBot
+- autourbanbot
+- CivCityofHayek
+- TheRealmsMC
+- UFederation
+- u_imguralbumbot
+- DevAthos
+- Minecraft
+- circlejerkcopypasta
+---

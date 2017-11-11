@@ -1,0 +1,24 @@
+---
+title: badwomensanatomy
+crosslinks:
+- AskReddit
+- youtubefactsbot
+- MGTOW
+- Incels
+- TwoXChromosomes
+- u_imguralbumbot
+- sex
+- TheRedPill
+- todayilearned
+- gifs
+- funny
+- news
+- childfree
+- NoStupidQuestions
+- askMRP
+- worldnews
+- trashy
+- SubredditDrama
+- tifu
+- StoriesAboutKevin
+---

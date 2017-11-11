@@ -1,0 +1,24 @@
+---
+title: robotwars
+crosslinks:
+- youtubefactsbot
+- battlebots
+- youtubot
+- MassdropBot
+- robotcombatart
+- rapbattles
+- placehearts
+- pics
+- korea
+- golf
+- alotabot
+- totallynotrobots
+- nongolfers
+- tmsbmeta
+- videos
+- BattleBotsRaw
+- '2013'
+- place
+- commandandconquer
+- panelshow
+---

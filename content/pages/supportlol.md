@@ -1,0 +1,24 @@
+---
+title: supportlol
+crosslinks:
+- TeamRedditTeams
+- summonerschool
+- leagueoflegends
+- AquaDragon
+- ShadowBan
+- youtubefactsbot
+- sufficiencybot
+- youtubot
+- taricmains
+- NamiMains
+- sonamains
+- SorakaMains
+- FrenchWestIndies
+- BraumMains
+- ThreshMains
+- SupOrFeed
+- Tahmkenchmains
+- u_imguralbumbot
+- depression
+- karthusmains
+---

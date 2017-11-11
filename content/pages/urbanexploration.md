@@ -1,0 +1,24 @@
+---
+title: urbanexploration
+crosslinks:
+- youtubefactsbot
+- youtubot
+- AbandonedPorn
+- u_imguralbumbot
+- ruralexploration
+- me_irl
+- MassdropBot
+- ForsakenPlaces
+- SCP
+- FeelsLikeTheFirstTime
+- submechanophobia
+- shittyHDR
+- xkcd
+- powerwashingporn
+- ClimbingCircleJerk
+- iamverybadass
+- Unity3D
+- ActLikeYouBelong
+- TankPorn
+- pics
+---

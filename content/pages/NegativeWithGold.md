@@ -1,0 +1,24 @@
+---
+title: NegativeWithGold
+crosslinks:
+- politics
+- AskReddit
+- pics
+- worldnews
+- news
+- funny
+- videos
+- gaming
+- nba
+- SquaredCircle
+- 2007scape
+- todayilearned
+- nfl
+- btc
+- soccer
+- aww
+- gifs
+- IAmA
+- WTF
+- hockey
+---

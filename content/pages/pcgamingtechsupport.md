@@ -1,0 +1,24 @@
+---
+title: pcgamingtechsupport
+crosslinks:
+- buildapc
+- techsupport
+- u_imguralbumbot
+- pcmasterrace
+- youtubefactsbot
+- nvidia
+- youtubot
+- lowendgaming
+- buildapcforme
+- Steam
+- SuggestALaptop
+- masseffect
+- xkcd
+- buildapcsales
+- playrust
+- Amd
+- pcgaming
+- GlobalOffensive
+- PUBATTLEGROUNDS
+- mildlypenis
+---

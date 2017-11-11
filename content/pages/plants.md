@@ -1,0 +1,24 @@
+---
+title: plants
+crosslinks:
+- u_imguralbumbot
+- whatsthisplant
+- Bonsai
+- PPeperomioides
+- succulents
+- IndoorGarden
+- MassdropBot
+- SubAutoCorrectBot
+- Watercolor
+- mycology
+- cats
+- autotldr
+- mildlyinteresting
+- PlantedTank
+- mildlypenis
+- askscience
+- livven
+- youtubefactsbot
+- WHATSTHISPLANT
+- cactus
+---

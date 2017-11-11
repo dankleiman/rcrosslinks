@@ -1,0 +1,24 @@
+---
+title: Israel
+crosslinks:
+- autotldr
+- youtubot
+- Palestine
+- arabs
+- place
+- u_imguralbumbot
+- europe
+- Judaism
+- MassdropBot
+- palestine
+- AskHistorians
+- lebanon
+- polandball
+- india
+- dataisbeautiful
+- azerbaijan
+- indianpeoplefacebook
+- iranian
+- Kuwait
+- syriancivilwar
+---

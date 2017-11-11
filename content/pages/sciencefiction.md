@@ -1,0 +1,24 @@
+---
+title: sciencefiction
+crosslinks:
+- youtubefactsbot
+- autotldr
+- MassdropBot
+- printSF
+- HFY
+- youtubot
+- scifi
+- TheExpanse
+- u_imguralbumbot
+- whowouldwin
+- writing
+- tipofmytongue
+- WritingPrompts
+- xkcd
+- SciFiScroll
+- booksuggestions
+- SCP
+- OtakuVisualArts
+- Filmmakers
+- bookshelf
+---

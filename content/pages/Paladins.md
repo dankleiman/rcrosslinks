@@ -1,0 +1,24 @@
+---
+title: Paladins
+crosslinks:
+- youtubefactsbot
+- DrYoshiyahu
+- anti_gif_bot
+- livven
+- autourbanbot
+- Smite
+- PaladinsLore
+- Overwatch
+- Rule34Paladins
+- spsa
+- Tribes
+- botpopularitybot
+- alotabot
+- gaming
+- place
+- Pay_Respects
+- PaladinsAcademy
+- OverwatchCirclejerk
+- MassdropBot
+- Gamingcirclejerk
+---

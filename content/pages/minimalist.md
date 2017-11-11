@@ -1,0 +1,24 @@
+---
+title: minimalist
+crosslinks:
+- minimalism
+- konmari
+- MinimalismXX
+- simpleliving
+- lofi
+- DoingTheMost
+- malelivingspace
+- Frugal_Jerk
+- howtonotgiveafuck
+- MakeupRehab
+- SkincareAddicts
+- Watches
+- onebagging
+- youtubefactsbot
+- onebag
+- transhumanism
+- gaming
+- minimalism_jerk
+- hammockcamping
+- nosurf
+---

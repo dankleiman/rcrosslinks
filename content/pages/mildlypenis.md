@@ -1,0 +1,24 @@
+---
+title: mildlypenis
+crosslinks:
+- wildlypenis
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- botwatch
+- CrappyDesign
+- MassdropBot
+- funny
+- intentionallypenis
+- anti_gif_bot
+- mildlyinteresting
+- mildlyvagina
+- pics
+- youtubot
+- penis
+- aww
+- hmmm
+- notathing
+- titleporn
+- tifu
+---

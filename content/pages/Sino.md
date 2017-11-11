@@ -1,0 +1,24 @@
+---
+title: Sino
+crosslinks:
+- autotldr
+- CIWO
+- aznidentity
+- youtubefactsbot
+- westerner
+- EasternSunRising
+- interestingasfuck
+- youtubot
+- hapas
+- worldnews
+- geopolitics
+- AskHistorians
+- syriancivilwar
+- CrimesAgainstAsianity
+- chinafuturism
+- '2017'
+- u_imguralbumbot
+- AskReddit
+- europe
+- MapPorn
+---

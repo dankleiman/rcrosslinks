@@ -1,0 +1,24 @@
+---
+title: traphentai
+crosslinks:
+- u_imguralbumbot
+- DeliciousTraps
+- youtubefactsbot
+- livven
+- HungTraps
+- wholesomeanimemes
+- CringeAnarchy
+- nsfwcyoa
+- creepyboners
+- FutanariPegging
+- traps
+- gonewildTraps
+- Astolfo
+- anime_irl
+- BadMensAnatomy
+- SissyHentai
+- forhonor
+- animememes
+- ahegao
+- Drama
+---

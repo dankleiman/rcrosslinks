@@ -1,0 +1,24 @@
+---
+title: PenmanshipPorn
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- Handwriting
+- u_imguralbumbot
+- fountainpens
+- Calligraphy
+- youtubot
+- mildlyinteresting
+- accidentalcalligraphy
+- totallynotrobots
+- tmsbmeta
+- conlangs
+- keming
+- HailCorporate
+- pics
+- dontdeadopeninside
+- FuckTokenBot
+- MitchHedberg
+- arcticmonkeys
+---

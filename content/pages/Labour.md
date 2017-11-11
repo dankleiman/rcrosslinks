@@ -1,0 +1,24 @@
+---
+title: Labour
+crosslinks:
+- autotldr
+- jeremycorbyn
+- LabourUK
+- socialism
+- shitcorbotssay
+- unitedkingdom
+- youtubefactsbot
+- media_criticism
+- Scotland
+- ukpolitics
+- actuallesbians
+- WikiLeaks
+- Denmark
+- IAmA
+- Netherlands
+- SocialDemocracy
+- MassdropBot
+- atheism
+- labour2017
+- WayOfTheBern
+---

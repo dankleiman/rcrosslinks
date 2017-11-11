@@ -1,0 +1,24 @@
+---
+title: Stronglifts5x5
+crosslinks:
+- Fitness
+- youtubefactsbot
+- youtubot
+- formcheck
+- ketogains
+- metric_units
+- u_imguralbumbot
+- leangains
+- weightroom
+- macroplans
+- madcow5x5
+- 1200isplenty
+- GripTraining
+- alotabot
+- lvysaur
+- redditrequest
+- livven
+- theydidthemath
+- keto
+- AndroidWear
+---

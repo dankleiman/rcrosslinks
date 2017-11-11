@@ -1,0 +1,24 @@
+---
+title: nova
+crosslinks:
+- washingtondc
+- autotldr
+- youtubefactsbot
+- Roadcam
+- u_imguralbumbot
+- VAGuns
+- VirginiaPolitics
+- bestof
+- rva
+- SubredditDrama
+- gatekeeping
+- xkcd
+- tmsbmeta
+- ShitRedditSays
+- Dashcam
+- livven
+- PFSENSE
+- cars
+- interestingplates
+- novacars
+---

@@ -1,0 +1,24 @@
+---
+title: Frontend
+crosslinks:
+- RCBRedditBot
+- javascript
+- autotldr
+- xkcd
+- webdev
+- youtubefactsbot
+- WebdevTutorials
+- reactjs
+- programming
+- learnjavascript
+- shopify
+- node
+- youtube
+- learnwebdev
+- StallmanWasRight
+- gifs
+- CityBuilderDev
+- youtubot
+- Wordpress
+- u_imguralbumbot
+---

@@ -1,0 +1,24 @@
+---
+title: newsokurMod
+crosslinks:
+- newsokur
+- tikagenron
+- modnews
+- newsokuexp
+- mod
+- highlevelkarma
+- RedditsHistory_ja
+- newsokunomoral
+- ModSelection_jp
+- NewsokurMailOpener
+- BakaNewsJP
+- modhelp
+- ModSupport
+- sokur2
+- b1yomWBiho
+- Anarchism
+- whistory_ja
+- redditDUEL_jp
+- KIBEN
+- MassdropBot
+---

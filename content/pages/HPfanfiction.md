@@ -1,0 +1,24 @@
+---
+title: HPfanfiction
+crosslinks:
+- harrypotter
+- youtubefactsbot
+- hppetpeeves
+- HarryandGinny
+- HPharmony
+- HPSlashFic
+- WritingPrompts
+- autourbanbot
+- FanFiction
+- youtubot
+- HPMOR
+- WormFanfic
+- AskReddit
+- rational
+- raerth
+- jesuschristreddit
+- xkcd
+- BestFanficsofAll
+- badlinguistics
+- titlegore
+---

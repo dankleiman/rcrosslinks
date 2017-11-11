@@ -1,0 +1,24 @@
+---
+title: dbz
+crosslinks:
+- dragon_ball_super
+- manga
+- pics
+- anime
+- TeamFourStar
+- place
+- translator
+- OnePunchMan
+- '2013'
+- tmsbmeta
+- CharacterRant
+- OutOfTheLoop
+- DBZFusions
+- ZamasuDidNothingWrong
+- REEEEEE
+- HFY
+- AskReddit
+- arrow
+- IAmA
+- videos
+---

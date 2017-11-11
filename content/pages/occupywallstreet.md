@@ -1,0 +1,24 @@
+---
+title: occupywallstreet
+crosslinks:
+- autotldr
+- EnoughTrumpSpam
+- worldpolitics
+- Anarchism
+- politics
+- LateStageCapitalism
+- botwatch
+- Missing411
+- youtubefactsbot
+- youtubot
+- MassdropBot
+- lostgeneration
+- ConcentrationOfWealth
+- DeepGreenResistance
+- AMAAggregator
+- BasicIncome
+- privacy
+- bigfoot
+- economy
+- EndlessWar
+---

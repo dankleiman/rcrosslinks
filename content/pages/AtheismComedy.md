@@ -1,0 +1,24 @@
+---
+title: AtheismComedy
+crosslinks:
+- worldnews
+- space
+- videos
+- botwatch
+- ukpolitics
+- livven
+- atheistvids
+- funny
+- Bad_Cop_No_Donut
+- gifs
+- news
+- CringeAnarchy
+- skeptic
+- nottheonion
+- JoeRogan
+- Unexpected
+- pics
+- worldpolitics
+- philosophy
+- blackmagicfuckery
+---

@@ -1,0 +1,24 @@
+---
+title: ipad
+crosslinks:
+- apple
+- youtubefactsbot
+- iOSBeta
+- iphone
+- anti_gif_bot
+- youtubot
+- livven
+- AppHookup
+- megalinks
+- workflow
+- ios
+- changelog
+- Surface
+- iosgaming
+- videos
+- futurama
+- tiltshift
+- alotabot
+- tmsbmeta
+- selfpromotion
+---

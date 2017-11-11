@@ -1,0 +1,24 @@
+---
+title: lifehacks
+crosslinks:
+- youtubefactsbot
+- youtubot
+- xkcd
+- livven
+- pics
+- funny
+- AskReddit
+- LifeProTips
+- u_imguralbumbot
+- BuyItForLife
+- IAmA
+- bodyweightfitness
+- vpnreviews
+- pcmasterrace
+- woahdude
+- tmsbmeta
+- MassdropBot
+- SkincareAddiction
+- john_yukis_bots
+- autotldr
+---

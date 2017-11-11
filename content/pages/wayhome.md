@@ -1,0 +1,24 @@
+---
+title: wayhome
+crosslinks:
+- u_imguralbumbot
+- FrankOcean
+- ElectricForest
+- bonnaroo
+- toronto
+- PembertonFestival
+- fieldtripfestival
+- festivals
+- WayhomeTickets
+- pearljam
+- ImagesOfThe2010s
+- autourbanbot
+- fyrefestival
+- Sasquatch
+- x0wt9f
+- LouFest
+- Muse
+- Coachella
+- DrugNerds
+- OutsideLands
+---

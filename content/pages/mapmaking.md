@@ -1,0 +1,24 @@
+---
+title: mapmaking
+crosslinks:
+- worldbuilding
+- u_imguralbumbot
+- MapPorn
+- DnD
+- imaginarymaps
+- youtubefactsbot
+- accidentalmaps
+- dataisbeautiful
+- proceduralgeneration
+- JerryMapping
+- inkarnate
+- dndmaps
+- botwatch
+- AskHistorians
+- MassdropBot
+- john_yukis_bots
+- youtubot
+- TerrainBuilding
+- RimWorld
+- armenia
+---

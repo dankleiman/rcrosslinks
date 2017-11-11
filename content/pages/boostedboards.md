@@ -1,0 +1,24 @@
+---
+title: boostedboards
+crosslinks:
+- youtubefactsbot
+- ElectricSkateboarding
+- u_imguralbumbot
+- youtubot
+- anti_gif_bot
+- store
+- MassdropBot
+- livven
+- metric_units
+- BoostedBoardsUK
+- EBoardMarketplace
+- autotldr
+- AMAAggregator
+- tmsbmeta
+- ShittyLifeProTips
+- Sneakers
+- battlestations
+- Kanye
+- EBoardMeetup
+- botwatch
+---

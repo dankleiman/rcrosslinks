@@ -1,0 +1,24 @@
+---
+title: slavs_squatting
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- livven
+- hatchery
+- botwatch
+- croatia
+- UNBGBBIIVCHIDCTIICBG
+- EmpireDidNothingWrong
+- aww
+- GlobalOffensive
+- VaporwaveAesthetics
+- MassdropBot
+- misleadingthumbnails
+- excgarated
+- the_cheeto
+- badpolitics
+- badhistory
+- winemaking
+- MemeEconomy
+- ysrudlsforfpsJSB
+---

@@ -1,0 +1,24 @@
+---
+title: GooglePixel
+crosslinks:
+- Android
+- android
+- Nexus6P
+- GalaxyS7
+- tmobile
+- GalaxyS8
+- tasker
+- daydream
+- nexus5x
+- Amoledbackgrounds
+- xkcd
+- youtubefactsbot
+- googlehome
+- verizon
+- AndroidPreviews
+- androidapps
+- AndroidQuestions
+- ProjectFi
+- google
+- NintendoSwitch
+---

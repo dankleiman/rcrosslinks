@@ -1,0 +1,24 @@
+---
+title: DebateAChristian
+crosslinks:
+- Christianity
+- DebateReligion
+- AcademicBiblical
+- AskAChristian
+- Judaism
+- youtubefactsbot
+- TrueChristian
+- askscience
+- atheism
+- youtubot
+- Creation
+- ReasonableFaith
+- DebateAnAtheist
+- AskHistorians
+- all
+- TrueAtheism
+- AskReddit
+- DebateEvolution
+- AskPhilosophyFAQ
+- u_imguralbumbot
+---

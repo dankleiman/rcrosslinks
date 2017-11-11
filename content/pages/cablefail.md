@@ -1,0 +1,24 @@
+---
+title: cablefail
+crosslinks:
+- cableporn
+- youtubefactsbot
+- xkcd
+- Subways
+- wowhelp
+- HomeImprovement
+- fire_snyper
+- therewasanattempt
+- NotMyJob
+- SneakyBackgroundFeet
+- techsupportgore
+- Serendipity
+- funny
+- shittyhdr
+- KarmaCourt
+- WarshipPorn
+- asiangirlsbeingcute
+- electricians
+- pics
+- pokemongo
+---

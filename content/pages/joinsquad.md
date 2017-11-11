@@ -1,0 +1,24 @@
+---
+title: joinsquad
+crosslinks:
+- u_imguralbumbot
+- anti_gif_bot
+- squadup
+- tmsbmeta
+- livven
+- SquadOps
+- CombatFootage
+- john_yukis_bots
+- arma
+- dayz
+- buildapc
+- xkcd
+- PUBATTLEGROUNDS
+- alotabot
+- ultrawidemasterrace
+- Amd
+- itsjasonbourne
+- starcitizen
+- DesmosPlayground
+- ProCSS
+---

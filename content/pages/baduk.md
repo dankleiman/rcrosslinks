@@ -1,0 +1,24 @@
+---
+title: baduk
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- autotldr
+- reinforcementlearning
+- MachineLearning
+- youtubot
+- xkcd
+- dataisbeautiful
+- chess
+- john_yukis_bots
+- foundtheprogrammer
+- SweatyPalms
+- boardgames
+- MapPorn
+- botpopularitybot
+- JapanTravel
+- bestof
+- BoardgamePorn
+- anti_gif_bot
+- artificial
+---

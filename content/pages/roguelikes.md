@@ -1,0 +1,24 @@
+---
+title: roguelikes
+crosslinks:
+- roguelikedev
+- roguelites
+- dcss
+- cataclysmdda
+- brogueforum
+- youtubefactsbot
+- Cogmind
+- InfraArcana
+- xkcd
+- subcommander
+- pathos_nethack
+- SilRL
+- rpg_gamers
+- allGamers
+- isleward
+- gameideas
+- youtubot
+- RimWorld
+- Cynicalbrit
+- u_imguralbumbot
+---

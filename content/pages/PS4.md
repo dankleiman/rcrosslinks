@@ -1,0 +1,24 @@
+---
+title: PS4
+crosslinks:
+- youtubefactsbot
+- youtubot
+- xboxone
+- PS4Deals
+- gaming
+- horizon
+- DestinyTheGame
+- Gamingcirclejerk
+- Games
+- PSVR
+- livven
+- PS4Pro
+- RedditAlternatives
+- Rainbow6
+- MassdropBot
+- tmsbmeta
+- u_imguralbumbot
+- bloodborne
+- alotabot
+- PlayStationPlus
+---

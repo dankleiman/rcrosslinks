@@ -1,0 +1,24 @@
+---
+title: interestingasfuck
+crosslinks:
+- pics
+- gifs
+- tmsbmeta
+- AskReddit
+- botwatch
+- videos
+- funny
+- todayilearned
+- IAmA
+- oddlysatisfying
+- gifsthatendtoosoon
+- blackmagicfuckery
+- WTF
+- askscience
+- metric_units
+- explainlikeimfive
+- john_yukis_bots
+- OutOfTheLoop
+- educationalgifs
+- UNBGBBIIVCHIDCTIICBG
+---

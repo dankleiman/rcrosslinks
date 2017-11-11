@@ -1,0 +1,24 @@
+---
+title: Denmark
+crosslinks:
+- sweden
+- place
+- AskReddit
+- Economics
+- europe
+- politics
+- badeconomics
+- Aarhus
+- dkfinance
+- AskHistorians
+- copenhagen
+- The_Donald
+- worldnews
+- norge
+- funny
+- GlobalOffensive
+- svenskpolitik
+- news
+- OutOfTheLoop
+- '2013'
+---

@@ -1,0 +1,24 @@
+---
+title: Hoocoodanode
+crosslinks:
+- youtubefactsbot
+- WayOfTheBern
+- youtubot
+- autourbanbot
+- tmsbmeta
+- autotldr
+- IBO
+- KotakuInAction
+- sandiego
+- LateStageCapitalism
+- AskReddit
+- newhampshire
+- justicedemocrats
+- The_Donald
+- OutOfTheLoop
+- MGTOW
+- both_sides
+- HillaryForPrison
+- todayilearned
+- xkcd
+---

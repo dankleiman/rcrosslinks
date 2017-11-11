@@ -1,0 +1,24 @@
+---
+title: AskWomen
+crosslinks:
+- AskReddit
+- youtubot
+- IAmA
+- '2013'
+- funny
+- goodlongposts
+- BabyBumps
+- sex
+- AskMen
+- aww
+- Fitness
+- gifs
+- SkincareAddiction
+- malefashionadvice
+- nosleep
+- relationships
+- personalfinance
+- MakeupAddiction
+- bestof
+- badwomensanatomy
+---

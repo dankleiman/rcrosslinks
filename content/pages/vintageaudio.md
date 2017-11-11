@@ -1,0 +1,24 @@
+---
+title: vintageaudio
+crosslinks:
+- vinyl
+- cassetteculture
+- u_imguralbumbot
+- audiophile
+- audiorepair
+- ThriftStoreHauls
+- me_irl
+- youtubefactsbot
+- youtubot
+- HuntsvilleAlabama
+- shittygamecollecting
+- DiWHY
+- VintageRadios
+- GearS3
+- denverlist
+- anti_gif_bot
+- botwatch
+- diysound
+- powerwashingporn
+- madisonwi
+---

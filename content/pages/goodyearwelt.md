@@ -1,0 +1,24 @@
+---
+title: goodyearwelt
+crosslinks:
+- malefashionadvice
+- frugalmalefashion
+- youtubefactsbot
+- Sneakers
+- Watches
+- Leathercraft
+- help
+- gifs
+- TheWayWeWere
+- starterpacks
+- a
+- metric_units
+- FashionReps
+- '2014'
+- EatCheapAndHealthy
+- IAmA
+- AskMen
+- autourbanbot
+- GCXRep
+- ImagesOfScotland
+---

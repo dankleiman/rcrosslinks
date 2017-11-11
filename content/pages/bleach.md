@@ -1,0 +1,24 @@
+---
+title: bleach
+crosslinks:
+- youtubefactsbot
+- youtubot
+- BleachBraveSouls
+- u_imguralbumbot
+- manga
+- whowouldwin
+- CharacterRant
+- alotabot
+- Naruto
+- livven
+- Renji
+- Gintama
+- translator
+- AnimeFigures
+- SquaredCircle
+- fatestaynight
+- MassdropBot
+- SubAutoCorrectBot
+- OtakuVisualArts
+- john_yukis_bots
+---

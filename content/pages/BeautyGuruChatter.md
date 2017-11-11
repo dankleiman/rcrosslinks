@@ -1,0 +1,24 @@
+---
+title: BeautyGuruChatter
+crosslinks:
+- MakeupAddiction
+- youtubefactsbot
+- muacjdiscussion
+- BGCCircleJerk
+- tmsbmeta
+- AsianBeauty
+- SubredditDrama
+- BeautyGuruChat
+- makeupexchange
+- muacirclejerk
+- OutOfTheLoop
+- MakeupRehab
+- SkincareAddiction
+- OliveMUA
+- rupaulsdragrace
+- Indiemakeupandmore
+- PaleMUA
+- BeautyIndustryChatter
+- 1z2othi
+- alotabot
+---

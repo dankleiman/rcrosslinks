@@ -1,0 +1,24 @@
+---
+title: French
+crosslinks:
+- youtubefactsbot
+- france
+- languagelearning
+- Quebec
+- youtubot
+- badlinguistics
+- rance
+- FrancaisCanadien
+- AskReddit
+- EcouteCa
+- Lyon
+- TESOL
+- VietNam
+- MassdropBot
+- botsrights
+- Spanish
+- offbeat
+- Grenoble
+- language_exchange
+- frenchhelp
+---

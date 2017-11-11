@@ -1,0 +1,24 @@
+---
+title: hockeyjerseys
+crosslinks:
+- u_imguralbumbot
+- hockey
+- hockeyjerseysfs
+- SanJoseSharks
+- wildhockey
+- Flyers
+- youtubot
+- SubredditDrama
+- penguins
+- movies
+- NewYorkIslanders
+- ColoradoAvalanche
+- BlueJackets
+- rangers
+- devils
+- AMAAggregator
+- baseball
+- 24v7ls4
+- fountainpens
+- sabres
+---

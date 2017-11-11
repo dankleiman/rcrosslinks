@@ -1,0 +1,24 @@
+---
+title: GunsAreCool
+crosslinks:
+- autotldr
+- shitguncontrollerssay
+- NotSouthPark
+- youtubefactsbot
+- ShitPoliticsSays
+- Alec
+- u_imguralbumbot
+- GunOops
+- ShitAmericansSay
+- news
+- Shitstatistssay
+- autourbanbot
+- dgu
+- CasesForGunControl
+- mallninja
+- metric_units
+- TwinCities_MN
+- altnewz
+- worldnews
+- quityourbullshit
+---

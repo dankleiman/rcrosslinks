@@ -1,0 +1,24 @@
+---
+title: PrimeiraLiga
+crosslinks:
+- soccer
+- youtubefactsbot
+- SportingCP
+- portugal
+- benfica
+- youtubot
+- soccerstreams
+- footballdownload
+- u_imguralbumbot
+- Hammers
+- john_yukis_bots
+- livven
+- psg
+- KendrickLamar
+- PORTUGALCARALHO
+- fcporto
+- borussiadortmund
+- eu_nvr
+- Eder
+- vergonhaalheira
+---

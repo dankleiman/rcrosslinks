@@ -1,0 +1,24 @@
+---
+title: photoshopbattles
+crosslinks:
+- cutouts
+- pics
+- aww
+- PerfectTiming
+- funny
+- mildlyinteresting
+- gildedbot
+- DrWankabot
+- OldSchoolCool
+- tmsbmeta
+- AskReddit
+- bestof
+- SubredditSimulator
+- AccidentalRenaissance
+- WTF
+- gifs
+- natureismetal
+- Art
+- bettafish
+- battleshops
+---

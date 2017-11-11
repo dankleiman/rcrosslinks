@@ -1,0 +1,24 @@
+---
+title: IncelReddit
+crosslinks:
+- Incels
+- IncelTears
+- ForeverAlone
+- normie_tears
+- justneckbeardthings
+- MGTOW
+- hapas
+- youtubot
+- MassdropBot
+- IncelsWithHate
+- iamverysmart
+- Truecels
+- AMAAggregator
+- rapecounseling
+- youtubefactsbot
+- GenderCritical
+- iamverybadass
+- todayilearned
+- SluttyConfessions
+- john_yukis_bots
+---

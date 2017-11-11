@@ -1,0 +1,24 @@
+---
+title: Psychedelics
+crosslinks:
+- LSD
+- youtubefactsbot
+- Drugs
+- mycology
+- youtubot
+- druggardening
+- place
+- glitch_art
+- IsAnybodyHere
+- alotabot
+- shrooms
+- autotldr
+- TheseFuckingAccounts
+- u_imguralbumbot
+- ChanceTheRapper
+- RCSources
+- Psychedelic
+- DrugNerds
+- AskReddit
+- Triggered
+---

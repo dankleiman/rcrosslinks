@@ -1,0 +1,24 @@
+---
+title: Brewers
+crosslinks:
+- baseball
+- youtubefactsbot
+- tmsbmeta
+- u_imguralbumbot
+- CHICubs
+- MassdropBot
+- nfl
+- livven
+- '2013'
+- Nationals
+- gifs
+- Braves
+- Dodgers
+- reddit_stream
+- milwaukee
+- xkcd
+- place
+- KBO
+- hockey
+- NegativeWithGold
+---

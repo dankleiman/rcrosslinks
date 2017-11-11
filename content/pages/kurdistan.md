@@ -1,0 +1,24 @@
+---
+title: kurdistan
+crosslinks:
+- syriancivilwar
+- autotldr
+- Turkey
+- youtubefactsbot
+- iran
+- Assyria
+- rojava
+- worldnews
+- MassdropBot
+- youtubot
+- armenia
+- place
+- TheFarLeftSide
+- Judaism
+- politics
+- musicofneareast
+- MapPorn
+- polandball
+- KotakuInAction
+- PeaceToEndAllPeace
+---

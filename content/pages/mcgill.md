@@ -1,0 +1,24 @@
+---
+title: mcgill
+crosslinks:
+- youtubefactsbot
+- montreal
+- WholesomeMcGill
+- john_yukis_bots
+- place
+- Concordia
+- DetroitRedWings
+- CLG
+- youtubot
+- dailyprogrammer
+- dataisbeautiful
+- Serendipity
+- UofT
+- xkcd
+- u_imguralbumbot
+- DataHoarder
+- slavs_squatting
+- livven
+- tifu
+- ShitRedditSays
+---

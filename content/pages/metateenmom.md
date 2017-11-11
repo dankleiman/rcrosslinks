@@ -1,0 +1,24 @@
+---
+title: metateenmom
+crosslinks:
+- teenmom
+- shittyteenmom
+- trashy
+- IAmA
+- TeenMomCentral
+- TMS
+- karmacourt
+- announcements
+- BravoRealHousewives
+- RedditMuseumOfFilth
+- aww
+- MTVTeenMom
+- teenmoms
+- The_Donald
+- '2012'
+- drama
+- youtubefactsbot
+- Drama
+- GetMotivated
+- AskReddit
+---

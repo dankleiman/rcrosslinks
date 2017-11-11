@@ -1,0 +1,24 @@
+---
+title: buildapcsales
+crosslinks:
+- hardwareswap
+- Amd
+- youtubefactsbot
+- Monitors
+- buildapc
+- ultrawidemasterrace
+- pcmasterrace
+- MechanicalKeyboards
+- u_imguralbumbot
+- youtubot
+- headphones
+- DataHoarder
+- sffpc
+- MassdropBot
+- hardware
+- BuildAPCSalesMeta
+- nvidia
+- NZXT
+- MouseReview
+- oculus
+---

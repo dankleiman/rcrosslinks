@@ -1,0 +1,24 @@
+---
+title: Schizoid
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Nootropics
+- SchizoidDating
+- depression
+- MaladaptiveDreaming
+- aspergers
+- schizophrenia
+- autourbanbot
+- guro
+- SanctionedSuicide
+- TheRedPill
+- aspergirls
+- watchpeopledie
+- learnprogramming
+- Ayahuasca
+- ForeverAlone
+- misanthropy
+- trees
+- Marriage
+---

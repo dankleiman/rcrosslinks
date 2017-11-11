@@ -1,0 +1,24 @@
+---
+title: GCSE
+crosslinks:
+- 6thForm
+- youtubefactsbot
+- tmsbmeta
+- anti_gif_bot
+- youtubot
+- livven
+- MassdropBot
+- teenagers
+- alotabot
+- summonerschool
+- me_irl
+- AMAAggregator
+- fountainpens
+- kpop
+- GCSEgaming
+- u_imguralbumbot
+- pics
+- madlads
+- GCSEMath
+- ToiletThoughts
+---

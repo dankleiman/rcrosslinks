@@ -1,0 +1,24 @@
+---
+title: fivenightsatfreddys
+crosslinks:
+- u_imguralbumbot
+- anti_gif_bot
+- youtubot
+- livven
+- 5nafcirclejerk
+- scottgames
+- FuntimeFoxyShrine
+- place
+- funkopop
+- AftonRoboticsInc
+- fnafcringe
+- Kirby
+- alotabot
+- john_yukis_bots
+- homestuck
+- BonnieReligion
+- technicalFNaF
+- autourbanbot
+- toyfreddy
+- tf2
+---

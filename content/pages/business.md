@@ -1,0 +1,24 @@
+---
+title: business
+crosslinks:
+- zeronet
+- worldpolitics
+- youtubot
+- technology
+- The_Donald
+- Missing411
+- bestof
+- Stock_Picks
+- xkcd
+- LateStageCapitalism
+- Economics
+- metacanada
+- wallstreetbets
+- Entrepreneur
+- personalfinance
+- OutOfTheLoop
+- jobs
+- autourbanbot
+- news
+- HailCorporate
+---

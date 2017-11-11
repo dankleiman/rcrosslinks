@@ -1,0 +1,24 @@
+---
+title: amiugly
+crosslinks:
+- youtubefactsbot
+- malefashionadvice
+- malehairadvice
+- nohomo_bot
+- SkincareAddiction
+- Incels
+- Fitness
+- AmISexy
+- Rateme
+- femalefashionadvice
+- tmsbmeta
+- youtubot
+- alotabot
+- RoastMe
+- rateme
+- autourbanbot
+- gainit
+- TeenAmIUgly
+- uglyduckling
+- MakeupAddiction
+---

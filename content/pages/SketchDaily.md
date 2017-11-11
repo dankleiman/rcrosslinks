@@ -1,0 +1,24 @@
+---
+title: SketchDaily
+crosslinks:
+- u_imguralbumbot
+- AccidentalWesAnderson
+- redditgetsdrawn
+- Blep
+- ArtFundamentals
+- ICanDrawThat
+- DrawForMe
+- youtubot
+- food
+- worldbuilding
+- dwarffortress
+- tmsbmeta
+- Preimpression
+- birdswitharms
+- AbandonedPorn
+- aww
+- ArtistLounge
+- watercolor101
+- furry_irl
+- Watercolor
+---

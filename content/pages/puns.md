@@ -1,0 +1,24 @@
+---
+title: puns
+crosslinks:
+- youtubefactsbot
+- Jokes
+- youtubot
+- u_imguralbumbot
+- funny
+- WorstPuns
+- xkcd
+- pcmasterrace
+- anti_gif_bot
+- Minecraft
+- pics
+- dadjokes
+- tmsbmeta
+- blender
+- reactiongifs
+- Punny
+- john_yukis_bots
+- livven
+- ShittyAnimalFacts
+- AskHistorians
+---

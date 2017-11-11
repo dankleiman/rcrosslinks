@@ -1,0 +1,24 @@
+---
+title: Borderlands2
+crosslinks:
+- Borderlands
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- anti_gif_bot
+- PandoranRedCross
+- livven
+- BorderlandsPreSequel
+- MassdropBot
+- Diablofunny
+- tmsbmeta
+- coopplay
+- john_yukis_bots
+- pcmasterrace
+- buildapc
+- alotabot
+- Justrolledintotheshop
+- moxxigonewild
+- SuicideWatch
+- PCMasterRace
+---

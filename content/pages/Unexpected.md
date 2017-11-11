@@ -1,0 +1,24 @@
+---
+title: Unexpected
+crosslinks:
+- livven
+- youtubefactsbot
+- gifs
+- xkcd
+- funny
+- AskReddit
+- botwatch
+- tmsbmeta
+- WTF
+- u_imguralbumbot
+- videos
+- nocontext
+- pics
+- OutOfTheLoop
+- IAmA
+- autourbanbot
+- gaming
+- reallifedoodles
+- shitpost
+- HailCorporate
+---

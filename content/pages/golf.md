@@ -1,0 +1,24 @@
+---
+title: golf
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- youtubot
+- anti_gif_bot
+- john_yukis_bots
+- golfclassifieds
+- PuttStreams
+- wheretoplaygolf
+- autourbanbot
+- USOPEN2017a
+- AMAAggregator
+- MassdropBot
+- metric_units
+- golfgearswap
+- tmsbmeta
+- unexpectedfactorial
+- ProGolf
+- nongolfers
+- nevertellmetheodds
+---

@@ -1,0 +1,24 @@
+---
+title: needadvice
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- getdisciplined
+- findareddit
+- Advice
+- u_imguralbumbot
+- gamedev
+- stopdrinking
+- legaladvice
+- youtubot
+- HeavyPlantOperators
+- Showerthoughts
+- Drama
+- shareastory
+- HVAC
+- Spanish
+- gainit
+- autourbanbot
+- collectables
+- IAmA
+---

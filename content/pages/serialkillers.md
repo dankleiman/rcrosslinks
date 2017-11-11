@@ -1,0 +1,24 @@
+---
+title: serialkillers
+crosslinks:
+- youtubefactsbot
+- UnresolvedMysteries
+- autotldr
+- CrimeScene
+- EARONS
+- u_imguralbumbot
+- LPOTL
+- iamverybadass
+- IAmA
+- truecrimereview
+- OldSchoolCool
+- LetsNotMeet
+- philadelphia
+- AskReddit
+- conspiracy
+- youtubot
+- RBI
+- allkillers
+- sociopath
+- creepy
+---

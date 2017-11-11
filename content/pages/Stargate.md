@@ -1,0 +1,24 @@
+---
+title: Stargate
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- livven
+- IAmA
+- place
+- startrek
+- anti_gif_bot
+- tmsbmeta
+- botwatch
+- DarkMatter
+- gifs
+- xkcd
+- StargateGifs
+- television
+- autotldr
+- alotabot
+- pics
+- announcements
+- farscape
+---

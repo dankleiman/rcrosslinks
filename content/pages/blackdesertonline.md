@@ -1,0 +1,24 @@
+---
+title: blackdesertonline
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- livven
+- anti_gif_bot
+- BDOGuilds
+- john_yukis_bots
+- MMORPG
+- tmsbmeta
+- alotabot
+- autourbanbot
+- DFO
+- gaming
+- REEEEEEEEEE
+- Guildwars2
+- Eve
+- PUBATTLEGROUNDS
+- buildapc
+- Summit1G
+- Amd
+- '2013'
+---

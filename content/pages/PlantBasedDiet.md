@@ -1,0 +1,24 @@
+---
+title: PlantBasedDiet
+crosslinks:
+- vegan
+- youtubot
+- todayilearned
+- youtubefactsbot
+- veganfitness
+- autotldr
+- ketoscience
+- vegancirclejerk
+- science
+- nutrition
+- IAmA
+- veganrecipes
+- GifRecipes
+- ZeroWaste
+- Suomi
+- AskHistorians
+- VegRecipes
+- MimicRecipes
+- 1200isplenty
+- VeganChill
+---

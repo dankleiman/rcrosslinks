@@ -1,0 +1,24 @@
+---
+title: bulletjournal
+crosslinks:
+- youtubefactsbot
+- bujo
+- fountainpens
+- ADHD
+- notebooks
+- MassdropBot
+- EDC
+- sailormoon
+- teaching
+- RATS
+- u_imguralbumbot
+- trees
+- OneNote
+- youtubot
+- Etsy
+- productivity
+- shorthand
+- freelance
+- modhelp
+- MealPrepSunday
+---

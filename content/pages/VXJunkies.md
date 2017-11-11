@@ -1,0 +1,24 @@
+---
+title: VXJunkies
+crosslinks:
+- MassdropBot
+- livven
+- xkcd
+- mechanical_gifs
+- u_imguralbumbot
+- gatekeeping
+- RetroVXJunkies
+- musictheory
+- '195'
+- youtubot
+- dadjokes
+- math
+- arXiv_Plus
+- whatisthisthing
+- badlinguistics
+- '2013'
+- FPGA
+- pics
+- OSHA
+- Drama
+---

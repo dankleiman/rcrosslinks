@@ -1,0 +1,24 @@
+---
+title: DumpsterDiving
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- autourbanbot
+- preppers
+- Frugal
+- politics
+- bestof
+- botpopularitybot
+- sugar
+- HadToHurt
+- worldnews
+- REEEEEEEEEE
+- firewater
+- electricians
+- pics
+- ZeroWaste
+- ireland
+- japanlife
+- FreeSpeech
+- alexa
+---

@@ -1,0 +1,24 @@
+---
+title: rantgrumps
+crosslinks:
+- gamegrumps
+- youtubefactsbot
+- youtubot
+- PolyGrumps
+- ConspiracyGrumps
+- VentGrumps
+- autourbanbot
+- OneyPlays
+- JonTron
+- Drama
+- gatekeeping
+- fireemblem
+- badphilosophy
+- u_imguralbumbot
+- HPMOR
+- SuperGamingBros
+- circlebroke2
+- todayilearned
+- ShitAmericansSay
+- classicgrumps
+---

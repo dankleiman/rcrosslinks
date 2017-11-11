@@ -1,0 +1,24 @@
+---
+title: Wellthatsucks
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- youtubot
+- tmsbmeta
+- WhyWereTheyFilming
+- gifs
+- xkcd
+- u_imguralbumbot
+- killthecameraman
+- botwatch
+- Whatcouldgowrong
+- funny
+- Unexpected
+- noisygifs
+- pics
+- iamverybadass
+- therewasanattempt
+- BetterEveryLoop
+- autourbanbot
+---

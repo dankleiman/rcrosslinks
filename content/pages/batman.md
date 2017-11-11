@@ -1,0 +1,24 @@
+---
+title: batman
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- batmangifs
+- autotldr
+- lego
+- comicbooks
+- livven
+- DCcomics
+- movies
+- DC_Cinematic
+- pics
+- botwatch
+- funkopop
+- funny
+- AskReddit
+- BatmanTest
+- BatmanArkham
+- MovieDetails
+- evangelion
+- buzz_lightyear
+---

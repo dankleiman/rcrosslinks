@@ -1,0 +1,24 @@
+---
+title: bisexual
+crosslinks:
+- youtubefactsbot
+- actuallesbians
+- lgbt
+- youtubot
+- bisexualcirclejerk
+- polyamory
+- livven
+- u_imguralbumbot
+- tmsbmeta
+- anti_gif_bot
+- askgaybros
+- RoleReversal
+- autourbanbot
+- AskReddit
+- OkCupid
+- crossdressing
+- BiMeetup
+- place
+- trollbi
+- asktransgender
+---

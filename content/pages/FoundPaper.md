@@ -1,0 +1,24 @@
+---
+title: FoundPaper
+crosslinks:
+- youtubefactsbot
+- translator
+- u_imguralbumbot
+- WTF
+- tmsbmeta
+- youtubot
+- john_yukis_bots
+- funny
+- keming
+- legaladvice
+- pepe
+- fakealbumcovers
+- RedditWritesSeinfeld
+- RBI
+- Genealogy
+- finlandConspiracy
+- mildlyinteresting
+- shittymagicscrolls
+- preppers
+- MandelaEffect
+---

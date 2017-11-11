@@ -1,0 +1,24 @@
+---
+title: askdrugs
+crosslinks:
+- Drugs
+- CBD
+- Stims
+- AskDocs
+- researchchemicals
+- youtubefactsbot
+- DrugNerds
+- DarkNetMarkets
+- LSD
+- ReagentTesting
+- explainlikeimfive
+- ketamine
+- GrammarNazis
+- me_irl
+- kratom
+- nootropics
+- DNMUK
+- MDMA
+- REDDITORSINRECOVERY
+- Nootropics
+---

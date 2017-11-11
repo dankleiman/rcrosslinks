@@ -1,0 +1,24 @@
+---
+title: archlinux
+crosslinks:
+- linux
+- unixporn
+- xkcd
+- u_imguralbumbot
+- youtubefactsbot
+- antergos
+- VFIO
+- thinkpad
+- linuxmasterrace
+- ManjaroLinux
+- gnome
+- kde
+- linux4noobs
+- linuxquestions
+- linux_gaming
+- Dell
+- MassdropBot
+- ApricityOS
+- zeronet
+- botsrights
+---

@@ -1,0 +1,24 @@
+---
+title: firefly
+crosslinks:
+- youtubefactsbot
+- xkcd
+- livven
+- FanTheories
+- anti_gif_bot
+- FireflyGifs
+- autourbanbot
+- MassdropBot
+- IAmA
+- photoshopbattles
+- DIY
+- Stargate
+- botwatch
+- falloutshelter
+- autotldr
+- ShitRedditSays
+- masochist
+- dvdcollection
+- redditgetsdrawn
+- GirlsMirin
+---

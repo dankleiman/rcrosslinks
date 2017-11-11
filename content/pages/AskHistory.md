@@ -1,0 +1,24 @@
+---
+title: AskHistory
+crosslinks:
+- AskHistorians
+- HistoryWhatIf
+- history
+- youtubefactsbot
+- youtubot
+- SargonofAkkad
+- politics
+- books
+- ix8do3
+- translator
+- historyteachers
+- greece
+- badhistory
+- todayilearned
+- UFOs
+- tinyhouse
+- xkcd
+- OutOfTheLoop
+- CombatFootage
+- AskLegal
+---

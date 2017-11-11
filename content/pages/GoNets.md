@@ -1,0 +1,24 @@
+---
+title: GoNets
+crosslinks:
+- nba
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- anti_gif_bot
+- lakers
+- livven
+- tmsbmeta
+- MassdropBot
+- kings
+- JLin7
+- sixers
+- bleach
+- wholesomebpt
+- nbastreams
+- The_Donald
+- clevelandcavs
+- autotldr
+- warriors
+- Serendipity
+---

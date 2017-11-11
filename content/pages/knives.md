@@ -1,0 +1,24 @@
+---
+title: knives
+crosslinks:
+- youtubefactsbot
+- MassdropBot
+- knifeclub
+- balisong
+- EDC
+- anti_gif_bot
+- youtubot
+- Knife_Swap
+- knifecringe
+- Bladesmith
+- livven
+- KnifeDeals
+- knifemaking
+- Blades
+- chefknives
+- Ultralight
+- SubredditDrama
+- blacksmithing
+- CustomKnifeMakers
+- OldSchoolCool
+---

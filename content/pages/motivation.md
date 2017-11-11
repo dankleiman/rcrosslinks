@@ -1,0 +1,24 @@
+---
+title: motivation
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- GetMotivated
+- pics
+- BoundlessPotential
+- autotldr
+- Anger
+- ShrugLifeSyndicate
+- nicealpha
+- funny
+- MassdropBot
+- ForeverAlone
+- loseit
+- Fitness
+- DecidingToBeBetter
+- getdisciplined
+- videos
+- titlegore
+- Serendipity
+---

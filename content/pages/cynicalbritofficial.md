@@ -1,0 +1,24 @@
+---
+title: cynicalbritofficial
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Cynicalbrit
+- Games
+- patientgamers
+- Xcom
+- xkcd
+- JimSterling
+- IAmA
+- pcmasterrace
+- GameDealsMeta
+- roguelikes
+- SubredditDrama
+- WorldofTanks
+- PrettyGirls
+- GamerGhazi
+- KotakuInAction
+- aww
+- tmsbmeta
+- starcraft
+---

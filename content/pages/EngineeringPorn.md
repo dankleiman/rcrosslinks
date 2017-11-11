@@ -1,0 +1,24 @@
+---
+title: EngineeringPorn
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- anti_gif_bot
+- mechanical_gifs
+- interestingasfuck
+- engineering
+- gifs
+- videos
+- botwatch
+- autotldr
+- Skookum
+- autourbanbot
+- tmsbmeta
+- oddlysatisfying
+- formula1
+- SweatyPalms
+- spacex
+- Machinists
+- VXJunkies
+---

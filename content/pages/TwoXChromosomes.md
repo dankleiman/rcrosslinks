@@ -1,0 +1,24 @@
+---
+title: TwoXChromosomes
+crosslinks:
+- youtubefactsbot
+- raisedbynarcissists
+- legaladvice
+- AskReddit
+- childfree
+- personalfinance
+- Assistance
+- OutOfTheLoop
+- news
+- IAmA
+- AskWomen
+- BabyBumps
+- asktransgender
+- explainlikeimfive
+- clothpads
+- birthcontrol
+- sex
+- help
+- Endo
+- dataisbeautiful
+---

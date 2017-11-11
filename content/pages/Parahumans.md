@@ -1,0 +1,24 @@
+---
+title: Parahumans
+crosslinks:
+- whowouldwin
+- youtubefactsbot
+- WormFanfic
+- rational
+- straya
+- youtubot
+- FutharkGenerator
+- livven
+- Weaverdice
+- u_imguralbumbot
+- place
+- ParahumansPlace
+- AskScienceFiction
+- WormMemes
+- MassdropBot
+- WritingPrompts
+- Fantasy
+- respectthreads
+- writing
+- HPMOR
+---

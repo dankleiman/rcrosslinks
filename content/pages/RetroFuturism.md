@@ -1,0 +1,24 @@
+---
+title: RetroFuturism
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Atompunk
+- Physics
+- u_imguralbumbot
+- xkcd
+- OldSchoolCool
+- FULLCOMMUNISM
+- WeirdWheels
+- evilbuildings
+- SovietHistory
+- roguelikes
+- Serendipity
+- ImaginaryTechnology
+- futureporn
+- thewholecar
+- WhereIsMyFlyingCar
+- john_yukis_bots
+- nocontext
+- classiccars
+---

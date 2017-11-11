@@ -1,0 +1,24 @@
+---
+title: BakaNewsJP
+crosslinks:
+- gifs
+- aww
+- WTF
+- Unexpected
+- interestingasfuck
+- livven
+- AnimalsBeingJerks
+- youtubefactsbot
+- StartledCats
+- ANormalDayInRussia
+- gaming
+- hmmm
+- nonononoyes
+- Eyebleach
+- instant_regret
+- ExpectationVsReality
+- nononono
+- woahdude
+- holdmybeer
+- likeus
+---

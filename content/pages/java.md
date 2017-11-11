@@ -1,0 +1,24 @@
+---
+title: java
+crosslinks:
+- programming
+- learnprogramming
+- javahelp
+- Kotlin
+- learnjava
+- youtubefactsbot
+- youtubot
+- scala
+- cscareerquestions
+- unexpectedfactorial
+- dailyprogrammer
+- ProgrammerHumor
+- botpopularitybot
+- AskProgramming
+- causeWhyNotMate
+- Serendipity
+- GoogleDrive
+- shittyprogramming
+- golang
+- node
+---

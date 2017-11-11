@@ -1,0 +1,24 @@
+---
+title: thatHappened
+crosslinks:
+- nothingeverhappens
+- AskReddit
+- autourbanbot
+- nocontext
+- funny
+- u_imguralbumbot
+- xkcd
+- OutOfTheLoop
+- youtubefactsbot
+- insanepeoplefacebook
+- causeWhyNotMate
+- iamverysmart
+- holdmybeer
+- tifu
+- pics
+- lgbt
+- quityourbullshit
+- woooosh
+- iamverybadass
+- bestof
+---

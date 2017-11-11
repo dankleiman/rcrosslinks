@@ -1,0 +1,24 @@
+---
+title: PennStateUniversity
+crosslinks:
+- place
+- cscareerquestions
+- Pitt
+- autotldr
+- CHIBears
+- CFB
+- citizenjournalism
+- youtubefactsbot
+- TheRedPill
+- nittanyfootball
+- AMAAggregator
+- xkcd
+- changemyview
+- WeArePennState
+- UPenn
+- AgainstHateSubreddits
+- tmsbmeta
+- GaState
+- giantbomb
+- IUP
+---

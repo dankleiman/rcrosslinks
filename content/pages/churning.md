@@ -1,0 +1,24 @@
+---
+title: churning
+crosslinks:
+- awardtravel
+- shittychurning
+- personalfinance
+- u_imguralbumbot
+- youtubefactsbot
+- AskReddit
+- churningcanada
+- autotldr
+- wallstreetbets
+- ChurningATL
+- CreditCards
+- tmsbmeta
+- bankbonuses
+- hardcorechurning
+- john_yukis_bots
+- videos
+- explainlikeimfive
+- Frugal
+- LifeProTips
+- todayilearned
+---

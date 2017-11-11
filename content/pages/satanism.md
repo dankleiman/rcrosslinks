@@ -1,0 +1,24 @@
+---
+title: satanism
+crosslinks:
+- youtubefactsbot
+- youtubot
+- religion
+- occult
+- Christianity
+- news
+- TMBR
+- MassdropBot
+- pics
+- OrderOfPhronesis
+- u_imguralbumbot
+- EsotericOccult
+- autourbanbot
+- iamverysmart
+- IAmA
+- exmuslim
+- reactiongifs
+- commonfilth
+- AMAAggregator
+- AverageRetardRedditor
+---

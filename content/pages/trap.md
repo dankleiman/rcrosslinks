@@ -1,0 +1,24 @@
+---
+title: trap
+crosslinks:
+- youtubefactsbot
+- youtubot
+- xTrill
+- electronicmusic
+- trapmuzik
+- wavepool
+- EDM
+- dubstep
+- hiphopheads
+- trapproduction
+- Music
+- MassdropBot
+- tmsbmeta
+- Odesza
+- john_yukis_bots
+- AMAAggregator
+- u_imguralbumbot
+- traps
+- futurebeats
+- skrillex
+---

@@ -1,0 +1,24 @@
+---
+title: nin
+crosslinks:
+- nincirclejerk
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- nin_arg
+- vinyl
+- radiohead
+- john_yukis_bots
+- IAmA
+- The_Donald
+- lewronggeneration
+- codes
+- livven
+- place
+- LimpBizkit
+- audioengineering
+- metric_units
+- ccKufiPrFaShleWoli0
+- qotsa
+- htda
+---

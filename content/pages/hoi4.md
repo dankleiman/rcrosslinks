@@ -1,0 +1,24 @@
+---
+title: hoi4
+crosslinks:
+- u_imguralbumbot
+- paradoxplaza
+- youtubefactsbot
+- hoi4modding
+- AskHistorians
+- youtubot
+- Kaiserreich
+- ShitWehraboosSay
+- unexpectedsabaton
+- vexillology
+- livven
+- eu4
+- HOI4Mods
+- xkcd
+- alotabot
+- AskReddit
+- john_yukis_bots
+- MassdropBot
+- polandball
+- CrusaderKings
+---

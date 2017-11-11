@@ -1,0 +1,24 @@
+---
+title: MechanicAdvice
+crosslinks:
+- youtubot
+- u_imguralbumbot
+- Justrolledintotheshop
+- Cartalk
+- subaru
+- Trucks
+- CarAV
+- AutoDetailing
+- AskMechanics
+- Diesel
+- saab
+- RIAutoEnthusiasts
+- BMW
+- bestof
+- askscience
+- AskReddit
+- cars
+- autourbanbot
+- alotabot
+- jetta
+---

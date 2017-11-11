@@ -1,0 +1,24 @@
+---
+title: AskNetsec
+crosslinks:
+- netsec
+- xkcd
+- sysadmin
+- youtubefactsbot
+- netsecstudents
+- homelab
+- techsupport
+- HowToHack
+- privacy
+- ITCareerQuestions
+- VPN
+- security
+- securityCTF
+- msp
+- computerforensics
+- p
+- blackhat
+- cybersecurity
+- SecurityClearance
+- theperfectcrime
+---

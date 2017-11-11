@@ -1,0 +1,24 @@
+---
+title: weightlifting
+crosslinks:
+- youtubefactsbot
+- weightroom
+- powerlifting
+- youtubot
+- homegym
+- crossfit
+- Fitness
+- john_yukis_bots
+- tmsbmeta
+- o
+- bodybuilding
+- autourbanbot
+- videos
+- anti_gif_bot
+- livven
+- worldnews
+- metric_units
+- MassdropBot
+- flexibility
+- iamverybadass
+---

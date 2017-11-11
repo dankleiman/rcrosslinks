@@ -1,0 +1,24 @@
+---
+title: malegrooming
+crosslinks:
+- malehairadvice
+- youtubefactsbot
+- wicked_edge
+- u_imguralbumbot
+- beards
+- MassdropBot
+- curlyhair
+- AsianMasculinity
+- korea
+- youtubot
+- Shave_Bazaar
+- Moustache
+- malefashionadvice
+- getdisciplined
+- FierceFlow
+- bald
+- tifu
+- Justfuckmyshitup
+- DIYBeauty
+- tressless
+---

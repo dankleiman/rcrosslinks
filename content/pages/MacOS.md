@@ -1,0 +1,24 @@
+---
+title: MacOS
+crosslinks:
+- apple
+- osx
+- youtubot
+- hackintosh
+- OSXTweaks
+- applehelp
+- mac
+- iOSBeta
+- techsupport
+- privacy
+- autourbanbot
+- netsec
+- literally
+- programmingrequests
+- bootcamp
+- u_imguralbumbot
+- VLC
+- self
+- cracking_scene
+- GIMP
+---

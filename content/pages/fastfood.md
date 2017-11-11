@@ -1,0 +1,24 @@
+---
+title: fastfood
+crosslinks:
+- McDonalds
+- tacobell
+- Infographics
+- HailCorporate
+- thatHappened
+- NoStupidQuestions
+- food
+- cheeseburgers
+- Chipotle
+- gifs
+- junkfood
+- savedyouaclick
+- ExpectationVsReality
+- Caniacs
+- OutOfTheLoop
+- DeFranco
+- IAmA
+- AskReddit
+- keto
+- glutenfree
+---

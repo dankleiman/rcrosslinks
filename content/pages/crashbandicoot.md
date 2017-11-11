@@ -1,0 +1,24 @@
+---
+title: crashbandicoot
+crosslinks:
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- livven
+- IAmA
+- tmsbmeta
+- PS4
+- InitialDvideos
+- alotabot
+- lewronggeneration
+- john_yukis_bots
+- OneyPlays
+- MassdropBot
+- osugame
+- JonTron
+- TRADE
+- legaladvice
+- ps4homebrew
+- oddlysatisfying
+---

@@ -1,0 +1,24 @@
+---
+title: IdleHeroes
+crosslinks:
+- IdleHeroesPS
+- u_imguralbumbot
+- youtubefactsbot
+- autourbanbot
+- me_irl
+- tmsbmeta
+- Kings_Raid
+- killthosewhodisagree
+- AndroidGaming
+- summonerswar
+- alotabot
+- causeWhyNotMate
+- FFRecordKeeper
+- raerth
+- 2d9s1n7
+- magicrush
+- youtubot
+- Overwatch
+- TwoXChromosomes
+- 2ivn05z
+---

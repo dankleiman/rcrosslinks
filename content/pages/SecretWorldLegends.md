@@ -1,0 +1,24 @@
+---
+title: SecretWorldLegends
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- TheSecretWorld
+- SWLCabals
+- livven
+- MMORPG
+- IAmA
+- tmsbmeta
+- anti_gif_bot
+- Warframe
+- autourbanbot
+- themes
+- alotabot
+- xkcd
+- Smite
+- john_yukis_bots
+- autotldr
+- gatekeeping
+- slavs_squatting
+---

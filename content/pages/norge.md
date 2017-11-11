@@ -1,0 +1,24 @@
+---
+title: norge
+crosslinks:
+- DataspillereNorge
+- autourbanbot
+- xkcd
+- sweden
+- MassdropBot
+- livven
+- Denmark
+- IAmA
+- AskReddit
+- The_Donald
+- Venstresiden
+- ruspolitikk
+- samharris
+- askphilosophy
+- Norway
+- dataisbeautiful
+- videos
+- youtubot
+- AskHistorians
+- SubredditDrama
+---

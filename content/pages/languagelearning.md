@@ -1,0 +1,24 @@
+---
+title: languagelearning
+crosslinks:
+- youtubefactsbot
+- LearnJapanese
+- youtubot
+- linguistics
+- translator
+- badlinguistics
+- Korean
+- russian
+- languages
+- French
+- German
+- duolingo
+- Portuguese
+- language_exchange
+- autotldr
+- translatorBOT
+- learnwelsh
+- gaeilge
+- ChineseLanguage
+- Spanish
+---

@@ -1,0 +1,24 @@
+---
+title: askscience
+crosslinks:
+- HomeworkHelp
+- Physics
+- space
+- AskScienceDiscussion
+- science
+- AskPhysics
+- todayilearned
+- sciencefaqs
+- math
+- AskHistorians
+- explainlikeimfive
+- AskReddit
+- whatsthisbug
+- geology
+- IAmA
+- biology
+- conspiracy
+- HandsOnComplexity
+- mildlyinteresting
+- Biochemistry
+---

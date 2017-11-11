@@ -1,0 +1,24 @@
+---
+title: badscience
+crosslinks:
+- Creation
+- DebateEvolution
+- Futurology
+- conspiracy
+- Electromagnetics
+- funny
+- AskAnthropology
+- worldnews
+- pics
+- TargetedEnergyWeapons
+- tmsbmeta
+- xkcd
+- news
+- samharris
+- TopMindsOfReddit
+- youtubefactsbot
+- IAmA
+- Bitcoin
+- bestoflegaladvice
+- askscience
+---

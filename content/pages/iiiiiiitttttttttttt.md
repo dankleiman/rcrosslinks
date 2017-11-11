@@ -1,0 +1,24 @@
+---
+title: iiiiiiitttttttttttt
+crosslinks:
+- youtubefactsbot
+- xkcd
+- talesfromtechsupport
+- u_imguralbumbot
+- livven
+- cableporn
+- anti_gif_bot
+- MaliciousCompliance
+- pcmasterrace
+- techsupportmacgyver
+- Pareidolia
+- NotMyJob
+- funny
+- comics
+- apple
+- bestof
+- holdmyredbull
+- ProgrammerHumor
+- WordAvalanches
+- softwaretrolling
+---

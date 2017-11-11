@@ -1,0 +1,24 @@
+---
+title: PS3
+crosslinks:
+- youtubefactsbot
+- ps3hacks
+- patientgamers
+- Gamingcirclejerk
+- ps3homebrew
+- uncharted
+- ps2
+- vita
+- Serendipity
+- youtubot
+- xkcd
+- darksouls3
+- demonssouls
+- DragonsDogma
+- Piracy
+- warhawk
+- PlayStationPlus
+- nier
+- SteamController
+- Cd_collectors
+---

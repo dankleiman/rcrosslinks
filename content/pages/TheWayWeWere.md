@@ -1,0 +1,24 @@
+---
+title: TheWayWeWere
+crosslinks:
+- youtubefactsbot
+- OldSchoolCool
+- u_imguralbumbot
+- WorkCrews
+- VintageMenus
+- youtubot
+- lewronggeneration
+- fakealbumcovers
+- pics
+- titlegore
+- tmsbmeta
+- UnexpectedMulaney
+- human
+- HumanPorn
+- exjw
+- AskMen
+- curlyhair
+- fakehistoryporn
+- livven
+- dankchristianmemes
+---

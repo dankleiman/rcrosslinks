@@ -1,0 +1,24 @@
+---
+title: dotnet
+crosslinks:
+- csharp
+- programming
+- youtubefactsbot
+- microsoft
+- DevConferences
+- livven
+- KotakuInAction
+- fsharp
+- programmingtools
+- techsupport
+- css
+- Serendipity
+- schizophrenia
+- dotnetjobs
+- programmingcirclejerk
+- ProgrammerHumor
+- AZURE
+- netsec
+- nativescript
+- spam
+---

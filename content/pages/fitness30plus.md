@@ -1,0 +1,24 @@
+---
+title: fitness30plus
+crosslinks:
+- Fitness
+- bodyweightfitness
+- youtubefactsbot
+- progresspics
+- weightroom
+- loseit
+- gzcl
+- kettlebell
+- C25K
+- gainit
+- intermittentfasting
+- GripTraining
+- fasting
+- running
+- SubredditDrama
+- Testosterone
+- bestof
+- youtubot
+- fitnesscirclejerk
+- u_imguralbumbot
+---

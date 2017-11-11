@@ -1,0 +1,24 @@
+---
+title: nyc
+crosslinks:
+- youtubefactsbot
+- autotldr
+- AskNYC
+- Drama
+- youtubot
+- pics
+- The_Donald
+- politics
+- nycrail
+- nycpics
+- u_imguralbumbot
+- iamverybadass
+- dataisbeautiful
+- autourbanbot
+- Brooklyn
+- SubredditDrama
+- NYCbike
+- nycmeetups
+- AskReddit
+- badeconomics
+---

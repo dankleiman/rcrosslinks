@@ -1,0 +1,24 @@
+---
+title: TrueCrime
+crosslinks:
+- autotldr
+- UnresolvedMysteries
+- TrueCrimeDiscussion
+- serialkillers
+- videos
+- SwordAndScale
+- youtubefactsbot
+- interrogationvideos
+- Suomi
+- DarkNetMarkets
+- netflix
+- lylestevik
+- florida
+- u_imguralbumbot
+- CaseyAnthony
+- UnsolvedMurders
+- mauramurray
+- HateCrimeHoaxes
+- Egypt
+- Documentaries
+---

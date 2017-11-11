@@ -1,0 +1,24 @@
+---
+title: DIY
+crosslinks:
+- findareddit
+- videos
+- woodworking
+- pics
+- HomeImprovement
+- AskReddit
+- tmsbmeta
+- xkcd
+- raspberry_pi
+- DiWHY
+- livven
+- gaming
+- pcmasterrace
+- homelab
+- funny
+- electricians
+- bookshelf
+- tifu
+- 3Dprinting
+- dataisbeautiful
+---

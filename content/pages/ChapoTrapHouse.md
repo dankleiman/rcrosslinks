@@ -1,0 +1,24 @@
+---
+title: ChapoTrapHouse
+crosslinks:
+- autotldr
+- youtubot
+- politics
+- Enough_Sanders_Spam
+- neoliberal
+- The_Donald
+- youtubefactsbot
+- socialism
+- u_imguralbumbot
+- SubredditDrama
+- LeftWithoutEdge
+- ESS
+- Drama
+- LateStageCapitalism
+- autourbanbot
+- Anarchism
+- botpopularitybot
+- pics
+- PoliticalHumor
+- Anarcho_Capitalism
+---

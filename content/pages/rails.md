@@ -1,0 +1,24 @@
+---
+title: rails
+crosslinks:
+- ruby
+- Learn_Rails
+- microsoft
+- gifrecipes
+- youtubefactsbot
+- MTB
+- u_imguralbumbot
+- networking
+- animeplot
+- Serendipity
+- terrcin
+- xkcd
+- bashonubuntuonwindows
+- linuxquestions
+- SubredditMixUps
+- rubyonrails
+- socialism
+- sonarr
+- learnruby
+- sidekiq
+---

@@ -1,0 +1,24 @@
+---
+title: offmychest
+crosslinks:
+- getdisciplined
+- AskReddit
+- SuicideWatch
+- NonZeroDay
+- TwoXChromosomes
+- personalfinance
+- wholesomememes
+- casualiama
+- bestof
+- politics
+- legaladvice
+- jobs
+- Parenting
+- bodyweightfitness
+- TheMindIlluminated
+- malepolish
+- gameofbands
+- TsundereSharks
+- RandomActsOfPetFood
+- Putin
+---

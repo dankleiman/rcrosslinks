@@ -1,0 +1,24 @@
+---
+title: AssCredit
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- u_imguralbumbot
+- AMAAggregator
+- Music
+- CAHbot
+- MassdropBot
+- livven
+- r
+- theydidnotdothemath
+- AssDebit
+- autotldr
+- theydidthefuckyou
+- furry
+- CringeAnarchy
+- OldSchoolCool
+- relationships
+- 'no'
+- AskOuija
+- videos
+---

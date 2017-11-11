@@ -1,0 +1,24 @@
+---
+title: drums
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- Bass
+- pics
+- audioengineering
+- snareporn
+- alotabot
+- tmsbmeta
+- drumcringepics
+- hockey
+- livven
+- Guitar
+- botwatch
+- john_yukis_bots
+- restofthefuckingowl
+- Wellworn
+- botpopularitybot
+- linuxaudio
+- DIY
+---

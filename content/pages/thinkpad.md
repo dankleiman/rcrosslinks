@@ -1,0 +1,24 @@
+---
+title: thinkpad
+crosslinks:
+- LinuxOnThinkpads
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- xkcd
+- Dell
+- thinkpadsforsale
+- Windows10
+- MechanicalKeyboards
+- hackintosh
+- autotldr
+- Lenovo
+- eGPU
+- unixporn
+- Surface
+- hardwareswap
+- Amd
+- livven
+- thinkpadcirclejerk
+- badBIOS
+---

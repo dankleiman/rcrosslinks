@@ -1,0 +1,24 @@
+---
+title: Nexus6P
+crosslinks:
+- Android
+- GooglePixel
+- youtubefactsbot
+- nexus5x
+- androidapps
+- tasker
+- AndroidQuestions
+- ProjectFi
+- legaladvice
+- AndroidPreviews
+- tmobile
+- tmsbmeta
+- androidcirclejerk
+- autotldr
+- Nexus5
+- Nexus
+- android
+- androidquestions
+- youtube
+- LineageOS
+---

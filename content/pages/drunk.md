@@ -1,0 +1,24 @@
+---
+title: drunk
+crosslinks:
+- youtubefactsbot
+- youtubot
+- tmsbmeta
+- livven
+- u_imguralbumbot
+- AMAAggregator
+- anti_gif_bot
+- cripplingalcoholism
+- stopdrinking
+- shitpost
+- xkcd
+- gatekeeping
+- LifeProTips
+- autotldr
+- scifi
+- autourbanbot
+- announcements
+- nohomo_bot
+- turkishmidgetgayporn
+- cocktails
+---

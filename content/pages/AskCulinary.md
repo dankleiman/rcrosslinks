@@ -1,0 +1,24 @@
+---
+title: AskCulinary
+crosslinks:
+- Cooking
+- chefknives
+- sousvide
+- castiron
+- slowcooking
+- AskReddit
+- Pizza
+- recipes
+- ramen
+- GifRecipes
+- NoStupidQuestions
+- Coffee
+- food
+- KitchenConfidential
+- chicago
+- Feijoa
+- ketorecipes
+- autourbanbot
+- whatisthisthing
+- IndianFood
+---

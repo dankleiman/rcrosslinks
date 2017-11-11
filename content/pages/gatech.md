@@ -1,0 +1,24 @@
+---
+title: gatech
+crosslinks:
+- youtubefactsbot
+- Atlanta
+- xkcd
+- MassdropBot
+- autotldr
+- EngineeringStudents
+- livven
+- all
+- john_yukis_bots
+- youtubot
+- Sat
+- anti_gif_bot
+- place_vandals
+- UGA
+- CollegeBasketball
+- Enhancement
+- Heavymind
+- MechanicalKeyboards
+- legaladvice
+- DotA2
+---

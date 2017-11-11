@@ -1,0 +1,24 @@
+---
+title: linguistics
+crosslinks:
+- badlinguistics
+- youtubot
+- explainlikeimfive
+- AskHistorians
+- IAmA
+- conlangs
+- AskAnthropology
+- Esperanto
+- MapPorn
+- _and_
+- todayilearned
+- AskReddit
+- askscience
+- EnoughTrumpSpam
+- Thailand
+- philosophyoflanguage
+- HistoricalWhatIf
+- lingreads
+- Spanish
+- BayAreaSlanguage
+---

@@ -1,0 +1,24 @@
+---
+title: AVoid5
+crosslinks:
+- EmboldenTheE
+- Jokes
+- AskReddit
+- CatsStandingUp
+- AvoidAvoid5
+- EschewE
+- outside
+- totallynotrobots
+- ProCSS
+- xkcd
+- CAHbot
+- askreddit
+- howto
+- jok
+- alphathea
+- WordAvalanches
+- titlegore
+- autourbanbot
+- trebuchetmemes
+- MassdropBot
+---

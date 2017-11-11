@@ -1,0 +1,24 @@
+---
+title: DaftPunk
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- MassdropBot
+- videos
+- todayilearned
+- Kanye
+- Music
+- moviescirclejerk
+- Amoledbackgrounds
+- livven
+- anti_gif_bot
+- IAmA
+- botwatch
+- csshelp
+- outrun
+- '2013'
+- HouseIsAFeeling
+- ObscureMedia
+- Cubers
+---

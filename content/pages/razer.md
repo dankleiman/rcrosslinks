@@ -1,0 +1,24 @@
+---
+title: razer
+crosslinks:
+- youtubefactsbot
+- MechanicalKeyboards
+- Dell
+- u_imguralbumbot
+- pcmasterrace
+- ChromaProfiles
+- livven
+- youtubot
+- john_yukis_bots
+- gamingpc
+- microsoft
+- Windows10
+- alotabot
+- Surface
+- eGPU
+- assholedesign
+- metric_units
+- Corsair
+- hardwareswap
+- HailCorporate
+---

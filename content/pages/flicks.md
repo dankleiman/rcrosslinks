@@ -1,0 +1,24 @@
+---
+title: flicks
+crosslinks:
+- moviescirclejerk
+- TrueFilm
+- movies
+- youtubefactsbot
+- horror
+- OutOfTheLoop
+- SubAutoCorrectBot
+- autotldr
+- DramaReviewed
+- youtubot
+- dvdcollection
+- wheredidthesodago
+- FanTheories
+- changemyview
+- RedditWritesSeinfeld
+- autourbanbot
+- videos
+- videoessay
+- animation
+- WTF
+---

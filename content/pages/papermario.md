@@ -1,0 +1,24 @@
+---
+title: papermario
+crosslinks:
+- youtubot
+- youtubefactsbot
+- john_yukis_bots
+- anti_gif_bot
+- u_imguralbumbot
+- livven
+- tf2
+- JonTron
+- riversidestation
+- retrogaming
+- modnews
+- whowouldwin
+- IAmA
+- shamelessplug
+- speedrun
+- coaxedintoasnafu
+- nintendo
+- starrod
+- Metroid
+- i_irl
+---

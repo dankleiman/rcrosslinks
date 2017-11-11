@@ -1,0 +1,24 @@
+---
+title: saskatchewan
+crosslinks:
+- saskatoon
+- tmsbmeta
+- autotldr
+- regina
+- ShitLiberalsSay
+- SaskatchewanJobs
+- canada
+- youtubefactsbot
+- bestof
+- me_irl
+- pics
+- personalfinance
+- Serendipity
+- onguardforthee
+- BadEverything
+- legaladvice
+- MassdropBot
+- Music
+- metacanada
+- saskevents
+---

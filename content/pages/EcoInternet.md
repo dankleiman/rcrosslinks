@@ -1,0 +1,24 @@
+---
+title: EcoInternet
+crosslinks:
+- autotldr
+- me_irl
+- environment
+- DuplicatesBot
+- worldnews
+- TheColorIsBlue
+- politics
+- collapse
+- Techfeed
+- willis7737_news
+- badgovnofreedom
+- SethKaperDale
+- videos
+- UKWeather
+- EverythingScience
+- EndangeredSpecies
+- Futurology
+- youtubot
+- AutoNewspaper
+- climate
+---

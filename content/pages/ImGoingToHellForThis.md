@@ -1,0 +1,24 @@
+---
+title: ImGoingToHellForThis
+crosslinks:
+- livven
+- autourbanbot
+- circlebroke2
+- AgainstHateSubreddits
+- jesuschristreddit
+- Drama
+- ShitAmericansSay
+- nocontext
+- SubredditDrama
+- NegativeWithGold
+- theNew_Donald
+- 33nhniv
+- evenwithcontext
+- The_Donald
+- worstof
+- botsrights
+- titlegore
+- HailCorporate
+- AsABlackMan
+- opieandanthony
+---

@@ -1,0 +1,24 @@
+---
+title: treedibles
+crosslinks:
+- vaporents
+- trees
+- abv
+- youtubefactsbot
+- SousWeed
+- sousvide
+- CannabisExtracts
+- EntExchange
+- avb
+- xkcd
+- eldertrees
+- rosin
+- microgrowery
+- saplings
+- cannabisvideos
+- grilledcheese
+- alotabot
+- askscience
+- entwives
+- youtubot
+---

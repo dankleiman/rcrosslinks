@@ -1,0 +1,24 @@
+---
+title: furry_irl
+crosslinks:
+- youtubefactsbot
+- livven
+- furry
+- u_imguralbumbot
+- anti_gif_bot
+- yiff
+- AskReddit
+- furrypasta
+- xkcd
+- youtubot
+- zootopia
+- 2furryirl4furryirl
+- CrappyDesign
+- funny
+- tmsbmeta
+- me_irl
+- gfur
+- vore_irl
+- absolutelyknotfurryir
+- dragonsfuckingcars
+---

@@ -1,0 +1,24 @@
+---
+title: trebuchetmemes
+crosslinks:
+- DankMemeArchive
+- tmsbmeta
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- KarmaCourt
+- MassdropBot
+- NoMoreBamboozles
+- GarlicBreadMemes
+- ballistamemes
+- pics
+- botwatch
+- youtubot
+- xkcd
+- Catapult
+- aoe2
+- PrequelMemes
+- ProgrammerHumor
+- wallstreetbets
+- bestof
+---

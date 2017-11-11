@@ -1,0 +1,24 @@
+---
+title: worstof
+crosslinks:
+- The_Donald
+- worldnews
+- news
+- pakistan
+- CringeAnarchy
+- Incels
+- AskReddit
+- pics
+- politics
+- uncensorednews
+- funny
+- india
+- conspiracy
+- legaladvice
+- altright
+- todayilearned
+- videos
+- ImGoingToHellForThis
+- dankmemes
+- WayOfTheBern
+---

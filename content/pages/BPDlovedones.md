@@ -1,0 +1,24 @@
+---
+title: BPDlovedones
+crosslinks:
+- raisedbyborderlines
+- BPD
+- getting_over_it
+- BPDSOFFA
+- Codependency
+- Meditation
+- AbuseInterrupted
+- raisedbynarcissists
+- youtubefactsbot
+- tmsbmeta
+- AskReddit
+- psychology
+- lawofattraction
+- youtubot
+- GenderCynical
+- CBT
+- narcissism
+- relationships
+- NonZeroDay
+- RBNBestOf
+---

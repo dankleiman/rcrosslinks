@@ -1,0 +1,24 @@
+---
+title: Nordiccountries
+crosslinks:
+- youtubefactsbot
+- autotldr
+- autourbanbot
+- sweden
+- badeconomics
+- pinsamt
+- badlinguistics
+- AskEurope
+- modnews
+- houston
+- youtubot
+- europe
+- iwantout
+- AskHistorians
+- mexico
+- foreskin_restoration
+- news
+- uncensorednews
+- Faroese
+- WatchRedditDie
+---

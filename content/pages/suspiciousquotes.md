@@ -1,0 +1,24 @@
+---
+title: suspiciousquotes
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- meirl
+- KenM
+- AskReddit
+- ComicSansMasterRace
+- MassdropBot
+- engrish
+- KarmaCourt
+- xkcd
+- botwatch
+- dontdeadopeninside
+- WTF
+- autotldr
+- FunnyandSad
+- Peterborough
+- softwaregore
+- UnnecessaryQuotes
+- JeopardyQBot
+---

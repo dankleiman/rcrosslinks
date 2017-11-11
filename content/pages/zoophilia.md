@@ -1,0 +1,24 @@
+---
+title: zoophilia
+crosslinks:
+- alotabot
+- youtubefactsbot
+- PublicHealthAdvocacy
+- Bestiality
+- vegan
+- animalromance
+- youtubot
+- Serendipity
+- unpopularopinion
+- amiugly
+- ainbowroad
+- autourbanbot
+- ZSanctum
+- Intactivists
+- xkcd
+- The_Donald
+- Drama
+- SuicideWatch
+- drama
+- commonfilth
+---

@@ -1,0 +1,24 @@
+---
+title: yesyesyesno
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- gifs
+- WhyWereTheyFilming
+- Whatcouldgowrong
+- youtubot
+- nononoyesno
+- botwatch
+- videos
+- nononono
+- motorcycles
+- interestingasfuck
+- killthecameraman
+- tmsbmeta
+- perfectloops
+- hitmanimals
+- WTF
+- maybemaybemaybe
+- ShittyChangeMyView
+---

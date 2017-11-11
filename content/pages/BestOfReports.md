@@ -1,0 +1,24 @@
+---
+title: BestOfReports
+crosslinks:
+- TranscribersOfReddit
+- youtubefactsbot
+- tmsbmeta
+- grilledcheese
+- SubredditDrama
+- u_imguralbumbot
+- NegativeWithGold
+- mildlyinteresting
+- pokemon
+- casualiama
+- rule34
+- xkcd
+- AskReddit
+- greentext
+- pics
+- DnDGreentext
+- paris
+- AskPhilosophyFAQ
+- ShitAmericansSay
+- me_irl
+---

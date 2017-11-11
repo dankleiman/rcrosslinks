@@ -1,0 +1,24 @@
+---
+title: EthereumClassic
+crosslinks:
+- ethereum
+- ethtrader
+- youtubefactsbot
+- autotldr
+- btc
+- ethereumfraud
+- Buttcoin
+- u_imguralbumbot
+- jaxx
+- EtherMining
+- ethdev
+- TheCosmos
+- EthereumClassicx2
+- ethereo
+- Bitcoin
+- autourbanbot
+- TheDao
+- rootstock
+- Ethereum
+- Etcmining
+---

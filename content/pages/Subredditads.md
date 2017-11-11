@@ -1,0 +1,24 @@
+---
+title: Subredditads
+crosslinks:
+- wholesomememes
+- MoneroMarketing
+- needamod
+- ClashRoyale
+- CoinEyeCandy
+- POTUSWatch
+- talesofmike
+- TinyTrumps
+- papermario
+- PokemonGoPositive
+- memedemocracy
+- czech
+- galactic_senate
+- TrueWorldNews
+- Nekomimi
+- litecoin
+- Cyberlympics2020
+- PostAndBecomeAMod
+- promotereddit
+- exmuslim
+---

@@ -1,0 +1,24 @@
+---
+title: coolguides
+crosslinks:
+- youtubefactsbot
+- youtubot
+- tmsbmeta
+- gatekeeping
+- xkcd
+- churning
+- Fitness
+- science
+- bodyweightfitness
+- Infographics
+- nocontext
+- The_Donald
+- gaming
+- lockpicking
+- ShitPoliticsSays
+- dataisugly
+- OnionLovers
+- marijuanaenthusiasts
+- europe
+- restofthefuckingowl
+---

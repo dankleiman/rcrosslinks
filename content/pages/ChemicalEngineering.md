@@ -1,0 +1,24 @@
+---
+title: ChemicalEngineering
+crosslinks:
+- u_imguralbumbot
+- autotldr
+- youtubefactsbot
+- mead
+- AirForce
+- AutoCAD
+- AskAcademia
+- LifeProTips
+- Homebrewing
+- berkeley
+- paralegal
+- oil
+- youtubot
+- WTF
+- confession
+- videos
+- cscareerquestions
+- nicesexygirl
+- botwatch
+- AskReddit
+---

@@ -1,0 +1,24 @@
+---
+title: ios
+crosslinks:
+- iOSBeta
+- iphone
+- apple
+- jailbreak
+- ipad
+- privacy
+- u_imguralbumbot
+- iOSProgramming
+- Verticalwallpapers
+- sideloaded
+- remoteplay
+- Swiftkey
+- workflow
+- youtubot
+- iOS11
+- anti_gif_bot
+- MassdropBot
+- iosgaming
+- vainglorygame
+- Dumb
+---

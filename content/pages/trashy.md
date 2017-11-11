@@ -1,0 +1,24 @@
+---
+title: trashy
+crosslinks:
+- autourbanbot
+- WTF
+- AskReddit
+- tmsbmeta
+- MassdropBot
+- livven
+- anti_gif_bot
+- funny
+- IAmA
+- bestof
+- autotldr
+- The_Donald
+- ATBGE
+- nocontext
+- SubredditDrama
+- Drama
+- pics
+- beholdthemasterrace
+- trashyboners
+- jesuschristreddit
+---

@@ -1,0 +1,24 @@
+---
+title: DebateAnAtheist
+crosslinks:
+- DebateReligion
+- youtubefactsbot
+- atheism
+- DebateEvolution
+- youtubot
+- autourbanbot
+- DebateAChristian
+- PurplePillDebate
+- explainlikeimfive
+- askphilosophy
+- askanatheist
+- askscience
+- badphilosophy
+- cosmologicalargument
+- xkcd
+- Judaism
+- AcademicBiblical
+- Christianity
+- cosmology
+- thegreatproject
+---

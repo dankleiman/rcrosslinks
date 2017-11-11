@@ -1,0 +1,24 @@
+---
+title: hitmanimals
+crosslinks:
+- livven
+- gifs
+- anti_gif_bot
+- CatSlaps
+- aww
+- youtubefactsbot
+- funny
+- CatTaps
+- StartledCats
+- AnimalsBeingJerks
+- botwatch
+- Eyebleach
+- youtubot
+- thecatdimension
+- Dogberg
+- CatsAreAssholes
+- pics
+- trashpandas
+- Thisismylifemeow
+- AnimalTextGifs
+---

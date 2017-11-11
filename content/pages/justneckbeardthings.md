@@ -1,0 +1,24 @@
+---
+title: justneckbeardthings
+crosslinks:
+- youtubefactsbot
+- Incels
+- tmsbmeta
+- livven
+- The_Donald
+- AskReddit
+- Drama
+- autourbanbot
+- xkcd
+- REEEEEEEEEE
+- niceguys
+- SubredditDrama
+- atheism
+- autotldr
+- CringeAnarchy
+- waifuism
+- nocontext
+- pics
+- IAmA
+- OutOfTheLoop
+---

@@ -1,0 +1,24 @@
+---
+title: bourbon
+crosslinks:
+- Whiskyporn
+- ScotchSwap
+- Scotch
+- whiskey
+- whiskyinventory
+- youtubot
+- whiskago
+- dcwhisky
+- worldwhisky
+- IAmA
+- whisky
+- rum
+- beer
+- cars
+- livven
+- canadawhisky
+- WhiskyDFW
+- reactiongifs
+- ATXwhisky
+- recruitinghell
+---

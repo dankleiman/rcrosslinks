@@ -1,0 +1,24 @@
+---
+title: ModernMagic
+crosslinks:
+- spikes
+- magicTCG
+- youtubefactsbot
+- magicthecirclejerking
+- mtgModernTokens
+- TronMTG
+- 8rack
+- FishMTG
+- Scapeshift
+- u_imguralbumbot
+- youtubot
+- alotabot
+- LavaSpike
+- MTGLegacy
+- ElvesMTG
+- BurnMTG
+- AdNauseamMTG
+- MNBL
+- ModernBUG
+- UBFaeries
+---

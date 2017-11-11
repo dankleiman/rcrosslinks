@@ -1,0 +1,24 @@
+---
+title: labrats
+crosslinks:
+- xkcd
+- u_imguralbumbot
+- livven
+- youtubefactsbot
+- GradSchool
+- autotldr
+- JPGibbsProgramming
+- anti_gif_bot
+- medlabprofessionals
+- StormfrontorSJW
+- chemistry
+- apple
+- theydidthemath
+- askscience
+- biology
+- netsec
+- legaladvice
+- OSHA
+- whatisthisthing
+- DrugNerds
+---

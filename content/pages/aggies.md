@@ -1,0 +1,24 @@
+---
+title: aggies
+crosslinks:
+- CFB
+- youtubefactsbot
+- UTAustin
+- u_imguralbumbot
+- place
+- The_Donald
+- 12thMan
+- botpopularitybot
+- iamverybadass
+- anti_gif_bot
+- livven
+- tmsbmeta
+- Awww
+- TwoXChromosomes
+- john_yukis_bots
+- UIUC
+- Atlanta
+- photoclass
+- 1z20x6r
+- pics
+---

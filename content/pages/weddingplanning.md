@@ -1,0 +1,24 @@
+---
+title: weddingplanning
+crosslinks:
+- JUSTNOMIL
+- JustEngaged
+- youtubefactsbot
+- wedding
+- youtubot
+- AlternativeWeddings
+- weddingswap
+- Weddingsunder10k
+- john_yukis_bots
+- MakeupAddiction
+- ABraThatFits
+- tmsbmeta
+- raisedbynarcissists
+- jewelry
+- botwatch
+- EngagementRings
+- personalfinance
+- femalefashionadvice
+- relationships
+- WedditNYC
+---

@@ -1,0 +1,24 @@
+---
+title: LearnJapanese
+crosslinks:
+- translator
+- NHKEasyNews
+- linguistics
+- Anki
+- visualnovels
+- japan
+- JapanTravel
+- japancirclejerk
+- IAmA
+- newsokur
+- languagelearning
+- xkcd
+- JapaneseInTheWild
+- duolingo
+- FUJITVLive
+- genki
+- JTV
+- LearnJapaneseNovice
+- japanese
+- AskReddit
+---

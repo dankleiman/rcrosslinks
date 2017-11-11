@@ -1,0 +1,24 @@
+---
+title: superman
+crosslinks:
+- DCcomics
+- youtubefactsbot
+- DC_Cinematic
+- movies
+- anti_gif_bot
+- xkcd
+- livven
+- comicbooks
+- autotldr
+- mr2
+- EmpireDidNothingWrong
+- MassdropBot
+- shelfporn
+- alotabot
+- bestof
+- youtubot
+- superherodebates
+- shittytumblrgifs
+- TrueFilm
+- AskScienceFiction
+---

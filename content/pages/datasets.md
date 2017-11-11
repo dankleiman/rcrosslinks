@@ -1,0 +1,24 @@
+---
+title: datasets
+crosslinks:
+- flairer
+- dataisbeautiful
+- place
+- xkcd
+- bigquery
+- scifi
+- rstats
+- InternetIsBeautiful
+- AskReddit
+- autotldr
+- australia
+- theydidthemath
+- PFJerk
+- biology
+- OutOfTheLoop
+- redditdata
+- devel
+- ireland
+- datascience
+- chess
+---

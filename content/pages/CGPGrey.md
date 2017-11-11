@@ -1,0 +1,24 @@
+---
+title: CGPGrey
+crosslinks:
+- HelloInternet
+- youtubefactsbot
+- xkcd
+- vexillology
+- CGPGrey2
+- bestof
+- Cortex
+- cgpgreymemes
+- u_imguralbumbot
+- getdisciplined
+- personalfinance
+- Nodumbquestions
+- videos
+- mylittlepony
+- youtubot
+- pics
+- wholesomememes
+- Exurb1a
+- Flaggyflag
+- badlinguistics
+---

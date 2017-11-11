@@ -1,0 +1,24 @@
+---
+title: Fighters
+crosslinks:
+- Kappa
+- fightsticks
+- Tekken
+- youtubefactsbot
+- StreetFighter
+- anti_gif_bot
+- Guiltygear
+- youtubot
+- meltyblood
+- FantasyStrike
+- salty
+- mvci
+- Games
+- kof
+- dragonballfighterz
+- stReetfighter
+- smashbros
+- MassdropBot
+- MMA
+- postnationalist
+---

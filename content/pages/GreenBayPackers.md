@@ -1,0 +1,24 @@
+---
+title: GreenBayPackers
+crosslinks:
+- nfl
+- livven
+- anti_gif_bot
+- youtubot
+- EvilLeagueOfEvil
+- CHIBears
+- u_imguralbumbot
+- NFL_Draft
+- place
+- minnesotavikings
+- MkeBucks
+- SubredditDrama
+- nflstreams
+- detroitlions
+- cowboys
+- autourbanbot
+- falcons
+- evilleagueofevil
+- Seahawks
+- reddit_stream
+---

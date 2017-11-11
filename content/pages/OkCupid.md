@@ -1,0 +1,24 @@
+---
+title: OkCupid
+crosslinks:
+- autourbanbot
+- youtubot
+- u_imguralbumbot
+- AskReddit
+- xkcd
+- Incels
+- livven
+- john_yukis_bots
+- okc
+- SubredditDrama
+- '2013'
+- okcupidgonewild
+- short
+- Tinder
+- relationships
+- autotldr
+- funny
+- datingoverthirty
+- bestof
+- amiugly
+---

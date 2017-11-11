@@ -1,0 +1,24 @@
+---
+title: unpopularopinion
+crosslinks:
+- youtubefactsbot
+- idioticopinion
+- youtubot
+- AsABlackMan
+- circlebroke2
+- Drama
+- UnpopularOpinions
+- AskReddit
+- The_Donald
+- asktransgender
+- tmsbmeta
+- Gamingcirclejerk
+- childfree
+- vegan
+- atheism
+- REEEEEEEEEE
+- changemyview
+- iamverybadass
+- autourbanbot
+- ShitRedditSays
+---

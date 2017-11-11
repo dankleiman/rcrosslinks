@@ -1,0 +1,24 @@
+---
+title: futurebeatproducers
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Drumkits
+- trapproduction
+- makinghiphop
+- edmproduction
+- synthrecipes
+- u_imguralbumbot
+- trap
+- AdvancedProduction
+- tmsbmeta
+- videos
+- Music
+- nohomo_bot
+- audioengineering
+- futurebeats
+- WeAreTheMusicMakers
+- delusionalartists
+- organicsignals
+- headphones
+---

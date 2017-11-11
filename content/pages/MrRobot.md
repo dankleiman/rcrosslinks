@@ -1,0 +1,24 @@
+---
+title: MrRobot
+crosslinks:
+- ARGsociety
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- MrRobotARG
+- twinpeaks
+- autotldr
+- funkopop
+- WhyICorrectBryanPCox
+- DID
+- nyc
+- IAmA
+- MakingMrRobot
+- The_Donald
+- netsec
+- news
+- ozshow
+- conspiracy
+- cicada
+---

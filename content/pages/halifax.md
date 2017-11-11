@@ -1,0 +1,24 @@
+---
+title: halifax
+crosslinks:
+- NovaScotia
+- youtubot
+- u_imguralbumbot
+- autotldr
+- tmsbmeta
+- canada
+- HalifaxBookClub
+- NovaScotiaElection
+- OutOfTheLoop
+- CanadianForces
+- bestof
+- metacanada
+- BestOfReports
+- buildapc
+- CanadianMOMs
+- PersonalFinanceCanada
+- LifeProTips
+- bapccanada
+- bitchimabus
+- livven
+---

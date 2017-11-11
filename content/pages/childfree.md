@@ -1,0 +1,24 @@
+---
+title: childfree
+crosslinks:
+- youtubefactsbot
+- autotldr
+- legaladvice
+- funny
+- youtubot
+- cf4cf
+- truechildfree
+- raisedbynarcissists
+- pics
+- niceguys
+- Fencesitter
+- AdviceAnimals
+- petfree
+- gaming
+- science
+- antinatalism
+- MGTOW
+- starterpacks
+- alotabot
+- AnimalAww
+---

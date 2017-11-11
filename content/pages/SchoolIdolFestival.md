@@ -1,0 +1,24 @@
+---
+title: SchoolIdolFestival
+crosslinks:
+- LoveLive
+- youtubefactsbot
+- place
+- john_yukis_bots
+- Pixiv
+- SIFTrain
+- SIFTrades
+- LoveLiveCustoms
+- placehearts
+- lovelivecovers
+- Otonokizaka
+- llsif
+- CustomBeatmapFestival
+- anti_gif_bot
+- StarlightStage
+- OnePieceTC
+- nocontext
+- PUBATTLEGROUNDS
+- StardustCrusaders
+- IsAnybodyHere
+---

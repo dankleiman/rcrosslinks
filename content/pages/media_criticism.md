@@ -1,0 +1,24 @@
+---
+title: media_criticism
+crosslinks:
+- autotldr
+- youtubefactsbot
+- shills
+- politics
+- conspiracy
+- news
+- youtubot
+- KotakuInAction
+- pics
+- WayOfTheBern
+- NeutralPolitics
+- The_Donald
+- multiculturalcancer
+- JoeRogan
+- EnoughTrumpSpam
+- TrueReddit
+- u_imguralbumbot
+- OutOfTheLoop
+- occupy_europe
+- mythbusters
+---

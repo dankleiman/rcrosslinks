@@ -1,0 +1,24 @@
+---
+title: cookingforbeginners
+crosslinks:
+- EatCheapAndHealthy
+- youtubefactsbot
+- food
+- youtubot
+- Linky_links
+- livven
+- slowcooking
+- u_imguralbumbot
+- Cheap_Meals
+- vegangifrecipes
+- AskCulinary
+- LifeProTips
+- Cooking
+- Serendipity
+- Whatisthis
+- bestof
+- MimicRecipes
+- GeorgeForemanGrill
+- recipes
+- castiron
+---

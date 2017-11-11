@@ -1,0 +1,24 @@
+---
+title: ManyATrueNerd
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- livven
+- unexpectedsabaton
+- totalwar
+- JonTron
+- PrequelMemes
+- xkcd
+- botwatch
+- skyrim
+- explainlikeimfive
+- MassdropBot
+- LifeasanNPC
+- Fallout
+- paradoxplaza
+- videos
+- badhistory
+- hfy
+- LakeLaogai
+---

@@ -1,0 +1,24 @@
+---
+title: specializedtools
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- ProductPorn
+- oddlysatisfying
+- videos
+- EngineeringPorn
+- anti_gif_bot
+- Skookum
+- whatisthisthing
+- mallninjashit
+- killthosewhodisagree
+- INEEEEDIT
+- OddlyArousing
+- happycowgifs
+- mildlypenis
+- machineporn
+- mlem
+- DIY
+- MildlyUncomfortable
+---

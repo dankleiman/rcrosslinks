@@ -1,0 +1,24 @@
+---
+title: Chromecast
+crosslinks:
+- PleX
+- AndroidTV
+- TerrariumTV
+- pihole
+- spotify
+- u_imguralbumbot
+- xkcd
+- Android
+- google
+- plex
+- hardwareswap
+- LateStageCapitalism
+- Videostream
+- NetflixByProxy
+- MassdropBot
+- nexusplayer
+- femboys
+- crt
+- Addons4Kodi
+- videos
+---

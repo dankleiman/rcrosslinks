@@ -1,0 +1,24 @@
+---
+title: Kaiserreich
+crosslinks:
+- u_imguralbumbot
+- hoi4
+- youtubot
+- youtubefactsbot
+- paradoxplaza
+- PropagandaPosters
+- vexillology
+- JonTron
+- FULLCOMMUNISM
+- Fuhrerreich
+- unexpectedsabaton
+- IrelandonReddit
+- CargoShortsSensei
+- MassdropBot
+- Socialism_101
+- AskHistorians
+- ParadoxExtra
+- anti_gif_bot
+- botwatch
+- ShitWehraboosSay
+---

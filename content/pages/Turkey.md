@@ -1,0 +1,24 @@
+---
+title: Turkey
+crosslinks:
+- youtubefactsbot
+- autotldr
+- syriancivilwar
+- europe
+- worldnews
+- place
+- AskHistorians
+- islam
+- MapPorn
+- armenia
+- anti_gif_bot
+- kurdistan
+- TurkicHistory
+- de
+- AMAAggregator
+- alotabot
+- dataisbeautiful
+- azerbaijan
+- Terrorist_PKK
+- botwatch
+---

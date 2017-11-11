@@ -1,0 +1,24 @@
+---
+title: navy
+crosslinks:
+- newtothenavy
+- youtubefactsbot
+- autotldr
+- Military
+- WarshipPorn
+- MassdropBot
+- u_imguralbumbot
+- Amry
+- news
+- army
+- AirForce
+- PennStateUniversity
+- navyreserve
+- bestof
+- espionage
+- SilentService
+- USMC
+- xkcd
+- pics
+- talesfromtechsupport
+---

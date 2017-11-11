@@ -1,0 +1,24 @@
+---
+title: gameDevClassifieds
+crosslinks:
+- INAT
+- gameDevJobs
+- youtubot
+- anti_gif_bot
+- gameideas
+- autourbanbot
+- TrailOfSamsara
+- LateStageCapitalism
+- GameWritingLab
+- vndevs
+- DuplicatesBot
+- PixelArt
+- gaming
+- youtubefactsbot
+- Anger
+- unity_tutorials
+- pcmasterrace
+- unitystation
+- livven
+- gameassets
+---

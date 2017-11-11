@@ -1,0 +1,24 @@
+---
+title: worldbuilding
+crosslinks:
+- Yalldve
+- u_imguralbumbot
+- xkcd
+- REDCOSMOS
+- conlangs
+- hodmandod
+- youtubot
+- mapmaking
+- Miazgatzar
+- DnDBehindTheScreen
+- magicbuilding
+- Fjorn
+- EuropeAD1000
+- rpg
+- AskHistorians
+- WritingPrompts
+- imaginarymaps
+- autourbanbot
+- Ronuos
+- vexillology
+---

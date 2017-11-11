@@ -1,0 +1,24 @@
+---
+title: Pets
+crosslinks:
+- AskVet
+- dogs
+- IAmA
+- youtubefactsbot
+- Rabbits
+- bettafish
+- autotldr
+- WildlifeRehab
+- youtubot
+- personalfinance
+- aww
+- puppy101
+- Dogtraining
+- airlines
+- EelKat
+- HailCorporate
+- bestof
+- bottlebabykitten
+- HelpMeFind
+- cat
+---

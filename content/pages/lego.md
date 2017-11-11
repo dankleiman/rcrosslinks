@@ -1,0 +1,24 @@
+---
+title: lego
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- livven
+- anti_gif_bot
+- www
+- MassdropBot
+- StarWars
+- pics
+- legodeal
+- legostarwars
+- bioniclelego
+- xkcd
+- legotrade
+- botwatch
+- ucs_mf_75192
+- lepin
+- autotldr
+- legoleaks
+- autourbanbot
+- place
+---

@@ -1,0 +1,24 @@
+---
+title: transhumanism
+crosslinks:
+- autotldr
+- youtubefactsbot
+- Futurology
+- UniverseAttempt
+- Transhuman
+- firstworldproblems
+- marxism_101
+- NegaRedditRedux
+- asktransgender
+- transhuman
+- dataism
+- science
+- chomsky
+- Anarchy101
+- youtubot
+- sens
+- changemyview
+- badhistory
+- Serendipity
+- Incel
+---

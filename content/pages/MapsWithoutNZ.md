@@ -1,0 +1,24 @@
+---
+title: MapsWithoutNZ
+crosslinks:
+- MapsWithoutTasmania
+- finlandConspiracy
+- youtubefactsbot
+- mapswithoutmadagascar
+- xkcd
+- mapswith2newzealands
+- u_imguralbumbot
+- todayilearned
+- MapsWithoutHawaii
+- dataisbeautiful
+- mapswithouticeland
+- SubAutoCorrectBot
+- mildlyinteresting
+- MapPorn
+- worldbuilding
+- MapsWithoutCanada
+- mapswithoutUK
+- livven
+- europe
+- DataWithoutGreenland
+---

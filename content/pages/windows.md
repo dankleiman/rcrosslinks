@@ -1,0 +1,24 @@
+---
+title: windows
+crosslinks:
+- Windows10
+- autotldr
+- techsupport
+- sysadmin
+- u_imguralbumbot
+- Surface
+- youtubefactsbot
+- netsec
+- nvidia
+- TronScript
+- technology
+- bashonubuntuonwindows
+- computerforensics
+- youtubot
+- xkcd
+- windowsxp
+- PBSOD
+- VFIO
+- NiceChristmasTree
+- Steam
+---

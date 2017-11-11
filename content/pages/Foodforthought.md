@@ -1,0 +1,24 @@
+---
+title: Foodforthought
+crosslinks:
+- worldpolitics
+- youtubefactsbot
+- LateStageCapitalism
+- Missing411
+- AskSocialScience
+- science
+- youtubot
+- neoliberal
+- likeus
+- badhistory
+- news
+- The_Donald
+- BasicIncome
+- IAmA
+- magicskyfairy
+- bestof
+- todayilearned
+- linguistics
+- dogs
+- AskStatistics
+---

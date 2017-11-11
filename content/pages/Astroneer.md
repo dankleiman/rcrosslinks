@@ -1,0 +1,24 @@
+---
+title: Astroneer
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- anti_gif_bot
+- autourbanbot
+- u_imguralbumbot
+- bootcamp
+- Art
+- perfectloops
+- space
+- screenshotsarehard
+- NoMansSkyTheGame
+- accidentalswastika
+- starcitizen
+- place
+- trypophobia
+- factorio
+- xboxone
+- ESOc
+- titlegore
+---

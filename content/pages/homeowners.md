@@ -1,0 +1,24 @@
+---
+title: homeowners
+crosslinks:
+- youtubefactsbot
+- HomeImprovement
+- electricians
+- DIY
+- ecobee
+- lawncare
+- ProRevenge
+- whatsthisbug
+- marijuanaenthusiasts
+- Libertarian
+- gifs
+- upvotegifs
+- OutOfTheLoop
+- Insurance
+- homeautomation
+- plumbers
+- coolguides
+- Nest
+- youtubot
+- u_imguralbumbot
+---

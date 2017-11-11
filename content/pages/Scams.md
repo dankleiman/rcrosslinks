@@ -1,0 +1,24 @@
+---
+title: Scams
+crosslinks:
+- youtubefactsbot
+- scambait
+- personalfinance
+- u_imguralbumbot
+- ChinaScamCentral
+- MNTrolls
+- youtubot
+- TravelScams
+- fountainpens
+- cscareerquestion
+- autourbanbot
+- autotldr
+- btc
+- antiMLM
+- hacking
+- AskReddit
+- google
+- itslenny
+- Insurance
+- Roadcam
+---

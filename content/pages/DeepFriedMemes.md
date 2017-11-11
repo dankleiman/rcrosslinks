@@ -1,0 +1,24 @@
+---
+title: DeepFriedMemes
+crosslinks:
+- nukedmemes
+- youtubefactsbot
+- botpopularitybot
+- dankmemes
+- ComedyCemetery
+- tmsbmeta
+- u_imguralbumbot
+- blackholedmemes
+- MassdropBot
+- anti_gif_bot
+- surrealmemes
+- bonehurtingjuice
+- 4PanelCringe
+- THE_PACK
+- deepfriedwholesomemes
+- livven
+- ReallyWackyTicTacs
+- deepfriedsurrealmemes
+- me_irl
+- indianpeoplefacebook
+---

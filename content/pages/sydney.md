@@ -1,0 +1,24 @@
+---
+title: sydney
+crosslinks:
+- australia
+- youtubot
+- autourbanbot
+- melbourne
+- u_imguralbumbot
+- HailCorporate
+- WestConnex
+- xkcd
+- AskReddit
+- john_yukis_bots
+- MassdropBot
+- IAmA
+- circlejerkaustralia
+- MildRedditDrama
+- privacy
+- circlebroke2
+- SubredditDrama
+- livven
+- AustralianMFA
+- trackers
+---

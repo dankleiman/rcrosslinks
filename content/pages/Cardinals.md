@@ -1,0 +1,24 @@
+---
+title: Cardinals
+crosslinks:
+- baseball
+- CardinalsCooking
+- CardinalsPolitics
+- azdiamondbacks
+- '2013'
+- AskReddit
+- gifs
+- cardinalscopypasta
+- xkcd
+- NYYankees
+- Brewers
+- BannedatCardinalsBan
+- CHICubs
+- hockey
+- MassdropBot
+- Dodgers
+- IAmA
+- Torontobluejays
+- CardinalsBoozeReview
+- CardinalsVexillology
+---

@@ -1,0 +1,24 @@
+---
+title: CivEx
+crosslinks:
+- youtubefactsbot
+- CivilizatonExperiment
+- Devoted
+- Icenia
+- TheRealmsMC
+- xkcd
+- MassdropBot
+- livven
+- Civcraft
+- tmsbmeta
+- youtubot
+- anti_gif_bot
+- Minecraft
+- Irongrad
+- BestofCortwade
+- Medwedia
+- CivScarcity
+- all
+- varsany
+- shubreddit
+---

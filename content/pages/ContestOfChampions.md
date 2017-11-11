@@ -1,0 +1,24 @@
+---
+title: ContestOfChampions
+crosslinks:
+- youtubefactsbot
+- ContestOfChampionsLFG
+- anti_gif_bot
+- u_imguralbumbot
+- youtubot
+- john_yukis_bots
+- ContestOfChampsArena
+- livven
+- tmsbmeta
+- modnews
+- Pay_Respects
+- askwomenadvice
+- autourbanbot
+- alotabot
+- contestofchampionslfg
+- knitting
+- MassdropBot
+- xkcd
+- thebutton
+- AskReddit
+---

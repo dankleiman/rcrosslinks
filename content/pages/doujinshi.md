@@ -1,0 +1,24 @@
+---
+title: doujinshi
+crosslinks:
+- youtubefactsbot
+- hentai_irl
+- u_imguralbumbot
+- tmsbmeta
+- anime_irl
+- hentai
+- adorablehentai
+- autourbanbot
+- HentaiManga
+- consentacles
+- OutOfTheLoop
+- youtubot
+- pettankohentai
+- funnyciashit
+- john_yukis_bots
+- Roboragi
+- Skookum
+- u_Constipat8
+- thick_hentai
+- UnexpectedAvatar
+---

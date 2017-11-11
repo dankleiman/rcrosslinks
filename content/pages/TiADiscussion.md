@@ -1,0 +1,24 @@
+---
+title: TiADiscussion
+crosslinks:
+- TumblrInAction
+- youtubefactsbot
+- autourbanbot
+- youtubot
+- HBD
+- KotakuInAction
+- AskReddit
+- ShitEvilModsSay
+- The_Donald
+- bestof
+- StormfrontorSJW
+- asktransgender
+- OCD
+- thatHappened
+- ProtectAndServe
+- AskPhysics
+- ShitRConservativeSays
+- GenderCritical
+- AskThe_Donald
+- crossdreaming
+---

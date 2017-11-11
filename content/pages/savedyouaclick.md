@@ -1,0 +1,24 @@
+---
+title: savedyouaclick
+crosslinks:
+- autotldr
+- youtubefactsbot
+- youtubot
+- xkcd
+- TLDRtheWeb
+- quityourbullshit
+- todayilearned
+- IAmA
+- explainlikeimfive
+- totallynotrobots
+- nocontext
+- Drama
+- autourbanbot
+- circlebroke2
+- DownvotesMcGoats
+- bestof
+- ShitRedditSays
+- wallstreetbets
+- AskReddit
+- ShitLiberalsSay
+---

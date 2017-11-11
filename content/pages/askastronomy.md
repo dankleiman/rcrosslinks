@@ -1,0 +1,24 @@
+---
+title: askastronomy
+crosslinks:
+- telescopes
+- Astronomy
+- climateskeptics
+- youtubot
+- canada
+- HappyFluffyBunnies
+- spaceengine
+- theworldisflat
+- environment
+- youtubefactsbot
+- xkcd
+- Physics
+- skeptic
+- todayilearned
+- AskScienceFiction
+- conspiracy
+- badphysics
+- AskPhysics
+- TopMindsOfReddit
+- spacex
+---

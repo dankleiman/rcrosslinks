@@ -1,0 +1,24 @@
+---
+title: 13ReasonsWhy
+crosslinks:
+- youtubefactsbot
+- SuicideWatch
+- science
+- livven
+- autotldr
+- 13reasonswhyhate
+- SWResources
+- 2meirl4meirl
+- netflix
+- television
+- arrow
+- lifeisstrange
+- '2016'
+- morbidquestions
+- explainlikeimfive
+- 2ME_IRL4ME_IRL
+- REEEEEEEEEE
+- SuicideBereavement
+- AskReddit
+- 12ReasonsWhy
+---

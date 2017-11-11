@@ -1,0 +1,24 @@
+---
+title: finance
+crosslinks:
+- youtubefactsbot
+- NewsFinancial
+- personalfinance
+- wallstreetbets
+- youtubot
+- investing
+- FinancialCareers
+- ethtrader
+- AskEconomics
+- dataisbeautiful
+- Entrepreneur
+- Economics
+- CFA
+- xkcd
+- StudentLoans
+- algotrading
+- excel
+- autourbanbot
+- SecurityAnalysis
+- Shaneisms
+---

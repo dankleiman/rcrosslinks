@@ -1,0 +1,24 @@
+---
+title: AsianParentStories
+crosslinks:
+- raisedbynarcissists
+- hapas
+- aznidentity
+- youtubefactsbot
+- autotldr
+- personalfinance
+- john_yukis_bots
+- causeWhyNotMate
+- confession
+- Laowinning
+- MRW
+- atheism
+- wholesome
+- pcmasterrace
+- trees
+- SRSDiscussion
+- PhascinatingPhysics
+- MassdropBot
+- TheRedPill
+- gifs
+---

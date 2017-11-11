@@ -1,0 +1,24 @@
+---
+title: Foofighters
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- qotsa
+- anti_gif_bot
+- IAmA
+- Music
+- john_yukis_bots
+- ITunes
+- learnart
+- BABYMETAL
+- lewronggeneration
+- AMAAggregator
+- subredditsashashtags
+- weezer
+- MassdropBot
+- livven
+- riseagainst
+- WeAreTheMusicMakers
+- JeopardyQBot
+---

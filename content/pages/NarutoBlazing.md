@@ -1,0 +1,24 @@
+---
+title: NarutoBlazing
+crosslinks:
+- john_yukis_bots
+- youtubefactsbot
+- DBZDokkanBattle
+- anti_gif_bot
+- OnePieceTC
+- tmsbmeta
+- me_irl
+- Pay_Respects
+- Naruto
+- dankruto
+- naruto_online
+- BleachBraveSouls
+- DeepFriedMemes
+- livven
+- taeyskadiedoaHAV
+- FireEmblemHeroes
+- im14andthisisfunny
+- MemoryDefrag
+- pokemonduel
+- holdmybeer
+---

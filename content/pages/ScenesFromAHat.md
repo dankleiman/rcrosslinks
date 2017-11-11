@@ -1,0 +1,24 @@
+---
+title: ScenesFromAHat
+crosslinks:
+- youtubefactsbot
+- xkcd
+- MassdropBot
+- autourbanbot
+- Hoedown
+- totallynotrobots
+- tmsbmeta
+- IfYouKnowWhatIMean
+- WritingPrompts
+- todayilearned
+- FrenchWestIndies
+- ShittyFanTheories
+- empiredidnothingwrong
+- mildlyinteresting
+- john_yukis_bots
+- MathJokes
+- youtubot
+- NoRules
+- SubredditDrama
+- BannedSubs
+---

@@ -1,0 +1,24 @@
+---
+title: solotravel
+crosslinks:
+- travel
+- youtubefactsbot
+- youtubot
+- onebag
+- JapanTravel
+- digitalnomad
+- travelpartners
+- churning
+- vandwellers
+- backpacking
+- italy
+- LondonSocialClub
+- IAmA
+- couchsurfing
+- ShitAmericansSay
+- me_irl
+- cuba
+- berlin
+- Philippines
+- Thailand
+---

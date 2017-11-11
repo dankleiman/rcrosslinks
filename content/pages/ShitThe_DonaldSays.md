@@ -1,0 +1,24 @@
+---
+title: ShitThe_DonaldSays
+crosslinks:
+- The_Donald
+- MassdropBot
+- youtubefactsbot
+- EnoughTrumpSpam
+- AskThe_Donald
+- shitthedonladsayssays
+- TheRightBoycott
+- quityourbullshit
+- badhistory
+- AskTrumpSupporters
+- conspiracy
+- pics
+- technology
+- all
+- creepyPMs
+- hillaryclinton
+- aww
+- Republican
+- BannedFromThe_Donald
+- Fuckthealtright
+---

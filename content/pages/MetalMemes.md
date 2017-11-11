@@ -1,0 +1,24 @@
+---
+title: MetalMemes
+crosslinks:
+- youtubefactsbot
+- livven
+- gatekeeping
+- u_imguralbumbot
+- Metal
+- europe
+- ShitTheFalseSay
+- progmetal
+- Metalcore
+- killthosewhodisagree
+- cradleoffilth
+- trashyboners
+- ScottishPeopleTwitter
+- batty
+- doommetal
+- AwesomeCarMods
+- lewronggeneration
+- enlightenedbirdmen
+- japancirclejerk
+- PussyPass
+---

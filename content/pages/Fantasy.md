@@ -1,0 +1,24 @@
+---
+title: Fantasy
+crosslinks:
+- books
+- youtubefactsbot
+- WoT
+- KingkillerChronicle
+- Malazan
+- Stormlight_Archive
+- asoiaf
+- youtubot
+- witcher
+- AskHistorians
+- OrganiseFantasy
+- xkcd
+- Mistborn
+- AskReddit
+- fantasywriters
+- noveltranslations
+- respectthreads
+- Write2Publish
+- worldbuilding
+- esmereldaweatherwax
+---

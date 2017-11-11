@@ -1,0 +1,24 @@
+---
+title: QualitySocialism
+crosslinks:
+- socialism
+- autotldr
+- youtubefactsbot
+- Libertarian
+- livven
+- LateStageCapitalism
+- u_imguralbumbot
+- anti_gif_bot
+- Anarcho_Capitalism
+- space
+- EmpireDidNothingWrong
+- Connecticut
+- modnews
+- The_Donald
+- MassdropBot
+- shitsocialismsays
+- todayilearned
+- FULLCOMMUNISM
+- autourbanbot
+- Anarchism
+---

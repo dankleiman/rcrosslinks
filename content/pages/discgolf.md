@@ -1,0 +1,24 @@
+---
+title: discgolf
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- livven
+- discexchange
+- anti_gif_bot
+- discdyeing
+- john_yukis_bots
+- ATLdiscgolf
+- botwatch
+- discgolfcirclejerk
+- tmsbmeta
+- funny
+- autourbanbot
+- metric_units
+- gifs
+- alotabot
+- interestingasfuck
+- EnoughTrumpSpam
+- quityourbullshit
+---

@@ -1,0 +1,24 @@
+---
+title: fantasyfootball
+crosslinks:
+- nfl
+- DynastyFF
+- findaleague
+- botpopularitybot
+- IAmA
+- CAHbot
+- anti_gif_bot
+- FootballGameFilm
+- autourbanbot
+- CHIBears
+- FFCommish
+- AskReddit
+- Patriots
+- funny
+- KansasCityChiefs
+- dfsports
+- all
+- '2013'
+- lmnote
+- fantasyfootballIDP
+---

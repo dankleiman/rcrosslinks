@@ -1,0 +1,24 @@
+---
+title: danganronpa
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- ultimategamer
+- AceAttorney
+- livven
+- youtubot
+- john_yukis_bots
+- ultimateprogrammer
+- anti_gif_bot
+- GabrielDropout
+- autourbanbot
+- MassdropBot
+- botwatch
+- 4chan
+- drspoilers
+- teenagers
+- Pixiv
+- R34danganronpa
+- REEEEEEEEEE
+- ultimatedetective
+---

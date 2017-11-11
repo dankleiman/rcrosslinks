@@ -1,0 +1,24 @@
+---
+title: AnimalCrossing
+crosslinks:
+- youtubefactsbot
+- ACTrade
+- ACHacks
+- ACQR
+- youtubot
+- acturnips
+- u_imguralbumbot
+- DreamCrossing
+- AdoptMyVillager
+- actrade
+- amiiboSwap
+- RateMyMayor
+- tmsbmeta
+- 3dshacks
+- BuddyCrossing
+- MassdropBot
+- LateStageCapitalism
+- amiibo
+- casualnintendo
+- livven
+---

@@ -1,0 +1,24 @@
+---
+title: socialmedia
+crosslinks:
+- Entrepreneur
+- youtubot
+- u_imguralbumbot
+- Instagram
+- growmybusiness
+- LateStageCapitalism
+- u_ruizscar
+- Futurology
+- slavelabour
+- Beginning_Photography
+- youtubefactsbot
+- AskMarketing
+- marketing
+- me_irl
+- photography
+- GoodLeagueofGood
+- HailCorporate
+- Python
+- advertising
+- letsplay
+---

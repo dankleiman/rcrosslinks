@@ -1,0 +1,24 @@
+---
+title: 3DS
+crosslinks:
+- 3dshacks
+- youtubefactsbot
+- 3dsFCswap
+- 3DSdeals
+- fireemblem
+- nintendo
+- youtubot
+- pokemon
+- MonsterHunter
+- 3DS_IPS_TN
+- pokemontrades
+- u_imguralbumbot
+- AnimalCrossing
+- NintendoSwitch
+- vita
+- JRPG
+- john_yukis_bots
+- yokaiwatch
+- amiibo
+- EtrianOdyssey
+---

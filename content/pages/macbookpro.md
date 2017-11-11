@@ -1,0 +1,24 @@
+---
+title: macbookpro
+crosslinks:
+- apple
+- youtubefactsbot
+- mac
+- macbook
+- youtubot
+- u_imguralbumbot
+- appleswap
+- Monitors
+- john_yukis_bots
+- osx
+- applehelp
+- pcmasterrace
+- anti_gif_bot
+- SuggestALaptop
+- PleX
+- autotldr
+- privacy
+- WeAreTheMusicMakers
+- laptops
+- mbp2011
+---

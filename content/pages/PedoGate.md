@@ -1,0 +1,24 @@
+---
+title: PedoGate
+crosslinks:
+- conspiracy
+- youtubefactsbot
+- autotldr
+- The_Donald
+- TopMindsOfReddit
+- CoincidenceTheorist
+- WikiLeaks
+- EnoughTrumpSpam
+- AgainstHateSubreddits
+- autourbanbot
+- RomeRules
+- PizzagateUncensored
+- jarjarism
+- MandelaEffect
+- youtubot
+- HumansBeingBros
+- China
+- SubredditDrama
+- pinealgate
+- AMAAggregator
+---

@@ -1,0 +1,24 @@
+---
+title: incremental_games
+crosslinks:
+- starcommanderonline
+- youtubot
+- AlmostAHero
+- WebGames
+- idlemageattack
+- u_imguralbumbot
+- swarmsim
+- IdleCombat
+- CrankGame
+- telemmo
+- youtubefactsbot
+- EggsInc
+- TapTitans2
+- anti_gif_bot
+- meta_incremental
+- CivClicker
+- tmsbmeta
+- DiamondHunt
+- groundhoglife
+- PokeClicker
+---

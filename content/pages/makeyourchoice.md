@@ -1,0 +1,24 @@
+---
+title: makeyourchoice
+crosslinks:
+- JumpChain
+- u_imguralbumbot
+- botwatch
+- nsfwcyoa
+- rational
+- xkcd
+- youtubot
+- CampingandHiking
+- AskScienceFiction
+- autourbanbot
+- ImaginaryTechnology
+- alotabot
+- AskReddit
+- hpmor
+- todayilearned
+- ImaginaryNetwork
+- WormFanfic
+- HFY
+- youtubefactsbot
+- civ
+---

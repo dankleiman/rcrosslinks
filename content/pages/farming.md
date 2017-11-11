@@ -1,0 +1,24 @@
+---
+title: farming
+crosslinks:
+- homestead
+- homesteading
+- youtubefactsbot
+- gardening
+- mildlypenis
+- TwoXChromosomes
+- MassdropBot
+- ShopCats
+- MushroomGrowers
+- Entrepreneur
+- u_imguralbumbot
+- conspiracy
+- goodyearwelt
+- science
+- BrasilOnReddit
+- NegativeWithGold
+- buyitforlife
+- Homesteading
+- youtubot
+- news
+---

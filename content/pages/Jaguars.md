@@ -1,0 +1,24 @@
+---
+title: Jaguars
+crosslinks:
+- nfl
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- Tennesseetitans
+- NFL_Draft
+- Patriots
+- Texans
+- MassdropBot
+- nflstreams
+- AZCardinals
+- AskReddit
+- livven
+- CatTeamBrotherhood
+- EvilLeagueOfEvil
+- '2013'
+- detroitlions
+- Browns
+- CoalitionAgainstEvil
+- falcons
+---

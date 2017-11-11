@@ -1,0 +1,24 @@
+---
+title: drawing
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- Art
+- youtubot
+- livven
+- MassdropBot
+- anti_gif_bot
+- ArtFundamentals
+- pics
+- delusionalartists
+- redditgetsdrawn
+- tmsbmeta
+- learntodraw
+- me_irl
+- doodles
+- rapperadayproject
+- h3h3productions
+- gaming
+- Sneks
+- RetroFuturism
+---

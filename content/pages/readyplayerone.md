@@ -1,0 +1,24 @@
+---
+title: readyplayerone
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- RP1SFX
+- youtubot
+- gunters_lounge
+- movies
+- books
+- CrossStitch
+- printSF
+- AccidentalRenaissance
+- codes
+- Anoraks_Almanac
+- Vive
+- oldpeoplefacebook
+- bbs
+- videos
+- Damnthatsinteresting
+- anti_gif_bot
+- livven
+- goldbenefits
+---

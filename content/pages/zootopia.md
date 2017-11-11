@@ -1,0 +1,24 @@
+---
+title: zootopia
+crosslinks:
+- Pixiv
+- livven
+- anti_gif_bot
+- furry_irl
+- u_imguralbumbot
+- furry
+- xkcd
+- youtubefactsbot
+- tmsbmeta
+- place
+- AskReddit
+- disney
+- MovieDetails
+- surrealmemes
+- funny
+- ArtFundamentals
+- getdisciplined
+- youtubot
+- BoltTheSuperdog
+- theblackvoid
+---

@@ -1,0 +1,24 @@
+---
+title: foreskin_restoration
+crosslinks:
+- restoringdick
+- EverythingScience
+- Foregen
+- Intactivists
+- imagesofnetwork
+- Phimosis
+- circumcision
+- bestof
+- AskMen
+- whatisthisthing
+- IsAnybodyHere
+- Femdom
+- alotabot
+- Transhuman
+- autotldr
+- youtubefactsbot
+- youtubot
+- foregen
+- sex
+- keto
+---

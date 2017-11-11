@@ -1,0 +1,24 @@
+---
+title: blackmagicfuckery
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- botwatch
+- gifs
+- interestingasfuck
+- botpopularitybot
+- woahdude
+- u_imguralbumbot
+- cardistry
+- oddlysatisfying
+- xkcd
+- restofthefuckingowl
+- videos
+- AskReddit
+- GeometryIsNeat
+- tmsbmeta
+- totallynotrobots
+- nocontext
+---

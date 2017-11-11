@@ -1,0 +1,24 @@
+---
+title: xboxone
+crosslinks:
+- tmsbmeta
+- PS4
+- gaming
+- pcmasterrace
+- john_yukis_bots
+- DestinyTheGame
+- RocketLeague
+- halo
+- masseffect
+- Games
+- forhonor
+- Seaofthieves
+- GhostRecon
+- residentevil
+- pcgaming
+- pathofexile
+- XboxThemes
+- titanfall
+- EliteDangerous
+- xbox
+---

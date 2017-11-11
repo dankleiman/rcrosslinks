@@ -1,0 +1,24 @@
+---
+title: neuroscience
+crosslinks:
+- autotldr
+- askscience
+- neuro
+- DebateEvolution
+- offmychest
+- skeptic
+- privacy
+- Neuropsychology
+- MachineLearning
+- AboutDopamine
+- JPGibbs
+- ShrugLifeSyndicate
+- anti_gif_bot
+- neurallace
+- premed
+- AskAcademia
+- Anatomy
+- Scholar
+- psychology
+- science
+---

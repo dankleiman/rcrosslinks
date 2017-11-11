@@ -1,0 +1,24 @@
+---
+title: Incel
+crosslinks:
+- Incelwatch
+- youtubefactsbot
+- AgainstHateSubreddits
+- ForeverAlone
+- iamverybadass
+- IncelsWomen
+- Incels
+- IAmA
+- AskReddit
+- strapon
+- depression
+- autourbanbot
+- ftm
+- IncelsGoneWild
+- TopMindsOfReddit
+- pics
+- DeadBedrooms
+- OkCupid
+- TheRedPill
+- TwoXChromasomes
+---

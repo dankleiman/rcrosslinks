@@ -1,0 +1,24 @@
+---
+title: Stellaris
+crosslinks:
+- youtubefactsbot
+- paradoxplaza
+- u_imguralbumbot
+- HFY
+- 4Xgaming
+- StellarisMods
+- shitstellarissays
+- xkcd
+- CrusaderKings
+- tmsbmeta
+- totallynotrobots
+- bestof
+- stellarisrpg
+- nocontext
+- eu4
+- EmpireDidNothingWrong
+- askscience
+- livven
+- anime
+- autourbanbot
+---

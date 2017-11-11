@@ -1,0 +1,24 @@
+---
+title: army
+crosslinks:
+- Amry
+- armycirclejerk
+- Military
+- nationalguard
+- AirForce
+- navy
+- AskReddit
+- offmychest
+- Drama
+- Militaryfaq
+- USMilitarySO
+- ROTC
+- bestof
+- IAmA
+- SubredditDrama
+- OutOfTheLoop
+- funny
+- BestOfGuzman
+- dogetipbot
+- JustBootThings
+---

@@ -1,0 +1,24 @@
+---
+title: dresdenfiles
+crosslinks:
+- youtubefactsbot
+- books
+- youtubot
+- WritingPrompts
+- whowouldwin
+- interestingasfuck
+- slatestarcodex
+- KingkillerChronicle
+- Fantasy
+- anti_gif_bot
+- chicago
+- MassdropBot
+- firefly
+- maga
+- todayilearned
+- pics
+- FATErpg
+- cosplaygirls
+- xkcd
+- livven
+---

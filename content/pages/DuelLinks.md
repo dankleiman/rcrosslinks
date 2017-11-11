@@ -1,0 +1,24 @@
+---
+title: DuelLinks
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- yugioh
+- livven
+- tmsbmeta
+- youtubot
+- justneckbeardthings
+- anti_gif_bot
+- alotabot
+- CompetitiveDL
+- pokemon
+- TeraOnline
+- ShinyPokemon
+- hearthstone
+- badmath
+- DBZDokkanBattle
+- stunfisk
+- Yugioh101
+- shittyyugiohmemes
+- vredditmirrorbot
+---

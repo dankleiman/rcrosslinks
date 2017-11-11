@@ -1,0 +1,24 @@
+---
+title: FantasyArt
+crosslinks:
+- ImaginaryMonsters
+- ImaginaryLandscapes
+- ImaginaryCharacters
+- ReasonableFantasy
+- ImaginaryDwarves
+- ImaginaryDragons
+- ImaginaryWizards
+- ImaginaryWitches
+- ImaginaryHellscapes
+- ImaginaryOrcs
+- ImaginaryCastles
+- ImaginaryWesteros
+- ImaginaryElves
+- ImaginaryAzeroth
+- ImaginaryMiddleEarth
+- ImaginaryWarriors
+- ImaginaryClerics
+- ImaginaryAngels
+- mtgporn
+- ImaginaryGiants
+---

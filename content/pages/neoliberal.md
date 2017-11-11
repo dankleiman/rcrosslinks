@@ -1,0 +1,24 @@
+---
+title: neoliberal
+crosslinks:
+- The_Donald
+- Economics
+- badeconomics
+- LateStageCapitalism
+- politics
+- ChapoTrapHouse
+- ukpolitics
+- SubredditDrama
+- europe
+- autotldr
+- worldnews
+- socialism
+- Drama
+- news
+- pics
+- Libertarian
+- all
+- Enough_Sanders_Spam
+- AskReddit
+- ShitLiberalsSay
+---

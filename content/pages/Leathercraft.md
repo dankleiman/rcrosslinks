@@ -1,0 +1,24 @@
+---
+title: Leathercraft
+crosslinks:
+- LeatherClassifieds
+- crafts
+- u_imguralbumbot
+- DIY
+- youtubefactsbot
+- youtubot
+- MassdropBot
+- Serendipity
+- fo4
+- upholstery
+- churning
+- alotabot
+- hearthstone
+- scuba
+- leatherclassifieds
+- DaftPunk
+- BuyItForLife
+- totallynotrobots
+- ArmsandArmor
+- malefashionadvice
+---

@@ -1,0 +1,24 @@
+---
+title: brasilivre
+crosslinks:
+- brasil
+- BrasildoB
+- news
+- MassdropBot
+- youtubefactsbot
+- brasil_drama
+- worldnews
+- xkcd
+- tits
+- ANI_COMMUNISM
+- tiodopave
+- AskHistorians
+- autotldr
+- progun
+- vzla
+- circojeca
+- nottheonion
+- LegitimaDefesa
+- botwatch
+- MGTOW
+---

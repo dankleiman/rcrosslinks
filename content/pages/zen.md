@@ -1,0 +1,24 @@
+---
+title: zen
+crosslinks:
+- youtubefactsbot
+- announcements
+- zensangha
+- Buddhism
+- Zensangha
+- ezn
+- zen_mystical
+- youtubot
+- zens
+- ShrugLifeSyndicate
+- CTMU
+- ewkontherecord
+- chan
+- alotabot
+- taoism
+- OneraddaZ
+- autourbanbot
+- gaming
+- Koans
+- me_irl
+---

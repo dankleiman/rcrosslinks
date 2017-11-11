@@ -1,0 +1,24 @@
+---
+title: curlyhair
+crosslinks:
+- u_imguralbumbot
+- HaircareScience
+- youtubefactsbot
+- NoPoo
+- FancyFollicles
+- Naturalhair
+- livven
+- haircareexchange
+- FierceFlow
+- youtubot
+- MassdropBot
+- redditrequest
+- cosplayers
+- tressless
+- FrenchWestIndies
+- r4r
+- tmsbmeta
+- redditmobile
+- BlackPeopleTwitter
+- vredditmirrorbot
+---

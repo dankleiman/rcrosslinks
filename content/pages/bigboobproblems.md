@@ -1,0 +1,24 @@
+---
+title: bigboobproblems
+crosslinks:
+- ABraThatFits
+- u_imguralbumbot
+- livven
+- MassdropBot
+- xkcd
+- hiking
+- prettygirlproblems
+- GenderCritical
+- tifu
+- Reduction
+- mediumboobproblems
+- OutOfTheLoop
+- braswap
+- TrollXChromosomes
+- IAmA
+- xxfitness
+- bustyboys
+- weddingplanning
+- watchitforthecat
+- LittleBoobProblems
+---

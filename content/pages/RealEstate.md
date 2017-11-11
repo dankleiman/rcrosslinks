@@ -1,0 +1,24 @@
+---
+title: RealEstate
+crosslinks:
+- legaladvice
+- youtubefactsbot
+- u_imguralbumbot
+- Landlord
+- realestateinvesting
+- HomeImprovement
+- realtors
+- personalfinance
+- Mortgages
+- LosAngeles
+- dataisbeautiful
+- john_yukis_bots
+- xkcd
+- newzealand
+- houston
+- SeattleWA
+- homeowners
+- RidiculousRealEstate
+- DIY
+- titlegore
+---

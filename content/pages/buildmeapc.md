@@ -1,0 +1,24 @@
+---
+title: buildmeapc
+crosslinks:
+- buildapc
+- buildapcsales
+- hardwareswap
+- Amd
+- buildapcforme
+- MouseReview
+- youtubefactsbot
+- emulation
+- pcmasterrace
+- microsoftsoftwareswap
+- Monitors
+- SuggestALaptop
+- headphones
+- watercooling
+- PUBATTLEGROUNDS
+- overclocking
+- sffpc
+- titlegore
+- PCMasterRace
+- mountandblade
+---

@@ -1,0 +1,24 @@
+---
+title: marriedredpill
+crosslinks:
+- askMRP
+- TheRedPill
+- TheBluePill
+- youtubot
+- asktrp
+- relationships
+- AskReddit
+- RPChristians
+- quityourbullshit
+- keto
+- RedPillWomen
+- RedPillWorkplace
+- redpillfatherhood
+- theredpillright
+- GetMotivated
+- redpillbooks
+- relationship_advice
+- RemindMeBot
+- howtonotgiveafuck
+- RedPillWives
+---

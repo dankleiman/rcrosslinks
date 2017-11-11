@@ -1,0 +1,24 @@
+---
+title: UpliftingNews
+crosslinks:
+- youtubot
+- LateStageCapitalism
+- AskReddit
+- tmsbmeta
+- IAmA
+- HailCorporate
+- ShitAmericansSay
+- worldnews
+- news
+- india
+- todayilearned
+- The_Donald
+- u_imguralbumbot
+- pics
+- PupliftingNews
+- xkcd
+- circlebroke2
+- Drama
+- zeronet
+- Linky_links
+---

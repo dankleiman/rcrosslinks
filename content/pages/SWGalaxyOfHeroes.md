@@ -1,0 +1,24 @@
+---
+title: SWGalaxyOfHeroes
+crosslinks:
+- swgoh_guilds
+- u_imguralbumbot
+- youtubot
+- FrozenInCarbonite
+- anti_gif_bot
+- EmpireDidNothingWrong
+- Ghostdivision
+- SWGalaxyOfMemes
+- IluminaPrimu
+- john_yukis_bots
+- StarWars
+- tmsbmeta
+- FFRecordKeeper
+- LiftCarryThrow
+- alotabot
+- autourbanbot
+- PrequelMemes
+- Games
+- CantinaARG
+- SwgohCharacterIdeas
+---

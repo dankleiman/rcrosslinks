@@ -1,0 +1,24 @@
+---
+title: NotMyJob
+crosslinks:
+- youtubefactsbot
+- livven
+- MaliciousCompliance
+- u_imguralbumbot
+- anti_gif_bot
+- CrappyDesign
+- funny
+- JobDoneBoss
+- xkcd
+- mildlyinteresting
+- youtubot
+- mildlyinfuriating
+- wildlypenis
+- dontdeadopeninside
+- DiWHY
+- botwatch
+- pics
+- de
+- totallynotrobots
+- SUBREDDITNAME
+---

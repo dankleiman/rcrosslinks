@@ -1,0 +1,24 @@
+---
+title: photocritique
+crosslinks:
+- u_imguralbumbot
+- postprocessing
+- Colorado
+- itookapicture
+- photography
+- BeginnerPhotoCritique
+- photoclass2017
+- analog
+- youtubefactsbot
+- MassdropBot
+- streetphotography
+- minimalist_art
+- mildlypenis
+- autourbanbot
+- beerporn
+- unexpecteddune
+- shittyhdr
+- astrophotography
+- findtheflaws
+- botpopularitybot
+---

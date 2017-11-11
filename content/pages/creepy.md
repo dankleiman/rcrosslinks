@@ -1,0 +1,24 @@
+---
+title: creepy
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- nosleep
+- AskReddit
+- pics
+- ImaginaryHorrors
+- Art
+- u_imguralbumbot
+- SCP
+- WTF
+- gifs
+- videos
+- youtubot
+- hatchery
+- thalassophobia
+- WritingPrompts
+- AskHistorians
+- autotldr
+- xkcd
+- ImaginaryMonsters
+---

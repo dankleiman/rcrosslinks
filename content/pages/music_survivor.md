@@ -1,0 +1,24 @@
+---
+title: music_survivor
+crosslinks:
+- Kanye
+- youtubefactsbot
+- indieheads
+- FrankOcean
+- youtubot
+- weezer
+- hhh
+- RnBHeads
+- tmsbmeta
+- KendrickLamar
+- hiphopheads
+- TheStrokes
+- RATM
+- AndersonPaak
+- Jazz
+- beatles
+- Music
+- arcticmonkeys
+- gorillaz
+- Hiphopcirclejerk
+---

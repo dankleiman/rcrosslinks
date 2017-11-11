@@ -1,0 +1,24 @@
+---
+title: StarWarsEU
+crosslinks:
+- StarWars
+- youtubefactsbot
+- StarWarsReference
+- starwarscanon
+- u_imguralbumbot
+- youtubot
+- MawInstallation
+- starwarscollecting
+- AskReddit
+- megalinks
+- AskScienceFiction
+- xkcd
+- starwarsspeculation
+- EmpireDidNothingWrong
+- starwarsrebels
+- starwarscomics
+- FanFiction
+- sweu
+- respectthreads
+- livven
+---

@@ -1,0 +1,24 @@
+---
+title: KitchenConfidential
+crosslinks:
+- youtubefactsbot
+- WeWantPlates
+- youtubot
+- u_imguralbumbot
+- livven
+- TalesFromYourServer
+- AskReddit
+- chefknives
+- AskCulinary
+- tmsbmeta
+- zeronet
+- MaliciousCompliance
+- anti_gif_bot
+- SubredditDrama
+- funny
+- gatekeeping
+- autotldr
+- shittyfoodporn
+- IAmA
+- trailerparkboys
+---

@@ -1,0 +1,24 @@
+---
+title: Tinder
+crosslinks:
+- autourbanbot
+- AskReddit
+- tmsbmeta
+- circlebroke2
+- xkcd
+- ShitRedditSays
+- IAmA
+- SubredditDrama
+- bestof
+- funny
+- john_yukis_bots
+- seduction
+- nohomo_bot
+- youtubot
+- Drama
+- botpopularitybot
+- Jokes
+- livven
+- me_irl
+- RoastMe
+---

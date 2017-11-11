@@ -1,0 +1,24 @@
+---
+title: VintageApple
+crosslinks:
+- u_imguralbumbot
+- retrobattlestations
+- pics
+- vegaslocals
+- tipofmyjoystick
+- This_Is_Bait
+- Next
+- gadgets
+- apple
+- youtubefactsbot
+- Spraypaint
+- youtubot
+- ThingsCutInHalfPorn
+- datahoarders
+- xkcd
+- MassdropBot
+- nottheonion
+- gameswap
+- totallynotrobots
+- MechanicalKeyboards
+---

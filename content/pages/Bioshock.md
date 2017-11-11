@@ -1,0 +1,24 @@
+---
+title: Bioshock
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- gaming
+- HalfLife
+- youtubot
+- u_imguralbumbot
+- tmsbmeta
+- photoshopbattles
+- cosplay
+- MassdropBot
+- badpolitics
+- webcomics
+- livven
+- cosplaygirls
+- john_yukis_bots
+- dontdeadopeninside
+- witcher
+- AskReddit
+- GreenLattice
+- AsABlackMan
+---

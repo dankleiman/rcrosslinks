@@ -1,0 +1,24 @@
+---
+title: ComedyNecrophilia
+crosslinks:
+- ComedyCemetery
+- comedynecromancy
+- DeepFriedMemes
+- youtubefactsbot
+- u_imguralbumbot
+- surrealmemes
+- bonehurtingjuice
+- nukedmemes
+- MassdropBot
+- tmsbmeta
+- 4PanelCringe
+- comics
+- ExpandDong
+- livven
+- oldpeoplefacebook
+- ledootgeneration
+- terriblefacebookmemes
+- 22PanelCringe
+- Badfaketexts
+- justneckbeardthings
+---

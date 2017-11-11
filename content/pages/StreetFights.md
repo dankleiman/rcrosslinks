@@ -1,0 +1,24 @@
+---
+title: StreetFights
+crosslinks:
+- youtubefactsbot
+- iamverybadass
+- PublicFreakout
+- livven
+- IAmA
+- PrideNeverDies
+- youtubot
+- pussypassdenied
+- botwatch
+- watchpeopledie
+- fightporn
+- Whatcouldgowrong
+- SubredditDrama
+- JusticeServed
+- autourbanbot
+- metacanada
+- botsrights
+- beholdthemasterrace
+- AsABlackMan
+- CringeAnarchy
+---

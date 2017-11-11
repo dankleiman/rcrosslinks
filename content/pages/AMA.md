@@ -1,0 +1,24 @@
+---
+title: AMA
+crosslinks:
+- AMAAggregator
+- youtubefactsbot
+- IAmA
+- AskReddit
+- exmormon
+- youtubot
+- john_yukis_bots
+- lebanon
+- childfree
+- casualiama
+- causeWhyNotMate
+- MassdropBot
+- autourbanbot
+- alotabot
+- Advice
+- The_Donald
+- nohomo_bot
+- worldnews
+- sociopath
+- xkcd
+---

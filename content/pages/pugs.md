@@ -1,0 +1,24 @@
+---
+title: pugs
+crosslinks:
+- livven
+- u_imguralbumbot
+- rarepuppers
+- youtubefactsbot
+- photoshopbattles
+- aww
+- anti_gif_bot
+- PugPhotoshop
+- me_irl
+- ultrablep
+- mlem
+- MassdropBot
+- DIY
+- babushkadogs
+- StoppedWorking
+- sploot
+- tmsbmeta
+- delightfullychubby
+- Puggle
+- Bulldogs
+---

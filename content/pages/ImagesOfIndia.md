@@ -1,0 +1,24 @@
+---
+title: ImagesOfIndia
+crosslinks:
+- india
+- pics
+- EarthPorn
+- imagesofnetwork
+- indianews
+- IndiaSpeaks
+- funny
+- bangalore
+- Kerala
+- food
+- OldSchoolCool
+- itookapicture
+- mildlyinteresting
+- MapPorn
+- whatsthisbug
+- IncredibleIndia
+- Cricket
+- mumbai
+- whatsthisplant
+- travel
+---

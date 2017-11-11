@@ -1,0 +1,24 @@
+---
+title: Bladesmith
+crosslinks:
+- Blacksmith
+- youtubefactsbot
+- knifemaking
+- u_imguralbumbot
+- knifeclub
+- MassdropBot
+- knives
+- youtubot
+- Serendipity
+- chefknives
+- blacksmithing
+- SWORDS
+- metalworking
+- Shave_Bazaar
+- howto
+- 3Dprinting
+- progun
+- gameofthrones
+- xkcd
+- Bushcraft
+---

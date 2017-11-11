@@ -1,0 +1,24 @@
+---
+title: MineralPorn
+crosslinks:
+- livven
+- u_imguralbumbot
+- geologyporn
+- BrasilOnReddit
+- anti_gif_bot
+- youtubefactsbot
+- stevenuniverse
+- Lapidary
+- rockhounds
+- mildlypenis
+- MassdropBot
+- youtubot
+- pics
+- trypophobia
+- natureporn
+- woahdude
+- whatisitworth
+- MapsWithoutNZ
+- unstirredpaint
+- underpopular
+---

@@ -1,0 +1,24 @@
+---
+title: Scrubs
+crosslinks:
+- youtubefactsbot
+- youtubot
+- xkcd
+- infp
+- SAVEBRENDAN
+- MassdropBot
+- SarahChalke
+- wallpapers
+- AgainstKarmaWhores
+- The_Donald
+- WotmudV
+- datahoarders
+- Showerthoughts
+- IAmA
+- Alexinc
+- youtubehaiku
+- europe
+- howyoudoin
+- DataHoarder
+- crafts
+---

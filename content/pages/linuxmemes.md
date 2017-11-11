@@ -1,0 +1,24 @@
+---
+title: linuxmemes
+crosslinks:
+- xkcd
+- linux
+- youtubefactsbot
+- linuxmasterrace
+- unixporn
+- livven
+- BashRMS
+- anti_gif_bot
+- autourbanbot
+- windowsmemes
+- place
+- MassdropBot
+- Fuckgnome
+- LinuxCirclejerk
+- ProgrammerHumor
+- sysadmin
+- me_irl
+- peoplesmetanarchism
+- insanepeoplereddit
+- WindowsMasterRace
+---

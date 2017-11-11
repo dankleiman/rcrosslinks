@@ -1,0 +1,24 @@
+---
+title: GamerPals
+crosslinks:
+- alotabot
+- mcservers
+- feedthebeastservers
+- dontstarve
+- youtubefactsbot
+- TeamRedditTeams
+- FFXIVRECRUITMENT
+- youtubot
+- MinecraftBuddies
+- LeagueConnect
+- ProjectAwesome
+- EliteWings
+- gtaonlinecrews
+- wowraf
+- Serendipity
+- gameDevClassifieds
+- pokemontrades
+- dayzlfg
+- clans
+- speedrun
+---

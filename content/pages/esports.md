@@ -1,0 +1,24 @@
+---
+title: esports
+crosslinks:
+- leagueoflegends
+- starcraft
+- Competitiveoverwatch
+- youtubefactsbot
+- DotA2
+- halo
+- GlobalOffensive
+- CoDCompetitive
+- thisweekinreview
+- autotldr
+- buildapc
+- altcoin
+- forhire
+- u_imguralbumbot
+- QuakeChampions
+- CompetitiveHalo
+- broodwar
+- Kappa
+- Serendipity
+- RealTimeStrategy
+---

@@ -1,0 +1,24 @@
+---
+title: Emo
+crosslinks:
+- youtubefactsbot
+- youtubot
+- poppunkers
+- Emojerk
+- u_imguralbumbot
+- brandnew
+- twinkledaddies
+- indieheads
+- EmoScreamo
+- tmsbmeta
+- john_yukis_bots
+- emoscreamo
+- zeropointmodule
+- undelete
+- Screamo
+- guitarpedals
+- sparklepunk
+- Anarchism
+- autourbanbot
+- UIUC
+---

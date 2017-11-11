@@ -1,0 +1,24 @@
+---
+title: quityourbullshit
+crosslinks:
+- youtubefactsbot
+- TranscribersOfReddit
+- u_imguralbumbot
+- AskReddit
+- youtubot
+- IAmA
+- SubredditDrama
+- autourbanbot
+- pics
+- The_Donald
+- Drama
+- funny
+- iamverybadass
+- bestof
+- nocontext
+- AsABlackMan
+- OopsDidntMeanTo
+- circlebroke2
+- ShitPoliticsSays
+- sadcringe
+---

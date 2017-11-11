@@ -1,0 +1,24 @@
+---
+title: fucktheredpill
+crosslinks:
+- MGTOW
+- TheRedPill
+- Incels
+- MensRights
+- askMRP
+- AskWomen
+- altright
+- RedPillWomen
+- marriedredpill
+- asktrp
+- Truecels
+- PurplePillDebate
+- theredpillright
+- news
+- videos
+- The_Donald
+- AskReddit
+- autourbanbot
+- LivestreamFail
+- AskMen
+---

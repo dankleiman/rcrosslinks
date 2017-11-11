@@ -1,0 +1,24 @@
+---
+title: battlecats
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- BattleCatsCheats
+- livven
+- battlecatsrangers
+- CompileBot
+- gamatoto
+- john_yukis_bots
+- NoFaceHere
+- autourbanbot
+- place
+- expectedfactorial
+- theydidtheshittymath
+- mildlyinteresting
+- reeeeee
+- botwatch
+- doctorbutts
+- RemindMeBot
+- battlecatscheats
+---

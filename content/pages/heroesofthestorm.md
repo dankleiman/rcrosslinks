@@ -1,0 +1,24 @@
+---
+title: heroesofthestorm
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- u_imguralbumbot
+- Overwatch
+- wow
+- heroesmeta
+- youtubot
+- hearthstone
+- alotabot
+- leagueoflegends
+- xkcd
+- NexusNewbies
+- place
+- autourbanbot
+- starcraft
+- MassdropBot
+- DotA2
+- lookingforheroes
+- HotsUndelete
+- Games
+---

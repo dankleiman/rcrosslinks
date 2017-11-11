@@ -1,0 +1,24 @@
+---
+title: pcgaming
+crosslinks:
+- GameDeals
+- pcmasterrace
+- Games
+- buildapc
+- Amd
+- PUBATTLEGROUNDS
+- starcitizen
+- allGamers
+- Steam
+- cemu
+- forhonor
+- gaming
+- nvidia
+- titanfall
+- DestinyTheGame
+- hardware
+- GameDealsMeta
+- masseffect
+- GlobalOffensive
+- The_Gaben
+---

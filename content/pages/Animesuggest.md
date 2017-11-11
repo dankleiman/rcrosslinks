@@ -1,0 +1,24 @@
+---
+title: Animesuggest
+crosslinks:
+- Roboragi
+- anime
+- youtubefactsbot
+- araragi
+- youtubot
+- manga
+- fatestaynight
+- Animedubs
+- Naruto
+- HentaiSuggest
+- anime_irl
+- TrueAnime
+- TWGOK
+- AnimeShortFilms
+- tmsbmeta
+- KarmaCourt
+- TokyoGhoul
+- lightnovels
+- iamverybadass
+- animation
+---

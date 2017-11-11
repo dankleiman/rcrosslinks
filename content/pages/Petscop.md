@@ -1,0 +1,24 @@
+---
+title: Petscop
+crosslinks:
+- youtubefactsbot
+- creepygaming
+- anti_gif_bot
+- u_imguralbumbot
+- john_yukis_bots
+- livven
+- ARG
+- tmsbmeta
+- fivenightsatfreddys
+- tipofmyjoystick
+- MassdropBot
+- LearnWithMeSub
+- PetscopREVEAL
+- retrogaming
+- autourbanbot
+- The_Donald
+- HalfLife
+- UnexpectedHomestuck
+- alotabot
+- circlebroke2
+---

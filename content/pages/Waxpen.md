@@ -1,0 +1,24 @@
+---
+title: Waxpen
+crosslinks:
+- Saionara
+- SOURCEvapes
+- youtubefactsbot
+- WAXRDA
+- vaporents
+- electronic_cigarette
+- u_imguralbumbot
+- DivineTribeVaporizers
+- portabledabs
+- oilpen
+- UpTech
+- youtubot
+- rosin
+- EntExchange
+- MassdropBot
+- CannabisExtracts
+- anti_gif_bot
+- CBD
+- livven
+- tmsbmeta
+---

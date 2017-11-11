@@ -1,0 +1,24 @@
+---
+title: 7kglobal
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- Pixiv
+- alotabot
+- livven
+- anti_gif_bot
+- sevenknightsfriends
+- john_yukis_bots
+- autourbanbot
+- Games
+- Pay_Respects
+- summonerswar
+- emojipasta
+- Kings_Raid
+- xkcd
+- sevenknightsguild
+- REEEEEEEEEE
+- pokemon
+- ShadowBan
+---

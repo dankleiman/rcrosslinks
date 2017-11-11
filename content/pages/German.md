@@ -1,0 +1,24 @@
+---
+title: German
+crosslinks:
+- youtubot
+- youtubefactsbot
+- de
+- translator
+- germany
+- autotldr
+- badlinguistics
+- DACH
+- LanguageBuds
+- languagelearning
+- CombatFootage
+- de_writingprompts
+- u_imguralbumbot
+- germusic
+- Dokumentationen
+- justneckbeardthings
+- autourbanbot
+- MassdropBot
+- europeannationalism
+- language_exchange
+---

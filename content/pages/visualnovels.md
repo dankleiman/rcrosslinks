@@ -1,0 +1,24 @@
+---
+title: visualnovels
+crosslinks:
+- steinsgate
+- fatestaynight
+- otomegames
+- vita
+- Roboragi
+- tmsbmeta
+- Games
+- grisaia
+- Serendipity
+- vnsuggest
+- youtubot
+- u_imguralbumbot
+- Higurashinonakakoroni
+- personalfinance
+- AcquittalGame
+- vndiscuss
+- NintendoSwitch
+- ARG
+- JRPG
+- razer
+---

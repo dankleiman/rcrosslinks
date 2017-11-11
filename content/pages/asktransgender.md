@@ -1,0 +1,24 @@
+---
+title: asktransgender
+crosslinks:
+- Transgender_Surgeries
+- TransDIY
+- MtF
+- ftm
+- transtimelines
+- transvoice
+- transgenderUK
+- science
+- AskReddit
+- traaaaaaannnnnnnnnns
+- transgenderau
+- ask_transgender
+- transgendercirclejerk
+- mypartneristrans
+- TransLater
+- john_yukis_bots
+- transgender
+- u_imguralbumbot
+- youtubot
+- BoredDead
+---

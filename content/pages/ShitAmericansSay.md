@@ -1,0 +1,24 @@
+---
+title: ShitAmericansSay
+crosslinks:
+- elsbot
+- todayilearned
+- worldnews
+- PerfectTiming
+- dataisbeautiful
+- reactiongifs
+- hiphopheads
+- AskReddit
+- europe
+- newzealand
+- pics
+- news
+- askreddit
+- ShitEuropeansSay
+- videos
+- The_Donald
+- politics
+- AskHistorians
+- funny
+- AskAnAmerican
+---

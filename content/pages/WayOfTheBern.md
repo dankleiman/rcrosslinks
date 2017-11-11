@@ -1,0 +1,24 @@
+---
+title: WayOfTheBern
+crosslinks:
+- autotldr
+- Enough_Sanders_Spam
+- conspiracy
+- SandersForPresident
+- politics
+- TopMindsOfReddit
+- Kossacks_for_Sanders
+- The_Donald
+- TheRecordCorrected
+- Political_Revolution
+- neoliberal
+- ChapoTrapHouse
+- youtubefactsbot
+- WikiLeaks
+- hillaryclinton
+- tmsbmeta
+- autourbanbot
+- LateStageCapitalism
+- all
+- news
+---

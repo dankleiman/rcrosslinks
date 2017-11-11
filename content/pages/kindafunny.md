@@ -1,0 +1,24 @@
+---
+title: kindafunny
+crosslinks:
+- ColinsLastStand
+- youtubefactsbot
+- youtubot
+- livven
+- tmsbmeta
+- CoolGamesInc
+- john_yukis_bots
+- anti_gif_bot
+- hotones
+- KotakuInAction
+- OutOfTheLoop
+- funhaus
+- LivestreamFail
+- nintendo
+- Fireteams
+- videos
+- NoMansSkyTheGame
+- gatekeeping
+- alotabot
+- LadyGaga
+---

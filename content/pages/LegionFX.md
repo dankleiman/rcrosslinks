@@ -1,0 +1,24 @@
+---
+title: LegionFX
+crosslinks:
+- youtubefactsbot
+- livven
+- episodehub
+- autotldr
+- autourbanbot
+- arrow
+- FlashTV
+- Amoledbackgrounds
+- identifythisfont
+- television
+- MarvelatFox
+- circlebroke2
+- tipofmytongue
+- televisioncirclejerk
+- u_imguralbumbot
+- dragonsfuckingcars
+- translator
+- bigbangtheory
+- WeWantPlates
+- iamverysmart
+---

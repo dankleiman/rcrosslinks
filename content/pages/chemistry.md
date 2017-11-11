@@ -1,0 +1,24 @@
+---
+title: chemistry
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- livven
+- crystalgrowing
+- chemhelp
+- xkcd
+- tmsbmeta
+- rockhounds
+- Physics
+- ScientistsMarch
+- autourbanbot
+- ChemicalEngineering
+- AskReddit
+- askscience
+- alotabot
+- tattoofails
+- Charcuterie
+- SuggestALaptop
+- UnexpectedMulaney
+---

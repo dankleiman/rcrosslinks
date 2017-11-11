@@ -1,0 +1,24 @@
+---
+title: BlueCorner
+crosslinks:
+- MassdropBot
+- TheBlueCorner
+- ainbowroad
+- place
+- osugame
+- RedCorner
+- KrasnayaArmiya
+- OfficialBlueCorner
+- brasil
+- BrasilOnReddit
+- downwithblue
+- GoldandBlack
+- periwinkle
+- RocketLeague
+- ColorDefenseForce
+- GreenLattice
+- PureBlue
+- AgainstKarmaWhores
+- youtubefactsbot
+- ainbow
+---

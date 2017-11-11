@@ -1,0 +1,24 @@
+---
+title: starterpacks
+crosslinks:
+- youtubefactsbot
+- youtubot
+- gatekeeping
+- u_imguralbumbot
+- tmsbmeta
+- MassdropBot
+- The_Donald
+- Drama
+- circlebroke2
+- lewronggeneration
+- SubredditDrama
+- LateStageCapitalism
+- xkcd
+- john_yukis_bots
+- veteranpacks
+- AskReddit
+- politics
+- iamverybadass
+- ShitAmericansSay
+- EDC
+---

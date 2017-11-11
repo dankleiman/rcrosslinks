@@ -1,0 +1,24 @@
+---
+title: barstoolsports
+crosslinks:
+- youtubefactsbot
+- youtubot
+- IAmA
+- u_imguralbumbot
+- nba
+- tmsbmeta
+- rapbattles
+- AskReddit
+- PardonMyTake
+- BarstoolRadio
+- CFB
+- legaladvice
+- WTF
+- explainlikeimfive
+- atmidnight
+- place
+- copypasta
+- livven
+- TheLeftovers
+- all
+---

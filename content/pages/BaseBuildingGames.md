@@ -1,0 +1,24 @@
+---
+title: BaseBuildingGames
+crosslinks:
+- RulersQuest
+- OstrivGame
+- youtubot
+- tycoon
+- raftgame
+- 7daystodie
+- Floatlands
+- cataclysmdda
+- TheyAreBillions
+- avorion
+- RiseOfIndustry
+- FortsGame
+- albiononline
+- Overcrowd
+- bestof
+- elderscrollsonline
+- CubeWorld
+- crusaderkings2
+- Games
+- factorio
+---

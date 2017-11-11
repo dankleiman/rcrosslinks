@@ -1,0 +1,24 @@
+---
+title: whatsthisbug
+crosslinks:
+- u_imguralbumbot
+- spiders
+- youtubefactsbot
+- Bedbugs
+- anti_gif_bot
+- livven
+- MassdropBot
+- whatsthisplant
+- youtubot
+- whatisthisthing
+- awwnverts
+- Entomology
+- mothNSFW
+- DuplicatesBot
+- pics
+- botwatch
+- insects
+- JumpingKaren
+- Whatisthis
+- tmsbmeta
+---

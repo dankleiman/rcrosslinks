@@ -1,0 +1,24 @@
+---
+title: CampingandHiking
+crosslinks:
+- Ultralight
+- youtubefactsbot
+- u_imguralbumbot
+- campingwithkids
+- EarthPorn
+- trailmeals
+- hiking
+- hammockcamping
+- CampingGear
+- youtubot
+- camping
+- Adirondacks
+- WildernessBackpacking
+- pics
+- coloradohikers
+- Yosemite
+- Backcountry
+- norwayonreddit
+- wmnf
+- AppalachianTrail
+---

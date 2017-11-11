@@ -1,0 +1,24 @@
+---
+title: wargame
+crosslinks:
+- youtubefactsbot
+- wargamebootcamp
+- u_imguralbumbot
+- Steel_Division
+- livven
+- ShitWehraboosSay
+- youtubot
+- MemeEconomy
+- unexpectedsabaton
+- OutOfTheLoop
+- alotabot
+- Warthunder
+- anti_gif_bot
+- gaming
+- MilitaryPorn
+- botwatch
+- TankPorn
+- joinsquad
+- WorldOfWarships
+- john_yukis_bots
+---

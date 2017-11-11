@@ -1,0 +1,24 @@
+---
+title: singing
+crosslinks:
+- youtubot
+- youtubefactsbot
+- tmsbmeta
+- WeAreTheMusicMakers
+- overtonesinging
+- musictheory
+- todayilearned
+- audioengineering
+- arcticmonkeys
+- FindABand
+- CVT
+- ICoveredASong
+- lewronggeneration
+- hownottogiveafuck
+- baneposting
+- bjj
+- ClassicalSinger
+- audiophile
+- musicians
+- alotabot
+---

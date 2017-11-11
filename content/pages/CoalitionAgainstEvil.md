@@ -1,0 +1,24 @@
+---
+title: CoalitionAgainstEvil
+crosslinks:
+- EvilLeagueOfEvil
+- nfl
+- Evilluminati
+- MassdropBot
+- steelers
+- ungulateteams
+- youtubefactsbot
+- Patriots
+- cowboys
+- NYGiants
+- Seahawks
+- Colts
+- CoalitionForPrison
+- EvilerLeagueOfEvil
+- BIRDTEAMS
+- livven
+- minnesotavikings
+- Browns
+- tmsbmeta
+- buffalobills
+---

@@ -1,0 +1,24 @@
+---
+title: LessCredibleDefence
+crosslinks:
+- autotldr
+- CredibleDefense
+- youtubot
+- india
+- navy
+- Dragon029
+- syriancivilwar
+- u_imguralbumbot
+- HephaestusAetnaean
+- youtubefactsbot
+- ShitWehraboosSay
+- CombatFootage
+- MilitaryProcurement
+- theydidthemath
+- announcements
+- F35Lightning
+- WarshipPorn
+- Military
+- MilitaryIdeas
+- unitedkingdom
+---

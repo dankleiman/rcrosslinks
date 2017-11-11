@@ -1,0 +1,24 @@
+---
+title: malefashion
+crosslinks:
+- streetwear
+- malefashionadvice
+- u_imguralbumbot
+- youtubefactsbot
+- FashionReps
+- SubAutoCorrectBot
+- goodyearwelt
+- supremeclothing
+- NoPoo
+- expensivehumanfashion
+- autourbanbot
+- Cordwaining
+- livven
+- NavyBlazer
+- LivestreamFail
+- menfashionadvice
+- WTF
+- femalefashion
+- mfa_irl
+- japanesestreetwear
+---

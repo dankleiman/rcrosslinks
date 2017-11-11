@@ -1,0 +1,24 @@
+---
+title: TheGreatWarChannel
+crosslinks:
+- AskHistorians
+- youtubefactsbot
+- HistoryOfAustria
+- youtubot
+- autotldr
+- books
+- u_imguralbumbot
+- ImaginaryWarships
+- TopMindsOfReddit
+- vexillology
+- MassdropBot
+- MapPorn
+- europe
+- vexilology
+- Suomi
+- funny
+- wwi
+- ColorizedHistory
+- videos
+- justgirlythings
+---

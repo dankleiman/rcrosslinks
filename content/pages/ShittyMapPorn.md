@@ -1,0 +1,24 @@
+---
+title: ShittyMapPorn
+crosslinks:
+- MapsWithoutNZ
+- MapPorn
+- mapporncirclejerk
+- youtubefactsbot
+- finlandConspiracy
+- BrasilOnReddit
+- MapsWithoutTasmania
+- me_ira
+- facepalm
+- u_imguralbumbot
+- botwatch
+- xkcd
+- dataisugly
+- Serendipity
+- AfricaIsNotACountry
+- mapswithoutnewzealand
+- SubAutoCorrectBot
+- pics
+- PornOverlords
+- youtubot
+---

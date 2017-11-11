@@ -1,0 +1,24 @@
+---
+title: gamers
+crosslinks:
+- Steam
+- pcgaming
+- cynicalbritofficial
+- pcmasterrace
+- autotldr
+- patientgamers
+- anti_gif_bot
+- TwoXChromosomes
+- u_imguralbumbot
+- StreetFighter
+- titlegore
+- Civilization_Wars
+- youtubefactsbot
+- MurderedByWords
+- me_irl
+- IAmA
+- disabledgamers
+- artifact_game
+- videogames
+- ClashRoyale
+---

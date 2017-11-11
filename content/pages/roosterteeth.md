@@ -1,0 +1,24 @@
+---
+title: roosterteeth
+crosslinks:
+- youtubefactsbot
+- funhaus
+- livven
+- u_imguralbumbot
+- anti_gif_bot
+- RWBY
+- CowChop
+- TheCreatures
+- autourbanbot
+- IAmA
+- SubredditDrama
+- OutOfTheLoop
+- gaming
+- SoPosts
+- SugarPine7
+- feedthebeast
+- TipOfMyRooster
+- xkcd
+- AskReddit
+- AMAAggregator
+---

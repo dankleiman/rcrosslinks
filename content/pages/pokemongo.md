@@ -1,0 +1,24 @@
+---
+title: pokemongo
+crosslinks:
+- TheSilphRoad
+- u_imguralbumbot
+- pokemongodev
+- anti_gif_bot
+- Ingress
+- pokemongocirclejerk
+- PokemonGOIVs
+- tmsbmeta
+- PokemonGoSnap
+- botpopularitybot
+- john_yukis_bots
+- pokemon
+- GoIV
+- thesilphroad
+- GoPlus
+- alotabot
+- pokemongoLondon
+- autotldr
+- gaming
+- AskReddit
+---

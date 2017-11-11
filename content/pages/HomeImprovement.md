@@ -1,0 +1,24 @@
+---
+title: HomeImprovement
+crosslinks:
+- DIY
+- electricians
+- youtubot
+- youtubefactsbot
+- legaladvice
+- AskReddit
+- homeautomation
+- IAmA
+- pics
+- HVAC
+- homedefense
+- whatisthisthing
+- woodworking
+- john_yukis_bots
+- tmsbmeta
+- landscaping
+- Plumbing
+- LifeProTips
+- lawncare
+- HomeDepot
+---

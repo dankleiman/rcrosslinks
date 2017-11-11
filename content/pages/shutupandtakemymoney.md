@@ -1,0 +1,24 @@
+---
+title: shutupandtakemymoney
+crosslinks:
+- youtubefactsbot
+- Entrepreneur
+- hatebeingpoor
+- headphones
+- Watches
+- pics
+- WondersOfChina
+- underpopular
+- Dogtraining
+- AskReddit
+- TheseFuckingAccounts
+- Scams
+- askreddit
+- Serendipity
+- Mistborn
+- thebizzible
+- theydidthefuckyou
+- nocontext
+- HailSmallBusiness
+- shitpost
+---

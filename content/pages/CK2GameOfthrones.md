@@ -1,0 +1,24 @@
+---
+title: CK2GameOfthrones
+crosslinks:
+- ck2gotchallenges
+- u_imguralbumbot
+- CrusaderKings
+- youtubefactsbot
+- ShitCrusaderKingsSay
+- tmsbmeta
+- CK2TheSevenKingdoms
+- youtubot
+- dontyouknowwhoiam
+- gameofthrones
+- me_irl
+- xkcd
+- bugs
+- MassdropBot
+- ElderKings
+- freefolk
+- gametales
+- oldpeoplefacebook
+- ShitRedditSays
+- autourbanbot
+---

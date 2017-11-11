@@ -1,0 +1,24 @@
+---
+title: CasualPokemonTrades
+crosslinks:
+- pokemontrades
+- Pokemongiveaway
+- PokemonPlaza
+- SVExchange
+- BankBallExchange
+- pokemon
+- ShinyPokemon
+- stunfisk
+- PokeMoonSun
+- friendsafari
+- BreedingDittos
+- relaxedpokemontrades
+- Vivillon
+- 3dshacks
+- pokemonrng
+- FestivalPlaza
+- tabled
+- 20ge805
+- raerth
+- EggLockes
+---

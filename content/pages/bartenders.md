@@ -1,0 +1,24 @@
+---
+title: bartenders
+crosslinks:
+- youtubefactsbot
+- cocktails
+- u_imguralbumbot
+- videos
+- NewOrleans
+- Charlotte
+- todayilearned
+- autourbanbot
+- SubredditDrama
+- anti_gif_bot
+- KitchenConfidential
+- BarBattlestations
+- bestoflegaladvice
+- asktrp
+- Portland
+- MassdropBot
+- alotabot
+- GifRecipes
+- seduction
+- IAmA
+---

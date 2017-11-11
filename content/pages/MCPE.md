@@ -1,0 +1,24 @@
+---
+title: MCPE
+crosslinks:
+- Minecraft
+- youtubefactsbot
+- youtubot
+- minecraftsuggestions
+- fbc
+- livven
+- MCPEMultiplayer
+- anti_gif_bot
+- windowsphone
+- vaast
+- causeWhyNotMate
+- place
+- xboxone
+- me_irl
+- MinecraftOne
+- Surface
+- autourbanbot
+- xkcd
+- feedthebeast
+- HaloCirclejerk
+---

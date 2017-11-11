@@ -1,0 +1,24 @@
+---
+title: NUFC
+crosslinks:
+- nufcirclejerk
+- soccer
+- youtubefactsbot
+- soccerstreams
+- youtubot
+- MassdropBot
+- safc
+- autourbanbot
+- chelseafc
+- u_imguralbumbot
+- reddevils
+- HeartofMidlothianFC
+- CasualUK
+- john_yukis_bots
+- Hammers
+- Gunners
+- shestillsucking
+- NoStupidQuestions
+- NorwichCity
+- Physical_Removal
+---

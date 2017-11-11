@@ -1,0 +1,24 @@
+---
+title: The_Donald_CA
+crosslinks:
+- The_Donald
+- botwatch
+- autotldr
+- youtubefactsbot
+- AskThe_Donald
+- Sacramentopede
+- all
+- conservatives
+- bayarea
+- EnoughTrumpSpam
+- movies
+- Bitcoin
+- SethRich
+- tucker_carlson
+- RadicalFitness
+- Anarchism
+- conspiracy
+- LosAngeles
+- CSULA
+- iamverybadass
+---

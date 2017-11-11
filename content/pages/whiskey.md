@@ -1,0 +1,24 @@
+---
+title: whiskey
+crosslinks:
+- bourbon
+- Scotch
+- youtubefactsbot
+- u_imguralbumbot
+- whiskyinventory
+- tmsbmeta
+- Whiskyporn
+- worldwhisky
+- science
+- MassdropBot
+- whiskyeurope
+- cocktails
+- over40
+- rum
+- livven
+- IAmA
+- HadToHurt
+- askscience
+- canadawhisky
+- rye
+---

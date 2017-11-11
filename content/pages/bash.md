@@ -1,0 +1,24 @@
+---
+title: bash
+crosslinks:
+- linux
+- xkcd
+- programming
+- linuxquestions
+- Serendipity
+- linux4noobs
+- commandline
+- On2zQP
+- powerline
+- unix
+- bashonubuntuonwindows
+- Codings
+- Ubuntu
+- vim
+- oilshell
+- shittyvim
+- Batch
+- youtubefactsbot
+- mealtimevideos
+- GeekTool
+---

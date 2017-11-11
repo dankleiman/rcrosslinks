@@ -1,0 +1,24 @@
+---
+title: forwardsfromhitler
+crosslinks:
+- The_Donald
+- youtubefactsbot
+- beholdthemasterrace
+- ShitPoliticsSays
+- forwardsfromgrandma
+- ShitWehraboosSay
+- youtubot
+- AgainstHateSubreddits
+- iamverybadass
+- ImGoingToHellForThis
+- SubredditDrama
+- FULLCOMMUNISM
+- u_imguralbumbot
+- MensRights
+- lewronggeneration
+- BrainwashedAmerica
+- DebateFascism
+- forwardsfromreddit
+- ForeverAlone
+- altright
+---

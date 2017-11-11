@@ -1,0 +1,24 @@
+---
+title: geocaching
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- geocachingpuzzles
+- geocache
+- xkcd
+- anti_gif_bot
+- modnews
+- Suomi
+- raspberry_pi
+- unexpectedrunescape
+- gps
+- autourbanbot
+- TeenDeveloper
+- AskReddit
+- holdmybeer
+- HelpMeFind
+- autotldr
+- creepy
+- Wrangler
+- mildlypenis
+---

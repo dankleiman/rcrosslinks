@@ -1,0 +1,24 @@
+---
+title: AFL
+crosslinks:
+- youtubot
+- u_imguralbumbot
+- westcoasteagles
+- briantaylor
+- melbournefc
+- AFLCircleJerk
+- anti_gif_bot
+- livven
+- FremantleFC
+- alotabot
+- GeelongCats
+- AskReddit
+- OutOfTheLoop
+- MassdropBot
+- autourbanbot
+- reddit_stream
+- australia
+- john_yukis_bots
+- pics
+- adelaidefc
+---

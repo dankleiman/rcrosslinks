@@ -1,0 +1,24 @@
+---
+title: SocialEngineering
+crosslinks:
+- youtubefactsbot
+- autotldr
+- ActLikeYouBelong
+- videos
+- youtubot
+- hiphopheads
+- SocialFightClub
+- raisedbynarcissists
+- societalengineering
+- cyber
+- indianpeoplefacebook
+- conspiracy
+- xkcd
+- howtobesherlock
+- howtonotgiveafuck
+- Advice
+- StopGaming
+- MassdropBot
+- GAMETHEORY
+- justneckbeardthings
+---

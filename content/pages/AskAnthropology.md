@@ -1,0 +1,24 @@
+---
+title: AskAnthropology
+crosslinks:
+- AskHistorians
+- badhistory
+- linguistics
+- askscience
+- AskAnAmerican
+- etymology
+- todayilearned
+- DepthHub
+- hapas
+- history
+- Judaism
+- AskScienceDiscussion
+- Anthropology
+- asklinguistics
+- MapPorn
+- IAmA
+- dancarlin
+- syriancivilwar
+- DebunkThis
+- CriticalTheory
+---

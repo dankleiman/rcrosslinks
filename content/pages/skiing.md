@@ -1,0 +1,24 @@
+---
+title: skiing
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- youtubot
+- Backcountry
+- snowboarding
+- icecoast
+- tmsbmeta
+- MassdropBot
+- u_imguralbumbot
+- The_Donald
+- tahoe
+- videos
+- autourbanbot
+- HadToHurt
+- bourbon
+- IAmA
+- alotabot
+- Skijumping
+- Mountaineering
+---

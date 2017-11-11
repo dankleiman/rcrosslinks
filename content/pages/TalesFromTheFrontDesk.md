@@ -1,0 +1,24 @@
+---
+title: TalesFromTheFrontDesk
+crosslinks:
+- youtubefactsbot
+- youtubot
+- askhotels
+- AskReddit
+- MaliciousCompliance
+- xkcd
+- john_yukis_bots
+- TalesFromTheRealm
+- tmsbmeta
+- ProRevenge
+- bestof
+- justnomil
+- Talesfromflightdesk
+- TalesFromRetail
+- TalesFromAdultStores
+- IDontWorkHereLady
+- SubredditDrama
+- todayilearned
+- childfree
+- StoriesAboutKevin
+---

@@ -1,0 +1,24 @@
+---
+title: silenthill
+crosslinks:
+- youtubefactsbot
+- youtubot
+- DeathStranding
+- livven
+- AlanWake
+- TheLaLiLuLeLo
+- residentevil
+- unpopularopinion
+- starcraft
+- oddlyweird
+- emulation
+- NeverBeGameOver
+- nosleep
+- NoStupidQuestions
+- SilentHillPorn
+- fireemblem
+- john_yukis_bots
+- Metroid
+- ForbiddenSiren
+- abandoned
+---

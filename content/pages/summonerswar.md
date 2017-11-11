@@ -1,0 +1,24 @@
+---
+title: summonerswar
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- swguilds
+- youtubot
+- tmsbmeta
+- livven
+- alotabot
+- ToasterMon
+- anti_gif_bot
+- xkcd
+- autourbanbot
+- 290qz5e
+- swart
+- Eraphon
+- Enhancement
+- summonerswarSD
+- 2007scape
+- FireEmblemHeroes
+- FFBraveExvius
+- AskReddit
+---

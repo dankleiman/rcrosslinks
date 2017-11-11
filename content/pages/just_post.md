@@ -1,0 +1,24 @@
+---
+title: just_post
+crosslinks:
+- youtubefactsbot
+- livven
+- ur_banned
+- youtubot
+- raiseyourdongers
+- Hedgehog
+- Creeks
+- neoliberal
+- Thetruthishere
+- tumblr
+- dontdeadopeninside
+- findareddit
+- isreal
+- copypasta
+- tmsbmeta
+- xkcd
+- fifthworldproblems
+- Esperanto
+- AskReddit
+- SuicideWatch
+---

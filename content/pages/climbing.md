@@ -1,0 +1,24 @@
+---
+title: climbing
+crosslinks:
+- u_imguralbumbot
+- livven
+- youtubot
+- ClimbingCircleJerk
+- climbharder
+- anti_gif_bot
+- bouldering
+- tradclimbing
+- ClimbingGradeBot
+- xkcd
+- bodyweightfitness
+- tmsbmeta
+- john_yukis_bots
+- pics
+- MassdropBot
+- ClimbingPartners
+- videos
+- bjj
+- ClimbingPorn
+- metric_units
+---

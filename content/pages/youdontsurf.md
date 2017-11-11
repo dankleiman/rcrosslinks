@@ -1,0 +1,24 @@
+---
+title: youdontsurf
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- wtfstockphotos
+- de
+- ComedyCemetery
+- youtubot
+- autourbanbot
+- botwatch
+- Jokes
+- funny
+- xkcd
+- tifu
+- me_irl
+- gifs
+- copypasta
+- poop
+- ExplainLikeImCalvin
+- tmsbmeta
+---

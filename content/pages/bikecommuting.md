@@ -1,0 +1,24 @@
+---
+title: bikecommuting
+crosslinks:
+- youtubefactsbot
+- bicycleculture
+- bicycling
+- BicyclingCirclejerk
+- u_imguralbumbot
+- cycling
+- EveryDayRide
+- BicycleGear
+- bikewrench
+- whichbike
+- bicycletouring
+- FixedGearBicycle
+- autotldr
+- xkcd
+- MTB
+- Velo
+- ebike
+- botwatch
+- Serendipity
+- Roadcam
+---

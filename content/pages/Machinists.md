@@ -1,0 +1,24 @@
+---
+title: Machinists
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- u_imguralbumbot
+- Skookum
+- machining
+- engineering
+- SolidWorks
+- whatisthisthing
+- VXJunkies
+- xkcd
+- livven
+- CNC
+- WorkBoots
+- mechanical_gifs
+- dragonquest
+- motorcycles
+- metalworking
+- bestof
+- metric_units
+---

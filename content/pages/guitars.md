@@ -1,0 +1,24 @@
+---
+title: guitars
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- Guitar
+- youtubot
+- tmsbmeta
+- guitarcirclejerk
+- rocksmith
+- pics
+- me_irl
+- MassdropBot
+- Bass
+- guitarporn
+- gearforsale
+- subaru
+- papa_and_ghouls
+- Rateme
+- Stratocaster
+- offset
+- botpopularitybot
+- guitarpedals
+---

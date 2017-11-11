@@ -1,0 +1,24 @@
+---
+title: outrun
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- u_imguralbumbot
+- botwatch
+- Cyberpunk
+- itookapicture
+- Art
+- pics
+- thewavecave
+- youtubot
+- Rainmeter
+- AMAAggregator
+- VaporwaveAesthetics
+- newretrowave
+- fakealbumcovers
+- gaming
+- wallpapers
+- unixporn
+- 80sdesign
+---

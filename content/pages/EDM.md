@@ -1,0 +1,24 @@
+---
+title: EDM
+crosslinks:
+- youtubefactsbot
+- youtubot
+- trap
+- electronicmusic
+- aves
+- trance
+- strobecirclejerk
+- electricdaisycarnival
+- edmproduction
+- xTrill
+- deadmau5
+- Music
+- hardstyle
+- skrillex
+- popheads
+- autotldr
+- ericprydz
+- UMF
+- shallowhouse
+- meirl
+---

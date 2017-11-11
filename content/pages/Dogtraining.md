@@ -1,0 +1,24 @@
+---
+title: Dogtraining
+crosslinks:
+- puppy101
+- dogs
+- reactivedogs
+- RunningWithDogs
+- u_imguralbumbot
+- AskVet
+- legaladvice
+- Zoomies
+- john_yukis_bots
+- shutupandtakemymoney
+- funny
+- puppies
+- mildlyinfuriating
+- doggos
+- rawpetfood
+- me_irl
+- intel
+- Basenji
+- rescuedogs
+- Bushcraft
+---

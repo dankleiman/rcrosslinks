@@ -1,0 +1,24 @@
+---
+title: Aleague
+crosslinks:
+- soccer
+- BrasilOnReddit
+- u_imguralbumbot
+- soccerstreams
+- youtubot
+- AleagueGoneWild
+- livven
+- NewcastleUnitedJets
+- autotldr
+- SydneyFC
+- nrl
+- nzfootball
+- melbourne
+- hmmm
+- JLeague
+- naut
+- WellingtonPhoenix
+- metalgearsolid
+- LeedsUnited
+- Steve_Smith
+---

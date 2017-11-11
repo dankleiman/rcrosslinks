@@ -1,0 +1,24 @@
+---
+title: TankPorn
+crosslinks:
+- ShitWehraboosSay
+- DestroyedTanks
+- Warthunder
+- youtubefactsbot
+- livven
+- AskHistorians
+- MilitaryPorn
+- youtubot
+- CapturedWeapons
+- anti_gif_bot
+- HistoryPorn
+- GermanWW2photos
+- u_imguralbumbot
+- syriancivilwar
+- churchillsgonewild
+- SovietHistory
+- WorldofTanks
+- badhistory
+- shittytechnicals
+- tanks
+---

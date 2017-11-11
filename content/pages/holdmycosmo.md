@@ -1,0 +1,24 @@
+---
+title: holdmycosmo
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- botwatch
+- metric_units
+- holdmyfries
+- killthecameraman
+- youtubot
+- holdmyjuicebox
+- WhyWereTheyFilming
+- holdmybeer
+- UNBGBBIIVCHIDCTIICBG
+- FullScorpion
+- iamverybadass
+- UpvotedBecauseGirl
+- gifs
+- noisygifs
+- chicksfalling
+- FullShrimp
+- BetterEveryLoop
+---

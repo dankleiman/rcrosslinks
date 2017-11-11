@@ -1,0 +1,24 @@
+---
+title: Infographics
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- coolguides
+- atheism
+- fasting
+- tmsbmeta
+- theydidthemath
+- dataisugly
+- PostPoMo
+- dataisbeautiful
+- xkcd
+- AboutDopamine
+- Christianity
+- LV426
+- Economics
+- Cricket
+- india
+- me_irl
+- bodyweightfitness
+- youtubot
+---

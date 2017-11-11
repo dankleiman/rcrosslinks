@@ -1,0 +1,24 @@
+---
+title: rugbyunion
+crosslinks:
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- livven
+- JusticeForKeith
+- rugbystreams
+- leicester_tigers
+- Cricket
+- alotabot
+- MLRugby
+- sports
+- ireland
+- SubredditDrama
+- autourbanbot
+- '2013'
+- IrelandonReddit
+- funny
+- john_yukis_bots
+- TheRefWasBiased
+---

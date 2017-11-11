@@ -1,0 +1,24 @@
+---
+title: ruby
+crosslinks:
+- rails
+- youtubot
+- programming
+- cscareerquestions
+- Python
+- Clojure
+- programmingcirclejerk
+- java
+- learnprogramming
+- dadjokes
+- vim
+- elixir
+- youtubefactsbot
+- u_imguralbumbot
+- FreeEBOOKS
+- Serendipity
+- test
+- sikoba
+- tippr
+- learnruby
+---

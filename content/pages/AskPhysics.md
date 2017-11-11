@@ -1,0 +1,24 @@
+---
+title: AskPhysics
+crosslinks:
+- askscience
+- youtubefactsbot
+- space
+- Physics
+- xkcd
+- explainlikeimfive
+- u_imguralbumbot
+- PhilosophyofScience
+- youtubot
+- badphysics
+- askphilosophy
+- math
+- ParticlePhysics
+- AskLiteraryStudies
+- HandsOnComplexity
+- CasualMath
+- trackers
+- PhysicsGRE
+- worldnews
+- camping
+---

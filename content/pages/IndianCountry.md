@@ -1,0 +1,24 @@
+---
+title: IndianCountry
+crosslinks:
+- autotldr
+- AskHistorians
+- NoDAPL
+- Navajo
+- WNC
+- environment
+- Montana
+- bestof
+- UniversityofMontana
+- nativeart
+- uncensorednews
+- DeepGreenResistance
+- BrasilOnReddit
+- NativeAmerican
+- Archaeology
+- seedswap
+- relationships
+- worldnews
+- Hawaii
+- funny
+---

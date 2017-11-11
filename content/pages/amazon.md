@@ -1,0 +1,24 @@
+---
+title: amazon
+crosslinks:
+- FulfillmentByAmazon
+- buildapcsales
+- nintendo
+- 2q87gx0
+- TRADE
+- buildapc
+- pcmasterrace
+- BestOfAmazonPrime
+- gamecollecting
+- argentina
+- all
+- legaladvice
+- Amazon_Affiliate
+- primedaydeals
+- headphones
+- amazonprime
+- Ebay
+- fragrance
+- climbing
+- Amazonians
+---

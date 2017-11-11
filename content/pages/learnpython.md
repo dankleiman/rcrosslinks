@@ -1,0 +1,24 @@
+---
+title: learnpython
+crosslinks:
+- Python
+- learnprogramming
+- youtubot
+- youtubefactsbot
+- dailyprogrammer
+- xkcd
+- u_imguralbumbot
+- test
+- redditdev
+- beginnerprojects
+- raspberry_pi
+- pygame
+- programming
+- gis
+- MassdropBot
+- SQL
+- botwatch
+- roguelikedev
+- dankmemes
+- eOeLEz
+---

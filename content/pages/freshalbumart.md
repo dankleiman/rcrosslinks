@@ -1,0 +1,24 @@
+---
+title: freshalbumart
+crosslinks:
+- u_imguralbumbot
+- FrankOcean
+- KendrickLamar
+- youtubefactsbot
+- Kanye
+- gorillaz
+- livven
+- youtubot
+- FilthyFrank
+- fakealbumcovers
+- OFWGKTA
+- stevelacy
+- analog
+- lanadelrey
+- hiphopheads
+- tmsbmeta
+- AlbumArtPorn
+- TheWeeknd
+- Drizzy
+- blender
+---

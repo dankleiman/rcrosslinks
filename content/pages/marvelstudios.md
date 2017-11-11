@@ -1,0 +1,24 @@
+---
+title: marvelstudios
+crosslinks:
+- youtubefactsbot
+- youtubot
+- moviescirclejerk
+- anti_gif_bot
+- DC_Cinematic
+- autotldr
+- Defenders
+- shield
+- SuperheroCirclejerk
+- livven
+- movies
+- Marvel
+- tmsbmeta
+- FlashTV
+- raimimemes
+- arrow
+- xkcd
+- Spiderman
+- IAmA
+- botpopularitybot
+---

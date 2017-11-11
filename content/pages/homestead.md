@@ -1,0 +1,24 @@
+---
+title: homestead
+crosslinks:
+- youtubefactsbot
+- youtubot
+- GifRecipes
+- gardening
+- Homesteading
+- Permaculture
+- u_imguralbumbot
+- autotldr
+- MapsWithoutNZ
+- MassdropBot
+- metric_units
+- anti_gif_bot
+- DIY
+- Axecraft
+- BackYardChickens
+- BlackSoldierFly
+- rabbitry
+- alotabot
+- soapmaking
+- Beekeeping
+---

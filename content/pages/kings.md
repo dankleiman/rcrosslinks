@@ -1,0 +1,24 @@
+---
+title: kings
+crosslinks:
+- nba
+- Kingsringleader
+- livven
+- youtubot
+- MassdropBot
+- u_imguralbumbot
+- denvernuggets
+- sixers
+- tmsbmeta
+- NYKnicks
+- KingsTicketExchange
+- bestof
+- CollegeBasketball
+- NBA_Draft
+- AskReddit
+- AtlantaHawks
+- NOLAPelicans
+- nsfwCelebArchive
+- Texans
+- MkeBucks
+---

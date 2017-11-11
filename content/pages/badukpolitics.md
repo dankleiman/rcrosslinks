@@ -1,0 +1,24 @@
+---
+title: badukpolitics
+crosslinks:
+- ukpolitics
+- unitedkingdom
+- badunitedkingdom
+- youtubefactsbot
+- SubredditDrama
+- Scotland
+- london
+- ukright
+- banned
+- LabourUK
+- photoshopbattles
+- ukipparty
+- britishproblems
+- europe
+- SnapshillBotEx
+- tmsbmeta
+- LateStageCapitalism
+- csshelp
+- conspiracy
+- AdviceAnimals
+---

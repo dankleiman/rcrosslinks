@@ -1,0 +1,24 @@
+---
+title: truegaming
+crosslinks:
+- youtubot
+- youtubefactsbot
+- patientgamers
+- Games
+- gaming
+- gamedesign
+- visualnovels
+- teslore
+- pcgaming
+- PS4
+- NintendoSwitch
+- MMORPG
+- IAmA
+- Eve
+- darksouls
+- gamedev
+- FFXV
+- skyrimmods
+- pcmasterrace
+- rpg_gamers
+---

@@ -1,0 +1,24 @@
+---
+title: ShouldIbuythisgame
+crosslinks:
+- GameDeals
+- youtubot
+- Gamingcirclejerk
+- youtubefactsbot
+- Games
+- patientgamers
+- pcmasterrace
+- Rainbow6
+- gamingsuggestions
+- GameDealsMeta
+- skyrimmods
+- Stellaris
+- masseffect
+- Overwatch
+- X3TC
+- GFD
+- mountandblade
+- Fireteams
+- Gaming4Gamers
+- RimWorld
+---

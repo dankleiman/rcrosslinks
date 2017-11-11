@@ -1,0 +1,24 @@
+---
+title: rage
+crosslinks:
+- youtubefactsbot
+- videos
+- tmsbmeta
+- PublicFreakout
+- pics
+- livven
+- Eyebleach
+- technology
+- JusticeServed
+- watchpeopledie
+- autourbanbot
+- autotldr
+- running
+- copypasta
+- DataHoarder
+- movies
+- WTF
+- FloridaMan
+- 4chan
+- AskReddit
+---

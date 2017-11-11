@@ -1,0 +1,24 @@
+---
+title: askmath
+crosslinks:
+- u_imguralbumbot
+- learnmath
+- math
+- askscience
+- youtubefactsbot
+- badmathematics
+- AskPhysics
+- Buttcoin
+- xkcd
+- theydidthemath
+- youtubot
+- MathHelp
+- unexpectedfactorial
+- Cubers
+- cheatatmathhomework
+- pathofexile
+- CompileBot
+- apps
+- musictheory
+- Minecraft
+---

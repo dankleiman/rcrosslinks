@@ -1,0 +1,24 @@
+---
+title: MTGLegacy
+crosslinks:
+- magicTCG
+- youtubefactsbot
+- magicthecirclejerking
+- youtubot
+- nicfitmtg
+- u_imguralbumbot
+- mtgfinance
+- MTGO
+- alotabot
+- tmsbmeta
+- Pauper
+- mtgalters
+- PhotoshopRequest
+- iowagamers
+- AskReddit
+- john_yukis_bots
+- casual
+- StoriesAboutKevin
+- EDH
+- MTGDredge
+---

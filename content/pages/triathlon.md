@@ -1,0 +1,24 @@
+---
+title: triathlon
+crosslinks:
+- youtubefactsbot
+- youtubot
+- BicyclingCirclejerk
+- anti_gif_bot
+- running
+- Garmin
+- metric_units
+- Swimming
+- loseit
+- nocontext
+- Serendipity
+- livven
+- MealPrepSunday
+- alotabot
+- videos
+- progresspics
+- autotldr
+- cycling
+- wtfstockphotos
+- Roadcam
+---

@@ -1,0 +1,24 @@
+---
+title: camping
+crosslinks:
+- u_imguralbumbot
+- CampingandHiking
+- youtubefactsbot
+- youtubot
+- California
+- pics
+- myog
+- WildernessBackpacking
+- Ultralight
+- livven
+- politics
+- nosleep
+- CampingGear
+- backpacking
+- HailCorporate
+- vandwellers
+- playrust
+- funny
+- outdoorgear
+- bestof
+---

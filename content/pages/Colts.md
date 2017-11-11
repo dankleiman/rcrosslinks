@@ -1,0 +1,24 @@
+---
+title: Colts
+crosslinks:
+- youtubefactsbot
+- nfl
+- NFL_Draft
+- youtubot
+- MassdropBot
+- Texans
+- livven
+- nflstreams
+- u_imguralbumbot
+- eagles
+- anti_gif_bot
+- CoalitionAgainstEvil
+- AskReddit
+- tmsbmeta
+- nfl_draft
+- autourbanbot
+- pavers
+- LosAngelesRams
+- Tennesseetitans
+- EvilLeagueOfEvil
+---

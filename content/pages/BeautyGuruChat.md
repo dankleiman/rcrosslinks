@@ -1,0 +1,24 @@
+---
+title: BeautyGuruChat
+crosslinks:
+- MakeupAddiction
+- muacjdiscussion
+- dogs
+- MakeupRehab
+- Drama
+- Shoes
+- rupaulsdragrace
+- femalefashionadvice
+- SkincareAddiction
+- autourbanbot
+- The_Donald
+- Incels
+- SubredditDrama
+- 24es7d2
+- youtuberchat
+- MonolidMakeup
+- explainlikeimfive
+- aww
+- shills
+- MassdropBot
+---

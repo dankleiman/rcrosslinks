@@ -1,0 +1,24 @@
+---
+title: worldproblems
+crosslinks:
+- TheMarketsofSidon
+- thedarkmountain
+- youtubefactsbot
+- u_imguralbumbot
+- seventhworldproblems
+- TheBeach
+- galacticpeacekeepers
+- 747thWorldPirates
+- worldproblemshandbook
+- 45thworldproblems
+- OrobasCaverns
+- TheDesert
+- PlotlineForge
+- AzzuroRedoubt
+- TheOverbork
+- TheSilentForest
+- SlenderRockPrison
+- MassdropBot
+- fourthworldproblems
+- TheSilo
+---

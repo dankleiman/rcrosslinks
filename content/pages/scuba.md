@@ -1,0 +1,24 @@
+---
+title: scuba
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- GladiusAdventure
+- UKDiving
+- livven
+- thalassophobia
+- underwaterphotography
+- Scholar
+- KeyWest
+- playrust
+- Pseudoscience
+- john_yukis_bots
+- Aruba
+- scubaMarket
+- gifs
+- Serendipity
+- diving
+- HailCorporate
+- finance
+---

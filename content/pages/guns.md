@@ -1,0 +1,24 @@
+---
+title: guns
+crosslinks:
+- gundeals
+- ar15
+- weekendgunnit
+- Firearms
+- CCW
+- livven
+- WA_guns
+- Gunsforsale
+- FullMetalGunnit
+- longrange
+- AskReddit
+- ak47
+- trees
+- Glocks
+- GunPorn
+- NFA
+- 1911fans
+- pics
+- TheOneTrueCaliber
+- CAguns
+---

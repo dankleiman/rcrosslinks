@@ -1,0 +1,24 @@
+---
+title: Detroit
+crosslinks:
+- youtubefactsbot
+- autotldr
+- news
+- Michigan
+- tmsbmeta
+- cincinnati
+- youtubot
+- Portland
+- GrossePointe
+- Pictures
+- downriver
+- botwatch
+- socialism
+- Atlanta
+- u_imguralbumbot
+- IAmA
+- autourbanbot
+- nottheonion
+- anti_gif_bot
+- SelfDrivingCars
+---

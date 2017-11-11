@@ -1,0 +1,24 @@
+---
+title: FortCollins
+crosslinks:
+- metric_units
+- Denver
+- FortCollinsClassified
+- FortCollinsNewInTown
+- autotldr
+- u_imguralbumbot
+- MTB
+- youtubefactsbot
+- colorado
+- NeutralPolitics
+- MealPrepSunday
+- Calligraphy
+- BattleOfTheNations
+- DrawForMe
+- Whatcouldgowrong
+- IAmA
+- CSUFoCo
+- trashpandas
+- trees
+- technology
+---

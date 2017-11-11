@@ -1,0 +1,24 @@
+---
+title: britishproblems
+crosslinks:
+- youtubefactsbot
+- youtubot
+- tmsbmeta
+- BritishSuccess
+- autourbanbot
+- AskReddit
+- unitedkingdom
+- u_imguralbumbot
+- funny
+- RateMyTea
+- WeWantPlates
+- CasualUK
+- london
+- Bandnames
+- todayilearned
+- pettyrevenge
+- OldSchoolCool
+- Music
+- AskUK
+- SubAutoCorrectBot
+---

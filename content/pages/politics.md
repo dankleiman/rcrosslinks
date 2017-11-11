@@ -1,0 +1,24 @@
+---
+title: politics
+crosslinks:
+- autotldr
+- EnoughTrumpSpam
+- worldnews
+- news
+- TrumpInvestigation
+- conspiracy
+- AskReddit
+- AskHistorians
+- SandersForPresident
+- AskTrumpSupporters
+- Keep_Track
+- IAmA
+- Enough_Sanders_Spam
+- esist
+- PoliticalHumor
+- technology
+- NeutralPolitics
+- pics
+- BlueMidterm2018
+- PoliticalDiscussion
+---

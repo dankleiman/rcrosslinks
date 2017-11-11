@@ -1,0 +1,24 @@
+---
+title: FeMRADebates
+crosslinks:
+- MensRights
+- FemraMeta
+- MensLib
+- xkcd
+- AskFeminists
+- rbomi
+- AskMen
+- pussypassdenied
+- AskReddit
+- doctorwho
+- changemyview
+- TwoXChromosomes
+- KotakuInAction
+- australia
+- PurplePillDebate
+- JamesDamore
+- IAmA
+- AskHistorians
+- worldnews
+- asoiaf
+---

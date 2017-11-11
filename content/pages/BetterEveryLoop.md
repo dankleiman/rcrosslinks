@@ -1,0 +1,24 @@
+---
+title: BetterEveryLoop
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- gifs
+- botwatch
+- funny
+- youtubot
+- botpopularitybot
+- u_imguralbumbot
+- tmsbmeta
+- Unexpected
+- WhyWereTheyFilming
+- Whatcouldgowrong
+- noisygifs
+- oddlysatisfying
+- aww
+- instant_regret
+- gaming
+- holdmybeer
+- HadToHurt
+---

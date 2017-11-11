@@ -1,0 +1,24 @@
+---
+title: self
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- The_Donald
+- youtubot
+- dogetipbot
+- xkcd
+- whatisthisthing
+- EnoughTrumpSpam
+- SubredditDrama
+- autourbanbot
+- all
+- videos
+- DAE
+- politics
+- longtail
+- TrollXChromosomes
+- Drama
+- IAmA
+- OutOfTheLoop
+- legaladvice
+---

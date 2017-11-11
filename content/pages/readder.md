@@ -1,0 +1,24 @@
+---
+title: readder
+crosslinks:
+- YouSeeComrade
+- jailbreak
+- GlobalOffensive
+- apple
+- facepalm
+- Persona5
+- instant_regret
+- subredditname
+- PoliticalHumor
+- Monstercat
+- test
+- Damnthatsinteresting
+- movies
+- nfl
+- ShovelKnight
+- modnews
+- Gamingcirclejerk
+- myst
+- announcements
+- DnDBehindTheScreen
+---

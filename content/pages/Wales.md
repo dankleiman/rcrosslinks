@@ -1,0 +1,24 @@
+---
+title: Wales
+crosslinks:
+- youtubefactsbot
+- place
+- learnwelsh
+- livven
+- ukpolitics
+- autotldr
+- unitedkingdom
+- youtubot
+- CelticUnion
+- Scotland
+- llawenyddhebddiwedd
+- SubredditDrama
+- MassdropBot
+- gatekeeping
+- plaidcymru
+- AskHistorians
+- ainbowroad
+- vexillology
+- DIY
+- botwatch
+---

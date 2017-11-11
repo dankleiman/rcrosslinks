@@ -1,0 +1,24 @@
+---
+title: iamverysmart
+crosslinks:
+- youtubefactsbot
+- xkcd
+- youtubot
+- copypasta
+- botwatch
+- AskReddit
+- totallynotrobots
+- gatekeeping
+- tmsbmeta
+- lewronggeneration
+- iamverybadass
+- iamverysmarter
+- OutOfTheLoop
+- iamnotverysmart
+- autourbanbot
+- coaxedintoasnafu
+- niceguys
+- iamversmart
+- bestof
+- ShitAmericansSay
+---

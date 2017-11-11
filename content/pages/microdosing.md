@@ -1,0 +1,24 @@
+---
+title: microdosing
+crosslinks:
+- Drugs
+- LSD
+- Nootropics
+- autotldr
+- youtubefactsbot
+- MDMA
+- Stims
+- RCSources
+- youtubot
+- researchchemicals
+- Borax
+- Psychonaut
+- livven
+- DarkNetMarkets
+- u_imguralbumbot
+- DarkNetMarketsNoobs
+- PsychedelicReligion
+- OutOfTheLoop
+- microgrowery
+- drugscirclejerk
+---

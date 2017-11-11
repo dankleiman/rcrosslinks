@@ -1,0 +1,24 @@
+---
+title: twitchplayspokemon
+crosslinks:
+- tmsbmeta
+- TTPloreplaycentral
+- xkcd
+- pokemon
+- TPPKappa
+- u_imguralbumbot
+- VoHiYo
+- TPPLeague
+- youtubot
+- place
+- grandayy
+- youtubefactsbot
+- PokemonPrism
+- AskReddit
+- livven
+- AdventuresOfChat
+- MadokaMagica
+- 3dshacks
+- TPPBattleRoyale
+- Overwatch
+---

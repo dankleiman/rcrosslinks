@@ -1,0 +1,24 @@
+---
+title: adultery
+crosslinks:
+- youtubefactsbot
+- naughtyfromneglect
+- survivinginfidelity
+- DeadBedrooms
+- R4PWDB
+- gonewildstories
+- youtubot
+- sugarlifestyleforum
+- Drama
+- u_imguralbumbot
+- autourbanbot
+- tmsbmeta
+- Divorce
+- MarriedandDating
+- metric_units
+- SubAutoCorrectBot
+- DadsGoneWild
+- RandomActsOfMuffDive
+- confessions
+- OnlineAffairs
+---

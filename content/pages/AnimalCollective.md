@@ -1,0 +1,24 @@
+---
+title: AnimalCollective
+crosslinks:
+- youtubefactsbot
+- youtubot
+- indieheads
+- tmsbmeta
+- anti_gif_bot
+- u_imguralbumbot
+- phish
+- woahdude
+- gratefuldead
+- multiwall
+- MassdropBot
+- pics
+- music_survivor
+- BMSR
+- SubredditSimulator
+- shitpost
+- livven
+- Art
+- noise
+- surfing
+---

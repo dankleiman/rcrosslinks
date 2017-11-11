@@ -1,0 +1,24 @@
+---
+title: TinyHouses
+crosslinks:
+- youtubefactsbot
+- vandwellers
+- DIY
+- urbanplanning
+- GoRVing
+- liveaboard
+- ftm
+- HomeImprovement
+- Cyberpunk
+- TinyCastles
+- vandwelling
+- anti_gif_bot
+- homeautomation
+- cabins
+- tinyhouse
+- FindTheSniper
+- Shitstatistssay
+- AskReddit
+- indianapolis
+- 4GCommunity
+---

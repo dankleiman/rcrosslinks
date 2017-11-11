@@ -1,0 +1,24 @@
+---
+title: retrobattlestations
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- MassdropBot
+- MechanicalKeyboards
+- Cyberpunk
+- oldhardwareswap
+- VintageApple
+- battlestations
+- pics
+- autotldr
+- pc98
+- retrogaming
+- crtgaming
+- raspberry_pi
+- casemods
+- ShadowBan
+- ThatPeelingFeeling
+- pebble
+- atarist
+- emulation
+---

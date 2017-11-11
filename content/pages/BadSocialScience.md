@@ -1,0 +1,24 @@
+---
+title: BadSocialScience
+crosslinks:
+- badeconomics
+- badhistory
+- youtubot
+- xkcd
+- AskEconomics
+- videos
+- AskAnthropology
+- IAmA
+- COMPLETEANARCHY
+- SRSsucks
+- Incels
+- AskSocialScience
+- samharris
+- Drama
+- bad_religion
+- askphilosophy
+- neoliberal
+- EnoughCommieSpam
+- genetics
+- BadEverything
+---

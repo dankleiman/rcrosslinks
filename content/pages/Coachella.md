@@ -1,0 +1,24 @@
+---
+title: Coachella
+crosslinks:
+- youtubefactsbot
+- hiphopheads
+- aves
+- bonnaroo
+- trap
+- festivals
+- radiohead
+- tmsbmeta
+- bestof
+- EDM
+- livesound
+- FrankOcean
+- boniver
+- u_imguralbumbot
+- personalfinance
+- starterpacks
+- youtubot
+- electricdaisycarnival
+- lewronggeneration
+- Music
+---

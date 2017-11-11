@@ -1,0 +1,24 @@
+---
+title: CrohnsDisease
+crosslinks:
+- youtubefactsbot
+- livven
+- ibs
+- autotldr
+- HumanMicrobiome
+- Infographics
+- ostomy
+- youtubot
+- xkcd
+- Charity
+- Stoicism
+- bodybuilding
+- hmmm
+- cbd
+- breastfeeding
+- IBD
+- tea
+- microdosing
+- labrats
+- kratom
+---

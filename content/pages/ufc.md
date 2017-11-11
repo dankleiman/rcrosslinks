@@ -1,0 +1,24 @@
+---
+title: ufc
+crosslinks:
+- mayweathermcgreggors
+- youtubefactsbot
+- ufcjonescormier
+- youtubot
+- weidmanvsgastelums
+- u_imguralbumbot
+- UFC213wr
+- Boxing
+- AskReddit
+- autotldr
+- ufc211miocicdos
+- Serendipity
+- funny
+- Past_UFC
+- alotabot
+- singaporeufc
+- tmsbmeta
+- '1086488'
+- Celebs
+- mma_nsfw
+---

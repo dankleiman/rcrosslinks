@@ -1,0 +1,24 @@
+---
+title: fireemblem
+crosslinks:
+- FireEmblemHeroes
+- shitpostemblem
+- livven
+- place
+- IAmA
+- NintendoSwitch
+- 3dshacks
+- pokemon
+- xkcd
+- tales
+- User_Simulator
+- AskReddit
+- smashbros
+- nintendo
+- leagueoflegends
+- WeGotTrouble
+- MyCastleFE
+- Fire_Emblem_R34
+- Unexpected
+- MyNintendo
+---

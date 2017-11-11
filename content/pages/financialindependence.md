@@ -1,0 +1,24 @@
+---
+title: financialindependence
+crosslinks:
+- personalfinance
+- youtubefactsbot
+- SLC_FIRE
+- churning
+- investing
+- xkcd
+- AskReddit
+- youtubot
+- leanfire
+- CryptoCurrencies
+- IAmA
+- cscareerquestions
+- wallstreetbets
+- autourbanbot
+- MealPrepSunday
+- Frugal
+- lostgeneration
+- bestof
+- ethtrader
+- relationships
+---

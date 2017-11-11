@@ -1,0 +1,24 @@
+---
+title: Documentaries
+crosslinks:
+- youtubefactsbot
+- Linky_links
+- conspiracy
+- The_Donald
+- MensRights
+- badhistory
+- AskHistorians
+- IAmA
+- tmsbmeta
+- AskReddit
+- bestof
+- u_imguralbumbot
+- ShitRedditSays
+- SubredditDrama
+- ShitAmericansSay
+- MarshallBrain
+- circlebroke2
+- videos
+- TheRedPill
+- LateStageCapitalism
+---

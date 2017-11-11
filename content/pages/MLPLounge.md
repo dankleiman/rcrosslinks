@@ -1,0 +1,24 @@
+---
+title: MLPLounge
+crosslinks:
+- mylittlepony
+- livven
+- youtubot
+- xkcd
+- anti_gif_bot
+- AMAAggregator
+- MassdropBot
+- MLPdrawingschool
+- tmsbmeta
+- CAHbot
+- autourbanbot
+- u_imguralbumbot
+- AskReddit
+- ponk
+- ScenesFromAHat
+- Metal
+- MyLittleSupportGroup
+- botwatch
+- place
+- mylittleandysonic1
+---

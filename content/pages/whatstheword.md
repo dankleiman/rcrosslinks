@@ -1,0 +1,24 @@
+---
+title: whatstheword
+crosslinks:
+- autourbanbot
+- youtubefactsbot
+- xkcd
+- AskReddit
+- Portmanteau
+- books
+- politics
+- circlebroke
+- MaliciousCompliance
+- bestof
+- GifIndex
+- neology
+- Documentaries
+- answers
+- explainlikeimjive
+- titlegore
+- traps
+- Rickyisms
+- NoStupidQuestions
+- personalfinance
+---

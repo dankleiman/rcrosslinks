@@ -1,0 +1,24 @@
+---
+title: AskEngineers
+crosslinks:
+- youtubefactsbot
+- engineering
+- u_imguralbumbot
+- xkcd
+- youtubot
+- aerospace
+- EngineeringStudents
+- askscience
+- PLC
+- IAmA
+- Skookum
+- explainlikeimfive
+- civilengineering
+- Physics
+- HomeImprovement
+- Futurology
+- AskReddit
+- bestof
+- legaladvice
+- jobs
+---

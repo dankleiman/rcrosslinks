@@ -1,0 +1,24 @@
+---
+title: shittyreactiongifs
+crosslinks:
+- livven
+- youtubefactsbot
+- reactiongifs
+- MassdropBot
+- gifs
+- funny
+- aww
+- u_imguralbumbot
+- xkcd
+- Simulated
+- youtubot
+- todayilearned
+- oeCake
+- meirl
+- highqualitygifs
+- analogygifs
+- botwatch
+- vredditmirrorbot
+- HailCorporate
+- stabbot
+---

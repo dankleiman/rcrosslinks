@@ -1,0 +1,24 @@
+---
+title: sousvide
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- food
+- smoking
+- AskCulinary
+- ramen
+- ShadowBan
+- steak
+- youtubot
+- seriouseats
+- MassdropBot
+- todayilearned
+- keto
+- ketorecipes
+- amazonecho
+- oasis
+- livven
+- AmbienKitchen
+- bifl
+- baconreader
+---

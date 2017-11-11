@@ -1,0 +1,24 @@
+---
+title: TeamSolomid
+crosslinks:
+- leagueoflegends
+- youtubefactsbot
+- youtubot
+- GlobalOffensive
+- Cloud9
+- place
+- u_imguralbumbot
+- vainglorygame
+- lol
+- smashbros
+- TeamDignitas
+- livven
+- TeamRedditTeams
+- LivestreamFail
+- hearthstone
+- Competitiveoverwatch
+- Overwatch
+- xkcd
+- fasting
+- autourbanbot
+---

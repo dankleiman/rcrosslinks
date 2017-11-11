@@ -1,0 +1,24 @@
+---
+title: Braveryjerk
+crosslinks:
+- livven
+- u_imguralbumbot
+- atheism
+- tmsbmeta
+- youtubefactsbot
+- CringeAnarchy
+- elonjerk
+- Serendipity
+- OutOfTheLoop
+- TheWaterLew
+- MassdropBot
+- copypasta
+- elonmusk
+- TurtlesAreFood
+- teenagers
+- circlejerk
+- Libertarian
+- dankmemes
+- The_Donald
+- dankchristianmemes
+---

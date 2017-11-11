@@ -1,0 +1,24 @@
+---
+title: thelastofusfactions
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- giefopensource
+- PS4
+- youtubot
+- O_Faces
+- ComedyCemetery
+- IAmA
+- john_yukis_bots
+- alotabot
+- RocketLeague
+- PS3
+- programming
+- aws
+- thelastofus
+- shittypost
+- nocontext
+- ps4
+- u_imguralbumbot
+---

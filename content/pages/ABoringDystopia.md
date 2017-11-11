@@ -1,0 +1,24 @@
+---
+title: ABoringDystopia
+crosslinks:
+- autotldr
+- LateStageCapitalism
+- youtubefactsbot
+- tmsbmeta
+- mildlyinteresting
+- u_imguralbumbot
+- news
+- Cyberpunk
+- pcmasterrace
+- xkcd
+- nottheonion
+- Frugal_Jerk
+- iamverybadass
+- HalfLife
+- botpopularitybot
+- engineering
+- morbidquestions
+- assholedesign
+- PastAndPresentPics
+- lfg
+---

@@ -1,0 +1,24 @@
+---
+title: FRC
+crosslinks:
+- youtubefactsbot
+- livven
+- tmsbmeta
+- FTC
+- xkcd
+- MassdropBot
+- place
+- anti_gif_bot
+- u_imguralbumbot
+- CompileBot
+- ProgrammerHumor
+- gwent
+- gaming
+- youtubot
+- frcmemes
+- Knoxville
+- videos
+- Polska
+- gifs
+- amateurradio
+---

@@ -1,0 +1,24 @@
+---
+title: Anarcho_Capitalism
+crosslinks:
+- zeronet
+- youtubefactsbot
+- GoldandBlack
+- Physical_Removal
+- autotldr
+- Anarchism
+- Libertarian
+- youtubot
+- EnoughLibertarianSpam
+- shitancapssay
+- Shitstatistssay
+- CapitalismVSocialism
+- The_Donald
+- ShitLiberalsSay
+- Drama
+- COMPLETEANARCHY
+- FULLCOMMUNISM
+- LateStageCapitalism
+- Polycentric_Law
+- u_imguralbumbot
+---

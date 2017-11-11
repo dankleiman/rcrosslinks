@@ -1,0 +1,24 @@
+---
+title: Calligraphy
+crosslinks:
+- u_imguralbumbot
+- anti_gif_bot
+- fountainpens
+- livven
+- AskReddit
+- aww
+- wholesomememes
+- bookporn
+- shittylifeprotip
+- buildapc
+- weddingplanning
+- mildlyinteresting
+- dataisbeautiful
+- funny
+- OutOfTheLoop
+- todayilearned
+- math
+- PurplePillDebate
+- handwriting
+- youtubefactsbot
+---

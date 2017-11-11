@@ -1,0 +1,24 @@
+---
+title: ptcgo
+crosslinks:
+- pkmntcg
+- poketcgonlinetrading
+- youtubefactsbot
+- anti_gif_bot
+- u_imguralbumbot
+- pkmntcgtrades
+- alotabot
+- livven
+- PkmnTCGCardConcepts
+- AskReddit
+- PokemonTCG
+- pokemon
+- politics
+- cats
+- PS4
+- SubredditDrama
+- dankmemes
+- john_yukis_bots
+- pokemongo
+- me_irl
+---

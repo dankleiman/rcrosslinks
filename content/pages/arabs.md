@@ -1,0 +1,24 @@
+---
+title: arabs
+crosslinks:
+- autotldr
+- youtubefactsbot
+- islam
+- IslamArabsSubWatch
+- worldnews
+- youtubot
+- AskHistorians
+- Israel
+- MassdropBot
+- u_imguralbumbot
+- The_Donald
+- lebanon
+- Palestine
+- syriancivilwar
+- MapPorn
+- iranian
+- tmsbmeta
+- europe
+- pro2
+- history
+---

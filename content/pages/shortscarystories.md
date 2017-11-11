@@ -1,0 +1,24 @@
+---
+title: shortscarystories
+crosslinks:
+- Painshifter
+- nosleep
+- youtubefactsbot
+- ShortScaryStoriesOOC
+- youtubot
+- DoverHawk
+- DarkTales
+- libraryofshadows
+- AlexUrwin
+- MassdropBot
+- BensTerribleFate
+- professionalsuccubus
+- SignalHorrorFiction
+- LJHalfbreed
+- Zchxz
+- TheAngsthaseAnthology
+- TwoSentenceHorror
+- sleepyskeletons
+- SA_Newman
+- WritingPrompts
+---

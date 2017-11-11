@@ -1,0 +1,24 @@
+---
+title: GoodFakeTexts
+crosslinks:
+- DeepFriedMemes
+- Badfaketexts
+- nukedmemes
+- texts
+- ChargeYourPhone
+- CringeAnarchy
+- MassdropBot
+- copypasta
+- coaxedintoasnafu
+- riskyclick
+- 2me4meirl
+- teenagers
+- meirl
+- subredditsashashtags
+- Tinder
+- FriendsofthePod
+- MaliciousCompliance
+- youtubefactsbot
+- hmm
+- Ooer
+---

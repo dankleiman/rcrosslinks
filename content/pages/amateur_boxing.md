@@ -1,0 +1,24 @@
+---
+title: amateur_boxing
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Boxing
+- blog
+- iamverybadass
+- e
+- bodyweightfitness
+- u_imguralbumbot
+- metric_units
+- BlackPeopleTwitter
+- Kickboxing
+- offmychest
+- AdvancedRunning
+- MuayThai
+- anti_gif_bot
+- keto
+- fightgear
+- vredditmirrorbot
+- toolbox
+- MMA
+---

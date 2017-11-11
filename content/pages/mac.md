@@ -1,0 +1,24 @@
+---
+title: mac
+crosslinks:
+- apple
+- youtubefactsbot
+- applehelp
+- autotldr
+- hackintosh
+- osx
+- hardwareswap
+- youtubot
+- u_imguralbumbot
+- MacOS
+- technology
+- livven
+- eGPU
+- xkcd
+- macapps
+- MassdropBot
+- macpro
+- vredditmirrorbot
+- Twitch
+- outrun
+---

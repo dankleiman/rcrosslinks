@@ -1,0 +1,24 @@
+---
+title: pyrocynical
+crosslinks:
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- MassdropBot
+- livven
+- montageparodies
+- Zaptie
+- DeepIntoYouTube
+- youtube
+- dankmemes
+- nukedmemes
+- Idubbbz
+- REEEEEEEEEE
+- tipofmypenis
+- Jameskii
+- Minecraft
+- fidgetspin
+- tmsbmeta
+- redditposts
+- vredditmirrorbot
+---

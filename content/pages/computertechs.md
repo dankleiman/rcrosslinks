@@ -1,0 +1,24 @@
+---
+title: computertechs
+crosslinks:
+- autotldr
+- techsupport
+- ITCareerQuestions
+- TronScript
+- youtubefactsbot
+- sysadmin
+- buildapc
+- xkcd
+- pcmasterrace
+- SuggestALaptop
+- softwaregore
+- Amd
+- retrobattlestations
+- Tool_Force
+- AskProgramming
+- computers
+- AyyMD
+- pcmods
+- BuyItForLife
+- Contest
+---

@@ -1,0 +1,24 @@
+---
+title: CruciblePlaybook
+crosslinks:
+- DestinyTheGame
+- CrucibleSherpa
+- u_imguralbumbot
+- CrucibleVoopArmy
+- destinythegame
+- xkcd
+- Fireteams
+- MassdropBot
+- PS4
+- cruciblesherpa
+- OWConsole
+- forhonor
+- RiseOfBacon
+- sharditkeepit
+- dataisbeautiful
+- Fallout
+- help
+- OverwatchUniversity
+- destiny2
+- fireteams
+---

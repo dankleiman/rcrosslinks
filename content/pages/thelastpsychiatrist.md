@@ -1,0 +1,24 @@
+---
+title: thelastpsychiatrist
+crosslinks:
+- youtubefactsbot
+- youtubot
+- sorceryofthespectacle
+- TheRedPill
+- AskReddit
+- ForeverAlone
+- badphilosophy
+- science
+- ShrugLifeSyndicate
+- autourbanbot
+- GenderCynical
+- funny
+- watches
+- TrueReddit
+- SocialEngineering
+- Incels
+- lebowski
+- TheRelentlessPicnic
+- changemyview
+- CriticalTheory
+---

@@ -1,0 +1,24 @@
+---
+title: AusFinance
+crosslinks:
+- australia
+- fiaustralia
+- wallstreetbets
+- Bitcoin
+- ausstocks
+- youtubefactsbot
+- financialindependence
+- badeconomics
+- youtubot
+- auslaw
+- brisbane
+- autotldr
+- MassdropBot
+- todayilearned
+- trollabot
+- TheseFuckingAccounts
+- u_imguralbumbot
+- worldnews
+- beards
+- sydney
+---

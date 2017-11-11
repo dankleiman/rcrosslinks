@@ -1,0 +1,24 @@
+---
+title: whatsthisworth
+crosslinks:
+- Antiques
+- Mid_Century
+- u_imguralbumbot
+- Militariacollecting
+- MassdropBot
+- BookCollecting
+- coins
+- freemasonry
+- Watches
+- SquaredCircle
+- iamverybadass
+- MechanicalKeyboards
+- c64
+- firePE
+- sneakermarket
+- CoinClub
+- rawdenim
+- Arrowheads
+- assassinscreed
+- RepTime
+---

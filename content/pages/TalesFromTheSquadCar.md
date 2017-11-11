@@ -1,0 +1,24 @@
+---
+title: TalesFromTheSquadCar
+crosslinks:
+- MilitaryStories
+- youtubefactsbot
+- AskLEO
+- ProtectAndServe
+- JUSTNOMIL
+- ccw
+- beetlejuicing
+- mitsubishi
+- bestof
+- spam
+- amibeingdetained
+- instantkarma
+- gifs
+- BurningMan
+- dog_irl
+- wordstoliveby
+- talesfromprintandcopy
+- JusticeServed
+- wholesome
+- hfy
+---

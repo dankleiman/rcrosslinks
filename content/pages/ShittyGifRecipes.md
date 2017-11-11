@@ -1,0 +1,24 @@
+---
+title: ShittyGifRecipes
+crosslinks:
+- GifRecipes
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- ketchuphate
+- thisiswhyyourefat
+- PutAnEggOnIt
+- nocontext
+- mildlybutthole
+- youtubot
+- pcmasterrace
+- grilledcheese
+- WeWantPlates
+- france
+- avocadosgonewild
+- TitlePapercut
+- shittyfoodporn
+- lolwat
+- SushiAbomination
+- mildlyinteresting
+---

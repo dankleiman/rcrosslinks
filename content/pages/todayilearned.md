@@ -1,0 +1,24 @@
+---
+title: todayilearned
+crosslinks:
+- AskReddit
+- AskHistorians
+- xkcd
+- IAmA
+- autourbanbot
+- videos
+- pics
+- funny
+- worldnews
+- youtubot
+- explainlikeimfive
+- askscience
+- news
+- The_Donald
+- movies
+- politics
+- john_yukis_bots
+- mildlyinteresting
+- u_imguralbumbot
+- tifu
+---

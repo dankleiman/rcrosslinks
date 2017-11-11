@@ -1,0 +1,24 @@
+---
+title: somethingimade
+crosslinks:
+- youtubefactsbot
+- livven
+- DIY
+- crafts
+- youtubot
+- pics
+- botwatch
+- woodworking
+- Wandsmith
+- Ceramics
+- StainedGlass
+- crochet
+- restofthefuckingowl
+- Leathercraft
+- lasercutting
+- rockhounds
+- maille
+- Embroidery
+- ArtisanVideos
+- Scrollsaw
+---

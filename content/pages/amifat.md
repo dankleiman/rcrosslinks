@@ -1,0 +1,24 @@
+---
+title: amifat
+crosslinks:
+- xxfitness
+- u_imguralbumbot
+- 1200isplenty
+- progresspics
+- metric_units
+- leangains
+- nutrition
+- fatlogic
+- GoneMild
+- ABraThatFits
+- AmISexy
+- pics
+- Fitness
+- BTFC
+- Posture
+- loseit
+- exxxchange
+- me_irl
+- proED
+- youtubot
+---

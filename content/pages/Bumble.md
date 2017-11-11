@@ -1,0 +1,24 @@
+---
+title: Bumble
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- Tinder
+- OkCupid
+- ChoosingBeggars
+- WhereAreAllTheGoodMen
+- ihavesex
+- autourbanbot
+- niceguys
+- youtubot
+- Drama
+- datingoverthirty
+- MGTOW
+- ForeverAlone
+- AskRedditAfterDark
+- pussypassdenied
+- archeage
+- AskWomen
+- rage
+- titlegore
+---

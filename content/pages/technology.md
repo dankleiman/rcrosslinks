@@ -1,0 +1,24 @@
+---
+title: technology
+crosslinks:
+- politics
+- The_Donald
+- zeronet
+- news
+- worldnews
+- tmsbmeta
+- AntiFacebook
+- IAmA
+- explainlikeimfive
+- bestof
+- AskReddit
+- Hewlett_Packard
+- todayilearned
+- u_imguralbumbot
+- pics
+- pcmasterrace
+- videos
+- youtubefactsbot
+- OutOfTheLoop
+- conspiracy
+---

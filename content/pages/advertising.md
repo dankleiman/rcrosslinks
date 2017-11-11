@@ -1,0 +1,24 @@
+---
+title: advertising
+crosslinks:
+- youtubefactsbot
+- autotldr
+- Entrepreneur
+- MassdropBot
+- totallynotrobots
+- youtubot
+- learnprogramming
+- vegan
+- ScottishPeopleTwitter
+- WeAreTheMusicMakers
+- marketing
+- australia
+- france
+- funny
+- freeformost
+- FUCK_United_Airlines
+- socialmedia
+- mildlyinteresting
+- vcu_brandcenter
+- DIY_eJuice
+---

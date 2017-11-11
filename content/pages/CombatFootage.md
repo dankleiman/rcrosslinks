@@ -1,0 +1,24 @@
+---
+title: CombatFootage
+crosslinks:
+- syriancivilwar
+- ShitWehraboosSay
+- youtubot
+- MilitaryGfys
+- bestof
+- AskHistorians
+- botwatch
+- Warplanesnuffporn
+- MilitaryPorn
+- watchpeopledie
+- The_Donald
+- badhistory
+- Military
+- 88mm
+- ShitAmericansSay
+- UkrainianConflict
+- Philippines
+- DestroyedTanks
+- livven
+- DankestNasheeds
+---

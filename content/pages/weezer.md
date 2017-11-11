@@ -1,0 +1,24 @@
+---
+title: weezer
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- tmsbmeta
+- youtubot
+- MassdropBot
+- shyvanamains
+- radiohead
+- livven
+- surrealmemes
+- NoMoreBamboozles
+- indieheads
+- WeezerCircleJerk
+- toosoon
+- lewronggeneration
+- KhakiMarsh
+- botwatch
+- jesuschristreddit
+- cake
+- deathgrips2
+- BotRights
+---

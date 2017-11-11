@@ -1,0 +1,24 @@
+---
+title: photoshop
+crosslinks:
+- photoshopbattles
+- postprocessing
+- PhotoshopRequest
+- PhotoshopTutorials
+- picrequests
+- wacom
+- AdobeIllustrator
+- webdev
+- DigitalPainting
+- ArcherFX
+- photography
+- interestingasfuck
+- TheseFuckingAccounts
+- humanresources
+- SFM
+- beforeandafteredit
+- Colorization
+- logorequests
+- explainlikeimfive
+- 3DScanning
+---

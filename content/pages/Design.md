@@ -1,0 +1,24 @@
+---
+title: Design
+crosslinks:
+- youtubefactsbot
+- autotldr
+- u_imguralbumbot
+- graphic_design
+- pics
+- anti_gif_bot
+- livven
+- youtubot
+- logodesign
+- UofT
+- australia
+- Entrepreneur
+- Art
+- gonwild
+- YouShouldKnow
+- Simulated
+- apple
+- 3Dprinting
+- VaporwaveAesthetics
+- THE_PACK
+---

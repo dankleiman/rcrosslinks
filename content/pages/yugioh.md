@@ -1,0 +1,24 @@
+---
+title: yugioh
+crosslinks:
+- YGOFeedback
+- YGOBinders
+- youtubefactsbot
+- YGOSales
+- Yugioh101
+- MetaYGO
+- livven
+- YuGiOh_Manga
+- yugijerk
+- customyugioh
+- magicTCG
+- Deskbots
+- john_yukis_bots
+- tmsbmeta
+- Frightfurs
+- DuelLinks
+- MassdropBot
+- RANK10TRAINS
+- TheDuelistKingdom
+- copypasta
+---

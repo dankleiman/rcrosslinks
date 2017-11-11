@@ -1,0 +1,24 @@
+---
+title: glitch_art
+crosslinks:
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- fakealbumcovers
+- intothetunnel
+- pixelsorting
+- youtubefactsbot
+- pics
+- brokengifs
+- MassdropBot
+- wallpapers
+- mildlyinteresting
+- Art
+- botwatch
+- VaporwaveArt
+- VaporwaveAesthetics
+- outrun
+- gifs
+- brokenanimegifs
+- softwaregore
+---

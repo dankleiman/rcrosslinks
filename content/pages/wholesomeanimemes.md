@@ -1,0 +1,24 @@
+---
+title: wholesomeanimemes
+crosslinks:
+- Roboragi
+- anime_irl
+- Animemes
+- livven
+- anti_gif_bot
+- headpats
+- youtubefactsbot
+- DuplicatesBot
+- HFY
+- wholesomeyuri
+- ReLIFE
+- botwatch
+- OnionLovers
+- wholesomememes
+- youtubot
+- handholding
+- wholesomehentai
+- nier
+- konmari
+- araragigirls
+---

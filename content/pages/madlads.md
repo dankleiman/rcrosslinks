@@ -1,0 +1,24 @@
+---
+title: madlads
+crosslinks:
+- youtubefactsbot
+- TipJarBot
+- anti_gif_bot
+- tmsbmeta
+- livven
+- AskReddit
+- funny
+- bestof
+- firstworldanarchists
+- MassdropBot
+- HailCorporate
+- youtubot
+- OutOfTheLoop
+- u_imguralbumbot
+- SubredditDrama
+- me_irl
+- autotldr
+- DuplicatesBot
+- gaming
+- pics
+---

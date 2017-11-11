@@ -1,0 +1,24 @@
+---
+title: RPGdesign
+crosslinks:
+- rpg
+- worldbuilding
+- anti_gif_bot
+- FFRPG
+- savageworlds
+- latelegends
+- youtubefactsbot
+- flashbackrpg
+- swrpg
+- osr
+- tabletopgamedesign
+- bestof
+- DnD
+- science
+- gamedev
+- Metal
+- u_imguralbumbot
+- ACSLB
+- rpgresources
+- characterdrawing
+---

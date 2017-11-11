@@ -1,0 +1,24 @@
+---
+title: LoveLive
+crosslinks:
+- Pixiv
+- youtubefactsbot
+- SchoolIdolFestival
+- u_imguralbumbot
+- youtubot
+- botpopularitybot
+- anime
+- LoveLiveTweets
+- Ganbaruby
+- TheRiceGoddess
+- MoleIsMoney
+- modnews
+- john_yukis_bots
+- Otonokizaka
+- cardcaptorsakura
+- SakurauchiRiko
+- shorthairedwaifus
+- hockey
+- livven
+- Yousoro
+---

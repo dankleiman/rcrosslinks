@@ -1,0 +1,24 @@
+---
+title: Battlecars
+crosslinks:
+- battlewagon
+- youtubefactsbot
+- MassdropBot
+- youtubot
+- u_imguralbumbot
+- WeirdWheels
+- Shitty_Car_Mods
+- RoastMyCar
+- ATBGE
+- subaru
+- overlanding
+- Datsun
+- battlewagons
+- lewronggeneration
+- LandRover
+- VEDC
+- vandwellers
+- evenwithcontext
+- projectcar
+- crv
+---

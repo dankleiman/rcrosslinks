@@ -1,0 +1,24 @@
+---
+title: leaves
+crosslinks:
+- Petioles
+- youtubefactsbot
+- getdisciplined
+- youtubot
+- stopdrinking
+- petioles
+- Drugs
+- NoFap
+- OCD
+- Anxiety
+- Psychonaut
+- LifeProTips
+- Fitness
+- gatekeeping
+- autourbanbot
+- SuicideWatch
+- AskMen
+- DecidingToBeBetter
+- zen
+- depression
+---

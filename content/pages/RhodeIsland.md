@@ -1,0 +1,24 @@
+---
+title: RhodeIsland
+crosslinks:
+- autotldr
+- providence
+- mildlyinteresting
+- Shitstatistssay
+- Frisson
+- LosAngeles
+- MassdropBot
+- u_imguralbumbot
+- baltimore
+- trees
+- radio
+- HistoryPorn
+- beholdthemasterrace
+- RIBreweries
+- AmericanPlantSwap
+- youtubefactsbot
+- creepy
+- socialism
+- dataisbeautiful
+- gimlet
+---

@@ -1,0 +1,24 @@
+---
+title: Gundam
+crosslinks:
+- youtubefactsbot
+- Gunpla
+- youtubot
+- livven
+- u_imguralbumbot
+- ThreeTimesFaster
+- anime
+- MassdropBot
+- Pixiv
+- EmpireDidNothingWrong
+- anti_gif_bot
+- handholding
+- 3dshacks
+- ObscureMedia
+- TwoBestFriendsPlay
+- Roboragi
+- GundamExVs
+- rpg
+- MSGBS
+- DuplicatesBot
+---

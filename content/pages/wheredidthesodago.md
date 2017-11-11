@@ -1,0 +1,24 @@
+---
+title: wheredidthesodago
+crosslinks:
+- funny
+- tmsbmeta
+- xkcd
+- MassdropBot
+- explainlikeimfive
+- AskReddit
+- titleporn
+- PeopleFuckingDying
+- ThatPeelingFeeling
+- mildlyinteresting
+- linkingsubsforkarma
+- wicked_edge
+- TumblrInAction
+- pics
+- ofcoursethatsathing
+- beetlejuicing
+- penis
+- punchablefaces
+- ggggg
+- unexpectedskyrim
+---

@@ -1,0 +1,24 @@
+---
+title: livesound
+crosslinks:
+- youtubefactsbot
+- audioengineering
+- youtubot
+- techtheatre
+- stagelighting
+- explainlikeimfive
+- RTLSDR
+- maker
+- personalfinance
+- Music
+- VIDEOENGINEERING
+- mercedes
+- projectors
+- guitarpedals
+- metric_units
+- HomeNetworking
+- cableporn
+- tmsbmeta
+- Broadcasting
+- u_imguralbumbot
+---

@@ -1,0 +1,24 @@
+---
+title: AMDHelp
+crosslinks:
+- Amd
+- u_imguralbumbot
+- buildapc
+- youtubefactsbot
+- GlobalOffensive
+- TronScript
+- techsupport
+- overclocking
+- pcmasterrace
+- AMDRyzen
+- nvidia
+- livven
+- battlefield3
+- youtubot
+- softwaregore
+- hardware
+- Overwatch
+- 34qtt6q
+- watercooling
+- alotabot
+---

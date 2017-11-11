@@ -1,0 +1,24 @@
+---
+title: progmetal
+crosslinks:
+- youtubot
+- youtubefactsbot
+- Metal
+- ShitTheFalseSay
+- progrockmusic
+- TheDearHunter
+- Opeth
+- gatekeeping
+- autourbanbot
+- progmetaljerk
+- Djent
+- BetweenTheBuriedAndMe
+- corelia
+- tmsbmeta
+- MassdropBot
+- Dreamtheater
+- Metalcore
+- lgbt
+- PowerMetal
+- Meshuggah
+---

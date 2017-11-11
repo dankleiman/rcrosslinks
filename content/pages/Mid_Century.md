@@ -1,0 +1,24 @@
+---
+title: Mid_Century
+crosslinks:
+- ThriftStoreHauls
+- midcenturymodern
+- midcentury
+- AmateurRoomPorn
+- youtubot
+- ArtDeco
+- BrasilOnReddit
+- architecture
+- maninthehighcastle
+- youtubefactsbot
+- MidCenturyDesign
+- alotabot
+- audiophile
+- HailCorporate
+- nocontext
+- woodworking
+- food
+- delusionalartists
+- livven
+- sewcrazy
+---

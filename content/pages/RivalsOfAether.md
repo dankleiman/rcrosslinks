@@ -1,0 +1,24 @@
+---
+title: RivalsOfAether
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- livven
+- roacirclejerk
+- tmsbmeta
+- xboxone
+- NintendoSwitch
+- smashbros
+- Brawlhalla
+- gametales
+- john_yukis_bots
+- dataisbeautiful
+- CalgaryFlames
+- StreetFighter
+- linux_gaming
+- MassdropBot
+- SSBM
+- place
+- Overwatch
+---

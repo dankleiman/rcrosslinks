@@ -1,0 +1,24 @@
+---
+title: AdvancedRunning
+crosslinks:
+- running
+- youtubefactsbot
+- tmsbmeta
+- u_imguralbumbot
+- artc
+- youtubot
+- xkcd
+- dataisbeautiful
+- Albuquerque
+- funny
+- TaylorSwift
+- me_irl
+- Fitness
+- SubredditDrama
+- bodyweightfitness
+- '2013'
+- trailrunning
+- UnexpectedHamilton
+- rarepuppers
+- stagehands
+---

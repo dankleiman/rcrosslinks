@@ -1,0 +1,24 @@
+---
+title: Izlam
+crosslinks:
+- islam
+- u_imguralbumbot
+- livven
+- anti_gif_bot
+- MassdropBot
+- youtubefactsbot
+- exmuslim
+- youtubot
+- vegan
+- dankchristianmemes
+- botwatch
+- botpopularitybot
+- The_Donald
+- tmsbmeta
+- Christianity
+- milliondollarextreme
+- DeepFriedMemes
+- Turkey
+- AskReddit
+- polandball
+---

@@ -1,0 +1,24 @@
+---
+title: SuddenlyGay
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- TotallyStraight
+- gifs
+- indianpeoplefacebook
+- youtubot
+- Archeology
+- holesomememes
+- NotHowDrugsWork
+- topsandbottoms
+- GamePhysics
+- beetlejuicing
+- todayilearned
+- mirin
+- WTF
+- forwardsfromgrandma
+- autourbanbot
+- CrappyDesign
+- BetterEveryLoop
+---

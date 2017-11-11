@@ -1,0 +1,24 @@
+---
+title: FinalFantasy
+crosslinks:
+- youtubefactsbot
+- FFXV
+- ffxiv
+- dissidia
+- ffxi
+- youtubot
+- FFRecordKeeper
+- FinalFantasyXII
+- livven
+- anti_gif_bot
+- Gamingcirclejerk
+- alotabot
+- place
+- tmsbmeta
+- KingdomHearts
+- OtakuVisualArts
+- france
+- Games
+- xdfp
+- FFXII
+---

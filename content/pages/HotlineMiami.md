@@ -1,0 +1,24 @@
+---
+title: HotlineMiami
+crosslinks:
+- u_imguralbumbot
+- hotlinemiamimaps
+- youtubefactsbot
+- anti_gif_bot
+- tf2
+- gottagetagrip
+- livven
+- tmsbmeta
+- MassdropBot
+- place
+- youtubot
+- OneTrueRem
+- bindingofisaac
+- gaming
+- PhotoshopRequest
+- Vive
+- mashups
+- pcmasterrace
+- '2008'
+- 50b
+---

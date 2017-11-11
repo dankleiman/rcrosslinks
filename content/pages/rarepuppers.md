@@ -1,0 +1,24 @@
+---
+title: rarepuppers
+crosslinks:
+- livven
+- anti_gif_bot
+- tmsbmeta
+- youtubefactsbot
+- u_imguralbumbot
+- aww
+- LifePupperTips
+- gifs
+- youtubot
+- botwatch
+- blop
+- pics
+- MassdropBot
+- funny
+- AskReddit
+- photoshopbattles
+- videos
+- longboyes
+- mildlyinteresting
+- OldManDog
+---

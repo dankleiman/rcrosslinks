@@ -1,0 +1,24 @@
+---
+title: haskell
+crosslinks:
+- programming
+- NixOS
+- rust
+- haskellquestions
+- youtubefactsbot
+- agda
+- haskelltil
+- botwatch
+- reflexfrp
+- ocaml
+- youtubot
+- KamenRider
+- learnpython
+- haskell_jp
+- purescript
+- haskellgamedev
+- Python
+- archlinux
+- MachineLearning
+- TransFlagPlace
+---

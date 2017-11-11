@@ -1,0 +1,24 @@
+---
+title: bigfoot
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Missing411
+- autotldr
+- Bigfoot1
+- worldpolitics
+- SubredditDrama
+- SasquatchAttacks
+- Ghosts
+- AskReddit
+- mountainmonsters
+- IKEA_Hacks
+- HomoGiganticus
+- SGU
+- pics
+- Serendipity
+- Alien_Theory
+- paragon
+- livven
+- Sculpture
+---

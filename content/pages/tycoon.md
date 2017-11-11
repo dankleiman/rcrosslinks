@@ -1,0 +1,24 @@
+---
+title: tycoon
+crosslinks:
+- youtubot
+- youtubefactsbot
+- pcgaming
+- anno
+- ZooManager
+- InterstellarTransport
+- yesyesyesno
+- Serendipity
+- Overcrowd
+- PlanetCoaster
+- u_imguralbumbot
+- rct
+- SimAirport
+- feedthebeast
+- TavernKeeper
+- Banished
+- openttd
+- terroir
+- SimCity
+- RimWorld
+---

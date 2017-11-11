@@ -1,0 +1,24 @@
+---
+title: WackyTicTacs
+crosslinks:
+- ReallyWackyTicTacs
+- u_imguralbumbot
+- MinionHate
+- ComedyCemetery
+- DeepFriedMemes
+- MassdropBot
+- Ooer
+- youtubefactsbot
+- nukedmemes
+- tmsbmeta
+- childfree
+- absolutelynotmeirl
+- KarmaCourt
+- 2meirl42meirl4meirl
+- KGATLW
+- GoodBots
+- iamverybadass
+- livven
+- blackholedmemes
+- PrequelMemes
+---

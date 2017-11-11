@@ -1,0 +1,24 @@
+---
+title: Warthunder
+crosslinks:
+- livven
+- u_imguralbumbot
+- tmsbmeta
+- anti_gif_bot
+- ShitWehraboosSay
+- DestroyedTanks
+- GaijinPlease
+- AskHistorians
+- unexpectedsabaton
+- john_yukis_bots
+- TankPorn
+- warthundermemes
+- alotabot
+- WWIIplanes
+- CombatFootage
+- HistoryPorn
+- REEEEEEEEEE
+- wargame
+- Rainbow6
+- MassdropBot
+---

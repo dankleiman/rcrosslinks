@@ -1,0 +1,24 @@
+---
+title: BurningMan
+crosslinks:
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- burningmanmusic
+- 1z6a3aa
+- autotldr
+- furtherfuture
+- youtubot
+- ElectricForest
+- CampingGear
+- AskTrollX
+- Fiverr
+- BitcoinMarkets
+- AskOuija
+- Bitcoin
+- iamverybadass
+- AskCulinary
+- ProjectFi
+- john_yukis_bots
+- ronpaulshops
+---

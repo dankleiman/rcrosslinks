@@ -1,0 +1,24 @@
+---
+title: RedvsBlue
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- Serendipity
+- roosterteeth
+- evenwithcontext
+- BlueCorner
+- NewBeginningsRP
+- FanTrailers
+- custommagic
+- RWBY
+- anti_gif_bot
+- CODZombies
+- AMAAggregator
+- place
+- switcharoo
+- teenagers
+- osugame
+- u_imguralbumbot
+- arrow
+---

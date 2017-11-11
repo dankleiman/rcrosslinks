@@ -1,0 +1,24 @@
+---
+title: suns
+crosslinks:
+- nba
+- youtubefactsbot
+- u_imguralbumbot
+- lakers
+- bostonceltics
+- clevelandcavs
+- youtubot
+- livven
+- MassdropBot
+- sixers
+- Suomi
+- ShitRedditSays
+- reddit_stream
+- CFB
+- DetroitPistons
+- '2016'
+- timberwolves
+- alotabot
+- nbacirclejerk
+- kings
+---

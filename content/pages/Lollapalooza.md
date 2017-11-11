@@ -1,0 +1,24 @@
+---
+title: Lollapalooza
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- bonnaroo
+- youtubot
+- Coachella
+- chicago
+- chicagoEDM
+- HangoutFest
+- JeopardyQBot
+- Art
+- tmsbmeta
+- '2013'
+- MassdropBot
+- PembertonFestival
+- osheaga
+- wayhome
+- FosterThePeople
+- ok768
+- festivals
+- OutsideLands
+---

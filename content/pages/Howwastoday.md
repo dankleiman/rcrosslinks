@@ -1,0 +1,24 @@
+---
+title: Howwastoday
+crosslinks:
+- AskReddit
+- youtubot
+- youtubefactsbot
+- knitting
+- Breadit
+- Advice
+- bulletjournal
+- offmychest
+- getdisciplined
+- AlAnon
+- selfie
+- factorio
+- TrueOffMyChest
+- stopdrinking
+- worldbuilding
+- stepparents
+- enlightenedbirdmen
+- shingekinokyojin
+- SuicideWatch
+- wholesomemes
+---

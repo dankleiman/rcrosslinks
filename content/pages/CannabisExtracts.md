@@ -1,0 +1,24 @@
+---
+title: CannabisExtracts
+crosslinks:
+- rosin
+- trees
+- Dabs
+- Waxpen
+- dailydabbers
+- youtubefactsbot
+- treedibles
+- glassheads
+- electronic_cigarette
+- microgrowery
+- vaporents
+- DIY_eJuice
+- highqualitygifs
+- abv
+- xkcd
+- PS4
+- concentrates
+- help
+- OutOfTheLoop
+- pics
+---

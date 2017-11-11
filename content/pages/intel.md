@@ -1,0 +1,24 @@
+---
+title: intel
+crosslinks:
+- Amd
+- youtubefactsbot
+- buildapc
+- autotldr
+- hardware
+- overclocking
+- pcmasterrace
+- nvidia
+- AyyMD
+- u_imguralbumbot
+- hardwareswap
+- 600x450
+- tmsbmeta
+- buildapcsales
+- CabaloftheBuildsmiths
+- sffpc
+- AyyyMD
+- Dell
+- Competitiveoverwatch
+- videos
+---

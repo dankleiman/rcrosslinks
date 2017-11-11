@@ -1,0 +1,24 @@
+---
+title: LeagueOfMeta
+crosslinks:
+- leagueoflegends
+- modnews
+- Overwatch
+- dotamasterrace
+- combinedgifs
+- kpop
+- buildapc
+- AskReddit
+- Kindred
+- loltyler1
+- worldnews
+- FIFA
+- RoastMe
+- self
+- hearthstone
+- AhriMains
+- Lizards
+- NoStupidQuestions
+- diablo
+- GlobalOffensive
+---

@@ -1,0 +1,24 @@
+---
+title: Albuquerque
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- livven
+- IAmA
+- hardwareswap
+- subaru
+- 505Nerds
+- FilmIndustryABQ
+- autourbanbot
+- Roadcam
+- Art
+- askscience
+- ProtectAndServe
+- meirl
+- Shitty_Car_Mods
+- startrek
+- NoContract
+- RealEstate
+- tmsbmeta
+- chicago
+---

@@ -1,0 +1,24 @@
+---
+title: excel
+crosslinks:
+- excelevator
+- vba
+- personalfinance
+- youtubefactsbot
+- fBot
+- xkcd
+- IAmA
+- mysql
+- youtubot
+- gaming
+- raerth
+- MSAccess
+- IsLoneEchoAlive
+- SoccerBetting
+- googlesheets
+- DnDBehindTheScreen
+- charts
+- '2013'
+- mtgfinance
+- tmsbmeta
+---

@@ -1,0 +1,24 @@
+---
+title: Calgary
+crosslinks:
+- youtubefactsbot
+- youtubot
+- autotldr
+- canada
+- PersonalFinanceCanada
+- alberta
+- u_imguralbumbot
+- MassdropBot
+- john_yukis_bots
+- xkcd
+- Edmonton
+- pics
+- AskReddit
+- NoRulesCalgary
+- livven
+- funny
+- CalgaryDashCams
+- vancouver
+- legaladvice
+- metacanada
+---

@@ -1,0 +1,24 @@
+---
+title: marvelheroes
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- RocketLeagueExchange
+- '2012'
+- livven
+- future_fight
+- StreetFighter
+- tmsbmeta
+- HeroesofNewerth
+- reactiongifs
+- xboxone
+- creepyPMs
+- iamverybadass
+- starcitizen
+- alotabot
+- marvelheroesomega
+- JeopardyQBot
+- Warframe
+- Marvel
+---

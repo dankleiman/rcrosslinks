@@ -1,0 +1,24 @@
+---
+title: coins
+crosslinks:
+- translator
+- Silverbugs
+- translatorBOT
+- CRH
+- AncientCoins
+- whatisthisthing
+- Exonumia
+- CoinstarFinds
+- pics
+- CoinEyeCandy
+- papermoney
+- coincollecting
+- Bitcoin
+- youtubot
+- legaladvice
+- tipnyan
+- FidgetSpinners
+- occult
+- 2lvh1j4
+- Pmsforsale
+---

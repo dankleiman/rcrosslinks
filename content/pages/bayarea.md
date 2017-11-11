@@ -1,0 +1,24 @@
+---
+title: bayarea
+crosslinks:
+- sanfrancisco
+- youtubot
+- berkeley
+- oakland
+- EnoughTrumpSpam
+- xkcd
+- autourbanbot
+- RealEstate
+- john_yukis_bots
+- SanJose
+- SJEarthquakes
+- PublicFreakout
+- legaladvice
+- Roadcam
+- learnprogramming
+- warriors
+- urbanplanning
+- gatekeeping
+- livven
+- SanFranciscoII
+---

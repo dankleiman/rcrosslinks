@@ -1,0 +1,24 @@
+---
+title: IncelTears
+crosslinks:
+- Incels
+- REEEEEEEEEE
+- SkincareAddiction
+- ForeverAlone
+- IncelReddit
+- AskWomen
+- TheRedPill
+- IncelsWithoutHate
+- RealIncel
+- funny
+- AskReddit
+- john_yukis_bots
+- MassdropBot
+- Drama
+- PlasticSurgery
+- justneckbeardthings
+- truerateme
+- Rateme
+- TheBluePill
+- SubAutoCorrectBot
+---

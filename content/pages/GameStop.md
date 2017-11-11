@@ -1,0 +1,24 @@
+---
+title: GameStop
+crosslinks:
+- youtubefactsbot
+- john_yukis_bots
+- NintendoSwitch
+- TalesFromRetail
+- anti_gif_bot
+- SubredditDrama
+- tmsbmeta
+- gamecollecting
+- gaming
+- xboxone
+- alotabot
+- livven
+- IAmA
+- me_irl
+- CompTIA
+- Android
+- farcry
+- PS4Pro
+- thatHappened
+- iamverybadass
+---

@@ -1,0 +1,24 @@
+---
+title: riddles
+crosslinks:
+- youtubefactsbot
+- asoiaf
+- botpopularitybot
+- Paladins
+- gravityfalls
+- rickygervais
+- todayilearned
+- UnexpectedHearthstone
+- ducksintheway
+- MassdropBot
+- puzzles
+- writing
+- situationpuzzles
+- AskReddit
+- HighQualityGifs
+- StarWars
+- codes
+- hailcorporate
+- Gotham
+- pics
+---

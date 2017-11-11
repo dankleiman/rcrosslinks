@@ -1,0 +1,24 @@
+---
+title: borussiadortmund
+crosslinks:
+- soccer
+- youtubefactsbot
+- youtubot
+- ussoccer
+- bvbcirclejerk
+- placestart
+- de
+- soccerstreams
+- MassdropBot
+- schalke04
+- nohomo_bot
+- footballhighlights
+- ChurchOfSchmelle
+- john_yukis_bots
+- place
+- Gunners
+- livven
+- LiverpoolFC
+- rbleipzig
+- Bundesliga
+---

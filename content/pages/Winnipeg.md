@@ -1,0 +1,24 @@
+---
+title: Winnipeg
+crosslinks:
+- youtubefactsbot
+- youtubot
+- autotldr
+- u_imguralbumbot
+- worldnews
+- onguardforthee
+- xkcd
+- winnipegjets
+- Manitoba
+- LateStageCapitalism
+- place
+- IAmA
+- AskReddit
+- jobuds
+- MGTOW
+- canada
+- MassdropBot
+- movies
+- tmsbmeta
+- '2013'
+---

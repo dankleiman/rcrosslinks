@@ -1,0 +1,24 @@
+---
+title: Truckers
+crosslinks:
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- youtubot
+- TruckersLounge
+- Trucking
+- Justrolledintotheshop
+- autotldr
+- Tiresaretheenemy
+- zeronet
+- anti_gif_bot
+- ShittyLifeProTips
+- Roadcam
+- trucksim
+- hedidthemath
+- pics
+- WTF
+- cocaine
+- tmsbmeta
+- mildlyinteresting
+---

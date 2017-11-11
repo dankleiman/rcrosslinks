@@ -1,0 +1,24 @@
+---
+title: CitiesSkylines
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- u_imguralbumbot
+- youtubot
+- IAmA
+- CitiesSkylinesModding
+- urbanplanning
+- InfrastructurePorn
+- tmsbmeta
+- john_yukis_bots
+- interestingasfuck
+- SimCity
+- alotabot
+- tiltshift
+- modnews
+- UrbanHell
+- PrequelMemes
+- accidentalswastika
+- CityPorn
+---

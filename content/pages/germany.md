@@ -1,0 +1,24 @@
+---
+title: germany
+crosslinks:
+- autotldr
+- youtubefactsbot
+- de
+- ShitAmericansSay
+- youtubot
+- europrivacy
+- German
+- berlin
+- europe
+- german
+- u_imguralbumbot
+- Munich
+- hamburg
+- worldpolitics
+- MassdropBot
+- The_Donald
+- xkcd
+- place
+- tmsbmeta
+- the_schulz
+---

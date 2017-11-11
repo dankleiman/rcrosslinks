@@ -1,0 +1,24 @@
+---
+title: humblebrag
+crosslinks:
+- youtubefactsbot
+- botpopularitybot
+- u_imguralbumbot
+- gatekeeping
+- niceguys
+- iamverysmart
+- septumchicks
+- totallynotrobots
+- iamverybadass
+- botwatch
+- shittytattoos
+- listentothis
+- OopsDidntMeanTo
+- punchablefaces
+- PowerMetal
+- catseatingpasta
+- autourbanbot
+- TheRedPill
+- john_yukis_bots
+- thalassophobia
+---

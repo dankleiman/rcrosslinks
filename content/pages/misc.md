@@ -1,0 +1,24 @@
+---
+title: misc
+crosslinks:
+- worldpolitics
+- Missing411
+- linguistics
+- pics
+- youtubefactsbot
+- weather
+- todayilearned
+- dataisbeautiful
+- woahdude
+- business
+- studentloandefaulters
+- Buttcoin
+- Coffee
+- news
+- Justfuckmyshitup
+- changemyview
+- SubredditDrama
+- facepalm
+- Frisson
+- unitedstatesofamerica
+---

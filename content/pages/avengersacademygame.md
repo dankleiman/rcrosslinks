@@ -1,0 +1,24 @@
+---
+title: avengersacademygame
+crosslinks:
+- u_imguralbumbot
+- FlashTV
+- tmsbmeta
+- youtubefactsbot
+- Marvel
+- SubredditDrama
+- place
+- UnexpectedHamilton
+- unexpectedhogwarts
+- comicbooks
+- ur
+- marvelstudios
+- aww
+- LoveNikki
+- john_yukis_bots
+- anti_gif_bot
+- outrun
+- avengersacademyios
+- IsAnybodyHere
+- NoStupidQuestions
+---

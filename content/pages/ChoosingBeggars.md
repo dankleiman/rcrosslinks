@@ -1,0 +1,24 @@
+---
+title: ChoosingBeggars
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- worldnews
+- vegan
+- KitchenConfidential
+- xkcd
+- videos
+- trashyboners
+- AskHistorians
+- askphilosophy
+- trashy
+- Drama
+- r4rPortland
+- hitomitanaka
+- gaming
+- suspiciousquotes
+- ShitRedditSays
+- mildlyinfuriating
+- neckbeard
+- WhereAreAllTheGoodMen
+---

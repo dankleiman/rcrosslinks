@@ -1,0 +1,24 @@
+---
+title: medicine
+crosslinks:
+- youtubefactsbot
+- medicalschool
+- autotldr
+- bestof
+- youtubot
+- xkcd
+- AskReddit
+- AskDocs
+- childfree
+- news
+- worldnews
+- Radiology
+- u_imguralbumbot
+- science
+- pharmacy
+- changemyview
+- premed
+- nottheonion
+- IAmA
+- books
+---

@@ -1,0 +1,24 @@
+---
+title: muacjdiscussion
+crosslinks:
+- MakeupAddiction
+- AsianBeauty
+- BeautyGuruChatter
+- SkincareAddiction
+- Indiemakeupandmore
+- makeupexchange
+- BeautyGuruChat
+- OliveMUA
+- femalefashionadvice
+- SubredditDrama
+- muacirclejerk
+- BGCCircleJerk
+- RedPillWives
+- MakeupRehab
+- sugarfreemua
+- BeautyBoxes
+- FeminineNotFeminist
+- brownbeauty
+- ambien
+- MakeupAddicts
+---

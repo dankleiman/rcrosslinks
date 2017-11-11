@@ -1,0 +1,24 @@
+---
+title: singedmains
+crosslinks:
+- youtubefactsbot
+- leagueoflegends
+- u_imguralbumbot
+- livven
+- youtubot
+- anti_gif_bot
+- TryndamereMains
+- gangplankmains
+- nocturnemains
+- Dariusmains
+- MassdropBot
+- john_yukis_bots
+- lol
+- monkaS
+- Fishing
+- KoreanAdvice
+- summonerschool
+- vredditmirrorbot
+- QuinnMains
+- REEEEEEEEEE
+---

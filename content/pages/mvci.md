@@ -1,0 +1,24 @@
+---
+title: mvci
+crosslinks:
+- youtubefactsbot
+- Kappa
+- youtubot
+- marvelvscapcom
+- MvC3
+- StreetFighter
+- GameDeals
+- MvCinfinite
+- livven
+- funkopop
+- salty
+- u_imguralbumbot
+- MVCITest
+- csshelp
+- MonsterHunter
+- UMVC3
+- alotabot
+- Skullgirls
+- autourbanbot
+- dragonbutts
+---

@@ -1,0 +1,24 @@
+---
+title: Utah
+crosslinks:
+- autotldr
+- SaltLakeCity
+- youtubefactsbot
+- exmormon
+- ogden
+- livven
+- youtubot
+- EndFPTP
+- botwatch
+- polyamory
+- autourbanbot
+- mcmullin
+- Marijuana
+- todayilearned
+- logan
+- ShitLiberalsSay
+- AmericanPlantSwap
+- xkcd
+- changemyview
+- Israel
+---

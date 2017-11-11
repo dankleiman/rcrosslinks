@@ -1,0 +1,24 @@
+---
+title: ihavesex
+crosslinks:
+- TranscribersOfReddit
+- iamverybadass
+- copypasta
+- badwomensanatomy
+- oversharing
+- gatekeeping
+- sadcringe
+- trashy
+- MassdropBot
+- furry_irl
+- ChargeYourPhone
+- youtubot
+- indianpeoplefacebook
+- thatHappened
+- xkcd
+- bonehurtingjuice
+- bigdickproblems
+- insanepeoplefacebook
+- trashyboners
+- nsfw
+---

@@ -1,0 +1,24 @@
+---
+title: DarkFuturology
+crosslinks:
+- youtubefactsbot
+- AntiFacebook
+- StallmanWasRight
+- explainlikeimfive
+- botwatch
+- NewSlangTerms
+- collapse
+- Futurology
+- Drama
+- BasicIncome
+- ShrugLifeSyndicate
+- autourbanbot
+- DarkEnlightenment
+- blackmirror
+- VPN
+- BioChar
+- WTF
+- worldnews
+- theydidthemath
+- Serendipity
+---

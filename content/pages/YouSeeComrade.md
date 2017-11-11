@@ -1,0 +1,24 @@
+---
+title: YouSeeComrade
+crosslinks:
+- youtubefactsbot
+- livven
+- tmsbmeta
+- funny
+- unexpectedoverwatch
+- youtubot
+- Rainbow6
+- 2me4meirl
+- LateStageCapitalism
+- NotKenM
+- blackmagicfuckery
+- beetlejuicing
+- tf2
+- rarepuppers
+- H3VR
+- civ5
+- whatcouldgoright
+- ANI_COMMUNISM
+- ShitWehraboosSay
+- botwatch
+---

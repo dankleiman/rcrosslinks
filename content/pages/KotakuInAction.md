@@ -1,0 +1,24 @@
+---
+title: KotakuInAction
+crosslinks:
+- youtubefactsbot
+- youtubot
+- SocialJusticeInAction
+- politics
+- subredditcancer
+- TumblrInAction
+- WikiInAction
+- modnews
+- The_Donald
+- announcements
+- vegan
+- KiAChatroom
+- Physical_Removal
+- help
+- starcraft
+- MozillaInAction
+- pussypassdenied
+- take_back_tech
+- science
+- ModSupport
+---

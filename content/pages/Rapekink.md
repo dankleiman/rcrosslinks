@@ -1,0 +1,24 @@
+---
+title: Rapekink
+crosslinks:
+- stupidslutsclub
+- rape_roleplay
+- youtubefactsbot
+- StruggleFucking
+- rapecounseling
+- AbusePorn2
+- IAmA
+- BDSMpersonals
+- TheBluePill
+- zoophilia
+- SluttyConfessions
+- rape_porn
+- dgu
+- askphilosophy
+- breakfeminazis
+- DirtyNerdyChick47
+- ssc
+- TrueFilm
+- forcedorgasms
+- DirtyStoryWriting
+---

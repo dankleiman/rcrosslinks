@@ -1,0 +1,24 @@
+---
+title: codes
+crosslinks:
+- CODZombies
+- ARG
+- u_imguralbumbot
+- twinpeaks
+- conspiracy
+- ciphers
+- crypto
+- programming
+- Oppression
+- coding
+- youtubot
+- CracktheCode
+- youtubefactsbot
+- cicada
+- StarWars
+- Paladins
+- mathpuzzles
+- The_Barron
+- billwurtz
+- TheFamiliar
+---

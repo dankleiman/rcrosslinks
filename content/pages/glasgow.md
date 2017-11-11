@@ -1,0 +1,24 @@
+---
+title: glasgow
+crosslinks:
+- youtubefactsbot
+- Scotland
+- youtubot
+- AskReddit
+- glasgowmarket
+- exmuslim
+- tmsbmeta
+- Serendipity
+- WTF
+- autotldr
+- ShitAmericansSay
+- Edinburgh
+- GlasgowCreatives
+- dyspraxia
+- paris
+- MassdropBot
+- GlasgowPolitics
+- StarWars
+- OldSchoolCool
+- madlads
+---

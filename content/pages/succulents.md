@@ -1,0 +1,24 @@
+---
+title: succulents
+crosslinks:
+- u_imguralbumbot
+- cactus
+- whatsthisplant
+- MassdropBot
+- Bonsai
+- youtubefactsbot
+- youtubot
+- gardening
+- anti_gif_bot
+- tmsbmeta
+- orchids
+- SavageGarden
+- john_yukis_bots
+- Aquariums
+- parrots
+- pics
+- mycology
+- thingsforants
+- me_irl
+- stopdrinking
+---

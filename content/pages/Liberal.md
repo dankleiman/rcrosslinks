@@ -1,0 +1,24 @@
+---
+title: Liberal
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- Conservative
+- politics
+- esist
+- dataisbeautiful
+- EnoughTrumpSpam
+- xkcd
+- MarchAgainstTrump
+- USGovernmentSim
+- AskHistorians
+- PoliticalHumor
+- forwardsfromgrandma
+- duh
+- PoliticalDiscussion
+- NewsOfTheWeird
+- Serendipity
+- changemyview
+- both_sides
+- the_cheeto
+---

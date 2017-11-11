@@ -1,0 +1,24 @@
+---
+title: MadeMeSmile
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- youtubot
+- gifs
+- tmsbmeta
+- aww
+- videos
+- botwatch
+- funny
+- AskReddit
+- pics
+- u_imguralbumbot
+- autotldr
+- HailCorporate
+- PeopleFuckingDying
+- MassdropBot
+- BritainsGotTalent
+- SubredditDrama
+- xkcd
+---

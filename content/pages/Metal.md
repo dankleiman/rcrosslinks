@@ -1,0 +1,24 @@
+---
+title: Metal
+crosslinks:
+- deathmetal
+- Deathmetal
+- BlackMetal
+- ShitTheFalseSay
+- u_imguralbumbot
+- Metalcore
+- TapeKvlt
+- Music
+- DungeonSynth
+- progmetal
+- WarMetal
+- tmsbmeta
+- heavyvinyl
+- '2013'
+- doommetal
+- kaala
+- PowerMetal
+- boardgames
+- IAmA
+- AnythingMetal
+---

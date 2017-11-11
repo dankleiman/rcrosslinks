@@ -1,0 +1,24 @@
+---
+title: katawashoujo
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- AskReddit
+- gaming
+- visualnovels
+- StardustCrusaders
+- smoobypost
+- Palpz
+- videos
+- Suomi
+- missingstars
+- DataHoarder
+- JonTron
+- YamakuHighSchool
+- petite
+- place
+- botpopularitybot
+- Clannad
+- fullhearts
+---

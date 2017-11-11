@@ -1,0 +1,24 @@
+---
+title: ElectricSkateboarding
+crosslinks:
+- youtubefactsbot
+- boostedboards
+- ElectricSkateboards
+- MellowBoards
+- anti_gif_bot
+- longboarding
+- metric_units
+- marbel
+- MassdropBot
+- kickstarter
+- u_imguralbumbot
+- autourbanbot
+- 3Dprinting
+- UnlimitedEngineering
+- theydidthemath
+- alotabot
+- AskPhysics
+- EBoardMarketplace
+- needamod
+- autotldr
+---

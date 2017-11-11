@@ -1,0 +1,24 @@
+---
+title: Brawlstars
+crosslinks:
+- tmsbmeta
+- youtubefactsbot
+- politics
+- ClashRoyale
+- john_yukis_bots
+- anti_gif_bot
+- alotabot
+- Brawl_Stars
+- vredditmirrorbot
+- titlegore
+- livven
+- BrawlRecruit
+- youtubot
+- u_imguralbumbot
+- botwatch
+- SummerReddit
+- polymerclay
+- MassdropBot
+- UofT
+- CompetitiveBrawlStars
+---

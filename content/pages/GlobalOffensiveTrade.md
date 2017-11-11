@@ -1,0 +1,24 @@
+---
+title: GlobalOffensiveTrade
+crosslinks:
+- Steam
+- GlobalOffensive
+- alotabot
+- GOTradeReport
+- opskins
+- SteamTradingCards
+- csgomarketforum
+- tabled
+- SteamGameSwap
+- csgotrade
+- Pins4Skins
+- GoTradeAppeals
+- KatowiceTrading
+- PUBGTrade
+- SteamArtworkProfiles
+- Dota2Trade
+- niceb8m8
+- csgobetting
+- csgo_trading
+- RAOfCSGO
+---

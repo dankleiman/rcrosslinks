@@ -1,0 +1,24 @@
+---
+title: StardustCrusaders
+crosslinks:
+- nocontext
+- place
+- TabletopCrusaders
+- anime
+- CharacterRant
+- LoveLive
+- WorldofTanks
+- JoJoDiamondRecords
+- AnimeFigures
+- TwoBestFriendsPlay
+- john_yukis_bots
+- pokemon
+- fightcade
+- photoshopbattles
+- OldSchoolCool
+- doujinshi
+- leagueoflegends
+- awwnime
+- read
+- identifythisfont
+---

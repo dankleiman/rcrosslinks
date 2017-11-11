@@ -1,0 +1,24 @@
+---
+title: aspergers
+crosslinks:
+- youtubefactsbot
+- aspergirls
+- AskReddit
+- alotabot
+- autism
+- SuicideWatch
+- raisedbynarcissists
+- john_yukis_bots
+- survivor
+- ADHD
+- science
+- TheRedPill
+- ehlersdanlos
+- explainlikeimfive
+- Anxiety
+- autourbanbot
+- trees
+- funny
+- Incels
+- Needafriend
+---

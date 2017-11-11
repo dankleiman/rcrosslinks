@@ -1,0 +1,24 @@
+---
+title: printSF
+crosslinks:
+- SF_Book_Club
+- TheExpanse
+- TerraIgnota
+- Asimov
+- scifi
+- Fantasy
+- sciencefiction
+- AskScienceFiction
+- books
+- TheCulture
+- AskReddit
+- asimov
+- Vorkosigan
+- nosleep
+- weirdlit
+- todayilearned
+- humblebundles
+- amazon
+- FansOfJackVance
+- autotldr
+---

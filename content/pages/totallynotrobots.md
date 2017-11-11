@@ -1,0 +1,24 @@
+---
+title: totallynotrobots
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- totallynotrobotsmeta
+- u_imguralbumbot
+- youtubot
+- TOTALLYROBOTS
+- autotldr
+- pics
+- tmsbmeta
+- xkcd
+- mildlyinteresting
+- funny
+- softwaregore
+- totallynothumans
+- SubredditSimulator
+- wholesomenotrobots
+- furry_irl
+- robots
+- oddlysatisfying
+---

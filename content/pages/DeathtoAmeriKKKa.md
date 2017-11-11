@@ -1,0 +1,24 @@
+---
+title: DeathtoAmeriKKKa
+crosslinks:
+- worldnews
+- EnoughCommieSpam
+- ShitLiberalsSay
+- australia
+- ukpolitics
+- ShitWehraboosSay
+- ForwardsFromGrandma2
+- aznidentity
+- badhistory
+- tumblr
+- TrueReddit
+- communism
+- HistoryPorn
+- botwatch
+- nottheonion
+- AskReddit
+- MassdropBot
+- ShitAmericansSay
+- bestof
+- ShitImperialistsSay
+---

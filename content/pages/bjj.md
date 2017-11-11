@@ -1,0 +1,24 @@
+---
+title: bjj
+crosslinks:
+- livven
+- judo
+- MMA
+- anti_gif_bot
+- u_imguralbumbot
+- sambo
+- Fitness
+- youtubefactsbot
+- tmsbmeta
+- bodyweightfitness
+- martialarts
+- flexibility
+- autourbanbot
+- kettlebell
+- ketogains
+- iamverybadass
+- MassdropBot
+- john_yukis_bots
+- gifs
+- xkcd
+---

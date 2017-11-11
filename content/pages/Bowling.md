@@ -1,0 +1,24 @@
+---
+title: Bowling
+crosslinks:
+- youtubot
+- csshelp
+- youtubefactsbot
+- unexpectedfactorial
+- alotabot
+- IAmA
+- pics
+- xkcd
+- anti_gif_bot
+- WhatsWrongWithYourDog
+- dailyprogrammer
+- livven
+- john_yukis_bots
+- tmsbmeta
+- expectedfactorial
+- metric_units
+- accounting
+- videos
+- funny
+- nonononoyes
+---

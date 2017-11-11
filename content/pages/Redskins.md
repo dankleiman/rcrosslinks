@@ -1,0 +1,24 @@
+---
+title: Redskins
+crosslinks:
+- youtubefactsbot
+- nfl
+- youtubot
+- anti_gif_bot
+- MassdropBot
+- livven
+- NFL_Draft
+- highqualitygifs
+- nflstreams
+- StLouisRams
+- reddit_stream
+- caps
+- u_imguralbumbot
+- 49ers
+- botwatch
+- IAmA
+- gundeals
+- Colts
+- evilleagueofevil
+- autotldr
+---

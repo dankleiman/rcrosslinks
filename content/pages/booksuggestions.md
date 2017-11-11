@@ -1,0 +1,24 @@
+---
+title: booksuggestions
+crosslinks:
+- Fantasy
+- AskHistorians
+- AskPhilosophyFAQ
+- books
+- printSF
+- freeEBOOKS
+- steampunks
+- HFY
+- discworld
+- tmsbmeta
+- ReadeBookOnline
+- me_irl
+- nosleep
+- murakami
+- audiobooks
+- TheCulture
+- bestof
+- FreeEBOOKS
+- bookscirclejerk
+- islam
+---

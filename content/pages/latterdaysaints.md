@@ -1,0 +1,24 @@
+---
+title: latterdaysaints
+crosslinks:
+- exmormon
+- youtubefactsbot
+- mormon
+- youtubot
+- autotldr
+- Christianity
+- lds
+- xkcd
+- john_yukis_bots
+- funny
+- livven
+- lds_irl
+- maliciouscompliance
+- news
+- mormonscholar
+- mormonpolitics
+- transhumanism
+- weddingplanning
+- autourbanbot
+- vegan
+---

@@ -1,0 +1,24 @@
+---
+title: Punny
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- funny
+- u_imguralbumbot
+- WorstPuns
+- me_irl
+- AskReddit
+- tumblr
+- Jokes
+- WordAvalanches
+- puns
+- ShittyAnimalFacts
+- botwatch
+- nocontext
+- SubredditDrama
+- xkcd
+- Whatcouldgowrong
+- ProtectAndServe
+- livven
+- StarWarsDadJokes
+---

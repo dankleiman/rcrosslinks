@@ -1,0 +1,24 @@
+---
+title: DebateReligion
+crosslinks:
+- ThroughAGlassDarkly
+- askphilosophy
+- DebateAChristian
+- Christianity
+- atheism
+- Judaism
+- AcademicBiblical
+- DebateAnAtheist
+- ThroughAGlassLightly
+- religion
+- youtubefactsbot
+- TMBR
+- islam
+- philosophy
+- cosmologicalargument
+- exmuslim
+- autourbanbot
+- DebateEvolution
+- AskHistorians
+- EsotericOccult
+---

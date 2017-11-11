@@ -1,0 +1,24 @@
+---
+title: CanadianMOMs
+crosslinks:
+- canadients
+- WeedDeals
+- youtubefactsbot
+- ShatterDeals
+- trees
+- u_imguralbumbot
+- CBD
+- youtubot
+- Waxpen
+- DarkNetMarkets
+- TODispensaries
+- CannabisExtracts
+- MOMpics
+- vaporents
+- microgrowery
+- alotabot
+- The_Donald
+- CanadianMOM
+- CanadianCannabisdot
+- AllDeals
+---

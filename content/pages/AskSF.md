@@ -1,0 +1,24 @@
+---
+title: AskSF
+crosslinks:
+- sanfrancisco
+- bayarea
+- California
+- cscareerquestions
+- travel
+- Roadcam
+- youtubefactsbot
+- clapdances
+- baseball
+- whatisthisthing
+- Frugal
+- xkcd
+- GoodValue
+- Lyme
+- lfg
+- keto
+- Serendipity
+- beer
+- SFCA
+- SFGiants
+---

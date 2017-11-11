@@ -1,0 +1,24 @@
+---
+title: FancyFollicles
+crosslinks:
+- u_imguralbumbot
+- curlyhair
+- youtubefactsbot
+- HaircareScience
+- Hair
+- livven
+- youtubot
+- tmsbmeta
+- PhotoshopRequest
+- shorthairedhotties
+- fountainpens
+- EliteDangerous
+- MakeupAddiction
+- aww
+- orlando
+- toast
+- WTF
+- sexyhair
+- john_yukis_bots
+- SubredditDrama
+---

@@ -1,0 +1,24 @@
+---
+title: Staples
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- anti_gif_bot
+- livven
+- OfficeDepot
+- AskReddit
+- john_yukis_bots
+- tmsbmeta
+- Shoplifting
+- TalesFromRetail
+- CrappyDesign
+- youtubot
+- jobs
+- alotabot
+- ActLikeYouBelong
+- Serendipity
+- funny
+- gadgets
+- xkcd
+- MassdropBot
+---

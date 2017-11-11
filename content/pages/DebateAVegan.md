@@ -1,0 +1,24 @@
+---
+title: DebateAVegan
+crosslinks:
+- vegan
+- badcarnism
+- keto
+- youtubot
+- youtubefactsbot
+- wildanimalsuffering
+- veganrecipes
+- vegancirclejerk
+- veganfitness
+- askphilosophy
+- Vulpyne
+- Scholar
+- autourbanbot
+- antinatalism
+- vegetarian
+- conspiracy
+- u_imguralbumbot
+- homestead
+- nutrition
+- Showerthoughts
+---

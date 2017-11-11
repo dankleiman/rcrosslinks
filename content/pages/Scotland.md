@@ -1,0 +1,24 @@
+---
+title: Scotland
+crosslinks:
+- ukpolitics
+- youtubot
+- glasgow
+- unitedkingdom
+- badunitedkingdom
+- autourbanbot
+- MassdropBot
+- OutdoorScotland
+- Aberdeen
+- xkcd
+- place
+- ireland
+- Edinburgh
+- europe
+- ScottishPeopleTwitter
+- Hebrides
+- worldnews
+- badukpolitics
+- ShitAmericansSay
+- john_yukis_bots
+---

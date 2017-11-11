@@ -1,0 +1,24 @@
+---
+title: addiction
+crosslinks:
+- OpiatesRecovery
+- AlAnon
+- stopdrinking
+- REDDITORSINRECOVERY
+- 2rdewyo
+- pornfree
+- bestof
+- stims
+- naranon
+- NoFap
+- botwatch
+- alotabot
+- FuckingTweakers
+- needadvice
+- randomactsofspeciosa
+- EOOD
+- researchchemicals
+- tmsbmeta
+- FoodAddiction
+- AskReddit
+---

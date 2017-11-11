@@ -1,0 +1,24 @@
+---
+title: Gameboy
+crosslinks:
+- youtubefactsbot
+- GameboyMarketplace
+- youtubot
+- gamecollecting
+- u_imguralbumbot
+- Koji_Kendo
+- chiptunes
+- 3dshacks
+- gaming
+- retrogaming
+- asdfqweRnD
+- livven
+- retrogamedev
+- tipofmyjoystick
+- nintendo
+- snes
+- nds
+- pokemon
+- tmsbmeta
+- nesclassicmods
+---

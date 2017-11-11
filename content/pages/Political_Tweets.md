@@ -1,0 +1,24 @@
+---
+title: Political_Tweets
+crosslinks:
+- MarchAgainstTrump
+- tmsbmeta
+- youtubot
+- youtubefactsbot
+- subredditcancer
+- u_imguralbumbot
+- The_Donald
+- ShitPoliticsSays
+- all
+- hillaryclinton
+- forwardsfromgrandma
+- engineering
+- killthosewhodisagree
+- iamverybadass
+- CringeAnarchy
+- autourbanbot
+- SubredditDrama
+- autotldr
+- neoliberal
+- WhitePeopleTwitter
+---

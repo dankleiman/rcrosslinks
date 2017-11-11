@@ -1,0 +1,24 @@
+---
+title: ClashRoyale
+crosslinks:
+- elexerbot
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- RoyaleRecruit
+- TrueClashRoyale
+- LootRoyale
+- youtubot
+- ClashRoyaleCirclejerk
+- ClashOfClans
+- CompetitiveCR
+- alotabot
+- john_yukis_bots
+- autourbanbot
+- AskReddit
+- KarmaCourt
+- ChargeYourPhone
+- RoyaleConspiracy
+- MassdropBot
+---

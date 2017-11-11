@@ -1,0 +1,24 @@
+---
+title: TaylorSwift
+crosslinks:
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- livven
+- Kanye
+- autourbanbot
+- HighQualityGifs
+- john_yukis_bots
+- popheads
+- u_imguralbumbot
+- TaylorSwiftLegs
+- MassdropBot
+- gifs
+- TaylorSwiftPictures
+- titlegore
+- schuhe
+- AskReddit
+- vinyl
+- garbage
+- alotabot
+---

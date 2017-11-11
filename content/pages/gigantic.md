@@ -1,0 +1,24 @@
+---
+title: gigantic
+crosslinks:
+- gaming
+- youtubefactsbot
+- giganticheroconcepts
+- livven
+- youtubot
+- heroesofthestorm
+- Paladins
+- john_yukis_bots
+- u_imguralbumbot
+- MassdropBot
+- alotabot
+- OutOfTheLoop
+- HFY
+- Battleborn
+- Kappa
+- Ooer
+- dawngate
+- Tribes
+- survivetheculling
+- gatekeeping
+---

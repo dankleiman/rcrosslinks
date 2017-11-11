@@ -1,0 +1,24 @@
+---
+title: aves
+crosslinks:
+- youtubefactsbot
+- electricdaisycarnival
+- BeyondWonderland
+- festivals
+- MDMA
+- EDM
+- electronicmusic
+- MassdropBot
+- HardFestival
+- DrugNerds
+- Serendipity
+- bassnectar
+- trap
+- AboveandBeyond
+- Cyberpunk
+- trance
+- ericprydz
+- holyship
+- porterrobinson
+- DarkNetMarkets
+---

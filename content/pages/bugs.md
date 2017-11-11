@@ -1,0 +1,24 @@
+---
+title: bugs
+crosslinks:
+- help
+- changelog
+- announcements
+- redditmobile
+- all
+- beta
+- ideasfortheadmins
+- Adblock
+- OutOfTheLoop
+- modnews
+- SkincareAddiction
+- AskReddit
+- ModSupport
+- Games
+- SubredditDrama
+- atheism
+- modhelp
+- GameDeals
+- RESissues
+- gaming
+---

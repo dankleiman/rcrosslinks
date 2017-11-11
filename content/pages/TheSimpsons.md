@@ -1,0 +1,24 @@
+---
+title: TheSimpsons
+crosslinks:
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- simpsonsshitposting
+- HighQualityGifs
+- simpsonsdidit
+- pics
+- autotldr
+- IAmA
+- SimpsonsFaces
+- MassdropBot
+- Showerthoughts
+- funny
+- ireland
+- simpsonsfaces
+- announcements
+- bonehurtingjuice
+- television
+---

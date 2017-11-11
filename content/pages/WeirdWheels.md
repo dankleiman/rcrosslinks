@@ -1,0 +1,24 @@
+---
+title: WeirdWheels
+crosslinks:
+- youtubefactsbot
+- ATBGE
+- UglyCarPictures
+- thewholecar
+- Shitty_Car_Mods
+- youtubot
+- hotwheels_irl
+- battlewagon
+- botpopularitybot
+- AwesomeCarMods
+- RetroFuturism
+- delusionalcraigslist
+- WeirdWings
+- geotracker
+- Battlecars
+- funny
+- Snowcats
+- u_imguralbumbot
+- livven
+- cars
+---

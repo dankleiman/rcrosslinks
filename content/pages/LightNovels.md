@@ -1,0 +1,24 @@
+---
+title: LightNovels
+crosslinks:
+- Roboragi
+- noveltranslations
+- anime
+- manga
+- OreGairuSNAFU
+- swordartonline
+- u_imguralbumbot
+- Mahouka
+- overlord
+- araragi
+- Re_Zero
+- Konosuba
+- autourbanbot
+- Haganai
+- sukasuka
+- Shinkai
+- litrpg
+- youtubefactsbot
+- HighSchoolDxD
+- Hakomari
+---

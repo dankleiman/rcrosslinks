@@ -1,0 +1,24 @@
+---
+title: homeautomation
+crosslinks:
+- homeassistant
+- youtubefactsbot
+- Abode
+- amazonecho
+- autotldr
+- xkcd
+- SmartThings
+- googlehome
+- ecobee
+- homelab
+- ringdoorbell
+- PleX
+- raspberry_pi
+- homesecurity
+- '0x7B1DEA01'
+- IKEA
+- HomeAutomationTrade
+- tasker
+- HomeKit
+- lawncare
+---

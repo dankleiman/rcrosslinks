@@ -1,0 +1,24 @@
+---
+title: SyrianCirclejerkWar
+crosslinks:
+- syriancivilwar
+- youtubefactsbot
+- SyrianRebels
+- livven
+- anti_gif_bot
+- autotldr
+- youtubot
+- u_imguralbumbot
+- REEEEEEEEEE
+- Turkey
+- botwatch
+- AssadistWatch
+- AMAAggregator
+- AskReddit
+- shitjihadissay
+- islam
+- worldnews
+- FULLCOMMUNISM
+- LevantineWar
+- syrianconflict
+---

@@ -1,0 +1,24 @@
+---
+title: tax
+crosslinks:
+- personalfinance
+- legaladvice
+- youtubefactsbot
+- u_imguralbumbot
+- autotldr
+- retirement
+- youtubot
+- Buttcoin
+- SuicideWatch
+- Libertarian
+- Foodforthought
+- illinois
+- IRS
+- studentloandefaulters
+- autourbanbot
+- predictit
+- Bitcoin
+- answers
+- AirBnB
+- RobinHood
+---

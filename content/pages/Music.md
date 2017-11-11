@@ -1,0 +1,24 @@
+---
+title: Music
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- youtubot
+- IAmA
+- Metal
+- hiphopheads
+- videos
+- AskReddit
+- u_imguralbumbot
+- vinyl
+- xkcd
+- lewronggeneration
+- todayilearned
+- UKbands
+- tipofmytongue
+- KendrickLamar
+- WeAreTheMusicMakers
+- outrun
+- OutOfTheLoop
+- gatekeeping
+---

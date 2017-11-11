@@ -1,0 +1,24 @@
+---
+title: babyelephantgifs
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- pics
+- botwatch
+- u_imguralbumbot
+- Pigifs
+- likeus
+- funny
+- GivesRandomGoldOut
+- nocontext
+- UNBGBBIIVCHIDCTIICBG
+- tmsbmeta
+- woahdude
+- Tiresaretheenemy
+- IAmA
+- Eyebleach
+- '2013'
+- badlinguistics
+---

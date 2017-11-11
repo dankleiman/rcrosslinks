@@ -1,0 +1,24 @@
+---
+title: transit
+crosslinks:
+- autotldr
+- boston
+- DuplicatesBot
+- bicycleculture
+- LosAngeles
+- anti_gif_bot
+- nyc
+- japancirclejerk
+- aviation
+- livven
+- TheHourchive
+- SeattleWA
+- vancouver
+- pittsburgh
+- youtubot
+- london
+- biology
+- Infrastructurist
+- Austin
+- Calgary
+---

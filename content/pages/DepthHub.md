@@ -1,0 +1,24 @@
+---
+title: DepthHub
+crosslinks:
+- AskHistorians
+- bestof
+- TrueReddit
+- AskReddit
+- todayilearned
+- explainlikeimfive
+- technology
+- news
+- AnimalsBeingJerks
+- worldnews
+- youtubefactsbot
+- tmsbmeta
+- occult
+- changemyview
+- geopolitics
+- history
+- LateStageCapitalism
+- movies
+- MidEastRegionalWar
+- funny
+---

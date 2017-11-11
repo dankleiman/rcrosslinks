@@ -1,0 +1,24 @@
+---
+title: forwardsfromreddit
+crosslinks:
+- ForwardsFromREDACTED
+- youtubefactsbot
+- gorillaz
+- forwardsfromgrandma
+- copypasta
+- OutOfTheLoop
+- BadSocialScience
+- tmsbmeta
+- magicskyfairy
+- circlejerkcopypasta
+- coaxedintoasnafu
+- COMPLETEANARCHY
+- REEEEEEEEEE
+- ShitWehraboosSay
+- iamverybadass
+- botwatch
+- WackyTicTacs
+- killthosewhodisagree
+- boottoobig
+- u_imguralbumbot
+---

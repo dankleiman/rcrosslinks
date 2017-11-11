@@ -1,0 +1,24 @@
+---
+title: architecture
+crosslinks:
+- youtubefactsbot
+- autotldr
+- youtubot
+- ArchitectureVids
+- GeometryIsNeat
+- MassdropBot
+- u_imguralbumbot
+- ArchitecturePorn
+- evilbuildings
+- hometours
+- Lost_Architecture
+- pics
+- lewronggeneration
+- MealPrepSunday
+- nfl
+- Buffalo
+- The_Donald
+- Bahaipics
+- Mid_Century
+- ancientrome
+---

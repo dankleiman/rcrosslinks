@@ -1,0 +1,24 @@
+---
+title: yaoi
+crosslinks:
+- livven
+- u_imguralbumbot
+- yaoipics
+- l_search
+- Pixiv
+- titlegore
+- Roboragi
+- MassdropBot
+- askjapan
+- catboys
+- me_irl
+- totallynotrobots
+- place
+- anime
+- youtubot
+- REEEEEEEEEE
+- tmsbmeta
+- polandball
+- DeliciousTraps
+- youtubefactsbot
+---

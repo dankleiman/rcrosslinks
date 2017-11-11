@@ -1,0 +1,24 @@
+---
+title: PERU
+crosslinks:
+- place
+- youtubefactsbot
+- autotldr
+- argentina
+- Paladins
+- notArgentina
+- GreenLattice
+- youtubot
+- MassdropBot
+- xkcd
+- science
+- todayilearned
+- placehearts
+- papertowns
+- chile
+- The_Donald
+- latinos
+- DeepGreenResistance
+- HIMYM
+- Suomi
+---

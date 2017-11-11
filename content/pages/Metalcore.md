@@ -1,0 +1,24 @@
+---
+title: Metalcore
+crosslinks:
+- PostHardcore
+- MelodicHardcore
+- Deathcore
+- youtubefactsbot
+- NuMetal
+- corejerk
+- ProgMetal
+- MelodicDeathMetal
+- john_yukis_bots
+- melodichardcore
+- AntiMWMWatch
+- ShitTheFalseSay
+- Metal
+- u_imguralbumbot
+- Hardcore
+- GamerGhazi
+- tmsbmeta
+- Music
+- ShowerOrange
+- progmetal
+---

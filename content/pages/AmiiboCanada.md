@@ -1,0 +1,24 @@
+---
+title: AmiiboCanada
+crosslinks:
+- NintendoSwitch
+- youtubefactsbot
+- amiibo
+- NintendoSwapCanada
+- nintendo
+- VideoGameDealsCanada
+- amiiboswapca
+- tmsbmeta
+- u_imguralbumbot
+- AnimeFigures
+- 3DS
+- youtubot
+- zelda
+- GamePreordersCanada
+- tabled
+- 2qs2crq
+- hardwareswap
+- 3DSdeals
+- Games
+- nesclassicmods
+---

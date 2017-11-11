@@ -1,0 +1,24 @@
+---
+title: Trucks
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- cars
+- livven
+- metric_units
+- ATBGE
+- AutoDetailing
+- youtubot
+- ram_trucks
+- trucking
+- Hookit
+- autotldr
+- overlanding
+- 4x4
+- SUV
+- Shitty_Car_Mods
+- Lightbar
+- army
+- Chevy
+- Wrangler
+---

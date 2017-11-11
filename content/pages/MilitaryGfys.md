@@ -1,0 +1,24 @@
+---
+title: MilitaryGfys
+crosslinks:
+- livven
+- CombatFootage
+- youtubot
+- HephaestusAetnaean
+- MilitaryPorn
+- aviation
+- AskHistorians
+- stabbot
+- worldnews
+- Warplanesnuffporn
+- F35Lightning
+- The_Donald
+- WarshipPorn
+- hoggit
+- shockwaveporn
+- wargame
+- brrrrrrrrrrrrrrrrt
+- gifs
+- TankPorn
+- theydidthemath
+---

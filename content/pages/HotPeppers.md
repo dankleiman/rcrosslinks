@@ -1,0 +1,24 @@
+---
+title: HotPeppers
+crosslinks:
+- u_imguralbumbot
+- gardening
+- youtubefactsbot
+- seedswap
+- spicy
+- hotsaucerecipes
+- whatsthisbug
+- youtubot
+- theydidthemath
+- tea
+- whatsthisplant
+- todayilearned
+- answers
+- fermentation
+- anti_gif_bot
+- Greenhouses
+- spacebuckets
+- DIY
+- microgrowery
+- hotsauce
+---

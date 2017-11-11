@@ -1,0 +1,24 @@
+---
+title: LinusTechTips
+crosslinks:
+- youtubot
+- anti_gif_bot
+- youtubefactsbot
+- cableporn
+- pcmasterrace
+- alotabot
+- Amd
+- Frugal
+- livven
+- buildapc
+- G502MasterRace
+- mac
+- NetflixViaVPN
+- GiIvaSunner
+- IAmA
+- homelab
+- cablefail
+- linuxmasterrace
+- AskReddit
+- techsupport
+---

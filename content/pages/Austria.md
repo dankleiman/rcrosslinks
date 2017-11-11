@@ -1,0 +1,24 @@
+---
+title: Austria
+crosslinks:
+- wien
+- de
+- u_imguralbumbot
+- europe
+- xkcd
+- aeiou
+- HistoryOfAustria
+- MapPorn
+- IAmA
+- worldnews
+- The_Donald
+- AskHistorians
+- AskReddit
+- edefreiheit
+- tifu
+- autourbanbot
+- place
+- AskEurope
+- livven
+- graz
+---

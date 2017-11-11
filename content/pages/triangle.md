@@ -1,0 +1,24 @@
+---
+title: triangle
+crosslinks:
+- raleigh
+- youtubefactsbot
+- motoswap
+- NorthCarolina
+- bullcity
+- ClaytonNC
+- trianglefood
+- autotldr
+- childfree
+- Dixie
+- science
+- TwoXChromosomes
+- Roadcam
+- alotabot
+- politics
+- LGBTriangle
+- YogaPants
+- The_Donald
+- saxapahaw
+- BlueMidterm2018
+---

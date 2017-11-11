@@ -1,0 +1,24 @@
+---
+title: CrazyIdeas
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Lightbulb
+- botwatch
+- insaneideas
+- AskReddit
+- u_imguralbumbot
+- bestof
+- politics
+- The_Donald
+- WritingPrompts
+- OutOfTheLoop
+- crazyidea
+- circlebroke2
+- nocontext
+- goodideas
+- Crazy
+- greatideas
+- MensLib
+- all
+---

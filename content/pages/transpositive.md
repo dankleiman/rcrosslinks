@@ -1,0 +1,24 @@
+---
+title: transpositive
+crosslinks:
+- asktransgender
+- u_imguralbumbot
+- MtF
+- youtubefactsbot
+- DINIHTM
+- ftm
+- AskReddit
+- TrueChristian
+- AgainstHateSubreddits
+- transgendercirclejerk
+- transgender
+- livven
+- Challenger
+- transtimelines
+- all
+- TransDIY
+- transvoice
+- Serendipity
+- MassdropBot
+- curlyhair
+---

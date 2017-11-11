@@ -1,0 +1,24 @@
+---
+title: wisconsin
+crosslinks:
+- autotldr
+- youtubefactsbot
+- madisonwi
+- milwaukee
+- Economics
+- The_Donald
+- WisconsinMan
+- u_imguralbumbot
+- botwatch
+- wisconsin_writers
+- badeconomics
+- AmericanPlantSwap
+- BrasilOnReddit
+- SubredditDrama
+- texas
+- supereffective
+- modnews
+- videos
+- GMOMyths
+- welcome_to_wisconsin
+---

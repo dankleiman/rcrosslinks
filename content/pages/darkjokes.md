@@ -1,0 +1,24 @@
+---
+title: darkjokes
+crosslinks:
+- youtubefactsbot
+- AntiJokes
+- Jokes
+- youtubot
+- MassdropBot
+- toosoon
+- UnexpectedOuija
+- tmsbmeta
+- SummerReddit
+- itsjasonbourne
+- unexpectedGoT
+- AntiAntiJokes
+- AskReddit
+- greentext
+- Showerthoughts
+- RimWorld
+- sexadvice
+- tifu
+- RoastMe
+- deadbabyjokes
+---

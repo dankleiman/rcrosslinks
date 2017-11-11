@@ -1,0 +1,24 @@
+---
+title: washingtondc
+crosslinks:
+- youtubefactsbot
+- autotldr
+- newdcgirls
+- nova
+- DCover30
+- bestof
+- The_Donald
+- livven
+- pics
+- news
+- SubredditDrama
+- IAmA
+- baltimore
+- DCforRent
+- maryland
+- ShitPoliticsSays
+- AskReddit
+- excel
+- DCents
+- personalfinance
+---

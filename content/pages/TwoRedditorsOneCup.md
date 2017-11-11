@@ -1,0 +1,24 @@
+---
+title: TwoRedditorsOneCup
+crosslinks:
+- funny
+- pics
+- vandwellers
+- gaming
+- Overwatch
+- untrustworthypoptarts
+- thegrandtour
+- KarmaConspiracy
+- subredditcancer
+- Tinder
+- aww
+- nyc
+- WTF
+- tmsbmeta
+- sadcringe
+- motorcycles
+- battlefield_one
+- mildlyinteresting
+- madlads
+- Beetlejuice
+---

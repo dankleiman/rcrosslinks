@@ -1,0 +1,24 @@
+---
+title: scala
+crosslinks:
+- programming
+- youtubefactsbot
+- ScalaConferenceVideos
+- Kotlin
+- xkcd
+- java
+- androiddev
+- softwaregore
+- graph
+- DFW_Scala_Enthusiasts
+- ProgrammingLanguages
+- rust
+- JavaFX
+- compsci
+- functional
+- haskellquestions
+- Akka
+- Idris
+- haskell
+- play
+---

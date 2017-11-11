@@ -1,0 +1,24 @@
+---
+title: hearthstone
+crosslinks:
+- CompetitiveHS
+- u_imguralbumbot
+- customhearthstone
+- tmsbmeta
+- hearthstonecirclejerk
+- wildhearthstone
+- GrinningGoat
+- KFTPRDT
+- xkcd
+- IAmA
+- JUGPRDT
+- Overwatch
+- ArenaHS
+- gwent
+- wow
+- botpopularitybot
+- leagueoflegends
+- AskReddit
+- heroesofthestorm
+- Shadowverse
+---

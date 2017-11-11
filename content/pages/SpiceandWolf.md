@@ -1,0 +1,24 @@
+---
+title: SpiceandWolf
+crosslinks:
+- anime
+- u_imguralbumbot
+- youtubefactsbot
+- Dakimakuras
+- alotabot
+- wallstreetbets
+- REEEEEEEEEE
+- closetsanta
+- Nendoroid
+- Haruhi
+- anti_gif_bot
+- holo
+- cutelittlefangs
+- Serendipity
+- Konosuba
+- livven
+- youtubot
+- Animewallpaper
+- tmsbmeta
+- OneTrueTohsaka
+---

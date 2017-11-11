@@ -1,0 +1,24 @@
+---
+title: FFXV
+crosslinks:
+- youtubefactsbot
+- FinalFantasy
+- Gamingcirclejerk
+- Promptography
+- youtubot
+- xdfp
+- FFXV_Trades
+- tmsbmeta
+- MassdropBot
+- u_imguralbumbot
+- CookingWithIgnis
+- FFRecordKeeper
+- PS4
+- JRPG
+- ffxiv
+- AMAAggregator
+- RocketLeague
+- cosplay
+- promptography
+- funny
+---

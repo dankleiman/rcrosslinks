@@ -1,0 +1,24 @@
+---
+title: researchchemicals
+crosslinks:
+- Drugs
+- autourbanbot
+- ReagentTesting
+- youtubefactsbot
+- Stims
+- Nootropics
+- DrugNerds
+- microdosing
+- benzodiazepines
+- drugs
+- noids
+- NovelDissos
+- DrugsOver30
+- fentanyl
+- drugscirclejerk
+- youtubot
+- MDMA
+- LSD
+- plugging
+- DrugStashes
+---

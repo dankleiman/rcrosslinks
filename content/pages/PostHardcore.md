@@ -1,0 +1,24 @@
+---
+title: PostHardcore
+crosslinks:
+- Metalcore
+- youtubefactsbot
+- youtubot
+- poppunkers
+- MelodicDeathMetal
+- corejerk
+- Emo
+- NuMetal
+- dancegavindance
+- skrillex
+- mathrock
+- tmsbmeta
+- ladispute
+- AntiRadkeWatch
+- skramz
+- magicthecirclejerking
+- 4chan
+- EmoScreamo
+- showerthoughs
+- Screamo
+---

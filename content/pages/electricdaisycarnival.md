@@ -1,0 +1,24 @@
+---
+title: electricdaisycarnival
+crosslinks:
+- EDCLeaks
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- aves
+- EDCTickets
+- electronicmusic
+- livven
+- tmsbmeta
+- vegas
+- Coachella
+- UMF
+- Drugs
+- EDM
+- MassdropBot
+- alotabot
+- MDMA
+- AMAAggregator
+- autourbanbot
+---

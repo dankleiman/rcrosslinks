@@ -1,0 +1,24 @@
+---
+title: ThriftStoreHauls
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Flipping
+- analog
+- anti_gif_bot
+- tmsbmeta
+- goodyearwelt
+- livven
+- vintageaudio
+- CoolCollections
+- AskReddit
+- botwatch
+- DIY
+- pics
+- streetwear
+- youdontsurf
+- MassdropBot
+- whatisthisthing
+- aww
+- Mid_Century
+---

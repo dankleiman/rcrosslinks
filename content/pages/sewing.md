@@ -1,0 +1,24 @@
+---
+title: sewing
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- youtubefactsbot
+- Leathercraft
+- MassdropBot
+- ostomy
+- upholstery
+- Tailors
+- vintagesewing
+- Drag
+- blackladies
+- DIY
+- knitting
+- HistoricalCostuming
+- sewhelp
+- botwatch
+- quilting
+- ABraThatFits
+- crafts
+- bestof
+---

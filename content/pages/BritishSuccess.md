@@ -1,0 +1,24 @@
+---
+title: BritishSuccess
+crosslinks:
+- youtubefactsbot
+- britishproblems
+- youtubot
+- mildlyinteresting
+- bestof
+- killthosewhodisagree
+- AskReddit
+- u_imguralbumbot
+- thatHappened
+- titlegore
+- AskCulinary
+- xkcd
+- SweatyPalms
+- doctorwho
+- turbotango
+- OutOfTheLoop
+- INGLIN
+- news
+- britishproblemsuccess
+- circlebroke2
+---

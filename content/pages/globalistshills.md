@@ -1,0 +1,24 @@
+---
+title: globalistshills
+crosslinks:
+- neoliberal
+- badeconomics
+- Economics
+- AskEconomics
+- autotldr
+- The_Donald
+- PoliticalDiscussion
+- Trumpgret
+- ModelUSGov
+- Christianity
+- cmhoc
+- NeutralPolitics
+- politics
+- Lawfare
+- EffectiveAltruism
+- the_macron
+- ShitLiberalsSay
+- badhistory
+- ukpolitics
+- Drama
+---

@@ -1,0 +1,24 @@
+---
+title: TheDickShow
+crosslinks:
+- youtubefactsbot
+- biggestproblem
+- Destiny
+- MadcastMedia
+- youtubot
+- livven
+- asterios
+- autotldr
+- The_Donald
+- MassdropBot
+- autourbanbot
+- Drama
+- xkcd
+- AskReddit
+- OutOfTheLoop
+- tmsbmeta
+- todayilearned
+- JamesDamore
+- Madcucks
+- anti_gif_bot
+---

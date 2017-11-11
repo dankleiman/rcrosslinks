@@ -1,0 +1,24 @@
+---
+title: Instantregret
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- gifs
+- instant_regret
+- WTF
+- zeropointmodule
+- youtubot
+- babyelephantgifs
+- Serendipity
+- unexpectedanal
+- AskReddit
+- AnimalsBeingJerks
+- Drama
+- MassdropBot
+- LivestreamFail
+- russmartinshow
+- Roadcam
+- HadToHurt
+- mylittleandysonic1
+---

@@ -1,0 +1,24 @@
+---
+title: philadelphia
+crosslinks:
+- autotldr
+- youtubefactsbot
+- youtubot
+- The_Donald
+- u_imguralbumbot
+- philly
+- tmsbmeta
+- livven
+- pics
+- xkcd
+- politics
+- news
+- Political_Revolution
+- Drama
+- Shitstatistssay
+- titlegore
+- autourbanbot
+- john_yukis_bots
+- SubredditDrama
+- Enough_Sanders_Spam
+---

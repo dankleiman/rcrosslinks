@@ -1,0 +1,24 @@
+---
+title: mtgfinance
+crosslinks:
+- magicTCG
+- spikes
+- EDH
+- magicthecirclejerking
+- youtubefactsbot
+- CompetitiveEDH
+- mtgmarketwatch
+- PucaTrade
+- oldschoolmtg
+- DuplicatesBot
+- cardsphere
+- bootlegmtg
+- tmsbmeta
+- MagicCardPulls
+- ModernMagic
+- Infect
+- MTGLegacy
+- Jobs4Bitcoins
+- pedantic
+- mtgEternal
+---

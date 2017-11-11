@@ -1,0 +1,24 @@
+---
+title: Negareddit
+crosslinks:
+- news
+- circlebroke2
+- SRSsucks
+- The_Donald
+- movies
+- SubredditDrama
+- AskReddit
+- gaming
+- canada
+- KotakuInAction
+- AskHistorians
+- WeWuzSuperior
+- AgainstHateSubreddits
+- Physical_Removal
+- Drama
+- politics
+- socialism
+- EnoughCommieSpam
+- circlebroke
+- videos
+---

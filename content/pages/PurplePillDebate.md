@@ -1,0 +1,24 @@
+---
+title: PurplePillDebate
+crosslinks:
+- TheRedPill
+- youtubefactsbot
+- youtubot
+- RedPillWives
+- TheBluePill
+- autourbanbot
+- marriedredpill
+- MensLib
+- ForeverAlone
+- AskFeminists
+- AskReddit
+- AskMen
+- Incels
+- RedPillWomen
+- asktrp
+- MensRights
+- AskWomen
+- xkcd
+- askMRP
+- FeMRADebates
+---

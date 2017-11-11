@@ -1,0 +1,24 @@
+---
+title: tattoos
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- badtattoos
+- DrawMyTattoo
+- IASIP
+- AskReddit
+- tattoo
+- exmormon
+- traditionaltattoos
+- StarWars
+- MassdropBot
+- Art
+- hipsterracism
+- uwaterloo
+- lotr
+- videos
+- Naruto
+- alotabot
+- thrice
+---

@@ -1,0 +1,24 @@
+---
+title: opensource
+crosslinks:
+- autotldr
+- linux
+- xkcd
+- sysadmin
+- OPNscam
+- PFSENSE
+- raspberry_pi
+- archlinux
+- botwatch
+- programming
+- changelog
+- privacy
+- incest
+- Steam
+- Amd
+- GoldandBlack
+- pol
+- Thunderbird
+- emby
+- opensourcegames
+---

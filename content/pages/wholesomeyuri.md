@@ -1,0 +1,24 @@
+---
+title: wholesomeyuri
+crosslinks:
+- Roboragi
+- awwnime
+- Pixiv
+- botwatch
+- yuri
+- pharmercy
+- livven
+- anime
+- u_imguralbumbot
+- handholding
+- RWBY
+- Animesuggest
+- youtubot
+- youtubefactsbot
+- Animewallpaper
+- anti_gif_bot
+- KemonoFriends
+- snugglebuddies
+- gay_irl
+- yuruyuri
+---

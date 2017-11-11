@@ -1,0 +1,24 @@
+---
+title: dadjokes
+crosslinks:
+- youtubefactsbot
+- Jokes
+- Linky_links
+- Unclejokes
+- AntiJokes
+- tmsbmeta
+- xkcd
+- totallynotrobots
+- MassdropBot
+- beetlejuicing
+- WordAvalanches
+- youtubot
+- explainlikeimfive
+- WorstPuns
+- puns
+- AskReddit
+- pics
+- IAmA
+- movies
+- CAHbot
+---

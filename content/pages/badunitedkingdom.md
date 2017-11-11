@@ -1,0 +1,24 @@
+---
+title: badunitedkingdom
+crosslinks:
+- ukpolitics
+- unitedkingdom
+- badukpolitics
+- MassdropBot
+- u_imguralbumbot
+- CasualUK
+- Oppression
+- youtubefactsbot
+- REEEEEEEEEE
+- Scotland
+- bluelight
+- youtubot
+- europe
+- Labour
+- LateStageCapitalism
+- badbadukpolitics
+- Drama
+- HongKong
+- LabourUK
+- baduk
+---

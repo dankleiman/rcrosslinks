@@ -1,0 +1,24 @@
+---
+title: TransyTalk
+crosslinks:
+- traaaaaaannnnnnnnnns
+- asktransgender
+- MassdropBot
+- youtubefactsbot
+- MtF
+- transgendercirclejerk
+- youtubot
+- mtf
+- totallynotrobots
+- q4q
+- actuallesbians
+- NonBinary
+- transgender_artists
+- meettransgirls
+- PS4
+- Random_Acts_Of_Amazon
+- LateStageGenderBinary
+- xkcd
+- GenderCritical
+- transart
+---

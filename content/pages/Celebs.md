@@ -1,0 +1,24 @@
+---
+title: Celebs
+crosslinks:
+- u_imguralbumbot
+- anti_gif_bot
+- WatchItForThePlot
+- botwatch
+- blueeyedgirls
+- tmsbmeta
+- MassdropBot
+- youtubot
+- celebrityplotarchive
+- NavelNSFW
+- TTDSWAD
+- AlbumBabes
+- celebnsfw
+- IAmA
+- AskReddit
+- celebdominatrixs
+- CelebrityButts
+- ElyseDufour
+- CelebrityArmpits
+- AmandaCerny
+---

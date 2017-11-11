@@ -1,0 +1,24 @@
+---
+title: SovietWomble
+crosslinks:
+- youtubot
+- youtubefactsbot
+- livven
+- AskReddit
+- FindAUnit
+- tmsbmeta
+- HighQualityGifs
+- gaming
+- videos
+- IAmA
+- modnews
+- WTF
+- gifs
+- askscience
+- StoriesAboutKevin
+- CasuallyExplained
+- Minecraft
+- ChildrenFallingOver
+- Perfectfit
+- funny
+---

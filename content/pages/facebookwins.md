@@ -1,0 +1,24 @@
+---
+title: facebookwins
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- shitpost
+- lifeprotip
+- funny
+- australia
+- Jokes
+- youareverydumb
+- beatles
+- subbie
+- unlimitedbreadsticks
+- autourbanbot
+- PrequelMemes
+- NotKenM
+- KarmaCourt
+- wincest
+- ShitLiberalsSay
+- starbucks
+- rt3tcx
+- MassdropBot
+---

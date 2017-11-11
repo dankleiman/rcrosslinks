@@ -1,0 +1,24 @@
+---
+title: techsupportgore
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- xkcd
+- techsupportmacgyver
+- pcmasterrace
+- cableporn
+- cablefail
+- talesfromtechsupport
+- livven
+- cablegore
+- AyyMD
+- electricians
+- OutOfTheLoop
+- tmsbmeta
+- NotMyJob
+- softwaregore
+- anti_gif_bot
+- Skookum
+- homelab
+- pics
+---

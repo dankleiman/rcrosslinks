@@ -1,0 +1,24 @@
+---
+title: Psychonaut
+crosslinks:
+- youtubefactsbot
+- ShrugLifeSyndicate
+- LSD
+- youtubot
+- DMT
+- Drugs
+- RationalPsychonaut
+- holofractal
+- sorceryofthespectacle
+- C_S_T
+- awakened
+- occult
+- shrooms
+- microdosing
+- researchchemicals
+- autotldr
+- DigitalCartel
+- PsychedelicTelepathy
+- Meditation
+- DimensionalJumping
+---

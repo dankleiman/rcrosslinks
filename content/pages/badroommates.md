@@ -1,0 +1,24 @@
+---
+title: badroommates
+crosslinks:
+- TalesFromYourServer
+- JUSTNOFAMILY
+- youtubefactsbot
+- NeckbeardNests
+- AskReddit
+- SubredditDrama
+- Frugal
+- youtubot
+- roommates
+- iamverybadass
+- Random_Acts_Of_Pizza
+- autourbanbot
+- TheRealMisandry
+- Aquariums
+- Advice
+- confession
+- lonely
+- personalfinance
+- LifeProTips
+- fatpeoplestories
+---

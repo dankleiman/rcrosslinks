@@ -1,0 +1,24 @@
+---
+title: drugsarebeautiful
+crosslinks:
+- Drugs
+- DrugStashes
+- youtubefactsbot
+- cocaine
+- druggardening
+- trees
+- MassdropBot
+- livven
+- drugs
+- ambien
+- MDMA
+- DarkNetMarkets
+- DMT
+- mildlyvagina
+- dxm
+- drugscirclejerk
+- researchchemicals
+- WEEDS
+- benzodiazepines
+- youtubot
+---

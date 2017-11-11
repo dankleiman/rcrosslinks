@@ -1,0 +1,24 @@
+---
+title: moderatepolitics
+crosslinks:
+- autotldr
+- youtubefactsbot
+- politics
+- ShitAmericansSay
+- youtubot
+- magnora7
+- Physical_Removal
+- TwoXChromosomes
+- NeutralPolitics
+- iamverybadass
+- POTUSWatch
+- Libertarian
+- ShitLiberalsSay
+- changemyview
+- The_Donald
+- unbiasedpolitics
+- EnoughTrumpSpam
+- space
+- uncensorednews
+- Political_Revolution
+---

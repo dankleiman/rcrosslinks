@@ -1,0 +1,24 @@
+---
+title: WoT
+crosslinks:
+- youtubefactsbot
+- Fantasy
+- respectthreads
+- thelegendarium
+- livven
+- u_imguralbumbot
+- xkcd
+- youtubot
+- AskReddit
+- Cosmere
+- WorldofTanks
+- WotmudV
+- Stormlight_Archive
+- natureismetal
+- underpopular
+- ShitAmericansSay
+- MassdropBot
+- freemasonry
+- WoTshow
+- AskHistorians
+---

@@ -1,0 +1,24 @@
+---
+title: misanthropy
+crosslinks:
+- youtubefactsbot
+- antinatalism
+- childfree
+- u_imguralbumbot
+- MassdropBot
+- youtubot
+- androgyny
+- collapse
+- vegas
+- watchpeopledie
+- weightlifting
+- autourbanbot
+- russian
+- Irony
+- Conservative
+- im14andthisisdeep
+- OutOfTheLoop
+- DebateAVegan
+- Incels
+- wowthissubexists
+---

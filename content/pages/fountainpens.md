@@ -1,0 +1,24 @@
+---
+title: fountainpens
+crosslinks:
+- Pen_Swap
+- u_imguralbumbot
+- youtubefactsbot
+- mechanicalheadpens
+- sixwordstories
+- Handwriting
+- youtubot
+- Calligraphy
+- MassdropBot
+- Watches
+- wicked_edge
+- livven
+- notebooks
+- pens
+- PenmanshipPorn
+- FountainPenPals
+- tmsbmeta
+- pen_swap
+- bulletjournal
+- AskReddit
+---

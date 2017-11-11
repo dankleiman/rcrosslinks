@@ -1,0 +1,24 @@
+---
+title: TheBluePill
+crosslinks:
+- TheRedPill
+- MGTOW
+- Incels
+- askMRP
+- marriedredpill
+- asktrp
+- PurplePillDebate
+- RedPillWomen
+- RedPillWives
+- theredpillright
+- AskReddit
+- MensRights
+- Drama
+- exredpill
+- TheAquaPill
+- FeminineNotFeminist
+- tmsbmeta
+- news
+- niceguys
+- TrollXChromosomes
+---

@@ -1,0 +1,24 @@
+---
+title: PerfectTiming
+crosslinks:
+- pics
+- photoshopbattles
+- funny
+- AccidentalRenaissance
+- mildlyinteresting
+- gifs
+- woahdude
+- AskReddit
+- WTF
+- Pareidolia
+- croatia
+- oddlysatisfying
+- WtWFotMJaJtRAtCaB
+- Birbs
+- videos
+- BetterEveryLoop
+- therewasanattempt
+- aww
+- PerfectMoment
+- OutOfTheLoop
+---

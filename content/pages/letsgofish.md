@@ -1,0 +1,24 @@
+---
+title: letsgofish
+crosslinks:
+- reddit_stream
+- youtubefactsbot
+- youtubot
+- baseball
+- phillies
+- Mariners
+- Dodgers
+- Nationals
+- MLBStreams
+- MassdropBot
+- Cardinals
+- Padres
+- NYYankees
+- NewYorkMets
+- tmsbmeta
+- buccos
+- nfl
+- baseballcirclejerk
+- ColoradoRockies
+- wheredidthesodago
+---

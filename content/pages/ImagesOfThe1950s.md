@@ -1,0 +1,24 @@
+---
+title: ImagesOfThe1950s
+crosslinks:
+- OldSchoolCool
+- TheWayWeWere
+- pics
+- HistoryPorn
+- RetroFuturism
+- classiccars
+- OldSchoolCelebs
+- Colorization
+- PropagandaPosters
+- vgb
+- carporn
+- vintageads
+- u_2BrkOnThru
+- mildlyinteresting
+- CineShots
+- coins
+- Watches
+- Art
+- ClassicMoviePosters
+- Lost_Architecture
+---

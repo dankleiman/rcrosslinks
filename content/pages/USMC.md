@@ -1,0 +1,24 @@
+---
+title: USMC
+crosslinks:
+- youtubefactsbot
+- autotldr
+- USMCboot
+- Military
+- u_imguralbumbot
+- livven
+- youtubot
+- tmsbmeta
+- IAmA
+- news
+- AirForce
+- forwardsfromgunny
+- Frisson
+- army
+- tumblr
+- john_yukis_bots
+- all
+- funny
+- offmychest
+- navy
+---

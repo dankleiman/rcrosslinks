@@ -1,0 +1,24 @@
+---
+title: seinfeldgifs
+crosslinks:
+- youtubefactsbot
+- livven
+- HighQualityGifs
+- videos
+- anti_gif_bot
+- RedditWritesSeinfeld
+- u_imguralbumbot
+- NYYankees
+- me_irl
+- ImGoingToHellForThis
+- BlackPeopleTwitter
+- television
+- seinfeld
+- defaults
+- asianamerican
+- FanTheories
+- MassdropBot
+- xkcd
+- WardCannon
+- BoxingStreams
+---

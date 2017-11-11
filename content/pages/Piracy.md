@@ -1,0 +1,24 @@
+---
+title: Piracy
+crosslinks:
+- trackers
+- megalinks
+- autotldr
+- youtubefactsbot
+- VPN
+- CrackWatch
+- deezloader
+- DataHoarder
+- kickasstorrents
+- torrents
+- OpenSignups
+- 3dshacks
+- seedboxes
+- usenet
+- u_imguralbumbot
+- opendirectories
+- IAmA
+- Invites
+- controversialiama
+- WiiUHacks
+---

@@ -1,0 +1,24 @@
+---
+title: UBC
+crosslinks:
+- vancouver
+- youtubefactsbot
+- place
+- livven
+- xkcd
+- canada
+- uwaterloo
+- anti_gif_bot
+- autourbanbot
+- AskReddit
+- UofT
+- ShadowBan
+- MassdropBot
+- science
+- simonfraser
+- GetMotivated
+- alotabot
+- youtubot
+- dataisbeautiful
+- john_yukis_bots
+---

@@ -1,0 +1,24 @@
+---
+title: BuyItForLife
+crosslinks:
+- flairer
+- youtubefactsbot
+- goodyearwelt
+- malefashionadvice
+- IAmA
+- bifl
+- MassdropBot
+- Watches
+- u_imguralbumbot
+- Leathercraft
+- wicked_edge
+- HailCorporate
+- castiron
+- MechanicalKeyboards
+- AskReddit
+- autourbanbot
+- headphones
+- youtubot
+- VacuumCleaners
+- frugalmalefashion
+---

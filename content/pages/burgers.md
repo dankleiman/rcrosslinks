@@ -1,0 +1,24 @@
+---
+title: burgers
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- HailCorporate
+- food
+- tonightsdinner
+- WeWantPlates
+- ketchuphate
+- totallynotrobots
+- me_irl
+- titlegore
+- anti_gif_bot
+- livven
+- picklelove
+- PutAnEggOnIt
+- girlsfinishingthejob
+- pics
+- burger
+- shittyfoodporn
+- KitchenConfidential
+---

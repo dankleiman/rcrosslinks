@@ -1,0 +1,24 @@
+---
+title: Homesteading
+crosslinks:
+- gardening
+- youtubefactsbot
+- homestead
+- woodworking
+- SelfSufficiency
+- DIY
+- botwatch
+- PeopleWhoSayHeck
+- pics
+- LifeProTips
+- Beekeeping
+- OffGrid
+- Blacksmith
+- Canning
+- energy
+- youtubot
+- food
+- u_imguralbumbot
+- solarpunk
+- TheHopyard
+---

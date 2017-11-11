@@ -1,0 +1,24 @@
+---
+title: djimavic
+crosslinks:
+- youtubefactsbot
+- dji
+- youtubot
+- u_imguralbumbot
+- djiphantom
+- livven
+- AskReddit
+- VideoEditing
+- drones
+- enhance
+- fpv
+- EarthPorn
+- DJIMavicProVideos
+- nashville
+- boston
+- MassdropBot
+- rednecks
+- Multicopter
+- aerialphotography
+- DJIUnlocked
+---

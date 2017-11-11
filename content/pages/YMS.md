@@ -1,0 +1,24 @@
+---
+title: YMS
+crosslinks:
+- youtubefactsbot
+- moviescirclejerk
+- youtubot
+- TrueFilm
+- movies
+- u_imguralbumbot
+- john_yukis_bots
+- AdumPlaze
+- Gamingcirclejerk
+- ralphthemoviemaker
+- MassdropBot
+- zootopia
+- h3h3_productions
+- furry_irl
+- gay
+- shitpost
+- botpopularitybot
+- Dunkirk
+- RedLetterMedia
+- whatjawsdid
+---

@@ -1,0 +1,24 @@
+---
+title: deals
+crosslinks:
+- realdeals
+- MassdropBot
+- youtubefactsbot
+- Scams
+- wicked_edge
+- wow
+- me_irl
+- darknetmarketsnoobs
+- pcmasterrace
+- DealsReddit
+- tacticalgear
+- awardtravel
+- buildapc
+- freebies
+- AppleWatch
+- frugalmalefashion
+- dxracer
+- BeardTalk
+- h3h3productions
+- electronic_cigarette
+---

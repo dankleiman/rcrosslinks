@@ -1,0 +1,24 @@
+---
+title: shitleftistssay
+crosslinks:
+- socialism
+- marxism_101
+- Anarchism
+- COMPLETEANARCHY
+- leftcommunism
+- LateStageCapitalism
+- communism101
+- ShitLiberalsSay
+- shittankiessay
+- FULLCOMMUNISM
+- CapitalismVSocialism
+- Ultraleft
+- DebateCommunism
+- Incels
+- vexillologycirclejerk
+- ChapoTrapHouse
+- Socialism_101
+- communists
+- communism
+- FULLDISCOURSE
+---

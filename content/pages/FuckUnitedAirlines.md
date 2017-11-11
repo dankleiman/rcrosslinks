@@ -1,0 +1,24 @@
+---
+title: FuckUnitedAirlines
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- Physical_Removal
+- ShitLiberalsSay
+- autotldr
+- shitpost
+- FuckTammy
+- menkampf
+- todayilearned
+- livven
+- gifs
+- DeathtoAmeriKKKa
+- SocialistRA
+- DotA2
+- AskHistorians
+- EnoughCommieSpam
+- LateStageCapitalism
+- ShitPoliticsSays
+- videos
+- FULLFASCISM
+---

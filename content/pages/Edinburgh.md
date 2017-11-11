@@ -1,0 +1,24 @@
+---
+title: Edinburgh
+crosslinks:
+- Jeeters_Edinburgh
+- youtubefactsbot
+- Scotland
+- youtubot
+- gifs
+- glasgow
+- pocketsand
+- petty
+- LifeProTips
+- knitting
+- ukpolitics
+- billiontests
+- foodnyc
+- WordAvalanches
+- policeuk
+- IWantOut
+- HailCorporate
+- OutdoorScotland
+- Fitness
+- MetalGigsScotland
+---

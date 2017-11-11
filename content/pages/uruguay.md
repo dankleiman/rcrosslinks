@@ -1,0 +1,24 @@
+---
+title: uruguay
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- argentina
+- youtubot
+- WorldDailyTops
+- anti_gif_bot
+- notArgentina
+- MapPorn
+- AskReddit
+- livven
+- vexillology
+- AskHistorians
+- MassdropBot
+- BrasilOnReddit
+- Google_Maps_Oddities
+- help
+- MaliciousCompliance
+- nocontext
+- WatchItForThePlot
+- Iam14andthisisfunny
+---

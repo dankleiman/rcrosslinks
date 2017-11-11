@@ -1,0 +1,24 @@
+---
+title: crappyoffbrands
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- coaxedintoasnafu
+- creepyoffbrands
+- funny
+- nocontext
+- botwatch
+- engrish
+- beetlejuicing
+- appstorearttheft
+- IsItButter
+- furry_irl
+- CrappyDesign
+- MassdropBot
+- SuperiorOffBrands
+- gaming
+- WackyTicTacs
+- xkcd
+- unexpectedoverwatch
+---

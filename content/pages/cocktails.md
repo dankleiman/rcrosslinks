@@ -1,0 +1,24 @@
+---
+title: cocktails
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- Tiki
+- bartenders
+- devoz
+- youtubot
+- Gin
+- Zerosuminfinity
+- bourbon
+- botwatch
+- rum
+- alcohol
+- SouthBayLA
+- MassdropBot
+- FictionalVittles
+- tmsbmeta
+- livven
+- AMAAggregator
+- askscience
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: opiates
+crosslinks:
+- youtubot
+- Drugs
+- u_imguralbumbot
+- autotldr
+- tmsbmeta
+- kratom
+- autourbanbot
+- IAmA
+- AskReddit
+- researchchemicals
+- opiates_gonewild
+- opiatesmemorial
+- DarkNetMarkets
+- livven
+- OpiatesRecovery
+- fentanyl
+- john_yukis_bots
+- pillhead
+- benzodiazepines
+- AlphaBayMarket
+---

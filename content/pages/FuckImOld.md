@@ -1,0 +1,24 @@
+---
+title: FuckImOld
+crosslinks:
+- fuckimyoung
+- youtubot
+- Foodforthought
+- ShittyTIL
+- WritingPrompts
+- videos
+- autourbanbot
+- HailCorporate
+- OutOfTheLoop
+- TrollXChromosomes
+- gatekeeping
+- Gunners
+- explainlikeimcalvin
+- UnexpectedMulaney
+- xkcd
+- PeopleBeingJerks
+- 2007scape
+- livven
+- Guitar
+- OldSchoolCool
+---

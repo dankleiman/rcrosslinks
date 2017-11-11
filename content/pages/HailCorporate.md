@@ -1,0 +1,24 @@
+---
+title: HailCorporate
+crosslinks:
+- videos
+- funny
+- pics
+- mildlyinteresting
+- gaming
+- The_Donald
+- todayilearned
+- AskReddit
+- movies
+- pcmasterrace
+- gifs
+- news
+- GalaxyS8
+- shills
+- aww
+- MassdropBot
+- oddlysatisfying
+- conspiracy
+- NintendoSwitch
+- personalfinance
+---

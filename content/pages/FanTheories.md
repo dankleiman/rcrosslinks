@@ -1,0 +1,24 @@
+---
+title: FanTheories
+crosslinks:
+- youtubefactsbot
+- ShittyFanTheories
+- youtubot
+- StarWars
+- asoiaf
+- gameofthrones
+- kidshowsfantheories
+- u_imguralbumbot
+- xkcd
+- rickandmorty
+- Headcanon
+- marvelstudios
+- FlashTV
+- shittyfantheories
+- PrequelMemes
+- AskScienceFiction
+- IAmA
+- harrypotter
+- EmpireDidNothingWrong
+- teslore
+---

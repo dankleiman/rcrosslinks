@@ -1,0 +1,24 @@
+---
+title: shittyaskreddit
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- sompthing_else
+- Thighsexual
+- nocontext
+- u_imguralbumbot
+- tmsbmeta
+- AdviceAnimals
+- explainlikeimfive
+- autourbanbot
+- theydidthefuckyou
+- AMAAggregator
+- MassdropBot
+- Advice
+- ABraThatFits
+- askanamerican
+- IAmA
+- youtubot
+- dopplebangher
+- ShittyLifeProTips
+---

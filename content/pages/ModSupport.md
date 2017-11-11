@@ -1,0 +1,24 @@
+---
+title: ModSupport
+crosslinks:
+- modnews
+- help
+- announcements
+- ffxiv
+- redditrequest
+- modhelp
+- changelog
+- AskReddit
+- creesch
+- bugs
+- mod
+- BotDetection
+- Juniper
+- pics
+- modmailbeta
+- modclub
+- ideasfortheadmins
+- WritingPrompts
+- subreddit
+- ListOfSubreddits
+---

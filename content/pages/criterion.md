@@ -1,0 +1,24 @@
+---
+title: criterion
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- boutiquebluray
+- youtubot
+- dvdcollection
+- TrueFilm
+- movies
+- CriterionCovers
+- twinpeaks
+- CriterionMemes
+- glitch_art
+- csshelp
+- 4B
+- Screenwriting
+- FrenchWestIndies
+- lifeofnorman
+- AskReddit
+- silentmoviegifs
+- Serendipity
+- hometheater
+---

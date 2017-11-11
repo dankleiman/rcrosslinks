@@ -1,0 +1,24 @@
+---
+title: redneckengineering
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- xkcd
+- funny
+- gatekeeping
+- AskReddit
+- WTF
+- livven
+- videos
+- OSHA
+- pics
+- theydidthefuckyou
+- restofthefuckingowl
+- allahuakbarreddit
+- DIY
+- DiWHY
+- trashyboners
+- Battlecars
+- LinkFixBot
+- oddlysatisfying
+---

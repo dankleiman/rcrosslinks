@@ -1,0 +1,24 @@
+---
+title: touhou
+crosslinks:
+- Pixiv
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- livven
+- place
+- MassdropBot
+- Touhoujerk
+- anti_gif_bot
+- tmsbmeta
+- de
+- asktouhouscience
+- touhou_irl
+- EXLove
+- furry
+- awoo
+- runescape
+- Touhou_NSFW
+- mspainttouhou
+- videos
+---

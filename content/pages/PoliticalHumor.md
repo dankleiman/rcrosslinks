@@ -1,0 +1,24 @@
+---
+title: PoliticalHumor
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- livven
+- politics
+- ShitPoliticsSays
+- comics
+- EnoughTrumpSpam
+- bestof
+- AdviceAnimals
+- ShitLiberalsSay
+- xkcd
+- autotldr
+- news
+- Fuckthealtright
+- pics
+- AskReddit
+- autourbanbot
+- MassdropBot
+- videos
+- conspiracy
+---

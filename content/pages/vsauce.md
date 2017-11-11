@@ -1,0 +1,24 @@
+---
+title: vsauce
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- tested
+- IAmA
+- AskPhilosophyFAQ
+- titlegore
+- HelpMeFind
+- askphilosophy
+- NameThatSong
+- coaxedintoasnafu
+- xkcd
+- boottoobig
+- gorillaz
+- vsaucememes
+- u_imguralbumbot
+- kurzgesagt
+- vegan
+- sadlygokarts
+- livven
+---

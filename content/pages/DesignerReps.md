@@ -1,0 +1,24 @@
+---
+title: DesignerReps
+crosslinks:
+- FashionReps
+- FashionRepsBST
+- RepLadies
+- Repsneakers
+- RepVouch
+- tmsbmeta
+- streetwear
+- chanzhfsneakers
+- LuxReps
+- youtubefactsbot
+- sandboxtest
+- malefashionadvice
+- RepDynasty
+- RepTime
+- RepGuides
+- MassdropBot
+- headphones
+- cssbuy
+- RepNation
+- goodyearwelt
+---

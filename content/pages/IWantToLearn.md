@@ -1,0 +1,24 @@
+---
+title: IWantToLearn
+crosslinks:
+- youtubot
+- getdisciplined
+- personalfinance
+- GetMotivated
+- IAmA
+- ArtFundamentals
+- languagelearning
+- cookingforbeginners
+- AskReddit
+- btc
+- photoshopbattles
+- singing
+- wallstreetbets
+- ZenHabits
+- LifeProTips
+- bodyweightfitness
+- edmproduction
+- askscience
+- u_imguralbumbot
+- Handwriting
+---

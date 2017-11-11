@@ -1,0 +1,24 @@
+---
+title: cowboybebop
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- livven
+- bleachshirts
+- television
+- Ashens
+- sticknpokes
+- Rainmeter
+- IAmA
+- vinyl
+- MassdropBot
+- Serendipity
+- PixelArt
+- OtakuVisualArts
+- autotldr
+- anime
+- Nujabes
+- FanTheories
+- Overwatch
+---

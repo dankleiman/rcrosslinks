@@ -1,0 +1,24 @@
+---
+title: SzechuanSauceSeekers
+crosslinks:
+- rickandmorty
+- youtubefactsbot
+- autotldr
+- tmsbmeta
+- youtubot
+- HailCorporate
+- u_imguralbumbot
+- subredditcancer
+- Harmontown
+- spongebob
+- videos
+- SubredditDrama
+- LosAngeles
+- KeepOurNetFree
+- lsc
+- TheSimpsons
+- ImGoingToHellForThis
+- EditingAndLayout
+- Bitcoin
+- KeybaseProofs
+---

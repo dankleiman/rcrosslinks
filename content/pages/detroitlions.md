@@ -1,0 +1,24 @@
+---
+title: detroitlions
+crosslinks:
+- youtubefactsbot
+- nfl
+- livven
+- MassdropBot
+- youtubot
+- anti_gif_bot
+- NFL_Draft
+- u_imguralbumbot
+- NYGiants
+- nflstreams
+- minnesotavikings
+- botwatch
+- GreenBayPackers
+- CHIBears
+- falcons
+- Patriots
+- DetroitRedWings
+- all
+- autourbanbot
+- Tennesseetitans
+---

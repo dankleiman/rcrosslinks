@@ -1,0 +1,24 @@
+---
+title: istp
+crosslinks:
+- bodylanguage
+- mbti
+- infp
+- MassdropBot
+- youtubefactsbot
+- enfj
+- dadjokes
+- microdosing
+- tmsbmeta
+- frisson
+- ENFP
+- youtubot
+- intj
+- CanadianForces
+- JungianTypology
+- AskMen
+- Anarcho_Capitalism
+- TheRedPill
+- opieandanthony
+- NoFap
+---

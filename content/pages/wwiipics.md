@@ -1,0 +1,24 @@
+---
+title: wwiipics
+crosslinks:
+- ShitWehraboosSay
+- GermanWW2photos
+- DestroyedTanks
+- u_imguralbumbot
+- BrasilOnReddit
+- WarshipPorn
+- youtubefactsbot
+- HistoryPorn
+- TankPorn
+- WWIIplanes
+- YouSeeComrade
+- anti_gif_bot
+- SovietHistory
+- 88mm
+- IAmA
+- FindTheSniper
+- whatisthisthing
+- Militariacollecting
+- USMC
+- ColorizedHistory
+---

@@ -1,0 +1,24 @@
+---
+title: ImagesOfWisconsin
+crosslinks:
+- pics
+- madisonwi
+- wisconsin
+- EarthPorn
+- imagesofnetwork
+- funny
+- SkyPorn
+- Fishing
+- itookapicture
+- milwaukee
+- mildlyinteresting
+- beerporn
+- GreenBayPackers
+- OldSchoolCool
+- MkeBucks
+- WisconsinBadgers
+- food
+- bicycling
+- mycology
+- AnimalPorn
+---

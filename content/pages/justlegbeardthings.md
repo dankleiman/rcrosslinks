@@ -1,0 +1,24 @@
+---
+title: justlegbeardthings
+crosslinks:
+- youtubefactsbot
+- ChoosingBeggars
+- holdmyfries
+- wgtow
+- MassdropBot
+- SwordOrSheath
+- youtubot
+- ComedyCemetery
+- tmsbmeta
+- sadcringe
+- Nicegirls
+- KotakuInAction
+- neckbeardRPG
+- ShitRedditSays
+- KindVoice
+- MGTOW
+- hittableFaces
+- sjwhate
+- Incel
+- explainlikeimfive
+---

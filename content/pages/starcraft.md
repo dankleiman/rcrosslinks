@@ -1,0 +1,24 @@
+---
+title: starcraft
+crosslinks:
+- youtubefactsbot
+- youtubot
+- allthingsprotoss
+- u_imguralbumbot
+- allthingszerg
+- AllThingsTerran
+- broodwar
+- livven
+- anti_gif_bot
+- StarcraftCirclejerk
+- dedgaem
+- DotA2
+- xkcd
+- alotabot
+- starcraft2
+- LivestreamFail
+- heroesofthestorm
+- autourbanbot
+- place
+- leagueoflegends
+---

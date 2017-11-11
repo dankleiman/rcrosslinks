@@ -1,0 +1,24 @@
+---
+title: Rainbow6
+crosslinks:
+- anti_gif_bot
+- livven
+- Rainbow6TTS
+- R6STeams
+- shittyrainbow6
+- tmsbmeta
+- youtubefactsbot
+- john_yukis_bots
+- SiegeAcademy
+- R6byLeanFoo
+- GlobalOffensive
+- vredditmirrorbot
+- autourbanbot
+- pcmasterrace
+- alotabot
+- BrasilOnReddit
+- REEEEEEEEEE
+- botpopularitybot
+- MassdropBot
+- gaming
+---

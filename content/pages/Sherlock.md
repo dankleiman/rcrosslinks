@@ -1,0 +1,24 @@
+---
+title: Sherlock
+crosslinks:
+- youtubefactsbot
+- livven
+- arrow
+- autotldr
+- xkcd
+- MGTOW
+- bestof
+- iamverysmart
+- doctorwho
+- IAmA
+- NetflixViaVPN
+- flash
+- HalfLife
+- highqualitygifs
+- HIMYM
+- TheWire
+- AppleTreeYard
+- TheArrivalMovie
+- lost
+- hittableFaces
+---

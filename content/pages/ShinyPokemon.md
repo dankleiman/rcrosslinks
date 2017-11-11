@@ -1,0 +1,24 @@
+---
+title: ShinyPokemon
+crosslinks:
+- pokemon
+- pokemontrades
+- youtubefactsbot
+- u_imguralbumbot
+- friendsafari
+- livven
+- youtubot
+- pokemonrng
+- stunfisk
+- Pokemongiveaway
+- BreedingDittos
+- SVExchange
+- tmsbmeta
+- CasualPokemonTrades
+- MassdropBot
+- PokeMoonSun
+- me_irl
+- PokemonCreate
+- AMAAggregator
+- WonderTrade
+---

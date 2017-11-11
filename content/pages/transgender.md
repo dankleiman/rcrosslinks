@@ -1,0 +1,24 @@
+---
+title: transgender
+crosslinks:
+- autotldr
+- asktransgender
+- The_Donald
+- lgbt
+- youtubefactsbot
+- science
+- GenderCritical
+- keming
+- EnoughTrumpSpam
+- canada
+- aww
+- dataisbeautiful
+- excgarated
+- AskHistorians
+- place
+- ShitRedditSays
+- TiADiscussion
+- newtothenavy
+- movies
+- ConservativeLGBT
+---

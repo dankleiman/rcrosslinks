@@ -1,0 +1,24 @@
+---
+title: birdpics
+crosslinks:
+- whatsthisbird
+- MassdropBot
+- ThePicturesofTacHam
+- youtubefactsbot
+- u_imguralbumbot
+- misleadingthumbnails
+- birdswitharms
+- botwatch
+- birdinghobby
+- wildlifephotography
+- pics
+- WildlifeRehab
+- Birbs
+- livven
+- bird
+- science
+- AustralianBirds
+- magpies
+- birdingUK
+- Finches
+---

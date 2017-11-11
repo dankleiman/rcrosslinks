@@ -1,0 +1,24 @@
+---
+title: Nootropics
+crosslinks:
+- youtubefactsbot
+- StackAdvice
+- microdosing
+- DrugNerds
+- HumanMicrobiome
+- Microbiome
+- depressionregimens
+- Drugs
+- researchchemicals
+- phenibut
+- Ceretropic
+- RCSources
+- steroids
+- kratom
+- Meditation
+- CBD
+- Kava
+- Supplements
+- Tianeptine
+- youtubot
+---

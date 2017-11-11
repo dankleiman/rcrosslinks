@@ -1,0 +1,24 @@
+---
+title: propaganda
+crosslinks:
+- autotldr
+- u_imguralbumbot
+- ActiveMeasures
+- lostgeneration
+- latestagecapitalism
+- ArmsControl
+- serbia
+- evolutionReddit
+- WayOfTheBern
+- youtubefactsbot
+- RedditAlternatives
+- Sino
+- societalengineering
+- AskThe_Donald
+- youtubot
+- worldpolitics
+- conspiracy
+- MassdropBot
+- skeptic
+- undelete
+---

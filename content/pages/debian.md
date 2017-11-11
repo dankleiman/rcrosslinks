@@ -1,0 +1,24 @@
+---
+title: debian
+crosslinks:
+- autotldr
+- linux
+- u_imguralbumbot
+- unixporn
+- Dell
+- Ubuntu
+- linuxquestions
+- youtubefactsbot
+- homelab
+- linuxhelp
+- xkcd
+- GPDPocket
+- nvidia
+- linux4noobs
+- haskell
+- nocontext
+- kde
+- selfhosted
+- r8168
+- Fedora
+---

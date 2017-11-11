@@ -1,0 +1,24 @@
+---
+title: MHOC
+crosslinks:
+- MHOCConservatives
+- MHOCUKIP
+- MHOCPress
+- MHOL
+- MHOCLiberalDemocrats
+- mstormont
+- youtubefactsbot
+- MHOCMeta
+- MHOCNUP
+- DowningStreet
+- MHoCCampaigning
+- MillbankTower
+- ModelMonolith
+- youtubot
+- MHOCStrangersBar
+- xkcd
+- DailyChronicle
+- NoHyphenHyphen
+- modelreasonmagazine
+- MHOCEndeavour
+---

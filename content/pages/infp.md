@@ -1,0 +1,24 @@
+---
+title: infp
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- mbti
+- INTP
+- INFPmusic
+- AskReddit
+- MassdropBot
+- livven
+- john_yukis_bots
+- Anxiety
+- GetMotivated
+- ENFP
+- raisedbynarcissists
+- infj
+- shittyMBTI
+- rarepuppers
+- aromantic
+- ADHD
+- entp
+---

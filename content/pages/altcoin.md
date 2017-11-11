@@ -1,0 +1,24 @@
+---
+title: altcoin
+crosslinks:
+- CryptoCurrency
+- FuckTokenBot
+- Maecenas
+- youtubefactsbot
+- ethtrader
+- youtubot
+- ethereumfraud
+- Travelcoin_ICO
+- vertcoin
+- u_imguralbumbot
+- ethereum
+- altcoinPAD
+- PalladiumCoin
+- lomocoin
+- NXT
+- snatcoin
+- QRL
+- BrickBlock
+- SpaceDollars
+- OpenLedgerDEX
+---

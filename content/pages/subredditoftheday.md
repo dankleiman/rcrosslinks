@@ -1,0 +1,24 @@
+---
+title: subredditoftheday
+crosslinks:
+- Physical_Removal
+- freefolk
+- PussyPass
+- Drama
+- youtubefactsbot
+- Anarchism
+- LateStageCapitalism
+- SubredditDrama
+- AgainstHateSubreddits
+- TopMindsOfReddit
+- DebateFascism
+- exmormon
+- pathofexile
+- EnoughCommieSpam
+- neoliberal
+- socialism
+- The_Donald
+- southafrica
+- nrl
+- AsABlackMan
+---

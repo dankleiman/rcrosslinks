@@ -1,0 +1,24 @@
+---
+title: gamedev
+crosslinks:
+- youtubot
+- youtubefactsbot
+- gameDevClassifieds
+- Unity3D
+- IAmA
+- gameideas
+- gaming
+- learnprogramming
+- u_imguralbumbot
+- gamedesign
+- xkcd
+- Games
+- roguelikedev
+- TowardsThePantheon
+- gamemaker
+- playmygame
+- legaladvice
+- The_Gaben
+- godot
+- gamejams
+---

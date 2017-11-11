@@ -1,0 +1,24 @@
+---
+title: nerdfighters
+crosslinks:
+- youtubefactsbot
+- youtubot
+- KotakuInAction
+- math
+- The_Donald
+- crazyexgirlfriend
+- Economics
+- RemasteringATLA
+- SargonofAkkad
+- GifTutorials
+- atheism
+- olympia
+- atheist
+- theocho
+- financialindependence
+- oldpeoplefacebook
+- Berserk
+- Serendipity
+- Anarchism
+- EndFPTP
+---

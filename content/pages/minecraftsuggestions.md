@@ -1,0 +1,24 @@
+---
+title: minecraftsuggestions
+crosslinks:
+- Minecraft
+- MCAbnormalities
+- QuarkMod
+- tmsbmeta
+- shittymcsuggestions
+- youtubot
+- xkcd
+- MinecraftCommands
+- TheCreepersCode
+- alotabot
+- changemyview
+- MCPE
+- Mojira
+- u_imguralbumbot
+- MCMinors
+- quarkmod
+- feedthebeast
+- NotKenM
+- PartyParrot
+- mcmods
+---

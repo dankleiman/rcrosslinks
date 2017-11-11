@@ -1,0 +1,24 @@
+---
+title: AskComputerScience
+crosslinks:
+- cscareerquestions
+- learnprogramming
+- techsupport
+- programming
+- compsci
+- xkcd
+- youtubot
+- EngineeringStudents
+- philosophy
+- TOR
+- autotldr
+- FullMovieGifs
+- MassdropBot
+- buildapc
+- cscareerquestionsEU
+- AMAAggregator
+- report
+- learnjava
+- ComputerEngineering
+- AskReddit
+---

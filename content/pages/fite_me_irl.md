@@ -1,0 +1,24 @@
+---
+title: fite_me_irl
+crosslinks:
+- photoshopbattles
+- livven
+- anti_gif_bot
+- wtfstockphotos
+- Justfuckmyshitup
+- shittyfoodporn
+- crappyoffbrands
+- Frugal_Jerk
+- HistoryPorn
+- WTF
+- mspaintbattles
+- Shittycosplay
+- trashy
+- beholdthemasterrace
+- gifextra
+- ShittyLifeProTips
+- indianpeoplefacebook
+- gameofthrones
+- Grimdank
+- BravoRealHousewives
+---

@@ -1,0 +1,24 @@
+---
+title: kpics
+crosslinks:
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- twice
+- kpop
+- kpopfap
+- Eunwoo
+- kpopgfys
+- SNSD
+- Aiyu
+- tmsbmeta
+- koreanvariety
+- botwatch
+- girlsday
+- red_velvet
+- asiangirlsbeingcute
+- ModSupport
+- GFRIEND
+- ShadowBan
+- MassdropBot
+---

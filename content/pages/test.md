@@ -1,0 +1,24 @@
+---
+title: test
+crosslinks:
+- RareWordBot
+- dogs
+- aww
+- livven
+- youtubefactsbot
+- PoBPreviewBot
+- anti_gif_bot
+- CompileBot
+- xkcd
+- elexerbot
+- cats
+- SubAutoCorrectBot
+- CredibilityBot
+- LinkFixBot
+- youtubot
+- nohomo_bot
+- tmsbmeta
+- CAHbot
+- pics
+- u_imguralbumbot
+---

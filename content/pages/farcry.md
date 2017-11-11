@@ -1,0 +1,24 @@
+---
+title: farcry
+crosslinks:
+- youtubefactsbot
+- assassinscreed
+- gaming
+- u_imguralbumbot
+- SubredditDrama
+- Games
+- GiftofGames
+- StumpSheet
+- xboxone
+- IAmA
+- outrun
+- pics
+- OutOfTheLoop
+- Gamingcirclejerk
+- youtubot
+- SummerReddit
+- cirlcejerk
+- iamversmart
+- bipolar
+- GateKeepers
+---

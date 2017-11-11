@@ -1,0 +1,24 @@
+---
+title: manchester
+crosslinks:
+- youtubefactsbot
+- autotldr
+- bestof
+- youtubot
+- unitedkingdom
+- cyclemcr
+- MassdropBot
+- AccidentalRacism
+- autourbanbot
+- CasualUK
+- gifs
+- vexillology
+- livven
+- ukpolitics
+- dogetipbot
+- anti_gif_bot
+- WhiteRights
+- xkcd
+- UniUK
+- mallninjashit
+---

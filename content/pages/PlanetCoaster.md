@@ -1,0 +1,24 @@
+---
+title: PlanetCoaster
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- u_imguralbumbot
+- livven
+- youtubot
+- unitedkingdom
+- PlanetCoasterModding
+- pcmasterrace
+- tmsbmeta
+- autourbanbot
+- rollercoasters
+- autotldr
+- alotabot
+- eu4
+- Coffee
+- funhaus
+- factorio
+- NoMansSkyTheGame
+- rct
+- woahdude
+---

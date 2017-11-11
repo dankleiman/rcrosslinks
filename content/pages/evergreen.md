@@ -1,0 +1,24 @@
+---
+title: evergreen
+crosslinks:
+- youtubefactsbot
+- youtubot
+- autourbanbot
+- evergreenstate
+- WWII
+- olympia
+- AskReddit
+- UCSantaBarbara
+- roc
+- john_yukis_bots
+- OutOfTheLoop
+- Drama
+- HateCrimeHoaxes
+- autotldr
+- ShitPoliticsSays
+- berkeley
+- SubredditDrama
+- AMADisasters
+- IAmA
+- FULLCOMMUNISM
+---

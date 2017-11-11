@@ -1,0 +1,24 @@
+---
+title: IdiotsNearlyDying
+crosslinks:
+- livven
+- youtubefactsbot
+- botwatch
+- youtubot
+- WTF
+- SweatyPalms
+- OSHA
+- anti_gif_bot
+- killthecameraman
+- PraiseTheCameraMan
+- nononono
+- HadToHurt
+- WinStupidPrizes
+- gifs
+- nonononoyes
+- MassdropBot
+- therewasanattempt
+- MyPeopleNeedMe
+- carbon
+- u_imguralbumbot
+---

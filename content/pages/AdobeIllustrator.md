@@ -1,0 +1,24 @@
+---
+title: AdobeIllustrator
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- mapmaking
+- MassdropBot
+- xkcd
+- AfterEffects
+- Logo_Critique
+- graphic_design
+- Inkscape
+- redditgetsdrawn
+- learnjavascript
+- Art
+- forhire
+- modnews
+- doodles
+- logodesign
+- low_poly
+- ArcherFX
+---

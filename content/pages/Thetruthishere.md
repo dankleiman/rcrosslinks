@@ -1,0 +1,24 @@
+---
+title: Thetruthishere
+crosslinks:
+- AskReddit
+- Paranormal
+- youtubefactsbot
+- nosleep
+- Glitch_in_the_Matrix
+- Humanoidencounters
+- CrawlerSightings
+- Cryptozoology
+- AskWomen
+- Dreams
+- youtubot
+- bigfoot
+- creepyencounters
+- Missing411
+- u_imguralbumbot
+- lawofattraction
+- threekings
+- occult
+- UFOs
+- OutOfTheLoop
+---

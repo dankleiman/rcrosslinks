@@ -1,0 +1,24 @@
+---
+title: vainglorygame
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- Vaingloryguildhall
+- livven
+- tmsbmeta
+- VG_Hero_Ideas
+- leagueoflegends
+- MassdropBot
+- VaingloryLeaks
+- ipad
+- mobilelegends
+- gaming
+- VentGlory
+- xkcd
+- echofox
+- alotabot
+- wallpapers
+- asoiaf
+- pokemon
+- AnimalTextGifs
+---

@@ -1,0 +1,24 @@
+---
+title: translator
+crosslinks:
+- translatorBOT
+- Kurrent
+- ChineseLanguage
+- whatisthisthing
+- coins
+- translation
+- PSO2
+- swords
+- Genealogy
+- languagelearning
+- LearnJapanese
+- language
+- Chinese
+- German
+- learn_arabic
+- Whatisthis
+- Pixiv
+- SWORDS
+- Korean
+- MassdropBot
+---

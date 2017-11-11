@@ -1,0 +1,24 @@
+---
+title: dataisugly
+crosslinks:
+- dataisbeautiful
+- CrappyDesign
+- anti_gif_bot
+- data_irl
+- xkcd
+- soccer
+- badhistory
+- botwatch
+- softwaregore
+- europe
+- u_imguralbumbot
+- LateStageCapitalism
+- Infographics
+- livven
+- mildlyinfuriating
+- dataisfunny
+- 1500isplenty
+- indonesia
+- berlin
+- rstats
+---

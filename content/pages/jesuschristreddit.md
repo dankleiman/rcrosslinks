@@ -1,0 +1,24 @@
+---
+title: jesuschristreddit
+crosslinks:
+- AskReddit
+- pics
+- funny
+- WTF
+- Showerthoughts
+- gifs
+- videos
+- todayilearned
+- news
+- watchpeopledie
+- CringeAnarchy
+- Jokes
+- worldnews
+- gaming
+- politics
+- youtubefactsbot
+- IAmA
+- tifu
+- RoastMe
+- dankmemes
+---

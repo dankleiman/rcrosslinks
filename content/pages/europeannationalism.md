@@ -1,0 +1,24 @@
+---
+title: europeannationalism
+crosslinks:
+- autotldr
+- AgainstHateSubreddits
+- youtubot
+- PussyPass
+- The_Donald
+- C_S_T
+- DuplicatesBot
+- WhiteRights
+- redditrequest
+- ShitLiberalsSay
+- IAmA
+- interestingasfuck
+- gifs
+- aznidentity
+- CasualUK
+- AskReddit
+- news
+- Anarchist
+- vexillology
+- hapas
+---

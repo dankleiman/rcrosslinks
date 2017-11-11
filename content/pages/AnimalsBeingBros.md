@@ -1,0 +1,24 @@
+---
+title: AnimalsBeingBros
+crosslinks:
+- livven
+- anti_gif_bot
+- aww
+- AskReddit
+- u_imguralbumbot
+- gifs
+- pics
+- titlegore
+- tmsbmeta
+- youtubot
+- IAmA
+- WTF
+- autourbanbot
+- PeopleFuckingDying
+- funny
+- natureismetal
+- todayilearned
+- HumansBeingBros
+- Unexpected
+- autotldr
+---

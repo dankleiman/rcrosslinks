@@ -1,0 +1,24 @@
+---
+title: megalinks
+crosslinks:
+- got7x4leaked
+- youtubefactsbot
+- Piracy
+- freefolk
+- opendirectories
+- youtubot
+- DataHoarder
+- tmsbmeta
+- PleX
+- megarequests
+- u_imguralbumbot
+- GDriveLinks
+- xkcd
+- notapanelshow
+- MEGAnice
+- UKbands
+- ProtonVPN
+- gifs
+- got7x6leaked
+- datahoarders
+---

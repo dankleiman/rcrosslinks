@@ -1,0 +1,24 @@
+---
+title: footballmanagergames
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- soccer
+- livven
+- titlegore
+- MLS
+- alotabot
+- FifaCareers
+- FMStories
+- MassdropBot
+- DANMAG
+- baseball
+- sports
+- oldpeoplefacebook
+- '195'
+- footballmanager
+- bestof
+- WastedTalentVideos
+- Fiveheads
+---

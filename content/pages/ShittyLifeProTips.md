@@ -1,0 +1,24 @@
+---
+title: ShittyLifeProTips
+crosslinks:
+- youtubefactsbot
+- LifeProTips
+- UnethicalLifeProTips
+- tifu
+- The_Donald
+- xkcd
+- tmsbmeta
+- youtubot
+- AskReddit
+- Showerthoughts
+- pics
+- u_imguralbumbot
+- livven
+- DeathProTips
+- Frugal_Jerk
+- Jokes
+- titlegore
+- videos
+- sounding
+- todayilearned
+---

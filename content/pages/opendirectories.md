@@ -1,0 +1,24 @@
+---
+title: opendirectories
+crosslinks:
+- DataHoarder
+- megalinks
+- john_yukis_bots
+- youtubefactsbot
+- Piracy
+- DHExchange
+- u_imguralbumbot
+- freefolk
+- Archiveteam
+- Serendipity
+- nerdcore
+- technology
+- autourbanbot
+- computerforensics
+- antilibrary
+- tflop
+- Entrepreneur
+- 3dshacks
+- WatchItForThePlot
+- datacurator
+---

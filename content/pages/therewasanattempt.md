@@ -1,0 +1,24 @@
+---
+title: therewasanattempt
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- youtubot
+- gifs
+- tmsbmeta
+- u_imguralbumbot
+- funny
+- WhyWereTheyFilming
+- botwatch
+- MassdropBot
+- totallynotrobots
+- AskReddit
+- AccidentalRenaissance
+- iamverybadass
+- holdmyfries
+- BetterEveryLoop
+- Whatcouldgowrong
+- RubeGoldbergFails
+- beetlejuicing
+---

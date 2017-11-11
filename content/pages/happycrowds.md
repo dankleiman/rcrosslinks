@@ -1,0 +1,24 @@
+---
+title: happycrowds
+crosslinks:
+- youtubefactsbot
+- videos
+- BritainsGotTalent
+- youtubot
+- Frisson
+- panelshow
+- LondonSocialClub
+- zeropointmodule
+- xkcd
+- WTF
+- GirlsMirin
+- SubAutoCorrectBot
+- CrowdPulledOnStage
+- whiteknighting
+- WhyWereTheyFilming
+- hockey
+- soccer
+- BrasilOnReddit
+- irlsmurfing
+- Hardcore
+---

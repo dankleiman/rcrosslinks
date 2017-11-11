@@ -1,0 +1,24 @@
+---
+title: amibeingdetained
+crosslinks:
+- youtubot
+- PublicFreakout
+- legaladvice
+- xkcd
+- videos
+- whatisthisthing
+- autotldr
+- bestoflegaladvice
+- AmIFreeToGo
+- comics
+- Detroit
+- ProtectAndServe
+- AskReddit
+- IAmA
+- AnimalTextGifs
+- AteThePasta
+- auslaw
+- me_irl
+- PrequelMemes
+- badlegaladvice
+---

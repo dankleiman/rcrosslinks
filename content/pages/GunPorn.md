@@ -1,0 +1,24 @@
+---
+title: GunPorn
+crosslinks:
+- PornOverlords
+- youtubefactsbot
+- guns
+- Glocks
+- weekendgunnit
+- MilitaryPorn
+- tmsbmeta
+- longrange
+- u_imguralbumbot
+- 1911fans
+- ar15
+- awesome
+- russia
+- HobbyPorn
+- airsoft
+- WorldOfGuns_Official
+- Altra
+- PUBATTLEGROUNDS
+- EDC
+- USGI
+---

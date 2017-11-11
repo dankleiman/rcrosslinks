@@ -1,0 +1,24 @@
+---
+title: comics
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- HotPaper
+- AskReddit
+- tmsbmeta
+- The_Donald
+- autourbanbot
+- comedynecromancy
+- anti_gif_bot
+- livven
+- funny
+- pics
+- wholesomememes
+- comicbooks
+- Incels
+- MassdropBot
+- WritingPrompts
+- LateStageCapitalism
+- webcomics
+- WTF
+---

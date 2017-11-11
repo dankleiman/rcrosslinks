@@ -1,0 +1,24 @@
+---
+title: JamesDamore
+crosslinks:
+- autotldr
+- tech
+- cscareerquestions
+- youtubefactsbot
+- chess
+- youtubot
+- samharris
+- AsABlackMan
+- google
+- asianbros
+- take_back_tech
+- girlsgonewired
+- girlsgonewiredRedux
+- slatestarcodex
+- IAmA
+- RedPillWomen
+- ColinsLastStand
+- StopBeingEvil
+- me_irl
+- JordanPeterson
+---

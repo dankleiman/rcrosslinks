@@ -1,0 +1,24 @@
+---
+title: dji
+crosslinks:
+- youtubefactsbot
+- djimavic
+- djiphantom
+- DJISpark
+- anti_gif_bot
+- autotldr
+- drones
+- chromeos
+- mavic
+- MavicPro
+- vancouver
+- apple
+- alotabot
+- dronevideos
+- Quadcopters
+- youtubot
+- tmsbmeta
+- Tokyo
+- MTB
+- Multicopter
+---

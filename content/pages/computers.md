@@ -1,0 +1,24 @@
+---
+title: computers
+crosslinks:
+- youtubefactsbot
+- buildapc
+- u_imguralbumbot
+- techsupport
+- autotldr
+- SuggestALaptop
+- youtubot
+- buildapcsales
+- learnprogramming
+- laptops
+- xkcd
+- pcmasterrace
+- LaptopDeals
+- Dell
+- explainlikeimfive
+- Twitch
+- PCMasterRace
+- hardwareswap
+- buildmeapc
+- overclocking
+---

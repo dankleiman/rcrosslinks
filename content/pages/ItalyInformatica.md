@@ -1,0 +1,24 @@
+---
+title: ItalyInformatica
+crosslinks:
+- italy
+- autotldr
+- linux
+- MechanicalKeyboards
+- u_imguralbumbot
+- homelab
+- programming
+- xkcd
+- italygames
+- politicaITA
+- perlediritaly
+- Jokes
+- raspberry_pi
+- Multicopter
+- ItalyMotori
+- pcmasterrace
+- cscareerquestions
+- italy_SS
+- Trieste
+- 360hacks
+---

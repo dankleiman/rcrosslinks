@@ -1,0 +1,24 @@
+---
+title: fakealbumcovers
+crosslinks:
+- pics
+- itookapicture
+- u_imguralbumbot
+- mildlyinteresting
+- Art
+- OldSchoolCool
+- glitch_art
+- hmmm
+- photoshopbattles
+- analog
+- youtubefactsbot
+- woahdude
+- AccidentalRenaissance
+- funny
+- EarthPorn
+- interestingasfuck
+- aww
+- HistoryPorn
+- VaporwaveAesthetics
+- freshalbumart
+---

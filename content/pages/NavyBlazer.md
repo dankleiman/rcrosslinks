@@ -1,0 +1,24 @@
+---
+title: NavyBlazer
+crosslinks:
+- u_imguralbumbot
+- malefashionadvice
+- NavyBlazer_irl
+- youtubefactsbot
+- Watches
+- preppy
+- Watchexchange
+- supremeclothing
+- gundeals
+- teenagers
+- badeconomics
+- Serendipity
+- whitepeoplegifs
+- dataisbeautiful
+- goodyearwelt
+- Atlanta
+- DeepFriedMemes
+- Drama
+- malelivingspace
+- frugalmalefashion
+---

@@ -1,0 +1,24 @@
+---
+title: italy
+crosslinks:
+- europe
+- ItalyInformatica
+- xkcd
+- ItalyMotori
+- u_imguralbumbot
+- simacefiga
+- AskReddit
+- autotldr
+- italy_SS
+- food
+- italygames
+- pics
+- italyTV
+- place
+- todayilearned
+- ItaliaPersonalFinance
+- IAmA
+- worldnews
+- autourbanbot
+- youtubot
+---

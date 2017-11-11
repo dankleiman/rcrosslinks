@@ -1,0 +1,24 @@
+---
+title: TwoBestFriendsPlay
+crosslinks:
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- anti_gif_bot
+- tmsbmeta
+- autotldr
+- PeachSaliva
+- anime
+- MassdropBot
+- Games
+- StardustCrusaders
+- gaming
+- autourbanbot
+- metalgearsolid
+- nier
+- samuraijack
+- IAmA
+- Kappa
+- darksouls
+- Berserk
+---

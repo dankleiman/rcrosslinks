@@ -1,0 +1,24 @@
+---
+title: reallifedoodles
+crosslinks:
+- youtubefactsbot
+- gifs
+- livven
+- anti_gif_bot
+- funny
+- oddlysatisfying
+- aww
+- chemicalreactiongifs
+- youtubot
+- interestingasfuck
+- woahdude
+- behindthegifs
+- Whatcouldgowrong
+- u_imguralbumbot
+- xkcd
+- nonononoyes
+- IdiotsFightingThings
+- tifu
+- BetterEveryLoop
+- space
+---

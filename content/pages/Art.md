@@ -1,0 +1,24 @@
+---
+title: Art
+crosslinks:
+- u_imguralbumbot
+- anti_gif_bot
+- pics
+- livven
+- youtubot
+- StarWars
+- thefinalclean
+- tmsbmeta
+- AskReddit
+- drawing
+- WritingPrompts
+- fanart
+- painting
+- xkcd
+- creepy
+- place
+- autotldr
+- redditgetsdrawn
+- aww
+- ImaginaryWildlands
+---

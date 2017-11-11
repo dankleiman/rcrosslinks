@@ -1,0 +1,24 @@
+---
+title: TalesFromTheCustomer
+crosslinks:
+- youtubefactsbot
+- IDontWorkHereLady
+- TalesFromRetail
+- MaliciousCompliance
+- talesfromtechsupport
+- TalesFromTheFrontDesk
+- verizon
+- xkcd
+- news
+- CatsNamedToothless
+- AsABlackMan
+- Advice
+- the_cheeto
+- todayilearned
+- gatekeeping
+- john_yukis_bots
+- myevilplan
+- starbucks
+- Ooer
+- curlyhair
+---

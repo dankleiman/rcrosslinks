@@ -1,0 +1,24 @@
+---
+title: fifthworldproblems
+crosslinks:
+- DankMemeArchive
+- youtubefactsbot
+- medical
+- xkcd
+- SCP
+- AVoid5
+- nohomo_bot
+- nightvale
+- surrealmemes
+- titlegore
+- BattleOranges
+- EliteDangerous
+- bestof
+- AskReddit
+- Whatcouldgowrong
+- seventhworldproblems
+- all
+- NotSubredditSimulator
+- NoFap
+- enlightenedbirdmen
+---

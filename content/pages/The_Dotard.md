@@ -1,0 +1,24 @@
+---
+title: The_Dotard
+crosslinks:
+- all
+- The_Donald
+- politics
+- anti_gif_bot
+- youtubefactsbot
+- Drama
+- pics
+- autotldr
+- Pyonyang
+- BestOfReports
+- esist
+- CringeAnarchy
+- AsABlackMan
+- WayOfTheBern
+- theNew_Donald
+- LateStageCapitalism
+- neoliberal
+- autourbanbot
+- NegativeWithGold
+- NeutralPolitics
+---

@@ -1,0 +1,24 @@
+---
+title: KarmaConspiracy
+crosslinks:
+- mildlyinteresting
+- pics
+- funny
+- aww
+- mildlyinfuriating
+- gaming
+- livven
+- gifs
+- WTF
+- interestingasfuck
+- oddlysatisfying
+- me_irl
+- food
+- woahdude
+- KarmaCourt
+- pcmasterrace
+- PerfectTiming
+- CrappyDesign
+- MassdropBot
+- youtubefactsbot
+---

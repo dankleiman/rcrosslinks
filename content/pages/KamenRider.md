@@ -1,0 +1,24 @@
+---
+title: KamenRider
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- Pixiv
+- john_yukis_bots
+- manga
+- supersentai
+- KarmaCourt
+- flash
+- Tokusatsu
+- FlashTV
+- Gunpla
+- anti_gif_bot
+- place
+- amishadowbanned
+- Mariners
+- StardustCrusaders
+- KingdomHearts
+- haskell
+- gaming
+---

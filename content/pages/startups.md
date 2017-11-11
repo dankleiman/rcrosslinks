@@ -1,0 +1,24 @@
+---
+title: startups
+crosslinks:
+- Entrepreneur
+- youtubot
+- youtubefactsbot
+- SideProject
+- xkcd
+- MassdropBot
+- autourbanbot
+- academia
+- forhire
+- artificial
+- news
+- cofounder
+- Affiliatemarketing
+- ControlProblem
+- startup
+- bodyweightfitness
+- copywriting
+- socks
+- hiphopheads
+- CASL
+---

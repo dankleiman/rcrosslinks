@@ -1,0 +1,24 @@
+---
+title: POLITIC
+crosslinks:
+- autotldr
+- youtubefactsbot
+- conspiracy
+- postnationalist
+- WhereIsAssange
+- AnythingGoesNews
+- The_Donald
+- u_imguralbumbot
+- shills
+- AgainstHateSubreddits
+- youtubot
+- worldpolitics
+- news
+- Ask_Politics
+- politics
+- livven
+- WikiLeaks
+- me_irl
+- worldnews
+- liberal_logic
+---

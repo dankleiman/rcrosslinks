@@ -1,0 +1,24 @@
+---
+title: FiftyFifty
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- youtubot
+- WTF
+- todayilearned
+- Pegging
+- gaming
+- Eyebleach
+- eyebleachrequestbot
+- autourbanbot
+- jesuschristreddit
+- nocontext
+- tifu
+- evenwithcontext
+- TwoXChromosomes
+- confusedboner
+- Roboragi
+- WritingPrompts
+- wholesomegifs
+- noisygifs
+---

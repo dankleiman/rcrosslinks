@@ -1,0 +1,24 @@
+---
+title: programminghorror
+crosslinks:
+- xkcd
+- u_imguralbumbot
+- assholedesign
+- ProgrammerHumor
+- shittyprogramming
+- gamedev
+- CompileBot
+- totallynotrobots
+- softwaregore
+- bestof
+- youtubefactsbot
+- badcode
+- startups
+- wewanttypes
+- programmerhumour
+- copypasta
+- BoostForReddit
+- ModestMouse
+- videos
+- croatia
+---

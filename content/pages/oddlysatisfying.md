@@ -1,0 +1,24 @@
+---
+title: oddlysatisfying
+crosslinks:
+- livven
+- youtubefactsbot
+- gifs
+- u_imguralbumbot
+- pics
+- mildlyinteresting
+- botwatch
+- interestingasfuck
+- tmsbmeta
+- mildlyinfuriating
+- HailCorporate
+- xkcd
+- youtubot
+- reallifedoodles
+- Simulated
+- funny
+- gifsthatendtoosoon
+- MassdropBot
+- AskReddit
+- mechanical_gifs
+---

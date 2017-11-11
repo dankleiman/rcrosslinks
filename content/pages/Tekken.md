@@ -1,0 +1,24 @@
+---
+title: Tekken
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Kappa
+- anti_gif_bot
+- alotabot
+- livven
+- fightsticks
+- StreetFighter
+- tmsbmeta
+- u_imguralbumbot
+- VirtualCosplay
+- GameDealsMeta
+- SquaredCircle
+- Fighters
+- CrackWatch
+- kappa
+- SubredditDrama
+- pcmasterrace
+- buildapc
+- Monitors
+---

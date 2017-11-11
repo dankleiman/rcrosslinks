@@ -1,0 +1,24 @@
+---
+title: sandiego
+crosslinks:
+- youtubefactsbot
+- SanDiego_Photography
+- autotldr
+- sandiegoshows
+- Moving2SanDiego
+- u_imguralbumbot
+- The_Donald
+- SanDiegoClassifieds
+- SanDiego_Sports
+- politics
+- FoodSanDiego
+- SanDiego_Soccer
+- AskReddit
+- youtubot
+- LosAngeles
+- xkcd
+- pics
+- nottheonion
+- livven
+- nohomo_bot
+---

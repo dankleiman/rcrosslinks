@@ -1,0 +1,24 @@
+---
+title: TrueOffMyChest
+crosslinks:
+- youtubefactsbot
+- offmychest
+- AskReddit
+- alotabot
+- MassdropBot
+- youtubot
+- niceguys
+- ShitRedditSays
+- BasementBadBoy
+- Incels
+- xkcd
+- Drama
+- raisedbynarcissists
+- SubAutoCorrectBot
+- CringeAnarchy
+- KotakuInAction
+- SubredditDrama
+- greatdanes
+- AskMen
+- The_Donald
+---

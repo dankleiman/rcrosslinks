@@ -1,0 +1,24 @@
+---
+title: The_NewDonald
+crosslinks:
+- anti_gif_bot
+- subredditcancer
+- livven
+- youtubefactsbot
+- 2me4irl
+- OTMemes
+- conspiracy
+- nba
+- TrumpCriticizesTrump
+- President_Donald_T
+- iamverybadass
+- The_Donald
+- EnoughTrumpSpam
+- polandball
+- The_Orrin
+- The_Dumbass
+- WikiLeaks
+- shittyexplainlikeim5
+- csmapmakers
+- all
+---

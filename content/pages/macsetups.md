@@ -1,0 +1,24 @@
+---
+title: macsetups
+crosslinks:
+- youtubot
+- MechanicalKeyboards
+- eGPU
+- mac
+- battlestations
+- u_imguralbumbot
+- hardwareswap
+- Verticalwallpapers
+- LaptopOnDesk
+- hackintosh
+- MassdropBot
+- Cortex
+- Logic_301
+- BudgetAudiophile
+- EDC
+- apple
+- firstworldanarchists
+- malelivingspace
+- VintageApple
+- appleswap
+---

@@ -1,0 +1,24 @@
+---
+title: FastWorkers
+crosslinks:
+- youtubefactsbot
+- videos
+- gifs
+- livven
+- anti_gif_bot
+- oddlysatisfying
+- unexpectedhogwarts
+- OSHA
+- ArtisanVideos
+- MassdropBot
+- SwordOrSheath
+- Frugal_Jerk
+- asianpeoplegifs
+- KnightsOfPineapple
+- maybemaybemaybe
+- bestof
+- normaldayinrussia
+- formula1
+- Butchery
+- iamverybadass
+---

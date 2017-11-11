@@ -1,0 +1,24 @@
+---
+title: LifeProTips
+crosslinks:
+- AskReddit
+- ShittyLifeProTips
+- WTF
+- tifu
+- personalfinance
+- youtubot
+- explainlikeimfive
+- u_imguralbumbot
+- IAmA
+- Showerthoughts
+- mildlyinteresting
+- autourbanbot
+- OutOfTheLoop
+- funny
+- john_yukis_bots
+- UnethicalLifeProTips
+- gifs
+- pics
+- videos
+- AdviceAnimals
+---

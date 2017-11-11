@@ -1,0 +1,24 @@
+---
+title: PointlessStories
+crosslinks:
+- youtubefactsbot
+- grilledcheese
+- legaladvice
+- LetsTalkMusic
+- REEEEEEEEEE
+- bestof
+- iamverybadass
+- xkcd
+- tifu
+- u_imguralbumbot
+- nameaserver
+- AskReddit
+- trueoffmychest
+- Veterans
+- incel
+- woof_irl
+- vaporents
+- autourbanbot
+- SquaredCircle
+- The_Klaver
+---

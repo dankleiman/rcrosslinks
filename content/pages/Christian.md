@@ -1,0 +1,24 @@
+---
+title: Christian
+crosslinks:
+- TiesThatBind
+- youtubefactsbot
+- youtubot
+- Christianity
+- religion
+- exchristian
+- DebateAChristian
+- schizophrenia
+- atheist
+- cosmicservant
+- CMH
+- funny
+- IAmA
+- worldnews
+- atheism
+- Drama
+- u_imguralbumbot
+- TheArmorofGod
+- aww
+- TrumpIsATrumpet
+---

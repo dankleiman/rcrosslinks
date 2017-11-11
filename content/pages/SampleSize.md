@@ -1,0 +1,24 @@
+---
+title: SampleSize
+crosslinks:
+- youtubefactsbot
+- slatestarcodex
+- xkcd
+- DataVizRequests
+- thesims
+- Serendipity
+- tmsbmeta
+- john_yukis_bots
+- dataisbeautiful
+- PollFucking
+- WouldYouRather
+- GMOMyths
+- Eyeshakers
+- AskReddit
+- RemindMeBot
+- FRC
+- terraordinem
+- todayilearned
+- pa
+- schizophrenia
+---

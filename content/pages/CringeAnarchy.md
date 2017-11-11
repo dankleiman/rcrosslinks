@@ -1,0 +1,24 @@
+---
+title: CringeAnarchy
+crosslinks:
+- youtubefactsbot
+- youtubot
+- tmsbmeta
+- u_imguralbumbot
+- botwatch
+- Incels
+- The_Donald
+- AgainstHateSubreddits
+- autourbanbot
+- circlebroke2
+- Drama
+- AskReddit
+- LateStageCapitalism
+- livven
+- copypasta
+- SubredditDrama
+- kangz
+- anti_gif_bot
+- politics
+- sadcringe
+---

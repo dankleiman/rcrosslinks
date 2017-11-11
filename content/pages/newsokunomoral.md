@@ -1,0 +1,24 @@
+---
+title: newsokunomoral
+crosslinks:
+- youtubefactsbot
+- highlevelkarma
+- newsokur
+- lowlevelaware
+- livven
+- youtubot
+- VOCALOID_UTAU_jp
+- Zartan_branch
+- tobacco_ja
+- dokusyo_syoseki_r
+- jisakupc
+- newsokuvip
+- MassdropBot
+- u_imguralbumbot
+- cosplaygirls
+- autotldr
+- Pixiv
+- inbou_ja
+- TV_ja
+- shibuya
+---

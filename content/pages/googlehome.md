@@ -1,0 +1,24 @@
+---
+title: googlehome
+crosslinks:
+- youtubefactsbot
+- homeautomation
+- tasker
+- amazonecho
+- autotldr
+- homeassistant
+- Chromecast
+- Android
+- youtubot
+- xkcd
+- ActionsOnGoogle
+- india
+- u_imguralbumbot
+- livven
+- pedantic
+- AndroidTV
+- wifi
+- nexus5x
+- SmartHomeDeals
+- john_yukis_bots
+---

@@ -1,0 +1,24 @@
+---
+title: japanpics
+crosslinks:
+- youtubefactsbot
+- japancirclejerk
+- u_imguralbumbot
+- JapanTravel
+- japan
+- outrun
+- HibikeEuphonium
+- Tokyo
+- Sumo
+- RedHotChiliPeppers
+- ramen
+- normaldayinjapan
+- food
+- MapPorn
+- funny
+- AlleywayPorn
+- spaceporn
+- itookapicture
+- youtubot
+- TaiwanPics
+---

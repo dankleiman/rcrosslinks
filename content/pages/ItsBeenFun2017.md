@@ -1,0 +1,24 @@
+---
+title: ItsBeenFun2017
+crosslinks:
+- youtubehaiku
+- funny
+- AskReddit
+- aww
+- videos
+- gaming
+- Android
+- gifs
+- todayilearned
+- mildlyinteresting
+- pics
+- AdviceAnimals
+- iphone
+- worldnews
+- MassdropBot
+- ios
+- RelayForReddit
+- thalassophobia
+- news
+- oddlysatisfying
+---

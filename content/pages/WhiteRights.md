@@ -1,0 +1,24 @@
+---
+title: WhiteRights
+crosslinks:
+- AgainstHateSubreddits
+- youtubefactsbot
+- youtubot
+- The_Donald
+- DebateAltRight
+- PussyPass
+- BrainwashedAmerica
+- u_imguralbumbot
+- NationalSocialism
+- Physical_Removal
+- HateSubsInAction
+- europeannationalism
+- uncensorednews
+- OutOfTheLoop
+- pussypassdenied
+- FreyasLight
+- anti_gif_bot
+- Fuckthealtright
+- doujinshi
+- DuplicatesBot
+---

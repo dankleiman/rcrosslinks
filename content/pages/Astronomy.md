@@ -1,0 +1,24 @@
+---
+title: Astronomy
+crosslinks:
+- autotldr
+- youtubefactsbot
+- telescopes
+- astrophotography
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- xkcd
+- youtubot
+- space
+- gameflysocial
+- spaceengine
+- explainlikeimfive
+- solareclipse
+- spaceporn
+- askscience
+- Spaceonly
+- conspiracy
+- Andromeda321
+- titlegore
+---

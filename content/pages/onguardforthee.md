@@ -1,0 +1,24 @@
+---
+title: onguardforthee
+crosslinks:
+- metacanada
+- canada
+- AgainstHateSubreddits
+- CanadaPolitics
+- worldnews
+- SubredditDrama
+- TorontoAnarchy
+- politics
+- vancouver
+- TopMindsOfReddit
+- The_Donald
+- beholdthemasterrace
+- autourbanbot
+- toronto
+- Winnipeg
+- JordanPeterson
+- Fuckthealtright
+- news
+- RedEnsign
+- ontario
+---

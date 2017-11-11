@@ -1,0 +1,24 @@
+---
+title: ElderScrolls
+crosslinks:
+- teslore
+- TrueSTL
+- youtubefactsbot
+- Morrowind
+- skyrim
+- Gamingcirclejerk
+- youtubot
+- elderscrollsonline
+- oblivion
+- MassdropBot
+- Redguard
+- gaming
+- skyrimmods
+- tmsbmeta
+- skywind
+- Daggerfall
+- PrequelMemes
+- causeWhyNotMate
+- The_Dominion
+- AskReddit
+---

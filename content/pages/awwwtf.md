@@ -1,0 +1,24 @@
+---
+title: awwwtf
+crosslinks:
+- livven
+- youtubefactsbot
+- WTF
+- aww
+- CutePetSnails
+- gifs
+- u_imguralbumbot
+- anti_gif_bot
+- awwtf
+- funny
+- pics
+- youtubot
+- botwatch
+- trashy
+- PeopleFuckingDying
+- iamverybadass
+- autourbanbot
+- awwnverts
+- NamFlashbacks
+- eyebleachrequestbot
+---

@@ -1,0 +1,24 @@
+---
+title: Ubuntu
+crosslinks:
+- linux
+- unixporn
+- linuxquestions
+- youtubefactsbot
+- autotldr
+- gnome
+- u_imguralbumbot
+- Yunit
+- xkcd
+- linuxhardware
+- archlinux
+- linux4noobs
+- linuxmasterrace
+- linux_gaming
+- linuxmint
+- Dell
+- privacy
+- autourbanbot
+- youtubot
+- VFIO
+---

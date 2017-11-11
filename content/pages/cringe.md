@@ -1,0 +1,24 @@
+---
+title: cringe
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- tifu
+- IAmA
+- autourbanbot
+- YTARBot
+- videos
+- The_Donald
+- nothingeverhappens
+- AskReddit
+- iamverysmart
+- EnoughTrumpSpam
+- autotldr
+- nocontext
+- todayilearned
+- politics
+- cringepics
+- consulting
+- OutOfTheLoop
+- MemeYourEnthusiasm
+---

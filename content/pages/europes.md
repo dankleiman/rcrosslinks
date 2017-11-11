@@ -1,0 +1,24 @@
+---
+title: europes
+crosslinks:
+- autotldr
+- MassdropBot
+- europrivacy
+- syriancivilwar
+- europe
+- botwatch
+- alleu
+- germany
+- LiarLiar
+- DearFuture
+- youtubefactsbot
+- news
+- rance
+- thenetherlands
+- DuplicatesBot
+- the_schulz
+- The3Million
+- PressFreedom
+- geopolitics
+- islam
+---

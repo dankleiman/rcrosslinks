@@ -1,0 +1,24 @@
+---
+title: Vent
+crosslinks:
+- youtubefactsbot
+- progrockmusic
+- facepalm
+- OldSchoolCool
+- weezer
+- onionhate
+- Crushes
+- MGTOW
+- TrumpWatch
+- autourbanbot
+- WaterGuy12
+- MaliciousCompliance
+- DeadBedrooms
+- childfree
+- Legal_Advice
+- books
+- microsoftsoftwareswap
+- relationship_advice
+- youtubot
+- MassdropBot
+---

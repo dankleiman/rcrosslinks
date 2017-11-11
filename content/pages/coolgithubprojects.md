@@ -1,0 +1,24 @@
+---
+title: coolgithubprojects
+crosslinks:
+- commandline
+- AskReddit
+- botwatch
+- youtubot
+- Bitcoin
+- cellular_automata
+- paperless
+- learnpython
+- opensource
+- WorldBrain
+- golang
+- BOINC
+- javascript
+- linux
+- redditscripting
+- rust
+- selfhosted
+- TronScript
+- MassdropBot
+- PHP
+---

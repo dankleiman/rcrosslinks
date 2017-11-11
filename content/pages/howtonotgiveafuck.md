@@ -1,0 +1,24 @@
+---
+title: howtonotgiveafuck
+crosslinks:
+- youtubefactsbot
+- Stoicism
+- getdisciplined
+- youtubot
+- autotldr
+- hatchery
+- livven
+- AskReddit
+- videos
+- MassdropBot
+- anti_gif_bot
+- FuckTokenBot
+- TheRedPill
+- bestof
+- nicealpha
+- entp
+- intermittentfasting
+- exchristian
+- shutthefuckup
+- albertellis
+---

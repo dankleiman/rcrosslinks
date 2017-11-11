@@ -1,0 +1,24 @@
+---
+title: DCcomics
+crosslinks:
+- youtubefactsbot
+- comicbooks
+- autotldr
+- comicreadingorders
+- theflash
+- youtubot
+- DC_Cinematic
+- DC_Shazam
+- batman
+- respectthreads
+- Marvel
+- SonofBatman
+- superman
+- FlashTV
+- WonderWoman
+- livven
+- Deathstroke
+- BookofOA
+- Gamingcirclejerk
+- john_yukis_bots
+---

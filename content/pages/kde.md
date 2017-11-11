@@ -1,0 +1,24 @@
+---
+title: kde
+crosslinks:
+- linux
+- zeronet
+- linuxquestions
+- youtubefactsbot
+- unixporn
+- ManjaroLinux
+- xkcd
+- u_imguralbumbot
+- archlinux
+- linux_gaming
+- rust
+- sddm_themes
+- linuxmasterrace
+- ITalks
+- '124983'
+- carbon
+- linux_cucks
+- '129732'
+- '128894'
+- autotldr
+---

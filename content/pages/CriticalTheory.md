@@ -1,0 +1,24 @@
+---
+title: CriticalTheory
+crosslinks:
+- autotldr
+- youtubot
+- makhaevism
+- Anarchism
+- badphilosophy
+- Political_Revolution
+- FULLCOMMUNISM
+- sorceryofthespectacle
+- neoliberal
+- philosophy
+- contpoltheor
+- TheoryClub
+- livven
+- arabs
+- ByTheBookofThySelf
+- AskPhilosophyFAQ
+- SubredditDrama
+- regnault
+- zizek
+- LeftWithoutEdge
+---

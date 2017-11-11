@@ -1,0 +1,24 @@
+---
+title: TrueSTL
+crosslinks:
+- teslore
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- skyrim
+- Morrowind
+- ElderScrolls
+- muatrablowers
+- anti_gif_bot
+- oblivion
+- shittyTESlore
+- place
+- gayfortodd
+- elderscrollsonline
+- PraiseAlmsivi
+- botwatch
+- nocontext
+- Gamingcirclejerk
+- Games
+- The_Ulfric
+---

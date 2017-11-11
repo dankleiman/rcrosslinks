@@ -1,0 +1,24 @@
+---
+title: robotics
+crosslinks:
+- autotldr
+- youtubefactsbot
+- youtubot
+- arduino
+- FTC
+- anti_gif_bot
+- ludobots
+- livven
+- FRC
+- shittyrobots
+- RobotNews
+- xkcd
+- MechanicalKeyboards
+- 3Dprinting
+- AskElectronics
+- electronics_robots
+- trebuchetmemes
+- artificial
+- Manna
+- BrasilOnReddit
+---

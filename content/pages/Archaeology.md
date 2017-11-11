@@ -1,0 +1,24 @@
+---
+title: Archaeology
+crosslinks:
+- autotldr
+- youtubefactsbot
+- worldpolitics
+- pics
+- AskHistorians
+- history
+- urbanexploration
+- ww2
+- CemeteryPreservation
+- AcademicBiblical
+- ancientrome
+- Whatisthis
+- whatisthisthing
+- AncientWorld
+- Egypt
+- todayilearned
+- Anthropology
+- geology
+- john_yukis_bots
+- ArtefactPorn
+---

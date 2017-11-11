@@ -1,0 +1,24 @@
+---
+title: explainlikeIAmA
+crosslinks:
+- bestof
+- ASOUE
+- AMAAggregator
+- MassdropBot
+- Regent_of_Stories
+- writerchat
+- communism101
+- Ooer
+- WithMyCousinErnesto
+- PrequelMemes
+- dailyprogrammer
+- titlegore
+- unexpectedoverwatch
+- bindingofisaac
+- SquaredCircle
+- botwatch
+- boardgamerecommender
+- 40kLore
+- AskReddit
+- copypasta
+---

@@ -1,0 +1,24 @@
+---
+title: asiangirlsbeingcute
+crosslinks:
+- livven
+- youtubefactsbot
+- twice
+- anti_gif_bot
+- kpics
+- kpopgfys
+- SNSD
+- BlackPink
+- dreamcatcher
+- NoSanaNoLife
+- botwatch
+- u_imguralbumbot
+- kpop
+- Konosuba
+- kpopfap
+- japanlife
+- UNBGBBIIVCHIDCTIICBG
+- GirlsMirin
+- asiantyingherhairup
+- Sojin
+---

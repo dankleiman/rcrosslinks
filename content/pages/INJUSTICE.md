@@ -1,0 +1,24 @@
+---
+title: INJUSTICE
+crosslinks:
+- FlairHelperBot
+- youtubot
+- anti_gif_bot
+- livven
+- u_imguralbumbot
+- tmsbmeta
+- alotabot
+- Kappa
+- respectthreads
+- john_yukis_bots
+- SuperheroCirclejerk
+- DCcomics
+- arrow
+- NewChallenger
+- MortalKombat
+- FlashTV
+- EarthOneCorps
+- gaming
+- rupaulsdragrace
+- MassdropBot
+---

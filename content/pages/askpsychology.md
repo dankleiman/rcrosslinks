@@ -1,0 +1,24 @@
+---
+title: askpsychology
+crosslinks:
+- youtubefactsbot
+- psychology
+- youtubot
+- evopsych
+- raisedbynarcissists
+- philosophy
+- badpsychology
+- paracosms
+- Antipsychiatry
+- autourbanbot
+- Drugs
+- lgbt
+- Physics
+- iamsmart
+- dating_advice
+- worldbuilding
+- askgaybros
+- AskSocialScience
+- TalkTherapy
+- schizophrenia
+---

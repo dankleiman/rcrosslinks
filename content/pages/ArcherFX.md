@@ -1,0 +1,24 @@
+---
+title: ArcherFX
+crosslinks:
+- youtubefactsbot
+- youtubot
+- tmsbmeta
+- botpopularitybot
+- livven
+- u_imguralbumbot
+- autotldr
+- ComedyCemetery
+- autourbanbot
+- todayilearned
+- pics
+- pamwashere
+- anti_gif_bot
+- Adelaide
+- Skookum
+- NetflixViaVPN
+- xkcd
+- mildlyinteresting
+- Scotch
+- john_yukis_bots
+---

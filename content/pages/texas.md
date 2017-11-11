@@ -1,0 +1,24 @@
+---
+title: texas
+crosslinks:
+- Austin
+- The_Donald
+- houston
+- news
+- place
+- todayilearned
+- gayjews
+- AskHistorians
+- atheism
+- politics
+- nottheonion
+- ElPaso
+- dataisbeautiful
+- Missing411
+- OutOfTheLoop
+- 4chan
+- Serendipity
+- self
+- WhatsMyIdeology
+- community
+---

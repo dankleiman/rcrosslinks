@@ -1,0 +1,24 @@
+---
+title: RationalPsychonaut
+crosslinks:
+- Psychonaut
+- C_S_T
+- youtubefactsbot
+- DMT
+- DrugNerds
+- science
+- getdisciplined
+- LSD
+- samharris
+- ShrugLifeSyndicate
+- youtubot
+- researchchemicals
+- holofractal
+- announcements
+- Serendipity
+- psychonaut
+- ideasfortheadmins
+- doctorclown
+- philosophy
+- askphilosophy
+---

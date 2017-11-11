@@ -1,0 +1,24 @@
+---
+title: NoFap
+crosslinks:
+- youtubefactsbot
+- pornfree
+- SuicideWatch
+- NoFapWomen
+- getdisciplined
+- TheRedPill
+- youtubot
+- tmsbmeta
+- NoFapChristians
+- alotabot
+- AskReddit
+- autourbanbot
+- Meditation
+- StopGaming
+- MGTOW
+- seduction
+- shitpost
+- GetMotivated
+- u_imguralbumbot
+- leaves
+---

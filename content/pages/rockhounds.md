@@ -1,0 +1,24 @@
+---
+title: rockhounds
+crosslinks:
+- whatsthisrock
+- Lapidary
+- u_imguralbumbot
+- MineralPorn
+- geology
+- Crystals
+- pics
+- xkcd
+- MassdropBot
+- stevenuniverse
+- anti_gif_bot
+- youtubefactsbot
+- whatsthisworth
+- sio2
+- wat
+- RockhoundExchange
+- RockTumbling
+- relationships
+- mildlypenis
+- metaldetecting
+---

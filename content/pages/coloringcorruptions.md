@@ -1,0 +1,24 @@
+---
+title: coloringcorruptions
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- furry_irl
+- badwomensanatomy
+- Teleshits
+- tippr
+- replications
+- autourbanbot
+- happy
+- xkcd
+- WtSSTaDaMiT
+- Coloring
+- AskOuija
+- bertstrips
+- HomestarRunner
+- The_Frank
+- trypophobia
+- NotHowDrugsWork
+- offcenterbuttholes
+- law13
+---

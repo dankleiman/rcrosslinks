@@ -1,0 +1,24 @@
+---
+title: badhistory
+crosslinks:
+- AskHistorians
+- AskReddit
+- todayilearned
+- history
+- SnapshillBotEx
+- europe
+- xkcd
+- ShitWehraboosSay
+- uncensorednews
+- pics
+- explainlikeimfive
+- badlinguistics
+- The_Donald
+- TrueReddit
+- NoStupidQuestions
+- IRstudies
+- DebateAltRight
+- lewronggeneration
+- SWORDS
+- LateStageCapitalism
+---

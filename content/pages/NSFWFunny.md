@@ -1,0 +1,24 @@
+---
+title: NSFWFunny
+crosslinks:
+- u_imguralbumbot
+- JavPreview
+- tipofmypenis
+- AskReddit
+- tmsbmeta
+- IAmA
+- youtubot
+- funny
+- JavDownloadCenter
+- livven
+- WTF
+- whynotasource
+- NSFW411
+- ChargeYourPhone
+- nsfw_wtf
+- wtf
+- ImGoingToHellForThis
+- adorableporn
+- videos
+- facepalm
+---

@@ -1,0 +1,24 @@
+---
+title: PhonesAreBad
+crosslinks:
+- youtubefactsbot
+- lewronggeneration
+- xkcd
+- im14andthisisdeep
+- NotHowDrugsWork
+- botwatch
+- gatekeeping
+- kerning
+- MassdropBot
+- PhonesAreGood
+- SubAutoCorrectBot
+- autotldr
+- Ingress
+- titlegore
+- youtubot
+- totallynotrobots
+- john_yukis_bots
+- KarmaCourt
+- surrealmemes
+- ComedyCemetery
+---

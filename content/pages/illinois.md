@@ -1,0 +1,24 @@
+---
+title: illinois
+crosslinks:
+- autotldr
+- chicago
+- youtubefactsbot
+- tmsbmeta
+- UIUC
+- dataisbeautiful
+- science
+- u_imguralbumbot
+- youtubot
+- bestof
+- AmericanPlantSwap
+- ChicagoSuburbs
+- USNEWS
+- QuadCities
+- punchablefaces
+- worldpolitics
+- LateStageCapitalism
+- goodposts_aboutvoting
+- Political_Revolution
+- Teachers
+---

@@ -1,0 +1,24 @@
+---
+title: medical
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- Dermatology
+- autotldr
+- youtubot
+- AskDocs
+- botwatch
+- DiagnoseMe
+- raisedbynarcissists
+- Radiology
+- ADHD
+- Fitness
+- Stoicism
+- birthcontrol
+- IAmA
+- loseit
+- HealthAnxiety
+- ChronicPain
+- ehlersdanlos
+- tmsbmeta
+---

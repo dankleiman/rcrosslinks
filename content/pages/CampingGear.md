@@ -1,0 +1,24 @@
+---
+title: CampingGear
+crosslinks:
+- Ultralight
+- CampingandHiking
+- MassdropBot
+- youtubefactsbot
+- flashlight
+- hammockcamping
+- GearTrade
+- youtubot
+- ultralight
+- camping
+- trailmeals
+- myog
+- amateurradio
+- turtle
+- kickstarter
+- orlando
+- overlanding
+- alotabot
+- anti_gif_bot
+- EDC
+---

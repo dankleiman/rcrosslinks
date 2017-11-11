@@ -1,0 +1,24 @@
+---
+title: Military
+crosslinks:
+- MilitaryStories
+- army
+- livven
+- AirForce
+- u_imguralbumbot
+- Militaryfaq
+- AskHistorians
+- anti_gif_bot
+- USMC
+- tmsbmeta
+- navy
+- autourbanbot
+- Amry
+- CombatFootage
+- FrenchForeignLegion
+- IAmA
+- bestof
+- Veterans
+- ShitWehraboosSay
+- syriancivilwar
+---

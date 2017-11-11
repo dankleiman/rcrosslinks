@@ -1,0 +1,24 @@
+---
+title: forhire
+crosslinks:
+- dotnetjobs
+- testimonials
+- slavelabour
+- u_imguralbumbot
+- Database
+- DistritoFederal
+- HireaWriter
+- worldnews
+- gameDevJobs
+- ColoradoSprings
+- The_Donald
+- badkarma
+- sysadminjobs
+- subaru
+- animation
+- computervision
+- firstimpression
+- jobbit
+- mechmarket
+- notcirclejerk
+---

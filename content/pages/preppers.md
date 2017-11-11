@@ -1,0 +1,24 @@
+---
+title: preppers
+crosslinks:
+- CascadianPreppers
+- youtubefactsbot
+- collapse
+- fidelitypdx
+- PDFs
+- autotldr
+- guns
+- amateurradio
+- TropicalWeather
+- vandwellers
+- Ultralight
+- gundeals
+- IAmA
+- VEDC
+- homestead
+- bugout
+- worldnews
+- DIY
+- flashlight
+- preppersales
+---

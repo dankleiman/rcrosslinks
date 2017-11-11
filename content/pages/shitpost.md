@@ -1,0 +1,24 @@
+---
+title: shitpost
+crosslinks:
+- pics
+- shitshitpost
+- funny
+- gaming
+- AskReddit
+- tmsbmeta
+- youtubefactsbot
+- shitcomment
+- The_Donald
+- aww
+- pic
+- shitshitshitpost
+- Gamingcirclejerk
+- MarchAgainstTrump
+- MassdropBot
+- WastedGold
+- u_imguralbumbot
+- Jokes
+- OldSchoolCool
+- drunk
+---

@@ -1,0 +1,24 @@
+---
+title: WordAvalanches
+crosslinks:
+- youtubefactsbot
+- ShitEvilModsSay
+- AskReddit
+- tmsbmeta
+- youtubot
+- de
+- gaming
+- RhymesOnADime
+- PrequelMemes
+- LanguageExchange
+- BrasilOnReddit
+- genewilder
+- marijuanaenthusiasts
+- funny
+- soccer
+- gameofthrones
+- Jokes
+- lostredditors
+- climbing
+- PostLiterallyAnything
+---

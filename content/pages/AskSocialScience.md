@@ -1,0 +1,24 @@
+---
+title: AskSocialScience
+crosslinks:
+- AskHistorians
+- AskEconomics
+- AskAnthropology
+- badeconomics
+- BadSocialScience
+- AskFeminists
+- explainlikeimfive
+- SocialDemocracy
+- Economics
+- KotakuInAction
+- books
+- askphilosophy
+- europe
+- answers
+- ShadowBan
+- subredditoftheday
+- PastorArrested
+- Sociology_Academic
+- TrollXChromosomes
+- programming
+---

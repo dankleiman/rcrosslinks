@@ -1,0 +1,24 @@
+---
+title: mildlyamusing
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- autotldr
+- mildyinfuriating
+- livven
+- youtubot
+- HailCorporate
+- keming
+- MassdropBot
+- iamverysmart
+- The_Donald
+- OutOfTheLoop
+- Drama
+- answers
+- insanepeoplefacebook
+- consulting
+- mildlyinfuriating
+- anti_gif_bot
+- juxtaposition
+- accidentalswastika
+---

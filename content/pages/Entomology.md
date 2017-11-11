@@ -1,0 +1,24 @@
+---
+title: Entomology
+crosslinks:
+- whatsthisbug
+- autotldr
+- u_imguralbumbot
+- youtubefactsbot
+- etymology
+- antkeeping
+- MassdropBot
+- AskReddit
+- livven
+- Pareidolia
+- gardening
+- insects_ja
+- anti_gif_bot
+- flobots
+- ImagesOfAustralia
+- misleadingthumbnails
+- youtubot
+- ants
+- Taxidermy
+- somethingimade
+---

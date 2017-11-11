@@ -1,0 +1,24 @@
+---
+title: tomorrow
+crosslinks:
+- livven
+- youtubefactsbot
+- NintendoSwitch
+- CasualSwitch
+- u_imguralbumbot
+- anti_gif_bot
+- MassdropBot
+- mildlyinteresting
+- ChurchOfSwitch
+- stocks
+- GiIvaSunner
+- NintendoKaren
+- lewronggeneration
+- NintendoNX
+- xkcd
+- JonTron
+- CompileBot
+- KingdomHearts
+- AyyMD
+- Breath_of_the_Wild
+---

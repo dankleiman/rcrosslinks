@@ -1,0 +1,24 @@
+---
+title: Georgia
+crosslinks:
+- autotldr
+- youtubefactsbot
+- Atlanta
+- Sakartvelo
+- Athens
+- gatekeeping
+- politics
+- bestof
+- texas
+- PoliticalDiscussion
+- StormComing
+- askeconomists
+- missouri
+- legaladvice
+- WorldDailyTops
+- Tennessee
+- AskReddit
+- The_Donald
+- 4chan
+- AskHistorians
+---

@@ -1,0 +1,24 @@
+---
+title: HFY
+crosslinks:
+- youtubefactsbot
+- WritingPrompts
+- tmsbmeta
+- xkcd
+- REDCOSMOS
+- TheCryopodToHell
+- LeVentNoir
+- AskReddit
+- TheSnakeReport
+- Stellaris
+- youtubot
+- rational
+- M59Gar
+- DybbukReview
+- raerth
+- Brrrrrrrrrrrrrrrrt
+- nocontext
+- space
+- Frisson
+- baww
+---

@@ -1,0 +1,24 @@
+---
+title: kancolle
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- WorldOfWarships
+- Pixiv
+- KanMusu
+- john_yukis_bots
+- livven
+- unexpectedsabaton
+- ShitWehraboosSay
+- resinkits
+- VoHiYo
+- programming
+- REEEEEE
+- autourbanbot
+- badhistory
+- Warthunder
+- Rainbow6
+- ShokugekiNoSoma
+- grandorder
+---

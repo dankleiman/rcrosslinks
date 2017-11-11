@@ -1,0 +1,24 @@
+---
+title: swanseacity
+crosslinks:
+- soccer
+- youtubefactsbot
+- Everton
+- soccerstreams
+- youtubot
+- coys
+- u_imguralbumbot
+- crystalpalace
+- SaintsFC
+- john_yukis_bots
+- fcbayern
+- AFCON
+- footballdownload
+- atletico
+- autourbanbot
+- anti_gif_bot
+- eder
+- MLS
+- iamverybadass
+- LiverpoolFC
+---

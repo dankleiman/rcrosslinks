@@ -1,0 +1,24 @@
+---
+title: summonerschool
+crosslinks:
+- leagueoflegends
+- supportlol
+- sonamains
+- alotabot
+- TeamRedditTeams
+- Rivenmains
+- youtubot
+- gangplankmains
+- LeagueConnect
+- GravesMains
+- JhinMains
+- akalimains
+- YasuoMains
+- Kaylemains
+- FioraMains
+- TeemoTalk
+- LeagueofLegendsMeta
+- singedmains
+- Illaoi
+- nasusmains
+---

@@ -1,0 +1,24 @@
+---
+title: conservatives
+crosslinks:
+- youtubefactsbot
+- ShitRConservativeSays
+- politics
+- Military
+- ShitPoliticsSays
+- christianpersecution
+- The_Donald
+- DebateCommunism
+- ShitEvilModsSay
+- MetaRepublican
+- ShitLiberalsSay
+- TopMindsOfReddit
+- bestof
+- Conservative
+- FUCK_CNN
+- foodforthought
+- autourbanbot
+- FloridaMan
+- youtubot
+- askaconservative
+---

@@ -1,0 +1,24 @@
+---
+title: googleplaydeals
+crosslinks:
+- GPDBot
+- androidapps
+- AndroidGaming
+- Android
+- youtubefactsbot
+- tasker
+- EmulationOnAndroid
+- swipeforfacebook
+- search
+- DuplicatesBot
+- androidthemes
+- Substratum
+- tmsbmeta
+- BadApps
+- ShieldAndroidTV
+- gameofthrones
+- DataHoarder
+- lgv20
+- AndroidTV
+- AndroidPreviews
+---

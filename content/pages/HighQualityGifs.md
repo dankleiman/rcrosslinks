@@ -1,0 +1,24 @@
+---
+title: HighQualityGifs
+crosslinks:
+- tmsbmeta
+- GifTournament
+- xkcd
+- TheRedPill
+- The_Donald
+- funny
+- OutOfTheLoop
+- pics
+- TeamGifBattles
+- GifTutorials
+- AskReddit
+- autourbanbot
+- reactiongifs
+- botwatch
+- WardCannon
+- hero0fwar
+- announcements
+- Objects
+- GIMP
+- modnews
+---

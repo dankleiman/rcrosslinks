@@ -1,0 +1,24 @@
+---
+title: bardmains
+crosslinks:
+- youtubefactsbot
+- leagueoflegends
+- supportlol
+- u_imguralbumbot
+- tmsbmeta
+- livven
+- place
+- anti_gif_bot
+- youtubot
+- newzealand
+- LoLFanArt
+- JhinMains
+- mastery_bot
+- sonamains
+- sufficiencybot
+- blitzcrankmains
+- shittyfoodporn
+- LoLOffMeta
+- SnarkyPuppy
+- immortals
+---

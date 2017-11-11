@@ -1,0 +1,24 @@
+---
+title: PandR
+crosslinks:
+- anti_gif_bot
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- tmsbmeta
+- pics
+- WhyICorrectBryanPCox
+- youtubot
+- AdviceAnimals
+- SubredditDrama
+- IAmA
+- AMAAggregator
+- DunderMifflin
+- funny
+- AskReddit
+- bestof
+- SubAutoCorrectBot
+- aww
+- shittytumblrgifs
+- metric_units
+---

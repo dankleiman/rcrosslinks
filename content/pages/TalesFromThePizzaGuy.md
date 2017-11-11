@@ -1,0 +1,24 @@
+---
+title: TalesFromThePizzaGuy
+crosslinks:
+- youtubefactsbot
+- LateStageCapitalism
+- iamverybadass
+- tmsbmeta
+- KnightsOfPineapple
+- legaladvice
+- MassdropBot
+- pizzadare
+- botpopularitybot
+- justthetip
+- leanfire
+- youtubot
+- cartalk
+- shittynosleep
+- Rochester
+- OutOfTheLoop
+- bestof
+- fixingmovies
+- teenagers
+- john_yukis_bots
+---

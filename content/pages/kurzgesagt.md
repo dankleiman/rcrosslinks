@@ -1,0 +1,24 @@
+---
+title: kurzgesagt
+crosslinks:
+- zeronet
+- youtubefactsbot
+- badeconomics
+- tmsbmeta
+- space
+- youtubot
+- multiwall
+- mealtimevideos
+- titlegore
+- flatdesign
+- ethereum
+- modnews
+- JustUnsubbed
+- Design
+- FlashTV
+- xkcd
+- ProCSS
+- btc
+- u_imguralbumbot
+- mildlyinfuriating
+---

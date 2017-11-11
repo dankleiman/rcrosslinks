@@ -1,0 +1,24 @@
+---
+title: nursing
+crosslinks:
+- livven
+- youtubefactsbot
+- StudentNurse
+- cna
+- medicine
+- tmsbmeta
+- autotldr
+- ems
+- youtubot
+- medicalschool
+- pics
+- picu
+- u_imguralbumbot
+- Helicopters
+- CatastrophicFailure
+- tifu
+- AskReddit
+- SubredditDrama
+- john_yukis_bots
+- JapanTravel
+---

@@ -1,0 +1,24 @@
+---
+title: russian
+crosslinks:
+- youtubefactsbot
+- youtubot
+- languagelearning
+- badlinguistics
+- Art
+- u_imguralbumbot
+- autourbanbot
+- translator
+- russia
+- pics
+- LanguageBuds
+- ScottishPeopleTwitter
+- xkcd
+- typography
+- liberta
+- znanie
+- GermanFacts
+- hampan
+- weightlifting
+- theroom
+---

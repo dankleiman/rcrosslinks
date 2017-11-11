@@ -1,0 +1,24 @@
+---
+title: gorillaz
+crosslinks:
+- youtubot
+- u_imguralbumbot
+- gorillazcirclejerk
+- anti_gif_bot
+- Music
+- MassdropBot
+- leakthreads
+- TheBath
+- tmsbmeta
+- vinyl
+- livven
+- john_yukis_bots
+- freshalbumart
+- place
+- Kanye
+- autourbanbot
+- alotabot
+- causeWhyNotMate
+- JonTron
+- xTrill
+---

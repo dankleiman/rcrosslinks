@@ -1,0 +1,24 @@
+---
+title: IgnorantImgur
+crosslinks:
+- MassdropBot
+- livven
+- youtubefactsbot
+- tmsbmeta
+- all
+- assholedesign
+- redditisfun
+- dankmemes
+- crimgur
+- WackyTicTacs
+- pics
+- HighQualityGifs
+- TwoXChromosomes
+- ComedyCemetery
+- ComedyNecrophilia
+- AdviceAnimals
+- knives
+- SubredditDrama
+- ImgurTroll
+- funny
+---

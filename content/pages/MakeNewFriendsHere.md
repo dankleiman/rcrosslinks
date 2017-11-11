@@ -1,0 +1,24 @@
+---
+title: MakeNewFriendsHere
+crosslinks:
+- Needafriend
+- penpals
+- youtubefactsbot
+- lawnewznetwork
+- u_imguralbumbot
+- me_irl
+- john_yukis_bots
+- youtubot
+- SkypePals
+- autourbanbot
+- alotabot
+- r4r
+- AmISexy
+- sports
+- dirtykikpals
+- PrequelMemes
+- DestinyTheGame
+- hmmmgifs
+- nohomo_bot
+- needafriend
+---

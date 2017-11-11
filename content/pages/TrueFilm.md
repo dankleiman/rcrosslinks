@@ -1,0 +1,24 @@
+---
+title: TrueFilm
+crosslinks:
+- moviescirclejerk
+- goodlongposts
+- movies
+- youtubot
+- flicks
+- africancinema
+- YMS
+- SuperheroCirclejerk
+- u_imguralbumbot
+- youtubefactsbot
+- DC_Cinematic
+- criterion
+- batman
+- badhistory
+- autotldr
+- apple
+- comicbookmovies
+- LateStageCapitalism
+- todayilearned
+- NegativeWithGold
+---

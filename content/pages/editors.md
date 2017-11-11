@@ -1,0 +1,24 @@
+---
+title: editors
+crosslinks:
+- youtubefactsbot
+- VideoEditing
+- makethecut25
+- AudioPost
+- premiere
+- buildapcvideoediting
+- youtubot
+- autotldr
+- AfterEffects
+- videoediting
+- WeAreTheMusicMakers
+- hackintosh
+- recordthis
+- Digital_Image_Techs
+- delusionalcraigslist
+- colorists
+- datahorder
+- mac
+- Serendipity
+- noisygifs
+---

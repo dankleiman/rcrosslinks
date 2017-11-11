@@ -1,0 +1,24 @@
+---
+title: uofmn
+crosslinks:
+- TheB1G
+- place
+- vzla
+- uofm
+- google
+- Frat
+- UWMadison
+- wildhockey
+- GopherSports
+- Surface
+- john_yukis_bots
+- Minneapolis
+- Serendipity
+- TwinCities
+- actuary
+- youtubefactsbot
+- SuggestALaptop
+- cscareerquestions
+- LSU
+- Finland
+---

@@ -1,0 +1,24 @@
+---
+title: PS4Deals
+crosslinks:
+- PS4
+- youtubefactsbot
+- GameSale
+- patientgamers
+- PSVR
+- vita
+- Games
+- Rainbow6
+- GameDeals
+- Gamingcirclejerk
+- giftcardexchange
+- bloodborne
+- playstation
+- u_imguralbumbot
+- GameStop
+- AskReddit
+- yugioh
+- PUBATTLEGROUNDS
+- forhonor
+- xboxone
+---

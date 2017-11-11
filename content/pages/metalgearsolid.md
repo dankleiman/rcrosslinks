@@ -1,0 +1,24 @@
+---
+title: metalgearsolid
+crosslinks:
+- youtubefactsbot
+- youtubot
+- NeverBeGameOver
+- livven
+- gaming
+- u_imguralbumbot
+- tmsbmeta
+- GameDeals
+- MetalGearAntiNuclear
+- SolidSnakes
+- DeathStranding
+- HailCorporate
+- residentevil
+- place
+- nohomo_bot
+- pics
+- Gamingcirclejerk
+- MassdropBot
+- rpcs3
+- Gunpla
+---

@@ -1,0 +1,24 @@
+---
+title: goth
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- goth_music
+- MassdropBot
+- releasethebats
+- youtubot
+- autourbanbot
+- gothrock
+- NSBM
+- occult
+- SpookyBox_Fans_Swap
+- tipofmytongue
+- industrialmusic
+- john_yukis_bots
+- politics
+- botsrights
+- xkcd
+- Musicthemetime
+- cringe
+- Socialistmusic
+---

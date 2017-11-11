@@ -1,0 +1,24 @@
+---
+title: osugame
+crosslinks:
+- OsuSkins
+- osureport
+- u_imguralbumbot
+- tmsbmeta
+- place
+- anti_gif_bot
+- livven
+- FuckTokenBot
+- OSU
+- autourbanbot
+- YeXD
+- osumapping
+- titlegore
+- all
+- Roboragi
+- coldgreeneyes
+- lunaticrave2
+- youtubefactsbot
+- pcmasterrace
+- 2007scape
+---

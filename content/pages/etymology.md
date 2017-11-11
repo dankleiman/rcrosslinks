@@ -1,0 +1,24 @@
+---
+title: etymology
+crosslinks:
+- xkcd
+- AskHistorians
+- youtubefactsbot
+- youtubot
+- autourbanbot
+- translator
+- whatstheword
+- todayilearned
+- etymologymaps
+- AskReddit
+- words
+- marijuanaenthusiasts
+- interestingasfuck
+- CollegeBasketball
+- tipofmytongue
+- norwayonreddit
+- Scholar
+- Jokes
+- Yiddish
+- linguistics
+---

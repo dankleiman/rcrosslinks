@@ -1,0 +1,24 @@
+---
+title: Mario
+crosslinks:
+- youtubefactsbot
+- livven
+- gaming
+- nintendo
+- anti_gif_bot
+- youtubot
+- casualnintendo
+- beadsprites
+- MassdropBot
+- GameXPlain
+- titlegore
+- zelda
+- fivenightsatfreddys
+- u_imguralbumbot
+- assholes
+- crappyoffbrands
+- Marioverse
+- stop_motion
+- fuck_mario
+- theydidthemath
+---

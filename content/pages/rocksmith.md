@@ -1,0 +1,24 @@
+---
+title: rocksmith
+crosslinks:
+- youtubefactsbot
+- youtubot
+- CustomsForge
+- musictheory
+- brandnew
+- livven
+- guitarcirclejerk
+- JimSterling
+- Bass
+- anti_gif_bot
+- pcmasterrace
+- Gear4Sale
+- buildapc
+- '2015'
+- gratefuldead
+- Twitch
+- Guitar
+- CabaloftheBuildsmiths
+- Overwatch
+- john_yukis_bots
+---

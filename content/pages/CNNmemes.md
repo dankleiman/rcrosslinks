@@ -1,0 +1,24 @@
+---
+title: CNNmemes
+crosslinks:
+- anti_gif_bot
+- u_imguralbumbot
+- livven
+- youtubefactsbot
+- The_Donald
+- youtubot
+- REEEEEEEEEE
+- AgainstHateSubreddits
+- circlebroke2
+- ShitPoliticsSays
+- tmsbmeta
+- EnoughTrumpSpam
+- legaladvice
+- politics
+- TheNewRight
+- uncensorednews
+- TopMindsOfReddit
+- WayOfTheBern
+- TheMemeWars
+- SubredditDrama
+---

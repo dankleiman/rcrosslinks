@@ -1,0 +1,24 @@
+---
+title: ContagiousLaughter
+crosslinks:
+- youtubefactsbot
+- videos
+- IdiotsFightingThings
+- PUBATTLEGROUNDS
+- LivestreamFail
+- AskReddit
+- youtubehaiku
+- xkcd
+- GamePhysics
+- Overwatch
+- MassdropBot
+- funny
+- tmsbmeta
+- reddCoin
+- botwatch
+- GakiNoTsukai
+- ShitAmericansSay
+- eyebleachrequestbot
+- meirl
+- ImageStabilization
+---

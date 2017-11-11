@@ -1,0 +1,24 @@
+---
+title: badgovnofreedom
+crosslinks:
+- autotldr
+- europrivacy
+- politics
+- botwatch
+- privacy
+- socialism
+- DuplicatesBot
+- todayilearned
+- PressFreedom
+- MassdropBot
+- MyNewsGuru
+- postnationalist
+- canada
+- immigrant
+- technology
+- firefox
+- POLITIC
+- LimaCharlieNews
+- spam
+- me_irl
+---

@@ -1,0 +1,24 @@
+---
+title: cassetteculture
+crosslinks:
+- youtubefactsbot
+- TapeKvlt
+- youtubot
+- tapeswaps
+- Serendipity
+- MassdropBot
+- u_imguralbumbot
+- LofiHipHop
+- SmallYTChannel
+- autotldr
+- DIYmusic
+- vinyl
+- Vaporwave
+- indieheads
+- woahdude
+- DumpsterDiving
+- macdemarco
+- lapfoxtrax
+- regularcarreviews
+- Flipping
+---

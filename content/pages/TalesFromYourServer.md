@@ -1,0 +1,24 @@
+---
+title: TalesFromYourServer
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- SubredditDrama
+- TalesFromTheFrontDesk
+- MaliciousCompliance
+- TalesFromRetail
+- youtubot
+- ShitAmericansSay
+- TalesFromTheCustomer
+- AskReddit
+- TalesFromThePizzaGuy
+- excgarated
+- LosAngeles
+- IDontWorkHereLady
+- Drama
+- worstof
+- bartenders
+- StoriesAboutKevin
+- tax
+- justiceporn
+---

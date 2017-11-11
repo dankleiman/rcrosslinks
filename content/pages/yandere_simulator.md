@@ -1,0 +1,24 @@
+---
+title: yandere_simulator
+crosslinks:
+- youtubefactsbot
+- yandere_simulator_
+- u_imguralbumbot
+- youtubot
+- spnati
+- livven
+- yandere
+- autourbanbot
+- nocontext
+- danganronpa
+- tmsbmeta
+- rupaulsdragrace
+- Unity3D
+- place
+- csshelp
+- Undertale
+- cats
+- RimWorld
+- TsundereSharks
+- help
+---

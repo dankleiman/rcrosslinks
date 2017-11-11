@@ -1,0 +1,24 @@
+---
+title: ems
+crosslinks:
+- youtubefactsbot
+- livven
+- tmsbmeta
+- Firefighting
+- ProtectAndServe
+- u_imguralbumbot
+- nursing
+- medicine
+- pics
+- anti_gif_bot
+- medicalschool
+- autourbanbot
+- autotldr
+- bestof
+- exmormon
+- explainlikeimfive
+- nottheonion
+- nocontext
+- EKGs
+- news
+---

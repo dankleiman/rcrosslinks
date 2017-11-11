@@ -1,0 +1,24 @@
+---
+title: sffpc
+crosslinks:
+- buildapc
+- Amd
+- u_imguralbumbot
+- hardwareswap
+- youtubefactsbot
+- buildapcsales
+- nvidia
+- youtubot
+- hardware
+- battlestations
+- Phanteks
+- VFIO
+- MechanicalKeyboards
+- pcmasterrace
+- buildapcsalesuk
+- watercooling
+- PostPreview
+- techsupport
+- btc
+- gamingpc
+---

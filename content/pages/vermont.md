@@ -1,0 +1,24 @@
+---
+title: vermont
+crosslinks:
+- autotldr
+- burlington
+- youtubefactsbot
+- trees
+- dataisbeautiful
+- u_imguralbumbot
+- humanism
+- NOWTTYG
+- Random_Acts_Of_Pizza
+- SCP
+- AmericanPlantSwap
+- gunpolitics
+- longtrail
+- NPR
+- britishcolumbia
+- The_Donald
+- icecoast
+- montpelier
+- Overwatch
+- redditrequest
+---

@@ -1,0 +1,24 @@
+---
+title: recruitinghell
+crosslinks:
+- youtubefactsbot
+- jobs
+- xkcd
+- cscareerquestions
+- ChoosingBeggars
+- u_imguralbumbot
+- boston
+- uAlberta
+- youtubot
+- neoliberal
+- INAT
+- Accounting
+- ProgrammerDadJokes
+- memes
+- SwordOrSheath
+- botwatch
+- guns
+- ShitAmericansSay
+- homelab
+- Pxlsspace
+---

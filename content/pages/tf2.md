@@ -1,0 +1,24 @@
+---
+title: tf2
+crosslinks:
+- youtubefactsbot
+- RequestABot
+- u_imguralbumbot
+- livven
+- truetf2
+- anti_gif_bot
+- GlobalOffensive
+- The_Gaben
+- Overwatch
+- botpopularitybot
+- TF2WeaponIdeas
+- tf2shitposterclub
+- youtubot
+- xkcd
+- Steam
+- gaming
+- NewToTF2
+- DotA2
+- john_yukis_bots
+- nocontext
+---

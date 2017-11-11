@@ -1,0 +1,24 @@
+---
+title: Cartalk
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- AutoDetailing
+- MechanicAdvice
+- subaru
+- Justrolledintotheshop
+- Miata
+- oap
+- alotabot
+- cars
+- carbuying
+- Hyundai
+- botwatch
+- FordFocus
+- VXJunkies
+- tattoos
+- whatcarshouldibuy
+- MechanicalEngineering
+- lifehacks
+- Autobody
+---

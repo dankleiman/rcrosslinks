@@ -1,0 +1,24 @@
+---
+title: SushiAbomination
+crosslinks:
+- shittyfoodporn
+- youtubefactsbot
+- food
+- sushi
+- SubAutoCorrectBot
+- copypasta
+- MassdropBot
+- NegativeWithGold
+- trypophobia
+- keto
+- assholedesign
+- engrish
+- iamveryclassy
+- redorchestra
+- WeWantPlates
+- youtubot
+- unexpectedsabaton
+- WTF
+- BrasilOnReddit
+- venturacounty
+---

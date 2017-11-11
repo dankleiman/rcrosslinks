@@ -1,0 +1,24 @@
+---
+title: PostAndBecomeAMod
+crosslinks:
+- AutoMauderator
+- vexillology
+- tmsbmeta
+- anti_gif_bot
+- livven
+- MassdropBot
+- youtubefactsbot
+- ShittyPoetry
+- cats
+- AskReddit
+- toolbox
+- Ooer
+- BotsScrewingUp
+- morbidquestions
+- u_LevyMartinez
+- vexillologycirclejerk
+- GoForGold
+- shittyama
+- delusionalartists
+- meme
+---

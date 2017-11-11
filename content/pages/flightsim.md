@@ -1,0 +1,24 @@
+---
+title: flightsim
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- flying
+- hoggit
+- youtubot
+- livven
+- buildapc
+- anti_gif_bot
+- aviation
+- nvidia
+- hotas
+- place
+- DataHoarder
+- Windows10
+- xkcd
+- alotabot
+- funny
+- firstdayontheinternet
+- IAmA
+- SubredditSimulator
+---

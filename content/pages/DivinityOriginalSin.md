@@ -1,0 +1,24 @@
+---
+title: DivinityOriginalSin
+crosslinks:
+- ShadowBan
+- youtubefactsbot
+- DivinityOriginalSin2
+- gatekeeping
+- anti_gif_bot
+- nocontext
+- livven
+- fnv
+- Steam
+- xkcd
+- techsupport
+- shroudoftheavatar_raw
+- funny
+- hearthstone
+- botwatch
+- youtubot
+- HaloOnline
+- buildmeapc
+- unexpectedjihad
+- iamverybadass
+---

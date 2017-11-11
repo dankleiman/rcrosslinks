@@ -1,0 +1,24 @@
+---
+title: wiiu
+crosslinks:
+- WiiUHacks
+- youtubefactsbot
+- NintendoSwitch
+- zelda
+- nintendo
+- devils_third
+- gamecollecting
+- Games
+- wiiuhacks
+- Xenoblade_Chronicles
+- GameSale
+- splatoon
+- MarioMaker
+- WiiHacks
+- 3DS
+- Twitch
+- cemu
+- tmsbmeta
+- livven
+- youtubot
+---

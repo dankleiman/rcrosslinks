@@ -1,0 +1,24 @@
+---
+title: pakistan
+crosslinks:
+- youtubefactsbot
+- autotldr
+- india
+- youtubot
+- exmuslim
+- CombatFootage
+- islam
+- worldnews
+- place
+- bakchodi
+- worstof
+- autourbanbot
+- Cricket
+- SubredditDrama
+- ExplorePakistan
+- geopolitics
+- technology
+- IndiaSpeaks
+- Sikh
+- Turkey
+---

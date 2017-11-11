@@ -1,0 +1,24 @@
+---
+title: lawschooladmissions
+crosslinks:
+- LSAT
+- LawSchool
+- youtubefactsbot
+- GRE
+- consulting
+- john_yukis_bots
+- MassdropBot
+- MBA
+- bulletjournal
+- msaeachubaets
+- anti_gif_bot
+- relationships
+- trashyboners
+- wallstreetbets
+- BingeEatingDisorder
+- stocks
+- aznidentity
+- AskMen
+- youtubot
+- tmsbmeta
+---

@@ -1,0 +1,24 @@
+---
+title: SocialJusticeInAction
+crosslinks:
+- youtubefactsbot
+- autotldr
+- worldnews
+- youtubot
+- Drama
+- GamerGhazi
+- TumblrInAction
+- Anarchism
+- The_Donald
+- sjwhate
+- xkcd
+- southafrica
+- livven
+- subredditcancer
+- autourbanbot
+- evergreen
+- KotakuInAction
+- SargonofAkkad
+- CanadaPolitics
+- Documentaries
+---

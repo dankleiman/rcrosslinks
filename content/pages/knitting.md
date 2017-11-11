@@ -1,0 +1,24 @@
+---
+title: knitting
+crosslinks:
+- crochet
+- u_imguralbumbot
+- youtubot
+- youtubefactsbot
+- livven
+- Kitting
+- Drunkknitting
+- MassdropBot
+- succulents
+- casualknitting
+- john_yukis_bots
+- MachineKnitting
+- alotabot
+- viralknitsdevchat
+- bistitchual
+- Yarnswap
+- yarntrolls
+- LoomKnitting
+- Etsy
+- Dallas
+---

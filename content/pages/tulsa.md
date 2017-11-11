@@ -1,0 +1,24 @@
+---
+title: tulsa
+crosslinks:
+- youtubefactsbot
+- autotldr
+- oklahoma
+- autourbanbot
+- xkcd
+- livven
+- tmsbmeta
+- TulsaAreaJobs
+- u_imguralbumbot
+- kansascity
+- food
+- movies
+- shittylegaladvice
+- PublicFreakout
+- analog
+- PokemonGoTulsa
+- GoTlinks
+- pics
+- AmIFreeToGo
+- NegativeWithGold
+---

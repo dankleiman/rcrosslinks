@@ -1,0 +1,24 @@
+---
+title: tifu
+crosslinks:
+- AskReddit
+- tmsbmeta
+- IAmA
+- WTF
+- funny
+- Cocofleshlights
+- pics
+- GetMotivated
+- RedditsMuseumofFilth
+- SuicideWatch
+- OutOfTheLoop
+- nosleep
+- todayilearned
+- hatchery
+- undelete
+- youtubot
+- Jokes
+- gifs
+- personalfinance
+- aww
+---

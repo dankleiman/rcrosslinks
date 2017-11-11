@@ -1,0 +1,24 @@
+---
+title: pcmasterrace
+crosslinks:
+- xkcd
+- anti_gif_bot
+- autotldr
+- buildapc
+- SuggestALaptop
+- MechanicalKeyboards
+- buildapcsales
+- MassdropBot
+- microsoftsoftwareswap
+- youtubot
+- overclocking
+- G502MasterRace
+- hardwareswap
+- techsupport
+- ultrawidemasterrace
+- botpopularitybot
+- '2013'
+- headphones
+- gifs
+- TronScript
+---

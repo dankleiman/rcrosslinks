@@ -1,0 +1,24 @@
+---
+title: nier
+crosslinks:
+- youtubefactsbot
+- Pixiv
+- livven
+- 2Booty
+- u_imguralbumbot
+- nierautomataconcert
+- youtubot
+- 2Bx9S
+- PS4
+- anti_gif_bot
+- tmsbmeta
+- Amd
+- Games
+- MassdropBot
+- Gamingcirclejerk
+- bloodborne
+- pcgaming
+- PSW
+- ShadowBan
+- SINoALICE_en
+---

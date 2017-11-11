@@ -1,0 +1,24 @@
+---
+title: computerscience
+crosslinks:
+- learnprogramming
+- autotldr
+- cscareerquestions
+- u_imguralbumbot
+- SuggestALaptop
+- buildapc
+- VirginiaTech
+- laptops
+- dailyprogrammer_ideas
+- theydidthemath
+- learnpython
+- explainlikeimfive
+- AskProgramming
+- cs50
+- wireless
+- Crouton
+- bioinformatics
+- dailyprogrammer
+- selfhosted
+- APStudents
+---

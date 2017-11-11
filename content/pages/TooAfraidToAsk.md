@@ -1,0 +1,24 @@
+---
+title: TooAfraidToAsk
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- hapas
+- youtubot
+- IAmA
+- vegan
+- badscience
+- help
+- MuseumOfReddit
+- mylittlepony
+- askscience
+- NSFW411
+- legal
+- MMFB
+- taekwondo
+- WriteJPN_EigoDeKakou
+- BlueMidterm2018
+- ChicagoSuburbs
+- legaladvice
+- Arkansas
+---

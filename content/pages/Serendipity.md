@@ -1,0 +1,24 @@
+---
+title: Serendipity
+crosslinks:
+- anti_gif_bot
+- autotldr
+- livven
+- theunexplained
+- Stance
+- AjaxAmsterdam
+- RedvsBlue
+- howardstern
+- UnsolvedMurders
+- learntodraw
+- no_sob_story
+- bapcsalesaustralia
+- BigMurph26
+- SmithAndWesson
+- toradora
+- CarletonU
+- SampleSize
+- mylittleandysonic1
+- knightsofsidonia
+- EDC
+---

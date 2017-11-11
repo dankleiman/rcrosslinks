@@ -1,0 +1,24 @@
+---
+title: Libertarian
+crosslinks:
+- autotldr
+- youtubefactsbot
+- Shitstatistssay
+- Anarcho_Capitalism
+- youtubot
+- EnoughLibertarianSpam
+- LateStageCapitalism
+- GoldandBlack
+- The_Donald
+- politics
+- offthechopper
+- socialism
+- Physical_Removal
+- Conservative
+- libertarianmeme
+- neoliberal
+- Anarchism
+- LibertarianPartyUSA
+- AskHistorians
+- xkcd
+---

@@ -1,0 +1,24 @@
+---
+title: IdiotsInCars
+crosslinks:
+- youtubefactsbot
+- Roadcam
+- livven
+- WTF
+- anti_gif_bot
+- youtubot
+- gifs
+- Whatcouldgowrong
+- tmsbmeta
+- Dashcam
+- petfree
+- PeopleBeingJerks
+- xkcd
+- GTAorRussia
+- botwatch
+- ANormalDayInRussia
+- Miata
+- therewasanattempt
+- WinStupidPrizes
+- WhyWereTheyFilming
+---

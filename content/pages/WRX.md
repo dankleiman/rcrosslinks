@@ -1,0 +1,24 @@
+---
+title: WRX
+crosslinks:
+- subaru
+- youtubefactsbot
+- youtubot
+- SubaruEmbassy
+- FocusST
+- cars
+- u_imguralbumbot
+- AutoDetailing
+- personalfinance
+- MassdropBot
+- fuckHOA
+- AirForce
+- me_irl
+- ATBGE
+- subaru_ct
+- RoastMyCar
+- botpopularitybot
+- botwatch
+- pics
+- Duk
+---

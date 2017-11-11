@@ -1,0 +1,24 @@
+---
+title: Parenting
+crosslinks:
+- vegan
+- AskReddit
+- youtubot
+- daddit
+- u_imguralbumbot
+- nosurf
+- xkcd
+- TwoXChromosomes
+- relationships
+- raisedbynarcissists
+- legaladvice
+- sleeptrain
+- explainlikeimfive
+- polyamory
+- BabyBumps
+- IAmA
+- AskMen
+- wholesomememes
+- Stoicism
+- Mommit
+---

@@ -1,0 +1,24 @@
+---
+title: theydidthemath
+crosslinks:
+- youtubefactsbot
+- livven
+- xkcd
+- theydidntdothemath
+- askscience
+- bestof
+- anti_gif_bot
+- AskReddit
+- nocontext
+- dataisbeautiful
+- pics
+- funny
+- youtubot
+- u_imguralbumbot
+- todayilearned
+- badmathematics
+- Frugal_Jerk
+- shittyaskscience
+- MassdropBot
+- askmath
+---

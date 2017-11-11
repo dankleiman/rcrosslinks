@@ -1,0 +1,24 @@
+---
+title: ActionFigures
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- toyexchange
+- starwarscollecting
+- MassdropBot
+- transformers
+- ACBA
+- AnimeFigures
+- tmsbmeta
+- funkopop
+- youtubot
+- One12Collective
+- ArticulatedPlastic
+- anti_gif_bot
+- StarWars
+- livven
+- SonofBatman
+- pics
+- whowouldwin
+- gijoe
+---

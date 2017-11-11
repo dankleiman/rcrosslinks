@@ -1,0 +1,24 @@
+---
+title: DebateFascism
+crosslinks:
+- youtubefactsbot
+- US_Strasserism
+- AskHistorians
+- CapitalismVSocialism
+- LeftCentral
+- DebateCommunism
+- youtubot
+- badhistory
+- vero_possumus
+- AgainstHateSubreddits
+- Anarchism
+- Anarcho_Capitalism
+- syriancivilwar
+- badeconomics
+- DebateAltRight
+- EnoughCommieSpam
+- The_Donald
+- AskReddit
+- monarchism
+- WhatsMyIdeology
+---

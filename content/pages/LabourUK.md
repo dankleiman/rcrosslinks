@@ -1,0 +1,24 @@
+---
+title: LabourUK
+crosslinks:
+- ukpolitics
+- youtubot
+- unitedkingdom
+- Labour
+- Enough_Sanders_Spam
+- SKZCartoons
+- Milifans
+- ChapoTrapHouse
+- SocialDemocracy
+- livven
+- neoliberal
+- xkcd
+- u_imguralbumbot
+- legaladvice
+- worldnews
+- badeconomics
+- Scotland
+- LabourLewis
+- alotabot
+- autourbanbot
+---

@@ -1,0 +1,24 @@
+---
+title: vim
+crosslinks:
+- neovim
+- xkcd
+- unixporn
+- redditrequest
+- mechmarket
+- vimplugins
+- emacs
+- askscience
+- youtubot
+- waterfox
+- perl
+- youtubefactsbot
+- UnixWallpapers
+- PoliticalHumor
+- Gentoo
+- badlinguistics
+- dotfiles
+- VisualStudio
+- rust
+- MassdropBot
+---

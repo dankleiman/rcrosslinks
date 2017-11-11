@@ -1,0 +1,24 @@
+---
+title: gadgets
+crosslinks:
+- xkcd
+- technology
+- Android
+- shittykickstarters
+- AskReddit
+- nintendo
+- raspberry_pi
+- pcmasterrace
+- TipJarBot
+- gaming
+- apple
+- Dell
+- pics
+- buildapc
+- emulation
+- AdviceAnimals
+- oculus
+- DIY
+- IAmA
+- hatchery
+---

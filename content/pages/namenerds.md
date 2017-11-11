@@ -1,0 +1,24 @@
+---
+title: namenerds
+crosslinks:
+- youtubefactsbot
+- confession
+- youtubot
+- AskReddit
+- BabyNameLab
+- autourbanbot
+- u_imguralbumbot
+- farsi
+- totallynotrobots
+- medicine
+- asoiaf
+- teenmom
+- unexpectedhogwarts
+- translator
+- raisedbynarcissists
+- cambodia
+- Outlander
+- Hedgehog
+- yesyesyesno
+- fuckolly
+---

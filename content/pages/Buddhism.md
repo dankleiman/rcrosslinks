@@ -1,0 +1,24 @@
+---
+title: Buddhism
+crosslinks:
+- zen
+- youtubefactsbot
+- DhammaBooks
+- Meditation
+- youtubot
+- badEasternPhilosophy
+- thaiforest
+- streamentry
+- dhammawheel
+- autotldr
+- vegan
+- TheMindIlluminated
+- vajrayana
+- laughingbuddha
+- chan
+- metta
+- u_imguralbumbot
+- MassdropBot
+- Drugs
+- AskReddit
+---

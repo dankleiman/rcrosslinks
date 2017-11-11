@@ -1,0 +1,24 @@
+---
+title: NYCbike
+crosslinks:
+- bicycleculture
+- nyc
+- bicycling
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- bikecommuting
+- anti_gif_bot
+- nottheonion
+- bikepaths
+- Bushwick
+- cycling
+- autourbanbot
+- west
+- Bensonhurst
+- Citibike
+- MaliciousCompliance
+- AskReddit
+- botwatch
+- MassdropBot
+---

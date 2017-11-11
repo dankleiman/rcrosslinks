@@ -1,0 +1,24 @@
+---
+title: Glocks
+crosslinks:
+- youtubefactsbot
+- gundeals
+- guns
+- GlockMod
+- u_imguralbumbot
+- CCW
+- Firearms
+- Gunsforsale
+- ar15
+- youtubot
+- glock43
+- ccw
+- Shotguns
+- GunPorn
+- weekendgunnit
+- EDC
+- gunsforsale
+- motorcycles
+- GunHolsterClassifieds
+- autourbanbot
+---

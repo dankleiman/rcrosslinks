@@ -1,0 +1,24 @@
+---
+title: movies
+crosslinks:
+- IAmA
+- AskReddit
+- u_imguralbumbot
+- todayilearned
+- StarWars
+- RedditAlternatives
+- videos
+- DC_Cinematic
+- TrueFilm
+- funny
+- FanTheories
+- PrequelMemes
+- john_yukis_bots
+- marvelstudios
+- pics
+- tipofmytongue
+- television
+- AskHistorians
+- The_Donald
+- moviescirclejerk
+---

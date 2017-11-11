@@ -1,0 +1,24 @@
+---
+title: thepapinis
+crosslinks:
+- Sherri_Papini
+- Redding
+- blogsnark
+- youtubefactsbot
+- JanuaryProject
+- MarkMyWords
+- announcements
+- modhelp
+- goldbenefits
+- u_imguralbumbot
+- UnresolvedMysteries
+- trueprivinv
+- tall
+- Nurses
+- woahdude
+- aves
+- ShadowBan
+- AskReddit
+- conspiracy
+- help
+---

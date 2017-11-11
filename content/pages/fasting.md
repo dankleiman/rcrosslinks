@@ -1,0 +1,24 @@
+---
+title: fasting
+crosslinks:
+- keto
+- youtubot
+- intermittentfasting
+- youtubefactsbot
+- zerocarb
+- ketogains
+- IAmA
+- DMT
+- u_imguralbumbot
+- PSMF
+- omad
+- leangains
+- ketoscience
+- Fitness
+- vegetarianketo
+- xxketo
+- science
+- ketorecipes
+- Infographics
+- askscience
+---

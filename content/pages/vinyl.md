@@ -1,0 +1,24 @@
+---
+title: vinyl
+crosslinks:
+- VinylCollectors
+- youtubefactsbot
+- youtubot
+- audiophile
+- livven
+- tmsbmeta
+- vintageaudio
+- VinylReleases
+- Jazz
+- VinylMePlease
+- VinylDeals
+- alotabot
+- DIY
+- vinyljerk
+- AverageJoeAudiophile
+- heavyvinyl
+- drunkhifi
+- autotldr
+- KGATLW
+- hiphopvinyl
+---

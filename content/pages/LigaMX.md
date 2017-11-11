@@ -1,0 +1,24 @@
+---
+title: LigaMX
+crosslinks:
+- youtubefactsbot
+- rayados
+- soccer
+- LaFiera
+- MLS
+- CruzAzul
+- youtubot
+- ClubAmerica
+- u_imguralbumbot
+- livven
+- tmsbmeta
+- wholesomeligamx
+- cringepics
+- sportsbook
+- ussoccer
+- alotabot
+- UnresolvedMysteries
+- AskReddit
+- Ligue1
+- sports
+---

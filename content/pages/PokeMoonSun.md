@@ -1,0 +1,24 @@
+---
+title: PokeMoonSun
+crosslinks:
+- pokemon
+- pokemontrades
+- kappabowlpraise
+- youtubefactsbot
+- powersaves3ds
+- PokemonPlaza
+- CasualPokemonTrades
+- Pokemongiveaway
+- stunfisk
+- PokemonCreate
+- tmsbmeta
+- FestivalPlaza
+- BreedingDittos
+- SVExchange
+- easymons
+- youtubot
+- ShinyPokemon
+- alotabot
+- PokemonLeague3DS
+- anti_gif_bot
+---

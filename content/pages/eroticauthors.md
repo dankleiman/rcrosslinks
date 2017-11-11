@@ -1,0 +1,24 @@
+---
+title: eroticauthors
+crosslinks:
+- u_imguralbumbot
+- romanceauthors
+- sexystories
+- tmsbmeta
+- nsfwforhire
+- AskReddit
+- selfpublish
+- MealPrepSunday
+- youtubefactsbot
+- writing
+- bimbofication
+- worldbuilding
+- WritingPrompts
+- human_resources
+- bulletjournal
+- Fibromyalgia
+- MechanicalKeyboards
+- freeuse
+- casualiama
+- AMAAggregator
+---

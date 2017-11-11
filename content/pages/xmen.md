@@ -1,0 +1,24 @@
+---
+title: xmen
+crosslinks:
+- Marvel
+- youtubefactsbot
+- comicbooks
+- autotldr
+- youtubot
+- u_imguralbumbot
+- Cyclopswasright
+- movies
+- anti_gif_bot
+- EnglishLearning
+- john_yukis_bots
+- continuityporn
+- Nightcrawler
+- yaoi
+- FanTheories
+- ireadcomicbooks
+- AskScienceFiction
+- Gambit
+- comicbookmovies
+- Runaways
+---

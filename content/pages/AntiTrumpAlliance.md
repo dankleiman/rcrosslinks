@@ -1,0 +1,24 @@
+---
+title: AntiTrumpAlliance
+crosslinks:
+- autotldr
+- EnoughTrumpSpam
+- all
+- BannedFromThe_Donald
+- politics
+- livven
+- IndivisibleGuide
+- youtubefactsbot
+- The_Donald
+- BlueMidterm2018
+- esist
+- milliondollarextreme
+- Economics
+- WayOfTheBern
+- The_Duped
+- xkcd
+- SubredditDrama
+- indivisibleguide
+- WorldWithoutTyrants
+- WikiLeaks
+---

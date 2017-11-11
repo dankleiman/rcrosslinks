@@ -1,0 +1,24 @@
+---
+title: TheOrville
+crosslinks:
+- startrek
+- youtubefactsbot
+- IAmA
+- autotldr
+- television
+- cordcutters
+- DaystromInstitute
+- scifi
+- RomeSweetRome
+- youtubot
+- u_imguralbumbot
+- DarkMatter
+- iama
+- Stargate
+- ShittyDaystrom
+- AskReddit
+- Drama
+- SciFiModels
+- Masterchef
+- marijuanaenthusiasts
+---

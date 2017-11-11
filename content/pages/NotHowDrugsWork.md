@@ -1,0 +1,24 @@
+---
+title: NotHowDrugsWork
+crosslinks:
+- HowDrugsWork
+- botwatch
+- drugscirclejerk
+- Drugs
+- QuotesPorn
+- ChargeYourPhone
+- botpopularitybot
+- ambien
+- autourbanbot
+- trees
+- replications
+- todayilearned
+- gatekeeping
+- thatHappened
+- woahdude
+- MassdropBot
+- DrugNerds
+- causeWhyNotMate
+- botsrights
+- UsernameChecksOut
+---

@@ -1,0 +1,24 @@
+---
+title: Megaten
+crosslinks:
+- youtubefactsbot
+- Persona5
+- youtubot
+- tmsbmeta
+- adulthate
+- demifiendnocturne
+- u_imguralbumbot
+- personajerk
+- PERSoNA
+- anti_gif_bot
+- livven
+- MassdropBot
+- john_yukis_bots
+- JRPG
+- ShinMegamiHentai
+- fireemblem
+- Ninto55
+- Games
+- ZeroEscape
+- Gamingcirclejerk
+---

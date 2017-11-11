@@ -1,0 +1,24 @@
+---
+title: greenday
+crosslinks:
+- youtubefactsbot
+- weezer
+- MassdropBot
+- The_Donald
+- AskReddit
+- Music
+- ainbowroad
+- PixelPlaceApp
+- SubredditDrama
+- Guitar
+- DetroitRedWings
+- Muse
+- GoForGold
+- place
+- EnoughTrumpSpam
+- Pxlsspace
+- Sum41
+- 4PanelCringe
+- TwistMyAMA
+- gaming
+---

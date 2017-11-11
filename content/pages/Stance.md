@@ -1,0 +1,24 @@
+---
+title: Stance
+crosslinks:
+- u_imguralbumbot
+- MassdropBot
+- Serendipity
+- Volkswagen
+- livven
+- cars
+- outrun
+- HotWheels
+- Porsche
+- Corvette
+- volvo
+- AutoDetailing
+- john_yukis_bots
+- funny
+- carporn
+- mazda
+- Shittyopinions
+- offroad
+- youtubefactsbot
+- BMW
+---

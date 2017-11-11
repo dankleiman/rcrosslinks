@@ -1,0 +1,24 @@
+---
+title: sabaton
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- talesfromtechsupport
+- u_imguralbumbot
+- eu4
+- lewronggeneration
+- MassdropBot
+- unexpectedsabaton
+- nocontext
+- mountandblade
+- UnexpectedHaiku
+- ThatsWhatSheSaid
+- ShitWehraboosSay
+- place
+- poland
+- asshole
+- fakeid
+- SwedenOnPlace
+- WorldOfWarships
+---

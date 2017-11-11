@@ -1,0 +1,24 @@
+---
+title: Vaporwave
+crosslinks:
+- youtubot
+- makingvaporwave
+- VaporwaveAesthetics
+- futurefunk
+- cassetteculture
+- Hyperbattle
+- VaporwaveArt
+- outrun
+- DataHoarder
+- livven
+- simpsonswave
+- synthwave
+- Monstercat
+- EDM
+- Roboragi
+- VXJunkies
+- intothetunnel
+- cowboybebop
+- pol
+- Vape
+---

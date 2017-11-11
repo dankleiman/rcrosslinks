@@ -1,0 +1,24 @@
+---
+title: PBSOD
+crosslinks:
+- softwaregore
+- pcmasterrace
+- pics
+- itrunsdoom
+- youtubefactsbot
+- france
+- glitch_art
+- ottawa
+- livven
+- vizrt
+- unexpectedaperture
+- fire_snyper
+- engrish
+- ProCSS
+- Cyberpunk
+- u_imguralbumbot
+- botpopularitybot
+- Windows10
+- techsupportgore
+- anti_gif_bot
+---

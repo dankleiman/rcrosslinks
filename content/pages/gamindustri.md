@@ -1,0 +1,24 @@
+---
+title: gamindustri
+crosslinks:
+- youtubefactsbot
+- Pixiv
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- livven
+- tmsbmeta
+- 49ers
+- place
+- autourbanbot
+- GreenLattice
+- touhou
+- xkcd
+- NintendoSwitch
+- NepLewds
+- Dakimakuras
+- RWBY
+- Gunime
+- JusticeServed
+- animearmpits
+---

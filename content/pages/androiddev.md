@@ -1,0 +1,24 @@
+---
+title: androiddev
+crosslinks:
+- Android
+- youtubefactsbot
+- androidapps
+- u_imguralbumbot
+- xkcd
+- youtubot
+- autotldr
+- anti_gif_bot
+- tmsbmeta
+- programming
+- tasker
+- AppIdeas
+- livven
+- learnandroid
+- john_yukis_bots
+- java
+- Kotlin
+- learnprogramming
+- gameDevClassifieds
+- cscareerquestions
+---

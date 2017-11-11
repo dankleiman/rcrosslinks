@@ -1,0 +1,24 @@
+---
+title: LeagueOfVideos
+crosslinks:
+- leagueoflegends
+- MassdropBot
+- youtubefactsbot
+- ThreshMains
+- botwatch
+- REEEEEEEEEE
+- Illaoi
+- SwainMains
+- bardmains
+- GravesMains
+- anti_gif_bot
+- TaliyahMains
+- CLG
+- singedmains
+- FioraMains
+- Rivenmains
+- TeemoTalk
+- AMAAggregator
+- WatchVayneDie
+- ItsDraven
+---

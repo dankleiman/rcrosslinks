@@ -1,0 +1,24 @@
+---
+title: Frisson
+crosslinks:
+- youtubefactsbot
+- videos
+- pics
+- youtubot
+- livven
+- xkcd
+- BritainsGotTalent
+- happycrowds
+- space
+- MassdropBot
+- botwatch
+- Art
+- wholesomememes
+- autotldr
+- gifs
+- IAmA
+- writingprompts
+- randomactsofmusic
+- nba
+- indieheads
+---

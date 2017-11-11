@@ -1,0 +1,24 @@
+---
+title: Forex
+crosslinks:
+- forextrades
+- youtubefactsbot
+- wallstreetbets
+- algotrading
+- u_imguralbumbot
+- anti_gif_bot
+- tradingmemes
+- IAmA
+- livven
+- youtubot
+- forexfactory
+- forexbets
+- Donald
+- Eve
+- ethtrader
+- Advice
+- metric_units
+- 1zc2yc6
+- smoknfx
+- openforex
+---

@@ -1,0 +1,24 @@
+---
+title: badpolitics
+crosslinks:
+- The_Donald
+- AskHistorians
+- badphilosophy
+- Anarcho_Capitalism
+- IAmA
+- Indiana
+- Anarchy101
+- politics
+- AskReddit
+- news
+- MassdropBot
+- Conservative
+- badhistory
+- BlueMidterm2018
+- HateSubsInAction
+- Ask_Politics
+- AskNYC
+- AdviceAnimals
+- xkcd
+- conspiratard
+---

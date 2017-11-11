@@ -1,0 +1,24 @@
+---
+title: festivals
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- MassdropBot
+- Coachella
+- ElectricForest
+- electricdaisycarnival
+- Tipper
+- anti_gif_bot
+- OregonEclipse
+- bassnectar
+- scamp
+- Lollapalooza
+- quityourbullshit
+- FestivalPassport
+- VOLTfestival
+- botwatch
+- Reddaroo
+- LightningInABottle
+- BonanzaCampout17
+---

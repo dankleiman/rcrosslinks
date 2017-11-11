@@ -1,0 +1,24 @@
+---
+title: PrettyGirlsUglyFaces
+crosslinks:
+- u_imguralbumbot
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- handsomeguysuglyfaces
+- john_yukis_bots
+- lonely
+- reactiongifs
+- autourbanbot
+- SubAutoCorrectBot
+- pics
+- WTF
+- tmsbmeta
+- Blep
+- androidcirclejerk
+- videos
+- MaliciousCompliance
+- bois
+- ladybeards
+- Machinists
+---

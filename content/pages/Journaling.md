@@ -1,0 +1,24 @@
+---
+title: Journaling
+crosslinks:
+- DiaryOfARedditor
+- monobo
+- bulletjournal
+- codes
+- livven
+- LifeProTips
+- youtubefactsbot
+- Handwriting
+- productivity
+- elianscript
+- Calligraphy
+- notebooks
+- Pen_Swap
+- journalingisart
+- cicada
+- ZenHabits
+- SuicideWatch
+- shorthand
+- JournalTheWorld
+- youtubot
+---

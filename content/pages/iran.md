@@ -1,0 +1,24 @@
+---
+title: iran
+crosslinks:
+- autotldr
+- youtubefactsbot
+- OnThisDateInBahai
+- MassdropBot
+- livven
+- pakistan
+- exbahai
+- etymology
+- place
+- worldnews
+- Zoroastrianism
+- magicskyfairy
+- islam
+- anti_gif_bot
+- persianfood
+- vegan
+- Shit
+- america
+- AskReddit
+- racism
+---

@@ -1,0 +1,24 @@
+---
+title: artificial
+crosslinks:
+- autotldr
+- MachineLearning
+- youtubefactsbot
+- ControlProblem
+- agi
+- youtubot
+- xkcd
+- RebelScience
+- LanguageTechnology
+- learnprogramming
+- askscience
+- startups
+- AutoNewspaper
+- tmsbmeta
+- DuplicatesBot
+- findapath
+- AIfromscratch
+- gamedev
+- BotRights
+- automate
+---

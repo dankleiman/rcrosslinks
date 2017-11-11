@@ -1,0 +1,24 @@
+---
+title: bizarrebuildings
+crosslinks:
+- youtubefactsbot
+- BrasilOnReddit
+- evilbuildings
+- bizzarebuildings
+- videos
+- zombiefortress
+- MassdropBot
+- ImaginaryCityscapes
+- interestingasfuck
+- mechanical_gifs
+- tiltshift
+- mildlypenis
+- trypophobia
+- analog
+- food
+- outrun
+- botwatch
+- PortugalOnReddit
+- DunderMifflin
+- youtubot
+---

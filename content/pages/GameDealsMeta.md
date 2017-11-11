@@ -1,0 +1,24 @@
+---
+title: GameDealsMeta
+crosslinks:
+- GameDeals
+- ShouldIbuythisgame
+- Games
+- Steam
+- FreeGameFindings
+- gaming
+- bugs
+- PS4
+- humblebundles
+- pcmasterrace
+- hexcellslevels
+- HalfLife
+- gamingsuggestions
+- GreenManGaming
+- pcgamesales
+- pcgaming
+- BundleDeals
+- gamedeals
+- AmiiboCanada
+- assholedesign
+---

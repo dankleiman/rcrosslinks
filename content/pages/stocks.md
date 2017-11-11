@@ -1,0 +1,24 @@
+---
+title: stocks
+crosslinks:
+- wallstreetbets
+- investing
+- youtubefactsbot
+- Stock_Picks
+- RobinHood
+- u_imguralbumbot
+- personalfinance
+- youtubot
+- weedstocks
+- StockMarket
+- options
+- john_yukis_bots
+- Forex
+- videos
+- pennystocks
+- CryptoCurrency
+- Iota
+- Drama
+- Jokes
+- financialindependence
+---

@@ -1,0 +1,24 @@
+---
+title: Automate
+crosslinks:
+- autotldr
+- Futurology
+- youtubefactsbot
+- BasicIncome
+- AskAMechanic
+- artificial
+- botwatch
+- robotics
+- videos
+- Controlproblem
+- Pyongyang
+- ethereum
+- DeeperTech
+- thisisthewayitwillbe
+- dailyprogrammer
+- CGPGrey
+- BrasilOnReddit
+- todayilearned
+- totallynotrobots
+- baduk
+---

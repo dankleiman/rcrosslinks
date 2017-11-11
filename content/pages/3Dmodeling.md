@@ -1,0 +1,24 @@
+---
+title: 3Dmodeling
+crosslinks:
+- anti_gif_bot
+- youtubefactsbot
+- u_imguralbumbot
+- blender
+- pics
+- blenderhelp
+- Maya
+- MassdropBot
+- photogrammetry
+- Houdini
+- gameDevClassifieds
+- 3DScanning
+- 3DMA
+- oculus_medium
+- delusionalartists
+- mildlypenis
+- functionalprint
+- xdfp
+- computergraphics
+- Amd
+---

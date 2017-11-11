@@ -1,0 +1,24 @@
+---
+title: Metroid
+crosslinks:
+- youtubefactsbot
+- youtubot
+- AM2R
+- anti_gif_bot
+- nintendo
+- u_imguralbumbot
+- 3dshacks
+- NintendoSwitch
+- metroidcirclejerk
+- 3DS
+- livven
+- john_yukis_bots
+- gaming
+- Amiibomb
+- tmsbmeta
+- place
+- metroidvania
+- AskScienceFiction
+- AskReddit
+- '2013'
+---

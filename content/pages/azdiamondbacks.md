@@ -1,0 +1,24 @@
+---
+title: azdiamondbacks
+crosslinks:
+- youtubefactsbot
+- reddit_stream
+- youtubot
+- baseball
+- tmsbmeta
+- Dodgers
+- u_imguralbumbot
+- Cardinals
+- SFGiants
+- ColoradoRockies
+- letsgofish
+- CHICubs
+- botpopularitybot
+- john_yukis_bots
+- nfl
+- Sneks
+- worldpolitics
+- upvotegifs
+- HighQualityGifs
+- Brewers
+---

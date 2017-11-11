@@ -1,0 +1,24 @@
+---
+title: wallpapers
+crosslinks:
+- youtubefactsbot
+- outrun
+- Amoledbackgrounds
+- pics
+- u_imguralbumbot
+- Art
+- youtubot
+- space
+- castles
+- blender
+- Cyberpunk
+- shittyHDR
+- WallpaperRequests
+- xkcd
+- EarthPorn
+- Rainmeter
+- pokemon
+- gaming
+- mildlyinteresting
+- rickandmorty
+---

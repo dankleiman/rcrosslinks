@@ -1,0 +1,24 @@
+---
+title: ShitWehraboosSay
+crosslinks:
+- todayilearned
+- history
+- HistoryPorn
+- AskReddit
+- Warthunder
+- europe
+- AskHistorians
+- worldnews
+- whowouldwin
+- pics
+- TankPorn
+- MilitaryPorn
+- youtubot
+- OldSchoolCool
+- CringeAnarchy
+- RebuttalTime
+- CombatFootage
+- badhistory
+- DerScheisser
+- The_Donald
+---

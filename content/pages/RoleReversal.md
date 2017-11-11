@@ -1,0 +1,24 @@
+---
+title: RoleReversal
+crosslinks:
+- anti_gif_bot
+- livven
+- MensLib
+- xkcd
+- u_imguralbumbot
+- CringeAnarchy
+- gentlefemdom
+- short
+- littleboyspace
+- stevenuniverse
+- theworldisflat
+- AskMen
+- dataisbeautiful
+- awwnime
+- youtubefactsbot
+- MensRights
+- gonewildaudio
+- xxfitness
+- BDSMpersonals
+- dragonsfuckingcars
+---

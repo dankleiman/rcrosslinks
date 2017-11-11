@@ -1,0 +1,24 @@
+---
+title: creepyasterisks
+crosslinks:
+- sadcringe
+- furry_irl
+- creepyPMs
+- OopsDidntMeanTo
+- u_imguralbumbot
+- cringepics
+- neckbeardRPG
+- youclickedthelink
+- totallynotrobots
+- Kappa
+- niceguys
+- youtubot
+- NobodyAsked
+- swoleacceptance
+- Negareddit
+- mallninjashit
+- SubAutoCorrectBot
+- coaxedintoasnafu
+- AteThePasta
+- hilariouscringe
+---

@@ -1,0 +1,24 @@
+---
+title: TotallyStraight
+crosslinks:
+- livven
+- botwatch
+- youtubefactsbot
+- gaypornhunters
+- MassdropBot
+- MensHighJinx
+- GaybrosGoneWild
+- MassiveCock
+- youtubot
+- ladybonersgw
+- NSFW_GAY
+- broslikeus
+- gaycruising
+- menslegs
+- gaystoriesgonewild
+- jobuds
+- GuysInHighSocks
+- u_imguralbumbot
+- funhaus
+- GayGifs
+---

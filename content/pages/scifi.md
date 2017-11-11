@@ -1,0 +1,24 @@
+---
+title: scifi
+crosslinks:
+- youtubefactsbot
+- youtubot
+- xkcd
+- movies
+- startrek
+- printSF
+- TheExpanse
+- autotldr
+- IAmA
+- bestof
+- autourbanbot
+- books
+- The_Donald
+- Fantasy
+- JudgeDredd
+- MassdropBot
+- news
+- askscience
+- HFY
+- bladerunner
+---

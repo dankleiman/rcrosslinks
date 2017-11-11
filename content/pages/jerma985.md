@@ -1,0 +1,24 @@
+---
+title: jerma985
+crosslinks:
+- youtubefactsbot
+- youtubot
+- place
+- u_imguralbumbot
+- tf2
+- MassdropBot
+- livven
+- JonTron
+- gamingcirclejerk
+- autourbanbot
+- JermaHatHair
+- gaming
+- PlaceThugs
+- youtubehaiku
+- Rainbow6
+- Roboragi
+- WeirdWheels
+- STAR_
+- nlsscirclejerk
+- passwordwrittenondesk
+---

@@ -1,0 +1,24 @@
+---
+title: AskEurope
+crosslinks:
+- youtubefactsbot
+- youtubot
+- europe
+- ShitAmericansSay
+- ShitEuropeansSay
+- AskAnAmerican
+- germany
+- MapPorn
+- u_imguralbumbot
+- france
+- AskHistorians
+- ireland
+- de
+- food
+- thenetherlands
+- AskUK
+- xkcd
+- AskReddit
+- Romania
+- belgium
+---

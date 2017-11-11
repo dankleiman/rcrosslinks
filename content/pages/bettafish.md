@@ -1,0 +1,24 @@
+---
+title: bettafish
+crosslinks:
+- Aquariums
+- u_imguralbumbot
+- livven
+- anti_gif_bot
+- AquaSwap
+- PlantedTank
+- youtubot
+- aww
+- metric_units
+- JosVermeulen
+- me_irl
+- youtubefactsbot
+- tmsbmeta
+- firstworldanarchists
+- botwatch
+- AquariumMemes
+- shrimptank
+- BeforeNAfterAdoption
+- aquariums
+- Nightcrawler
+---

@@ -1,0 +1,24 @@
+---
+title: whatsthisbird
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- birdpics
+- anti_gif_bot
+- AnimalSounds
+- budgies
+- birding
+- species
+- WildlifeRehab
+- Slimemolds
+- PerfectTiming
+- redleggedpartridge
+- xkcd
+- redkite
+- tapirs
+- livven
+- birdinghobby
+- BackYardChickens
+- Finches
+---

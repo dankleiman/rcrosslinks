@@ -1,0 +1,24 @@
+---
+title: accidentalswastika
+crosslinks:
+- youtubefactsbot
+- livven
+- intentionalswastika
+- u_imguralbumbot
+- pics
+- excgarated
+- CrappyDesign
+- MassdropBot
+- mildlyswastika
+- croatia
+- vexillologycirclejerk
+- unseriousdictionary
+- tmsbmeta
+- BrasilOnReddit
+- Hitlerdesign
+- oddlysatisfying
+- DANMAG
+- Accidental_Hitler
+- de
+- OopsDidntMeanTo
+---

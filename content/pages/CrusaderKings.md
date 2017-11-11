@@ -1,0 +1,24 @@
+---
+title: CrusaderKings
+crosslinks:
+- ShitCrusaderKingsSay
+- youtubefactsbot
+- paradoxplaza
+- AskHistorians
+- youtubot
+- eu4
+- place
+- nocontext
+- CK2GameOfthrones
+- PrequelMemes
+- botpopularitybot
+- aftertheendckii
+- AskReddit
+- CKCrusaders
+- badhistory
+- livven
+- paradoxpolitics
+- mountandblade
+- Suomi
+- tmsbmeta
+---

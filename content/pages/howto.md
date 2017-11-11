@@ -1,0 +1,24 @@
+---
+title: howto
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- DiWHY
+- castiron
+- lockpicking
+- EnoughTrumpSpam
+- tmsbmeta
+- LifeProTips
+- relationships
+- DIY
+- solareclipse
+- AutoDetailing
+- nesclassicmods
+- interestingasfuck
+- gatekeeping
+- DIY_tech
+- IAmA
+- nottheonion
+- HailCorporate
+---

@@ -1,0 +1,24 @@
+---
+title: TrueDoTA2
+crosslinks:
+- DotA2
+- learndota2
+- youtubefactsbot
+- youtubot
+- alotabot
+- DotaConcepts
+- u_imguralbumbot
+- empirical_bayes_baseball
+- dota2bitching
+- autourbanbot
+- captainsmode
+- dota2pubs
+- FuckTammy
+- MassdropBot
+- redditdota2league
+- dota2smut
+- analysemydota2
+- DownvoteTrolling
+- dota2
+- xetu
+---

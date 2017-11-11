@@ -1,0 +1,24 @@
+---
+title: Hobbies
+crosslinks:
+- climbing
+- youtubefactsbot
+- Fishing
+- duolingo
+- WritingPrompts
+- lego
+- Aquariums
+- Diecast
+- knitting
+- SketchDaily
+- CNC
+- youtubot
+- WireWrapping
+- theocho
+- modelmakers
+- cs50
+- bikinis
+- Kayaking
+- paracord
+- Warhammer40k
+---

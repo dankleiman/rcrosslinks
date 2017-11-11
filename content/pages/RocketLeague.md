@@ -1,0 +1,24 @@
+---
+title: RocketLeague
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- RocketLeagueExchange
+- RocketLeagueFriends
+- RLCustomTraining
+- tmsbmeta
+- MassdropBot
+- RLFashionAdvice
+- youtubot
+- xkcd
+- john_yukis_bots
+- autourbanbot
+- RocketLeagueMods
+- RLCSnews
+- AskReddit
+- alotabot
+- gaming
+- RocketLeagueCoaching
+- pcmasterrace
+---

@@ -1,0 +1,24 @@
+---
+title: Kirby
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- gaming
+- nintendo
+- youtubot
+- JonTron
+- livven
+- place
+- Pixiv
+- MassdropBot
+- beadsprites
+- emulation
+- u_imguralbumbot
+- osuplace
+- splatoon
+- amiibo
+- mildlyinteresting
+- Thinking
+- Undertale
+- pokemon
+---

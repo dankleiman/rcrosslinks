@@ -1,0 +1,24 @@
+---
+title: IndiaSpeaks
+crosslinks:
+- youtubefactsbot
+- india
+- autotldr
+- bakchodi
+- indiadiscussion
+- youtubot
+- IAmA
+- AskReddit
+- Fitness
+- MassdropBot
+- tmsbmeta
+- indianews
+- autourbanbot
+- IndiaNonPolitical
+- blumune
+- worldnews
+- u_imguralbumbot
+- todayilearned
+- IndiaInvestments
+- MapPorn
+---

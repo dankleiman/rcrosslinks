@@ -1,0 +1,24 @@
+---
+title: productivity
+crosslinks:
+- bulletjournal
+- xkcd
+- workflow
+- AskReddit
+- youtubot
+- todoist
+- getdisciplined
+- autotldr
+- personalfinance
+- theXeffect
+- 2DoApp
+- Coffee
+- AskHistorians
+- GetOutOfBed
+- Derfla_bookmarks
+- OneNote
+- soylent
+- nosurf
+- john_yukis_bots
+- 168Hours
+---

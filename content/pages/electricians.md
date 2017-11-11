@@ -1,0 +1,24 @@
+---
+title: electricians
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- ElectricalEngineering
+- AskElectronics
+- OSHA
+- HVAC
+- AskEngineers
+- askscience
+- electronics
+- youtubefactsbot
+- mildlyinteresting
+- pcmasterrace
+- WTF
+- HomeImprovement
+- electrical
+- alotabot
+- houston
+- o
+- cableporn
+- videos
+---

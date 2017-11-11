@@ -1,0 +1,24 @@
+---
+title: NewPatriotism
+crosslinks:
+- autotldr
+- politics
+- EnoughTrumpSpam
+- PoliticalHumor
+- esist
+- botwatch
+- pics
+- MarchAgainstTrump
+- Fuckthealtright
+- AsABlackMan
+- BetoORourke
+- LateStageCapitalism
+- UpliftingNews
+- youtubot
+- The_Donald
+- canada
+- BlackPeopleTwitter
+- liberalgunowners
+- SandersForPresident
+- AdviceAnimals
+---

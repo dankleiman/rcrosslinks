@@ -1,0 +1,24 @@
+---
+title: snowboarding
+crosslinks:
+- youtubefactsbot
+- livven
+- skiing
+- gifs
+- Spliddit
+- youtubot
+- MassdropBot
+- 3Dprinting
+- u_imguralbumbot
+- pics
+- john_yukis_bots
+- anti_gif_bot
+- Iamverydumb
+- Fitness
+- PhotoshopTutorials
+- BeAmazed
+- WTF
+- autourbanbot
+- bodyweightfitness
+- botwatch
+---

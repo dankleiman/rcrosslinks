@@ -1,0 +1,24 @@
+---
+title: aspergirls
+crosslinks:
+- aspergers
+- autism
+- raisedbynarcissists
+- curlyhair
+- xkcd
+- youtubefactsbot
+- Anarchy101
+- Anxiety
+- adhd
+- youtubot
+- bipolar
+- bulletjournal
+- asktransgender
+- john_yukis_bots
+- WomensAdvice
+- MtF
+- raisedbyborderlines
+- ABraThatFits
+- sewing
+- Aspie
+---

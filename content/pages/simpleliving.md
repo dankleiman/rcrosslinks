@@ -1,0 +1,24 @@
+---
+title: simpleliving
+crosslinks:
+- minimalism
+- financialindependence
+- AskReddit
+- youtubefactsbot
+- u_imguralbumbot
+- autotldr
+- HailCorporate
+- Ultralight
+- AntiFacebook
+- HoboLiving
+- WWOOF
+- collapse
+- videos
+- nosurf
+- ZeroWaste
+- SelfSufficiency
+- nexus5x
+- DeepGreenResistance
+- EarthPorn
+- bestof
+---

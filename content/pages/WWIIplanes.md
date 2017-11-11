@@ -1,0 +1,24 @@
+---
+title: WWIIplanes
+crosslinks:
+- CapturedWeapons
+- youtubefactsbot
+- youtubot
+- Bandnames
+- modelmakers
+- WarplanePorn
+- OldSchoolCool
+- u_imguralbumbot
+- flying
+- SovietHistory
+- WarshipPorn
+- reenactors
+- videos
+- history
+- Serendipity
+- AbandonedPorn
+- eyebleachrequestbot
+- DerScheisser
+- autourbanbot
+- planesgonewild
+---

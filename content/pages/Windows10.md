@@ -1,0 +1,24 @@
+---
+title: Windows10
+crosslinks:
+- u_imguralbumbot
+- Surface
+- techsupport
+- autotldr
+- windows
+- windowsinsiders
+- windowsphone
+- pcmasterrace
+- livven
+- xkcd
+- nvidia
+- firefox
+- sysadmin
+- GlobalOffensive
+- pcgaming
+- youtubot
+- buildapc
+- edge
+- anti_gif_bot
+- bashonubuntuonwindows
+---

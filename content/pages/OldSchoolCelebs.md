@@ -1,0 +1,24 @@
+---
+title: OldSchoolCelebs
+crosslinks:
+- youtubefactsbot
+- OldSchoolCool
+- anti_gif_bot
+- Colorization
+- youtubot
+- u_imguralbumbot
+- thedoors
+- KendrickLamar
+- harrypotter
+- DuplicatesBot
+- LadyBoners
+- GirlsMirin
+- redditwritesseinfeld
+- pics
+- tmsbmeta
+- rickandmorty
+- xkcd
+- TaylorSwift
+- shubreddit
+- betterCallSaul
+---

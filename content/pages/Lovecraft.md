@@ -1,0 +1,24 @@
+---
+title: Lovecraft
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- ImaginaryNecronomicon
+- horror
+- thalassophobia
+- AskScienceFiction
+- EroticLovecraftianArt
+- bloodborne
+- TsundereSharks
+- RBI
+- ImaginaryHorrors
+- botwatch
+- Cthulhu
+- thalasophobia
+- shortscarystories
+- Games
+- thecatdimension
+- EarthPorn
+- redditgetsdrawn
+---

@@ -1,0 +1,24 @@
+---
+title: Texans
+crosslinks:
+- youtubefactsbot
+- nfl
+- MassdropBot
+- EvilLeagueOfEvil
+- onetrueqb
+- Colts
+- livven
+- tmsbmeta
+- Jaguars
+- Patriots
+- anti_gif_bot
+- youtubot
+- CoalitionAgainstEvil
+- NFL_Draft
+- Browns
+- john_yukis_bots
+- u_imguralbumbot
+- place
+- placehearts
+- cowboys
+---

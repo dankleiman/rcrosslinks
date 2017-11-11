@@ -1,0 +1,24 @@
+---
+title: conspiracy
+crosslinks:
+- The_Donald
+- politics
+- C_S_T
+- worldnews
+- TargetedEnergyWeapons
+- shills
+- worldpolitics
+- WayOfTheBern
+- news
+- TrumpInvestigation
+- WikiLeaks
+- IAmA
+- AlternativeHistory
+- RedditAlternatives
+- videos
+- TopMindsOfReddit
+- EnoughTrumpSpam
+- AskReddit
+- youtubot
+- DebateVaccine
+---

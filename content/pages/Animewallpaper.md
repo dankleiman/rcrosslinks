@@ -1,0 +1,24 @@
+---
+title: Animewallpaper
+crosslinks:
+- anime
+- awwnime
+- AnimePhoneWallpapers
+- Roboragi
+- endcard
+- AnimeVectorWallpapers
+- ZettaiRyouiki
+- pantsu
+- Amoledbackgrounds
+- unixporn
+- araragi
+- OtakuVisualArts
+- PhotoshopRequest
+- BeAmazed
+- Tohru
+- Megumin
+- nier
+- OreGairuSNAFU
+- youtubot
+- anti_gif_bot
+---

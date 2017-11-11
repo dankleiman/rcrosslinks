@@ -1,0 +1,24 @@
+---
+title: shittykickstarters
+crosslinks:
+- youtubefactsbot
+- kickstarter
+- videos
+- SubredditDrama
+- youtubot
+- 3Dprinting
+- gadgets
+- autotldr
+- IAmA
+- xkcd
+- u_imguralbumbot
+- Drama
+- starcitizen
+- titlegore
+- shittykickstarter
+- AskReddit
+- delusionalartists
+- Android
+- iphone
+- VXJunkies
+---

@@ -1,0 +1,24 @@
+---
+title: Vocaloid
+crosslinks:
+- Pixiv
+- youtubefactsbot
+- youtubot
+- placestart
+- imaginarymaps
+- subaru
+- livven
+- Android
+- OtakuVisualArts
+- blog
+- vocaloidhentai
+- anime
+- learnanimation
+- canada
+- Music
+- xkcd
+- anti_gif_bot
+- phoenix
+- Dakimakuras
+- FutureTone
+---

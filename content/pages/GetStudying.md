@@ -1,0 +1,24 @@
+---
+title: GetStudying
+crosslinks:
+- GetMotivated
+- math
+- LifeProTips
+- theXeffect
+- simonfraser
+- youtubefactsbot
+- getdisciplined
+- selfimprovement
+- Nootropics
+- 3DS
+- nursing
+- Foodforthought
+- studytips
+- productivity
+- explainlikeimfive
+- MassdropBot
+- linguistics
+- adhd
+- MusicForConcentration
+- Korean
+---

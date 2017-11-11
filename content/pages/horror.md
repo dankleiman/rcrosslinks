@@ -1,0 +1,24 @@
+---
+title: horror
+crosslinks:
+- HorrorReviewed
+- horrorlit
+- nosleep
+- SawSomethingScary
+- movies
+- u_imguralbumbot
+- IAmA
+- moviescirclejerk
+- truehorror
+- NetflixViaVPN
+- gatekeeping
+- HorrorTrailerPark
+- john_yukis_bots
+- horrormoviechallenge
+- boardgames
+- stephenking
+- youtubot
+- Lovecraft
+- Screenwriting
+- botwatch
+---

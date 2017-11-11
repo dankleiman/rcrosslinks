@@ -1,0 +1,24 @@
+---
+title: arcadefire
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- leakthreads
+- indieheads
+- anti_gif_bot
+- livven
+- gorillaz
+- john_yukis_bots
+- radiohead
+- pics
+- XFiles
+- MassdropBot
+- Serendipity
+- ActLikeYouBelong
+- boniver
+- SubredditDrama
+- portugaltheman
+- BadEverything
+- AMAAggregator
+---

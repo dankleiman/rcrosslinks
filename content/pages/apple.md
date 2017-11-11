@@ -1,0 +1,24 @@
+---
+title: apple
+crosslinks:
+- youtubefactsbot
+- iphone
+- xkcd
+- Android
+- john_yukis_bots
+- jailbreak
+- iOSBeta
+- youtubot
+- AppleWatch
+- ipad
+- technology
+- applehelp
+- hardware
+- airpods
+- hackintosh
+- SiriFail
+- privacy
+- AskReddit
+- ios
+- mac
+---

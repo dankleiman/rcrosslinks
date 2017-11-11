@@ -1,0 +1,24 @@
+---
+title: communism
+crosslinks:
+- communism101
+- youtubefactsbot
+- socialism
+- FULLCOMMUNISM
+- SovietHistory
+- politics
+- Anarchism
+- AskReddit
+- worldnews
+- AskHistorians
+- LateStageCapitalism
+- anti_gif_bot
+- intlleftalliance
+- youtubot
+- anarchocommunism
+- Anarcho_Capitalism
+- FanTheories
+- PublicFreakout
+- CapitalismVSocialism
+- FindAParty
+---

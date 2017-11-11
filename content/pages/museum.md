@@ -1,0 +1,24 @@
+---
+title: museum
+crosslinks:
+- ArtefactPorn
+- youtubefactsbot
+- youtubot
+- bal
+- u_imguralbumbot
+- papertowns
+- militant
+- Graffiti
+- autotldr
+- Serendipity
+- Museums
+- knolling
+- MuseumPros
+- AnimalsWithoutNecks
+- OopsDidntMeanTo
+- listentous
+- painting
+- The_Donald
+- PropagandaPosters
+- IndiaMain
+---

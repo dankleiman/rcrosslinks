@@ -1,0 +1,24 @@
+---
+title: loseit
+crosslinks:
+- Fitness
+- progresspics
+- bodyweightfitness
+- 1200isplenty
+- getdisciplined
+- fatlogic
+- keto
+- MealPrepSunday
+- xxfitness
+- youtubot
+- EatCheapAndHealthy
+- intermittentfasting
+- C25K
+- fasting
+- gainit
+- hxcjosh23mealprep
+- running
+- AskReddit
+- explainlikeimfive
+- NonZeroDay
+---

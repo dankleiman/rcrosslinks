@@ -1,0 +1,24 @@
+---
+title: NeutralPolitics
+crosslinks:
+- AskHistorians
+- politics
+- worldnews
+- TrumpInvestigation
+- news
+- technology
+- pa
+- neutralnews
+- Economics
+- syriancivilwar
+- AskEconomics
+- PoliticalDiscussion
+- AgainstHateSubreddits
+- AskSocialScience
+- AskReddit
+- IAmA
+- geopolitics
+- gunpolitics
+- conspiracy
+- DNCleaks
+---

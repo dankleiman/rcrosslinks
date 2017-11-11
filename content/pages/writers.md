@@ -1,0 +1,24 @@
+---
+title: writers
+crosslinks:
+- DestructiveReaders
+- writing
+- worldbuilding
+- WritingPrompts
+- fantasywriters
+- occult
+- Screenwriting
+- titlegore
+- philosophy
+- winkle
+- john_yukis_bots
+- Filmmakers
+- PPC
+- youtubefactsbot
+- 80s
+- typewriters
+- intj
+- neonseerwrites
+- writerchat
+- MassdropBot
+---

@@ -1,0 +1,24 @@
+---
+title: TsundereSharks
+crosslinks:
+- place
+- youtubot
+- youtubefactsbot
+- Roboragi
+- Art
+- furry_irl
+- livven
+- PartyParrot
+- pics
+- anti_gif_bot
+- ziaplace
+- rarepuppers
+- StarWars
+- MassdropBot
+- OneTrueTohsaka
+- mildlypenis
+- botpopularitybot
+- sharks
+- rLoop
+- StartledCats
+---

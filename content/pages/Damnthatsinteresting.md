@@ -1,0 +1,24 @@
+---
+title: Damnthatsinteresting
+crosslinks:
+- livven
+- youtubefactsbot
+- gifs
+- botwatch
+- pics
+- interestingasfuck
+- youtubot
+- NatureIsFuckingLit
+- thalassophobia
+- HailCorporate
+- xkcd
+- bestof
+- woahdude
+- videos
+- tmsbmeta
+- u_imguralbumbot
+- trypophobia
+- UNBGBBIIVCHIDCTIICBG
+- submechanophobia
+- nocontext
+---

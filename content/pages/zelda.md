@@ -1,0 +1,24 @@
+---
+title: zelda
+crosslinks:
+- youtubefactsbot
+- Breath_of_the_Wild
+- truezelda
+- NintendoSwitch
+- livven
+- u_imguralbumbot
+- youtubot
+- nintendo
+- tmsbmeta
+- gaming
+- AskReddit
+- MassdropBot
+- shitpost
+- KorokBot
+- Games
+- zelfies
+- WiiUHacks
+- wiiu
+- stevenuniverse
+- beetlejuicing
+---

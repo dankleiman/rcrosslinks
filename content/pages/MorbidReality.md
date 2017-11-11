@@ -1,0 +1,24 @@
+---
+title: MorbidReality
+crosslinks:
+- worldpolitics
+- youtubot
+- youtubefactsbot
+- AskReddit
+- u_imguralbumbot
+- watchpeopledie
+- Missing411
+- AskHistorians
+- SwordAndScale
+- WTF
+- UnresolvedMysteries
+- IAmA
+- worldnews
+- pics
+- UpliftingNews
+- SuicideWatch
+- Lyme
+- tmsbmeta
+- canadanews
+- conspiracy
+---

@@ -1,0 +1,24 @@
+---
+title: instant_regret
+crosslinks:
+- livven
+- anti_gif_bot
+- botwatch
+- gifs
+- tmsbmeta
+- funny
+- Whatcouldgowrong
+- pics
+- videos
+- AskReddit
+- WhyWereTheyFilming
+- BetterEveryLoop
+- IAmA
+- WTF
+- john_yukis_bots
+- xkcd
+- autourbanbot
+- aww
+- Instantregret
+- nononono
+---

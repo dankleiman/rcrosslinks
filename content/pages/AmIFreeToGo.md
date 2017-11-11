@@ -1,0 +1,24 @@
+---
+title: AmIFreeToGo
+crosslinks:
+- RightToRemainSilent
+- ProtectAndServe
+- youtubot
+- legaladvice
+- Bad_Cop_No_Donut
+- news
+- videos
+- Anarchism
+- tmsbmeta
+- Roadcam
+- shouldbefront
+- PublicFreakout
+- tsa
+- MassdropBot
+- notcirclejerk
+- anarchy101
+- ElPaso
+- Dashcam
+- SubAutoCorrectBot
+- Good_Cop_Free_Donut
+---

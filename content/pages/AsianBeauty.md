@@ -1,0 +1,24 @@
+---
+title: AsianBeauty
+crosslinks:
+- asianbeautyexchange
+- SkincareAddiction
+- MakeupAddiction
+- DIYBeauty
+- abdiscussion
+- AsianBeautyAdvice
+- youtubefactsbot
+- AsianBeautyRehab
+- u_imguralbumbot
+- abcjdiscussion
+- youtubot
+- tmsbmeta
+- skincareexchange
+- beautytalkph
+- vegan
+- EuroSkincare
+- sca
+- MassdropBot
+- HaircareScience
+- wicked_edge
+---

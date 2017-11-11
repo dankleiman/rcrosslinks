@@ -1,0 +1,24 @@
+---
+title: CFL
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- anti_gif_bot
+- CFLStreams
+- u_imguralbumbot
+- john_yukis_bots
+- minnesotavikings
+- onguardforthee
+- AskReddit
+- OttawaCelebs
+- Pay_Respects
+- CanadianPL
+- halifax
+- gamedev
+- VictoriaBC
+- tmsbmeta
+- alotabot
+- rugbyunion
+- nfl
+---

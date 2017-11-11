@@ -1,0 +1,24 @@
+---
+title: whowouldwin
+crosslinks:
+- respectthreads
+- CharacterRant
+- youtubefactsbot
+- whowouldcirclejerk
+- Parahumans
+- youtubot
+- BatmanMegaRT
+- TheGuessingGame
+- AskScienceFiction
+- u_imguralbumbot
+- SCP
+- dbz
+- MassdropBot
+- theydidthemath
+- OnePunchMan
+- AskHistorians
+- 40kLore
+- tmsbmeta
+- xkcd
+- teslore
+---

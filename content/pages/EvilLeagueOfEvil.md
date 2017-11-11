@@ -1,0 +1,24 @@
+---
+title: EvilLeagueOfEvil
+crosslinks:
+- nfl
+- Patriots
+- GreenBayPackers
+- CoalitionAgainstEvil
+- NYGiants
+- cowboys
+- youtubefactsbot
+- Texans
+- 49ers
+- CHIBears
+- steelers
+- livven
+- oaklandraiders
+- SubredditDrama
+- EvilerLeagueOfEvil
+- minnesotavikings
+- CatTeamBrotherhood
+- Jaguars
+- MassdropBot
+- Saints
+---

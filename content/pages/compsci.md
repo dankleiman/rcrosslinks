@@ -1,0 +1,24 @@
+---
+title: compsci
+crosslinks:
+- RCBRedditBot
+- xkcd
+- math
+- youtubefactsbot
+- cscareerquestions
+- autotldr
+- programming
+- u_imguralbumbot
+- youtubot
+- learnprogramming
+- Clojure
+- softwaregore
+- badmathematics
+- askphilosophy
+- functionalprogramming
+- rust
+- AskComputerScience
+- datascience
+- learnmachinelearning
+- computertechs
+---

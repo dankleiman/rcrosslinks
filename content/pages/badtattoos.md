@@ -1,0 +1,24 @@
+---
+title: badtattoos
+crosslinks:
+- u_imguralbumbot
+- autourbanbot
+- keming
+- tattoos
+- tmsbmeta
+- awfuleverything
+- ConfusedBoners
+- furry_irl
+- KNEX
+- ireland
+- 2meirl4meirl
+- ACK
+- badwomensanatomy
+- cringepics
+- ATBGE
+- Stretched
+- StLouis
+- Bandnames
+- youtubot
+- pics
+---

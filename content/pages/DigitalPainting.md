@@ -1,0 +1,24 @@
+---
+title: DigitalPainting
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- livven
+- ArtCrit
+- wacom
+- redditgetsdrawn
+- itookapicture
+- tmsbmeta
+- learntodraw
+- alternativeart
+- ArtBuddy
+- dbz
+- sailormoon
+- PixelArt
+- learnart
+- Art
+- Illustration
+- ImaginaryLeviathans
+- fanart
+---

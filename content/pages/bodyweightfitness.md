@@ -1,0 +1,24 @@
+---
+title: bodyweightfitness
+crosslinks:
+- Fitness
+- flexibility
+- fitness
+- overcominggravity
+- GripTraining
+- gainit
+- loseit
+- u_imguralbumbot
+- xxfitness
+- Posture
+- yoga
+- AdvancedFitness
+- weightroom
+- climbing
+- leangains
+- kettlebell
+- MealPrepSunday
+- bwfmemes
+- gifs
+- ketogains
+---

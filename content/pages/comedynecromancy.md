@@ -1,0 +1,24 @@
+---
+title: comedynecromancy
+crosslinks:
+- ComedyCemetery
+- comics
+- ComedyNecrophilia
+- u_imguralbumbot
+- funny
+- bonehurtingjuice
+- youtubefactsbot
+- terriblefacebookmemes
+- comedycemetery
+- MassdropBot
+- dankmemes
+- 4PanelCringe
+- webcomics
+- SubAutoCorrectBot
+- assignedmale
+- ReallyWackyTicTacs
+- lossedits
+- DeepFriedMemes
+- surrealmemes
+- ImGoingToHellForThis
+---

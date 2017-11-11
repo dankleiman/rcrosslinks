@@ -1,0 +1,24 @@
+---
+title: NatureGifs
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- NatureIn60FPS
+- BatFacts
+- NatureIsFuckingLit
+- BrasilOnReddit
+- gifs
+- thalassophobia
+- UEBS
+- biology
+- spiderbro
+- batty
+- thedepthsbelow
+- titlegore
+- whatsthisplant
+- Cephalopods
+- corgibutts
+- EarthPornGifs
+- marinebiology
+---

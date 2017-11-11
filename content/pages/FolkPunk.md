@@ -1,0 +1,24 @@
+---
+title: FolkPunk
+crosslinks:
+- youtubefactsbot
+- listentothis
+- youtubot
+- Drama
+- john_yukis_bots
+- AMAAggregator
+- videos
+- u_imguralbumbot
+- tmsbmeta
+- ajj
+- PropagandaPosters
+- autourbanbot
+- funny
+- Heavymind
+- teenagers
+- longboarding
+- Anarchism
+- folkpunkcirclejerk
+- militant
+- folk
+---

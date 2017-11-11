@@ -1,0 +1,24 @@
+---
+title: stevenuniverse
+crosslinks:
+- pearlfectSandbox
+- youtubefactsbot
+- gem_irl
+- youtubot
+- u_imguralbumbot
+- anti_gif_bot
+- livven
+- MassdropBot
+- SULeaks
+- xkcd
+- Gregfuckedarock
+- data_irl
+- BeachCity
+- tmsbmeta
+- place
+- botpopularitybot
+- IAmA
+- StarVStheForcesofEvil
+- AskReddit
+- nocontext
+---

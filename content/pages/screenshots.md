@@ -1,0 +1,24 @@
+---
+title: screenshots
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- botwatch
+- livven
+- ChargeYourPhone
+- AskReddit
+- excgarated
+- MassdropBot
+- mildlyinteresting
+- videos
+- juxtaposition
+- john_yukis_bots
+- MissedConnections
+- todayilearned
+- xkcd
+- Serendipity
+- sewing
+- SummerReddit
+- Documentaries
+- indiadiscussion
+---

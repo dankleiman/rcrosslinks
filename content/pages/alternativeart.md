@@ -1,0 +1,24 @@
+---
+title: alternativeart
+crosslinks:
+- gaming
+- youtubefactsbot
+- youtubot
+- ImaginaryJedi
+- PS4
+- MassdropBot
+- StarWars
+- pokemon
+- gameofthrones
+- Kappa
+- anti_gif_bot
+- drawing
+- outrun
+- alternative
+- ImaginaryMonsterGirls
+- ConfusedBoners
+- geek
+- ImaginaryMonsters
+- ImaginaryMythology
+- EmpireDidNothingWrong
+---

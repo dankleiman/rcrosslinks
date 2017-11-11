@@ -1,0 +1,24 @@
+---
+title: Teachers
+crosslinks:
+- youtubefactsbot
+- teaching
+- youtubot
+- bestof
+- u_imguralbumbot
+- SuicideWatch
+- TEFL
+- privacy
+- personalfinance
+- furry_irl
+- ELATeachers
+- xkcd
+- AskReddit
+- MassdropBot
+- instructionaldesign
+- matheducation
+- specialed
+- autotldr
+- totallynotrobots
+- ukvisa
+---

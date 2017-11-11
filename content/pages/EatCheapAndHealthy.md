@@ -1,0 +1,24 @@
+---
+title: EatCheapAndHealthy
+crosslinks:
+- MealPrepSunday
+- youtubot
+- gainit
+- Frugal
+- Cooking
+- fitmeals
+- personalfinance
+- GifRecipes
+- AskReddit
+- todayilearned
+- loseit
+- u_imguralbumbot
+- trailmeals
+- Homebrewing
+- 1200isplenty
+- Fitness
+- food
+- nutrition
+- recipes
+- slowcooking
+---

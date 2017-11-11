@@ -1,0 +1,24 @@
+---
+title: airpods
+crosslinks:
+- apple
+- youtubefactsbot
+- john_yukis_bots
+- youtubot
+- jailbreak
+- nocontext
+- AppleWatch
+- notinteresting
+- Waxpen
+- iphone
+- androidcirclejerk
+- tifu
+- shiba
+- woahdude
+- ipad
+- 14uidrk
+- HailCorporate
+- MLBTheShow
+- autotldr
+- nexus5x
+---

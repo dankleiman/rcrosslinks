@@ -1,0 +1,24 @@
+---
+title: AskDocs
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- optometry
+- medical
+- popping
+- SkincareAddiction
+- youtubot
+- noburp
+- MassdropBot
+- Dentistry
+- WTF
+- Dermatology
+- xkcd
+- TMJ
+- Herpes
+- mentalhealth
+- bestof
+- ImagesOfUSA
+- autourbanbot
+- john_yukis_bots
+---

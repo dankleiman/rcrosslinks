@@ -1,0 +1,24 @@
+---
+title: MurderedByWords
+crosslinks:
+- youtubefactsbot
+- surfing
+- RoastMe
+- OutOfTheLoop
+- PublicFreakout
+- xkcd
+- livven
+- self
+- todayilearned
+- pics
+- AdviceAnimals
+- feminisms
+- NoParticipation
+- androiddev
+- EnoughTrumpSpam
+- nocontext
+- youtubot
+- rage
+- AteThePasta
+- woooosh
+---

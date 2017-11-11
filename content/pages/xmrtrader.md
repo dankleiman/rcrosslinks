@@ -1,0 +1,24 @@
+---
+title: xmrtrader
+crosslinks:
+- Monero
+- youtubefactsbot
+- CryptoCurrency
+- ethtrader
+- moonero
+- DarkNetMarkets
+- Bitcoin
+- CryptoMarkets
+- Aeon
+- BitcoinMarkets
+- youtubot
+- dashpay
+- siacoin
+- btc
+- investing
+- shapeshiftio
+- cryptocurrency
+- ethereum
+- omise_go
+- autotldr
+---

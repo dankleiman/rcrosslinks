@@ -1,0 +1,24 @@
+---
+title: natureismetal
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- pics
+- SubredditDrama
+- anti_gif_bot
+- gifs
+- WTF
+- tmsbmeta
+- u_imguralbumbot
+- metric_units
+- AskReddit
+- todayilearned
+- xkcd
+- bestof
+- NatureIsFuckingLit
+- botwatch
+- aww
+- nocontext
+- AccidentalRenaissance
+---

@@ -1,0 +1,24 @@
+---
+title: SWARJE
+crosslinks:
+- youtubefactsbot
+- sweden
+- youdontsurf
+- place
+- livven
+- videos
+- Denmark
+- europe
+- DANMAG
+- travel
+- NORDVEI
+- vexillology
+- dataisbeautiful
+- xkcd
+- unexpectedsabaton
+- youtubot
+- jag_ivl
+- underpopular
+- anti_gif_bot
+- MURICA
+---

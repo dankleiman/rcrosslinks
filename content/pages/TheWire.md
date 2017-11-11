@@ -1,0 +1,24 @@
+---
+title: TheWire
+crosslinks:
+- youtubefactsbot
+- youtubot
+- IAmA
+- autotldr
+- livven
+- anti_gif_bot
+- FanTheories
+- xkcd
+- MassdropBot
+- thewalkingdead
+- todayilearned
+- harrypotter
+- keming
+- fuckimold
+- TrueDetective
+- baltimore
+- reactiongifs
+- television
+- Stargate
+- thesopranos
+---

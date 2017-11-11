@@ -1,0 +1,24 @@
+---
+title: esist
+crosslinks:
+- IndivisibleGuide
+- youtubefactsbot
+- politics
+- autotldr
+- EnoughTrumpSpam
+- NeutralPolitics
+- conspiracy
+- Political_Revolution
+- u_imguralbumbot
+- youtubot
+- xkcd
+- worldnews
+- TrumpInvestigation
+- The_Donald
+- ShitThe_DonaldSays
+- tmsbmeta
+- BlueMidterm2018
+- news
+- AntiTrumpAlliance
+- MarchAgainstTrump
+---

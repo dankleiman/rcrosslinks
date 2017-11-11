@@ -1,0 +1,24 @@
+---
+title: ImagesOfJapan
+crosslinks:
+- japanpics
+- pics
+- imagesofnetwork
+- japan
+- itookapicture
+- mildlyinteresting
+- food
+- JapaneseFood
+- EarthPorn
+- analog
+- ramen
+- funny
+- travel
+- MyWallpaperClub
+- Sneakers
+- OldSchoolCool
+- CityPorn
+- aww
+- sneakermarket
+- gaming
+---

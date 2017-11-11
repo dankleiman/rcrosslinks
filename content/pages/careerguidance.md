@@ -1,0 +1,24 @@
+---
+title: careerguidance
+crosslinks:
+- resumes
+- cscareerquestions
+- AskReddit
+- consulting
+- digitalnomad
+- LifeProTips
+- freelance
+- tefl
+- librarians
+- financialindependence
+- Frugal
+- technicalwriting
+- ccna
+- ITCareerQuestions
+- labrats
+- writing
+- VoiceActing
+- personalfinance
+- microgrowery
+- AskDocs
+---

@@ -1,0 +1,24 @@
+---
+title: Anthropology
+crosslinks:
+- AskHistorians
+- pics
+- worldpolitics
+- AskAnthropology
+- exjw
+- genetics
+- tmsbmeta
+- MassdropBot
+- BrasilOnReddit
+- todayilearned
+- sociology
+- Missing411
+- georgism
+- SargonofAkkad
+- basicincome
+- neoliberal
+- GradSchool
+- linguistics
+- circlebroke
+- youtubefactsbot
+---

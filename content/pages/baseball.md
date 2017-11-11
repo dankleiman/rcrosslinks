@@ -1,0 +1,24 @@
+---
+title: baseball
+crosslinks:
+- NYYankees
+- livven
+- nba
+- Mariners
+- '2013'
+- redsox
+- IAmA
+- Dodgers
+- CHICubs
+- Braves
+- nfl
+- WahoosTipi
+- hockey
+- Reds
+- Torontobluejays
+- NewYorkMets
+- xkcd
+- Astros
+- letsgofish
+- ColoradoRockies
+---

@@ -1,0 +1,24 @@
+---
+title: teslore
+crosslinks:
+- GodheadModel
+- skyrim
+- elderscrollsonline
+- youtubefactsbot
+- myrrlyn
+- ElderScrolls
+- respectthreads
+- Morrowind
+- askscience
+- AskHistorians
+- nirnpowers
+- gamearcane
+- IsItBullshit
+- askhistorians
+- nextelderscrolls
+- '2009'
+- teslore2
+- worldbuilding
+- skyrimrequiem
+- explainlikeimfive
+---

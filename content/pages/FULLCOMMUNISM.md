@@ -1,0 +1,24 @@
+---
+title: FULLCOMMUNISM
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- tmsbmeta
+- autotldr
+- communism
+- communism101
+- u_imguralbumbot
+- FULLDISCOURSE
+- me_irl
+- ShitLiberalsSay
+- socialism
+- Anarcho_Capitalism
+- LateStageCapitalism
+- AskHistorians
+- pics
+- Anarchism
+- xkcd
+- COMPLETEANARCHY
+- DebateCommunism
+---

@@ -1,0 +1,24 @@
+---
+title: SkincareAddiction
+crosslinks:
+- AsianBeauty
+- DIYBeauty
+- SkincareAddictionUK
+- CompulsiveSkinPicking
+- AsianBeautyAdvice
+- wicked_edge
+- livven
+- skincareexchange
+- asianbeauty
+- youtubefactsbot
+- MakeupAddiction
+- curlyhair
+- tmsbmeta
+- Accutane
+- u_imguralbumbot
+- sca
+- SuicideWatch
+- Sunblock
+- popping
+- tretinoin
+---

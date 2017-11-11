@@ -1,0 +1,24 @@
+---
+title: truezelda
+crosslinks:
+- zelda
+- youtubefactsbot
+- Breath_of_the_Wild
+- youtubot
+- nintendo
+- Henryuuki
+- Gamingcirclejerk
+- metalgearsolid
+- urazelda
+- tmsbmeta
+- zeldaconspiracies
+- Marioverse
+- MassdropBot
+- forhire
+- Kirby
+- explainlikeimfive
+- asktransgender
+- chiliadmystery
+- breathofthegonewild
+- changemyview
+---

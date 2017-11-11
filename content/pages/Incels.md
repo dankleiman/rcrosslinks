@@ -1,0 +1,24 @@
+---
+title: Incels
+crosslinks:
+- AskReddit
+- TheBluePill
+- ForeverAlone
+- TheRedPill
+- amiugly
+- u_imguralbumbot
+- relationships
+- AskWomen
+- IncelTears
+- IncelDiscussions
+- short
+- IncelsWomen
+- RoastMe
+- CringeAnarchy
+- PurplePillDebate
+- TrollXChromosomes
+- StAliaHarkonnen
+- sex
+- TwoXChromosomes
+- AskMen
+---

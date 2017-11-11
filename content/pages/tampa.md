@@ -1,0 +1,24 @@
+---
+title: tampa
+crosslinks:
+- autotldr
+- youtubefactsbot
+- livven
+- TropicalWeather
+- MassdropBot
+- autourbanbot
+- IAmA
+- anti_gif_bot
+- houston
+- news
+- wtf
+- Showerthoughts
+- vexillology
+- TampaBayRowdies
+- fuckolly
+- funny
+- Accounting
+- u_imguralbumbot
+- PokemonGo_Tampa
+- youtubot
+---

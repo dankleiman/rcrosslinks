@@ -1,0 +1,24 @@
+---
+title: SnapshillBotEx
+crosslinks:
+- reddevils
+- SubredditDrama
+- ShitAmericansSay
+- badphilosophy
+- EnoughTrumpSpam
+- Drama
+- subredditcancer
+- subredditoftheday
+- badhistory
+- AgainstHateSubreddits
+- undelete
+- TopMindsOfReddit
+- indiadiscussion
+- RedditCensorship
+- MGTOW
+- badeconomics
+- badukpolitics
+- shittykickstarters
+- Gamingcirclejerk
+- RPDRDRAMA
+---

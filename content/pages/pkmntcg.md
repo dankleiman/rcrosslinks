@@ -1,0 +1,24 @@
+---
+title: pkmntcg
+crosslinks:
+- ptcgo
+- youtubefactsbot
+- pkmntcgcollections
+- pkmntcgtrades
+- youtubot
+- u_imguralbumbot
+- alotabot
+- tmsbmeta
+- pkmntcgreferences
+- magicTCG
+- PkmnTCGCardConcepts
+- taputech
+- poketcgonlinetrading
+- PokemonTCG
+- MassdropBot
+- botpopularitybot
+- teenagers
+- john_yukis_bots
+- HighQualityGifs
+- nohomo_bot
+---

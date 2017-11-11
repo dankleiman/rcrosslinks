@@ -1,0 +1,24 @@
+---
+title: corgi
+crosslinks:
+- livven
+- u_imguralbumbot
+- youtubefactsbot
+- anti_gif_bot
+- PuppySmiles
+- dogs
+- sploot
+- aww
+- rarepuppers
+- dogtraining
+- tippytaps
+- youtubot
+- blop
+- Incorgnito
+- MassdropBot
+- corgibutts
+- Serendipity
+- Dogtraining
+- AskReddit
+- photoshopbattles
+---

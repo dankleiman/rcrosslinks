@@ -1,0 +1,24 @@
+---
+title: puzzles
+crosslinks:
+- MassdropBot
+- TheseFuckingAccounts
+- riddles
+- math
+- mechanicalpuzzles
+- CrackTheClue
+- u_imguralbumbot
+- Paladins
+- fifthworldproblems
+- steganopuzzle
+- Pathfinder_RPG
+- xkcd
+- chess
+- sports
+- SubAutoCorrectBot
+- advertisingREDDIT
+- whoisstraka
+- solving_reddit_codes
+- Wetshaving
+- mazes
+---

@@ -1,0 +1,24 @@
+---
+title: Firearms
+crosslinks:
+- guns
+- youtubefactsbot
+- youtubot
+- autotldr
+- livven
+- gundeals
+- CCW
+- ar15
+- liberalgunowners
+- news
+- canadaguns
+- progun
+- gunpolitics
+- weekendgunnit
+- Anarchism
+- tmsbmeta
+- dgu
+- The_Donald
+- u_imguralbumbot
+- CAguns
+---

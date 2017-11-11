@@ -1,0 +1,24 @@
+---
+title: morbidquestions
+crosslinks:
+- SuicideWatch
+- youtubefactsbot
+- watchpeopledie
+- AskReddit
+- IAmA
+- goodlongposts
+- youtubot
+- sociopath
+- jesuschristreddit
+- Paranormal
+- nocontext
+- askscience
+- SubredditDrama
+- iamverybadass
+- bestof
+- NoStupidQuestions
+- AMA
+- Drama
+- autourbanbot
+- SanctionedSuicide
+---

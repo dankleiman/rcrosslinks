@@ -1,0 +1,24 @@
+---
+title: TrollXChromosomes
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- TrollXFunny
+- MensLib
+- TranscribersOfReddit
+- john_yukis_bots
+- botwatch
+- childfree
+- autotldr
+- funny
+- '2013'
+- TwoXChromosomes
+- nohomo_bot
+- Drama
+- legaladvice
+- politics
+- pics
+- IAmA
+- AskMen
+- aww
+---

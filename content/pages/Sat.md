@@ -1,0 +1,24 @@
+---
+title: Sat
+crosslinks:
+- ApplyingToCollege
+- u_imguralbumbot
+- ACT
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- john_yukis_bots
+- OutOfTheLoop
+- me_irl
+- AMAAggregator
+- SATStudyBuddyGroup
+- APStudents
+- tmsbmeta
+- psat
+- botwatch
+- IBO
+- teenagers
+- AskReddit
+- funny
+- collegeresults
+---

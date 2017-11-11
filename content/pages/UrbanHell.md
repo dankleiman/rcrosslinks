@@ -1,0 +1,24 @@
+---
+title: UrbanHell
+crosslinks:
+- youtubefactsbot
+- CityPorn
+- BrasilOnReddit
+- u_imguralbumbot
+- ANormalDayInRussia
+- collapse
+- CitiesSkylines
+- brutalism
+- ShitAmericansSay
+- Detroit
+- antinatalism
+- youtubot
+- pics
+- TheWayWeWere
+- NorthKoreaPics
+- ShittyEarthPorn
+- Lost_Architecture
+- CrappyDesign
+- Nepal
+- everyfuckingthread
+---

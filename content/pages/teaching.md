@@ -1,0 +1,24 @@
+---
+title: teaching
+crosslinks:
+- ChinaScamCentral
+- Teachers
+- tefl_blacklist
+- TEFL_TIPS_TRAPS_SCAMS
+- youtubefactsbot
+- ChinaTEFL
+- botwatch
+- AskReddit
+- conspiracy
+- ELATeachers
+- teachinguk
+- personalfinance
+- explainlikeimfive
+- titlegore
+- SeattleWA
+- matheducation
+- youtubot
+- teenagers
+- MassdropBot
+- lewronggeneration
+---

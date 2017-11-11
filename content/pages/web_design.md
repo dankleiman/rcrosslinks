@@ -1,0 +1,24 @@
+---
+title: web_design
+crosslinks:
+- webdev
+- RCBRedditBot
+- u_imguralbumbot
+- youtubefactsbot
+- xkcd
+- autotldr
+- anti_gif_bot
+- graphic_design
+- youtubot
+- programming
+- web_dev_help
+- userexperience
+- Wordpress
+- forhire
+- explainlikeimfive
+- Entrepreneur
+- proweb
+- css
+- pics
+- livven
+---

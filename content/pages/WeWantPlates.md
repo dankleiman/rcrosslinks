@@ -1,0 +1,24 @@
+---
+title: WeWantPlates
+crosslinks:
+- youtubefactsbot
+- food
+- youtubot
+- StupidFood
+- wewantcups
+- botwatch
+- IsItBullshit
+- vegan
+- SubredditDrama
+- shittyfoodporn
+- iamveryculinary
+- grilledcheese
+- mildlyinteresting
+- MildRedditDrama
+- u_imguralbumbot
+- KarmaConspiracy
+- nocontext
+- botpopularitybot
+- restomemes
+- Frugal_Jerk
+---

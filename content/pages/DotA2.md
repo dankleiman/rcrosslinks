@@ -1,0 +1,24 @@
+---
+title: DotA2
+crosslinks:
+- u_imguralbumbot
+- tmsbmeta
+- livven
+- anti_gif_bot
+- learndota2
+- Dota2Trade
+- TrueDoTA2
+- GlobalOffensive
+- DotaVods
+- autourbanbot
+- dotamasterrace
+- DOTA
+- alotabot
+- fifteefiftee
+- leagueoflegends
+- compDota2
+- dota2smut
+- gaming
+- zeronet
+- dota2pubs
+---

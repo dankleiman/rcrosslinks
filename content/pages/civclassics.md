@@ -1,0 +1,24 @@
+---
+title: civclassics
+crosslinks:
+- u_imguralbumbot
+- Civcraft
+- Devoted
+- CivImpasse
+- CivCommonwealth
+- youtubefactsbot
+- MtAugusta
+- CivClassicsExchange
+- youtubot
+- anti_gif_bot
+- MassdropBot
+- civcasia
+- CivYoahtl
+- CivJefferson
+- CivEx
+- CivcraftExchange
+- Aznazia
+- john_yukis_bots
+- Minecraft
+- TheRealmsMC
+---

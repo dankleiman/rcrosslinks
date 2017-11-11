@@ -1,0 +1,24 @@
+---
+title: PhotoshopRequest
+crosslinks:
+- u_imguralbumbot
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- colorizationrequests
+- photoshop
+- tmsbmeta
+- pics
+- outrun
+- john_yukis_bots
+- PhotoshopTutorials
+- TextlessPosters
+- alotabot
+- photoshopbattles
+- botwatch
+- HybridHumans
+- logorequests
+- AskReddit
+- youtubot
+- DrawForMe
+---

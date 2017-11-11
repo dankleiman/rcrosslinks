@@ -1,0 +1,24 @@
+---
+title: SkyDiving
+crosslinks:
+- youtubefactsbot
+- livven
+- videos
+- funny
+- nonononoyes
+- AdrenalinePorn
+- u_imguralbumbot
+- SonyVegas
+- youtubot
+- freeflight
+- fpvracing
+- autotldr
+- holdmyredbull
+- AskReddit
+- anti_gif_bot
+- askscience
+- alotabot
+- preppers
+- pics
+- actualskydiving
+---

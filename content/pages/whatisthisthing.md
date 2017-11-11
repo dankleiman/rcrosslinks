@@ -1,0 +1,24 @@
+---
+title: whatisthisthing
+crosslinks:
+- translator
+- whatsthisbug
+- Whatisthis
+- identifythisfont
+- Scams
+- mildlyinteresting
+- whatsthisplant
+- MassdropBot
+- pics
+- whatsthisrock
+- WTF
+- AskReddit
+- mycology
+- tipofmytongue
+- vexillology
+- translatorBOT
+- legaladvice
+- swords
+- marijuanaenthusiasts
+- HelpMeFind
+---

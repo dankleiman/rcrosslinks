@@ -1,0 +1,24 @@
+---
+title: NFA
+crosslinks:
+- youtubefactsbot
+- guns
+- gundeals
+- youtubot
+- ar15
+- Glocks
+- u_imguralbumbot
+- anti_gif_bot
+- CAguns
+- VAGuns
+- gifs
+- shittyHDR
+- OldSchoolCool
+- funny
+- 300BLK
+- MOGuns
+- AR10
+- MPX
+- tmsbmeta
+- iamverysmart
+---

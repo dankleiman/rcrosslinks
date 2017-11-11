@@ -1,0 +1,24 @@
+---
+title: WildernessBackpacking
+crosslinks:
+- Ultralight
+- CampingandHiking
+- backpacking
+- AdvancedBackpacking
+- Survival
+- youtubot
+- trailmeals
+- youtubefactsbot
+- u_imguralbumbot
+- hammockcamping
+- SuperiorHikingTrail
+- JMT
+- CampingGear
+- norcalhiking
+- Tenkara
+- packgoats
+- AskReddit
+- flashlight
+- ultralight
+- PacificCrestTrail
+---

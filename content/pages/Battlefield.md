@@ -1,0 +1,24 @@
+---
+title: Battlefield
+crosslinks:
+- livven
+- youtubefactsbot
+- battlefield_one
+- anti_gif_bot
+- battlefield_live
+- battlefield_4
+- youtubot
+- tmsbmeta
+- gaming
+- pcmasterrace
+- u_imguralbumbot
+- Rainbow6
+- fakehistoryporn
+- todayilearned
+- nocontext
+- MassdropBot
+- xkcd
+- autotldr
+- autourbanbot
+- AskReddit
+---

@@ -1,0 +1,24 @@
+---
+title: BokuNoHeroAcademia
+crosslinks:
+- youtubefactsbot
+- Roboragi
+- my_hero_academia
+- u_imguralbumbot
+- youtubot
+- anti_gif_bot
+- BokuNoEroAcademia
+- anime
+- Pixiv
+- vigilante
+- BnHASmashTap
+- Naruto
+- manga
+- livven
+- OnePiece
+- alotabot
+- HunterXHunter
+- john_yukis_bots
+- autourbanbot
+- anime_irl
+---

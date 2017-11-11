@@ -1,0 +1,24 @@
+---
+title: Finanzen
+crosslinks:
+- financialindependence
+- de
+- investing
+- eupersonalfinance
+- EuropeFIRE
+- weedstocks
+- btc
+- de_crypto
+- botwatch
+- Entrepreneur
+- personalfinance
+- youtubot
+- berlin
+- john_yukis_bots
+- jaxx
+- ynab
+- MealPrepSunday
+- kraken_traders
+- wallstreetbets
+- bapcsalesgermany
+---

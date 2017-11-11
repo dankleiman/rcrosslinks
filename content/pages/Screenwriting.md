@@ -1,0 +1,24 @@
+---
+title: Screenwriting
+crosslinks:
+- youtubefactsbot
+- youtubot
+- ProduceMyScript
+- ReadMyScript
+- Filmmakers
+- WritingPrompts
+- fixingmovies
+- autotldr
+- AskReddit
+- circlebroke2
+- LabyrinthineLit
+- autourbanbot
+- EelKat
+- ComicBookCollabs
+- movies
+- writing
+- scifiwriting
+- brasil
+- recordthis
+- filmmaking
+---

@@ -1,0 +1,24 @@
+---
+title: EmeraldPS2
+crosslinks:
+- Planetside
+- DuplicatesBot
+- tmsbmeta
+- planetside
+- Battlefield
+- MillerPlanetside
+- ps2ragetells
+- Connery
+- youtube
+- madlads
+- gamingsuggestions
+- AskReddit
+- MechanicalKeyboards
+- planetsidearmor
+- REEEEEEEEEE
+- Briggs
+- u_imguralbumbot
+- PrequelMemes
+- AskHistorians
+- tifu
+---

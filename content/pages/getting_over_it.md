@@ -1,0 +1,24 @@
+---
+title: getting_over_it
+crosslinks:
+- youtubefactsbot
+- SuicideWatch
+- depression
+- AskReddit
+- Existential_crisis
+- stopdrinking
+- Fitness
+- CBD
+- theXeffect
+- NonZeroDay
+- FamiliesYouChoose
+- askMRP
+- liberalgunowners
+- science
+- shrooms
+- OCD
+- C25K
+- SeriousConversation
+- bulletjournal
+- youtubot
+---

@@ -1,0 +1,24 @@
+---
+title: forwardsfromgrandma
+crosslinks:
+- youtubot
+- The_Donald
+- youtubefactsbot
+- tmsbmeta
+- politics
+- Conservative
+- AskHistorians
+- Fuckthealtright
+- funny
+- SubAutoCorrectBot
+- badhistory
+- ComedyCemetery
+- igtmsft
+- pics
+- gatekeeping
+- Anarcho_Capitalism
+- news
+- CringeAnarchy
+- ForwardsFromKlandma
+- EnoughTrumpSpam
+---

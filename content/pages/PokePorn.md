@@ -1,0 +1,24 @@
+---
+title: PokePorn
+crosslinks:
+- Pixiv
+- livven
+- u_imguralbumbot
+- FeralPokePorn
+- MassdropBot
+- Rule34FMK
+- kawamono
+- BiggerThanYouThought
+- HypnoHentai
+- youtubot
+- nebbyinthebag
+- botpopularitybot
+- FuckPokePorn
+- sexystories
+- Vore
+- rule34
+- IsAnybodyHere
+- CringeAnarchy
+- LipstickSkidMarks
+- PokeFutanari
+---

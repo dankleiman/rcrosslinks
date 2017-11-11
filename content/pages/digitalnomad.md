@@ -1,0 +1,24 @@
+---
+title: digitalnomad
+crosslinks:
+- NoNonsenseNomad
+- youtubefactsbot
+- autotldr
+- vandwellers
+- VPN
+- freelance
+- cscareerquestions
+- onebag
+- xkcd
+- john_yukis_bots
+- eResidency
+- forhire
+- bodyweightfitness
+- travel
+- solotravel
+- armenia
+- personalfinance
+- backpacking
+- Philippines
+- WordPressThemes
+---

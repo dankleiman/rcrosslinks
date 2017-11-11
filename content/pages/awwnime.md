@@ -1,0 +1,24 @@
+---
+title: awwnime
+crosslinks:
+- Roboragi
+- pantsu
+- shorthairedwaifus
+- cutelittlefangs
+- wholesomeyuri
+- anime_irl
+- anime
+- ZettaiRyouiki
+- headpats
+- Tsunderes
+- megane
+- oddeye
+- handholding
+- Animewallpaper
+- kemonomimi
+- nier
+- Animemes
+- tmsbmeta
+- awoo
+- grandorder
+---

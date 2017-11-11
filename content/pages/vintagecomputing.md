@@ -1,0 +1,24 @@
+---
+title: vintagecomputing
+crosslinks:
+- u_imguralbumbot
+- retrobattlestations
+- autotldr
+- VintageApple
+- MechanicalKeyboards
+- youtubot
+- m68k
+- trs80
+- Skookum
+- anti_gif_bot
+- Justrolledintotheshop
+- electronics
+- oldhardwareswap
+- Bestbuy
+- ObscureMedia
+- vintageaudio
+- apple2
+- Trackballs
+- thinkpad
+- youtubefactsbot
+---

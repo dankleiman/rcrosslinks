@@ -1,0 +1,24 @@
+---
+title: arizona
+crosslinks:
+- phoenix
+- autotldr
+- youtubefactsbot
+- news
+- worldnews
+- MassdropBot
+- Serendipity
+- tmsbmeta
+- politics
+- DeepGreenResistance
+- AskAnAmerican
+- badeconomics
+- youtubot
+- WatchRedditDie
+- FloridaMan
+- LICENSEPLATES
+- popular
+- titlegore
+- u_imguralbumbot
+- Tucson
+---

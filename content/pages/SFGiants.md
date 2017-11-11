@@ -1,0 +1,24 @@
+---
+title: SFGiants
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- baseball
+- MLBStreams
+- Brewers
+- livven
+- '2013'
+- Dodgers
+- john_yukis_bots
+- mlb
+- headsupbaseball
+- sanfrancisco
+- tifu
+- sfgiantscirclejerk
+- ShitEvilModsSay
+- SanFranciscoII
+- CactusLeague
+- FucktheHandlery
+- baseballcards
+- AlexandriaDeberry
+---

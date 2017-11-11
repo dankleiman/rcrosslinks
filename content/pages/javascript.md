@@ -1,0 +1,24 @@
+---
+title: javascript
+crosslinks:
+- RCBRedditBot
+- programming
+- learnjavascript
+- webdev
+- node
+- youtubefactsbot
+- xkcd
+- reactjs
+- ProgrammerHumor
+- youtubot
+- autotldr
+- typescript
+- bestof
+- CompileBot
+- aureliajs
+- Angular2
+- MachineLearning
+- anti_gif_bot
+- jquery
+- apple
+---

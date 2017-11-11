@@ -1,0 +1,24 @@
+---
+title: FilthyFrank
+crosslinks:
+- youtubefactsbot
+- youtubot
+- PinkOmega
+- livven
+- hiphopheads
+- anti_gif_bot
+- MassdropBot
+- place
+- TrueSTL
+- Idubbbz
+- u_imguralbumbot
+- smoobypost
+- botsrights
+- starterpacks
+- nohomo_bot
+- tmsbmeta
+- OverwatchCirclejerk
+- gaming
+- VaporwaveAesthetics
+- redditgetsdrawn
+---

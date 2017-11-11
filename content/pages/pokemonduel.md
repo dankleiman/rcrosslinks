@@ -1,0 +1,24 @@
+---
+title: pokemonduel
+crosslinks:
+- mod
+- u_imguralbumbot
+- custompokemonduel
+- anti_gif_bot
+- youtubefactsbot
+- PokeFodder
+- youtubot
+- tmsbmeta
+- autourbanbot
+- PokemonShuffle
+- john_yukis_bots
+- ptcgo
+- alotabot
+- livven
+- ShadowBan
+- vainglorygame
+- botpopularitybot
+- softwaregore
+- pokemonrng
+- imagesofthe1990s
+---

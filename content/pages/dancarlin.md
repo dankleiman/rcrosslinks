@@ -1,0 +1,24 @@
+---
+title: dancarlin
+crosslinks:
+- youtubefactsbot
+- martyrmade
+- AskHistorians
+- youtubot
+- anti_gif_bot
+- politics
+- ChapoTrapHouse
+- liberalgunowners
+- Drama
+- badhistory
+- ApplyingToCollege
+- socialism
+- LinkFixBot
+- PublicFreakout
+- MapPorn
+- xkcd
+- worldnews
+- books
+- samharris
+- TOTALLYROBOTS
+---

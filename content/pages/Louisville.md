@@ -1,0 +1,24 @@
+---
+title: Louisville
+crosslinks:
+- autotldr
+- youtubefactsbot
+- bestof
+- modhelp
+- CollegeBasketball
+- videos
+- lexington
+- alotabot
+- AmIFreeToGo
+- SubredditDrama
+- Kentucky
+- livven
+- AskReddit
+- college
+- explainlikeimfive
+- LouisvilleCityFC
+- trebuchetmemes
+- trebuchetmemes_irl
+- Urbex
+- furry_irl
+---

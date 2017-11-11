@@ -1,0 +1,24 @@
+---
+title: ifttt
+crosslinks:
+- tasker
+- livven
+- discordapp
+- freebies
+- amazonecho
+- youtubot
+- travel
+- MapPorn
+- googlehome
+- subreddit
+- EarthPorn
+- androidapps
+- workflow
+- ConjureApp
+- anti_gif_bot
+- RocketLeagueExchange
+- homeautomation
+- u_imguralbumbot
+- pics
+- excel
+---

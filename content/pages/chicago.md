@@ -1,0 +1,24 @@
+---
+title: chicago
+crosslinks:
+- autotldr
+- youtubot
+- ChicagoNWside
+- chicagobeer
+- The_Donald
+- u_imguralbumbot
+- IAmA
+- youtubefactsbot
+- bestof
+- livven
+- OutOfTheLoop
+- greatNWside
+- AskReddit
+- autourbanbot
+- chicagofood
+- chicagohelicopters
+- ChicagoCirclejerk
+- LateStageCapitalism
+- illinois
+- ChicagoSuburbs
+---

@@ -1,0 +1,24 @@
+---
+title: TVDetails
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- anti_gif_bot
+- rickandmorty
+- IAmA
+- eastereggs
+- southpark
+- fuckolly
+- SCP
+- gatekeeping
+- BoJackHorseman
+- botwatch
+- howyoudoin
+- MovieDetails
+- starwarsrebels
+- commentgore
+- livven
+- continuityporn
+- xkcd
+- startrek
+---

@@ -1,0 +1,24 @@
+---
+title: webdev
+crosslinks:
+- youtubefactsbot
+- xkcd
+- web_design
+- javascript
+- RCBRedditBot
+- programming
+- autotldr
+- youtubot
+- groupdeals
+- u_imguralbumbot
+- learnprogramming
+- john_yukis_bots
+- autourbanbot
+- web_dev_help
+- sysadmin
+- ProgrammerHumor
+- forhire
+- GravCMS
+- cscareerquestions
+- lolphp
+---

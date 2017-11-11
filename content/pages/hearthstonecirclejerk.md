@@ -1,0 +1,24 @@
+---
+title: hearthstonecirclejerk
+crosslinks:
+- hearthstone
+- livven
+- u_imguralbumbot
+- youtubefactsbot
+- CompetitiveHS
+- anti_gif_bot
+- REEEEEEEEEE
+- tmsbmeta
+- customhearthstone
+- pathofexile
+- botwatch
+- AMAAggregator
+- Shadowverse
+- me_irl
+- magicTCG
+- OverwatchCirclejerk
+- nohomo_bot
+- User_Simulator
+- combinedgifs
+- ImagesOfChina
+---

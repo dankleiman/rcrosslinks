@@ -1,0 +1,24 @@
+---
+title: GradSchool
+crosslinks:
+- youtubefactsbot
+- gradadmissions
+- xkcd
+- autotldr
+- college
+- labrats
+- AskReddit
+- john_yukis_bots
+- AskAcademia
+- GRE
+- u_imguralbumbot
+- livven
+- cscareerquestions
+- autourbanbot
+- SuicideWatch
+- SubredditDrama
+- SampleSize
+- Physics
+- MildRedditDrama
+- bulletjournal
+---

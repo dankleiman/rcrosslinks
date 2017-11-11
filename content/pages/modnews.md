@@ -1,0 +1,24 @@
+---
+title: modnews
+crosslinks:
+- ModSupport
+- announcements
+- beta
+- ideasfortheadmins
+- changelog
+- The_Donald
+- all
+- help
+- videos
+- youtubefactsbot
+- modclub
+- redditmobile
+- mod
+- ProCSS
+- Drama
+- gifs
+- subreddit
+- SubNotifications
+- leagueoflegends
+- WhatAboutSRS
+---

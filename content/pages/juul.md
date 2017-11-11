@@ -1,0 +1,24 @@
+---
+title: juul
+crosslinks:
+- electronic_cigarette
+- fakeid
+- youtubefactsbot
+- ecigclassifieds
+- u_imguralbumbot
+- UnderageJuul
+- DIY_eJuice
+- Deeper_DIY
+- Showerthoughts
+- askingforafriend
+- me_irl
+- The_Donald
+- fasting
+- ftm
+- anti_gif_bot
+- DIY_eJuiceExchange
+- relationships
+- xkcd
+- supremeclothing
+- Drugs
+---

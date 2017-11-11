@@ -1,0 +1,24 @@
+---
+title: RedPillWives
+crosslinks:
+- FeminineNotFeminist
+- RedPillWomen
+- TheBluePill
+- bulletjournal
+- autourbanbot
+- RPChristians
+- relationships
+- Kombucha
+- Zoomies
+- AttachmentParenting
+- Parenting
+- AsianBeauty
+- rant
+- femalefashionadvice
+- TheRedPill
+- INTP
+- sex
+- sleep
+- BabyBumps
+- stopdrinking
+---

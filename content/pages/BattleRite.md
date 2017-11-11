@@ -1,0 +1,24 @@
+---
+title: BattleRite
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- BattleriteFanConcepts
+- youtubot
+- livven
+- pcgaming
+- john_yukis_bots
+- BattleriteLFF
+- waifuism
+- GamingPlays
+- DotA2
+- gifs
+- alotabot
+- bloodlinechampions
+- REEEEEEEEEE
+- pcmasterrace
+- autourbanbot
+- GlobalOffensive
+- instantbarbarians
+- iamverybadass
+---

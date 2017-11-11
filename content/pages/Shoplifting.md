@@ -1,0 +1,24 @@
+---
+title: Shoplifting
+crosslinks:
+- youtubefactsbot
+- RedditAlternatives
+- Stealing
+- tmsbmeta
+- livven
+- iamverybadass
+- u_imguralbumbot
+- lossprevention
+- youtubot
+- fakeid
+- Fraudnet2
+- videos
+- AskReddit
+- john_yukis_bots
+- Flipping
+- Piracy
+- The_Donald
+- turdavalanches
+- Bestbuy
+- IAmA
+---

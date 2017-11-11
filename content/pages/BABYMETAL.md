@@ -1,0 +1,24 @@
+---
+title: BABYMETAL
+crosslinks:
+- SakuraGakuin
+- youtubot
+- u_imguralbumbot
+- BABYMETALMemes
+- place
+- ShitTheFalseSay
+- MassdropBot
+- BABYMETALReactVideos
+- YUIMETAL
+- videos
+- BABYMETALEspanol
+- autourbanbot
+- Music
+- Korn
+- john_yukis_bots
+- BandMaid
+- BABYMETALJapanese
+- pics
+- OutOfTheLoop
+- BABYMETAL_japan
+---

@@ -1,0 +1,24 @@
+---
+title: emojipasta
+crosslinks:
+- DankMemeArchive
+- tmsbmeta
+- copypasta
+- botsrights
+- youtubefactsbot
+- AskReddit
+- sexwithhorses
+- GlobalOffensive
+- MassdropBot
+- BotRights
+- sex
+- u_imguralbumbot
+- zoophilia
+- rupaulsdragrace
+- me_irl
+- ComedyCemetery
+- tendies
+- iamverysmart
+- dankmemes
+- justneckbeardthings
+---

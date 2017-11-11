@@ -1,0 +1,24 @@
+---
+title: Geosim
+crosslinks:
+- youtubefactsbot
+- vexillology
+- MapPorn
+- imaginarymaps
+- The_Bharat
+- youtubot
+- MassaF1Ferrari
+- MassdropBot
+- Doggerlundt
+- doggerland
+- autotldr
+- ronpaulshops
+- AmericaAplication
+- worldroleplay
+- wiki
+- Brink_of_War
+- Turkey
+- russia
+- armenia
+- Suomi
+---

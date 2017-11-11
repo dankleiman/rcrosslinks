@@ -1,0 +1,24 @@
+---
+title: buildapc
+crosslinks:
+- buildapcsales
+- Amd
+- pcmasterrace
+- u_imguralbumbot
+- hardwareswap
+- nvidia
+- Monitors
+- buildapcforme
+- hardware
+- overclocking
+- bapcsalescanada
+- techsupport
+- buildmeapc
+- MechanicalKeyboards
+- PCMasterRace
+- sffpc
+- SuggestALaptop
+- GlobalOffensive
+- pcgaming
+- headphones
+---

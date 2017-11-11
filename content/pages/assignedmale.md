@@ -1,0 +1,24 @@
+---
+title: assignedmale
+crosslinks:
+- science
+- u_imguralbumbot
+- CringeAnarchy
+- xkcd
+- assholedesign
+- aww
+- gifs
+- UnexpectedJoJo
+- all
+- ProCSS
+- Drama
+- comedynecromancy
+- DrawingPrompts
+- Conservative
+- asktransgender
+- unpopularopinion
+- smoobypost
+- traaaaaaannnnnnnnnns
+- subredditoftheday
+- youtubot
+---

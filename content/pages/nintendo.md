@@ -1,0 +1,24 @@
+---
+title: nintendo
+crosslinks:
+- youtubefactsbot
+- gaming
+- NintendoSwitch
+- youtubot
+- 3DS
+- u_imguralbumbot
+- Games
+- fireemblem
+- livven
+- Gamingcirclejerk
+- pokemon
+- gamecollecting
+- zelda
+- wiiu
+- splatoon
+- nintendoswitch
+- Metroid
+- xkcd
+- casualnintendo
+- 3dshacks
+---

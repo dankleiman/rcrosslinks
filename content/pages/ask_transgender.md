@@ -1,0 +1,24 @@
+---
+title: ask_transgender
+crosslinks:
+- asktransgender
+- mypartneristrans
+- ftm
+- TransDIY
+- transgenderau
+- ABraThatFits
+- science
+- transtimelines
+- Transgender_Surgeries
+- GenderCynical
+- Roboragi
+- MassdropBot
+- transgendercirclejerk
+- youtubefactsbot
+- youtubot
+- ainbow
+- badneuroscience
+- actuallesbians
+- transgender
+- lgbt
+---

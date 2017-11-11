@@ -1,0 +1,24 @@
+---
+title: EOOD
+crosslinks:
+- tommytext
+- theXeffect
+- youtubot
+- zerocarb
+- bodyweightfitness
+- Fitness
+- getdisciplined
+- happy
+- everymanshouldknow
+- askscience
+- glasses
+- Serendipity
+- C25K
+- RunningWithDogs
+- progresspics
+- Eyebleach
+- keto
+- youtubefactsbot
+- SuicideWatch
+- Fitocracy
+---

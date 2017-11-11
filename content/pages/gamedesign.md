@@ -1,0 +1,24 @@
+---
+title: gamedesign
+crosslinks:
+- gamedev
+- youtubefactsbot
+- MMORPG
+- youtubot
+- gameideas
+- ludology
+- tabletopgamedesign
+- Games
+- devblogs
+- truegaming
+- truetf2
+- gameDevClassifieds
+- badhistory
+- proceduralgeneration
+- worldbuilding
+- xkcd
+- u_imguralbumbot
+- INAT
+- MassdropBot
+- roguelikes
+---

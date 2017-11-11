@@ -1,0 +1,24 @@
+---
+title: Marvel
+crosslinks:
+- youtubefactsbot
+- comicbooks
+- marvelstudios
+- u_imguralbumbot
+- autotldr
+- xmen
+- livven
+- Runaways
+- Spiderman
+- youtubot
+- movies
+- whowouldwin
+- respectthreads
+- indonesia
+- DCcomics
+- moviescirclejerk
+- tmsbmeta
+- IAmA
+- WatchRedditDie
+- SuperheroCirclejerk
+---

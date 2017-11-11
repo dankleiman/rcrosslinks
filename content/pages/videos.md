@@ -1,0 +1,24 @@
+---
+title: videos
+crosslinks:
+- AskReddit
+- IAmA
+- bestof
+- youtubot
+- goodlongposts
+- HailCorporate
+- pics
+- tmsbmeta
+- funny
+- circlebroke2
+- todayilearned
+- h3h3productions
+- The_Donald
+- OutOfTheLoop
+- movies
+- SubredditDrama
+- gifs
+- news
+- ShitRedditSays
+- WTF
+---

@@ -1,0 +1,24 @@
+---
+title: Cinemagraphs
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- perfectloops
+- MassdropBot
+- u_imguralbumbot
+- Plastuer
+- botwatch
+- HailCorporate
+- youtubot
+- Art
+- LivingBackgrounds
+- aww
+- thalassophobia
+- woahdude
+- gifs
+- noisygifs
+- totallynotrobots
+- WeatherGifs
+- mildlypenis
+---

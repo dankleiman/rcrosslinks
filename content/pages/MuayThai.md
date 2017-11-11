@@ -1,0 +1,24 @@
+---
+title: MuayThai
+crosslinks:
+- youtubefactsbot
+- youtubot
+- martialarts
+- alotabot
+- anti_gif_bot
+- bodyweightfitness
+- MMA
+- tmsbmeta
+- Kickboxing
+- amateur_boxing
+- NoNewsMMA
+- sports
+- Soap
+- nutrition
+- me_irl
+- u_imguralbumbot
+- livven
+- fitness
+- holdmybeer
+- flexibility
+---

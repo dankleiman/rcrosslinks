@@ -1,0 +1,24 @@
+---
+title: intrusivethoughts
+crosslinks:
+- youtubefactsbot
+- getdisciplined
+- MadeOfStyrofoam
+- AskReddit
+- offmychest
+- schizophrenia
+- iamverybadass
+- Showerthoughts
+- youtubot
+- solipsism
+- researchchemicals
+- Serendipity
+- PreggoPorn
+- Drugs
+- EmpireDidNothingWrong
+- NSFW411
+- dpdr
+- arttocope
+- bestof
+- quityourbullshit
+---

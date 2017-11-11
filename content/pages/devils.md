@@ -1,0 +1,24 @@
+---
+title: devils
+crosslinks:
+- youtubefactsbot
+- hockey
+- u_imguralbumbot
+- youtubot
+- hockeyjerseys
+- tmsbmeta
+- livven
+- NHLStreams
+- TorontoMarlies
+- anti_gif_bot
+- john_yukis_bots
+- reddit_stream
+- rangers
+- alotabot
+- SanJoseSharks
+- copypasta
+- ShotGlassBets
+- ChurchOfLappin
+- NHLstatheads
+- '2013'
+---

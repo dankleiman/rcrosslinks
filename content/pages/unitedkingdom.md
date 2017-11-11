@@ -1,0 +1,24 @@
+---
+title: unitedkingdom
+crosslinks:
+- ukpolitics
+- europe
+- worldnews
+- AskReddit
+- AskUK
+- london
+- policeuk
+- AskHistorians
+- LegalAdviceUK
+- politics
+- Scotland
+- UKPersonalFinance
+- ireland
+- science
+- The_Donald
+- todayilearned
+- LabourUK
+- place
+- UKdocumentaries
+- nottheonion
+---

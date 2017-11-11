@@ -1,0 +1,24 @@
+---
+title: rpg_gamers
+crosslinks:
+- anti_gif_bot
+- Games
+- youtubefactsbot
+- youtubot
+- tipofmyjoystick
+- Shadowrun
+- MMORPG
+- 3dshacks
+- StrategyGames
+- Morrowind
+- truegaming
+- baldursgate
+- politicallyincorrect
+- neverwinternights
+- FinalFantasy
+- dragonsdogmaonline
+- gamedev
+- MUD
+- Torment
+- mmorpg
+---

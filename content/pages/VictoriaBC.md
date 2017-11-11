@@ -1,0 +1,24 @@
+---
+title: VictoriaBC
+crosslinks:
+- canada
+- livven
+- tmsbmeta
+- PersonalFinanceCanada
+- AskCulinary
+- vancouver
+- youtubot
+- AskReddit
+- uvic
+- MassdropBot
+- autourbanbot
+- britishcolumbia
+- CanadaPolitics
+- woahdude
+- Libertarian
+- u_imguralbumbot
+- childfree
+- Flipping
+- iamverybadass
+- news
+---

@@ -1,0 +1,24 @@
+---
+title: medicalschool
+crosslinks:
+- youtubefactsbot
+- livven
+- medicine
+- step1
+- premed
+- youtubot
+- u_imguralbumbot
+- MassdropBot
+- john_yukis_bots
+- autotldr
+- nohomo_bot
+- xkcd
+- doctorsthatgame
+- churning
+- nursing
+- tmsbmeta
+- AskReddit
+- legaladvice
+- gifs
+- personalfinance
+---

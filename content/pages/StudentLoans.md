@@ -1,0 +1,24 @@
+---
+title: StudentLoans
+crosslinks:
+- personalfinance
+- churning
+- legaladvice
+- u_imguralbumbot
+- bestof
+- army
+- mturk
+- gamedev
+- legal
+- shittyadvice
+- excgarated
+- indieheads
+- SampleSize
+- freelance
+- youtubefactsbot
+- studentloandefaulters
+- Serendipity
+- borrow
+- exjw
+- raisedbynarcissists
+---

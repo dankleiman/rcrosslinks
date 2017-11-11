@@ -1,0 +1,24 @@
+---
+title: Amoledbackgrounds
+crosslinks:
+- wallpapers
+- u_imguralbumbot
+- Verticalwallpapers
+- androidthemes
+- space
+- Art
+- oneplus
+- gaming
+- EarthPorn
+- PixelArt
+- MassdropBot
+- pics
+- mobilewallpapers
+- Nexus6P
+- earthporn
+- futurama
+- deathgrips
+- 49ers
+- RocketLeague
+- ExposurePorn
+---

@@ -1,0 +1,24 @@
+---
+title: ElysiumProject
+crosslinks:
+- youtubefactsbot
+- wowservers
+- Nostalrius
+- iamverysmart
+- u_imguralbumbot
+- livven
+- wow
+- LegacyAddons
+- xkcd
+- youtubot
+- EnoughTaxoroSpam
+- coinflipbot
+- kronos2wow
+- REEEEEEEEEE
+- rebirthwow
+- 2007scape
+- iamverybadass
+- justneckbeardthings
+- alotabot
+- autourbanbot
+---

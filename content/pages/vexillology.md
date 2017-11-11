@@ -1,0 +1,24 @@
+---
+title: vexillology
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- vexillologycirclejerk
+- BrasilOnReddit
+- youtubot
+- botpopularitybot
+- PortugalOnReddit
+- heraldry
+- europe
+- AskHistorians
+- anti_gif_bot
+- HelloInternet
+- pics
+- botwatch
+- place
+- polandball
+- imaginarymaps
+- soccer
+- xkcd
+- MapPorn
+---

@@ -1,0 +1,24 @@
+---
+title: DesirePath
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- DesirePaths
+- Wellworn
+- livven
+- thingsforants
+- mildlyinteresting
+- oddlysatisfying
+- tmsbmeta
+- firstworldanarchists
+- dontdeadopeninside
+- IgnorantImgur
+- Guitar
+- FuckTammy
+- gildedbot
+- gifs
+- youtubot
+- PimpYourMomForKarma
+- TwoRedditorsOneCup
+- titleporn
+---

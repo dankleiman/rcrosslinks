@@ -1,0 +1,24 @@
+---
+title: hackintosh
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- hackintosh_ja
+- youtubot
+- hardwareswap
+- mac
+- botpopularitybot
+- smooze
+- buildapc
+- apple
+- unixporn
+- osx
+- buildapcsales
+- autotldr
+- pcmasterrace
+- thinkpad
+- AboutDeSouffle
+- john_yukis_bots
+- chrultrabook
+- hardwaredeals
+---

@@ -1,0 +1,24 @@
+---
+title: religion
+crosslinks:
+- autotldr
+- DebateReligion
+- TiesThatBind
+- youtubefactsbot
+- islam
+- Christianity
+- youtubot
+- AcademicBiblical
+- Setianism
+- bahai
+- exjw
+- AskHistorians
+- TMBR
+- Judaism
+- OnThisDateInBahai
+- Buddhism
+- ShrugLifeSyndicate
+- EsotericOccult
+- TheBlackFlame
+- exbahai
+---

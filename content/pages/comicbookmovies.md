@@ -1,0 +1,24 @@
+---
+title: comicbookmovies
+crosslinks:
+- autotldr
+- youtubefactsbot
+- DC_Cinematic
+- MassdropBot
+- moviescirclejerk
+- movies
+- SuperheroCirclejerk
+- youtubot
+- LearnUselessTalents
+- gatekeeping
+- DC_Shazam
+- HFY
+- xkcd
+- videos
+- NegativeWithGold
+- '2006'
+- u_imguralbumbot
+- comicbooks
+- alotabot
+- marvelstudios
+---

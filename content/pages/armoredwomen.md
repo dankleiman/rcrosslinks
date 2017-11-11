@@ -1,0 +1,24 @@
+---
+title: armoredwomen
+crosslinks:
+- ReasonableFantasy
+- ArtofHands
+- stevenuniverse
+- EbonyImagination
+- wma
+- StarVStheForcesofEvil
+- starcitizen
+- ImaginaryDragons
+- gatekeeping
+- sca
+- EpicMounts
+- Smite
+- ShitLiberalsSay
+- ScottishPeopleTwitter
+- DnD
+- youtubefactsbot
+- SympatheticMonsters
+- confusedboner
+- ImaginaryArmor
+- alternativeart
+---

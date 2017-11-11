@@ -1,0 +1,24 @@
+---
+title: FiveYearsAgoOnReddit
+crosslinks:
+- funny
+- pics
+- gaming
+- aww
+- WTF
+- fffffffuuuuuuuuuuuu
+- atheism
+- trees
+- politics
+- gifs
+- AdviceAnimals
+- worldnews
+- Minecraft
+- movies
+- todayilearned
+- 4chan
+- reactiongifs
+- pokemon
+- technology
+- gameofthrones
+---

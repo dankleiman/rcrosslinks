@@ -1,0 +1,24 @@
+---
+title: rickandmorty
+crosslinks:
+- youtubefactsbot
+- IAmA
+- youtubot
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- SzechuanSauceSeekers
+- tmsbmeta
+- john_yukis_bots
+- shitpost
+- xkcd
+- botwatch
+- videos
+- c137
+- AskReddit
+- autotldr
+- HailCorporate
+- FuckTammy
+- rickandmorty_C137
+- GunsNRoses
+---

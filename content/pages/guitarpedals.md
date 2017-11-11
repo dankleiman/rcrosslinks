@@ -1,0 +1,24 @@
+---
+title: guitarpedals
+crosslinks:
+- diypedals
+- tmsbmeta
+- letstradepedals
+- guitarpedalsjerk
+- Guitar
+- offset
+- goodgeardemos
+- GuitarAmps
+- AskReddit
+- guitaramps
+- synthesizers
+- guitars
+- unexpectedfactorial
+- mathrock
+- AnnieClark
+- trebuchetmemes
+- anti_gif_bot
+- gaming
+- ExpectationVsReality
+- JeopardyQBot
+---

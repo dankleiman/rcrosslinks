@@ -1,0 +1,24 @@
+---
+title: vitahacks
+crosslinks:
+- VitaPiracy
+- youtubefactsbot
+- vita
+- u_imguralbumbot
+- 3dshacks
+- youtubot
+- PSP
+- ngvjhl
+- RetroArch
+- hardwareswap
+- vitapiracy
+- emulation
+- eu4
+- circle
+- EmulationOnAndroid
+- pics
+- nottheonion
+- pcmasterrace
+- windows
+- vita_deals
+---

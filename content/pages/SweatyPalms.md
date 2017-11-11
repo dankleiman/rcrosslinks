@@ -1,0 +1,24 @@
+---
+title: SweatyPalms
+crosslinks:
+- youtubefactsbot
+- livven
+- watchpeopledie
+- anti_gif_bot
+- gifs
+- botwatch
+- WTF
+- tmsbmeta
+- u_imguralbumbot
+- pics
+- thalassophobia
+- MassdropBot
+- motorcycles
+- AskReddit
+- woahdude
+- CalamariRaceTeam
+- xkcd
+- nonononoyes
+- interestingasfuck
+- UNBGBBIIVCHIDCTIICBG
+---

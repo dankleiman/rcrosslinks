@@ -1,0 +1,24 @@
+---
+title: nes
+crosslinks:
+- gamecollecting
+- u_imguralbumbot
+- retrogaming
+- snes
+- anti_gif_bot
+- tipofmyjoystick
+- beadsprites
+- minines
+- ProCSS
+- O90sKWU
+- chinadirect
+- ThatPeelingFeeling
+- blastermaster
+- rva
+- youtubot
+- livven
+- shittyaskphilosophy
+- Netplay
+- SignalYourVirtue
+- speedrun
+---

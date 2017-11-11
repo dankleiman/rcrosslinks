@@ -1,0 +1,24 @@
+---
+title: Multicopter
+crosslinks:
+- youtubefactsbot
+- youtubot
+- multicopterbuilds
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- fpv
+- drones
+- TinyWhoop
+- 3Dprinting
+- autotldr
+- RCClassifieds
+- radiocontrol
+- xkcd
+- gifs
+- fpvracing
+- tmsbmeta
+- Quadcopter
+- AddictedToBangGood
+- nvidia
+---

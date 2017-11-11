@@ -1,0 +1,24 @@
+---
+title: IsraelPalestine
+crosslinks:
+- Palestine
+- ArabIsraeliConflict
+- Israel
+- worldnews
+- youtubefactsbot
+- religion
+- arabs
+- Palestinesubwatch
+- youtubot
+- Tunisia
+- fiction
+- jordan
+- conspiracy
+- MapPorn
+- autourbanbot
+- news
+- place
+- alotabot
+- Donald
+- tibet
+---

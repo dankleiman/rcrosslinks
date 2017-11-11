@@ -1,0 +1,24 @@
+---
+title: rct
+crosslinks:
+- tmsbmeta
+- openrct2
+- rollercoastercontests
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- youtubot
+- john_yukis_bots
+- RCTTouch
+- pcgaming
+- MassdropBot
+- PSVR
+- FrenchWestIndies
+- trees
+- kindlefire
+- restofthefuckingowl
+- Games
+- anti_gif_bot
+- GuessTheCoaster
+- modnews
+---

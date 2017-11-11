@@ -1,0 +1,24 @@
+---
+title: longisland
+crosslinks:
+- autotldr
+- youtubefactsbot
+- livven
+- HateCrimeHoaxes
+- iamverybadass
+- lawncare
+- Roadcam
+- funny
+- MassdropBot
+- vegan
+- whatsthisbug
+- darksouls
+- nyc
+- u_imguralbumbot
+- IAmA
+- TheRedPill
+- gatekeeping
+- sousvide
+- NYCC
+- socialism
+---

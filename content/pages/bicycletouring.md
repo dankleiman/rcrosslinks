@@ -1,0 +1,24 @@
+---
+title: bicycletouring
+crosslinks:
+- u_imguralbumbot
+- bicycling
+- bikepacking
+- youtubefactsbot
+- BicyclingCirclejerk
+- MTB
+- CampingandHiking
+- gatekeeping
+- Serendipity
+- Touringbicycles
+- travel
+- ar15
+- oregon
+- whichbike
+- tmsbmeta
+- autourbanbot
+- LiverpoolFC
+- Ultralight
+- MassdropBot
+- triathlon
+---

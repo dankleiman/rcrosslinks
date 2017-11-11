@@ -1,0 +1,24 @@
+---
+title: ProjectFi
+crosslinks:
+- Nexus6P
+- nexus5x
+- Android
+- GooglePixel
+- NoContract
+- u_imguralbumbot
+- churning
+- youtubefactsbot
+- autotldr
+- verizon
+- mintsim
+- xkcd
+- AndroidWear
+- Nexus
+- tmobile
+- nexus6p
+- signal
+- MotoX4
+- NetflixViaVPN
+- nexus6
+---

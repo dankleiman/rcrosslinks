@@ -1,0 +1,24 @@
+---
+title: toosoon
+crosslinks:
+- youtubefactsbot
+- autotldr
+- The_Donald
+- livven
+- u_imguralbumbot
+- anti_gif_bot
+- youtubot
+- toolate
+- pics
+- tmsbmeta
+- autourbanbot
+- dankmemes
+- ShitPoliticsSays
+- EnoughTrumpSpam
+- botwatch
+- todayilearned
+- ComedyCemetery
+- DarwinAwards
+- Jokes
+- politics
+---

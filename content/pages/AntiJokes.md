@@ -1,0 +1,24 @@
+---
+title: AntiJokes
+crosslinks:
+- AntiAntiJokes
+- Jokes
+- tmsbmeta
+- antiantiantijokes
+- SubAutoCorrectBot
+- AskReddit
+- darkjokes
+- theydidthefuckyou
+- PrequelMemes
+- ComedyCemetery
+- iamverysmart
+- counting
+- ShitLiberalsSay
+- dadjokes
+- bonehurtingjuice
+- AntiJakes
+- totallynotrobots
+- SuicideWatch
+- announcements
+- CAHbot
+---

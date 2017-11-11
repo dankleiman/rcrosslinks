@@ -1,0 +1,24 @@
+---
+title: TheSilphRoad
+crosslinks:
+- pokemongo
+- u_imguralbumbot
+- youtubefactsbot
+- pokemongodev
+- GoPlus
+- PokemonGoPodcast
+- PokemonGOIVs
+- Ingress
+- tmsbmeta
+- xkcd
+- youtubot
+- pokebattler
+- alotabot
+- GoIV
+- pokemon
+- PokemonGoSpoofing
+- PokemonGoBoston
+- PokemonGoChi
+- pokemongocirclejerk
+- pokemongoLondon
+---

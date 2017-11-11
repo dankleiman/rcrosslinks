@@ -1,0 +1,24 @@
+---
+title: DarkHumor
+crosslinks:
+- Jokes
+- tmsbmeta
+- john_yukis_bots
+- downvotesreally
+- BestOfReports
+- DirtyJokes
+- ich_iel
+- phonewallpapers
+- bertstrips
+- autotldr
+- TwoXChromosomes
+- ImGoingToHellForThis
+- BrasilOnReddit
+- excgarated
+- wallstreetbets
+- Punny
+- Showerthoughts
+- xkcd
+- DeepIntoYouTube
+- darkjokes
+---

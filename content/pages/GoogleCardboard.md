@@ -1,0 +1,24 @@
+---
+title: GoogleCardboard
+crosslinks:
+- GearVR
+- daydream
+- youtubefactsbot
+- vridge
+- youtubot
+- Android
+- oculus
+- cardboardVR
+- Vive
+- xkcd
+- PSVR
+- tmsbmeta
+- linux
+- oculusnsfw
+- uncharted
+- virtualreality
+- gadgets
+- autotldr
+- mobilevrstation
+- cardboard
+---

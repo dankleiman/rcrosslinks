@@ -1,0 +1,24 @@
+---
+title: watercooling
+crosslinks:
+- hardwareswap
+- u_imguralbumbot
+- buildapc
+- pcmasterrace
+- youtubot
+- youtubefactsbot
+- sffpc
+- nvidia
+- alotabot
+- pcmods
+- john_yukis_bots
+- overclocking
+- 24cz2f7
+- anti_gif_bot
+- NZXT
+- buildapcsales
+- gamingpc
+- Amd
+- translator
+- homelab
+---

@@ -1,0 +1,24 @@
+---
+title: shittyprogramming
+crosslinks:
+- CompileBot
+- xkcd
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- livven
+- Shittyspamming
+- css
+- neckbeardrpg
+- delusionalartists
+- UnexpectedCiv
+- softwaregore
+- DimensionalJumping
+- facepalm
+- dropbox
+- unexpectedhogwarts
+- pwned
+- unexpectedemoticon
+- badcode
+- VXJunkies
+---

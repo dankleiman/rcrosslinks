@@ -1,0 +1,24 @@
+---
+title: crossfit
+crosslinks:
+- youtubefactsbot
+- Fitness
+- youtubot
+- homegym
+- livven
+- weightlifting
+- bodyweightfitness
+- u_imguralbumbot
+- nohomo_bot
+- gifs
+- IAmA
+- weightroom
+- MassdropBot
+- john_yukis_bots
+- Testosterone
+- xxfitness
+- bodybuilding
+- flexibility
+- visitingiceland
+- HIIT
+---

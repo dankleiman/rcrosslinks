@@ -1,0 +1,24 @@
+---
+title: environment
+crosslinks:
+- youtubefactsbot
+- worldnews
+- aftertheflood
+- ZeroWaste
+- The_Donald
+- xkcd
+- politics
+- youtubot
+- science
+- worldpolitics
+- weather
+- pics
+- collapse
+- EnoughTrumpSpam
+- AskReddit
+- Republican
+- autourbanbot
+- todayilearned
+- nohomo_bot
+- vegan
+---

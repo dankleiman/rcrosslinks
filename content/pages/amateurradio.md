@@ -1,0 +1,24 @@
+---
+title: amateurradio
+crosslinks:
+- RTLSDR
+- youtubefactsbot
+- hamdevs
+- towerporn
+- shortwave
+- autourbanbot
+- xkcd
+- gmrs
+- livven
+- signalidentification
+- '2013'
+- youtubot
+- sysadmin
+- dogetipbot
+- retrobattlestations
+- Baofeng
+- HamFest
+- TropicalWeather
+- RadioScanning
+- trees
+---

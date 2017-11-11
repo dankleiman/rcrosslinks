@@ -1,0 +1,24 @@
+---
+title: indonesia
+crosslinks:
+- youtubefactsbot
+- youtubot
+- autotldr
+- IndoFinance
+- place
+- malaysia
+- tmsbmeta
+- worldnews
+- AskReddit
+- xkcd
+- The_Donald
+- bukanposronda
+- RepressedGoneWild
+- OrangIndo
+- Marvel
+- IndonesiaCirclejerk
+- explainlikeimfive
+- dwarffortress
+- exmuslim
+- islam
+---

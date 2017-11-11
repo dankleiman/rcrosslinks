@@ -1,0 +1,24 @@
+---
+title: minnesotavikings
+crosslinks:
+- youtubefactsbot
+- nfl
+- youtubot
+- livven
+- anti_gif_bot
+- MemeasotaVikings
+- GreenBayPackers
+- detroitlions
+- botpopularitybot
+- u_imguralbumbot
+- john_yukis_bots
+- minnesotatwins
+- CoalitionAgainstEvil
+- fantasyfootball
+- wildhockey
+- reddit_stream
+- SubAutoCorrectBot
+- nflstreams
+- sports
+- ravens
+---

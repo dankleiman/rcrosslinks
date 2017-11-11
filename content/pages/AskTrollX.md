@@ -1,0 +1,24 @@
+---
+title: AskTrollX
+crosslinks:
+- anti_gif_bot
+- u_imguralbumbot
+- TrollXChromosomes
+- Troll4Troll
+- LongDistance
+- JUSTNOMIL
+- childfree
+- ABraThatFits
+- xxfitness
+- AskWomen
+- sex
+- youtubefactsbot
+- LadyLeads
+- EOOD
+- SexToys
+- blackladies
+- popping
+- exjw
+- bodyweightfitness
+- Mindfulness
+---

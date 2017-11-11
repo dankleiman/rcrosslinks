@@ -1,0 +1,24 @@
+---
+title: Finland
+crosslinks:
+- Suomi
+- youtubefactsbot
+- LearnFinnish
+- youtubot
+- autotldr
+- AskEurope
+- xkcd
+- place
+- IAmA
+- brasil
+- pics
+- john_yukis_bots
+- autourbanbot
+- PennStateUniversity
+- changemyview
+- ShitAmericansSay
+- AskReddit
+- CHIBears
+- NotKenM
+- Svenska
+---

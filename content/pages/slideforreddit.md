@@ -1,0 +1,24 @@
+---
+title: slideforreddit
+crosslinks:
+- Android
+- anime
+- MassdropBot
+- androidapps
+- EarthPorn
+- AskReddit
+- help
+- bugs
+- livven
+- modnews
+- Rainbow6
+- downsyndrome
+- redditdev
+- soccer
+- gaming
+- anti_gif_bot
+- Austin
+- Ubuntu
+- anime_irl
+- talesfromtechsupport
+---

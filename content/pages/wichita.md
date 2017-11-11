@@ -1,0 +1,24 @@
+---
+title: wichita
+crosslinks:
+- youtubefactsbot
+- autotldr
+- youtubot
+- kansas
+- pics
+- wichitastateuni
+- MassdropBot
+- u_imguralbumbot
+- Roadcam
+- EnoughTrumpSpam
+- bestof
+- WTF
+- politics
+- AskHistorians
+- OutOfTheLoop
+- Ask_Politics
+- SandersForPresident
+- gifs
+- autourbanbot
+- Vue
+---

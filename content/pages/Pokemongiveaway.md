@@ -1,0 +1,24 @@
+---
+title: Pokemongiveaway
+crosslinks:
+- pokemontrades
+- kappabowlpraise
+- ShinyPokemon
+- pokemon
+- 3dshacks
+- BreedingDittos
+- PokemonPlaza
+- stunfisk
+- powersaves3ds
+- PokeMoonSun
+- FestivalPlaza
+- BankBallExchange
+- PkmnGiveawayRefs
+- CasualPokemonTrades
+- PokemonCreate
+- 2exlzlv
+- beasts
+- Animals_Being_Dumb
+- tabled
+- HybridAnimals
+---

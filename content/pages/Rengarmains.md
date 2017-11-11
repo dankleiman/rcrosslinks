@@ -1,0 +1,24 @@
+---
+title: Rengarmains
+crosslinks:
+- leagueoflegends
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- sufficiencybot
+- summonerschool
+- gangplankmains
+- tmsbmeta
+- lol
+- LeagueOfMeta
+- nohomo_bot
+- League_Of_Legends_
+- JhinMains
+- Kindred
+- LeagueofLegendsMeta
+- titlegore
+- LeeSinMains
+- FrenchWestIndies
+- anti_gif_bot
+- fizzmains
+---

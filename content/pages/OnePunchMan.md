@@ -1,0 +1,24 @@
+---
+title: OnePunchMan
+crosslinks:
+- onepunch_man
+- respectthreads
+- bodyweightfitness
+- xkcd
+- manga
+- anime
+- whowouldwin
+- AskReddit
+- nocontext
+- theydidthemath
+- dbz
+- CharacterRant
+- askscience
+- announcements
+- berserk
+- BokuNoHeroAcademia
+- OnePiece
+- funny
+- explainlikeimfive
+- ShingekiNoKyojin
+---

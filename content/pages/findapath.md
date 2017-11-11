@@ -1,0 +1,24 @@
+---
+title: findapath
+crosslinks:
+- AskReddit
+- tmsbmeta
+- AmItheAsshole
+- autourbanbot
+- Existentialism
+- jobs
+- personalfinance
+- cscareerquestions
+- environmental_science
+- youtubot
+- DebateAVegan
+- engineering
+- publichealth
+- socialwork
+- AmeriCorps
+- PhysicsStudents
+- Bridges
+- AskMen
+- youtubefactsbot
+- RemindMeBot
+---

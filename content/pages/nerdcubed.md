@@ -1,0 +1,24 @@
+---
+title: nerdcubed
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- livven
+- place
+- xkcd
+- tmsbmeta
+- Games
+- ManyATrueNerd
+- EnoughTrumpSpam
+- gaming
+- Tekken
+- KarmaCourt
+- gtaonline
+- EarthPorn
+- SimAirport
+- placeAtlas
+- IgnorantImgur
+- asktransgender
+- cringepics
+---

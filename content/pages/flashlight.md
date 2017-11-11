@@ -1,0 +1,24 @@
+---
+title: flashlight
+crosslinks:
+- 18650masterrace
+- youtubefactsbot
+- u_imguralbumbot
+- xkcd
+- MassdropBot
+- electronic_cigarette
+- youtubot
+- EDCexchange
+- livven
+- knifeclub
+- EDC
+- pics
+- zak
+- Lightbar
+- preppers
+- edc_raffle
+- whatisthisthing
+- gardening
+- buttlight
+- AskElectronics
+---

@@ -1,0 +1,24 @@
+---
+title: intermittentfasting
+crosslinks:
+- keto
+- fasting
+- youtubefactsbot
+- youtubot
+- ketogains
+- Fitness
+- ketoscience
+- leangains
+- loseit
+- science
+- DrJasonFung
+- bodyweightfitness
+- Buddhism
+- zerocarb
+- MassdropBot
+- IAmA
+- u_imguralbumbot
+- autotldr
+- Constipated
+- explainlikeimfive
+---

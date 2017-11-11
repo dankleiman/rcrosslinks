@@ -1,0 +1,24 @@
+---
+title: CanadianForces
+crosslinks:
+- youtubefactsbot
+- autotldr
+- livven
+- canada
+- navy
+- AirForce
+- canadaguns
+- AskMen
+- golfclap
+- Teleshits
+- modhelp
+- AdviceAnimals
+- SubredditDrama
+- badwomensanatomy
+- Drama
+- news
+- uncensorednews
+- keto
+- youtubot
+- metacanada
+---

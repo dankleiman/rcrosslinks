@@ -1,0 +1,24 @@
+---
+title: whitesox
+crosslinks:
+- 100yearsago
+- youtubefactsbot
+- u_imguralbumbot
+- anti_gif_bot
+- youtubot
+- tmsbmeta
+- redsox
+- phillies
+- baseball
+- bestof
+- MassdropBot
+- CHIBears
+- NYYankees
+- modnews
+- sportsreference
+- CatsOnPizza
+- WahoosTipi
+- Welding
+- mildlyinteresting
+- livven
+---

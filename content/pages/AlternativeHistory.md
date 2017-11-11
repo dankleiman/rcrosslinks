@@ -1,0 +1,24 @@
+---
+title: AlternativeHistory
+crosslinks:
+- conspiracy
+- holofractal
+- FringeTheory
+- C_S_T
+- youtubot
+- FringeHub
+- autotldr
+- worldnews
+- Echerdex
+- JoeRogan
+- HistoricalStreetView
+- Archeology
+- atlantis
+- AncientAliens
+- TruthLeaks
+- MegalithPorn
+- DimensionJumping
+- geology
+- Dinosaurs
+- castiron
+---

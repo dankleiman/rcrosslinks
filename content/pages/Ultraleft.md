@@ -1,0 +1,24 @@
+---
+title: Ultraleft
+crosslinks:
+- marxism_101
+- shitleftistssay
+- leftcommunism
+- FULLCOMMUNISM
+- youtubefactsbot
+- COMPLETEANARCHY
+- socialism
+- u_melem
+- shittankiessay
+- xkcd
+- altright
+- EnoughCommieSpam
+- NegaRedditRedux
+- AskTrumpSupporters
+- rarepuppers
+- vexillologycirclejerk
+- surrealmemes
+- trollabot
+- bigdickproblems
+- communism101
+---

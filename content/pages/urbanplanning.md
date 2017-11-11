@@ -1,0 +1,24 @@
+---
+title: urbanplanning
+crosslinks:
+- autotldr
+- youtubefactsbot
+- neoliberal
+- youtubot
+- transit
+- Detroit
+- nyc
+- badeconomics
+- LosAngeles
+- philadelphia
+- AskEconomics
+- norwayonreddit
+- rva
+- AskHistorians
+- videos
+- Roadcam
+- todayilearned
+- europe
+- educationalgifs
+- anti_gif_bot
+---

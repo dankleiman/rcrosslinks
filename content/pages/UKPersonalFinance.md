@@ -1,0 +1,24 @@
+---
+title: UKPersonalFinance
+crosslinks:
+- personalfinance
+- unitedkingdom
+- UKInvesting
+- cars
+- AskUK
+- FIREUK
+- AskReddit
+- Bitcoin
+- wallstreetbets
+- beermoneyuk
+- financialindependence
+- LegalAdviceUK
+- ynab
+- u_imguralbumbot
+- fireuk
+- oldpeoplefacebook
+- MealPrepSunday
+- Flipping
+- CarTalkUK
+- PFJerk
+---

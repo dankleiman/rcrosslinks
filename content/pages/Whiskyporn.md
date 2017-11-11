@@ -1,0 +1,24 @@
+---
+title: Whiskyporn
+crosslinks:
+- bourbon
+- Scotch
+- whiskey
+- whiskyinventory
+- ScotchSwap
+- MassdropBot
+- worldwhisky
+- pdxwhisky
+- youtubot
+- whiskyeurope
+- cognac
+- livven
+- highqualitygifs
+- HighQualityGifs
+- dcwhisky
+- vintageaudio
+- rum
+- pitchforkemporium
+- WhiskeyReviews
+- tmsbmeta
+---

@@ -1,0 +1,24 @@
+---
+title: BDSMcommunity
+crosslinks:
+- bdsmfaq
+- Femdom
+- FemdomCommunity
+- littlespace
+- sex
+- BDSMpersonals
+- AskReddit
+- u_imguralbumbot
+- SubSanctuary
+- BDSMDiscordInvites
+- EroticHypnosis
+- gonewildaudio
+- ropetutorials
+- bdsm
+- Bondage
+- dating_advice
+- tmsbmeta
+- youtubot
+- WTF
+- sexover30
+---

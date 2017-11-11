@@ -1,0 +1,24 @@
+---
+title: wine
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- sonameya
+- anti_gif_bot
+- gofundme
+- tmsbmeta
+- DepthHub
+- askreddit
+- autotldr
+- firewater
+- oldmaps
+- youtubot
+- dataisbeautiful
+- etymology
+- skiing
+- pyongyang
+- autourbanbot
+- food
+- coolguides
+- pics
+---

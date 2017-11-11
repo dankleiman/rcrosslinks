@@ -1,0 +1,24 @@
+---
+title: onebag
+crosslinks:
+- onebagging
+- Ultralight
+- Onebagger
+- digitalnomad
+- backpacks
+- youtubefactsbot
+- Outlier
+- EDC
+- backpacking
+- HerOneBag
+- redditrequest
+- shittykickstarters
+- OutOfTheLoop
+- myog
+- MassdropBot
+- OutlierMarket
+- outlier
+- xkcd
+- Goruck
+- alotabot
+---

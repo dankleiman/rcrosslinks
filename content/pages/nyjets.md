@@ -1,0 +1,24 @@
+---
+title: nyjets
+crosslinks:
+- nfl
+- livven
+- NFL_Draft
+- the_darnold
+- Patriots
+- EvilLeagueOfEvil
+- nflstreams
+- korea
+- falcons
+- MassdropBot
+- Colts
+- NFLDRAFT
+- u_jetsfan1284
+- u_imguralbumbot
+- CoalitionAgainstEvil
+- Cardinals
+- youtubot
+- Browns
+- Texans
+- CFB
+---

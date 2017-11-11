@@ -1,0 +1,24 @@
+---
+title: Patriots
+crosslinks:
+- nfl
+- youtubot
+- livven
+- place
+- anti_gif_bot
+- falcons
+- u_imguralbumbot
+- EvilLeagueOfEvil
+- nflstreams
+- The_Donald
+- heroesofthestorm
+- autotldr
+- john_yukis_bots
+- autourbanbot
+- steelers
+- bestof
+- Texans
+- CharitableBets
+- Browns
+- AskReddit
+---

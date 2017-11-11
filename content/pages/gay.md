@@ -1,0 +1,24 @@
+---
+title: gay
+crosslinks:
+- youtubefactsbot
+- autotldr
+- GayMen
+- ainbow
+- askgaybros
+- lgbt
+- gaybros
+- bisexual
+- anti_gif_bot
+- autourbanbot
+- LGBTQnews
+- BrasilOnReddit
+- LGBTnews
+- MassdropBot
+- youtubot
+- gayr4r
+- u_imguralbumbot
+- PublicHealthAdvocacy
+- gaymers
+- The_Donald
+---

@@ -1,0 +1,24 @@
+---
+title: TrueChristian
+crosslinks:
+- Christianity
+- youtubefactsbot
+- youtubot
+- cosmicservant
+- judaism
+- ChristianCoffeeTime
+- Reformed
+- islam
+- dailyverse
+- RPChristians
+- AcademicBiblical
+- MassdropBot
+- TheArmorofGod
+- DebateAChristian
+- tenprecepts
+- ReasonableFaith
+- NoStupidQuestions
+- Drama
+- todayilearned
+- Catholicism
+---

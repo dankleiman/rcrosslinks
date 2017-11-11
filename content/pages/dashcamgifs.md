@@ -1,0 +1,24 @@
+---
+title: dashcamgifs
+crosslinks:
+- reactiongifs
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- WTF
+- gifs
+- Whatcouldgowrong
+- youtubot
+- nononono
+- nonononoyes
+- motorcycles
+- Roadcam
+- botwatch
+- SweatyPalms
+- CatastrophicFailure
+- iamverybadass
+- Unexpected
+- IdiotsInCars
+- Dashcam
+- OhCumOn
+---

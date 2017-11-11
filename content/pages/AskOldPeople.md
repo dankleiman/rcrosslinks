@@ -1,0 +1,24 @@
+---
+title: AskOldPeople
+crosslinks:
+- youtubot
+- youtubefactsbot
+- RedditForGrownups
+- AskHistorians
+- Retire
+- FODMAPS
+- getdisciplined
+- titlegore
+- CasualConversation
+- tmsbmeta
+- PoliticalHumor
+- AskReddit
+- 3Dprinting
+- DestructiveReaders
+- badpeoplestories
+- GetMotivated
+- Vaporwave
+- stopsmoking
+- PlantBasedDiet
+- u_imguralbumbot
+---

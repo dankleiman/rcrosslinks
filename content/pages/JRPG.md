@@ -1,0 +1,24 @@
+---
+title: JRPG
+crosslinks:
+- youtubefactsbot
+- Megaten
+- youtubot
+- FinalFantasy
+- Falcom
+- Atelier
+- Games
+- vita
+- Gamingcirclejerk
+- john_yukis_bots
+- tales
+- fireemblem
+- EtrianOdyssey
+- u_imguralbumbot
+- nier
+- PS4
+- falcom
+- alotabot
+- visualnovels
+- nintendo
+---

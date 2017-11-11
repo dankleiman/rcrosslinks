@@ -1,0 +1,24 @@
+---
+title: RealLifeShinies
+crosslinks:
+- pics
+- livven
+- mildlyinteresting
+- antkeeping
+- KarmaCourt
+- Shitty_Car_Mods
+- u_imguralbumbot
+- awwnverts
+- whatsthisbug
+- botwatch
+- youtubot
+- mead
+- Damnthatsinteresting
+- KarmaConspiracy
+- Skunks
+- MandelaEffect
+- gifs
+- creepydesign
+- natureismetal
+- retailporn
+---

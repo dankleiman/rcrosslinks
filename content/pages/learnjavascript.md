@@ -1,0 +1,24 @@
+---
+title: learnjavascript
+crosslinks:
+- javascript
+- RCBRedditBot
+- learnprogramming
+- node
+- webdev
+- youtubefactsbot
+- youtubot
+- xkcd
+- WebdevTutorials
+- learnpython
+- c2JSpi
+- programming
+- thenewboston
+- HTML
+- learnjava
+- actionscript
+- ProgrammerHumor
+- ProgrammerTIL
+- Funko
+- roguelikes
+---

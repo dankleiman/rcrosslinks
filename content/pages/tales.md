@@ -1,0 +1,24 @@
+---
+title: tales
+crosslinks:
+- youtubefactsbot
+- youtubot
+- fireemblem
+- TalesofAsteria_
+- JRPG
+- TalesofLink
+- anti_gif_bot
+- touhou
+- placesheena
+- john_yukis_bots
+- MassdropBot
+- PS4
+- tmsbmeta
+- u_imguralbumbot
+- youtubehaiku
+- livven
+- talesoftherays
+- GiftofGames
+- darksouls3
+- mira2011
+---

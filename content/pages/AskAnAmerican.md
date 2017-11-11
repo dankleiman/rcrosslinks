@@ -1,0 +1,24 @@
+---
+title: AskAnAmerican
+crosslinks:
+- youtubefactsbot
+- AskEurope
+- ShitAmericansSay
+- AskReddit
+- autourbanbot
+- xkcd
+- u_imguralbumbot
+- youtubot
+- explainlikeimfive
+- AskHistorians
+- europe
+- botpopularitybot
+- vexillology
+- politics
+- IWantOut
+- todayilearned
+- videos
+- NoStupidQuestions
+- changemyview
+- NeutralPolitics
+---

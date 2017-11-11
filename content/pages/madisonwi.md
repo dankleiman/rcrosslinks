@@ -1,0 +1,24 @@
+---
+title: madisonwi
+crosslinks:
+- youtubefactsbot
+- WisconsinGamers
+- MadisonWiPokemonGo
+- u_imguralbumbot
+- The_Donald
+- wisconsin
+- Michigan
+- youtubot
+- UWMadison
+- autotldr
+- Serendipity
+- wisconsingamers
+- altright
+- IdiotsInCars
+- BikingMad
+- WTF
+- vexillologycirclejerk
+- AskReddit
+- Janesville
+- uncensorednews
+---

@@ -1,0 +1,24 @@
+---
+title: uber
+crosslinks:
+- autotldr
+- uberdrivers
+- youtubefactsbot
+- Lyft
+- cincinnati
+- Random_Acts_Of_Pizza
+- churning
+- EndTipping
+- bestof
+- Triggered
+- technology
+- talesfromcallcenters
+- javascript
+- autourbanbot
+- Colombia
+- bitcoin
+- shittywritingprompts
+- AskNYC
+- travel
+- personalfinance
+---

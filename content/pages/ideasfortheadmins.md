@@ -1,0 +1,24 @@
+---
+title: ideasfortheadmins
+crosslinks:
+- announcements
+- modnews
+- help
+- changelog
+- beta
+- csshelp
+- all
+- xkcd
+- bugs
+- subreddit
+- ModSupport
+- redditmobile
+- TheoryOfReddit
+- Fitness
+- dredmorbius
+- The_Donald
+- dataisbeautiful
+- friends
+- CGPGrey
+- explainlikeimfive
+---

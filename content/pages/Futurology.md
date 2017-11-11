@@ -1,0 +1,24 @@
+---
+title: Futurology
+crosslinks:
+- teslamotors
+- science
+- worldnews
+- IAmA
+- news
+- BasicIncome
+- todayilearned
+- AskReddit
+- Bitcoin
+- The_Donald
+- technology
+- videos
+- explainlikeimfive
+- askscience
+- thisweekinreview
+- space
+- dataisbeautiful
+- politics
+- vegan
+- Economics
+---

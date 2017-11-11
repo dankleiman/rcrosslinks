@@ -1,0 +1,24 @@
+---
+title: gif
+crosslinks:
+- youtubot
+- gifs
+- interestingasfuck
+- The_Donald
+- woahdude
+- u_imguralbumbot
+- aww
+- gifsthatendtoosoon
+- botwatch
+- funny
+- HappyEmbarrassedGirls
+- facingtheirparenting
+- almostperfectloops
+- educationalgifs
+- autourbanbot
+- AnyVideos
+- IAmA
+- canada
+- TeamGifBattles
+- RetroFuturism
+---

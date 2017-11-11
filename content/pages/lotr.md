@@ -1,0 +1,24 @@
+---
+title: lotr
+crosslinks:
+- tolkienfans
+- youtubot
+- youtubefactsbot
+- place
+- u_imguralbumbot
+- Fantasy
+- botwatch
+- Catholicism
+- UNBGBBIIVCHIDCTIICBG
+- sindarin
+- AskReddit
+- interestingasfuck
+- Scams
+- todayilearned
+- MylifeSuxNow
+- FanTheories
+- lotrmemes
+- TheHobbit
+- NeckbeardNests
+- Whatcouldgowrong
+---

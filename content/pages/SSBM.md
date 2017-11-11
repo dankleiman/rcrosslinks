@@ -1,0 +1,24 @@
+---
+title: SSBM
+crosslinks:
+- smashbros
+- SSBPM
+- smashgifs
+- Kappa
+- xdfp
+- youtubot
+- xkcd
+- u_imguralbumbot
+- smashcirclejerk
+- FuckFalco
+- autourbanbot
+- AskElectronics
+- livven
+- AskReddit
+- gaming
+- SubredditDrama
+- subreddit_stats
+- nintendo
+- customGCC
+- buildapc
+---

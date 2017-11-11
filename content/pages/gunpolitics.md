@@ -1,0 +1,24 @@
+---
+title: gunpolitics
+crosslinks:
+- shitguncontrollerssay
+- Firearms
+- autotldr
+- GunsAreCool
+- youtubefactsbot
+- progun
+- dgu
+- youtubot
+- GGwaG
+- Columbus
+- guns
+- liberalgunowners
+- WA_guns
+- pdxgunnuts
+- DarkNetMarkets
+- NegativeWithGold
+- politics
+- theydidthemath
+- u_imguralbumbot
+- gundeals
+---

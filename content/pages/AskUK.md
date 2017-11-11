@@ -1,0 +1,24 @@
+---
+title: AskUK
+crosslinks:
+- london
+- unitedkingdom
+- UKPersonalFinance
+- LegalAdviceUK
+- CasualUK
+- youtubot
+- policeuk
+- AskAnAmerican
+- AskReddit
+- food
+- botpopularitybot
+- brighton
+- teachinguk
+- tmsbmeta
+- Assistance
+- AskHistorians
+- travel
+- loseit
+- europe
+- videos
+---

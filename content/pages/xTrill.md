@@ -1,0 +1,24 @@
+---
+title: xTrill
+crosslinks:
+- trap
+- u_imguralbumbot
+- Flume
+- feedme
+- skrillex
+- porterrobinson
+- Zomboy
+- 23rd_prodigy
+- trapproduction
+- electronicmusic
+- Odesza
+- Drumkits
+- gorillaz
+- john_yukis_bots
+- madeon
+- grynpyret
+- FrankOcean
+- IsolatedVocals
+- DnB
+- copypasta
+---

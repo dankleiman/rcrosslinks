@@ -1,0 +1,24 @@
+---
+title: NoShitSherlock
+crosslinks:
+- autotldr
+- youtubot
+- youtubefactsbot
+- circlejerkcopypasta
+- islam
+- WhyICorrectBryanPCox
+- pol
+- Alabama
+- OutOfTheLoop
+- worldnews
+- todayilearned
+- ShitAmericansSay
+- science
+- MensRights
+- SubredditDrama
+- news
+- shitcomment
+- Conservative
+- unitedkingdom
+- nottheonion
+---

@@ -1,0 +1,24 @@
+---
+title: PS4Planetside2
+crosslinks:
+- Planetside
+- youtubefactsbot
+- youtubot
+- MassdropBot
+- u_imguralbumbot
+- nohomo_bot
+- anti_gif_bot
+- autourbanbot
+- DBGpatchnotes
+- pitchforkemporium
+- john_yukis_bots
+- PrequelMemes
+- callofduty
+- dadjokes
+- Overwatch
+- NC_REBL
+- Showerthoughts
+- planetside
+- alotabot
+- gaming
+---

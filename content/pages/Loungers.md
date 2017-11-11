@@ -1,0 +1,24 @@
+---
+title: Loungers
+crosslinks:
+- youtubefactsbot
+- bluelight
+- nashville
+- The_Donald
+- youtubot
+- EVEYISMS
+- MassdropBot
+- AgainstHateSubreddits
+- Metapsych
+- Boxing
+- livven
+- autourbanbot
+- Drama
+- PussyPass
+- snakes
+- CasualConversation
+- matrix
+- help
+- anti_gif_bot
+- PewdiepieSubmissions
+---

@@ -1,0 +1,24 @@
+---
+title: botwatch
+crosslinks:
+- john_yukis_bots
+- JeopardyQBot
+- Bottiquette
+- learnpython
+- RequestABot
+- BotInfo
+- ImageStabilization
+- MassdropBot
+- ShingekiNoKyojin
+- tmsbmeta
+- subredditcancer
+- engineering
+- KansasCityChiefs
+- Superbowl
+- Accordion
+- ModSupport
+- learnprogramming
+- Serendipity
+- BotBust
+- testingground4bots
+---

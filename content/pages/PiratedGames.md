@@ -1,0 +1,24 @@
+---
+title: PiratedGames
+crosslinks:
+- CrackWatch
+- Piracy
+- youtubefactsbot
+- cemu
+- CrackSupport
+- youtubot
+- Massgate
+- Games
+- Rockband
+- pcmasterrace
+- tmsbmeta
+- technology
+- FancyFollicles
+- windows
+- HateCrimeHoaxes
+- CrusaderKings
+- u_imguralbumbot
+- thepiratebay
+- crackwatch
+- HollowKnight
+---

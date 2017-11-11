@@ -1,0 +1,24 @@
+---
+title: physicsgifs
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- gifs
+- youtubot
+- xkcd
+- blackmagicfuckery
+- educationalgifs
+- Crystals
+- AskPhysics
+- mathpics
+- starterpacks
+- drydockporn
+- woahdude
+- perfectloops
+- videos
+- INEEEEDIT
+- disneyvacation
+- MineralPorn
+- UnexpectedThugLife
+---

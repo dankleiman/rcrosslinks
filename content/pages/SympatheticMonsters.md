@@ -1,0 +1,24 @@
+---
+title: SympatheticMonsters
+crosslinks:
+- youtubefactsbot
+- WritingPrompts
+- u_imguralbumbot
+- comics
+- ImaginaryMonsters
+- ImaginaryFeels
+- ImaginaryArtists
+- ArtofHands
+- Beetlejuice
+- comicbooks
+- totallynotrobots
+- nicesexygirl
+- createthisworld
+- FunnyandSad
+- Reddit_Narrated
+- ImaginaryAww
+- ImaginaryDragons
+- tmsbmeta
+- wholesomememes
+- French
+---

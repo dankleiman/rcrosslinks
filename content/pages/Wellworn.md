@@ -1,0 +1,24 @@
+---
+title: Wellworn
+crosslinks:
+- u_imguralbumbot
+- EDC
+- youtubefactsbot
+- DesirePath
+- DesirePaths
+- retiredgif
+- flashlight
+- burnin
+- adviceanimals
+- oldpeoplefacebook
+- asmr
+- gatekeeping
+- titlegore
+- malefashionadvice
+- softwaregore
+- fakealbumcovers
+- nohomo_bot
+- pics
+- lewronggeneration
+- videos
+---

@@ -1,0 +1,24 @@
+---
+title: DecemberBumpers2017
+crosslinks:
+- u_imguralbumbot
+- BabyBumps
+- tuckedinkitties
+- ABraThatFits
+- JUSTNOMIL
+- AsianBeauty
+- clothdiaps
+- youtubot
+- beyondthebump
+- blogsnark
+- OctoberBumpers2017
+- TryingForABaby
+- gifs
+- NovemberBumpers2017
+- January2018Bumpers
+- AprilBumpers2018
+- UKBabyBumps
+- breastfeeding
+- alotabot
+- femalefashionadvice
+---

@@ -1,0 +1,24 @@
+---
+title: tech
+crosslinks:
+- youtubefactsbot
+- xkcd
+- programming
+- homeautomation
+- AskReddit
+- technology
+- teslamotors
+- netsec
+- AskHistorians
+- hyperloop
+- StallmanWasRight
+- hometheater
+- firefox
+- Skookum
+- AdviceAnimals
+- raspberry_pi
+- dataisbeautiful
+- retrobattlestations
+- todayilearned
+- TOR
+---

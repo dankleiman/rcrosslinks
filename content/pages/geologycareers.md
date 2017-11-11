@@ -1,0 +1,24 @@
+---
+title: geologycareers
+crosslinks:
+- geology
+- youtubefactsbot
+- u_imguralbumbot
+- mining
+- oilandgasworkers
+- AskAcademia
+- perth
+- gis
+- leanfire
+- vandwelling
+- LifeProTips
+- whatsthisrock
+- Serendipity
+- collegeadvice
+- jobs
+- youtubot
+- EngineeringStudents
+- financialindependence
+- SuicideWatch
+- MassdropBot
+---

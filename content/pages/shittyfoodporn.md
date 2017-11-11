@@ -1,0 +1,24 @@
+---
+title: shittyfoodporn
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- food
+- WeWantPlates
+- youtubot
+- livven
+- FoodPorn
+- mildlyinteresting
+- ketchuphate
+- grilledcheese
+- Pizza
+- AskReddit
+- nocontext
+- WTF
+- xkcd
+- GifRecipes
+- keto
+- vegan
+- tmsbmeta
+- botwatch
+---

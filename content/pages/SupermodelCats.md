@@ -1,0 +1,24 @@
+---
+title: SupermodelCats
+crosslinks:
+- cats
+- u_imguralbumbot
+- Floof
+- MassdropBot
+- youtubefactsbot
+- Catloaf
+- botwatch
+- youtubot
+- boopablenosies
+- curledfeetsies
+- livven
+- me_irl
+- unexpectedoverwatch
+- catssittingdown
+- aww
+- CatsInSinks
+- torties
+- teefies
+- jellybeantoes
+- ragdolls
+---

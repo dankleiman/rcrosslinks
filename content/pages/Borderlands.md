@@ -1,0 +1,24 @@
+---
+title: Borderlands
+crosslinks:
+- youtubefactsbot
+- Borderlands2
+- IAmA
+- youtubot
+- u_imguralbumbot
+- skyrimmods
+- Battleborn
+- tmsbmeta
+- BorderlandsPreSequel
+- steamdeals
+- OverwatchCirclejerk
+- paydaytheheist
+- Amd
+- fullcommunism
+- GameDeals
+- botpopularitybot
+- PandoranRedCross
+- news
+- xkcd
+- googleplaydeals
+---

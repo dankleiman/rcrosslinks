@@ -1,0 +1,24 @@
+---
+title: grandorder
+crosslinks:
+- Pixiv
+- u_imguralbumbot
+- youtubefactsbot
+- GOtrades
+- fatestaynight
+- FGOfanart
+- anti_gif_bot
+- john_yukis_bots
+- FireEmblemHeroes
+- anime
+- tmsbmeta
+- youtubot
+- livven
+- Saber
+- PuzzleAndDragons
+- fireemblem
+- ffxiv
+- alotabot
+- autourbanbot
+- DBZDokkanBattle
+---

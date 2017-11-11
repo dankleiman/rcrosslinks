@@ -1,0 +1,24 @@
+---
+title: yoga
+crosslinks:
+- ashtanga
+- youtubefactsbot
+- livven
+- bodyweightfitness
+- flexibility
+- Pranayama
+- Fitness
+- Meditation
+- asanas
+- YogaTutorials
+- india
+- SubredditDrama
+- LifeProTips
+- science
+- FortCollins
+- handbalancing
+- askTO
+- IndiaSpeaks
+- HailCorporate
+- xkcd
+---

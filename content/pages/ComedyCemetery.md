@@ -1,0 +1,24 @@
+---
+title: ComedyCemetery
+crosslinks:
+- comedynecromancy
+- youtubefactsbot
+- ComedyNecrophilia
+- botwatch
+- bonehurtingjuice
+- u_imguralbumbot
+- MassdropBot
+- DeepFriedMemes
+- youtubot
+- tmsbmeta
+- botpopularitybot
+- surrealmemes
+- killthosewhodisagree
+- dankmemes
+- coaxedintoasnafu
+- funny
+- WackyTicTacs
+- copypasta
+- ReallyWackyTicTacs
+- CringeAnarchy
+---

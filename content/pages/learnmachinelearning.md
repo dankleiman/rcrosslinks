@@ -1,0 +1,24 @@
+---
+title: learnmachinelearning
+crosslinks:
+- MachineLearning
+- MLQuestions
+- Python
+- datascience
+- u_imguralbumbot
+- compsci
+- math
+- BayesianProgramming
+- ABraThatFits
+- autotldr
+- netsec
+- cs231n
+- cscareerquestions
+- tmsbmeta
+- MassdropBot
+- buildapc
+- SuggestALaptop
+- xkcd
+- badcode
+- emacs
+---

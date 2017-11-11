@@ -1,0 +1,24 @@
+---
+title: Fraudnet2
+crosslinks:
+- RedditAlternatives
+- CanadianCarders
+- fakeid
+- u_imguralbumbot
+- fraudnet
+- AlphaBayMarket
+- youtubefactsbot
+- OpenBazaarFraudStores
+- forgeries
+- OpenBazaar
+- discordapp
+- FraudNoobs
+- Steroidsourcetalk
+- Drama
+- DNMSuperlist
+- DarkNetMarketsNoobs
+- phoneverification
+- rsclub
+- FashionReps
+- giftcardexchange
+---

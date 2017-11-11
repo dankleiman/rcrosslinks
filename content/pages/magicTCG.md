@@ -1,0 +1,24 @@
+---
+title: magicTCG
+crosslinks:
+- custommagic
+- spikes
+- EDH
+- youtubefactsbot
+- ModernMagic
+- magicthecirclejerking
+- lrcast
+- livven
+- CompetitiveEDH
+- mtgcube
+- mtgfinance
+- mtgvorthos
+- mtgpuzzles
+- MTGLegacy
+- MassdropBot
+- youtubot
+- mtgaltered
+- magicduels
+- Magicdeckbuilding
+- MagicCardPulls
+---

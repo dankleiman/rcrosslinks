@@ -1,0 +1,24 @@
+---
+title: hoggit
+crosslinks:
+- youtubefactsbot
+- hotas
+- anti_gif_bot
+- livven
+- youtubot
+- flightsim
+- aviation
+- arma
+- falconbms
+- oculus
+- john_yukis_bots
+- xkcd
+- MassdropBot
+- KerbalSpaceProgram
+- splashone
+- tmsbmeta
+- starcitizen
+- battleofstalingrad
+- Warthunder
+- hardwareswap
+---

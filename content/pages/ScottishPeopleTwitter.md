@@ -1,0 +1,24 @@
+---
+title: ScottishPeopleTwitter
+crosslinks:
+- TranscribersOfReddit
+- youtubefactsbot
+- autourbanbot
+- youtubot
+- u_imguralbumbot
+- tmsbmeta
+- ShitAmericansSay
+- Scotland
+- me_ira
+- Drama
+- ShitPoliticsSays
+- GoodFakeTexts
+- uwotm8
+- retiredjpg
+- bestof
+- ireland
+- SubredditDrama
+- IAmA
+- iamverybadass
+- everyfuckingthread
+---

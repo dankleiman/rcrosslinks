@@ -1,0 +1,24 @@
+---
+title: FreeGameFindings
+crosslinks:
+- FreeGamesOnSteam
+- GameDeals
+- Steam
+- youtubefactsbot
+- PS4
+- u_imguralbumbot
+- GrabFreeGameKeys
+- john_yukis_bots
+- autotldr
+- QuakeChampions
+- tmsbmeta
+- metric_units
+- discordapp
+- hearthstone
+- gaming
+- microsoftsoftwareswap
+- Reddit101
+- gamedeals
+- paydaytheheist
+- apphookup
+---

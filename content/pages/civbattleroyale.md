@@ -1,0 +1,24 @@
+---
+title: civbattleroyale
+crosslinks:
+- civAIgames
+- MassdropBot
+- tmsbmeta
+- youtubefactsbot
+- civ
+- SackRomeAgain
+- CBROriginalContent
+- vexillology
+- HowAboutSunriseLand
+- Badanthropology
+- WeAreTheWalrus
+- Suomi
+- SeddontStopBelieving
+- place
+- r
+- PropagandaPosters
+- XiaGonnaGiveItToYou
+- Drama
+- CivHybridGames
+- PaxBhutannica
+---

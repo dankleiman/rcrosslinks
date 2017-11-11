@@ -1,0 +1,24 @@
+---
+title: the_meltdown
+crosslinks:
+- The_Donald
+- autotldr
+- politics
+- youtubefactsbot
+- EnoughTrumpSpam
+- HillaryMeltdown
+- sjwhate
+- ShitPoliticsSays
+- killthosewhodisagree
+- PublicFreakout
+- Le_Pen
+- instantbarbarians
+- JonTron
+- Jokes
+- MarchAgainstTrump
+- nfl
+- The_Wilders
+- tmsbmeta
+- CringeAnarchy
+- HateCrimeHoaxes
+---

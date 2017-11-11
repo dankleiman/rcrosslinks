@@ -1,0 +1,24 @@
+---
+title: BeAmazed
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- gifs
+- pics
+- woahdude
+- videos
+- u_imguralbumbot
+- interestingasfuck
+- xkcd
+- tmsbmeta
+- oddlysatisfying
+- SpaceXLounge
+- nocontext
+- thalassophobia
+- OSHA
+- ultimate
+- mildlyinfuriating
+- '2013'
+- mildlyinfuriatingFix
+---

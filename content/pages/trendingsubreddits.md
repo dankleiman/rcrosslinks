@@ -1,0 +1,24 @@
+---
+title: trendingsubreddits
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- The_Donald
+- videos
+- SubredditDrama
+- aww
+- announcements
+- hatchery
+- youtubot
+- gifs
+- xkcd
+- tmsbmeta
+- oldpeoplefacebook
+- subredditcancer
+- me_irl
+- Drama
+- Conservative
+- gaming
+- Iota
+- AskHistorians
+---

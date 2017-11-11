@@ -1,0 +1,24 @@
+---
+title: Weakpots
+crosslinks:
+- tmsbmeta
+- Fitness
+- powerlifting
+- weightroom
+- weakfags
+- fitnesscirclejerk
+- weakpotsdrama
+- personalfinance
+- gainit
+- fantasyfootball
+- 2meirl4meirl
+- medicine
+- nattyorjuice
+- shittydesign
+- AdvancedFitness
+- FearMe
+- gatekeeping
+- wallstreetbets
+- todayilearned
+- House
+---

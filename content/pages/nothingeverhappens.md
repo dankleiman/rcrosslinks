@@ -1,0 +1,24 @@
+---
+title: nothingeverhappens
+crosslinks:
+- thatHappened
+- AskReddit
+- pics
+- funny
+- gifs
+- gaming
+- videos
+- quityourbullshit
+- todayilearned
+- aww
+- cringepics
+- interestingasfuck
+- xkcd
+- mildlyinteresting
+- starterpacks
+- OldSchoolCool
+- SubredditDrama
+- MechanicalKeyboards
+- cringe
+- politics
+---

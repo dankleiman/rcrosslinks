@@ -1,0 +1,24 @@
+---
+title: Corridor
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- videos
+- u_imguralbumbot
+- youtubot
+- blender
+- UnexpectedRT
+- botwatch
+- place
+- modnews
+- gifs
+- FloydVsVoid
+- ProCSS
+- gaming
+- dayz
+- interestingasfuck
+- PlaceNL
+- IAmA
+- delusionalartists
+---

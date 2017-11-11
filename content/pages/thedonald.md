@@ -1,0 +1,24 @@
+---
+title: thedonald
+crosslinks:
+- autotldr
+- youtubefactsbot
+- The_Donald
+- anti_gif_bot
+- MassdropBot
+- livven
+- youtubot
+- REEEEEEEEEE
+- trump
+- Fuckthealtright
+- EnoughTrumpSpam
+- DuplicatesBot
+- SmallBusinessCanada
+- xkcd
+- politics
+- bugs
+- BannedFromThe_Donald
+- TopMindsOfReddit
+- joinordietrump
+- new_right
+---

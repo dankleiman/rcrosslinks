@@ -1,0 +1,24 @@
+---
+title: Luthier
+crosslinks:
+- youtubefactsbot
+- InstrumentPorn
+- youtubot
+- ToobAmps
+- guitarporn
+- Guitar
+- u_imguralbumbot
+- ukulele
+- guitarcirclejerk
+- doublebass
+- tampa
+- CaptainSugar
+- DIYGuitarAmps
+- MassdropBot
+- KGATLW
+- tmsbmeta
+- LifeProTips
+- me_irl
+- nocontext
+- Bass
+---

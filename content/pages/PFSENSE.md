@@ -1,0 +1,24 @@
+---
+title: PFSENSE
+crosslinks:
+- homelab
+- youtubefactsbot
+- HomeNetworking
+- networking
+- elasticsearch
+- youtubot
+- sysadmin
+- xkcd
+- raspberry_pi
+- lanparty
+- Netgate
+- alotabot
+- shittykickstarters
+- Assistance
+- toolbox
+- ubiquiti
+- macsysadmin
+- autotldr
+- ThatPeelingFeeling
+- DotA2
+---

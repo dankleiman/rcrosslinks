@@ -1,0 +1,24 @@
+---
+title: salty
+crosslinks:
+- Kappa
+- youtubefactsbot
+- livven
+- youtubot
+- VoHiYo
+- StreetFighter
+- anti_gif_bot
+- Tekken
+- Guiltygear
+- botwatch
+- sadcringe
+- john_yukis_bots
+- ForeverAloneDating
+- Blazblue
+- mvci
+- cringe
+- USF2
+- gonewildstories
+- TrueSTL
+- kof
+---

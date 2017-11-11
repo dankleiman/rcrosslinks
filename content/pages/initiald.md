@@ -1,0 +1,24 @@
+---
+title: initiald
+crosslinks:
+- youtubefactsbot
+- InitialDvideos
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- livven
+- ft86
+- MiniZ
+- tmsbmeta
+- MFGhost
+- MassdropBot
+- funny
+- john_yukis_bots
+- Volkswagen
+- Honda
+- TopGear
+- dragonsfuckingcars
+- gaming
+- PrequelMemes
+- SVRiders
+---

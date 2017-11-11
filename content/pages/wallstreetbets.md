@@ -1,0 +1,24 @@
+---
+title: wallstreetbets
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- investing
+- RobinHood
+- anti_gif_bot
+- tmsbmeta
+- stocks
+- LateStageCapitalism
+- personalfinance
+- The_Donald
+- AMD_Stock
+- Amd
+- autourbanbot
+- youtubot
+- xkcd
+- REEEEEEEEEE
+- options
+- bestof
+- pics
+---

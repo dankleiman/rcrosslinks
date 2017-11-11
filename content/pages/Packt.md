@@ -1,0 +1,24 @@
+---
+title: Packt
+crosslinks:
+- learnmachinelearning
+- Rlanguage
+- unity_tutorials
+- netsecstudents
+- opencv
+- reactjs
+- github
+- raspberry_pi
+- d3js
+- gamedev
+- robotics
+- arduino
+- datasets
+- rstats
+- node
+- quant
+- typescript
+- pygame
+- learnandroid
+- PowerShell
+---

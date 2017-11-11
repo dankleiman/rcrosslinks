@@ -1,0 +1,24 @@
+---
+title: AdvancedFitness
+crosslinks:
+- Fitness
+- Microbiome
+- youtubefactsbot
+- powerlifting
+- DuplicatesBot
+- keto
+- bodyweightfitness
+- youtubot
+- weightroom
+- science
+- HIIT
+- Serendipity
+- steroids
+- JobFair
+- TrueReddit
+- spam
+- ResearchReview
+- botwatch
+- veganfitness
+- hiit
+---

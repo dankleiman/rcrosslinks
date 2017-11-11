@@ -1,0 +1,24 @@
+---
+title: AwesomeCarMods
+crosslinks:
+- ATBGE
+- youtubefactsbot
+- UglyCarPictures
+- Shitty_Car_Mods
+- Battlecars
+- MassdropBot
+- livven
+- vandwellers
+- cars
+- furry
+- delusionalcraigslist
+- classiccars
+- facepalm
+- subaru
+- Roadkillshow
+- xkcd
+- u_imguralbumbot
+- PunchableVoices
+- marvelstudios
+- ford
+---

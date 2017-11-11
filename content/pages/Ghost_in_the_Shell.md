@@ -1,0 +1,24 @@
+---
+title: Ghost_in_the_Shell
+crosslinks:
+- youtubefactsbot
+- Cyberpunk
+- anime
+- asianamerican
+- MassdropBot
+- youtubot
+- TheresARedditForThat
+- announcements
+- anti_gif_bot
+- NotCyberpunk
+- GITS_FA
+- ghostintheshell
+- philosophy
+- westworld
+- boxoffice
+- transhumanism
+- autotldr
+- movies
+- moviescirclejerk
+- intj
+---

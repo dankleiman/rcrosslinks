@@ -1,0 +1,24 @@
+---
+title: climate
+crosslinks:
+- autotldr
+- EcoInternet
+- collapse
+- youtubefactsbot
+- xkcd
+- science
+- aftertheflood
+- DeepGreenResistance
+- EnoughTrumpSpam
+- news
+- skeptic
+- The_Donald
+- climateskeptics
+- ZeroWaste
+- AMAAggregator
+- MakeTotalDestr0i
+- youtubot
+- DuplicatesBot
+- EverythingScience
+- ParisAccord
+---

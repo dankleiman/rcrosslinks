@@ -1,0 +1,24 @@
+---
+title: againstmensrights
+crosslinks:
+- MensRights
+- GenderCritical
+- MensLib
+- GamerGhazi
+- australia
+- ShitLiberalsSay
+- unpopularopinion
+- AsABlackMan
+- nottheonion
+- raisedbyborderlines
+- SubredditDrama
+- upliftingnewsforwomen
+- Intactivists
+- Feminism
+- MRMorWhiteRights
+- TheRealMisandry
+- TheRedPill
+- AgainstHateSubreddits
+- youtubefactsbot
+- AskFeminists
+---

@@ -1,0 +1,24 @@
+---
+title: oversharing
+crosslinks:
+- badwomensanatomy
+- tmsbmeta
+- u_imguralbumbot
+- ihavesex
+- emojipasta
+- MGTOW
+- OopsDidntMeanTo
+- youtubefactsbot
+- The_Donald
+- gonewild
+- tipofmypenis
+- whiteknighting
+- sadcringe
+- trashy
+- DeadBedrooms
+- trebuchetmemes
+- Drugs
+- botwatch
+- Upskirt
+- tombstoning
+---

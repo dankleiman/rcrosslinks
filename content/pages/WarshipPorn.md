@@ -1,0 +1,24 @@
+---
+title: WarshipPorn
+crosslinks:
+- youtubefactsbot
+- drydockporn
+- submarines
+- MilitaryPorn
+- youtubot
+- HistoryPorn
+- CapturedWeapons
+- ShitWehraboosSay
+- AskHistorians
+- ImaginaryWarships
+- translator
+- WarplanePorn
+- pics
+- 117thOSINT
+- warshipsnuffporn
+- vexillology
+- WorldOfWarships
+- Warships
+- HeavySeas
+- dolphinconspiracy
+---

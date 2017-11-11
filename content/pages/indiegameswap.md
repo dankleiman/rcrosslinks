@@ -1,0 +1,24 @@
+---
+title: indiegameswap
+crosslinks:
+- IGSRep
+- SteamGameSwap
+- GameTrade
+- enough_____spam
+- GameDeals
+- sgsflair
+- Steam
+- GameTradeRep
+- u_imguralbumbot
+- gametrade
+- igsrep
+- GameDealsMeta
+- humblebundles
+- SteamTradingCardSwap
+- FreeGameFindings
+- DumpNinja
+- CompanyOfHeroes
+- mushroomkingdom
+- EdenSB
+- sysadmin
+---

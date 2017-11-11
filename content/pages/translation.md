@@ -1,0 +1,24 @@
+---
+title: translation
+crosslinks:
+- translatorBOT
+- translator
+- Kurrent
+- spam
+- antiques
+- Serendipity
+- youtubot
+- greece
+- autourbanbot
+- arabs
+- hyperlingo
+- languages
+- youtubefactsbot
+- Buddhism
+- Chinese
+- Metal
+- linguistics
+- japancirclejerk
+- sindarin
+- ToroYMoi
+---

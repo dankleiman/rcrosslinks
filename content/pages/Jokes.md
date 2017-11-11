@@ -1,0 +1,24 @@
+---
+title: Jokes
+crosslinks:
+- CAHbot
+- AskReddit
+- funny
+- dadjokes
+- autourbanbot
+- IAmA
+- Showerthoughts
+- JokesNumberReference
+- youtubot
+- tifu
+- pics
+- OutOfTheLoop
+- cowhumor
+- AntiJokes
+- todayilearned
+- LifeProTips
+- gifs
+- hatchery
+- ImGoingToHellForThis
+- RedditsMuseumofFilth
+---

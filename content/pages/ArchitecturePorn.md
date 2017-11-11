@@ -1,0 +1,24 @@
+---
+title: ArchitecturePorn
+crosslinks:
+- PornOverlords
+- youtubefactsbot
+- Lost_Architecture
+- brutalism
+- pics
+- UrbanHell
+- evilbuildings
+- norwayonreddit
+- AccidentalWesAnderson
+- GeometryIsNeat
+- ExplorePakistan
+- DesignPorn
+- Cyberpunk
+- u_imguralbumbot
+- NotMyJob
+- ArchitectureVids
+- botwatch
+- beetlejuicing
+- japanpics
+- moviescirclejerk
+---

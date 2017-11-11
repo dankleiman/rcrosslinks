@@ -1,0 +1,24 @@
+---
+title: RimWorld
+crosslinks:
+- ShitRimworldSays
+- youtubefactsbot
+- u_imguralbumbot
+- RimWorldSeeds
+- youtubot
+- livven
+- anti_gif_bot
+- RimworldArt
+- xkcd
+- nocontext
+- CrusaderKings
+- SpaceCannibalism
+- Talesfromrimworld
+- shitrimworldsays
+- Games
+- john_yukis_bots
+- Pay_Respects
+- tmsbmeta
+- ShitDwarfFortressSays
+- place
+---

@@ -1,0 +1,24 @@
+---
+title: VirginiaTech
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- john_yukis_bots
+- politics
+- xkcd
+- IAmA
+- tippr
+- Clemson
+- hokies
+- swva
+- IHateSportsball
+- youtubot
+- ShitLiberalsSay
+- brutalism
+- jmu
+- rva
+- SoSE
+- google
+- titlegore
+---

@@ -1,0 +1,24 @@
+---
+title: textdoor
+crosslinks:
+- japancirclejerk
+- stevenuniverse
+- youtubefactsbot
+- translator
+- wholesometextdoor
+- xkcd
+- 2meta4me
+- redditrequest
+- dankchristianmemes
+- furry_irl
+- nonononoyes
+- autourbanbot
+- ChargeYourPhone
+- Instantregret
+- arabs
+- totallynotrobots
+- conspiracies
+- sad
+- wholesomemes
+- UnexpectedOuija
+---

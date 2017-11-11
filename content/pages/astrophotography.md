@@ -1,0 +1,24 @@
+---
+title: astrophotography
+crosslinks:
+- u_imguralbumbot
+- livven
+- anti_gif_bot
+- solareclipse
+- youtubefactsbot
+- youtubot
+- Spaceonly
+- Astronomy
+- LandscapeAstro
+- Alternativefacts
+- space
+- autotldr
+- kpopfap
+- telescopes
+- spaceporn
+- photography
+- landscapeastro
+- oddlysatisfying
+- EarthPorn
+- NegativeWithGold
+---

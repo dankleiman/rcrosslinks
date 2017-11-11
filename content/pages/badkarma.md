@@ -1,0 +1,24 @@
+---
+title: badkarma
+crosslinks:
+- gameswap
+- GameTrade
+- UniversalScammerList
+- GameSale
+- MassdropBot
+- testimonials
+- SteamAccountsForSale
+- FashionReps
+- subredditcancer
+- IndianGaming
+- FFXV_Trades
+- snackexchange
+- GlobalOffensiveTrade
+- TheseFuckingAccounts
+- barter
+- giftcardexchange
+- IGSRep
+- indiegameswap
+- answers
+- mushroomkingdom
+---

@@ -1,0 +1,24 @@
+---
+title: starbucks
+crosslinks:
+- youtubefactsbot
+- livven
+- john_yukis_bots
+- u_imguralbumbot
+- tmsbmeta
+- anti_gif_bot
+- keto
+- autourbanbot
+- SirensGoneWild
+- youtubot
+- IsAnybodyHere
+- LateStageCapitalism
+- AMAAggregator
+- gatekeeping
+- shittychurning
+- HailCorporate
+- UnexpectedHamilton
+- funny
+- Coffee
+- metric_units
+---

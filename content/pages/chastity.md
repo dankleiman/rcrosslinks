@@ -1,0 +1,24 @@
+---
+title: chastity
+crosslinks:
+- u_imguralbumbot
+- livven
+- keyholdercaptions
+- chastitytraining
+- BDSMcommunity
+- Sissies
+- botwatch
+- Femdom
+- causeWhyNotMate
+- CumFromAnal
+- IsAnybodyHere
+- xkcd
+- dirtyr4r
+- youtubot
+- MassdropBot
+- sissypersonals
+- sph
+- Rainbow6
+- LifeIsBetterInPink
+- permanentchastity
+---

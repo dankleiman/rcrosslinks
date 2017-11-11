@@ -1,0 +1,24 @@
+---
+title: gis
+crosslinks:
+- MapPorn
+- u_imguralbumbot
+- youtubot
+- dataisbeautiful
+- john_yukis_bots
+- youtubefactsbot
+- CrappyDesign
+- Surveying
+- rstats
+- urbanplanning
+- nyc
+- openstreetmap
+- Packt
+- Linky_links
+- OldSchoolCool
+- UAVmapping
+- Database
+- xkcd
+- mapsarebeautiful
+- popular
+---

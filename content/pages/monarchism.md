@@ -1,0 +1,24 @@
+---
+title: monarchism
+crosslinks:
+- autotldr
+- AskHistorians
+- aristos
+- ukpolitics
+- AskThe_Donald
+- The_Donald
+- CatholicMonarchism
+- botwatch
+- shittankiessay
+- Shitstatistssay
+- IsItBullshit
+- TraditionalCatholics
+- youtubefactsbot
+- ActLikeYouBelong
+- youtubot
+- DarkEnlightenment
+- ShitEvilModsSay
+- politics
+- xkcd
+- EnoughCommieSpam
+---

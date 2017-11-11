@@ -1,0 +1,24 @@
+---
+title: FrankOcean
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- anti_gif_bot
+- youtubot
+- MassdropBot
+- hiphopheads
+- Kanye
+- livven
+- place
+- KendrickLamar
+- tmsbmeta
+- freshalbumart
+- donaldglover
+- john_yukis_bots
+- hhh
+- brockhampton
+- analog
+- leakthreads
+- OFWGKTA
+- vinyl
+---

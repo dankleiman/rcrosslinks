@@ -1,0 +1,24 @@
+---
+title: GoForGold
+crosslinks:
+- youtubefactsbot
+- AutoMauderator
+- youtubot
+- wholesomememes
+- redditlogos
+- youtube
+- counting
+- NoStupidQuestions
+- Kanye
+- millionairemakers
+- shittyaskscience
+- nocontext
+- FoundFace
+- shortscarystories
+- whatisthisthing
+- ShittyPoetry
+- BestOfStreamingVideo
+- circlejerk
+- u_imguralbumbot
+- television
+---

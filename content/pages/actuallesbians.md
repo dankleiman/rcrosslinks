@@ -1,0 +1,24 @@
+---
+title: actuallesbians
+crosslinks:
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- john_yukis_bots
+- youtubot
+- AskReddit
+- tmsbmeta
+- xkcd
+- funny
+- todayilearned
+- lgbt
+- bisexual
+- asktransgender
+- ladyladyboners
+- sex
+- butchlesbians
+- IAmA
+- eroticauthors
+- anime_irl
+- Teachers
+---

@@ -1,0 +1,24 @@
+---
+title: Palestine
+crosslinks:
+- autotldr
+- IsraelPalestine
+- Israel
+- place
+- arabs
+- youtubefactsbot
+- IsraelSubredditWatch
+- ukraine
+- youtubot
+- TheFarLeftSide
+- ireland
+- u_imguralbumbot
+- Palestinesubwatch
+- worldnews
+- humanrights
+- MassdropBot
+- ipcirclejerk
+- HasbaraShillWatch
+- placehearts
+- RedCorner
+---

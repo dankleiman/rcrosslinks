@@ -1,0 +1,24 @@
+---
+title: ArtisanVideos
+crosslinks:
+- youtubefactsbot
+- youtubot
+- woodworking
+- videos
+- u_imguralbumbot
+- xkcd
+- restofthefuckingowl
+- homestead
+- iamveryculinary
+- DIY
+- chefknives
+- explainlikeimfive
+- VideosWithoutSpeech
+- todayilearned
+- synthesizers
+- AskReddit
+- bestof
+- IAmA
+- goodyearwelt
+- mealtimevideos
+---

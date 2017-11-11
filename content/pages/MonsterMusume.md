@@ -1,0 +1,24 @@
+---
+title: MonsterMusume
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- livven
+- youtubot
+- anime
+- KissAnime
+- Pixiv
+- TwoBestFriendsPlay
+- DragonMaid
+- botpopularitybot
+- Animemes
+- autourbanbot
+- YouShouldKnow
+- OnePiece
+- thighdeology
+- marijuanaenthusiasts
+- anti_gif_bot
+- theydidthemath
+- RimWorld
+- botwatch
+---

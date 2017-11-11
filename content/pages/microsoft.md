@@ -1,0 +1,24 @@
+---
+title: microsoft
+crosslinks:
+- youtubefactsbot
+- Surface
+- Windows10
+- pcmasterrace
+- windows
+- xkcd
+- Vive
+- tipofmytongue
+- tronscript
+- V2X
+- windowsphone
+- MSPaint3D
+- MicrosoftFlow
+- report
+- oculus
+- WidescreenWallpaper
+- OneNote
+- edge
+- apple
+- StallmanWasRight
+---

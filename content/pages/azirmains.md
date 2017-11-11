@@ -1,0 +1,24 @@
+---
+title: azirmains
+crosslinks:
+- youtubefactsbot
+- leagueoflegends
+- u_imguralbumbot
+- youtubot
+- LeBlancMains
+- livven
+- Rumblemains
+- TaliyahMains
+- anti_gif_bot
+- KoreanAdvice
+- Kindred
+- sufficiencybot
+- zedmains
+- LeagueOfMeta
+- REEEEEEEEEE
+- AhriMains
+- MassdropBot
+- alotabot
+- summonerschool
+- ekkomains
+---

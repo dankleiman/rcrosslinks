@@ -1,0 +1,24 @@
+---
+title: ConfusedBoners
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- WTF
+- mildlypenis
+- youtubefactsbot
+- funny
+- oldschoolcool
+- educationalgifs
+- MassdropBot
+- tmsbmeta
+- AskReddit
+- SuddenlyGay
+- OddlyArousing
+- slimegirls
+- gaming
+- MtF
+- asktransgender
+- TallGirls
+- UnnecessaryCensorship
+- IASIP
+---

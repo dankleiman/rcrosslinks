@@ -1,0 +1,24 @@
+---
+title: sixwordstories
+crosslinks:
+- me_irl
+- xkcd
+- youtubefactsbot
+- MassdropBot
+- tmsbmeta
+- ICanDrawThat
+- mormon
+- RoastMe
+- killthosewhodisagree
+- MapPorn
+- explainlikeimfive
+- myparentsarenthome
+- 3amjokes
+- WritingPrompts
+- oneliners
+- StarWars
+- WordAvalanches
+- FilthyFrank
+- Valkeezy
+- vexillology
+---

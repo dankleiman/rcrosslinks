@@ -1,0 +1,24 @@
+---
+title: Shadowverse
+crosslinks:
+- hearthstone
+- youtubefactsbot
+- livven
+- youtubot
+- Granblue_en
+- iPad
+- tmsbmeta
+- Vania
+- Pixiv
+- CustomShadowverse
+- ShadowversePacks
+- magicTCG
+- alotabot
+- grandorder
+- shadowversecirclejerk
+- xkcd
+- Roboragi
+- nyxnyxnyx
+- Animemes
+- autourbanbot
+---

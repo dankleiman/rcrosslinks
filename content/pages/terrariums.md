@@ -1,0 +1,24 @@
+---
+title: terrariums
+crosslinks:
+- mycology
+- succulents
+- Jarrariums
+- spacex
+- WTF
+- u_imguralbumbot
+- SavageGarden
+- Colonizemars
+- youtubefactsbot
+- StarWars
+- john_yukis_bots
+- modeltrains
+- metalearth
+- whatplantisthis
+- youtubot
+- savagegarden
+- mildlypenis
+- Hobbies
+- Aquariums
+- creepy
+---

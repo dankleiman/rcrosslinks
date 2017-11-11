@@ -1,0 +1,24 @@
+---
+title: PUBATTLEGROUNDS
+crosslinks:
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- john_yukis_bots
+- GlobalOffensive
+- youtubot
+- tmsbmeta
+- PUBG
+- pcmasterrace
+- alotabot
+- LivestreamFail
+- autourbanbot
+- gaming
+- kotk
+- MassdropBot
+- buildapc
+- pcgaming
+- Overwatch
+- Battlegrounds
+- me_irl
+---

@@ -1,0 +1,24 @@
+---
+title: WinStupidPrizes
+crosslinks:
+- livven
+- anti_gif_bot
+- botwatch
+- youtubefactsbot
+- youtubot
+- botpopularitybot
+- Whatcouldgowrong
+- iamverybadass
+- AskReddit
+- RubeGoldbergFails
+- ImageStabilization
+- boop
+- thalassophobia
+- mealtimevideos
+- bestof
+- IdiotsFightingThings
+- vegan
+- FullScorpion
+- noisygifs
+- holdmybeer
+---

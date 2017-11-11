@@ -1,0 +1,24 @@
+---
+title: shiba
+crosslinks:
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- Dogtraining
+- aww
+- youtubefactsbot
+- blop
+- WhatsWrongWithYourDog
+- mlem
+- Serendipity
+- botwatch
+- photoshopbattles
+- Yosemite
+- behindthegifs
+- OldManDog
+- unexpectedoverwatch
+- tmsbmeta
+- shibe
+- funny
+- MassdropBot
+---

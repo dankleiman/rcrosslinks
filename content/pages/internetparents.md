@@ -1,0 +1,24 @@
+---
+title: internetparents
+crosslinks:
+- personalfinance
+- raisedbynarcissists
+- youtubefactsbot
+- Teachers
+- resumes
+- Anxiety
+- LifeAfterNarcissism
+- ABraThatFits
+- MegaLounge
+- youtubot
+- troubledteens
+- LifeProTips
+- LongDistance
+- cigars
+- MomForAMinute
+- Pussified
+- AskHSteacher
+- askdocs
+- JUSTNOMIL
+- intj
+---

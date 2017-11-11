@@ -1,0 +1,24 @@
+---
+title: DC_Cinematic
+crosslinks:
+- moviescirclejerk
+- anti_gif_bot
+- SuperheroCirclejerk
+- youtubot
+- u_imguralbumbot
+- DCEUleaks
+- marvelstudios
+- autotldr
+- movies
+- livven
+- invisiblack
+- DCcomics
+- MassdropBot
+- BrasilOnReddit
+- Znyder
+- alotabot
+- tmsbmeta
+- comicbookmovies
+- FlashTV
+- captainmarvel
+---

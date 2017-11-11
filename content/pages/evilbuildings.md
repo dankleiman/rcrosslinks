@@ -1,0 +1,24 @@
+---
+title: evilbuildings
+crosslinks:
+- youtubefactsbot
+- pics
+- youtubot
+- u_imguralbumbot
+- subredditcancer
+- brutalism
+- SubredditDrama
+- OutOfTheLoop
+- bizarrebuildings
+- AbandonedPorn
+- xkcd
+- interestingasfuck
+- powerwashingporn
+- Cyberpunk
+- architecture
+- totallynotrobots
+- NatureIsFuckingLit
+- itookapicture
+- tippr
+- ArchitecturePorn
+---

@@ -1,0 +1,24 @@
+---
+title: climateskeptics
+crosslinks:
+- autotldr
+- climatechange
+- youtubefactsbot
+- shitdenierssay
+- science
+- skeptic
+- climate
+- youtubot
+- xkcd
+- news
+- tmsbmeta
+- canada
+- MassdropBot
+- askscience
+- autourbanbot
+- technology
+- me_irl
+- atheism
+- europe
+- teenagers
+---

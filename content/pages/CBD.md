@@ -1,0 +1,24 @@
+---
+title: CBD
+crosslinks:
+- cbdinfo
+- Waxpen
+- kratom
+- electronic_cigarette
+- CanadianMOMs
+- youtubefactsbot
+- trees
+- CannabisExtracts
+- Nootropics
+- DIY_eJuice
+- youtubot
+- freebies
+- science
+- vaporents
+- Drugs
+- Kava
+- mflb
+- leaves
+- hemp
+- canadients
+---

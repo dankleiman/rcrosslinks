@@ -1,0 +1,24 @@
+---
+title: calvinandhobbes
+crosslinks:
+- youtubefactsbot
+- xkcd
+- DonaldandHobbes
+- WritingPrompts
+- ExplainLikeImCalvin
+- pics
+- botwatch
+- tmsbmeta
+- u_imguralbumbot
+- donaldandhobbes
+- gatekeeping
+- ATBGE
+- place
+- tattoos
+- bestof
+- happy
+- SubredditDrama
+- LateStageCapitalism
+- keming
+- youtubot
+---

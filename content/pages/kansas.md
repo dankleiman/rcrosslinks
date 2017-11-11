@@ -1,0 +1,24 @@
+---
+title: kansas
+crosslinks:
+- autotldr
+- CrazyIdeas
+- youtubefactsbot
+- kansascity
+- MassdropBot
+- u_imguralbumbot
+- UpliftingNews
+- wichita
+- iamverysmart
+- pornfree
+- OutOfTheLoop
+- explainlikeimfive
+- Serendipity
+- technology
+- universityofkansas
+- AmericanPlantSwap
+- AirForce
+- nottheonion
+- trashy
+- Political_Revolution
+---

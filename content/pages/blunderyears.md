@@ -1,0 +1,24 @@
+---
+title: blunderyears
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- pics
+- alotabot
+- uglyduckling
+- '321'
+- bestof
+- AskReddit
+- nocontext
+- Justfuckmyshitup
+- shorthairedhotties
+- FreeCompliments
+- youtubot
+- photoshopbattles
+- funny
+- awfuleyebrows
+- totallynotrobots
+- OldSchoolCool
+- streetwear
+- '2013'
+---

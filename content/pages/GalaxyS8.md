@@ -1,0 +1,24 @@
+---
+title: GalaxyS8
+crosslinks:
+- GalaxyS7
+- Android
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- GooglePixel
+- tmobile
+- samsung
+- galaxyphotography
+- tasker
+- androidthemes
+- Galaxy_S8
+- Amoledbackgrounds
+- livven
+- autotldr
+- john_yukis_bots
+- GearVR
+- Nexus6P
+- iphone
+- GalaxyNote8
+---

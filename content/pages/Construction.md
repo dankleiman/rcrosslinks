@@ -1,0 +1,24 @@
+---
+title: Construction
+crosslinks:
+- accessdoors
+- youtubefactsbot
+- u_imguralbumbot
+- Concrete
+- DIY
+- redditrequest
+- dataisbeautiful
+- alotabot
+- dating
+- NotMyJob
+- sales
+- cableporn
+- livven
+- Revu
+- bestof
+- interestingasfuck
+- woodworking
+- cranes
+- autotldr
+- john_yukis_bots
+---

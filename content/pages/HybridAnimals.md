@@ -1,0 +1,24 @@
+---
+title: HybridAnimals
+crosslinks:
+- youtubefactsbot
+- photoshopbattles
+- nocontext
+- onetruegod
+- ImaginaryHybrids
+- hmmm
+- Art
+- aww
+- birdswitharms
+- titlegore
+- MaliciousCompliance
+- thesimpsons
+- badtaxidermy
+- stevenuniverse
+- spiderbro
+- TinyTrumps
+- DunderMifflin
+- totallynotrobots
+- funny
+- HeyCarl
+---

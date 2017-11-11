@@ -1,0 +1,24 @@
+---
+title: Competitiveoverwatch
+crosslinks:
+- Overwatch
+- OverwatchUniversity
+- youtubefactsbot
+- youtubot
+- leagueoflegends
+- GlobalOffensive
+- OverwatchLFT
+- alotabot
+- john_yukis_bots
+- DotA2
+- SubredditDrama
+- starcraft
+- overwatched
+- overwatch
+- MouseReview
+- OverwatchCirclejerk
+- anti_gif_bot
+- OverwatchTMZ
+- OWConsole
+- buildapc
+---

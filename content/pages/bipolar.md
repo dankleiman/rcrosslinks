@@ -1,0 +1,24 @@
+---
+title: bipolar
+crosslinks:
+- youtubefactsbot
+- BipolarReddit
+- u_imguralbumbot
+- BipolarSOs
+- youtubot
+- livven
+- BPD
+- stopdrinking
+- anti_gif_bot
+- SuicideWatch
+- tmsbmeta
+- Anxiety
+- botwatch
+- schizoaffective
+- Petioles
+- Heavymind
+- TwoXChromosomes
+- KindVoice
+- MassdropBot
+- keto
+---

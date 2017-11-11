@@ -1,0 +1,24 @@
+---
+title: gravityfalls
+crosslinks:
+- youtubefactsbot
+- livven
+- StarVStheForcesofEvil
+- u_imguralbumbot
+- Dipcifica
+- stevenuniverse
+- anti_gif_bot
+- KarmaCourt
+- StevenFallsOverTime
+- MassdropBot
+- funkopop
+- homestuck
+- continuityporn
+- casualiama
+- rickandmorty
+- DoctorWhumour
+- AnimationMemes
+- wincest
+- partyparrot
+- Twokinds
+---

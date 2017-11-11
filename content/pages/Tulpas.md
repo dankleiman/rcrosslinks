@@ -1,0 +1,24 @@
+---
+title: Tulpas
+crosslinks:
+- youtubefactsbot
+- LucidDreaming
+- youtubot
+- occult
+- AskReddit
+- TumblrInAction
+- john_yukis_bots
+- Tulpa_Lounge
+- TulpasGoneWild
+- Blind
+- funny
+- TOUHOUMUSIC
+- help
+- u_imguralbumbot
+- Sims3
+- asktransgender
+- ObscureShitposts
+- explainlikeimfive
+- Aphantasia
+- subaru
+---

@@ -1,0 +1,24 @@
+---
+title: musictheory
+crosslinks:
+- youtubot
+- youtubefactsbot
+- u_imguralbumbot
+- composer
+- WeAreTheMusicMakers
+- kpop
+- Guitar
+- todayilearned
+- gameofbands
+- Transcribe
+- guitarlessons
+- piano
+- listentothis
+- classicalmusic
+- gamedev
+- rickandmorty
+- Serendipity
+- Jazz
+- drums
+- SubAutoCorrectBot
+---

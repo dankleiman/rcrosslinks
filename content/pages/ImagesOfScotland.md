@@ -1,0 +1,24 @@
+---
+title: ImagesOfScotland
+crosslinks:
+- Scotland
+- EarthPorn
+- pics
+- imagesofnetwork
+- tattoos
+- Paladins
+- itookapicture
+- funny
+- Scotch
+- mildlyinteresting
+- travel
+- aww
+- rugbyunion
+- whatsthisbug
+- glasgow
+- ScottishPhotos
+- OldSchoolCool
+- Celebs
+- AbandonedPorn
+- CityPorn
+---

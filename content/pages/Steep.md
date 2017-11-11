@@ -1,0 +1,24 @@
+---
+title: Steep
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- tmsbmeta
+- GhostRecon
+- me_irl
+- nintendo
+- john_yukis_bots
+- gifsthatendtoosoon
+- ShadowBan
+- SweatyPalms
+- funny
+- gaming
+- nvidia
+- youtubot
+- skiing
+- GlobalOffensive
+- gifs
+- NameThatSong
+- PS4
+---

@@ -1,0 +1,24 @@
+---
+title: datascience
+crosslinks:
+- MachineLearning
+- autotldr
+- statistics
+- dataisbeautiful
+- youtubefactsbot
+- Python
+- datasets
+- AskStatistics
+- OMSCS
+- blackmirror
+- youtubot
+- learnpython
+- resumes
+- alotabot
+- Serendipity
+- autourbanbot
+- PowerBI
+- datacareerquestions
+- botpopularitybot
+- canada
+---

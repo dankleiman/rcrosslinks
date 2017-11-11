@@ -1,0 +1,24 @@
+---
+title: spain
+crosslinks:
+- autotldr
+- youtubefactsbot
+- podemos
+- Barcelona
+- youtubot
+- europe
+- Tarragona
+- autourbanbot
+- catalunya
+- de
+- zeronet
+- Madrid
+- hapas
+- ireland
+- es
+- place
+- WikiLeaks
+- catalonia
+- xkcd
+- explainlikeimfive
+---

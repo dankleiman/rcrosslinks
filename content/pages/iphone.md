@@ -1,0 +1,24 @@
+---
+title: iphone
+crosslinks:
+- youtubefactsbot
+- apple
+- iOSBeta
+- jailbreak
+- youtubot
+- Android
+- ios
+- SiriFail
+- john_yukis_bots
+- mobilerepair
+- applehelp
+- iPhone_X_Club
+- AskReddit
+- iWallpaper
+- MassdropBot
+- tmsbmeta
+- ATT
+- ipad
+- anti_gif_bot
+- xkcd
+---

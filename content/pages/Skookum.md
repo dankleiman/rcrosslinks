@@ -1,0 +1,24 @@
+---
+title: Skookum
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- u_imguralbumbot
+- Justrolledintotheshop
+- tmsbmeta
+- xkcd
+- autourbanbot
+- VXJunkies
+- dataisbeautiful
+- Welding
+- botwatch
+- metalworking
+- ArtisanVideos
+- techsupportgore
+- Machinists
+- specializedtools
+- EngineeringPorn
+- pics
+- modnews
+---

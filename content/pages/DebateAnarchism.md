@@ -1,0 +1,24 @@
+---
+title: DebateAnarchism
+crosslinks:
+- Anarchism
+- Anarchy101
+- youtubefactsbot
+- DebateAltRight
+- Anarcho_Capitalism
+- DebateFascism
+- AskHistorians
+- socialism
+- marxism_101
+- AnarchismOnline
+- US_Strasserism
+- LibertarianSocialism
+- shitleftistssay
+- askscience
+- DebateCommunism
+- COMPLETEANARCHY
+- youtubot
+- AnCap101
+- Agorism
+- collapse
+---

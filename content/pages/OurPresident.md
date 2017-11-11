@@ -1,0 +1,24 @@
+---
+title: OurPresident
+crosslinks:
+- autotldr
+- The_Donald
+- politics
+- Enough_Sanders_Spam
+- SandersForPresident
+- youtubefactsbot
+- zeronet
+- conspiracy
+- worldnews
+- youtubot
+- socialism
+- DebbieForPresident
+- AskReddit
+- WayOfTheBern
+- Political_Revolution
+- HillaryForPrison
+- ShitPoliticsSays
+- circlebroke2
+- xkcd
+- SubredditDrama
+---

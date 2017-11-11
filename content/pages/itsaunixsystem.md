@@ -1,0 +1,24 @@
+---
+title: itsaunixsystem
+crosslinks:
+- youtubefactsbot
+- xkcd
+- interject
+- livven
+- Stargate
+- SorryForYourLoss
+- Sherlock
+- videos
+- SCP
+- latvianjokes
+- DataHoarder
+- AteThePasta
+- hockey
+- shield
+- newzealand
+- BashRMS
+- OSHA
+- japancirclejerk
+- u_imguralbumbot
+- iamverysmart
+---

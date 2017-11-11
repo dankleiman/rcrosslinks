@@ -1,0 +1,24 @@
+---
+title: neckbeardstories
+crosslinks:
+- youtubefactsbot
+- unexpectedhogwarts
+- neckbeardRPG
+- tmsbmeta
+- weeabootales
+- REEEEEEEEEE
+- Drachenlord
+- raerth
+- bestofTLDR
+- IAmA
+- badpeoplestories
+- MaliciousCompliance
+- Incel
+- LateStageCapitalism
+- FULLCOMMUNISM
+- niceguys
+- justneckbeardthings
+- bestof
+- hapas
+- mylittleandysonic1
+---

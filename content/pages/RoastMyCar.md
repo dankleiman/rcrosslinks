@@ -1,0 +1,24 @@
+---
+title: RoastMyCar
+crosslinks:
+- youtubefactsbot
+- BMW
+- Shitty_Car_Mods
+- UglyCarPictures
+- MassdropBot
+- GolfGTI
+- youtubot
+- xkcd
+- trashy
+- tmsbmeta
+- flying
+- dogswithvests
+- ImagesOfThe2010s
+- '2013'
+- RoastMe
+- poor
+- projectcar
+- vancouver
+- wincest
+- badparking
+---

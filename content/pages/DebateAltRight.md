@@ -1,0 +1,24 @@
+---
+title: DebateAltRight
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Fuckthealtright
+- hapas
+- The_Donald
+- altright
+- AgainstHateSubreddits
+- AskHistorians
+- PussyPass
+- DebateFascism
+- circlebroke2
+- DarkEnlightenment
+- changemyview
+- MassdropBot
+- HonoraryAryan
+- worstof
+- AltRightChristian
+- u_imguralbumbot
+- milliondollarextreme
+- europeannationalism
+---

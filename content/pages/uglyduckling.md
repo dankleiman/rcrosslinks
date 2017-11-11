@@ -1,0 +1,24 @@
+---
+title: uglyduckling
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- transtimelines
+- nohomo_bot
+- PrettyGirlsUglyFaces
+- cringepics
+- gatekeeping
+- tmsbmeta
+- Rateme
+- shorthairedhotties
+- HailCorporate
+- Duckingugly
+- curlyhair
+- instant_regret
+- amIuglyBrutallyHonest
+- '2014'
+- trashy
+- Fitness
+- Puberty
+- progresspics
+---

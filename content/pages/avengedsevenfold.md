@@ -1,0 +1,24 @@
+---
+title: avengedsevenfold
+crosslinks:
+- youtubefactsbot
+- botpopularitybot
+- youtubot
+- ShitTheFalseSay
+- u_imguralbumbot
+- Music
+- IAmA
+- Slipknot
+- Serendipity
+- Dreamtheater
+- UnpopularOpinions
+- reddevils
+- blink182
+- SongStems
+- autotldr
+- UnresolvedMysteries
+- botwatch
+- Eminem
+- metal
+- AMA
+---

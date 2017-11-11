@@ -1,0 +1,24 @@
+---
+title: Minecraft
+crosslinks:
+- mcservers
+- minecraftsuggestions
+- MCPE
+- feedthebeast
+- MinecraftCommands
+- MinecraftBuddies
+- AskReddit
+- redstone
+- HermitCraft
+- help
+- biomebundle
+- technicalminecraft
+- admincraft
+- mildlyinteresting
+- realms
+- gaming
+- pics
+- place
+- edstonehelper
+- autotldr
+---

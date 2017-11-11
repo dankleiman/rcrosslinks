@@ -1,0 +1,24 @@
+---
+title: Corvette
+crosslinks:
+- youtubefactsbot
+- cars
+- u_imguralbumbot
+- Serendipity
+- carporn
+- Atlanta
+- youtubot
+- ysrudlsforfpsJSB
+- drunk
+- Shitty_Car_Mods
+- WTF
+- raining
+- xkcd
+- novacars
+- MechanicAdvice
+- botwatch
+- MassdropBot
+- classiccars
+- ThingsCutInHalfPorn
+- finance
+---

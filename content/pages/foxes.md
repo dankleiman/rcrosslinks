@@ -1,0 +1,24 @@
+---
+title: foxes
+crosslinks:
+- livven
+- aww
+- place
+- tmsbmeta
+- anti_gif_bot
+- gaming
+- gifs
+- pics
+- youtubot
+- mildlyinteresting
+- botwatch
+- furry_irl
+- AskReddit
+- Frugal
+- ColorizedHistory
+- PixelArt
+- Blep
+- SFWRedheads
+- nocontext
+- blup
+---

@@ -1,0 +1,24 @@
+---
+title: AskMen
+crosslinks:
+- AskReddit
+- sex
+- Fitness
+- whynotasource
+- AskWomen
+- getdisciplined
+- personalfinance
+- OutOfTheLoop
+- IAmA
+- malefashionadvice
+- MensLib
+- todayilearned
+- TwoXChromosomes
+- Assistance
+- bodyweightfitness
+- '2013'
+- RoleReversal
+- Malejewellery
+- OkCupid
+- iamverysmart
+---

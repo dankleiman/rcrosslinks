@@ -1,0 +1,24 @@
+---
+title: hittableFaces
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- CringeAnarchy
+- todayilearned
+- livven
+- RoastMe
+- pussypassdenied
+- videos
+- PublicFreakout
+- copypasta
+- botwatch
+- tmsbmeta
+- MassdropBot
+- ComedyCemetery
+- theyoungturks
+- pics
+- SubredditDrama
+- trashy
+- Eirents
+- technology
+---

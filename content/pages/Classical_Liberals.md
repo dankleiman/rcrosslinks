@@ -1,0 +1,24 @@
+---
+title: Classical_Liberals
+crosslinks:
+- Libertarian
+- daverubin
+- youtubot
+- neoliberal
+- Dave_Rubin
+- samharris
+- autotldr
+- politics
+- PetersenForSenate
+- videos
+- gatekeeping
+- Ausguns
+- AMADisasters
+- iamverybadass
+- thedavidpakmanshow
+- Shitstatistssay
+- australia
+- botwatch
+- Iamverydumb
+- AnCapitalists
+---

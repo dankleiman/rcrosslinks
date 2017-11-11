@@ -1,0 +1,24 @@
+---
+title: sad
+crosslinks:
+- youtubefactsbot
+- raisedbynarcissists
+- anti_gif_bot
+- singapore
+- tippr
+- all
+- MEOW_IRL
+- autotldr
+- Petloss
+- Glitchhop
+- dabbingthroughtime
+- both_sides
+- baww
+- livven
+- katawashoujo
+- doodles
+- lonely
+- youtubot
+- rage
+- sadcringe
+---

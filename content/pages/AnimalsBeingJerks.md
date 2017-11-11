@@ -1,0 +1,24 @@
+---
+title: AnimalsBeingJerks
+crosslinks:
+- u_imguralbumbot
+- gifs
+- NSFWFunny
+- xkcd
+- PeopleFuckingDying
+- youtubot
+- aww
+- tmsbmeta
+- funny
+- AskReddit
+- botwatch
+- AnimalTextGifs
+- PartyParrot
+- cars
+- videos
+- UpvotedBecauseGirl
+- ChildrenFallingOver
+- autotldr
+- autourbanbot
+- pics
+---

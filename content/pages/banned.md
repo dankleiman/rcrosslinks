@@ -1,0 +1,24 @@
+---
+title: banned
+crosslinks:
+- freeworldnews
+- SubredditDrama
+- LateStageCapitalism
+- worldnews
+- uncensorednews
+- botwatch
+- NoBannedVideo
+- communism
+- Feminism
+- Drama
+- NoStupidQuestions
+- socialism
+- autourbanbot
+- Hotwife
+- FellowKids
+- AskReddit
+- legaladvice
+- veteran
+- TwoXChromosomes
+- MaliciousCompliance
+---

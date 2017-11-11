@@ -1,0 +1,24 @@
+---
+title: Edmonton
+crosslinks:
+- youtubefactsbot
+- alberta
+- u_imguralbumbot
+- canada
+- youtubot
+- PersonalFinanceCanada
+- AlbertaCreates
+- uAlberta
+- anti_gif_bot
+- autourbanbot
+- Calgary
+- metacanada
+- pics
+- alotabot
+- legaladvice
+- EdmontonOilers
+- livven
+- canadients
+- buildapc
+- john_yukis_bots
+---

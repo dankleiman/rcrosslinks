@@ -1,0 +1,24 @@
+---
+title: AZCardinals
+crosslinks:
+- nfl
+- youtubefactsbot
+- livven
+- MassdropBot
+- tmsbmeta
+- EvilLeagueOfEvil
+- reddit_stream
+- anti_gif_bot
+- u_imguralbumbot
+- HadToHurt
+- UpliftingNews
+- modnews
+- LinkFixBot
+- Jaguars
+- nflstreams
+- Patriots
+- Madden
+- GreenLattice
+- autourbanbot
+- suns
+---

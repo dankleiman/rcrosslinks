@@ -1,0 +1,24 @@
+---
+title: homegym
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- Fitness
+- bodyweightfitness
+- weightroom
+- crossfit
+- weightlifting
+- livven
+- youtubot
+- john_yukis_bots
+- delusionalcraigslist
+- slavelabour
+- botwatch
+- AskReddit
+- f
+- metric_units
+- gaming
+- Bodyweight
+- y
+- DIY
+---

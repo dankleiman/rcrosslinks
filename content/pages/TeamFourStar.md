@@ -1,0 +1,24 @@
+---
+title: TeamFourStar
+crosslinks:
+- youtubefactsbot
+- youtubot
+- dbz
+- anti_gif_bot
+- autourbanbot
+- SubredditDrama
+- Serendipity
+- whowouldwin
+- highqualitygifs
+- ChargeYourPhone
+- PMclub
+- rupaulsdragrace
+- botwatch
+- nintendo
+- u_imguralbumbot
+- pics
+- TheUnexpectables
+- Toonami
+- MarkMyWords
+- Naruto
+---

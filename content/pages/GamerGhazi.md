@@ -1,0 +1,24 @@
+---
+title: GamerGhazi
+crosslinks:
+- AmalaNetwork
+- KotakuInAction
+- youtubefactsbot
+- xkcd
+- AskHistorians
+- ChapoTrapHouse
+- youtubot
+- ShitRedditSays
+- AskPhilosophyFAQ
+- news
+- JamesDamore
+- politics
+- badhistory
+- IAmA
+- SubredditDrama
+- circlebroke2
+- ffxiv
+- todayilearned
+- socialism
+- science
+---

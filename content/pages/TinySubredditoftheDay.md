@@ -1,0 +1,24 @@
+---
+title: TinySubredditoftheDay
+crosslinks:
+- GunsAreCool
+- shitguncontrollerssay
+- metacanada
+- vintageviral
+- CivHybridGames
+- PaperAirplanes
+- geekheads
+- TheTardoGang
+- onguardforthee
+- Vocabulario
+- assyrian
+- lipsum
+- snowshoeing
+- dyscalculia
+- Blooddonors
+- ApocalypseWorld
+- NorthernNewEngland
+- Wild_Fashion
+- farsi
+- IsThisADonkey
+---

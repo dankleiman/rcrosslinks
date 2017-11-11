@@ -1,0 +1,24 @@
+---
+title: thegrandtour
+crosslinks:
+- youtubefactsbot
+- TopGear
+- livven
+- youtubot
+- UKdocumentaries
+- pics
+- AskReddit
+- WTF
+- Autos
+- videos
+- waze
+- IAmA
+- funny
+- teslamotors
+- Kanye
+- malefashionadvice
+- mildlyinteresting
+- AutoDetailing
+- lewronggeneration
+- thewalkingdead
+---

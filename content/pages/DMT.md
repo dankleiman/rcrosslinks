@@ -1,0 +1,24 @@
+---
+title: DMT
+crosslinks:
+- youtubefactsbot
+- Drugs
+- Psychonaut
+- DrugsOver30
+- LSD
+- u_imguralbumbot
+- youtubot
+- livven
+- DivineTribeVaporizers
+- alotabot
+- drugscirclejerk
+- replications
+- anti_gif_bot
+- DrugNerds
+- botwatch
+- Waxpen
+- RationalPsychonaut
+- Damokian
+- ReagentTesting
+- DarkNetMarkets
+---

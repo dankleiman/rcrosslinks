@@ -1,0 +1,24 @@
+---
+title: The_Dennis
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- u_imguralbumbot
+- The_Donald
+- engrish
+- OutOfTheLoop
+- MassdropBot
+- iasip
+- IASIP
+- youtubot
+- announcements
+- hero0fwar
+- HalfNakedWomen
+- onetruegod
+- SoPosts
+- KarmaCourt
+- AccidentalRenaissance
+- DownvoteTrolling
+- the_lobster
+---

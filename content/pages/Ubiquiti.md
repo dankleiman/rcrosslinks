@@ -1,0 +1,24 @@
+---
+title: Ubiquiti
+crosslinks:
+- youtubefactsbot
+- homelab
+- HomeNetworking
+- linuxserver
+- u_imguralbumbot
+- networking
+- PFSENSE
+- pihole
+- youtubot
+- sysadmin
+- jacobalberty
+- mikrotik
+- cablefail
+- tmsbmeta
+- organizr
+- autotldr
+- AmpliFi
+- prtg
+- doctorwho
+- homeautomation
+---

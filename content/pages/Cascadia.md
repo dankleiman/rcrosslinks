@@ -1,0 +1,24 @@
+---
+title: Cascadia
+crosslinks:
+- autotldr
+- FreeCascadia
+- Seattle
+- SeattleWA
+- youtubefactsbot
+- Communalists
+- CascadiaBooks
+- Portland
+- ArtefactPorn
+- news
+- xkcd
+- oregon
+- britishcolumbia
+- EnoughCommieSpam
+- Strike4Democracy
+- ChinookJargon
+- livven
+- vexillology
+- MassdropBot
+- California
+---

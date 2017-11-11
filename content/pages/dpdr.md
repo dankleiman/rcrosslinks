@@ -1,0 +1,24 @@
+---
+title: dpdr
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Drugs
+- autourbanbot
+- Nootropics
+- alotabot
+- anti_gif_bot
+- kratom
+- raisedbynarcissists
+- philosophy
+- asktransgender
+- tmsbmeta
+- tinnitus
+- Anxiety
+- Heavymind
+- MaladaptiveDreaming
+- ptsd
+- me_irl
+- Depersonalization
+- MassdropBot
+---

@@ -1,0 +1,24 @@
+---
+title: DebunkThis
+crosslinks:
+- youtubefactsbot
+- youtubot
+- skeptic
+- xkcd
+- the_donald
+- Missing411
+- badhistory
+- OnePiece
+- WatchRedditDie
+- Denmark
+- VACCINES
+- jellybeantoes
+- conspiracy
+- creepy
+- evolution
+- forwardsfromgrandma
+- askscience
+- AskAnthropology
+- theydidthemath
+- explainlikeimfive
+---

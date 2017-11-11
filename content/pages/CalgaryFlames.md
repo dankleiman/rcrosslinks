@@ -1,0 +1,24 @@
+---
+title: CalgaryFlames
+crosslinks:
+- youtubefactsbot
+- hockey
+- tmsbmeta
+- canucks
+- livven
+- NHLStreams
+- youtubot
+- place
+- EdmontonOilers
+- nohomo_bot
+- u_imguralbumbot
+- reddit_stream
+- MassdropBot
+- stlouisblues
+- Calgary
+- rangers
+- reactiongifs
+- ColoradoAvalanche
+- caps
+- The_Donald
+---

@@ -1,0 +1,24 @@
+---
+title: michaelbaygifs
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- tmsbmeta
+- funny
+- botwatch
+- PeopleFuckingDying
+- WTF
+- CatastrophicFailure
+- videos
+- gifextra
+- stabbot
+- shockwaveporn
+- xkcd
+- interestingasfuck
+- CombatFootage
+- MyPeopleNeedMe
+- ImageStabilization
+- GreenDawn
+- riskyclickoftheday
+---

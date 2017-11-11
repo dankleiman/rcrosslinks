@@ -1,0 +1,24 @@
+---
+title: devops
+crosslinks:
+- sysadmin
+- golang
+- youtubefactsbot
+- docker
+- sysadminjobs
+- xkcd
+- programming
+- aws
+- Python
+- microsoft
+- youtubot
+- linuxadmin
+- devopsjobs
+- ansible
+- jenkins
+- plaintext
+- u_imguralbumbot
+- Database
+- explainlikeimfive
+- causeWhyNotMate
+---

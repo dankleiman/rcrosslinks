@@ -1,0 +1,24 @@
+---
+title: transgendercirclejerk
+crosslinks:
+- asktransgender
+- youtubefactsbot
+- meettransgirls
+- MtF
+- traaaaaaannnnnnnnnns
+- youtubot
+- autourbanbot
+- MassdropBot
+- tmsbmeta
+- GenderCritical
+- ftm
+- CompileBot
+- copypasta
+- GenderCynical
+- AskReddit
+- grillsgonewild
+- anti_gif_bot
+- nohomo_bot
+- Incels
+- transpassing
+---

@@ -1,0 +1,24 @@
+---
+title: awardtravel
+crosslinks:
+- churning
+- u_imguralbumbot
+- travel
+- SouthwestAirlines
+- u_jbwncster
+- awardstoriesgonewild
+- amex
+- tifu
+- movies
+- washingtondc
+- personalfinance
+- john_yukis_bots
+- shittychurning
+- aviation
+- CreditCards
+- onebag
+- VisitingIceland
+- youtubefactsbot
+- autotldr
+- miles4migrants
+---

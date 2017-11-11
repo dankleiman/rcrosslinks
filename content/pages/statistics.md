@@ -1,0 +1,24 @@
+---
+title: statistics
+crosslinks:
+- u_imguralbumbot
+- xkcd
+- rstats
+- AskStatistics
+- autotldr
+- datascience
+- science
+- labrats
+- HomeworkHelp
+- dataisbeautiful
+- actuary
+- stata
+- hockey
+- epidemiology
+- dailyprogrammer
+- MachineLearning
+- bioinformatics
+- SampleSize
+- submarines
+- GradSchool
+---

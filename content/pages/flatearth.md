@@ -1,0 +1,24 @@
+---
+title: flatearth
+crosslinks:
+- youtubefactsbot
+- theworldisflat
+- OurFlatWorld
+- flatearthsociety
+- TopMindsOfReddit
+- DebateFlatEarth
+- youtubot
+- astrophotography
+- space
+- livven
+- Flatearther
+- u_imguralbumbot
+- conspiracy
+- askscience
+- anti_gif_bot
+- MassdropBot
+- Flat_Earth
+- debateflatearth
+- AskHistorians
+- pics
+---

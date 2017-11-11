@@ -1,0 +1,24 @@
+---
+title: psg
+crosslinks:
+- soccer
+- anti_gif_bot
+- footballhighlights
+- soccerstreams
+- footballdownload
+- u_imguralbumbot
+- MCFC
+- youtubot
+- Barca
+- FIFA
+- livven
+- MassdropBot
+- autourbanbot
+- rockets
+- Ligue1
+- indianpeoplefacebook
+- gonewildpsg
+- photoshopbattles
+- OutOfTheLoop
+- asmonaco
+---

@@ -1,0 +1,24 @@
+---
+title: Haruhi
+crosslinks:
+- Pixiv
+- youtubefactsbot
+- anime
+- TumblrInAction
+- raerth
+- sailormoon
+- u_imguralbumbot
+- xkcd
+- Animewallpaper
+- john_yukis_bots
+- gijoe
+- AngelBeats
+- Animesuggest
+- place
+- Music
+- WhatAWeeb
+- anime_irl
+- Serendipity
+- energygap
+- pepe
+---

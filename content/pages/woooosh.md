@@ -1,0 +1,24 @@
+---
+title: woooosh
+crosslinks:
+- MassdropBot
+- whoooosh
+- botwatch
+- youtubefactsbot
+- thatHappened
+- mildlyinteresting
+- ComedyCemetery
+- livven
+- wecangodeeper
+- Jokes
+- unexpectedhogwarts
+- opieandanthony
+- THE_PACK
+- NotKenM
+- gatekeeping
+- xkcd
+- pics
+- facepalmfacepalms
+- IdiotsInCars
+- fakealbumcovers
+---

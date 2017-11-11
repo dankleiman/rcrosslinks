@@ -1,0 +1,24 @@
+---
+title: nostalgia
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- livven
+- anti_gif_bot
+- tmsbmeta
+- xkcd
+- botwatch
+- pics
+- gatekeeping
+- HailCorporate
+- tipofmytongue
+- IAmA
+- MandelaEffect
+- lewronggeneration
+- gaming
+- todayilearned
+- jesuschristreddit
+- MassdropBot
+- Shitty_Car_Mods
+---

@@ -1,0 +1,24 @@
+---
+title: pharmacy
+crosslinks:
+- autotldr
+- youtubefactsbot
+- medicine
+- Drugs
+- dataisbeautiful
+- PharmacyTechnician
+- AMAAggregator
+- TalesFromThePharmacy
+- alotabot
+- prepharmacy
+- xkcd
+- the_shkreli_evidence
+- pokemongo
+- news
+- Serendipity
+- livven
+- AskDocs
+- MedicalAdvice
+- medicalschool
+- GetMotivated
+---

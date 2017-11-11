@@ -1,0 +1,24 @@
+---
+title: homeless
+crosslinks:
+- vandwellers
+- DumpsterDiving
+- vagabond
+- youtubot
+- youtubefactsbot
+- Assistance
+- news
+- MGTOW
+- opendirectories
+- SaltLakeCity
+- fakeid
+- collapse
+- Sacramento
+- autourbanbot
+- mturk
+- alotabot
+- hitchhiking
+- HousingWorks
+- soylent
+- HomelessEncampment
+---

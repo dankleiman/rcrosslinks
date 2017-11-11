@@ -1,0 +1,24 @@
+---
+title: serialpodcast
+crosslinks:
+- serialpodcastorigins
+- stownpodcast
+- theundisclosedpodcast
+- Frankenserial
+- serialdiscussion
+- youtubot
+- u_imguralbumbot
+- NarcoticsUnitAMA
+- autourbanbot
+- asoiaf
+- stownpodcastorigins
+- SerialThunderDome
+- askscience
+- Ooer
+- limetown
+- magicTCG
+- SwordAndScale
+- The_Donald
+- philosophy
+- UnresolvedMysteries
+---

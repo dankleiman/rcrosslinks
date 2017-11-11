@@ -1,0 +1,24 @@
+---
+title: mindcrack
+crosslinks:
+- coestar
+- place
+- factorio
+- Guude
+- bugs
+- modnews
+- ftlgame
+- thepinkbird
+- ultrahardcore
+- dontstarve
+- czech
+- MassdropBot
+- armenia
+- MonumentaMMO
+- subreddit_stats
+- autourbanbot
+- 2hdqjrl
+- Minecraft
+- NintendoSwitch
+- badpsychology
+---

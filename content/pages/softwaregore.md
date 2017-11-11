@@ -1,0 +1,24 @@
+---
+title: softwaregore
+crosslinks:
+- u_imguralbumbot
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- unixtime_bot
+- xkcd
+- assholedesign
+- totallynotrobots
+- ProgrammerHumor
+- botwatch
+- MassdropBot
+- tmsbmeta
+- AskReddit
+- PBSOD
+- youtubot
+- pcmasterrace
+- funny
+- SubAutoCorrectBot
+- mildlyinfuriating
+- linuxmasterrace
+---

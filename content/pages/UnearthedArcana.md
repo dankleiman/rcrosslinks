@@ -1,0 +1,24 @@
+---
+title: UnearthedArcana
+crosslinks:
+- dndnext
+- DnD
+- DnDHomebrew
+- boh5e
+- DnDBehindTheScreen
+- youtubefactsbot
+- monsteraday
+- ImaginaryMonsters
+- DnDGreentext
+- OutlandishAdventure
+- spelljammer
+- DMAcademy
+- u_imguralbumbot
+- MassdropBot
+- john_yukis_bots
+- dndgreentext
+- bloodborne
+- COMPLETEANARCHY
+- mapmaking
+- respectthreads
+---

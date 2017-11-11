@@ -1,0 +1,24 @@
+---
+title: Spanish
+crosslinks:
+- youtubot
+- autourbanbot
+- argentina
+- ENGLISH
+- languagelearning
+- language_exchange
+- learnspanish
+- badlinguistics
+- linguistics
+- Spanishhelp
+- mexico
+- ithaca
+- SpanishNoSleep
+- botwatch
+- Mexican_Spanish
+- MassdropBot
+- Vocabulario
+- anti_gif_bot
+- yo_elvr
+- Duolingoclubs
+---

@@ -1,0 +1,24 @@
+---
+title: thefighterandthekid
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- JoeRogan
+- bjj
+- MMA
+- AskReddit
+- NegativeWithGold
+- alotabot
+- autourbanbot
+- tmsbmeta
+- Killtony
+- AMAAggregator
+- im14andthisisdeep
+- IAmA
+- gifs
+- u_imguralbumbot
+- all
+- me_irl
+- TenMinutePodcast
+---

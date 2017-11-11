@@ -1,0 +1,24 @@
+---
+title: shills
+crosslinks:
+- conspiracy
+- autotldr
+- TheoryOfReddit
+- TrueReddit
+- videos
+- HailCorporate
+- mechanical_gifs
+- GMOMyths
+- Trumpgret
+- HighQualityGifs
+- Fuckthealtright
+- CheatingGirlfriends
+- cheatingrevenge
+- Feminism
+- energy
+- FuturologyModerators
+- TropicalWeather
+- news
+- TheRecordCorrected
+- politics
+---

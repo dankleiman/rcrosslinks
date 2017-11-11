@@ -1,0 +1,24 @@
+---
+title: overclocking
+crosslinks:
+- Amd
+- u_imguralbumbot
+- nvidia
+- youtubefactsbot
+- youtubot
+- buildapc
+- pcmasterrace
+- intel
+- hardwareswap
+- buildapcsales
+- CabaloftheBuildsmiths
+- pcgaming
+- CableManagement
+- watercooling
+- sysadmin
+- linux_gaming
+- GAAB350
+- alotabot
+- AMDRadeon
+- tmsbmeta
+---

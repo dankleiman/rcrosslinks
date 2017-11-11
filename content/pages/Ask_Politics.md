@@ -1,0 +1,24 @@
+---
+title: Ask_Politics
+crosslinks:
+- AskHistorians
+- politics
+- MassdropBot
+- youtubot
+- NeutralPolitics
+- worldnews
+- PoliticalDiscussion
+- Political_Revolution
+- Republican
+- AskTrumpSupporters
+- geopolitics
+- answers
+- explainlikeimfive
+- SandersForPresident
+- The_Donald
+- BlueMidterm2018
+- news
+- OutOfTheLoop
+- EnoughTrumpSpam
+- KotakuInAction
+---

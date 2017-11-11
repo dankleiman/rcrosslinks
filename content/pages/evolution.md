@@ -1,0 +1,24 @@
+---
+title: evolution
+crosslinks:
+- autotldr
+- DebateEvolution
+- youtubefactsbot
+- badscience
+- exjw
+- biology
+- xkcd
+- youtubot
+- medicine
+- explainlikeimfive
+- Paleontology
+- gaming
+- bestof
+- Iamnotracistbut
+- AskHistorians
+- LateStageCapitalism
+- NoStupidQuestions
+- askscience
+- askphilosophy
+- trilobites
+---

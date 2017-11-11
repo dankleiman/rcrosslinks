@@ -1,0 +1,24 @@
+---
+title: iamveryculinary
+crosslinks:
+- GifRecipes
+- FoodPorn
+- food
+- Cooking
+- AskReddit
+- japancirclejerk
+- WeWantPlates
+- AskCulinary
+- SnapshillBot
+- mead
+- CompileBot
+- funny
+- Austin
+- u_imguralbumbot
+- iamverysmart
+- steak
+- Pizza
+- eatsandwiches
+- nocontext
+- SubredditDrama
+---

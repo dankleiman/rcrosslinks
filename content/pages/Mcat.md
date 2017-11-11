@@ -1,0 +1,24 @@
+---
+title: Mcat
+crosslinks:
+- premed
+- u_imguralbumbot
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- livven
+- alotabot
+- MCATforsale
+- Anki
+- medicalschool
+- AMAAggregator
+- medicine
+- tmsbmeta
+- john_yukis_bots
+- tea
+- swoleacceptance
+- chemhelp
+- gifs
+- LSAT
+- askpsychology
+---

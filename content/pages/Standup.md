@@ -1,0 +1,24 @@
+---
+title: Standup
+crosslinks:
+- youtubefactsbot
+- topjokes
+- youtubot
+- StandUpComedy
+- autotldr
+- standupshots
+- opieandanthony
+- StandUpWorkshop
+- politics
+- houston
+- Austin
+- japan
+- The_Donald
+- vandwellers
+- relationship_advice
+- Detective
+- LegionOfSkanks
+- classical
+- laughfactory
+- xkcd
+---

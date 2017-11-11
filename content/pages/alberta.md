@@ -1,0 +1,24 @@
+---
+title: alberta
+crosslinks:
+- autotldr
+- Calgary
+- youtubefactsbot
+- canada
+- xkcd
+- metacanada
+- youtubot
+- Edmonton
+- CanadaPolitics
+- circlebroke2
+- shaw
+- u_imguralbumbot
+- CanadianMOMs
+- ImagesOfCanada
+- AlbertaNews
+- uAlberta
+- autourbanbot
+- vpxa39
+- russia
+- CampingAlberta
+---

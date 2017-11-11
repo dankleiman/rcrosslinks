@@ -1,0 +1,24 @@
+---
+title: ImagesOfMexico
+crosslinks:
+- mexico
+- pics
+- EarthPorn
+- imagesofnetwork
+- OldSchoolCool
+- itookapicture
+- mildlyinteresting
+- whatsthisbug
+- funny
+- travel
+- aww
+- whatsthisplant
+- food
+- trees
+- gifs
+- MilitaryPorn
+- analog
+- whatisthisthing
+- RoomPorn
+- tattoos
+---

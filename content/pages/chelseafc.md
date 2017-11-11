@@ -1,0 +1,24 @@
+---
+title: chelseafc
+crosslinks:
+- youtubefactsbot
+- soccer
+- youtubot
+- reddevils
+- u_imguralbumbot
+- Gunners
+- NGolo_Kante
+- soccerstreams
+- anti_gif_bot
+- footballdownload
+- footballhighlights
+- livven
+- BrasilOnReddit
+- coys
+- LiverpoolFC
+- panelshow
+- FIFA
+- Batshuayi
+- MLS
+- alotabot
+---

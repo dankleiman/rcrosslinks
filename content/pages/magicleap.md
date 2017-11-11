@@ -1,0 +1,24 @@
+---
+title: magicleap
+crosslinks:
+- autotldr
+- youtubefactsbot
+- MVIS
+- youtubot
+- HoloLens
+- oculus
+- Vive
+- IAmA
+- augmentedreality
+- CinematicReality
+- livven
+- ARKitCreators
+- apple
+- pokemongo
+- autourbanbot
+- movies
+- u_imguralbumbot
+- avegant
+- BlockChain
+- virtuality
+---

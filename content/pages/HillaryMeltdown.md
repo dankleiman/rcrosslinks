@@ -1,0 +1,24 @@
+---
+title: HillaryMeltdown
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- autotldr
+- MassdropBot
+- republicanmemes
+- badeconomics
+- politics
+- AskReddit
+- REEEEEEEEEE
+- madlads
+- livven
+- HillaryForPrison
+- enoughtrumpspam
+- changemyview
+- badhistory
+- killthosewhodisagree
+- forwardsfromgrandma
+- worldnews
+- SargonofAkkad
+- ShitRedditSays
+---

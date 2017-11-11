@@ -1,0 +1,24 @@
+---
+title: phenibut
+crosslinks:
+- Nootropics
+- Drugs
+- kratom
+- CBD
+- researchchemicals
+- PhenibutMagic
+- drugs
+- IsAnybodyHere
+- DarkNetMarketsNoobs
+- nootropics
+- MDMA
+- quittingkratom
+- streamentry
+- me_irl
+- youtubot
+- metric_units
+- shortstories
+- drugscirclejerk
+- NootropicsDepot
+- DarkNetMarkets
+---

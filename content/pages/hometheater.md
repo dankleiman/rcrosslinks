@@ -1,0 +1,24 @@
+---
+title: hometheater
+crosslinks:
+- shittyhometheater
+- Zeos
+- u_imguralbumbot
+- audiophile
+- xboxone
+- BudgetAudiophile
+- AverageJoeAudiophile
+- youtubot
+- networking
+- DIY
+- pics
+- youtubefactsbot
+- Piracy
+- personalfinance
+- audio
+- homeautomation
+- AndroidTV
+- Bestbuy
+- TestYourSpeakers
+- plex
+---

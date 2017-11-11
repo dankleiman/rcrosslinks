@@ -1,0 +1,24 @@
+---
+title: answers
+crosslinks:
+- askscience
+- AskHistorians
+- explainlikeimfive
+- AskReddit
+- bestof
+- whatisthisthing
+- legaladvice
+- IAmA
+- NoStupidQuestions
+- OutOfTheLoop
+- linguistics
+- todayilearned
+- translatorBOT
+- tipofmytongue
+- youtubot
+- blog
+- help
+- pics
+- announcements
+- whatsthisbug
+---

@@ -1,0 +1,24 @@
+---
+title: youtubehaiku
+crosslinks:
+- youtubot
+- Roboragi
+- videos
+- tmsbmeta
+- UnexpectedRT
+- xkcd
+- gifs
+- AskReddit
+- OutOfTheLoop
+- JonTron
+- autourbanbot
+- The_Donald
+- SubredditDrama
+- ShitAmericansSay
+- circlebroke2
+- Drama
+- IAmA
+- ShitRedditSays
+- u_imguralbumbot
+- pics
+---

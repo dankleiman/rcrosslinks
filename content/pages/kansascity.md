@@ -1,0 +1,24 @@
+---
+title: kansascity
+crosslinks:
+- youtubefactsbot
+- autotldr
+- heyKCwhatwasthatnoise
+- u_imguralbumbot
+- ShitLiberalsSay
+- livven
+- news
+- autourbanbot
+- anti_gif_bot
+- tmsbmeta
+- The_Donald
+- kcmo
+- politics
+- Toni_Anderson
+- HomeImprovement
+- place
+- videos
+- beercirclejerk
+- CCW
+- Feminism
+---

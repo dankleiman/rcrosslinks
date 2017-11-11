@@ -1,0 +1,24 @@
+---
+title: CableManagement
+crosslinks:
+- PCSleeving
+- youtubot
+- anti_gif_bot
+- watercooling
+- cableporn
+- u_imguralbumbot
+- battlestations
+- buildapc
+- pcmods
+- Ice_Poseidon
+- techsupportgore
+- livven
+- pcmasterrace
+- homelab
+- youtubefactsbot
+- hardwareswap
+- techsupportmacgyver
+- retrobattlestations
+- electricians
+- cablefail
+---

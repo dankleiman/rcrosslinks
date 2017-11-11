@@ -1,0 +1,24 @@
+---
+title: 90daysgoal
+crosslinks:
+- bodyweightfitness
+- u_imguralbumbot
+- running
+- MealPrepSunday
+- xxfitness
+- wholesomememes
+- AskReddit
+- EOOD
+- runningmusic
+- Garmin
+- fatlogic
+- flexibility
+- stopdrinking
+- ArtFundamentals
+- BettermentBookClub
+- youtubot
+- TheGreyPill
+- AndroidWear
+- Fitness
+- getdisciplined
+---

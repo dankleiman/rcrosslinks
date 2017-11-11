@@ -1,0 +1,24 @@
+---
+title: ForHonorVikings
+crosslinks:
+- forhonor
+- youtubefactsbot
+- livven
+- CompetitiveForHonor
+- forhonorknights
+- MassdropBot
+- ForHonorSamurai
+- ForFashion
+- youtubot
+- ForHonorEmblems
+- autourbanbot
+- tmsbmeta
+- ForHonorRants
+- HistoryAnecdotes
+- Dank
+- gaming
+- '2013'
+- DippingTobacco
+- mead
+- anti_gif_bot
+---

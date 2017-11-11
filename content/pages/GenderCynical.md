@@ -1,0 +1,24 @@
+---
+title: GenderCynical
+crosslinks:
+- GenderCritical
+- GCdebatesQT
+- Gender_Critical
+- FreeSpiritFeminists
+- GenderCriticalGuys
+- unpopularopinion
+- asktransgender
+- AskReddit
+- Drama
+- '2013'
+- traaaaaaannnnnnnnnns
+- GenderCriticalism
+- news
+- u_imguralbumbot
+- transfascism
+- conspiracy
+- youtubot
+- unitedkingdom
+- SubredditDrama
+- Transvestigation
+---

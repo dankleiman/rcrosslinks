@@ -1,0 +1,24 @@
+---
+title: BeforeNAfterAdoption
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- tmsbmeta
+- aww
+- youtubot
+- OldManDog
+- bettafish
+- teefies
+- PuppySmiles
+- botwatch
+- sploot
+- AskReddit
+- blackcats
+- pics
+- awwakeup
+- pitbulls
+- toofers
+- Chihuahua
+- cats
+- rarepuppers
+---

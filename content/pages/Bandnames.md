@@ -1,0 +1,24 @@
+---
+title: Bandnames
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- fakealbumcovers
+- youtubot
+- ShitRedditSays
+- watchpeopledie
+- funny
+- xkcd
+- todayilearned
+- trashy
+- pics
+- Retconned
+- UpliftingNews
+- ImGoingToHellForThis
+- askreddit
+- AlbumNames
+- Metal
+- MalzaharMains
+- oddlysatisfying
+- BetterEveryLoop
+---

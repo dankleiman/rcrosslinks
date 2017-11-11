@@ -1,0 +1,24 @@
+---
+title: sploot
+crosslinks:
+- aww
+- Eyebleach
+- gifs
+- livven
+- u_imguralbumbot
+- funny
+- anti_gif_bot
+- botwatch
+- foxes
+- MassdropBot
+- me_irl
+- curledfeetsies
+- awwakeup
+- namflashbacks
+- mildlyinteresting
+- hitmanimals
+- catsvstechnology
+- NoParticipation
+- PuppySmiles
+- mildypenis
+---

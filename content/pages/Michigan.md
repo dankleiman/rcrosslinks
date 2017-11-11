@@ -1,0 +1,24 @@
+---
+title: Michigan
+crosslinks:
+- autotldr
+- youtubefactsbot
+- u_imguralbumbot
+- MIWeatherCircleJerk
+- Detroit
+- politics
+- The_Donald
+- AnnArbor
+- kzoo
+- LateStageCapitalism
+- michiganbeer
+- childfree
+- goodposts_aboutvoting
+- altright
+- grandrapids
+- flint
+- EarthPorn
+- traversecity
+- vexillology
+- WashtenawCountyMI
+---

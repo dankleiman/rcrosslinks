@@ -1,0 +1,24 @@
+---
+title: AsianPatriarchy
+crosslinks:
+- hapas
+- aznidentity
+- EasternSunRising
+- LuWatch
+- MassdropBot
+- genderedracism
+- AznLivesMatter
+- asiantwoX
+- news
+- AsianMansBurden
+- CrimesAgainstAsianity
+- AsianMasculinity
+- asianamerican
+- TheRedPill
+- AgainstActualHateSubs
+- youtubefactsbot
+- ToxicAnglosphere
+- Fragility
+- MURICAAA
+- CCJ2
+---

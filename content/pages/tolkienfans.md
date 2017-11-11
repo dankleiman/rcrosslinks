@@ -1,0 +1,24 @@
+---
+title: tolkienfans
+crosslinks:
+- lotr
+- youtubefactsbot
+- Fantasy
+- bestof
+- lordoftherings
+- youtubot
+- FanTheories
+- tolkienrp
+- theology
+- TheSilmarillion
+- matttestsubreddit
+- acloudrift
+- Headcanon
+- lordoftheringsrp
+- AskHistorians
+- sindarin
+- xkcd
+- shadowofmordor
+- AskReddit
+- TerribleBookCovers
+---

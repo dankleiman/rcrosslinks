@@ -1,0 +1,24 @@
+---
+title: armenia
+crosslinks:
+- europe
+- youtubefactsbot
+- autotldr
+- Turkey
+- KarabakhConflict
+- azerbaijan
+- Kavkaz
+- kurdistan
+- Sakartvelo
+- youtubot
+- place
+- MapPorn
+- Israel
+- WorldDailyTops
+- worldnews
+- azarbaycan
+- Artsakh
+- pics
+- todayilearned
+- ImagesOfGeorgia
+---

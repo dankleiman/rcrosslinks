@@ -1,0 +1,24 @@
+---
+title: gwent
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- hearthstone
+- anti_gif_bot
+- alotabot
+- livven
+- witcher
+- Competitive_Gwent
+- tmsbmeta
+- gwentcirclejerk
+- Gamingcirclejerk
+- wine_gaming
+- youtubot
+- CompetitiveHS
+- Shadowverse
+- autourbanbot
+- trebuchetmemes
+- DotA2
+- xkcd
+- gatekeeping
+---

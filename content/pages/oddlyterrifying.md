@@ -1,0 +1,24 @@
+---
+title: oddlyterrifying
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- gifs
+- interestingasfuck
+- Simulated
+- CatastrophicFailure
+- mildlyinteresting
+- educationalgifs
+- woahdude
+- dontdeadopeninside
+- bonehurtingjuice
+- iamverybadass
+- perfectloops
+- funny
+- RuinedByEdits
+- oddlysatisfying
+- trypophobia
+- awwwtf
+---

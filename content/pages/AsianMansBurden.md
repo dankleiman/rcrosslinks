@@ -1,0 +1,24 @@
+---
+title: AsianMansBurden
+crosslinks:
+- MassdropBot
+- hapas
+- aznidentity
+- AMAAggregator
+- AsianMasculinity
+- autotldr
+- Fragility
+- canada
+- China
+- news
+- AznLivesMatter
+- youtubot
+- BlackPeopleTwitter
+- LuWatch
+- asiantwoX
+- u_imguralbumbot
+- genderedracism
+- AgainstActualHateSubs
+- EasternSunRising
+- Defenders
+---

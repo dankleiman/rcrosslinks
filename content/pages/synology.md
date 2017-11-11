@@ -1,0 +1,24 @@
+---
+title: synology
+crosslinks:
+- DataHoarder
+- linuxserver
+- homelab
+- haugene
+- binhex
+- u_imguralbumbot
+- sysadmin
+- sonarr
+- Xpenology
+- xkcd
+- PleX
+- youtubot
+- raspberry_pi
+- cromigon
+- youtubefactsbot
+- diginc
+- sickrage
+- lsiocommunity
+- istepanov
+- aptalca
+---

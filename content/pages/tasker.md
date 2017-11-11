@@ -1,0 +1,24 @@
+---
+title: tasker
+crosslinks:
+- youtubefactsbot
+- Android
+- u_imguralbumbot
+- oneplus
+- GalaxyS6
+- TaskerFiles
+- raspberry_pi
+- xkcd
+- EarthPorn
+- androidthemes
+- GalaxyS7
+- Hensleyj6
+- androidapps
+- AutoHotkey
+- HBJvgv
+- science
+- motox
+- Telegram
+- homeautomation
+- pokemongodev
+---

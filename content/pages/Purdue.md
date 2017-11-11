@@ -1,0 +1,24 @@
+---
+title: Purdue
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- Boilermakers
+- youtubot
+- tmsbmeta
+- Fitness
+- john_yukis_bots
+- funny
+- lafayette
+- OutOfTheLoop
+- normalnudes
+- TalesFromRetail
+- starterpacks
+- flying
+- RPI
+- livven
+- summonerswar
+- Temple
+- AskReddit
+- legaladvice
+---

@@ -1,0 +1,24 @@
+---
+title: spikes
+crosslinks:
+- magicTCG
+- ModernMagic
+- Magicdeckbuilding
+- youtubefactsbot
+- lrcast
+- magicthecirclejerking
+- FishMTG
+- TronMTG
+- MTGLegacy
+- tmsbmeta
+- u_imguralbumbot
+- CompetitiveHS
+- AffinityForArtifacts
+- Scapeshift
+- alotabot
+- SkredRed
+- magicdeckbuilding
+- LavaSpike
+- mtgfrontier
+- modernmagic
+---

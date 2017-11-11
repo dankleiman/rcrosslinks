@@ -1,0 +1,24 @@
+---
+title: pokemontrades
+crosslinks:
+- SVExchange
+- Pokemonexchange
+- EventTracking
+- pokemon
+- pokemonrng
+- CasualPokemonTrades
+- Pokemongiveaway
+- BreedingDittos
+- PokeMoonSun
+- stunfisk
+- Vivillon
+- friendsafari
+- pokemonexchangeref
+- PokemonCreate
+- BankBallExchange
+- PokemonPlaza
+- poketradereferences
+- PKMNRedditLeague
+- ShinyPokemon
+- pokemonribbons
+---

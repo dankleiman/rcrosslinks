@@ -1,0 +1,24 @@
+---
+title: DesignPorn
+crosslinks:
+- PornOverlords
+- ProductPorn
+- youtubefactsbot
+- youtubot
+- botwatch
+- pics
+- livven
+- MechanicalKeyboards
+- mildlyinteresting
+- woodworking
+- ATBGE
+- evilbuildings
+- u_imguralbumbot
+- shittykickstarters
+- chicago
+- ArchitecturePorn
+- HailCorporate
+- autourbanbot
+- john_yukis_bots
+- FuckTokenBot
+---

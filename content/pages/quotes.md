@@ -1,0 +1,24 @@
+---
+title: quotes
+crosslinks:
+- youtubefactsbot
+- ZenHabits
+- NewSlangTerms
+- politics
+- youtubot
+- DecidingToBeBetter
+- exmormon
+- AskReddit
+- Stoicism
+- The_Donald
+- SaveTheSmabs
+- bonehurtingjuice
+- iamverysmart
+- getdisciplined
+- ScottishPeopleTwitter
+- Serendipity
+- Feelings
+- empiresgonewild
+- ShittyHistory
+- 3amjokes
+---

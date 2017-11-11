@@ -1,0 +1,24 @@
+---
+title: whowouldcirclejerk
+crosslinks:
+- whowouldwin
+- CharacterRant
+- youtubefactsbot
+- respectthreads
+- SubredditSimulator
+- characterrant
+- PrequelMemes
+- botwatch
+- Overwatch
+- onepunchman
+- anime
+- OnePunchMan
+- youtubot
+- harrypotter
+- FlashTV
+- MLPLounge
+- pokemon
+- banned
+- dbz
+- livven
+---

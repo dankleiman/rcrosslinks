@@ -1,0 +1,24 @@
+---
+title: theblackvoid
+crosslinks:
+- place
+- MassdropBot
+- youtubefactsbot
+- tmsbmeta
+- TheVoidRevamped
+- The_Donald
+- ainbowroad
+- FightTheVoid
+- PerfectEntropy
+- SwedenOnPlace
+- straya
+- PrequelMemes
+- livven
+- AmericanFlaginPlace
+- PlaceTwo
+- homestuck
+- placestart
+- purevoidrises
+- EraseThePlace
+- Place2void
+---

@@ -1,0 +1,24 @@
+---
+title: tardtales
+crosslinks:
+- REEEEEEEEEE
+- youtubefactsbot
+- tmsbmeta
+- TardFiction
+- aspergers
+- DeepFriedMemes
+- 23mom1d
+- Serendipity
+- anti_gif_bot
+- themonstermath
+- TardMemes
+- hedidthemath
+- FloridaMan
+- u_imguralbumbot
+- Petscop
+- botsrights
+- dwarffortress
+- furry_irl
+- youtubot
+- MinionHate
+---

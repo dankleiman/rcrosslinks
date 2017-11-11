@@ -1,0 +1,24 @@
+---
+title: webcomics
+crosslinks:
+- comics
+- youtubefactsbot
+- sadcomics
+- ComedyCemetery
+- u_imguralbumbot
+- livven
+- omaketheater
+- autourbanbot
+- xkcd
+- 4amShower
+- rickandmorty
+- CapitalismVSocialism
+- FlashTV
+- totallynotrobots
+- funny
+- anti_gif_bot
+- tipofmytongue
+- UnexpectedHamilton
+- oddlysatisfying
+- youtubot
+---

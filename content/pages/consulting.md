@@ -1,0 +1,24 @@
+---
+title: consulting
+crosslinks:
+- youtubefactsbot
+- Accounting
+- autotldr
+- churning
+- u_imguralbumbot
+- tmsbmeta
+- MassdropBot
+- CONSLUTING
+- youtubot
+- livven
+- MBA
+- startups
+- TechKorner
+- AskReddit
+- water
+- john_yukis_bots
+- LawSchool
+- wallstreetbets
+- funny
+- law
+---

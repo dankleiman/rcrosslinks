@@ -1,0 +1,24 @@
+---
+title: giftcardexchange
+crosslinks:
+- GCXRep
+- gcxrep
+- mushroomkingdom
+- RocketLeagueExchange
+- GameSale
+- SLRep
+- hardwareswap
+- PS4Deals
+- beermoney
+- BitMarket
+- IGSRep
+- GameTrade
+- slavelabour
+- Serendipity
+- SmiteTrades
+- beta
+- MicrosoftKeysShop
+- dogemarket
+- dvdcollection
+- perktv
+---

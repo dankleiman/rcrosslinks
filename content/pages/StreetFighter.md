@@ -1,0 +1,24 @@
+---
+title: StreetFighter
+crosslinks:
+- Kappa
+- youtubot
+- anti_gif_bot
+- StreetFighterMods
+- livven
+- tmsbmeta
+- SF4
+- u_imguralbumbot
+- ModFighters
+- smashbros
+- GameDeals
+- Fighters
+- john_yukis_bots
+- Games
+- alotabot
+- fightsticks
+- Tekken
+- xdfp
+- NewChallenger
+- salty
+---

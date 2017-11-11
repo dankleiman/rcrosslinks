@@ -1,0 +1,24 @@
+---
+title: HillaryForPrison
+crosslinks:
+- autotldr
+- youtubefactsbot
+- The_Donald
+- TopMindsOfReddit
+- conspiracy
+- politics
+- WayOfTheBern
+- Enough_Sanders_Spam
+- youtubot
+- anti_gif_bot
+- WikiLeaks
+- AskThe_Donald
+- autourbanbot
+- AgainstHateSubreddits
+- xkcd
+- redacted
+- worldnews
+- technology
+- SandersForPresident
+- WhereIsAssange
+---

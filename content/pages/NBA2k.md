@@ -1,0 +1,24 @@
+---
+title: NBA2k
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- youtubot
+- u_imguralbumbot
+- nba
+- NBA2kTeamUp
+- MaddenUltimateTeam
+- tmsbmeta
+- NBA2KDesign
+- NBA2kMTselling
+- NBAlive
+- iamverybadass
+- Madden
+- alotabot
+- john_yukis_bots
+- vredditmirrorbot
+- lakers
+- 2KOA
+- gaming
+---

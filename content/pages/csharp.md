@@ -1,0 +1,24 @@
+---
+title: csharp
+crosslinks:
+- programming
+- xkcd
+- dotnet
+- youtubefactsbot
+- learnprogramming
+- youtubot
+- Unity3D
+- PowerShell
+- u_imguralbumbot
+- fsharp
+- roguelikedev
+- dailyprogrammer
+- jobbit
+- tmsbmeta
+- albarji
+- xamarindevelopers
+- ProgrammerTIL
+- WPDev
+- niip
+- shittyprogramming
+---

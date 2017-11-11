@@ -1,0 +1,24 @@
+---
+title: NewSkaters
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- u_imguralbumbot
+- skateboarding
+- longboarding
+- youtubot
+- OldSkaters
+- me_irl
+- FullSkateVideos
+- MassdropBot
+- funny
+- modnews
+- Skatemeetups
+- AskReddit
+- Skatebording
+- alotabot
+- skatedog
+- howto
+- sodapoppin
+---

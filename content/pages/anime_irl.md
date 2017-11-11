@@ -1,0 +1,24 @@
+---
+title: anime_irl
+crosslinks:
+- Roboragi
+- livven
+- u_imguralbumbot
+- youtubot
+- wholesomeanimemes
+- hentai_irl
+- anime
+- Animemes
+- anti_gif_bot
+- traaaaaaannnnnnnnnns
+- absolutelynotanimeirl
+- tmsbmeta
+- xkcd
+- handholding
+- WhatAWeeb
+- 2anime_irl4anime_irl
+- doujinshi
+- araragi
+- ShakuSwag
+- manga
+---

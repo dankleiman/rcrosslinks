@@ -1,0 +1,24 @@
+---
+title: Humanoidencounters
+crosslinks:
+- Paranormal
+- worldpolitics
+- Vrilwytblik
+- Missing411
+- AskReddit
+- CrawlerSightings
+- youtubefactsbot
+- youtubot
+- MassdropBot
+- chicago
+- Thetruthishere
+- conspiracy
+- nosleep
+- oddlyweird
+- woahdude
+- EBEs
+- DreamInterpretation
+- TopMindsOfReddit
+- u_imguralbumbot
+- totallynotrobots
+---

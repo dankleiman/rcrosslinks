@@ -1,0 +1,24 @@
+---
+title: france
+crosslinks:
+- youtubefactsbot
+- bestoffrance
+- youtubot
+- NouvelleTaglineDuSub
+- autotldr
+- europe
+- The_Donald
+- xkcd
+- worldnews
+- AskReddit
+- autourbanbot
+- quefaitlapolice
+- livven
+- mecsfous
+- place
+- Le_Pen
+- de
+- SocialFrance
+- commeDitLaJeuneMariee
+- AskHistorians
+---

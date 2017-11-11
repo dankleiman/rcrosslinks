@@ -1,0 +1,24 @@
+---
+title: howyoudoin
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- u_imguralbumbot
+- pics
+- livven
+- tmsbmeta
+- me_irl
+- aww
+- AskReddit
+- hiphopheads
+- BobsBurgers
+- FUCK_United_Airlines
+- JoeRogan
+- Frasier
+- WackyTicTacs
+- SampleSize
+- transtimelines
+- autourbanbot
+- CrappyDesign
+---

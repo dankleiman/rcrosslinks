@@ -1,0 +1,24 @@
+---
+title: Psychic
+crosslinks:
+- youtubefactsbot
+- occult
+- youtubot
+- lawofattraction
+- holofractal
+- chrisolivertimes
+- Meditation
+- energy_work
+- DangmaDzyu
+- AstralProjection
+- conspiracy
+- alotabot
+- Retconned
+- C_S_T
+- Soulnexus
+- mysterybabylon
+- Paranormal
+- Astral
+- ibtherapy
+- Anxiety
+---

@@ -1,0 +1,24 @@
+---
+title: catpranks
+crosslinks:
+- livven
+- botwatch
+- youtubot
+- StartledCats
+- hmmm
+- BetterEveryLoop
+- holdmycatnip
+- StoppedWorking
+- nocontext
+- thecatdimension
+- Thisismylifemeow
+- CatsAlive
+- youseeingthisshit
+- beetlejuicing
+- youtubehaiku
+- flippingoffcats
+- xkcd
+- meow_irl
+- funny
+- MrYurMommRIP
+---

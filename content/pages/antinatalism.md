@@ -1,0 +1,24 @@
+---
+title: antinatalism
+crosslinks:
+- childfree
+- youtubefactsbot
+- youtubot
+- SanctionedSuicide
+- vegan
+- misanthropy
+- AskReddit
+- collapse
+- autotldr
+- Mainlander
+- Drama
+- LateStageCapitalism
+- Parenting
+- EffectiveAltruism
+- LifeProTips
+- Efilism
+- badcarnism
+- leanfire
+- anti_gif_bot
+- changemyview
+---

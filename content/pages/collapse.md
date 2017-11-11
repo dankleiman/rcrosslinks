@@ -1,0 +1,24 @@
+---
+title: collapse
+crosslinks:
+- collapse_wilds
+- youtubefactsbot
+- doomsdaycult
+- youtubot
+- Futurology
+- CollapseSupport
+- Cowwapse
+- DieOff
+- worldnews
+- LateStageCapitalism
+- dredmorbius
+- preppers
+- askscience
+- climate
+- xkcd
+- conspiracy
+- globalcollapse
+- antinatalism
+- science
+- autourbanbot
+---

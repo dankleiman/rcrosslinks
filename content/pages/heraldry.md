@@ -1,0 +1,24 @@
+---
+title: heraldry
+crosslinks:
+- MassdropBot
+- vexillology
+- tmsbmeta
+- europe
+- heraldrycirclejerk
+- Archeology
+- mapporncirclejerk
+- worldbuilding
+- eu4
+- Esperanto
+- botwatch
+- Wales
+- Genealogy
+- AskHistorians
+- finlandConspiracy
+- pics
+- WomensSoccer
+- MapFans
+- Emblems
+- asklinguistics
+---

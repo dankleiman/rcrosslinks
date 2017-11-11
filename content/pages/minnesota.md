@@ -1,0 +1,24 @@
+---
+title: minnesota
+crosslinks:
+- youtubefactsbot
+- autotldr
+- Minneapolis
+- The_Donald
+- youtubot
+- ShitPoliticsSays
+- anti_gif_bot
+- FargoMoorhead
+- HateCrimeHoaxes
+- TwinCities
+- xkcd
+- AskReddit
+- politics
+- wisconsin
+- NorthShoreMN
+- livven
+- wildhockey
+- Prematurecelebration
+- LateStageCapitalism
+- MassdropBot
+---

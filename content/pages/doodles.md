@@ -1,0 +1,24 @@
+---
+title: doodles
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- CARTOON
+- ItsADnDMonsterNow
+- MassdropBot
+- HipHopImages
+- notebooks
+- tmsbmeta
+- Sketching
+- drugart
+- stickers
+- drawing
+- peterdraws
+- anosmia
+- WIP
+- EpicMounts
+- xkcd
+- SketchDaily
+- livven
+- graphic_design
+---

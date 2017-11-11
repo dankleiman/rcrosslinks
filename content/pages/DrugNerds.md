@@ -1,0 +1,24 @@
+---
+title: DrugNerds
+crosslinks:
+- Nootropics
+- Drugs
+- Stims
+- drugscirclejerk
+- researchchemicals
+- chemistry
+- SelfExperiment
+- Scholar
+- Bio_Hacking
+- hrtformentalhealth
+- labrats
+- IAmA
+- bestof
+- shrooms
+- Psychonaut
+- Microbiome
+- Cardiology
+- u_imguralbumbot
+- medicine
+- schizophrenia
+---

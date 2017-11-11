@@ -1,0 +1,24 @@
+---
+title: audioengineering
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livesound
+- WeAreTheMusicMakers
+- AdvancedProduction
+- edmproduction
+- Reaper
+- synthesizers
+- headphones
+- microphones
+- SongStems
+- Twitch
+- audiophile
+- Logic_Studio
+- Music
+- linuxaudio
+- IsAnybodyHere
+- diysound
+- MusicBattlestations
+- alotabot
+---

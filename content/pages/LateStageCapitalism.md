@@ -1,0 +1,24 @@
+---
+title: LateStageCapitalism
+crosslinks:
+- youtubefactsbot
+- autotldr
+- socialism
+- communism101
+- AskReddit
+- pics
+- FULLCOMMUNISM
+- Socialism_101
+- The_Donald
+- tmsbmeta
+- politics
+- funny
+- ShitLiberalsSay
+- MassdropBot
+- xkcd
+- DebateCommunism
+- news
+- Anarchism
+- livven
+- ABoringDystopia
+---

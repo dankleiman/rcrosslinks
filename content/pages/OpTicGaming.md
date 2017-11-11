@@ -1,0 +1,24 @@
+---
+title: OpTicGaming
+crosslinks:
+- GlobalOffensive
+- CoDCompetitive
+- DotA2
+- u_imguralbumbot
+- place
+- botpopularitybot
+- john_yukis_bots
+- halo
+- modnews
+- FIFA
+- Competitiveoverwatch
+- smashbros
+- causeWhyNotMate
+- nfl
+- reddevils
+- DotaVods
+- LivestreamFail
+- OutOfTheLoop
+- 100thieves
+- alotabot
+---

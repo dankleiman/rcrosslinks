@@ -1,0 +1,24 @@
+---
+title: Justrolledintotheshop
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- tmsbmeta
+- Shitty_Car_Mods
+- xkcd
+- AskReddit
+- cars
+- botpopularitybot
+- funny
+- anti_gif_bot
+- WTF
+- MechanicAdvice
+- talesfromtechsupport
+- alotabot
+- MassdropBot
+- pics
+- Skookum
+- videos
+- mildlyinteresting
+---

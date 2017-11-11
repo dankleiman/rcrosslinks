@@ -1,0 +1,24 @@
+---
+title: Breath_of_the_Wild
+crosslinks:
+- youtubefactsbot
+- zelda
+- livven
+- NintendoSwitch
+- KorokBot
+- youtubot
+- tmsbmeta
+- u_imguralbumbot
+- anti_gif_bot
+- truezelda
+- zelfies
+- korokbot
+- botpopularitybot
+- Amiibomb
+- nintendo
+- wiiu
+- john_yukis_bots
+- gaming
+- cemu
+- xkcd
+---

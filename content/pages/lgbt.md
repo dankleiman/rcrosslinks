@@ -1,0 +1,24 @@
+---
+title: lgbt
+crosslinks:
+- youtubefactsbot
+- asktransgender
+- ainbow
+- The_Donald
+- youtubot
+- LGBTaf
+- u_imguralbumbot
+- anti_gif_bot
+- bisexual
+- xkcd
+- politics
+- news
+- MassdropBot
+- autourbanbot
+- botwatch
+- pics
+- LGBTQnews
+- LGBTeens
+- TumblrInAction
+- RightwingLGBT
+---

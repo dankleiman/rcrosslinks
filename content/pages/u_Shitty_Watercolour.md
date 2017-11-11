@@ -1,0 +1,24 @@
+---
+title: u_Shitty_Watercolour
+crosslinks:
+- AskReddit
+- SubredditSimulator
+- aww
+- u_imguralbumbot
+- IAmA
+- mildlyinteresting
+- cringepics
+- Boxer
+- iamverysmart
+- pics
+- Enhancement
+- traps
+- MuseumOfReddit
+- sloths
+- cats
+- AdviceAnimals
+- vegan
+- shitpost
+- u_kn0thing
+- SourceFed
+---

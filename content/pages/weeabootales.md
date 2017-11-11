@@ -1,0 +1,24 @@
+---
+title: weeabootales
+crosslinks:
+- TalesoftheConvention
+- japancirclejerk
+- AskReddit
+- anime
+- LearnJapanese
+- youtubefactsbot
+- ShitWehraboosSay
+- Serendipity
+- headphones
+- youtubot
+- ANI_COMMUNISM
+- Roboragi
+- JapanTravel
+- SubredditDrama
+- neckbeardstories
+- john_yukis_bots
+- Berserk
+- newsokur
+- copypasta
+- kpop
+---

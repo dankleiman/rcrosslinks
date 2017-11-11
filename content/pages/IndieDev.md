@@ -1,0 +1,24 @@
+---
+title: IndieDev
+crosslinks:
+- anti_gif_bot
+- livven
+- gamedev
+- youtubot
+- gameDevClassifieds
+- youtubefactsbot
+- INAT
+- Farmfolks
+- betatestgames
+- AMAAggregator
+- pakuri
+- iosgaming
+- AskComputerScience
+- modnews
+- gamecomposers
+- proceduralgeneration
+- IndieGaming
+- tic80
+- requests
+- libgdx
+---

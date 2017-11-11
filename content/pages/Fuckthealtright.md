@@ -1,0 +1,24 @@
+---
+title: Fuckthealtright
+crosslinks:
+- The_Donald
+- autotldr
+- youtubefactsbot
+- politics
+- EnoughTrumpSpam
+- beholdthemasterrace
+- altright
+- PublicFreakout
+- youtubot
+- AgainstHateSubreddits
+- ShitLiberalsSay
+- ShitPoliticsSays
+- Physical_Removal
+- uncensorednews
+- PoliticalHumor
+- Anarchism
+- WeWuzSuperior
+- socialism
+- conspiracy
+- SocialistRA
+---

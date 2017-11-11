@@ -1,0 +1,24 @@
+---
+title: goldenretrievers
+crosslinks:
+- livven
+- u_imguralbumbot
+- aww
+- anti_gif_bot
+- OldManDog
+- SneakyBackgroundFeet
+- MassdropBot
+- rarepuppers
+- youtubefactsbot
+- Dogtraining
+- tmsbmeta
+- puppy101
+- botwatch
+- FidgetSpinners
+- blop
+- funny
+- IsLoneEchoAlive
+- flatcoat
+- teefies
+- alotabot
+---

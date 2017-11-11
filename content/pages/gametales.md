@@ -1,0 +1,24 @@
+---
+title: gametales
+crosslinks:
+- TranscribersOfReddit
+- DnD
+- DnDGreentext
+- 40kLore
+- KJamesF
+- CrusaderKings
+- DotA2
+- fireemblem
+- mylittleandysonic1
+- MonkeyIsland
+- rpghorrorstories
+- spaceengineers
+- oblivion
+- Pathfinder_RPG
+- magicTCG
+- todayilearned
+- patches765
+- YouEnterADungeon
+- truezelda
+- MassdropBot
+---

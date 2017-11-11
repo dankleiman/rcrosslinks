@@ -1,0 +1,24 @@
+---
+title: ofcoursethatsathing
+crosslinks:
+- youtubefactsbot
+- youtubot
+- ProductPorn
+- tmsbmeta
+- HailCorporate
+- xkcd
+- u_imguralbumbot
+- anti_gif_bot
+- grilledcheese
+- pics
+- INEEEEDIT
+- livven
+- mildlyinteresting
+- autourbanbot
+- ConfusedBoners
+- excgarated
+- nocontext
+- theydidthefuckyou
+- beetlejuicing
+- southafrica
+---

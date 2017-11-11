@@ -1,0 +1,24 @@
+---
+title: MovieSuggestions
+crosslinks:
+- moviesbot
+- youtubefactsbot
+- youtubot
+- HorrorReviewed
+- movies
+- horror
+- moviescirclejerk
+- NetflixBestOf
+- tmsbmeta
+- tipofmytongue
+- Cyberpunk
+- anti_gif_bot
+- tipofmypenis
+- Suomi
+- tabled
+- xkcd
+- crossdressing
+- ObscureMedia
+- WatchItForThePlot
+- Ijustwatched
+---

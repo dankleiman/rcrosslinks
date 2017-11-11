@@ -1,0 +1,24 @@
+---
+title: mildlyinfuriating
+crosslinks:
+- youtubefactsbot
+- livven
+- u_imguralbumbot
+- anti_gif_bot
+- xkcd
+- AskReddit
+- mildlyinteresting
+- tmsbmeta
+- funny
+- CrappyDesign
+- john_yukis_bots
+- pics
+- oddlysatisfying
+- socialism
+- The_Donald
+- softwaregore
+- gifs
+- firstworldanarchists
+- youtubot
+- LateStageCapitalism
+---

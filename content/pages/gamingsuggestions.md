@@ -1,0 +1,24 @@
+---
+title: gamingsuggestions
+crosslinks:
+- youtubot
+- youtubefactsbot
+- allGamers
+- tipofmyjoystick
+- GameDeals
+- patientgamers
+- ShouldIbuythisgame
+- BaseBuildingGames
+- incremental_games
+- gaming
+- pcgaming
+- truegaming
+- Steam
+- cataclysmdda
+- RimWorld
+- Games
+- pcmasterrace
+- Warframe
+- SurvivalGaming
+- rpg_gamers
+---

@@ -1,0 +1,24 @@
+---
+title: placeDE
+crosslinks:
+- place
+- de
+- EuropePlace
+- MassdropBot
+- france
+- Megumin
+- theblackvoid
+- ainbowroad
+- 4chan
+- sweden
+- the_schulz
+- farmcarrots
+- placefrance
+- placehearts
+- germany
+- bakchodi
+- touhou
+- BrasilOnReddit
+- nyjets
+- placeAtlas
+---

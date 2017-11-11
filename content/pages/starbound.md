@@ -1,0 +1,24 @@
+---
+title: starbound
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- anti_gif_bot
+- starboundbugreport
+- StarboundPlanets
+- youtubot
+- livven
+- MassdropBot
+- sbreddit
+- tmsbmeta
+- mountandblade
+- Starbound_Lore
+- frackinuniverse
+- Undertale
+- furry_irl
+- place
+- excgarated
+- xkcd
+- Gamingcirclejerk
+- skyrimmods
+---

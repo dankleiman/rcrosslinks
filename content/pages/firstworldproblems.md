@@ -1,0 +1,24 @@
+---
+title: firstworldproblems
+crosslinks:
+- youtubefactsbot
+- xkcd
+- AskReddit
+- MassdropBot
+- SecondWorldProblems
+- botpopularitybot
+- todayilearned
+- ShittyLifeProTips
+- pics
+- livven
+- botwatch
+- autotldr
+- fifthworldproblems
+- financialindependence
+- The_Donald
+- childfree
+- thirdworldproblems
+- homelab
+- shitpost
+- TrollYChromosome
+---

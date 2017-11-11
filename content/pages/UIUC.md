@@ -1,0 +1,24 @@
+---
+title: UIUC
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- place
+- ApplyingToCollege
+- autotldr
+- Purdue
+- MassdropBot
+- uofm
+- livven
+- youtubot
+- autourbanbot
+- AskReddit
+- uiuc_uncensored
+- AMAAggregator
+- uiuccirclejerk
+- xkcd
+- KarmaCourt
+- REEEEEEEEEE
+- jobsearchhacks
+- grilledcheese
+---

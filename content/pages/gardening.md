@@ -1,0 +1,24 @@
+---
+title: gardening
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- whatsthisplant
+- succulents
+- IndoorGarden
+- youtubot
+- whatsthisbug
+- livven
+- Bonsai
+- HotPeppers
+- DIY
+- Permaculture
+- funny
+- autotldr
+- hydro
+- BackyardOrchard
+- anti_gif_bot
+- lawncare
+- tifu
+- marijuanaenthusiasts
+---

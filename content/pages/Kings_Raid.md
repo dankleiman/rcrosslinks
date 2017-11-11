@@ -1,0 +1,24 @@
+---
+title: Kings_Raid
+crosslinks:
+- KingsRaid_EN
+- alotabot
+- youtubefactsbot
+- u_imguralbumbot
+- john_yukis_bots
+- youtubot
+- Granblue_en
+- VoHiYo
+- summonerswar
+- DestinyTheGame
+- autourbanbot
+- livven
+- soccerspirits
+- xkcd
+- FFBraveExvius
+- StopClickingThis
+- anti_gif_bot
+- dragonsfuckingcars
+- IsAnybodyHere
+- Eyebleach
+---

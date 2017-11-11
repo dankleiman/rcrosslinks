@@ -1,0 +1,24 @@
+---
+title: shittyideas
+crosslinks:
+- youtubefactsbot
+- autourbanbot
+- youtubot
+- botwatch
+- john_yukis_bots
+- theocho
+- AskReddit
+- xkcd
+- Stims
+- WeWantPlates
+- IAmA
+- classicyoutube
+- Frugal_Jerk
+- Cocofleshlights
+- CasualConversation
+- livven
+- Jokes
+- stupidquestions
+- fidgetspin
+- brilliantideas
+---

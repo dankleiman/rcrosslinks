@@ -1,0 +1,24 @@
+---
+title: casualnintendo
+crosslinks:
+- NintendoSwitch
+- livven
+- u_imguralbumbot
+- gaming
+- beadsprites
+- zelda
+- copypasta
+- anti_gif_bot
+- consoleproletariat
+- youtubefactsbot
+- MassdropBot
+- nintendo
+- Metroid34
+- funny
+- gamearcane
+- nes
+- nintendomusic
+- arms
+- donkeykong
+- tomorrow
+---

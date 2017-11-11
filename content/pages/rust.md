@@ -1,0 +1,24 @@
+---
+title: rust
+crosslinks:
+- playrust
+- programming
+- xkcd
+- cpp
+- rustjerk
+- rust_gamedev
+- haskell
+- unexpectedfactorial
+- u_imguralbumbot
+- youtubot
+- wow
+- Redox
+- livven
+- youtubefactsbot
+- firefox
+- programmingcirclejerk
+- botwatch
+- dailyprogrammer
+- roguelikedev
+- jimmycuadra
+---

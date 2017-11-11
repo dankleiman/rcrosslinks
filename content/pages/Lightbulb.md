@@ -1,0 +1,24 @@
+---
+title: Lightbulb
+crosslinks:
+- youtubefactsbot
+- xkcd
+- gameideas
+- youtubot
+- u_imguralbumbot
+- MassdropBot
+- mildlyinteresting
+- ShittyLifeProTips
+- PoliticalProposals
+- SomebodyMakeThis
+- AskReddit
+- reddmeet
+- wat
+- Dashboard
+- shittyideas
+- CrazyDictatorIdeas
+- theydidthemath
+- SettleThis
+- biology
+- RedditAlternatives
+---

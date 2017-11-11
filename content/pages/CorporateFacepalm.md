@@ -1,0 +1,24 @@
+---
+title: CorporateFacepalm
+crosslinks:
+- youtubefactsbot
+- videos
+- autotldr
+- LateStageCapitalism
+- assholedesign
+- funny
+- youtubot
+- softwaregore
+- australia
+- tombstoning
+- botpopularitybot
+- u_imguralbumbot
+- keming
+- FellowKids
+- facepalm
+- xkcd
+- nocontext
+- totallynotrobots
+- AccidentalRacism
+- john_yukis_bots
+---

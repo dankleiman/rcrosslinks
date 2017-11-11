@@ -1,0 +1,24 @@
+---
+title: fixingmovies
+crosslinks:
+- youtubefactsbot
+- movies
+- u_imguralbumbot
+- RewritingTheDCEU
+- shitty_fixingmovies
+- roguelikes
+- Idubbbz
+- gatekeeping
+- deathnote
+- comicbookmovies
+- teslore
+- lotr
+- StarWars
+- FanTheories
+- CrappyDesign
+- killthosewhodisagree
+- autourbanbot
+- bestof
+- onetruegod
+- atw9k
+---

@@ -1,0 +1,24 @@
+---
+title: TrueReddit
+crosslinks:
+- autotldr
+- goodlongposts
+- youtubefactsbot
+- ConcentrationOfWealth
+- youtubot
+- LockCarbon
+- politics
+- bestof
+- news
+- AskHistorians
+- worldnews
+- Drama
+- The_Donald
+- ShitAmericansSay
+- neoliberal
+- shills
+- xkcd
+- self
+- LateStageCapitalism
+- modded
+---

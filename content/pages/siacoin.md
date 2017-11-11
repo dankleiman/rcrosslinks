@@ -1,0 +1,24 @@
+---
+title: siacoin
+crosslinks:
+- CryptoCurrency
+- siatrader
+- u_imguralbumbot
+- storj
+- IAmA
+- youtubefactsbot
+- tippr
+- MassdropBot
+- ethtrader
+- iamverybadass
+- btc
+- youtubot
+- Duplicati
+- alotabot
+- maidsafe
+- Monero
+- Ripple
+- PoloniexForum
+- gpumining
+- ethereum
+---

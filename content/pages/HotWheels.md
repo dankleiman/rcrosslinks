@@ -1,0 +1,24 @@
+---
+title: HotWheels
+crosslinks:
+- tmsbmeta
+- regularcarreviews
+- Diecast
+- rickandmorty
+- legotrade
+- videos
+- personalfinance
+- wwiipics
+- forza
+- greenlightdiecast
+- VaporwaveAesthetics
+- Silverbugs
+- Parenting
+- crappyoffbrands
+- john_yukis_bots
+- livven
+- tipofmytongue
+- botwatch
+- youtubot
+- MassdropBot
+---

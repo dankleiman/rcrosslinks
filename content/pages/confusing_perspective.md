@@ -1,0 +1,24 @@
+---
+title: confusing_perspective
+crosslinks:
+- youtubefactsbot
+- livven
+- pics
+- botwatch
+- u_imguralbumbot
+- youtubot
+- mildlyinteresting
+- funny
+- rant
+- bonehurtingjuice
+- thalassophobia
+- misleadingthumbnails
+- interestingasfuck
+- shittyaskscience
+- hmmm
+- Unexpected
+- forwardsfromgrandma
+- tmsbmeta
+- UpvotedBecauseGirl
+- gifs
+---

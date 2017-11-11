@@ -1,0 +1,24 @@
+---
+title: Muse
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- guidinglight
+- radiohead
+- youtubot
+- MassdropBot
+- place
+- radioheadcirclejerk
+- musecirclejerk
+- weezer
+- Preview
+- alotabot
+- outrun
+- excgarated
+- qotsa
+- TagPro
+- gatekeeping
+- LetsTalkMusic
+- iamverysmart
+- TheKillers
+---

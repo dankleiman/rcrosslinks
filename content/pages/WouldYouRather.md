@@ -1,0 +1,24 @@
+---
+title: WouldYouRather
+crosslinks:
+- youtubefactsbot
+- titlegore
+- MGTOW
+- youtubot
+- nocontext
+- childfree
+- shittysuperpowers
+- EmpireDidNothingWrong
+- AskReddit
+- aww
+- bigdickproblems
+- TheseFuckingAccounts
+- iamverybadass
+- MassdropBot
+- WYTTD
+- mgtow
+- lewronggeneration
+- CONSLUTING
+- unexpectedskyrim
+- AgingRedditors
+---

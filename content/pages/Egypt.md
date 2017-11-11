@@ -1,0 +1,24 @@
+---
+title: Egypt
+crosslinks:
+- youtubefactsbot
+- autotldr
+- islam
+- AskReddit
+- pics
+- u_imguralbumbot
+- youtubot
+- ExCopticOrthodox
+- MassdropBot
+- arabs
+- REEEEEE
+- soccer
+- the
+- ancientegypt
+- john_yukis_bots
+- tmsbmeta
+- Turkey
+- Pyongyang
+- dubai
+- runescape
+---

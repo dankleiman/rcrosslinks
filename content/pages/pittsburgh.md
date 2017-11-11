@@ -1,0 +1,24 @@
+---
+title: pittsburgh
+crosslinks:
+- youtubefactsbot
+- bicycling412
+- youtubot
+- autotldr
+- u_imguralbumbot
+- PittsburghLeft
+- penguins
+- The_Donald
+- politics
+- COMPLETEANARCHY
+- autourbanbot
+- xkcd
+- Pennsylvania
+- AskReddit
+- anti_gif_bot
+- philadelphia
+- gatekeeping
+- grilledcheese
+- tmsbmeta
+- john_yukis_bots
+---

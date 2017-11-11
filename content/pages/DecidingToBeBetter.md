@@ -1,0 +1,24 @@
+---
+title: DecidingToBeBetter
+crosslinks:
+- youtubefactsbot
+- getdisciplined
+- autotldr
+- youtubot
+- theXeffect
+- GetMotivated
+- NoFap
+- socialskills
+- PowerDeleteSuite
+- Psychonaut
+- stopdrinking
+- amiugly
+- Meditation
+- thexeffect
+- tmsbmeta
+- EOOD
+- politics
+- longevity
+- productivity
+- gainit
+---

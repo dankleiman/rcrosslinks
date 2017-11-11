@@ -1,0 +1,24 @@
+---
+title: Bushcraft
+crosslinks:
+- youtubefactsbot
+- Survival
+- Axecraft
+- mallninjashit
+- livven
+- Leathercraft
+- ArtisanVideos
+- myog
+- youtubot
+- knifeclub
+- foraging
+- hiking
+- john_yukis_bots
+- knives
+- Ultralight
+- botwatch
+- pics
+- Wrangler
+- Hermit
+- ZeroWaste
+---

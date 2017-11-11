@@ -1,0 +1,24 @@
+---
+title: AskScienceDiscussion
+crosslinks:
+- askscience
+- youtubefactsbot
+- youtubot
+- Physics
+- todayilearned
+- explainlikeimfive
+- space
+- askphilosophy
+- sciencefaqs
+- worldnews
+- AWLIAS
+- AskScienceFiction
+- bestof
+- AskPhysics
+- NeckbeardNests
+- badmathematics
+- WritingPrompts
+- badscience
+- mapmaking
+- HeKnowsQuantumPhysics
+---

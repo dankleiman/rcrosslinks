@@ -1,0 +1,24 @@
+---
+title: wma
+crosslinks:
+- youtubefactsbot
+- SWORDS
+- youtubot
+- livven
+- anti_gif_bot
+- Fencing
+- Koryu
+- classicalfencing
+- bodyweightfitness
+- Hema
+- whowouldwin
+- zen
+- martialarts
+- pics
+- Backyard_Cutters
+- shields
+- mallninjashit
+- unexpecteddnd
+- AskReddit
+- meleeweapons
+---

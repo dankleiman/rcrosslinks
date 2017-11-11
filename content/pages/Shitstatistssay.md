@@ -1,0 +1,24 @@
+---
+title: Shitstatistssay
+crosslinks:
+- Libertarian
+- youtubefactsbot
+- LateStageCapitalism
+- Physical_Removal
+- news
+- CapitalismVSocialism
+- zeronet
+- worldnews
+- Anarcho_Capitalism
+- technology
+- AskReddit
+- pics
+- Futurology
+- EnoughLibertarianSpam
+- politics
+- Anarchism
+- AnCapCopyPasta
+- GoldandBlack
+- socialism
+- europe
+---

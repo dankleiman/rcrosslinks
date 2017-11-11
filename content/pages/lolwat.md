@@ -1,0 +1,24 @@
+---
+title: lolwat
+crosslinks:
+- youtubefactsbot
+- gifs
+- youtubot
+- theocho
+- BetterEveryLoop
+- surrealmemes
+- hmmm
+- shestillsucking
+- unlimitedbreadsticks
+- mallninjashit
+- whitetrash
+- ButtSharpies
+- BeAmazed
+- iamverybadass
+- gofuckyourself
+- oeCake
+- BobsBurgers
+- Dogberg
+- dragonsfuckingcars
+- grandpajoehate
+---

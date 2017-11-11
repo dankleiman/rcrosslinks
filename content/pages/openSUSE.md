@@ -1,0 +1,24 @@
+---
+title: openSUSE
+crosslinks:
+- linux
+- linux_gaming
+- kde
+- SurfaceLinux
+- archlinux
+- unixporn
+- Surface
+- techsupport
+- RelayForReddit
+- bashonubuntuonwindows
+- Serendipity
+- linuxmasterrace
+- suse
+- scribus
+- PHP
+- linuxunplugged
+- VPN
+- linuxquestions
+- youtubot
+- thinkpad
+---

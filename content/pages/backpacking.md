@@ -1,0 +1,24 @@
+---
+title: backpacking
+crosslinks:
+- Ultralight
+- CampingandHiking
+- onebag
+- travel
+- MassdropBot
+- trailmeals
+- solotravel
+- norwayonreddit
+- youtubefactsbot
+- tmsbmeta
+- digitalnomad
+- xkcd
+- WildernessBackpacking
+- myog
+- Shoestring
+- Hammocks
+- ultralight
+- CampingGear
+- AppalachianTrail
+- vagabond
+---

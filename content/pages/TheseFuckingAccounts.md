@@ -1,0 +1,24 @@
+---
+title: TheseFuckingAccounts
+crosslinks:
+- AskReddit
+- aww
+- funny
+- pics
+- gaming
+- quityourbullshit
+- videos
+- Awww
+- trees
+- mildlyinteresting
+- facepalm
+- gifs
+- WTF
+- AdviceAnimals
+- interestingasfuck
+- modnews
+- FreeKarma4You
+- The_Donald
+- news
+- botwatch
+---

@@ -1,0 +1,24 @@
+---
+title: minimalism
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- minimalism_jerk
+- onebag
+- BuyItForLife
+- Anticonsumption
+- androidthemes
+- xkcd
+- pics
+- simpleliving
+- HailCorporate
+- konmari
+- declutter
+- malefashionadvice
+- ScandinavianInterior
+- NoPoo
+- vandwellers
+- autotldr
+- TinyHouses
+---

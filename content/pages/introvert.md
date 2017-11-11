@@ -1,0 +1,24 @@
+---
+title: introvert
+crosslinks:
+- socialskills
+- AskReddit
+- wholisticenchilada
+- socialanxiety
+- youtubefactsbot
+- xkcd
+- hsp
+- getdisciplined
+- misanthropy
+- SCT
+- Meditation
+- talesfromtechsupport
+- AntiFacebook
+- depression
+- alcoholism
+- GradSchool
+- piano
+- raisedbynarcissists
+- tmsbmeta
+- INTP
+---

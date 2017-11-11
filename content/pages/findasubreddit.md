@@ -1,0 +1,24 @@
+---
+title: findasubreddit
+crosslinks:
+- MassdropBot
+- The_Donald
+- everymanshouldknow
+- OnlineEducation
+- digitalarts
+- wtfdidijustread
+- backpacking
+- Career
+- cars
+- glasgow
+- all
+- ListOfSubreddits
+- lfg
+- Pareidolia
+- shittyPenmanshipPorn
+- WhatAWeeb
+- TinyEngines
+- SnoopSnoo
+- bootroom
+- GlitchInTheMatrix
+---

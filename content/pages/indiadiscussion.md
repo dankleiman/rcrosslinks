@@ -1,0 +1,24 @@
+---
+title: indiadiscussion
+crosslinks:
+- india
+- IndiaSpeaks
+- IndiaMain
+- bakchodi
+- indianews
+- India
+- autourbanbot
+- u_imguralbumbot
+- ABCDesis
+- SnapshillBotEx
+- pakistan
+- Kerala
+- Nepal
+- IndiaDrama
+- news
+- marathi
+- announcements
+- toolbox
+- indiaspeaks
+- MapPorn
+---

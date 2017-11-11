@@ -1,0 +1,24 @@
+---
+title: assettocorsa
+crosslinks:
+- youtubefactsbot
+- simracing
+- acrl
+- oculus
+- youtubot
+- livven
+- myrtbtracks
+- pcmasterrace
+- u_imguralbumbot
+- tmsbmeta
+- iRacing
+- GameDeals
+- rfactor2
+- hackintosh
+- F1Technical
+- botwatch
+- autourbanbot
+- Serendipity
+- formula1
+- buildapcforme
+---

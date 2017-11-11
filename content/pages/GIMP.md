@@ -1,0 +1,24 @@
+---
+title: GIMP
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- learnpython
+- thelongdark
+- john_yukis_bots
+- thelabyrinthe
+- logodesign
+- simracing
+- dragonsfuckingcars
+- polandball
+- sips
+- identifythisfont
+- photoshop
+- youtubot
+- xkcd
+- writing
+- softwaregore
+- oddlysatisfying
+- cutouts
+---

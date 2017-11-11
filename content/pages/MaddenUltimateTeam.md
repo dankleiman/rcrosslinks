@@ -1,0 +1,24 @@
+---
+title: MaddenUltimateTeam
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- MCSXbox
+- anti_gif_bot
+- Madden
+- MCSPlaystation
+- nfl
+- MassdropBot
+- NHLHUT
+- tmsbmeta
+- metric_units
+- MCSRep
+- MUTCoinSelling
+- alotabot
+- MutSquad
+- AMAAggregator
+- nflstreams
+- FIFA
+- AskReddit
+---

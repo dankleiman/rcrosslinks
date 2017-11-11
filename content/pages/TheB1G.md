@@ -1,0 +1,24 @@
+---
+title: TheB1G
+crosslinks:
+- place
+- IndianaUniversity
+- CFB
+- Huskers
+- UWMadison
+- UMD
+- CollegeBasketball
+- giantbomb
+- rutgers
+- Temple
+- UIUC
+- msu
+- NEU
+- uofm
+- LSU
+- thefinalclean
+- placestart
+- youtubefactsbot
+- uofmn
+- PlaceTwo
+---

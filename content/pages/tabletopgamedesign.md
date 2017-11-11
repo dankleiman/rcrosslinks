@@ -1,0 +1,24 @@
+---
+title: tabletopgamedesign
+crosslinks:
+- boardgames
+- rpg
+- u_imguralbumbot
+- youtubefactsbot
+- gamedesign
+- gamedev
+- tabletopartists
+- worldbuilding
+- magicTCG
+- AskReddit
+- InfinityTheGame
+- john_yukis_bots
+- SeattleWA
+- SubAutoCorrectBot
+- RWBY
+- touhou
+- hearthstone
+- nintendo
+- IsAnybodyHere
+- bestof
+---

@@ -1,0 +1,24 @@
+---
+title: shittyadvice
+crosslinks:
+- youtubefactsbot
+- ShittyLifeProTips
+- youtubot
+- shittyaskscience
+- bottomlulz
+- AMAAggregator
+- autourbanbot
+- SubAutoCorrectBot
+- tifu
+- birdswitharms
+- OpIsAFag
+- enoughinternet
+- advice
+- send_nudes
+- fakehistoryporn
+- OldLadiesBakingPies
+- TheRedPill
+- AskAnAmerican
+- shittingadvice
+- Bernie_Sanders
+---

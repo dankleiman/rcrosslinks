@@ -1,0 +1,24 @@
+---
+title: ImagesOfMinnesota
+crosslinks:
+- minnesota
+- pics
+- whatsthisbug
+- EarthPorn
+- imagesofnetwork
+- whatsthisplant
+- Fishing
+- funny
+- mildlyinteresting
+- spiders
+- SkyPorn
+- OldSchoolCool
+- itookapicture
+- trees
+- mycology
+- aww
+- hockey
+- minnesotaunited
+- wildhockey
+- whatisthisthing
+---

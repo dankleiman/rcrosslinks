@@ -1,0 +1,24 @@
+---
+title: EternalCardGame
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- EternallyJerking
+- hearthstone
+- youtubot
+- eternal
+- OverwatchUniversity
+- xkcd
+- magicTCG
+- john_yukis_bots
+- SolForge
+- autourbanbot
+- redditrequest
+- gwent
+- alotabot
+- diablo
+- hearthstonecirclejerk
+- Overwatch
+- RocketLeague
+- digitalccg
+---

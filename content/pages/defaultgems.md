@@ -1,0 +1,24 @@
+---
+title: defaultgems
+crosslinks:
+- bestof
+- AskReddit
+- youtubefactsbot
+- askreddit
+- titlegore
+- TheoryOfReddit
+- gaming
+- nostalgia
+- mildlyinteresting
+- history
+- todayilearned
+- JusticeServed
+- xkcd
+- jesuschristreddit
+- AMAAggregator
+- goodlongposts
+- leagueoflegends
+- PMclub
+- RedditWritesSeinfeld
+- MilitaryStories
+---

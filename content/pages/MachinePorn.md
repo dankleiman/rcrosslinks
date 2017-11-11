@@ -1,0 +1,24 @@
+---
+title: MachinePorn
+crosslinks:
+- PornOverlords
+- youtubefactsbot
+- youtubot
+- livven
+- anti_gif_bot
+- specializedtools
+- engineteststands
+- aviation
+- steamporn
+- mechanical_gifs
+- xkcd
+- classiccars
+- drydockporn
+- cockpits
+- MilitaryPorn
+- AskEngineers
+- IAmA
+- unexpected40k
+- titanfall
+- boardgames
+---

@@ -1,0 +1,24 @@
+---
+title: thedavidpakmanshow
+crosslinks:
+- autotldr
+- youtubefactsbot
+- youtubot
+- Classical_Liberals
+- The_Donald
+- NeutralPolitics
+- politics
+- Dave_Rubin
+- u_imguralbumbot
+- neoliberal
+- TrumpInvestigation
+- tmsbmeta
+- IAmA
+- xkcd
+- autourbanbot
+- samharris
+- daverubin
+- news
+- TheLouisMotamediShow
+- tytonreddit
+---

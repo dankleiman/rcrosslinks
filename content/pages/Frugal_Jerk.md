@@ -1,0 +1,24 @@
+---
+title: Frugal_Jerk
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- MassdropBot
+- Frugal
+- AskReddit
+- u_imguralbumbot
+- PFJerk
+- aww
+- excgarated
+- youtubot
+- KarmaCourt
+- botpopularitybot
+- Serendipity
+- IAmA
+- Drama
+- worldnews
+- xkcd
+- theydidthemath
+- SelfSufficiency
+---

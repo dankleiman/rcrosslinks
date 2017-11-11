@@ -1,0 +1,24 @@
+---
+title: pcmods
+crosslinks:
+- youtubefactsbot
+- PCSleeving
+- pcmasterrace
+- CableManagement
+- youtubot
+- DIY
+- '2014'
+- pcgaming
+- hardwareswap
+- nohomo_bot
+- xkcd
+- cyberDeck
+- shittybattlestations
+- laptops
+- watercooling
+- buildapcsales
+- anti_gif_bot
+- hardware
+- Zeos
+- 600x450
+---

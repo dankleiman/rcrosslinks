@@ -1,0 +1,24 @@
+---
+title: milwaukee
+crosslinks:
+- PoliticalHumor
+- AdviceAnimals
+- The_Donald
+- wisconsin
+- xkcd
+- WICircleJerk
+- UWMilwaukee
+- news
+- BoltEV
+- shittyadviceanimals
+- grilledcheese
+- tifu
+- PokemonGoMilwaukee
+- personalfinance
+- fasting
+- SandersForPresident
+- Marquette
+- furry
+- politics
+- conspiracy
+---

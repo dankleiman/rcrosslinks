@@ -1,0 +1,24 @@
+---
+title: udub
+crosslinks:
+- SeattleWA
+- youtubefactsbot
+- xkcd
+- place
+- explainlikeimfive
+- autotldr
+- canigetintouwcse
+- funny
+- videos
+- gatekeeping
+- NationalSocialism
+- explainlikeimjive
+- youtubot
+- drama
+- Drama
+- john_yukis_bots
+- NeutralPolitics
+- Seattle
+- ApplyingToCollege
+- MassdropBot
+---

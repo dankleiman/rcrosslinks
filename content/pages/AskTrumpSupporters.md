@@ -1,0 +1,24 @@
+---
+title: AskTrumpSupporters
+crosslinks:
+- The_Donald
+- politics
+- worldnews
+- IAmA
+- AskReddit
+- AskThe_Donald
+- TrumpInvestigation
+- NeutralPolitics
+- explainlikeimfive
+- PoliticalConversation
+- bestof
+- changemyview
+- news
+- AskHistorians
+- KotakuInAction
+- xkcd
+- PoliticalDiscussion
+- pics
+- conspiracy
+- badeconomics
+---

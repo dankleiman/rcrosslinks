@@ -1,0 +1,24 @@
+---
+title: Debate
+crosslinks:
+- youtubefactsbot
+- youtubot
+- DebateTrade
+- changemyview
+- policydebate
+- Pyongyang
+- debates
+- dredmorbius
+- anti_gif_bot
+- xkcd
+- James
+- IAmA
+- OhioDebate
+- autotldr
+- MassdropBot
+- flatearth
+- sex
+- lincolndouglas
+- gue
+- botpopularitybot
+---

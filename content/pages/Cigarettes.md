@@ -1,0 +1,24 @@
+---
+title: Cigarettes
+crosslinks:
+- youtubefactsbot
+- CigarettePackExchange
+- u_imguralbumbot
+- DumpsterDiving
+- smokingfetish
+- DarkNetMarkets
+- me_irl
+- casualiama
+- tmsbmeta
+- touhou
+- '2013'
+- DippingTobacco
+- cigars
+- john_yukis_bots
+- Vaping
+- AccidentalRacism
+- BasementDweller
+- shitpost
+- gifs
+- Saggy
+---

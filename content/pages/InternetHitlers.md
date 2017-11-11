@@ -1,0 +1,24 @@
+---
+title: InternetHitlers
+crosslinks:
+- conspiracy
+- The_Donald
+- uncensorednews
+- worldnews
+- CringeAnarchy
+- antiangloandjew
+- far_right
+- MGTOW
+- europeannationalism
+- THE_PACK
+- bakchodi
+- ImGoingToHellForThis
+- PropagandaPosters
+- pics
+- GentilesUnited
+- OldSchoolCool
+- h3h3productions
+- Trumpgret
+- BlackPeopleTwitter
+- technology
+---

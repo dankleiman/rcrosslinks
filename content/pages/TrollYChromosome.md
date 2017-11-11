@@ -1,0 +1,24 @@
+---
+title: TrollYChromosome
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- TrollXChromosomes
+- gifs
+- pointlesslygendered
+- funny
+- short
+- MassdropBot
+- BiggerThanYouThought
+- OkCupid
+- xkcd
+- childfree
+- r4rAsexual
+- TrollXFunny
+- mildlypenis
+- AskEngineers
+- nononono
+- AnimalTextGifs
+- excgarated
+---

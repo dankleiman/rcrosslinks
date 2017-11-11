@@ -1,0 +1,24 @@
+---
+title: BrasilOnReddit
+crosslinks:
+- soccer
+- worldnews
+- pics
+- WTF
+- funny
+- FiftyFifty
+- 4chan
+- todayilearned
+- place
+- olympics
+- UpliftingNews
+- videos
+- The_Donald
+- conspiracy
+- Overwatch
+- AccidentalRenaissance
+- RoomPorn
+- GlobalOffensive
+- news
+- creepy
+---

@@ -1,0 +1,24 @@
+---
+title: canadaguns
+crosslinks:
+- canada
+- canadagunsEE
+- guns
+- tmsbmeta
+- weekendgunnit
+- livven
+- autourbanbot
+- Firearms
+- CanadaPolitics
+- metacanada
+- alberta
+- xkcd
+- MilitaryPorn
+- MtF
+- Drama
+- autotldr
+- lgbt
+- PistolMMS
+- shittytumblrgifs
+- paydaytheheist
+---

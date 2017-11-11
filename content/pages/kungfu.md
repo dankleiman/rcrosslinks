@@ -1,0 +1,24 @@
+---
+title: kungfu
+crosslinks:
+- martialarts
+- youtubot
+- youtubefactsbot
+- wma
+- taijiquan
+- AsianMartialArts
+- livven
+- anti_gif_bot
+- Wushu
+- trans
+- tmsbmeta
+- bajiquan
+- Eskrima
+- Serendipity
+- all
+- zen
+- intmararts
+- botwatch
+- kodi
+- WingChun
+---

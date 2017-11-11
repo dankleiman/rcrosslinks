@@ -1,0 +1,24 @@
+---
+title: restofthefuckingowl
+crosslinks:
+- livven
+- youtubefactsbot
+- botpopularitybot
+- educationalgifs
+- youtubot
+- anti_gif_bot
+- interestingasfuck
+- u_imguralbumbot
+- LearnUselessTalents
+- videos
+- woahdude
+- SubAutoCorrectBot
+- musictheory
+- coloringcorruptions
+- xkcd
+- funny
+- awfuleyebrows
+- PixelArt
+- oddlysatisfying
+- blender
+---

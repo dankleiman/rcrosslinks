@@ -1,0 +1,24 @@
+---
+title: talesfromcallcenters
+crosslinks:
+- callcentres
+- john_yukis_bots
+- youtubefactsbot
+- MaliciousCompliance
+- TalesFromTheFrontDesk
+- AskReddit
+- badpeoplestories
+- talesfromthecustomer
+- bestof
+- talesfromcustomers
+- JusticeBoner
+- youtubot
+- talesfromtechsupport
+- Serendipity
+- Random_Acts_Of_Amazon
+- talesfromcavesupport
+- Drugs
+- OffbeatTales
+- vandwellers
+- xkcd
+---

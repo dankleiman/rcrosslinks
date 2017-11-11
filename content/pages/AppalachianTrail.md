@@ -1,0 +1,24 @@
+---
+title: AppalachianTrail
+crosslinks:
+- youtubefactsbot
+- Ultralight
+- PacificCrestTrail
+- GearTrade
+- UKhopefuls
+- livven
+- pics
+- FrenchWestIndies
+- nocontext
+- AdvancedBackpacking
+- MapPorn
+- AMAAggregator
+- hammockcamping
+- Fitness
+- CampingandHiking
+- autourbanbot
+- everymanshouldknow
+- mycology
+- personalfinance
+- marijuanaenthusiasts
+---

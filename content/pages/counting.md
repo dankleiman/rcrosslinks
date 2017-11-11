@@ -1,0 +1,24 @@
+---
+title: counting
+crosslinks:
+- SomeCountingStuff
+- AskReddit
+- Test_Piyush
+- countingcirclejerk
+- me_irl
+- Showerthoughts
+- ICanDrawThat
+- AskOuija
+- rideridePublic
+- todayilearned
+- Jokes
+- bestof
+- europe
+- math
+- modnews
+- science
+- anime
+- livecounting
+- xkcd
+- NoStupidQuestions
+---

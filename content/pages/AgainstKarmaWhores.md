@@ -1,0 +1,24 @@
+---
+title: AgainstKarmaWhores
+crosslinks:
+- pics
+- HighQualityGifs
+- funny
+- gifs
+- quityourbullshit
+- aww
+- shitpost
+- Music
+- comics
+- AskReddit
+- shittyrobots
+- DuplicatesBot
+- OldSchoolCool
+- AMAAggregator
+- GetMotivated
+- MarchAgainstTrump
+- dataisbeautiful
+- mildlyinteresting
+- anti_gif_bot
+- BlackPeopleTwitter
+---

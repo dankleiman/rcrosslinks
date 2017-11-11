@@ -1,0 +1,24 @@
+---
+title: smoking
+crosslinks:
+- BBQ
+- youtubefactsbot
+- u_imguralbumbot
+- spicy
+- FoodPorn
+- sousvide
+- grilledcheese
+- food
+- youtubot
+- meat
+- KarmaCourt
+- foodscience
+- AmazonMerch
+- Drama
+- GifRecipes
+- botwatch
+- help
+- tacos
+- steak
+- burgers
+---

@@ -1,0 +1,24 @@
+---
+title: VaporwaveArt
+crosslinks:
+- livven
+- intothetunnel
+- youtubefactsbot
+- VaporwaveAesthetics
+- u_imguralbumbot
+- tmsbmeta
+- glitch_art
+- botwatch
+- EarthPorn
+- outrun
+- pics
+- Suomi
+- KnightsOfPineapple
+- printmaking
+- john_yukis_bots
+- tf2
+- blender
+- sailormoon
+- Vaporwave
+- oblivion
+---

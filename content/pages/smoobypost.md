@@ -1,0 +1,24 @@
+---
+title: smoobypost
+crosslinks:
+- youtubefactsbot
+- me_irl
+- JonTron
+- livven
+- gayfortodd
+- youtubehaiku
+- youtubot
+- DankMemeArchive
+- GradeAUnderA
+- nsfw
+- RoastMe
+- AskOuija
+- circlebroke2
+- OutOfTheLoop
+- lfg
+- IHE
+- u_imguralbumbot
+- 2007scape
+- DoesNotTranslate
+- WordAvalanches
+---

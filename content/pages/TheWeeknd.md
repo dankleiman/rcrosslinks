@@ -1,0 +1,24 @@
+---
+title: TheWeeknd
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- hiphopheads
+- MassdropBot
+- youtubot
+- livven
+- IAmA
+- lanadelrey
+- u_imguralbumbot
+- FashionReps
+- SongStems
+- DaftPunk
+- Kanye
+- AskReddit
+- autourbanbot
+- popheads
+- Drizzy
+- gatekeeping
+- OutOfTheLoop
+- FrankOcean
+---

@@ -1,0 +1,24 @@
+---
+title: streetart
+crosslinks:
+- u_imguralbumbot
+- botwatch
+- youtubefactsbot
+- livven
+- pics
+- PhonesAreBad
+- me_irl
+- Cartalk
+- BrasilOnReddit
+- Bombing
+- Serendipity
+- confusing_perspective
+- singapore
+- Portland
+- thingsforants
+- MassdropBot
+- Graffiti
+- bboy
+- pittsburgh
+- autotldr
+---

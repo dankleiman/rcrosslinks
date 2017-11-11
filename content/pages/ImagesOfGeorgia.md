@@ -1,0 +1,24 @@
+---
+title: ImagesOfGeorgia
+crosslinks:
+- Atlanta
+- pics
+- whatsthisbug
+- imagesofnetwork
+- tattoos
+- whatsthisplant
+- EarthPorn
+- funkopop
+- funny
+- mycology
+- spiders
+- savannah
+- mildlyinteresting
+- itookapicture
+- OldSchoolCool
+- Bombing
+- whatisthisthing
+- food
+- aww
+- AtlantaUnited
+---

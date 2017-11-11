@@ -1,0 +1,24 @@
+---
+title: DarkSouls2
+crosslinks:
+- youtubefactsbot
+- youtubot
+- darksouls3
+- darksouls
+- wheelanddeal
+- u_imguralbumbot
+- SummonSign
+- alotabot
+- fashionsouls
+- FuckShrineOfAmana
+- tmsbmeta
+- MassdropBot
+- AskReddit
+- patientgamers
+- darkestdungeon
+- bloodborne
+- cheatengine
+- DeadRedditors
+- GameDeals
+- FuckYou
+---

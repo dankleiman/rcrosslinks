@@ -1,0 +1,24 @@
+---
+title: AutoNewspaper
+crosslinks:
+- autotldr
+- DuplicatesBot
+- me_irl
+- paralympics
+- youtubefactsbot
+- FrenchWestIndies
+- RalphNortham
+- youtubot
+- AMAAggregator
+- fidgetspin
+- SethKaperDale
+- modnews
+- raws
+- tmsbmeta
+- titlegore
+- BetoORourke
+- askscience
+- Monsanto
+- ukpolitics
+- undelete
+---

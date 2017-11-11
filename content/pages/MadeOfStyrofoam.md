@@ -1,0 +1,24 @@
+---
+title: MadeOfStyrofoam
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- u_imguralbumbot
+- tmsbmeta
+- pics
+- selfharm
+- Jokes
+- selfharmgifs
+- selfharmpics
+- cripplingalcoholism
+- dankmemes
+- SelfHarmScars
+- mildlyinteresting
+- SubredditDrama
+- emojipasta
+- bonehurtingjuice
+- MusicOfStyrofoam
+- MoS_circlejerk
+- 2meirl4meirl
+---

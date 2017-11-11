@@ -1,0 +1,24 @@
+---
+title: progressive
+crosslinks:
+- politics
+- youtubefactsbot
+- occupywallstreet
+- Shitstatistssay
+- ShitLiberalsSay
+- AskHistorians
+- ShitPoliticsSays
+- Keithellison
+- autourbanbot
+- Conservative
+- privacytoolsIO
+- TheSimpsons
+- elizabethwarren
+- IndianCountry
+- worldpolitics
+- DeepGreenResistance
+- bestof
+- MarchForScience
+- HateCrimeHoaxes
+- conservative
+---

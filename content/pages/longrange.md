@@ -1,0 +1,24 @@
+---
+title: longrange
+crosslinks:
+- gundeals
+- guns
+- SmallGroups
+- youtubefactsbot
+- ar15
+- u_imguralbumbot
+- reloading
+- EuroOptic
+- Gunsforsale
+- autotldr
+- youtubot
+- NoParticipation
+- canadaguns
+- bestof
+- smallgroups
+- anti_gif_bot
+- shockwaveporn
+- Hunting
+- aimdownsights
+- CompetitionShooting
+---

@@ -1,0 +1,24 @@
+---
+title: Naruto
+crosslinks:
+- dankruto
+- boruto
+- NarutoBattleIndex
+- anime
+- NarutoFanfiction
+- OutOfTheLoop
+- Boruto
+- whowouldwin
+- NarutoNewStory
+- respectthreads
+- Pixiv
+- CharacterRant
+- FlashTV
+- nocontext
+- UpvotedBecauseGirl
+- NarutoBlazing
+- dbz
+- manga
+- SubredditDrama
+- irishsaltytuna
+---

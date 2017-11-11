@@ -1,0 +1,24 @@
+---
+title: playstation
+crosslinks:
+- botwatch
+- PS4
+- youtubefactsbot
+- gaming
+- vita
+- PSVR
+- PS4Deals
+- Games
+- youtubot
+- assassinscreed
+- livven
+- u_imguralbumbot
+- anti_gif_bot
+- patientgamers
+- tmsbmeta
+- gravityrush
+- xboxone
+- thelastofus
+- ps4
+- thingsforants
+---

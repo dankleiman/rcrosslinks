@@ -1,0 +1,24 @@
+---
+title: freenas
+crosslinks:
+- homelab
+- u_imguralbumbot
+- PleX
+- DataHoarder
+- autotldr
+- sysadmin
+- zfs
+- freebsd
+- centurylink
+- rednoah
+- PlexACD
+- me_irl
+- youtubefactsbot
+- sugargliders
+- john_yukis_bots
+- filebot
+- docker
+- haugene
+- HomeServer
+- buildapc
+---

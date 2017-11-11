@@ -1,0 +1,24 @@
+---
+title: frugalmalefashion
+crosslinks:
+- malefashionadvice
+- goodyearwelt
+- rawdenim
+- u_imguralbumbot
+- youtubefactsbot
+- MassdropBot
+- Watches
+- tmsbmeta
+- FashionReps
+- search
+- Sneakers
+- metric_units
+- streetwear
+- mfa_irl
+- churning
+- BuyItForLife
+- Leathercraft
+- todayilearned
+- FrugalFemaleFashion
+- john_yukis_bots
+---

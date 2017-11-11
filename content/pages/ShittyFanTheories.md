@@ -1,0 +1,24 @@
+---
+title: ShittyFanTheories
+crosslinks:
+- youtubot
+- youtubefactsbot
+- badmovieideas
+- Games
+- AskScienceFiction
+- CERN
+- SCP
+- PrequelMemes
+- asoiafcirclejerk
+- HumansBeingBros
+- trashpandas
+- shittyshowerthoughts
+- radiohead
+- todayilearned
+- DunderMifflin
+- 80s
+- AskReddit
+- FanTheories
+- MassdropBot
+- copypasta
+---

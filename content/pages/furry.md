@@ -1,0 +1,24 @@
+---
+title: furry
+crosslinks:
+- furaffinitybot
+- youtubefactsbot
+- furry_irl
+- u_imguralbumbot
+- EvilJackCarver
+- livven
+- youtubot
+- anti_gif_bot
+- place
+- yiff
+- xkcd
+- FurryArtSchool
+- zootopia
+- tmsbmeta
+- NightInTheWoods
+- TheBlueCorner
+- botpopularitybot
+- autotldr
+- gifs
+- AskReddit
+---

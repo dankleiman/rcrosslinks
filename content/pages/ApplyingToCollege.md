@@ -1,0 +1,24 @@
+---
+title: ApplyingToCollege
+crosslinks:
+- chanceme
+- youtubefactsbot
+- collegeresults
+- AMAAggregator
+- ACT
+- A2C_circlejerk
+- blog
+- botpopularitybot
+- cscareerquestions
+- Sat
+- college
+- berkeley
+- MassdropBot
+- UIUC
+- AskReddit
+- uwaterloo
+- ReverseChanceMe
+- tmsbmeta
+- APStudents
+- CalPoly
+---

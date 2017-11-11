@@ -1,0 +1,24 @@
+---
+title: Coldplay
+crosslinks:
+- youtubefactsbot
+- youtubot
+- MassdropBot
+- livven
+- u_imguralbumbot
+- imaginedragons
+- radiohead
+- FrankOcean
+- reactiongifs
+- SongStems
+- anti_gif_bot
+- modnews
+- Rainmeter
+- Kanye
+- straya
+- ProCSS
+- GearVR
+- tipofmytongue
+- CHICubs
+- Jazz
+---

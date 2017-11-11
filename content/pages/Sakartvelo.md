@@ -1,0 +1,24 @@
+---
+title: Sakartvelo
+crosslinks:
+- armenia
+- Kavkaz
+- azerbaijan
+- youtubefactsbot
+- u_imguralbumbot
+- europe
+- Abkhazia
+- autotldr
+- KarabakhConflict
+- TurkicHistory
+- botwatch
+- iamverybadass
+- youtubot
+- milliondollarextreme
+- Caucasians
+- EarthPorn
+- ShadowBan
+- ANormalDayInRussia
+- ILiveIn
+- gopro
+---

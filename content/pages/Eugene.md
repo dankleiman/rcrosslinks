@@ -1,0 +1,24 @@
+---
+title: Eugene
+crosslinks:
+- youtubefactsbot
+- QwertyandBrgrssKith
+- youtubot
+- Portland
+- u_imguralbumbot
+- livven
+- xkcd
+- tmsbmeta
+- SpringfieldOR
+- iamverybadass
+- salem
+- GenderCritical
+- oregon
+- ADSB
+- albanyor
+- amibeingdetained
+- AMAAggregator
+- consolerepair
+- lcc
+- CutYourOwnHair
+---

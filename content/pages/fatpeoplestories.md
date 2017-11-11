@@ -1,0 +1,24 @@
+---
+title: fatpeoplestories
+crosslinks:
+- youtubefactsbot
+- badpeoplestories
+- 1200isplenty
+- neckbeardstories
+- JUSTNOMIL
+- tmsbmeta
+- AskReddit
+- crypto_bot
+- TalesFromYourServer
+- FPS
+- funny
+- FPSCrafters
+- badwomensanatomy
+- autourbanbot
+- RantsFromRetail
+- OutOfTheLoop
+- niceguys
+- youtubot
+- john_yukis_bots
+- knitting
+---

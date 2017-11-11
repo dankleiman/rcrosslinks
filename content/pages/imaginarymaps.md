@@ -1,0 +1,24 @@
+---
+title: imaginarymaps
+crosslinks:
+- worldbuilding
+- MassdropBot
+- mapmaking
+- AlternateHistoryMaps
+- AlternateHistory
+- u_imguralbumbot
+- youtubefactsbot
+- MapPorn
+- vexillology
+- eu4
+- xkcd
+- botwatch
+- HistoricalWorldPowers
+- paradoxplaza
+- Ronuos
+- Suomi
+- DesirePath
+- misleadingthumbnails
+- notcirclejerk
+- Geosim
+---

@@ -1,0 +1,24 @@
+---
+title: promos
+crosslinks:
+- youtubefactsbot
+- btc
+- RemindMeBot
+- Coffee
+- Bitcoin
+- IAmA
+- AskReddit
+- UKFrugal
+- The_Donald
+- autourbanbot
+- latterdaysaints
+- u_imguralbumbot
+- lacortenews
+- exmormon
+- autotldr
+- exmuslim
+- musclebuild
+- videos
+- MinimalistApparel
+- xkcd
+---

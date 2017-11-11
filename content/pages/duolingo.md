@@ -1,0 +1,24 @@
+---
+title: duolingo
+crosslinks:
+- IAmA
+- u_imguralbumbot
+- languagelearning
+- youtubefactsbot
+- shitduolingosays
+- gaeilge
+- Duolingoclubs
+- German
+- Spanish
+- john_yukis_bots
+- getdisciplined
+- AskReddit
+- livven
+- Korean
+- LearnJapanese
+- tmsbmeta
+- de
+- ShitAmericansSay
+- ProgrammerHumor
+- queerconlangers
+---

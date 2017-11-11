@@ -1,0 +1,24 @@
+---
+title: EdmontonOilers
+crosslinks:
+- hockey
+- tmsbmeta
+- livven
+- place
+- GlobalOffensive
+- CalgaryFlames
+- asiangirlsbeingcute
+- autotldr
+- nba
+- ImagesOfCalifornia
+- SanJoseSharks
+- OttawaSenators
+- youtubot
+- NHLStreams
+- clevelandcavs
+- NHLChampionshipBelt
+- beer
+- FrankOcean
+- warriors
+- hawks
+---

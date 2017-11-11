@@ -1,0 +1,24 @@
+---
+title: singularity
+crosslinks:
+- SaveTheSmabs
+- youtubot
+- ControlProblem
+- quotes
+- Futurology
+- plans
+- Shitstatistssay
+- DuplicatesBot
+- artificial
+- BasicIncome
+- NewSlangTerms
+- Shadowrun
+- worldnews
+- totallynotrobots
+- technology
+- transhumanism
+- theculture
+- StallmanWasRight
+- IAmA
+- finlandConspiracy
+---

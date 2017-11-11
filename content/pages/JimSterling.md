@@ -1,0 +1,24 @@
+---
+title: JimSterling
+crosslinks:
+- youtubefactsbot
+- youtubot
+- NintendoSwitch
+- Cynicalbrit
+- gaming
+- Gamingcirclejerk
+- Games
+- Steam
+- SubredditDrama
+- SidAlpha
+- pcmasterrace
+- shittykickstarters
+- WorldofTanks
+- DotA2
+- KotakuInAction
+- IAmA
+- HailCorporate
+- SargonofAkkad
+- GirlGamers
+- Megaten
+---

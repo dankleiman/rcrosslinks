@@ -1,0 +1,24 @@
+---
+title: holdmybeer
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- botwatch
+- gifs
+- u_imguralbumbot
+- funny
+- AskReddit
+- Whatcouldgowrong
+- BetterEveryLoop
+- xkcd
+- WTF
+- instant_regret
+- holdmyjuicebox
+- CredibilityBot
+- holdmycosmo
+- videos
+- UNBGBBIIVCHIDCTIICBG
+- holdmyredbull
+- OutOfTheLoop
+- todayilearned
+---

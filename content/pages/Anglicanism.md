@@ -1,0 +1,24 @@
+---
+title: Anglicanism
+crosslinks:
+- Christianity
+- autotldr
+- OrthodoxChristianity
+- OpenChristian
+- youtubot
+- Catholicism
+- divineoffice
+- VerseBot
+- RadicalChristianity
+- cars
+- AnglicanOrdinariate
+- learnprogramming
+- TheHuntingOfTheSnark
+- catholicism
+- christianity
+- elca
+- Reformed
+- christianfeminists
+- religion
+- Episcopalian
+---

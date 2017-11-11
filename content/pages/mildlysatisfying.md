@@ -1,0 +1,24 @@
+---
+title: mildlysatisfying
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- cableporn
+- MildlyUnsatisfying
+- nyc
+- satisfying
+- hapas
+- OSHA
+- perfectloops
+- pooping
+- steak
+- xkcd
+- mildlyinfuriating
+- TheSilphRoad
+- aal
+- mildlycreepy
+- KarmaConspiracy
+- trees
+- u_imguralbumbot
+---

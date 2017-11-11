@@ -1,0 +1,24 @@
+---
+title: stunfisk
+crosslinks:
+- pokemon
+- pokemontrades
+- PokemonBattleTree
+- tmsbmeta
+- u_imguralbumbot
+- youtubefactsbot
+- 3dshacks
+- AskReddit
+- BattleFactory
+- SubredditSimulator
+- ShinyPokemon
+- morebreedingdittos
+- youtubot
+- PokemonVGC
+- TheFestivalPlaza
+- BreedingDittos
+- TruePokemon
+- smogoncirclejerk
+- RPDL
+- PokeMoonSun
+---

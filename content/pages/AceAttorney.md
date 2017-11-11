@@ -1,0 +1,24 @@
+---
+title: AceAttorney
+crosslinks:
+- youtubefactsbot
+- AceAttorneyCirclejerk
+- livven
+- tmsbmeta
+- youtubot
+- 3dshacks
+- MassdropBot
+- u_imguralbumbot
+- place
+- self
+- AcquittalGame
+- nocontext
+- LearnJapanese
+- fireemblem
+- the_paul
+- kotor
+- titlegore
+- nintendo
+- HailCorporate
+- john_yukis_bots
+---

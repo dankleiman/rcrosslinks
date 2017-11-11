@@ -1,0 +1,24 @@
+---
+title: custommagic
+crosslinks:
+- magicTCG
+- youtubefactsbot
+- ArtificeMTG
+- magicthecirclejerking
+- EDH
+- ImaginaryMonsters
+- xkcd
+- tmsbmeta
+- tumbledmtg
+- ImaginaryCharacters
+- imaginarycowboys
+- touhou
+- creepy
+- 2meirl4
+- The_Donald
+- SubAutoCorrectBot
+- FinalFantasy
+- wholesomememes
+- SCP
+- ImaginaryFaeries
+---

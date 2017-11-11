@@ -1,0 +1,24 @@
+---
+title: newzealand
+crosslinks:
+- FlairHelperBot
+- auckland
+- AskReddit
+- Wellington
+- TOPNZ
+- place
+- australia
+- worldnews
+- pics
+- IAmA
+- PersonalFinanceNZ
+- chch
+- thatpicofnzfromspace
+- todayilearned
+- The_Donald
+- AskHistorians
+- rugbyunion
+- dataisbeautiful
+- NZCirclejerk
+- MapsWithoutNZ
+---

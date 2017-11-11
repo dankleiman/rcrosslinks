@@ -1,0 +1,24 @@
+---
+title: seriouseats
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- AskCulinary
+- sousvide
+- Pizza
+- Charcuterie
+- livven
+- Breadit
+- castiron
+- linguistics
+- xkcd
+- iamveryculinary
+- islam
+- italy
+- daddit
+- chefknives
+- UnexpectedSpongeBob
+- excgarated
+- PressureCooking
+- MassdropBot
+---

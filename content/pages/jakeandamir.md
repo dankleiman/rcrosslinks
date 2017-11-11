@@ -1,0 +1,24 @@
+---
+title: jakeandamir
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- youtubot
+- u_imguralbumbot
+- autotldr
+- MassdropBot
+- 8bitbookclub
+- aww
+- botpopularitybot
+- autourbanbot
+- AMAAggregator
+- IAmA
+- niceguys
+- HumansBeingBros
+- GlobalOffensive
+- todayilearned
+- Earwolf
+- botwatch
+- thesimpsons
+---

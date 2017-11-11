@@ -1,0 +1,24 @@
+---
+title: college
+crosslinks:
+- ApplyingToCollege
+- cscareerquestions
+- trackers
+- youtubefactsbot
+- AskReddit
+- premed
+- autotldr
+- u_imguralbumbot
+- personalfinance
+- EngineeringStudents
+- john_yukis_bots
+- youtubot
+- laptops
+- Frat
+- livven
+- Piracy
+- raisedbynarcissists
+- essaywritingteam
+- botwatch
+- Drama
+---

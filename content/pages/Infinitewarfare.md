@@ -1,0 +1,24 @@
+---
+title: Infinitewarfare
+crosslinks:
+- livven
+- CODZombies
+- blackops3
+- CoDCompetitive
+- iwcheats
+- MassdropBot
+- WWII
+- COD_LFG
+- gaming
+- Pay_Respects
+- Gamingcirclejerk
+- Rainbow6
+- CODModernWarfare
+- pcmasterrace
+- PS4
+- CallOfDuty
+- JeopardyQBot
+- battlefield_one
+- Iamnotracistbut
+- blackops2
+---

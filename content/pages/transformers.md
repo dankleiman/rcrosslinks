@@ -1,0 +1,24 @@
+---
+title: transformers
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- idwtransformers
+- toyexchange
+- ActionFigures
+- comicbooks
+- livven
+- Kenya
+- TransformersTrading
+- anti_gif_bot
+- alotabot
+- TransformersSandbox
+- audiodrama
+- nswf
+- excgarated
+- funkopop
+- Voltron
+- nostalgia
+- csshelp
+- gobots
+---

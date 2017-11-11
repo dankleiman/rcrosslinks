@@ -1,0 +1,24 @@
+---
+title: bladeandsoul
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- anti_gif_bot
+- youtubot
+- BladeAndSoulMods
+- alotabot
+- NationalSocialism
+- john_yukis_bots
+- LivestreamFail
+- tmsbmeta
+- autourbanbot
+- Guildwars2
+- DFO
+- 2007scape
+- titlegore
+- buildapc
+- MassdropBot
+- monkaS
+- botpopularitybot
+---

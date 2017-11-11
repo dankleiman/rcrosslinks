@@ -1,0 +1,24 @@
+---
+title: ThreadKillers
+crosslinks:
+- AskReddit
+- RoastMe
+- explainlikeimfive
+- NSFW411
+- AskOuija
+- punkillers
+- slatestarcodex
+- badcode
+- IsItBullshit
+- worldnews
+- pcmasterrace
+- ControlProblem
+- AdviceAnimals
+- whowouldwin
+- goddesses
+- restofthefuckingowl
+- TrueFilm
+- Kentucky
+- ComedyCemetery
+- SubredditDrama
+---

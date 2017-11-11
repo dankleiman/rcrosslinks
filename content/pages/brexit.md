@@ -1,0 +1,24 @@
+---
+title: brexit
+crosslinks:
+- autotldr
+- ukpolitics
+- youtubefactsbot
+- unitedkingdom
+- ukright
+- ireland
+- youtubot
+- Britain
+- noshit
+- Futurology
+- ShitBrexiteersSay
+- BrexitMemes
+- eu
+- livven
+- MassdropBot
+- Suomi
+- The3Million
+- botwatch
+- streetart
+- tmsbmeta
+---

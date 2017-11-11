@@ -1,0 +1,24 @@
+---
+title: CrossStitch
+crosslinks:
+- Embroidery
+- u_imguralbumbot
+- youtubefactsbot
+- placecanada
+- gaming
+- youtubot
+- serialkillers
+- place
+- OutOfTheLoop
+- tmsbmeta
+- john_yukis_bots
+- weddingplanning
+- all
+- photoshop
+- java
+- doughboys
+- Stargate
+- timelapse
+- gay_irl
+- Yarnswap
+---

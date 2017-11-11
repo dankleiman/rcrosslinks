@@ -1,0 +1,24 @@
+---
+title: ColoradoAvalanche
+crosslinks:
+- youtubefactsbot
+- hockey
+- youtubot
+- hockeyjerseys
+- tmsbmeta
+- livven
+- NHLStreams
+- hockeyplayers
+- puckstreams
+- stlouisblues
+- wildhockey
+- canucks
+- u_imguralbumbot
+- MassdropBot
+- NewYorkIslanders
+- LazyMan
+- Coyotes
+- Predators
+- mildyinfuriating
+- botwatch
+---

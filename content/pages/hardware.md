@@ -1,0 +1,24 @@
+---
+title: hardware
+crosslinks:
+- Amd
+- buildapc
+- pcmasterrace
+- nvidia
+- buildapcsales
+- intel
+- pcgaming
+- overclocking
+- 600x450
+- AMD_Stock
+- EtherMining
+- Windows10
+- technology
+- oculus
+- askscience
+- apple
+- john_yukis_bots
+- Monitors
+- AyyMD
+- amd
+---

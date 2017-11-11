@@ -1,0 +1,24 @@
+---
+title: tucker_carlson
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- TheNewRight
+- autotldr
+- youtubot
+- anti_gif_bot
+- politics
+- news
+- tmsbmeta
+- PresidentTrump2020
+- redacted
+- pics
+- BillNyeSucks
+- ShitPoliticsSays
+- livven
+- JordanPeterson
+- SubredditDrama
+- conspiracy
+- EnoughTrumpSpam
+- IsItBullshit
+---

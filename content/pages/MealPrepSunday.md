@@ -1,0 +1,24 @@
+---
+title: MealPrepSunday
+crosslinks:
+- budgetcooking
+- youtubefactsbot
+- u_imguralbumbot
+- EatCheapAndHealthy
+- slowcooking
+- youtubot
+- 1200isplenty
+- MassdropBot
+- Bento
+- MeatlessMealPrep
+- hxcjosh23mealprep
+- GifRecipes
+- ketorecipes
+- keto
+- gainit
+- 1500isplenty
+- AskReddit
+- instantpot
+- Fitness
+- WeWantPlates
+---

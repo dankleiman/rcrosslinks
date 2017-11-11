@@ -1,0 +1,24 @@
+---
+title: Boise
+crosslinks:
+- autotldr
+- youtubefactsbot
+- funny
+- videos
+- u_imguralbumbot
+- youtubot
+- subaru
+- GrMD
+- livven
+- Ohio
+- '2013'
+- excgarated
+- TheRedPill
+- TumblrInAction
+- Shitstatistssay
+- WTF
+- climbing
+- facepalm
+- HVAC
+- tmsbmeta
+---

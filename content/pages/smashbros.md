@@ -1,0 +1,24 @@
+---
+title: smashbros
+crosslinks:
+- youtubefactsbot
+- youtubot
+- SSBM
+- SmashGameBot
+- SSBPM
+- u_imguralbumbot
+- Kappa
+- livven
+- xkcd
+- CrazyHand
+- IAmA
+- wow
+- alotabot
+- 20XXstories
+- nba
+- smashgifs
+- NintendoSwitch
+- OutOfTheLoop
+- autourbanbot
+- legaladvice
+---

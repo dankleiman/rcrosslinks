@@ -1,0 +1,24 @@
+---
+title: HistoryWhatIf
+crosslinks:
+- AskHistorians
+- HistoricalWhatIf
+- TimeTravelWhatIf
+- youtubefactsbot
+- imaginarymaps
+- xkcd
+- FutureWhatIf
+- standupshots
+- youtubot
+- AskEngineers
+- HistoryAnecdotes
+- AskReddit
+- collapse
+- MassdropBot
+- todayilearned
+- CGPGrey
+- AlternateHistory
+- MagicalWhatIf
+- whowouldwin
+- ShitWehraboosSay
+---

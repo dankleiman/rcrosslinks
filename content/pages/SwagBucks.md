@@ -1,0 +1,24 @@
+---
+title: SwagBucks
+crosslinks:
+- beermoney
+- u_imguralbumbot
+- perktv
+- giftcardexchange
+- EngageMetv
+- youtubefactsbot
+- beermoneyhumor
+- anti_gif_bot
+- 210ipg2
+- WorkOnline
+- tacobell
+- mturk
+- prizerebel
+- InstaGC
+- freebies
+- SLRep
+- childfree
+- sjwhate
+- NintendoSwitchDeals
+- beermoneyuk
+---

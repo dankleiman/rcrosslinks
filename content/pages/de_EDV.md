@@ -1,0 +1,24 @@
+---
+title: de_EDV
+crosslinks:
+- de
+- techsupport
+- netsec
+- informatik
+- linux_gaming
+- xkcd
+- theydidthemath
+- PaidForWinRAR
+- firefox
+- u_imguralbumbot
+- raspberry_pi
+- linux
+- surface
+- DIY
+- autotldr
+- VPN
+- buildapc
+- MechanicalKeyboards
+- esp8266
+- selfhosted
+---

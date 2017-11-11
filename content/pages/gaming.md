@@ -1,0 +1,24 @@
+---
+title: gaming
+crosslinks:
+- AskReddit
+- funny
+- Games
+- pics
+- NintendoSwitch
+- IAmA
+- Overwatch
+- gamingsuggestions
+- battlefield_one
+- tipofmyjoystick
+- titanfall
+- videos
+- Rainbow6
+- PUBATTLEGROUNDS
+- gifs
+- PS4
+- todayilearned
+- skyrim
+- RocketLeague
+- buildapc
+---

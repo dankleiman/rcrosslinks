@@ -1,0 +1,24 @@
+---
+title: dxm
+crosslinks:
+- youtubefactsbot
+- Drugs
+- drugscirclejerk
+- u_imguralbumbot
+- youtubot
+- Psychonaut
+- anti_gif_bot
+- Shoplifting
+- tmsbmeta
+- alotabot
+- DPH
+- rehabaddicts
+- tooktoomuch
+- trees
+- researchchemicals
+- Serendipity
+- DrugsOver30
+- deathgrips
+- LSD
+- 80sdesign
+---

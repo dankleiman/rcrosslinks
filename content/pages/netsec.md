@@ -1,0 +1,24 @@
+---
+title: netsec
+crosslinks:
+- sysadmin
+- AskNetsec
+- worldnews
+- google
+- linux
+- securityCTF
+- Bitcoin
+- IAmA
+- ReverseEngineering
+- OpenToAllCTFteam
+- security
+- programming
+- john_yukis_bots
+- Bittorrent
+- CasualConversation
+- SteamBot
+- u_imguralbumbot
+- Android
+- privacy
+- bigquery
+---

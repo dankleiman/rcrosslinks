@@ -1,0 +1,24 @@
+---
+title: Berserk
+crosslinks:
+- berserklejerk
+- youtubot
+- tmsbmeta
+- anime
+- darksouls
+- Pixiv
+- Manga_Collection
+- ForHonorEmblems
+- alotabot
+- elfdimensionstyle
+- asoiaf
+- enlightenedbirdmen
+- biomutant
+- PrequelMemes
+- shittydarksouls
+- arrow
+- KingkillerChronicle
+- armoredwomen
+- Art
+- bodymods
+---

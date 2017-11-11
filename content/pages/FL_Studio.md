@@ -1,0 +1,24 @@
+---
+title: FL_Studio
+crosslinks:
+- youtubefactsbot
+- edmproduction
+- youtubot
+- u_imguralbumbot
+- WeAreTheMusicMakers
+- edmprodcirclejerk
+- synthesizers
+- Drumkits
+- alotabot
+- makinghiphop
+- ableton
+- musicproduction
+- MechanicalKeyboards
+- torrentrequests
+- shrooms
+- theencounter
+- 2qn8e21
+- 2rc8nrc
+- hiphopheads
+- sounddesign
+---

@@ -1,0 +1,24 @@
+---
+title: Survival
+crosslinks:
+- youtubefactsbot
+- foraging
+- youtubot
+- autotldr
+- xkcd
+- livven
+- ems
+- Bushcraft
+- AskReddit
+- preppers
+- MassdropBot
+- IAmA
+- PhotoshopRequest
+- news
+- Serendipity
+- electronics
+- mallninjashit
+- solar
+- askscience
+- mycology
+---

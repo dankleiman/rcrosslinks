@@ -1,0 +1,24 @@
+---
+title: DebateVaccines
+crosslinks:
+- VaccinesCause
+- AntiVaccineMemes
+- confession
+- insanepeoplefacebook
+- conspiracy
+- antivax
+- Jokes
+- facepalm
+- conspiracyhub
+- worldnews
+- MassdropBot
+- VaccineCausesAutism
+- science
+- skeptic
+- NoCockHeads
+- 911truth
+- todayilearned
+- flatearth
+- videos
+- DebateVaccine
+---

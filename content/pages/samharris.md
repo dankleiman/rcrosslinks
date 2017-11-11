@@ -1,0 +1,24 @@
+---
+title: samharris
+crosslinks:
+- badphilosophy
+- youtubefactsbot
+- JordanPeterson
+- askphilosophy
+- philosophy
+- The_Donald
+- IAmA
+- AskPhilosophyFAQ
+- youtubot
+- autotldr
+- Classical_Liberals
+- ChristopherHitchens
+- altright
+- politics
+- slatestarcodex
+- worldnews
+- JoeRogan
+- changemyview
+- xkcd
+- KotakuInAction
+---

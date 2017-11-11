@@ -1,0 +1,24 @@
+---
+title: malelivingspace
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- AmateurRoomPorn
+- DIY
+- audiophile
+- battlestations
+- Mid_Century
+- Zeos
+- john_yukis_bots
+- xkcd
+- Hue
+- ThriftStoreHauls
+- AskReddit
+- vinyl
+- Frugal
+- InteriorDesign
+- starterpacks
+- BuyItForLife
+- MassdropBot
+- brag
+---

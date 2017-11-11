@@ -1,0 +1,24 @@
+---
+title: CFBOffTopic
+crosslinks:
+- CFB
+- AskReddit
+- '2013'
+- xkcd
+- highqualitygifs
+- IAmA
+- autourbanbot
+- baseball
+- CollegeBasketball
+- hockey
+- nfl
+- todayilearned
+- soccer
+- news
+- politics
+- OutOfTheLoop
+- GifRecipes
+- funny
+- gifs
+- nba
+---

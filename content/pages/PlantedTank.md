@@ -1,0 +1,24 @@
+---
+title: PlantedTank
+crosslinks:
+- Aquariums
+- AquaSwap
+- u_imguralbumbot
+- youtubefactsbot
+- bettafish
+- livven
+- Jarrariums
+- anti_gif_bot
+- shrimptank
+- MassdropBot
+- youtubot
+- plantedtanks
+- botwatch
+- whatsthisplant
+- john_yukis_bots
+- aquaswap
+- mildlypenis
+- u
+- AquariumMemes
+- SpaceBuckets
+---

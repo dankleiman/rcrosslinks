@@ -1,0 +1,24 @@
+---
+title: AmericanPolitics
+crosslinks:
+- autotldr
+- youtubefactsbot
+- news
+- youtubot
+- politics
+- botwatch
+- POLITIC
+- facepalm
+- media_criticism
+- rainbowgathering
+- The_Donald
+- me_irl
+- worldpolitics
+- DuplicatesBot
+- Conservative
+- Trump_Watch
+- WayOfTheBern
+- isrconspiracyracist
+- EndlessWar
+- FrenchWestIndies
+---

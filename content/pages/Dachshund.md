@@ -1,0 +1,24 @@
+---
+title: Dachshund
+crosslinks:
+- livven
+- u_imguralbumbot
+- anti_gif_bot
+- youtubefactsbot
+- botwatch
+- aww
+- blurrypicturesofdogs
+- beagle
+- pics
+- MassdropBot
+- me_irl
+- whatintarnation
+- AnimalsBeingHilarious
+- OldManDog
+- hammockcamping
+- BeforeNAfterAdoption
+- Dachsund
+- rarepuppers
+- cringepics
+- sploot
+---

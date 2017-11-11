@@ -1,0 +1,24 @@
+---
+title: gamingpc
+crosslinks:
+- youtubefactsbot
+- pcmasterrace
+- hardwareswap
+- livven
+- buildapcsales
+- watercooling
+- buildapc
+- reactiongifs
+- multiwall
+- youtubot
+- AyyMD
+- HardwareSwapUK
+- accidentalswastika
+- decred
+- firstworldproblems
+- CrowdCartelGaming
+- soulworkeronline
+- overclocking
+- me_irl
+- DumpsterDiving
+---

@@ -1,0 +1,24 @@
+---
+title: placestart
+crosslinks:
+- place
+- MonsterHunter
+- TheBlueCorner
+- MassdropBot
+- placeTARDIS
+- Metalcore
+- masseffect
+- Berserk
+- darksouls
+- earthbound
+- 2007scape
+- splatoon
+- uofu
+- hatsune
+- apple
+- Drama
+- roblox
+- Undertale
+- Overwatch
+- Moondye7
+---

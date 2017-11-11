@@ -1,0 +1,24 @@
+---
+title: flexibility
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Fitness
+- yoga
+- bodyweightfitness
+- titlegore
+- asanas
+- livven
+- YogaWorkouts
+- john_yukis_bots
+- Serendipity
+- AdvancedFitness
+- autourbanbot
+- overcominggravity
+- u_imguralbumbot
+- Posture
+- bouldering
+- autotldr
+- HappyBody
+- ashtanga
+---

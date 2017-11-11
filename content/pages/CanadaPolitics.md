@@ -1,0 +1,24 @@
+---
+title: CanadaPolitics
+crosslinks:
+- canada
+- autotldr
+- vancouver
+- metacanada
+- The_Donald
+- badeconomics
+- onguardforthee
+- Economics
+- AskHistorians
+- science
+- worldnews
+- neoliberal
+- Quebec
+- toronto
+- ndp
+- OutOfTheLoop
+- socialism
+- halifax
+- Drama
+- pics
+---

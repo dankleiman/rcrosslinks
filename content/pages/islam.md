@@ -1,0 +1,24 @@
+---
+title: islam
+crosslinks:
+- autotldr
+- youtubefactsbot
+- exmuslim
+- news
+- youtubot
+- worldnews
+- Izlam
+- religion
+- Hijabis
+- DebateReligion
+- Christianity
+- The_Donald
+- pakistan
+- AskHistorians
+- AskReddit
+- badhistory
+- LearnIslaam
+- AgainstHateSubreddits
+- politics
+- Islaam
+---

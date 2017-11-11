@@ -1,0 +1,24 @@
+---
+title: NEU
+crosslinks:
+- BostonU
+- youtubefactsbot
+- Huskers
+- sooners
+- Thicc
+- place
+- ApplyingToCollege
+- livven
+- youtubot
+- urbanexploration
+- placeAtlas
+- AskReddit
+- userexperience
+- TexasTech
+- movies
+- LateStageCapitalism
+- redditrequest
+- ainbowroad
+- autotldr
+- nexus6
+---

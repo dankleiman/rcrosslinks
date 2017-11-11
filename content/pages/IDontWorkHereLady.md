@@ -1,0 +1,24 @@
+---
+title: IDontWorkHereLady
+crosslinks:
+- youtubefactsbot
+- youtubot
+- AskReddit
+- MaliciousCompliance
+- iamverybadass
+- JUSTNOMIL
+- staircasewit
+- ActLikeYouBelong
+- TalesFromTheFrontDesk
+- totallynotrobots
+- wholesome
+- xkcd
+- talesfromcallcenters
+- pettyrevenge
+- unexpectedhogwarts
+- talesfromsecurity
+- bestof
+- excgarated
+- Bandnames
+- OutOfTheLoop
+---

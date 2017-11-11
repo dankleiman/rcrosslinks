@@ -1,0 +1,24 @@
+---
+title: uspolitics
+crosslinks:
+- autotldr
+- youtubefactsbot
+- The_Donald
+- politics
+- DemocratsUnbiased2
+- pics
+- IAmA
+- RadicalFeminism
+- waist
+- WayOfTheBern
+- Fuckthealtright
+- theNew_Donald
+- todayilearned
+- DeepGreenResistance
+- NegativeWithGold
+- SandersForPresident
+- Anthropology
+- insanepeoplereddit
+- ShitLiberalsSay
+- TrueReddit
+---

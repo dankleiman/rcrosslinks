@@ -1,0 +1,24 @@
+---
+title: exmormon
+crosslinks:
+- exmo_selfies
+- mormon
+- ExmormonBookshelf
+- atheism
+- latterdaysaints
+- autourbanbot
+- xkcd
+- autotldr
+- MormonismKillsLove
+- exjw
+- ExitStories
+- StreetEpistemology
+- bestof_exmormon
+- mormonscholar
+- todayilearned
+- MixedFaithLove
+- Exittors
+- mormon_letters
+- Exmo_Spirituality
+- patriarchalblessing
+---

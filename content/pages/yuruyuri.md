@@ -1,0 +1,24 @@
+---
+title: yuruyuri
+crosslinks:
+- Pixiv
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- Roboragi
+- ChinatsuYoshikawa
+- tmsbmeta
+- wholesomeyuri
+- anime_irl
+- unexpectedsabaton
+- translator
+- MassdropBot
+- Animemes
+- BonajMemeoj
+- youtubot
+- dontdeadopeninside
+- bonehurtingjuice
+- LoveLive
+- u_ena9219
+- u_imguralbumbot
+---

@@ -1,0 +1,24 @@
+---
+title: depression_help
+crosslinks:
+- youtubefactsbot
+- getdisciplined
+- NoMoreBamboozles
+- youtubot
+- alotabot
+- ADHD
+- me_irl
+- amiugly
+- visualsnow
+- IWantOut
+- legaladvice
+- i_need_help
+- r4r
+- DOTA
+- botwatch
+- depression
+- tifu
+- financialindependence
+- KindVoice
+- tmsbmeta
+---

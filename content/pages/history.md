@@ -1,0 +1,24 @@
+---
+title: history
+crosslinks:
+- AskHistorians
+- badhistory
+- todayilearned
+- AskReddit
+- IAmA
+- HistoryAnecdotes
+- Anthropology
+- MapPorn
+- explainlikeimfive
+- pics
+- unitedkingdom
+- tifu
+- askscience
+- HistoryPorn
+- AcademicBiblical
+- mildlyinteresting
+- europe
+- politics
+- writing
+- geography
+---

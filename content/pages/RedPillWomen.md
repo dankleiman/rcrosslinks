@@ -1,0 +1,24 @@
+---
+title: RedPillWomen
+crosslinks:
+- TheRedPill
+- PurplePillDebate
+- youtubefactsbot
+- RPChristians
+- AskWomen
+- relationship_advice
+- tmsbmeta
+- curlyhair
+- askMRP
+- asktrp
+- AsianBeauty
+- progresspics
+- StrongCurves
+- aww
+- Fitness
+- loseit
+- TrueChristian
+- muacjdiscussion
+- slowcooking
+- ABraThatFits
+---

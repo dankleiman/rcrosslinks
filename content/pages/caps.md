@@ -1,0 +1,24 @@
+---
+title: caps
+crosslinks:
+- youtubefactsbot
+- hockey
+- puckstreams
+- hockeyjerseys
+- penguins
+- u_imguralbumbot
+- OttawaSenators
+- chicksinhockeyjerseys
+- youtubot
+- autourbanbot
+- GoldenKnightsHockey
+- GoneMild
+- TagPro
+- devils
+- NHLstatheads
+- pens
+- nhl_games
+- redsox
+- Drama
+- HighQualityGifs
+---

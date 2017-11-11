@@ -1,0 +1,24 @@
+---
+title: Wicca
+crosslinks:
+- youtubefactsbot
+- witchcraft
+- occult
+- youtubot
+- u_imguralbumbot
+- TheImperialCult
+- TraditionalWicca
+- pagan
+- careeradvice
+- excgarated
+- AltarsandShrines
+- SubredditDrama
+- OpenMindedPath
+- Serendipity
+- InternetCommentEtiq
+- satanism
+- MassdropBot
+- magick
+- tarot
+- infp
+---

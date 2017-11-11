@@ -1,0 +1,24 @@
+---
+title: paris
+crosslinks:
+- SocialParis
+- france
+- youtubefactsbot
+- u_imguralbumbot
+- autotldr
+- ParisTravelGuide
+- europe
+- psg
+- ShitAmericansSay
+- The_Dumbass
+- pics
+- ShitPoliticsSays
+- MovieStunts
+- IsAnybodyHere
+- randomactsofmusic
+- botwatch
+- mildlyinteresting
+- livven
+- opera
+- rue
+---

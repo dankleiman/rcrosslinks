@@ -1,0 +1,24 @@
+---
+title: copypasta
+crosslinks:
+- DankMemeArchive
+- AskReddit
+- youtubefactsbot
+- tmsbmeta
+- CringeAnarchy
+- me_irl
+- emojipasta
+- dankmemes
+- videos
+- ComedyCemetery
+- botsrights
+- youtubot
+- REEEEEEEEEE
+- MassdropBot
+- pics
+- 4chan
+- iamverysmart
+- SubredditDrama
+- gaming
+- Overwatch
+---

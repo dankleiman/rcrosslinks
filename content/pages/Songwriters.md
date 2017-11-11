@@ -1,0 +1,24 @@
+---
+title: Songwriters
+crosslinks:
+- youtubefactsbot
+- Songwriting
+- MusicInTheMaking
+- deadline_writers
+- songwriterscircle
+- CageTheElephant
+- gameofbands
+- youtubot
+- CoverMySong
+- songaweek
+- ThisIsOurMusic
+- atlantamusic
+- GetMotivated
+- MassdropBot
+- lyrics
+- musicmakers
+- MusicCritique
+- SongwritingPrompts
+- OCPoetry
+- singing
+---

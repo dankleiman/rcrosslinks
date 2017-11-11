@@ -1,0 +1,24 @@
+---
+title: ActLikeYouBelong
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- xkcd
+- videos
+- LivestreamFail
+- tmsbmeta
+- legaladvice
+- autotldr
+- SocialEngineering
+- beetlejuicing
+- gonewild
+- gatekeeping
+- MassdropBot
+- SubredditDrama
+- anti_gif_bot
+- AskReddit
+- botwatch
+- soccer
+- lewronggeneration
+---

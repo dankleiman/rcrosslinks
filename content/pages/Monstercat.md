@@ -1,0 +1,24 @@
+---
+title: Monstercat
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- EDM
+- place
+- john_yukis_bots
+- electronicmusic
+- trap
+- youtubot
+- subgenreid
+- u_imguralbumbot
+- MonstercatFlairTest
+- xkcd
+- totallynotrobots
+- anti_gif_bot
+- mcfanfics
+- headphones
+- SummerReddit
+- MonstercatTestCSS
+- dataisbeautiful
+- Music
+---

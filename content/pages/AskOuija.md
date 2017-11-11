@@ -1,0 +1,24 @@
+---
+title: AskOuija
+crosslinks:
+- wholesomeouija
+- noshitouija
+- jesuschristouija
+- SuicideWatch
+- youtubefactsbot
+- autourbanbot
+- OuijaIsFuckingLit
+- tmsbmeta
+- kinkyouija
+- Ouija_irl
+- SavageOuija
+- furry_irl
+- youtubot
+- Ooer
+- 2ouijairl4ouijairl
+- PrequelMemes
+- GrammarNaziOuija
+- AskReddit
+- SubAutoCorrectBot
+- nohomo_bot
+---

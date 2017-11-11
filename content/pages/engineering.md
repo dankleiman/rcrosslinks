@@ -1,0 +1,24 @@
+---
+title: engineering
+crosslinks:
+- youtubot
+- xkcd
+- interestingasfuck
+- EngineeringStudents
+- IAmA
+- skeptic
+- jobs
+- energy
+- AskEngineers
+- askscience
+- iamverysmart
+- ECE
+- AskReddit
+- oil
+- towerchallenge
+- whatisthisthing
+- technology
+- ChemicalEngineering
+- civilengineering
+- gifs
+---

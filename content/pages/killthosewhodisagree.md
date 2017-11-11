@@ -1,0 +1,24 @@
+---
+title: killthosewhodisagree
+crosslinks:
+- youtubefactsbot
+- iamverybadass
+- Physical_Removal
+- botwatch
+- ShitLiberalsSay
+- Drama
+- ShitPoliticsSays
+- AskReddit
+- The_Donald
+- circlebroke2
+- insanepeoplefacebook
+- LateStageCapitalism
+- AskFeminists
+- Anarchism
+- ComedyCemetery
+- gatekeeping
+- youtubecomments
+- UnexpectedProgramming
+- ChargeYourPhone
+- EnoughCommieSpam
+---

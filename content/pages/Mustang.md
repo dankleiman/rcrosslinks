@@ -1,0 +1,24 @@
+---
+title: Mustang
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- classicmustangs
+- youtubot
+- AutoDetailing
+- NewedgeMustang
+- cars
+- livven
+- john_yukis_bots
+- autourbanbot
+- botwatch
+- Justrolledintotheshop
+- MassdropBot
+- Ford
+- EngineBuilding
+- autotldr
+- foxmustang
+- anti_gif_bot
+- MustangTech
+- camaro
+---

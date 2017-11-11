@@ -1,0 +1,24 @@
+---
+title: CGPGrey2
+crosslinks:
+- youtubefactsbot
+- HelloInternet
+- EndFPTP
+- autotldr
+- CGPGrey
+- youtubot
+- videos
+- Cortex
+- vexillology
+- badeconomics
+- MachineLearning
+- ShittyLifeProTips
+- pics
+- vulkan
+- apple
+- shockwaveporn
+- place
+- helpgrey
+- tolkienfans
+- keming
+---

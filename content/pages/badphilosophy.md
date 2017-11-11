@@ -1,0 +1,24 @@
+---
+title: badphilosophy
+crosslinks:
+- samharris
+- askphilosophy
+- philosophy
+- JordanPeterson
+- IAmA
+- AskReddit
+- AskPhilosophyFAQ
+- DebateReligion
+- atheism
+- Drama
+- u_imguralbumbot
+- neoliberal
+- todayilearned
+- badhistory
+- BadSocialScience
+- changemyview
+- DebateAnAtheist
+- Showerthoughts
+- SubredditDrama
+- AcademicPhilosophy
+---

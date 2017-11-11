@@ -1,0 +1,24 @@
+---
+title: Firefighting
+crosslinks:
+- autotldr
+- anti_gif_bot
+- MassdropBot
+- autourbanbot
+- rfaf
+- Wildfire
+- ems
+- ProtectAndServe
+- '2013'
+- Documentaries
+- redding
+- AbandonedPorn
+- patchtrading
+- TEMS
+- LookImAFirefighter
+- Reddit_Burns
+- Firearms
+- Showerthoughts
+- gatekeeping
+- worldnews
+---

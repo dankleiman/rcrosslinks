@@ -1,0 +1,24 @@
+---
+title: woof_irl
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- u_imguralbumbot
+- tmsbmeta
+- i_irl
+- rarepuppers
+- aww
+- youtubot
+- gifsthatendtoosoon
+- photoshopbattles
+- NamFlashbacks
+- Zoomies
+- Eyebleach
+- boottoobig
+- Notakeonlythrow
+- DankMemeArchive
+- barkour
+- justdogbeardthings
+- hmmm
+---

@@ -1,0 +1,24 @@
+---
+title: verizon
+crosslinks:
+- VerizonUDP
+- tmobile
+- Sprint
+- youtubefactsbot
+- autotldr
+- Bestbuy
+- ATT
+- NoContract
+- apple
+- Fios
+- youtubot
+- GooglePixel
+- technology
+- jailbreak
+- HomeNetworking
+- john_yukis_bots
+- GalaxyS7
+- googlepixel
+- carriers
+- ImGoingToHellForThis
+---

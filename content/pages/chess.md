@@ -1,0 +1,24 @@
+---
+title: chess
+crosslinks:
+- youtubefactsbot
+- AnarchyChess
+- xkcd
+- youtubot
+- livven
+- alotabot
+- autotldr
+- tmsbmeta
+- norwayonreddit
+- ATBGE
+- billiards
+- chessporn
+- programming
+- announcements
+- woodworking
+- askscience
+- chessbeginners
+- SubredditDrama
+- composer
+- ChessBooks
+---

@@ -1,0 +1,24 @@
+---
+title: gamecollecting
+crosslinks:
+- youtubefactsbot
+- GameSale
+- retrogaming
+- gameswap
+- crtgaming
+- tmsbmeta
+- originalxbox
+- Flipping
+- Shittygamecollecting
+- Gamecube
+- gaming
+- Gameboy
+- retrogameswap
+- dreamcast
+- consolerepair
+- vita
+- ThriftStoreHauls
+- RetroGamingNetwork
+- youtubot
+- snes
+---

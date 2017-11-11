@@ -1,0 +1,24 @@
+---
+title: spirituality
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Meditation
+- Christianity
+- conspiracy
+- Retconned
+- AskReddit
+- awakened
+- ChildrenOfTheLight
+- HighStrangeness
+- occult
+- Buddhism
+- lawofattraction
+- CosmicDisclosure
+- Echerdex
+- chrisolivertimes
+- C_S_T
+- zen
+- schizophrenia
+- energy_work
+---

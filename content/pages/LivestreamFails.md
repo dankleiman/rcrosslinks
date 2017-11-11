@@ -1,0 +1,24 @@
+---
+title: LivestreamFails
+crosslinks:
+- youtubefactsbot
+- LivestreamFail
+- poker
+- MassdropBot
+- TwitchHighlights
+- youtubot
+- DotA2
+- Yogscast
+- controllablewebcams
+- Ice_Poseidon
+- roguelikes
+- gaming
+- HyperRPG
+- thomasthedankengine
+- speedrun
+- cynicalbritofficial
+- cataclysmdda
+- u_imguralbumbot
+- OutOfTheLoop
+- IAmA
+---

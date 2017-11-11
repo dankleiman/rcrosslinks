@@ -1,0 +1,24 @@
+---
+title: shittymorph
+crosslinks:
+- AskReddit
+- funny
+- livven
+- gifs
+- pics
+- tmsbmeta
+- mildlyinteresting
+- youtubefactsbot
+- aww
+- movies
+- IAmA
+- gaming
+- MaliciousCompliance
+- ainbowroad
+- LifeProTips
+- mildlyinfuriating
+- SAVEBRENDAN
+- StevenAveryIsGuilty
+- FreeCompliments
+- AdviceAnimals
+---

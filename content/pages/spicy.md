@@ -1,0 +1,24 @@
+---
+title: spicy
+crosslinks:
+- HotPeppers
+- u_imguralbumbot
+- youtubefactsbot
+- hotsauce
+- MassdropBot
+- hotsaucerecipes
+- metric_units
+- Peppers
+- arresteddevelopment
+- autotldr
+- Louisville
+- OutOfTheLoop
+- pics
+- seinfeld
+- hydro
+- LifeProTips
+- tattoos
+- science
+- youtubot
+- shittyaskscience
+---

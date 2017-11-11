@@ -1,0 +1,24 @@
+---
+title: science
+crosslinks:
+- askscience
+- IAmA
+- todayilearned
+- youtubot
+- BoredDead
+- AskReddit
+- Futurology
+- worldnews
+- AskHistorians
+- Microbiome
+- pics
+- dataisbeautiful
+- explainlikeimfive
+- changemyview
+- space
+- funny
+- asktransgender
+- NeutralPolitics
+- psychology
+- gifs
+---

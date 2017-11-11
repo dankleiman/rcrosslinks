@@ -1,0 +1,24 @@
+---
+title: realmadrid
+crosslinks:
+- youtubefactsbot
+- soccer
+- anti_gif_bot
+- youtubot
+- Barca
+- livven
+- u_imguralbumbot
+- MassdropBot
+- footballhighlights
+- soccercirclejerk
+- nohomo_bot
+- BrasilOnReddit
+- acesoccerstreams
+- funny
+- SoccerDownloadClub
+- alotabot
+- soccerstreams
+- GODO
+- reddevils
+- barca
+---

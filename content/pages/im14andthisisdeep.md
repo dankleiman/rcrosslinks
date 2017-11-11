@@ -1,0 +1,24 @@
+---
+title: im14andthisisdeep
+crosslinks:
+- youtubefactsbot
+- MassdropBot
+- botwatch
+- tmsbmeta
+- u_imguralbumbot
+- youtubot
+- xkcd
+- lewronggeneration
+- LateStageCapitalism
+- ComedyCemetery
+- dontdeadopeninside
+- PhonesAreBad
+- niceguys
+- SubAutoCorrectBot
+- pics
+- bonehurtingjuice
+- iamverybadass
+- livven
+- DeepFriedMemes
+- GetMotivated
+---

@@ -1,0 +1,24 @@
+---
+title: Heavymind
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Art
+- livven
+- anti_gif_bot
+- woahdude
+- ImageStabilization
+- botwatch
+- creepy
+- u_imguralbumbot
+- doodles
+- interestingasfuck
+- Perceptions
+- ImaginaryMonsters
+- ImaginaryGiants
+- movies
+- UnusualArt
+- perfectloops
+- ArtFundamentals
+- ImaginaryWTF
+---

@@ -1,0 +1,24 @@
+---
+title: Digibro
+crosslinks:
+- anime
+- youtubefactsbot
+- youtubot
+- autourbanbot
+- buildaquietpc
+- xkcd
+- television
+- u_imguralbumbot
+- reccompendium
+- grandorder
+- fireemblem
+- AskPhilosophyFAQ
+- BokuNoHeroAcademia
+- fatestaynight
+- BetterContentCreators
+- INTP
+- botwatch
+- OutOfTheLoop
+- decipher
+- Animesuggest
+---

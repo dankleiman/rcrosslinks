@@ -1,0 +1,24 @@
+---
+title: oakland
+crosslinks:
+- sanfrancisco
+- bayarea
+- Lyft
+- Portland
+- ShitWehraboosSay
+- science
+- sanleandro
+- bodyweightfitness
+- youtubot
+- wediditreddit
+- xkcd
+- politics
+- u_imguralbumbot
+- pics
+- tmsbmeta
+- OutOfTheLoop
+- IAmA
+- LifeProTips
+- botwatch
+- jobs
+---

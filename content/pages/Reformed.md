@@ -1,0 +1,24 @@
+---
+title: Reformed
+crosslinks:
+- Christianity
+- youtubefactsbot
+- ReformedHumor
+- alotabot
+- judaism
+- philosophy
+- Christians
+- news
+- worldnews
+- TrueChristian
+- Catholicism
+- brokehugs
+- CrazyIdeas
+- autotldr
+- announcements
+- reformedwomen
+- TheArmorofGod
+- ChurchPlanters
+- ReformedLeft
+- theology
+---

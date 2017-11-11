@@ -1,0 +1,24 @@
+---
+title: sadcringe
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- Incels
+- cringepics
+- The_Donald
+- botwatch
+- pics
+- CringeAnarchy
+- AskReddit
+- Drama
+- trashy
+- niceguys
+- xkcd
+- tmsbmeta
+- SubredditDrama
+- john_yukis_bots
+- autourbanbot
+- EnoughTrumpSpam
+- livven
+---

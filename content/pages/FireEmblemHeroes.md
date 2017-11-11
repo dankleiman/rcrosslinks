@@ -1,0 +1,24 @@
+---
+title: FireEmblemHeroes
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- fireemblem
+- anti_gif_bot
+- livven
+- john_yukis_bots
+- tmsbmeta
+- botpopularitybot
+- alotabot
+- FFBraveExvius
+- xkcd
+- FFRecordKeeper
+- Pixiv
+- autourbanbot
+- grandorder
+- hearthstone
+- Pay_Respects
+- MassdropBot
+- PuzzleAndDragons
+- OutOfTheLoop
+---

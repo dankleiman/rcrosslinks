@@ -1,0 +1,24 @@
+---
+title: shamelessplug
+crosslinks:
+- MassdropBot
+- anti_gif_bot
+- ShitEvilModsSay
+- youtubefactsbot
+- NotMeGamingChannel
+- happy
+- DOLV_Oasis
+- vids
+- botwatch
+- IAmA
+- CringeAnarchy
+- autotldr
+- FooDosage
+- videos
+- The_Donald
+- IMadeThis
+- thisisourmusic
+- me_irl
+- TombRaider
+- In_Flames
+---

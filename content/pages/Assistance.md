@@ -1,0 +1,24 @@
+---
+title: Assistance
+crosslinks:
+- borrow
+- LosAngeles
+- Random_Acts_Of_Pizza
+- RandomKindness
+- SampleSize
+- personalfinance
+- giftcardexchange
+- beermoney
+- borrowdeletes
+- CasualConversation
+- Food_Bank
+- tmsbmeta
+- signupsforpay
+- youtubot
+- EatCheapAndHealthy
+- almosthomeless
+- Design
+- namenerds
+- SuicideWatch
+- RandomActsOfPizza
+---

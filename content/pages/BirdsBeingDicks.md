@@ -1,0 +1,24 @@
+---
+title: BirdsBeingDicks
+crosslinks:
+- livven
+- youtubefactsbot
+- ChildrenFallingOver
+- iamverybadass
+- anti_gif_bot
+- AnimalsBeingJerks
+- youseeingthisshit
+- funny
+- Birbs
+- enoughinternet
+- SubredditDrama
+- RedditLaqueristas
+- Serendipity
+- todayilearned
+- titlegore
+- autourbanbot
+- DIY
+- dogs
+- pics
+- PeopleFuckingDying
+---

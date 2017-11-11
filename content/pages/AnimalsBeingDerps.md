@@ -1,0 +1,24 @@
+---
+title: AnimalsBeingDerps
+crosslinks:
+- livven
+- anti_gif_bot
+- aww
+- u_imguralbumbot
+- instant_regret
+- photoshopbattles
+- funny
+- uglypuppers
+- StoppedWorking
+- MassdropBot
+- FuckTokenBot
+- cats
+- OutOfTheLoop
+- tmsbmeta
+- teefies
+- StartledCats
+- WhatsWrongWithYourDog
+- rarepuppers
+- FullScorpion
+- RedditSilverRobot
+---

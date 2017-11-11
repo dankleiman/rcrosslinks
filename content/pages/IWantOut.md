@@ -1,0 +1,24 @@
+---
+title: IWantOut
+crosslinks:
+- germany
+- autotldr
+- TEFL
+- ShitAmericansSay
+- digitalnomad
+- argentina
+- newzealand
+- PuertoRico
+- armenia
+- legaladvice
+- IAmA
+- personalfinance
+- Denmark
+- AskEurope
+- youtubefactsbot
+- unitedkingdom
+- ukvisa
+- cscareerquestions
+- Drama
+- SameGrassButGreener
+---

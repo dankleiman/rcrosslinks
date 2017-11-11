@@ -1,0 +1,24 @@
+---
+title: Cooking
+crosslinks:
+- youtubefactsbot
+- iamveryculinary
+- food
+- youtubot
+- chefknives
+- castiron
+- EatCheapAndHealthy
+- AskCulinary
+- grilledcheese
+- recipes
+- SubredditDrama
+- GifRecipes
+- slowcooking
+- bestof
+- xkcd
+- PressureCooking
+- ramen
+- MealPrepSunday
+- Pizza
+- Breadit
+---

@@ -1,0 +1,24 @@
+---
+title: Hookers
+crosslinks:
+- youtubefactsbot
+- SexWorkers
+- Escorts
+- tmsbmeta
+- youtubot
+- DeadBedrooms
+- autotldr
+- dirtyr4r
+- nocontext
+- AskAnEscort
+- AskMen
+- hapas
+- TrueReddit
+- MorbidReality
+- SuicideWatch
+- adviceanimals
+- coaxedintoasnafu
+- WorkOnline
+- slavelabour
+- NSFWIAMA
+---

@@ -1,0 +1,24 @@
+---
+title: OneY
+crosslinks:
+- autotldr
+- MensLib
+- youtubot
+- youtubefactsbot
+- HailCorporate
+- FAUncensored
+- SampleSize
+- TheBluePill
+- autourbanbot
+- legaladvice
+- relationships
+- AskHistorians
+- news
+- AskMen
+- '2013'
+- Showerthoughts
+- TwoXChromosomes
+- Fitness
+- TopMindsOfReddit
+- tifu
+---

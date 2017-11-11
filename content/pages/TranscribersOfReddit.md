@@ -1,0 +1,24 @@
+---
+title: TranscribersOfReddit
+crosslinks:
+- ToR_Archive
+- MassdropBot
+- ScottishPeopleTwitter
+- oldpeoplefacebook
+- meirl
+- facepalm
+- HFY
+- BestOfReports
+- funny
+- tmsbmeta
+- ihavesex
+- videos
+- canadapoliticshumour
+- anime_irl
+- tumblr
+- trashy
+- IGBT
+- DnDGreentext
+- sadcringe
+- youtubot
+---

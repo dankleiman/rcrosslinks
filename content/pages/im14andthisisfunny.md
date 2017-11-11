@@ -1,0 +1,24 @@
+---
+title: im14andthisisfunny
+crosslinks:
+- DankMemeArchive
+- me_irl
+- botwatch
+- youtubefactsbot
+- lewronggeneration
+- funny
+- MassdropBot
+- autotldr
+- iFunny
+- u_imguralbumbot
+- hearthstone
+- nincirclejerk
+- tmsbmeta
+- AskReddit
+- im14andthisismeta
+- autourbanbot
+- pics
+- wildlypenis
+- Im14andthisisWTF
+- igtmsft
+---

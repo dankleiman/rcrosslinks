@@ -1,0 +1,24 @@
+---
+title: homelab
+crosslinks:
+- DataHoarder
+- homelabsales
+- youtubefactsbot
+- PFSENSE
+- sysadmin
+- linuxadmin
+- PleX
+- networking
+- xkcd
+- vmware
+- HomeNetworking
+- youtubot
+- freenas
+- Amd
+- Ubiquiti
+- HomeServer
+- selfhosted
+- john_yukis_bots
+- hardwareswap
+- talesfromtechsupport
+---

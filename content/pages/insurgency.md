@@ -1,0 +1,24 @@
+---
+title: insurgency
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- gaming
+- anti_gif_bot
+- iamverybadass
+- DayofInfamy
+- livven
+- Hawtschwitz
+- inspiration
+- trash
+- GamePhysics
+- GameDeals
+- buildapcforme
+- greentext
+- linux_gaming
+- interrobang
+- me_irl
+- arma
+- tmsbmeta
+---

@@ -1,0 +1,24 @@
+---
+title: dontfuckingsayit
+crosslinks:
+- youtubefactsbot
+- MassdropBot
+- itcosinedinaflash
+- ExplainMyDownvotes
+- RocketLeague
+- FuckTammy
+- highqualitygifs
+- AskReddit
+- IAmA
+- ledootgeneration
+- news
+- AskOuija
+- xkcd
+- theydidthefuckyou
+- tifu
+- videos
+- rarepuppers
+- interestingasfuck
+- theystuttered
+- botpopularitybot
+---

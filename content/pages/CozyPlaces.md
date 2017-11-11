@@ -1,0 +1,24 @@
+---
+title: CozyPlaces
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- pics
+- raining
+- livven
+- anti_gif_bot
+- japanpics
+- RoomPorn
+- AmateurRoomPorn
+- battlestations
+- MassdropBot
+- TinyHouses
+- autourbanbot
+- toomanypillows
+- crazystairs
+- mildlyinteresting
+- HailCorporate
+- vandwellers
+- botwatch
+- tmsbmeta
+---

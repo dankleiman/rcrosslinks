@@ -1,0 +1,24 @@
+---
+title: VaporwaveAesthetics
+crosslinks:
+- anti_gif_bot
+- youtubefactsbot
+- livven
+- intothetunnel
+- outrun
+- botwatch
+- u_imguralbumbot
+- pics
+- MassdropBot
+- mildlyinteresting
+- youtubot
+- EarthPorn
+- VaporwaveArt
+- Cyberpunk
+- Vaporwave
+- fakealbumcovers
+- Art
+- glitch_art
+- IAmA
+- MechanicalKeyboards
+---

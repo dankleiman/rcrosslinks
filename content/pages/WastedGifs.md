@@ -1,0 +1,24 @@
+---
+title: WastedGifs
+crosslinks:
+- livven
+- gifs
+- botwatch
+- videos
+- Predators
+- excgarated
+- news
+- Wellthatsucks
+- bestofworldstar
+- nocontext
+- therewasanattempt
+- titlegore
+- NegativeWithGold
+- AnimalsBeingJerks
+- combinedgifs
+- explainlikeimfive
+- oldpeoplefacebook
+- SubredditSimulator
+- tmsbmeta
+- hockey
+---

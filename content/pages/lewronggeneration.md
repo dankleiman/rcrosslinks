@@ -1,0 +1,24 @@
+---
+title: lewronggeneration
+crosslinks:
+- youtubot
+- u_imguralbumbot
+- xkcd
+- botwatch
+- tmsbmeta
+- AskReddit
+- The_Donald
+- forwardsfromgrandma
+- CringeAnarchy
+- lerightgeneration
+- funny
+- iamverysmart
+- killthosewhodisagree
+- gatekeeping
+- Libertarian
+- nocontext
+- ShitTheFalseSay
+- BlackPeopleTwitter
+- OutOfTheLoop
+- japancirclejerk
+---

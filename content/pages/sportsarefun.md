@@ -1,0 +1,24 @@
+---
+title: sportsarefun
+crosslinks:
+- livven
+- youtubefactsbot
+- hockey
+- sports
+- youtubot
+- baseball
+- videos
+- anti_gif_bot
+- MadeMeSmile
+- hawwkey
+- wholesomegifs
+- AskReddit
+- gifs
+- nba
+- formula1
+- SubAutoCorrectBot
+- nonononoyes
+- CollegeBasketball
+- happycrowds
+- ThatDidntHappen
+---

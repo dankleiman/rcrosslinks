@@ -1,0 +1,24 @@
+---
+title: funny
+crosslinks:
+- pics
+- AskReddit
+- gifs
+- aww
+- videos
+- IAmA
+- mildlyinteresting
+- photoshopbattles
+- WTF
+- todayilearned
+- OutOfTheLoop
+- Jokes
+- tifu
+- gaming
+- me_irl
+- botwatch
+- Showerthoughts
+- comics
+- ComedyCemetery
+- quityourbullshit
+---

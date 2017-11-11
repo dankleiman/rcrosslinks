@@ -1,0 +1,24 @@
+---
+title: TrashyText
+crosslinks:
+- TranscribersOfReddit
+- facebookdrama
+- insanepeoplefacebook
+- MassdropBot
+- youtubefactsbot
+- The_Donald
+- trashy
+- NSFWmomoftheyear
+- ihavesex
+- BadMensAnatomy
+- wtfdidijustread
+- sadcringe
+- JUSTNOMIL
+- rage
+- Incels
+- ChoosingBeggars
+- needamod
+- Badfaketexts
+- niceguys
+- bestof
+---

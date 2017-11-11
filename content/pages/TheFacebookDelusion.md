@@ -1,0 +1,24 @@
+---
+title: TheFacebookDelusion
+crosslinks:
+- youtubefactsbot
+- botwatch
+- unexpectedhogwarts
+- insanepeoplefacebook
+- xkcd
+- facepalm
+- trumpbubble
+- conspiratard
+- atheism
+- AskReddit
+- socialism
+- space
+- MapPorn
+- PoliticalDiscussion
+- iamverysmart
+- Sneks
+- DataHoarder
+- u_imguralbumbot
+- etymology
+- Serendipity
+---

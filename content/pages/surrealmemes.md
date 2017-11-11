@@ -1,0 +1,24 @@
+---
+title: surrealmemes
+crosslinks:
+- anti_gif_bot
+- tmsbmeta
+- livven
+- youtubefactsbot
+- u_imguralbumbot
+- SurrealLore
+- me_irl
+- youtubot
+- Ooer
+- bonehurtingjuice
+- DeepFriedMemes
+- botwatch
+- wholesomesurrealmemes
+- SCP
+- SubAutoCorrectBot
+- blandmemesofreality
+- nukedmemes
+- deepfriedsurrealmemes
+- botpopularitybot
+- MassdropBot
+---

@@ -1,0 +1,24 @@
+---
+title: harrypotter
+crosslinks:
+- youtubefactsbot
+- HPfanfiction
+- FanTheories
+- PottermoreWritings
+- u_imguralbumbot
+- HPRankdown
+- livven
+- hprankdown2
+- Wandsmith
+- john_yukis_bots
+- autourbanbot
+- Pottermore
+- AskReddit
+- Dueling
+- xkcd
+- lotr
+- botwatch
+- funny
+- anti_gif_bot
+- youtubot
+---

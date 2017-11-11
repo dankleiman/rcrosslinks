@@ -1,0 +1,24 @@
+---
+title: NintendoSwitch
+crosslinks:
+- GameDeals
+- youtubefactsbot
+- nintendo
+- splatoon
+- zelda
+- gaming
+- Breath_of_the_Wild
+- Games
+- tmsbmeta
+- Gamingcirclejerk
+- xkcd
+- Android
+- ARMS
+- NintendoNX
+- AskReddit
+- nocontext
+- RocketLeague
+- livven
+- wiiu
+- john_yukis_bots
+---

@@ -1,0 +1,24 @@
+---
+title: osx
+crosslinks:
+- apple
+- mac
+- applehelp
+- macsysadmin
+- youtubefactsbot
+- audioengineering
+- embedded
+- youtubot
+- u_imguralbumbot
+- EliteDangerous
+- unixporn
+- privacy
+- MacOSBeta
+- learnpython
+- applescript
+- technology
+- DataHoarder
+- ios
+- docker
+- MacOS
+---

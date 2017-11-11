@@ -1,0 +1,24 @@
+---
+title: ChargeYourPhone
+crosslinks:
+- MassdropBot
+- botwatch
+- fire_snyper
+- botsrights
+- me_irl
+- noshitouija
+- meirl
+- madlads
+- Tinder
+- dankmemes
+- ghettoglamourshots
+- oldpeoplefacebook
+- TitlePapercut
+- WTF
+- RobinHood
+- redditsync
+- quityourbullshit
+- funny
+- CringeAnarchy
+- puns
+---

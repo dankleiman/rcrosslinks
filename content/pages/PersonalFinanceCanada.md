@@ -1,0 +1,24 @@
+---
+title: PersonalFinanceCanada
+crosslinks:
+- personalfinance
+- churningcanada
+- financialindependence
+- youtubefactsbot
+- AskReddit
+- canada
+- CanadianInvestor
+- LendingLoop
+- vancouver
+- investing
+- u_imguralbumbot
+- tmsbmeta
+- MealPrepSunday
+- ynab
+- Questrade
+- fican
+- weedstocks
+- ottawa
+- youtubot
+- toronto
+---

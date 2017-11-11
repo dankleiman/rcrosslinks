@@ -1,0 +1,24 @@
+---
+title: whiteknighting
+crosslinks:
+- niceguys
+- TumblrInAction
+- CringeAnarchy
+- iamverybadass
+- u_imguralbumbot
+- badwomensanatomy
+- IAmA
+- gatekeeping
+- OkCupid
+- hittableFaces
+- AskReddit
+- youtubefactsbot
+- SignalYourVirtue
+- legaladvice
+- pussypassdenied
+- ImaginaryKnights
+- Fuckthealtright
+- excgarated
+- MGTOW
+- sadcringe
+---

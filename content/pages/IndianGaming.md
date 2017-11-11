@@ -1,0 +1,24 @@
+---
+title: IndianGaming
+crosslinks:
+- Steam
+- youtubefactsbot
+- pcmasterrace
+- u_imguralbumbot
+- india
+- Amd
+- youtubot
+- buildapcsales
+- Rainbow6
+- GameDeals
+- buildapc
+- G502MasterRace
+- linux_gaming
+- microsoftsoftwareswap
+- nvidia
+- IGSRep
+- SuggestALaptop
+- Overwatch
+- PS4Deals
+- MechanicalKeyboards
+---

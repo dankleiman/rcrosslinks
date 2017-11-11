@@ -1,0 +1,24 @@
+---
+title: aprilfools
+crosslinks:
+- AprilKnights
+- AskReddit
+- hacking
+- MassdropBot
+- asoiaf
+- joinrhino
+- AskHistorians
+- KerbalSpaceProgram
+- 3DS
+- pics
+- mariokart
+- pokemon
+- iameverywhere
+- announcements
+- wiiu
+- CFB
+- joinrobin
+- tifu
+- phgamers
+- h3h3productions
+---

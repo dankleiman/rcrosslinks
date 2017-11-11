@@ -1,0 +1,24 @@
+---
+title: soccercirclejerk
+crosslinks:
+- soccer
+- livven
+- Gunners
+- u_imguralbumbot
+- youtubefactsbot
+- tmsbmeta
+- anti_gif_bot
+- Barca
+- reddevils
+- AMAAggregator
+- OutOfTheLoop
+- jesuschristreddit
+- BBPGTDLR
+- gaming
+- gunners
+- botwatch
+- movies
+- FuckImOld
+- MCFC
+- RealLifeFootball
+---

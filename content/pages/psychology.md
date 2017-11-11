@@ -1,0 +1,24 @@
+---
+title: psychology
+crosslinks:
+- autotldr
+- youtubefactsbot
+- science
+- politics
+- conspiracy
+- neuro
+- dataisbeautiful
+- youtubot
+- AskSocialScience
+- Psychiatry
+- standupshots
+- askscience
+- xkcd
+- JordanPeterson
+- childfree
+- askpsychology
+- insanepeoplefacebook
+- awakened
+- HappyFluffyBunnies
+- LateStageCapitalism
+---

@@ -1,0 +1,24 @@
+---
+title: LegendsOfTomorrow
+crosslinks:
+- FlashTV
+- youtubefactsbot
+- arrow
+- livven
+- ReverseFlashTV
+- VixenCWSeed
+- nocontext
+- MassdropBot
+- shield
+- tmsbmeta
+- whowouldwin
+- youtubot
+- UnexpectedHamilton
+- autotldr
+- BlackLightning
+- forearmporn
+- caitlinsfaces
+- gifs
+- IAmA
+- flashtv
+---

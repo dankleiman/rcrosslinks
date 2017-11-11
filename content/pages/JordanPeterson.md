@@ -1,0 +1,24 @@
+---
+title: JordanPeterson
+crosslinks:
+- youtubefactsbot
+- badphilosophy
+- zeronet
+- samharris
+- IAmA
+- youtubot
+- autotldr
+- JoeRogan
+- Jordan_Peterson_Memes
+- askphilosophy
+- badliterature
+- u_imguralbumbot
+- MassdropBot
+- philosophy
+- TheRedPill
+- AskHistorians
+- science
+- sorceryofthespectacle
+- Maps_of_Meaning
+- ShitLiberalsSay
+---

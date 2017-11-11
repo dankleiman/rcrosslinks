@@ -1,0 +1,24 @@
+---
+title: switcharoo
+crosslinks:
+- AskReddit
+- pics
+- gifs
+- aww
+- funny
+- todayilearned
+- mildlyinteresting
+- videos
+- gaming
+- Showerthoughts
+- politics
+- SquaredCircle
+- OldSchoolCool
+- soccer
+- NintendoSwitch
+- WTF
+- movies
+- Jokes
+- Unexpected
+- nottheonion
+---

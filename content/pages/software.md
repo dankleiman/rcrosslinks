@@ -1,0 +1,24 @@
+---
+title: software
+crosslinks:
+- youtubefactsbot
+- autotldr
+- Windows10
+- xkcd
+- techsupport
+- learnprogramming
+- microsoftsoftwareswap
+- TronScript
+- sysadmin
+- assholedesign
+- wisp
+- SiliconValleyHBO
+- kodi
+- osx
+- trackers
+- windows
+- ublock
+- pcmasterrace
+- manga
+- VLC
+---

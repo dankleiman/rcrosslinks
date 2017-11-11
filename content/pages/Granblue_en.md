@@ -1,0 +1,24 @@
+---
+title: Granblue_en
+crosslinks:
+- youtubefactsbot
+- GranblueTrades
+- anti_gif_bot
+- PokemonGoSpoofing
+- john_yukis_bots
+- Granblue_Trading
+- Pixiv
+- livven
+- alotabot
+- pokemon
+- IsAnybodyHere
+- anime
+- Shadowverse
+- kancolle
+- Animesuggest
+- PuzzleAndDragons
+- chainchronicle
+- explainlikeimfive
+- Amd
+- walfie
+---

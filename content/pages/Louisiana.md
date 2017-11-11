@@ -1,0 +1,24 @@
+---
+title: Louisiana
+crosslinks:
+- autotldr
+- Acadiana
+- news
+- NewOrleans
+- LateStageCapitalism
+- MassdropBot
+- Fishing
+- politics
+- tmsbmeta
+- lgbt
+- acadiana
+- LSU
+- SlowTV
+- youtubefactsbot
+- AmericanPlantSwap
+- churning
+- CajunFrench
+- jobs
+- languagelearning
+- beertrade
+---

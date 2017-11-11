@@ -1,0 +1,24 @@
+---
+title: linux
+crosslinks:
+- zeronet
+- youtubefactsbot
+- autotldr
+- linuxmasterrace
+- linux_gaming
+- unixporn
+- Amd
+- kde
+- firefox
+- linuxquestions
+- archlinux
+- programming
+- LinuxCirclejerk
+- autourbanbot
+- LinuxOnThinkpads
+- sysadmin
+- Ubuntu
+- linuxhardware
+- u_imguralbumbot
+- linux4noobs
+---

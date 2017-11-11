@@ -1,0 +1,24 @@
+---
+title: iamverybadass
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- u_imguralbumbot
+- THE_PACK
+- tmsbmeta
+- copypasta
+- botwatch
+- gatekeeping
+- mallninjashit
+- ihavesex
+- youtubot
+- thatHappened
+- killthosewhodisagree
+- insanepeoplefacebook
+- beholdthemasterrace
+- DownvoteTrolling
+- CringeAnarchy
+- JustBootThings
+- liberalgunowners
+- MarchAgainstTrump
+---

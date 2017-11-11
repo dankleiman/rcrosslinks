@@ -1,0 +1,24 @@
+---
+title: RequestABot
+crosslinks:
+- MassdropBot
+- findareddit
+- learnpython
+- GoldTesting
+- alcohol
+- test
+- spam
+- xkcd
+- SeattleRedditBot
+- all
+- modhelp
+- bflivetestground
+- EndlessFrontier
+- redditdev
+- csshelp
+- promotereddit
+- paris
+- redditscripting
+- captainmeta4bots
+- FireEmblemHeroes
+---

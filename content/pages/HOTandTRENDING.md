@@ -1,0 +1,24 @@
+---
+title: HOTandTRENDING
+crosslinks:
+- botwatch
+- unremovable
+- knowyourshit
+- MassdropBot
+- me_irl
+- DuplicatesBot
+- youtubefactsbot
+- fidgetspin
+- betternews
+- pics
+- xkcd
+- books
+- AskReddit
+- OldSchoolCool
+- crazystadiums
+- mildlyinteresting
+- thegamingspot
+- askscience
+- excel
+- dasnetz
+---

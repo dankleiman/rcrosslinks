@@ -1,0 +1,24 @@
+---
+title: comicbooks
+crosslinks:
+- youtubefactsbot
+- Marvel
+- DCcomics
+- u_imguralbumbot
+- autotldr
+- comicbookscirclejerk
+- youtubot
+- MassdropBot
+- comicswap
+- valiant
+- xmen
+- Runaways
+- comicbookcollecting
+- ImageComics
+- marvelstudios
+- comicreadingorders
+- livven
+- SubredditDrama
+- ComicBookCollabs
+- movies
+---

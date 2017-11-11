@@ -1,0 +1,24 @@
+---
+title: the_schulz
+crosslinks:
+- youtubefactsbot
+- de
+- livven
+- autotldr
+- germany
+- europe
+- the_schulz_meta
+- EnoughSchulzSpam
+- SPDde
+- worldnews
+- videos
+- the_macron
+- anti_gif_bot
+- wholesomememes
+- unitedkingdom
+- all
+- place
+- u_imguralbumbot
+- modnews
+- YUROP
+---

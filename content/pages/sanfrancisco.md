@@ -1,0 +1,24 @@
+---
+title: sanfrancisco
+crosslinks:
+- youtubefactsbot
+- oakland
+- bayarea
+- xkcd
+- LateStageCapitalism
+- AskSF
+- SFBARF
+- AskReddit
+- subredditcancer
+- Portland
+- politics
+- The_Donald
+- LosAngeles
+- chicago
+- jobs
+- john_yukis_bots
+- dataisbeautiful
+- pics
+- SkincareAddiction
+- OutOfTheLoop
+---

@@ -1,0 +1,24 @@
+---
+title: askMRP
+crosslinks:
+- marriedredpill
+- TheRedPill
+- TheBluePill
+- asktrp
+- RedPillWomen
+- DeadBedrooms
+- RPChristians
+- bodyweightfitness
+- PurplePillDebate
+- sex
+- relationships
+- redpillbooks
+- fucktheredpill
+- badwomensanatomy
+- alotabot
+- RedPillWives
+- botpopularitybot
+- cordcutters
+- relationshits
+- Fitness
+---

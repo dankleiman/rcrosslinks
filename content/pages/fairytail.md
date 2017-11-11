@@ -1,0 +1,24 @@
+---
+title: fairytail
+crosslinks:
+- youtubefactsbot
+- fairy_tail
+- tmsbmeta
+- manga
+- youtubot
+- u_imguralbumbot
+- bleach
+- anime
+- livven
+- onepunch_man
+- ShitpostTail
+- Dakimakuras
+- animeplot
+- Fairytail_hentai
+- OnePiece
+- IAmA
+- cscareerquestions
+- FlashTV
+- MassdropBot
+- FairyTailNSFW
+---

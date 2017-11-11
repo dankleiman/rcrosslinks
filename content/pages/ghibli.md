@@ -1,0 +1,24 @@
+---
+title: ghibli
+crosslinks:
+- youtubefactsbot
+- place
+- Miyazaki
+- MassdropBot
+- livven
+- CrossStitch
+- tattoos
+- Nausicaa
+- androidthemes
+- motorcycles
+- Music
+- trypophobia
+- movieposterporn
+- shittykickstarters
+- TrueFilm
+- stevenuniverse
+- rickandmorty
+- QUALITYanime
+- anime
+- Ponoc
+---

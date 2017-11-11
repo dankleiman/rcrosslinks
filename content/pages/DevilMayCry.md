@@ -1,0 +1,24 @@
+---
+title: DevilMayCry
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- PS4
+- john_yukis_bots
+- OtakuVisualArts
+- Bayonetta
+- linux_gaming
+- anti_gif_bot
+- 2Booty
+- gaming
+- DragonsDogma
+- pcgaming
+- copypasta
+- GreatXboxDeals
+- crashbandicoot
+- JonTron
+- residentevil
+- fireemblem
+- SubredditDrama
+---

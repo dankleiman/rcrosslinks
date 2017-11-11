@@ -1,0 +1,24 @@
+---
+title: giantbomb
+crosslinks:
+- youtubefactsbot
+- IAmA
+- Games
+- CoolGamesInc
+- livven
+- place
+- OutOfTheLoop
+- PUBATTLEGROUNDS
+- BlackPeopleTwitter
+- PS4
+- autourbanbot
+- DevinTownsend
+- AFL
+- Cooking
+- hhh
+- SubredditDrama
+- zelda
+- BEN_PACK
+- HiTMAN
+- learndota2
+---

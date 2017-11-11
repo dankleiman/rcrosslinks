@@ -1,0 +1,24 @@
+---
+title: learnprogramming
+crosslinks:
+- cscareerquestions
+- xkcd
+- RCBRedditBot
+- u_imguralbumbot
+- programming
+- gamedev
+- dailyprogrammer
+- youtubot
+- learnpython
+- webdev
+- Python
+- SuggestALaptop
+- IAmA
+- cpp
+- javahelp
+- codereview
+- MachineLearning
+- learnjavascript
+- alotabot
+- javaexamples
+---

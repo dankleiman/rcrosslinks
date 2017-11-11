@@ -1,0 +1,24 @@
+---
+title: youseeingthisshit
+crosslinks:
+- livven
+- youtubefactsbot
+- anti_gif_bot
+- botwatch
+- gifs
+- tmsbmeta
+- funny
+- u_imguralbumbot
+- aww
+- youtubot
+- xkcd
+- StoppedWorking
+- AskReddit
+- totallynotrobots
+- AnimalsBeingJerks
+- AskHistorians
+- rarepuppers
+- hmmm
+- photoshopbattles
+- BetterEveryLoop
+---

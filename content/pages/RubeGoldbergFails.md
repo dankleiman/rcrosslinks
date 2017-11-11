@@ -1,0 +1,24 @@
+---
+title: RubeGoldbergFails
+crosslinks:
+- livven
+- botwatch
+- Whatcouldgowrong
+- nononono
+- anti_gif_bot
+- youtubefactsbot
+- WhyWereTheyFilming
+- DarwinAward
+- Unexpected
+- watchpeopledie
+- sports
+- IdiotsNearlyDying
+- PeopleFalling
+- instant_regret
+- funny
+- Wellthatsucks
+- cycling
+- CatastrophicFailure
+- holdmybeer
+- therewasanattempt
+---

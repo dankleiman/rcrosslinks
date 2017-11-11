@@ -1,0 +1,24 @@
+---
+title: TinyTrumps
+crosslinks:
+- youtubefactsbot
+- livven
+- photoshopbattles
+- The_Donald
+- EnoughTrumpSpam
+- announcements
+- AskHistorians
+- pics
+- tinytrump
+- OutOfTheLoop
+- cutouts
+- u_imguralbumbot
+- autourbanbot
+- allowedonpop
+- anti_gif_bot
+- monsterTrumps
+- uncensorednews
+- youtubot
+- trumpcutouts
+- shitpost
+---

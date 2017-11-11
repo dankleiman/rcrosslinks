@@ -1,0 +1,24 @@
+---
+title: swift
+crosslinks:
+- iOSProgramming
+- u_imguralbumbot
+- youtubot
+- youtubefactsbot
+- LetsPlayCS193P
+- anti_gif_bot
+- SwiftTutor
+- SwiftOnLinux
+- iamverysmart
+- autotldr
+- jailbreak
+- security
+- Kotlin
+- news
+- cs50
+- elixir
+- iosprogramming
+- coaxedintoasnafu
+- softwaregore
+- https
+---

@@ -1,0 +1,24 @@
+---
+title: DetroitRedWings
+crosslinks:
+- hockey
+- youtubefactsbot
+- place
+- NHLStreams
+- Detroit
+- livven
+- MassdropBot
+- LazyMan
+- tmsbmeta
+- youtubot
+- Kanye
+- lazyman
+- u_imguralbumbot
+- leafs
+- OriginalSix_Place
+- DetroitRedWingsTest
+- CalgaryFlames
+- nhl_games
+- OutOfTheLoop
+- detroitlions
+---

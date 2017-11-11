@@ -1,0 +1,24 @@
+---
+title: futurebeats
+crosslinks:
+- youtubefactsbot
+- youtubot
+- trap
+- AMAAggregator
+- tmsbmeta
+- SpaceBass
+- electronicmusic
+- LSD
+- idm
+- EDM
+- chillmusic
+- cxd
+- futurebeatproducers
+- bjork
+- ElectricForest
+- jaipaul
+- House
+- LofiHipHop
+- purplemusic
+- gifs
+---

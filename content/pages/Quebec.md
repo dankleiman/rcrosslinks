@@ -1,0 +1,24 @@
+---
+title: Quebec
+crosslinks:
+- youtubefactsbot
+- canada
+- youtubot
+- france
+- xkcd
+- place
+- autotldr
+- placecanada
+- john_yukis_bots
+- CanadaPolitics
+- worldnews
+- metacanada
+- vexillology
+- MassdropBot
+- montreal
+- askscience
+- ontario
+- autourbanbot
+- u_imguralbumbot
+- toronto
+---

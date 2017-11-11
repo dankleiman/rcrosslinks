@@ -1,0 +1,24 @@
+---
+title: buffalobills
+crosslinks:
+- youtubefactsbot
+- nfl
+- livven
+- The_Cardale
+- anti_gif_bot
+- panthers
+- 716Place
+- pics
+- place
+- reddit_stream
+- MassdropBot
+- photoshopbattles
+- Buffalo
+- NFL_Draft
+- announcements
+- john_yukis_bots
+- Jaguars
+- autourbanbot
+- tmsbmeta
+- AskReddit
+---

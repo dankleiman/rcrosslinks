@@ -1,0 +1,24 @@
+---
+title: MechanicalKeyboards
+crosslinks:
+- MassdropBot
+- mechmarket
+- olkb
+- AnnePro
+- youtubot
+- buildapcsales
+- pcmasterrace
+- keyboardcirclejerk
+- MechanicalKeyboardsUK
+- mechanicalheadpens
+- FashionReps
+- keycapdesigners
+- anti_gif_bot
+- MouseReview
+- retrobattlestations
+- Roboragi
+- clueboard
+- battlestations
+- pics
+- LogitechG
+---

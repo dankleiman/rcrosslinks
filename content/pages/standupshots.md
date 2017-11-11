@@ -1,0 +1,24 @@
+---
+title: standupshots
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- gatekeeping
+- xkcd
+- circlebroke2
+- opieandanthony
+- autourbanbot
+- Drama
+- AskReddit
+- ComedyCemetery
+- Jokes
+- john_yukis_bots
+- The_Donald
+- SubredditDrama
+- funny
+- niceguys
+- videos
+- Cumtown
+- todayilearned
+---

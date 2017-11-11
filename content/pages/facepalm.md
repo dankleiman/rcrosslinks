@@ -1,0 +1,24 @@
+---
+title: facepalm
+crosslinks:
+- TranscribersOfReddit
+- The_Donald
+- xkcd
+- u_imguralbumbot
+- facepalmfacepalms
+- youtubot
+- AskReddit
+- politics
+- autotldr
+- pics
+- funny
+- quityourbullshit
+- livven
+- TrashyText
+- CrappyDesign
+- bestof
+- CringeAnarchy
+- insanepeoplefacebook
+- autourbanbot
+- circlebroke2
+---

@@ -1,0 +1,24 @@
+---
+title: HorriblyDepressing
+crosslinks:
+- youtubefactsbot
+- autotldr
+- AdviceAnimals
+- toosoon
+- confession
+- news
+- liberalgunowners
+- sadcringe
+- greentext
+- Advice
+- ShitRedditSays
+- WritingPrompts
+- lastimages
+- TiADiscussion
+- ShitAmericansSay
+- titlegore
+- iamverybadass
+- u_imguralbumbot
+- todayilearned
+- Tulpas
+---

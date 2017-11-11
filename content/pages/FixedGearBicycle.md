@@ -1,0 +1,24 @@
+---
+title: FixedGearBicycle
+crosslinks:
+- BicyclingCirclejerk
+- bicycling
+- autourbanbot
+- Velo
+- singlespeed
+- EDC
+- wheelbuild
+- NYCbike
+- livven
+- gatekeeping
+- cyclocross
+- IsAnybodyHere
+- bmx
+- fixedgear
+- sports
+- iamverybadass
+- Machinists
+- OttawaFixedGear
+- OldSchoolCool
+- IgnorantImgur
+---

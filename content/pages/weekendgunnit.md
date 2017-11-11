@@ -1,0 +1,24 @@
+---
+title: weekendgunnit
+crosslinks:
+- guns
+- AgainstHateSubreddits
+- gundeals
+- ar15
+- livven
+- youtubot
+- liberalgunowners
+- autotldr
+- The_Donald
+- AskReddit
+- aww
+- PETA
+- Firearms
+- CombatFootage
+- WTF
+- Triggerdisciplinejerk
+- airsoft
+- gifs
+- CCW
+- canadaguns
+---

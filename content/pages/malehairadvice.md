@@ -1,0 +1,24 @@
+---
+title: malehairadvice
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- curlyhair
+- FierceFlow
+- tressless
+- NoPoo
+- Pomade
+- beards
+- livven
+- anti_gif_bot
+- youtubot
+- HaircareScience
+- FancyFollicles
+- todayilearned
+- Hair
+- amiugly
+- bestof
+- Justfuckmyshitup
+- MassdropBot
+- chopclub
+---

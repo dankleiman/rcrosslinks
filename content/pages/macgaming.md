@@ -1,0 +1,24 @@
+---
+title: macgaming
+crosslinks:
+- anti_gif_bot
+- Steam
+- youtubot
+- u_imguralbumbot
+- apple
+- LiquidSky
+- techsupportmacgyver
+- Borderlands
+- applehelp
+- microsoftsoftwareswap
+- wine_gaming
+- MechanicalKeyboards
+- Nier_Automata
+- PUBATTLEGROUNDS
+- hackintosh
+- cloudygamer
+- paradoxplaza
+- VintageApple
+- Shadowrun
+- GameDeals
+---

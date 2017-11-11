@@ -1,0 +1,24 @@
+---
+title: xxfitness
+crosslinks:
+- Fitness
+- bodyweightfitness
+- gainit
+- youtubefactsbot
+- youtubot
+- StrongCurves
+- ABraThatFits
+- loseit
+- 1200isplenty
+- running
+- nSuns
+- fatlogic
+- weightroom
+- flexibility
+- progresspics
+- powerlifting
+- john_yukis_bots
+- kettlebell
+- GripTraining
+- tmsbmeta
+---

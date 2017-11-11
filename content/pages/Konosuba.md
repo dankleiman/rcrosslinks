@@ -1,0 +1,24 @@
+---
+title: Konosuba
+crosslinks:
+- youtubefactsbot
+- anime
+- Megumin
+- LightNovels
+- AquaSama
+- youtubot
+- yunyun
+- FireEmblemHeroes
+- naut
+- MassdropBot
+- seiyuu
+- tmsbmeta
+- anti_gif_bot
+- livven
+- Lalatina
+- autourbanbot
+- MachineLearning
+- ImGoingToHellForThis
+- unexpectedjihad
+- REEEEEE
+---

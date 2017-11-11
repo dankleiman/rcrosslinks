@@ -1,0 +1,24 @@
+---
+title: JonTron
+crosslinks:
+- livven
+- The_Donald
+- tmsbmeta
+- anti_gif_bot
+- KotakuInAction
+- MassdropBot
+- youtubot
+- u_imguralbumbot
+- ShitAmericansSay
+- SubredditDrama
+- politics
+- xkcd
+- ConspiracyGrumps
+- OutOfTheLoop
+- ECHi
+- Kanye
+- badpolitics
+- AskReddit
+- PrequelMemes
+- AsABlackMan
+---

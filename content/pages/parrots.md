@@ -1,0 +1,24 @@
+---
+title: parrots
+crosslinks:
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- youtubefactsbot
+- cockatiel
+- PartyParrot
+- tmsbmeta
+- vredditmirrorbot
+- youtubot
+- redditgetsdrawn
+- Conures
+- AskVet
+- PetDoves
+- botwatch
+- aww
+- SuicideWatch
+- gifs
+- videos
+- instant_regret
+- budgies
+---

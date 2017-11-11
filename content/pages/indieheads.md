@@ -1,0 +1,24 @@
+---
+title: indieheads
+crosslinks:
+- ListeningHeads
+- hiphopheads
+- Music
+- popheads
+- radiohead
+- indieheadscirclejerk
+- IAmA
+- tmsbmeta
+- AnimalCollective
+- Sufjan
+- vinyl
+- portugaltheman
+- Coachella
+- arcadefire
+- place
+- Emo
+- TheNational
+- u_imguralbumbot
+- autotldr
+- UKbands
+---

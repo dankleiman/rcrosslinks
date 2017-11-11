@@ -1,0 +1,24 @@
+---
+title: firstworldanarchists
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- livven
+- funny
+- anti_gif_bot
+- youtubot
+- xkcd
+- tmsbmeta
+- pics
+- MaliciousCompliance
+- FirstWorldConformists
+- AskReddit
+- madlads
+- botwatch
+- me_irl
+- mildlyinteresting
+- botpopularitybot
+- mildlyinfuriating
+- HailCorporate
+- iamverybadass
+---

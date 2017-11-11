@@ -1,0 +1,24 @@
+---
+title: yuri
+crosslinks:
+- Pixiv
+- Roboragi
+- Palpz
+- wholesomeyuri
+- livven
+- u_imguralbumbot
+- shoujoai
+- youtubefactsbot
+- shrinkingwomen
+- pharmercy
+- SubredditDrama
+- PokePorn
+- bestof
+- autourbanbot
+- hentai
+- yaoi
+- YuriCreativeWriting
+- SchoolIdolFestival
+- SexyAngels
+- tmsbmeta
+---

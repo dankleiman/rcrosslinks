@@ -1,0 +1,24 @@
+---
+title: hinduism
+crosslinks:
+- youtubefactsbot
+- youtubot
+- india
+- indianews
+- autotldr
+- Buddhism
+- MassdropBot
+- ABCDesis
+- kriyayoga
+- anti_gif_bot
+- badEasternPhilosophy
+- Creation
+- bakchodi
+- truehinduism
+- livven
+- hindoo
+- TheImperialCult
+- john_yukis_bots
+- hindu
+- DebateReligion
+---

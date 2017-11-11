@@ -1,0 +1,24 @@
+---
+title: mildlyinteresting
+crosslinks:
+- pics
+- youtubot
+- livven
+- tmsbmeta
+- funny
+- HailCorporate
+- xkcd
+- AskReddit
+- KarmaConspiracy
+- shitpost
+- aww
+- interestingasfuck
+- mildlyinfuriating
+- oddlysatisfying
+- photoshopbattles
+- nocontext
+- trypophobia
+- WTF
+- untrustworthypoptarts
+- bestof
+---

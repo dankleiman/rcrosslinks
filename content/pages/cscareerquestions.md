@@ -1,0 +1,24 @@
+---
+title: cscareerquestions
+crosslinks:
+- learnprogramming
+- programming
+- ITCareerQuestions
+- jobs
+- OSUOnlineCS
+- resumes
+- IAmA
+- netsec
+- personalfinance
+- GetMotivated
+- OMSCS
+- MachineLearning
+- wholesomecs
+- AskReddit
+- john_yukis_bots
+- FinancialCareers
+- legaladvice
+- financialindependence
+- ProgrammerHumor
+- digitalnomad
+---

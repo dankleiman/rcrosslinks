@@ -1,0 +1,24 @@
+---
+title: FUTMobile
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- FIFA
+- youtubot
+- soccer
+- pesmobile
+- help
+- lv50lions
+- alotabot
+- tmsbmeta
+- FrenchWestIndies
+- dwfav
+- FUTMobileTrading
+- Android
+- ChargeYourPhone
+- combinedgifs
+- botpopularitybot
+- announcements
+---

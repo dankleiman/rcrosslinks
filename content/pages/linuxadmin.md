@@ -1,0 +1,24 @@
+---
+title: linuxadmin
+crosslinks:
+- sysadmin
+- u_imguralbumbot
+- linux
+- xkcd
+- youtubefactsbot
+- autotldr
+- youtubot
+- netsec
+- linuxquestions
+- PHP
+- microsoft
+- tmsbmeta
+- MassdropBot
+- debian
+- devops
+- financialindependence
+- opensource
+- homelab
+- jwilder
+- linuxserver
+---

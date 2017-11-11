@@ -1,0 +1,24 @@
+---
+title: DebateCommunism
+crosslinks:
+- communism101
+- communism
+- youtubot
+- LateStageCapitalism
+- ShitLiberalsSay
+- Anarchy101
+- Shitstatistssay
+- socialism
+- youtubefactsbot
+- marxism_101
+- AskHistorians
+- FULLCOMMUNISM
+- Anarcho_Capitalism
+- CapitalismVSocialism
+- shitleftistssay
+- offmychest
+- Anarchism
+- EnoughCommieSpam
+- Socialism_101
+- DebateAnarchism
+---

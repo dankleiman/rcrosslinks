@@ -1,0 +1,24 @@
+---
+title: Anarchism
+crosslinks:
+- youtubefactsbot
+- autotldr
+- Drama
+- socialism
+- The_Donald
+- youtubot
+- Anarcho_Capitalism
+- Anarchy101
+- EnoughBrocialistSpam
+- metanarchism
+- ShitLiberalsSay
+- COMPLETEANARCHY
+- ShitPoliticsSays
+- DebateAnarchism
+- Physical_Removal
+- SRSsucks
+- news
+- LateStageCapitalism
+- SocialistRA
+- shitleftistssay
+---

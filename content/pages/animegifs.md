@@ -1,0 +1,24 @@
+---
+title: animegifs
+crosslinks:
+- anti_gif_bot
+- Roboragi
+- livven
+- youtubefactsbot
+- youtubot
+- anime
+- araragi
+- Animemes
+- u_imguralbumbot
+- MassdropBot
+- animenocontext
+- anime_irl
+- handholding
+- redditrequest
+- Tsunderes
+- explainlikeimfive
+- Haganai
+- QUALITYanime
+- wallpapergif
+- animeplot
+---

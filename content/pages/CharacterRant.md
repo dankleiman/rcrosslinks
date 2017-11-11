@@ -1,0 +1,24 @@
+---
+title: CharacterRant
+crosslinks:
+- whowouldwin
+- respectthreads
+- whowouldcirclejerk
+- OnePunchMan
+- tmsbmeta
+- dbz
+- youtubefactsbot
+- Parahumans
+- xkcd
+- youtubot
+- suggsverse
+- AskScienceFiction
+- AskReddit
+- pokemon
+- ComicCosmicBeings
+- ReubenMcHawk
+- fixingmovies
+- guns
+- FanTheories
+- Blazblue
+---

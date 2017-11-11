@@ -1,0 +1,24 @@
+---
+title: theXeffect
+crosslinks:
+- getdisciplined
+- u_imguralbumbot
+- C25K
+- pornfree
+- GetStudying
+- ArtFundamentals
+- TheRedPill
+- duolingo
+- EOOD
+- French
+- NoFap
+- resumes
+- StopGaming
+- askscience
+- stopsmoking
+- bikecommuting
+- nosurf
+- intermittentfasting
+- Documentaries
+- soylent
+---

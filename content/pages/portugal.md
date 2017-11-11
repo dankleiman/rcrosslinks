@@ -1,0 +1,24 @@
+---
+title: portugal
+crosslinks:
+- portugalnews
+- youtubefactsbot
+- youtubot
+- PORTUGALCARALHO
+- u_imguralbumbot
+- place
+- autourbanbot
+- europe
+- brasil
+- PastaPortuguesa
+- xkcd
+- autotldr
+- lisboa
+- MassdropBot
+- chapeubranco
+- bestofportugal
+- livven
+- IST
+- IAmA
+- john_yukis_bots
+---

@@ -1,0 +1,24 @@
+---
+title: Rockband
+crosslinks:
+- youtubefactsbot
+- youtubot
+- RivalsCrews
+- vita
+- FuckHMX
+- alotabot
+- tmsbmeta
+- NintendoSwitch
+- boardgames
+- oculus
+- RWBY
+- wholesomememes
+- AskReddit
+- PS4
+- rocksmith
+- IAmA
+- RockBandVR
+- Zeos
+- xkcd
+- Drumming
+---

@@ -1,0 +1,24 @@
+---
+title: baconreader
+crosslinks:
+- AskReddit
+- livven
+- worldnews
+- pics
+- news
+- todayilearned
+- AdviceAnimals
+- changelog
+- help
+- asoiaf
+- MassdropBot
+- funny
+- youtubefactsbot
+- tmsbmeta
+- androidmasterrace
+- pokemon
+- TrumpCriticizesTrump
+- DnDGreentext
+- legal
+- ShittyMapPorn
+---

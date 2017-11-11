@@ -1,0 +1,24 @@
+---
+title: coaxedintoasnafu
+crosslinks:
+- tmsbmeta
+- youtubefactsbot
+- MassdropBot
+- DeepFriedMemes
+- bonehurtingjuice
+- ComedyCemetery
+- u_imguralbumbot
+- me_irl
+- dankmemes
+- surrealmemes
+- pics
+- KarmaCourt
+- totallynotrobots
+- PrequelMemes
+- copypasta
+- youtubot
+- gaming
+- hmmm
+- OnlyWholesomeMemes
+- wholesomememes
+---

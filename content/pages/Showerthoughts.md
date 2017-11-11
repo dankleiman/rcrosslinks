@@ -1,0 +1,24 @@
+---
+title: Showerthoughts
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- tmsbmeta
+- funny
+- WritingPrompts
+- todayilearned
+- IAmA
+- Jokes
+- u_imguralbumbot
+- youtubot
+- pics
+- explainlikeimfive
+- mildlyinteresting
+- askscience
+- videos
+- LifeProTips
+- gifs
+- aww
+- john_yukis_bots
+- tifu
+---

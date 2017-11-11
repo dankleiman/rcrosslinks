@@ -1,0 +1,24 @@
+---
+title: soylent
+crosslinks:
+- keto
+- joylent
+- SoylentMarket
+- youtubot
+- place
+- autourbanbot
+- ketochow
+- todayilearned
+- MealReplacements
+- Nootropics
+- 30DaysofSoylent
+- nutrition
+- gaming
+- autotldr
+- xkcd
+- Fitness
+- Lr6OhyJCEQ
+- jimmyjoy
+- aussielent
+- formula1
+---

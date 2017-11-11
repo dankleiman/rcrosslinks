@@ -1,0 +1,24 @@
+---
+title: getdisciplined
+crosslinks:
+- GetMotivated
+- theXeffect
+- youtubefactsbot
+- youtubot
+- productivity
+- Stoicism
+- DecidingToBeBetter
+- AskReddit
+- StopGaming
+- ADHD
+- Meditation
+- coldshowers
+- BettermentBookClub
+- nosurf
+- GetMotivatedBuddies
+- selfimprovement
+- LifeProTips
+- raisedbynarcissists
+- DepthHub
+- bulletjournal
+---

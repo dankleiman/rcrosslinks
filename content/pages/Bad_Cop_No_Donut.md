@@ -1,0 +1,24 @@
+---
+title: Bad_Cop_No_Donut
+crosslinks:
+- youtubefactsbot
+- iamverybadass
+- youtubot
+- AmIFreeToGo
+- Shitstatistssay
+- Drama
+- videos
+- Good_Cop_Free_Donut
+- news
+- ShitLiberalsSay
+- ShitPoliticsSays
+- conspiracy
+- autourbanbot
+- EnoughTrumpSpam
+- Seattle
+- PublicFreakout
+- Libertarian
+- funny
+- SubredditDrama
+- sanfrancisco
+---

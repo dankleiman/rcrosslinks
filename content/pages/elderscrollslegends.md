@@ -1,0 +1,24 @@
+---
+title: elderscrollslegends
+crosslinks:
+- u_imguralbumbot
+- CustomLegends
+- youtubefactsbot
+- youtubot
+- hearthstone
+- anti_gif_bot
+- teslore
+- livven
+- gwent
+- john_yukis_bots
+- duelyst
+- pcmasterrace
+- SubAutoCorrectBot
+- alotabot
+- trebuchetmemes
+- EternalCardGame
+- skyrim
+- TrueSTL
+- tmsbmeta
+- elderscrollsonline
+---

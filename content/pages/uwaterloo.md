@@ -1,0 +1,24 @@
+---
+title: uwaterloo
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- UofT
+- u_imguralbumbot
+- youtubot
+- waterloo
+- livven
+- autourbanbot
+- xkcd
+- cscareerquestions
+- autotldr
+- sadcringe
+- anti_gif_bot
+- john_yukis_bots
+- AskReddit
+- IAmA
+- MassdropBot
+- modnews
+- todayilearned
+- UBC
+---

@@ -1,0 +1,24 @@
+---
+title: pitbulls
+crosslinks:
+- livven
+- u_imguralbumbot
+- aww
+- youtubefactsbot
+- anti_gif_bot
+- pitbulls_in_partyhats
+- blop
+- Dogtraining
+- botwatch
+- WhatsWrongWithYourDog
+- sploot
+- rarepuppers
+- PuppySmiles
+- toofers
+- tmsbmeta
+- BeforeNAfterAdoption
+- youtubot
+- dogpictures
+- MadeMeSmile
+- u_dogsnsandwiches
+---

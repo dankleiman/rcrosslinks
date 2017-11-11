@@ -1,0 +1,24 @@
+---
+title: ScottishFootball
+crosslinks:
+- youtubefactsbot
+- soccer
+- youtubot
+- Scotland
+- CelticFC
+- glasgow
+- soccerstreams
+- livven
+- fcbayern
+- ScottishPeopleTwitter
+- AberdeenFC
+- MassdropBot
+- vegangifrecipes
+- rangers
+- gifs
+- free_karma
+- veganfitness
+- AFL
+- FIFA
+- policeuk
+---

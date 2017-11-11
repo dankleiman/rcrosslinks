@@ -1,0 +1,24 @@
+---
+title: criticalrole
+crosslinks:
+- DnD
+- DnDBehindTheScreen
+- youtubot
+- dndnext
+- announcements
+- CrittersLFG
+- geekandsundry
+- john_yukis_bots
+- politics
+- Pathfinder_RPG
+- TheoryOfReddit
+- autourbanbot
+- UnearthedArcana
+- nocontext
+- asoiaf
+- houston
+- mapmaking
+- heroesofthestorm
+- Twitch
+- '2012'
+---

@@ -1,0 +1,24 @@
+---
+title: dontdeadopeninside
+crosslinks:
+- CrappyDesign
+- youtubefactsbot
+- u_imguralbumbot
+- keming
+- botwatch
+- youtubot
+- pics
+- engrish
+- totallynotrobots
+- NotMyJob
+- MassdropBot
+- Bandnames
+- boottoobig
+- underpopular
+- xkcd
+- 4PanelCringe
+- LateStageCapitalism
+- botsrights
+- CombatFootage
+- dontopendeadinside
+---

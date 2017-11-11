@@ -1,0 +1,24 @@
+---
+title: WebGames
+crosslinks:
+- u_imguralbumbot
+- nitroclashio
+- youtubefactsbot
+- battlio
+- youtubot
+- gaming
+- SubredditSimulator
+- slayone
+- freegames
+- LandGrab
+- incremental_games
+- ExitCorners
+- bonkio
+- EternalAscended
+- Gatsio
+- politicalgames
+- space1io
+- unexpectedfactorial
+- PixelDungeon
+- tmsbmeta
+---

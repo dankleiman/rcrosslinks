@@ -1,0 +1,24 @@
+---
+title: trapproduction
+crosslinks:
+- youtubefactsbot
+- Drumkits
+- youtubot
+- edmproduction
+- makinghiphop
+- u_imguralbumbot
+- synthrecipes
+- trap
+- AdvancedProduction
+- FL_Studio
+- futurebeatproducers
+- beggingforit
+- trapmuzik
+- G59
+- ableton
+- IsolatedVocals
+- Stems
+- modhelp
+- gamegrumps
+- SuggestALaptop
+---

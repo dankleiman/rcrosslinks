@@ -1,0 +1,24 @@
+---
+title: MawInstallation
+crosslinks:
+- EmpireDidNothingWrong
+- StarWars
+- starwarsspeculation
+- FanTheories
+- youtubefactsbot
+- youtubot
+- StarWarsReference
+- u_imguralbumbot
+- DarthJarJar
+- Gungan_Philosophers
+- teslore
+- thesupremepablo
+- galactic_senate
+- daystrominstitute
+- AskScienceFiction
+- StarWarsEU
+- PrequelMemes
+- MassdropBot
+- SithApologetics
+- AskHistorians
+---

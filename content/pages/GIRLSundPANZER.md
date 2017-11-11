@@ -1,0 +1,24 @@
+---
+title: GIRLSundPANZER
+crosslinks:
+- Pixiv
+- youtubefactsbot
+- youtubot
+- AskHistorians
+- anime
+- MassdropBot
+- unexpectedsabaton
+- YukariAkiyama
+- livven
+- TankPorn
+- announcements
+- ProCSS
+- csshelp
+- yaraon
+- translator
+- aww
+- autotldr
+- tmsbmeta
+- autourbanbot
+- OutOfTheLoop
+---

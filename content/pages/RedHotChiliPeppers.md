@@ -1,0 +1,24 @@
+---
+title: RedHotChiliPeppers
+crosslinks:
+- youtubefactsbot
+- rhcpcirclejerk
+- youtubot
+- livven
+- MassdropBot
+- u_imguralbumbot
+- anti_gif_bot
+- BABYMETAL
+- place
+- radiohead
+- John_Frusciante
+- red_hot_chili_peppers
+- ProCSS
+- orlando
+- InstantMeta
+- weezer
+- beetlejuicing
+- lifeisstrange
+- Makemeagif
+- HumansBeingBros
+---

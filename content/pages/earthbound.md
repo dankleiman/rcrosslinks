@@ -1,0 +1,24 @@
+---
+title: earthbound
+crosslinks:
+- youtubefactsbot
+- placestart
+- MassdropBot
+- beadsprites
+- mother4
+- TheBlueCorner
+- shitpostbound
+- anti_gif_bot
+- tmsbmeta
+- 3dshacks
+- place
+- Serendipity
+- livven
+- youtubot
+- Howisthisaname
+- straya
+- Parahumans
+- gaming
+- jontron
+- JRPG
+---

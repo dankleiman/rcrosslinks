@@ -1,0 +1,24 @@
+---
+title: sjwhate
+crosslinks:
+- The_Donald
+- livven
+- philosophy
+- news
+- AgainstHateSubreddits
+- autourbanbot
+- modnews
+- undelete
+- FuckAMotherfucker
+- europe
+- TwoXChromosomes
+- new_right
+- theydidthemath
+- christients
+- classic4chan
+- hittableFaces
+- HAESSuccessStories
+- cringeanarchy
+- changemyview
+- technology
+---

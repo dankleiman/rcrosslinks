@@ -1,0 +1,24 @@
+---
+title: Megaman
+crosslinks:
+- youtubefactsbot
+- place
+- youtubot
+- BattleNetwork
+- MegaMakerOfficial
+- gamecollecting
+- u_imguralbumbot
+- anti_gif_bot
+- Serendipity
+- gamemusic
+- redditrequest
+- PrequelMemes
+- Vinesauce
+- PlaceThugs
+- games
+- osuplace
+- PixelArt
+- KiDIcaruS
+- nyjets
+- gopro
+---

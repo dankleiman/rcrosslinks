@@ -1,0 +1,24 @@
+---
+title: atlbeer
+crosslinks:
+- u_imguralbumbot
+- beertrade
+- beer
+- Homebrewing
+- chicagobeer
+- tippr
+- Atlanta
+- autourbanbot
+- sousvide
+- '2013'
+- HBL
+- homebrewing
+- RemindMeBot
+- beercanada
+- TampaBayBeer
+- LateStageCapitalism
+- atlmacrobeer
+- Untappd
+- AskReddit
+- gaming
+---

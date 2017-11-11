@@ -1,0 +1,24 @@
+---
+title: Predators
+crosslinks:
+- youtubefactsbot
+- hockey
+- hockeyjerseys
+- youtubot
+- place
+- stlouisblues
+- AnaheimDucks
+- puckstreams
+- hawks
+- nhl_games
+- canucks
+- wildhockey
+- secretsanta
+- leafs
+- thumbs
+- Guildwars2
+- penguins
+- vorin
+- RWBY
+- wild
+---

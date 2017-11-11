@@ -1,0 +1,24 @@
+---
+title: futurama
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- anti_gif_bot
+- funny
+- AskReddit
+- pics
+- xkcd
+- botwatch
+- HailCorporate
+- autotldr
+- IAmA
+- autourbanbot
+- AMAAggregator
+- gaming
+- Futurama_Sleepers
+- explainlikeimfive
+- FuturamaWOTgame
+- AdviceAnimals
+- movies
+- me_irl
+---

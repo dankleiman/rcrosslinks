@@ -1,0 +1,24 @@
+---
+title: HaloStory
+crosslinks:
+- youtubefactsbot
+- halo
+- whowouldwin
+- causeWhyNotMate
+- HaloWars
+- AnCapCopyPasta
+- Anarcho_Capitalism
+- youtubot
+- Shitstatistssay
+- HaloCirclejerk
+- horizon
+- MassdropBot
+- StarWarsEU
+- unexpectedjihad
+- OfficialYTFletch
+- WikiInAction
+- DrunkOrAKid
+- HFY
+- gaming
+- SubredditDrama
+---

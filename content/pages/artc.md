@@ -1,0 +1,24 @@
+---
+title: artc
+crosslinks:
+- AdvancedRunning
+- running
+- u_imguralbumbot
+- john_yukis_bots
+- youtubot
+- triathlon
+- explainlikeimfive
+- Ultramarathon
+- RunNYC
+- Runningphilosophy
+- Gunners
+- trailandultrarunning
+- IsAnybodyHere
+- youtubefactsbot
+- AccidentalRenaissance
+- Hawaii
+- autourbanbot
+- MMA
+- Fitness
+- RunningWithDogs
+---

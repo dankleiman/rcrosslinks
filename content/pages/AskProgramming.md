@@ -1,0 +1,24 @@
+---
+title: AskProgramming
+crosslinks:
+- learnprogramming
+- xkcd
+- programming
+- compsci
+- youtubot
+- cscareerquestions
+- Python
+- ProgrammerHumor
+- learnpython
+- gamedev
+- 6ahkka
+- u_imguralbumbot
+- naturalscriptlang
+- webdev
+- The_Donald
+- DoMyHomework2
+- badcode
+- Serendipity
+- SuggestALaptop
+- reactjs
+---

@@ -1,0 +1,24 @@
+---
+title: Kappa
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- StreetFighter
+- salty
+- Tekken
+- xdfp
+- smashbros
+- tmsbmeta
+- Guiltygear
+- MvC3
+- JavDownloadCenter
+- VoHiYo
+- SF4
+- Fighters
+- botwatch
+- autotldr
+- cummingonfigurines
+---

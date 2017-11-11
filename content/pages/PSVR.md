@@ -1,0 +1,24 @@
+---
+title: PSVR
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Vive
+- oculus
+- WerewolvesWithin
+- PS4
+- u_imguralbumbot
+- RIGSMCL
+- anti_gif_bot
+- PSVRHack
+- PS4Pro
+- dirtgame
+- livven
+- BridgeCrew
+- virtualreality
+- alotabot
+- TrinusVR
+- PSVRnews
+- Battlezone_PSVR
+- NintendoSwitch
+---

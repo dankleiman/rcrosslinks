@@ -1,0 +1,24 @@
+---
+title: HeavySeas
+crosslinks:
+- youtubefactsbot
+- youtubot
+- WarshipPorn
+- livven
+- pics
+- gifs
+- thalassophobia
+- IrelandonReddit
+- anti_gif_bot
+- tmsbmeta
+- CatastrophicFailure
+- u_imguralbumbot
+- botwatch
+- gifsthatkeepongiving
+- KarmaCourt
+- norwayonreddit
+- oddlysatisfying
+- Smite
+- woahdude
+- ImaginaryMonsters
+---

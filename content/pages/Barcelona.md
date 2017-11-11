@@ -1,0 +1,24 @@
+---
+title: Barcelona
+crosslinks:
+- zeronet
+- autotldr
+- youtubefactsbot
+- europe
+- catalunya
+- youtubot
+- Barca
+- autourbanbot
+- AskEurope
+- ukpolitics
+- anti_gif_bot
+- solotravel
+- gildedawards
+- communism
+- ShitAmericansSay
+- pics
+- WatchRedditDie
+- licht
+- catalonia
+- place
+---

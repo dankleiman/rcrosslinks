@@ -1,0 +1,24 @@
+---
+title: birdswitharms
+crosslinks:
+- peoplewithbirdheads
+- youtubefactsbot
+- ArmedBirds
+- u_imguralbumbot
+- photoshopbattles
+- pics
+- livven
+- enlightenedbirdmen
+- youtubot
+- tmsbmeta
+- anti_gif_bot
+- Birbs
+- HybridAnimals
+- saiyanpeopletwitter
+- birdpics
+- KarmaCourt
+- natureismetal
+- FuckTammy
+- wholesomecomments
+- BeautyQueens
+---

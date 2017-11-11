@@ -1,0 +1,24 @@
+---
+title: beadsprites
+crosslinks:
+- u_imguralbumbot
+- pokemon
+- fireemblem
+- StardewValley
+- youtubefactsbot
+- Overwatch
+- RWBY
+- Xcom
+- OneyPlays
+- livven
+- gamegrumps
+- buildingblocks
+- Metroid
+- bestof
+- MassdropBot
+- fallenlondon
+- DnD
+- youtubot
+- zelda
+- tmsbmeta
+---

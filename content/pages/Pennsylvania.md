@@ -1,0 +1,24 @@
+---
+title: Pennsylvania
+crosslinks:
+- autotldr
+- ShitPoliticsSays
+- philadelphia
+- youtubefactsbot
+- TrumpPA
+- politics
+- news
+- Missing411
+- youtubot
+- NEPA
+- citizenjournalism
+- metric_units
+- botwatch
+- totallynotrobots
+- AskTrumpSupporters
+- Political_Revolution
+- Economics
+- AmericanPlantSwap
+- RBI
+- Stateparks
+---

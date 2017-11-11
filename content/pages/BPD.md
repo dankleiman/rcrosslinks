@@ -1,0 +1,24 @@
+---
+title: BPD
+crosslinks:
+- youtubefactsbot
+- dbtselfhelp
+- youtubot
+- bipolar
+- sociopath
+- designerinbloom
+- BPDmemes
+- john_yukis_bots
+- u_imguralbumbot
+- botwatch
+- depression
+- BPDrecovery
+- livven
+- BPDirc
+- science
+- Art
+- AskReddit
+- GetMotivated
+- Buddhism
+- rant
+---

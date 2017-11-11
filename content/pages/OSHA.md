@@ -1,0 +1,24 @@
+---
+title: OSHA
+crosslinks:
+- anti_gif_bot
+- youtubot
+- WTF
+- xkcd
+- pics
+- tmsbmeta
+- watchpeopledie
+- funny
+- gifs
+- botwatch
+- mildlyinteresting
+- Justrolledintotheshop
+- autourbanbot
+- IAmA
+- AskReddit
+- CrappyDesign
+- MassdropBot
+- tifu
+- zeronet
+- SweatyPalms
+---

@@ -1,0 +1,24 @@
+---
+title: homeassistant
+crosslinks:
+- homeautomation
+- youtubefactsbot
+- u_imguralbumbot
+- amazonecho
+- h
+- raspberry_pi
+- tmobile
+- ShieldAndroidTV
+- autourbanbot
+- kdelfour
+- sysadmin
+- freenas
+- smarthome
+- linuxserver
+- homedefense
+- clemenstyp
+- anti_gif_bot
+- homelab
+- arduino
+- tasker
+---

@@ -1,0 +1,24 @@
+---
+title: AustralianPolitics
+crosslinks:
+- autotldr
+- australia
+- youtubefactsbot
+- youtubot
+- The_Donald
+- AusPol
+- sydney
+- ShitLiberalsSay
+- circlejerkaustralia
+- climateskeptics
+- badeconomics
+- neoliberal
+- exmuslim
+- u_imguralbumbot
+- AusFinance
+- NeutralPolitics
+- science
+- AusMemes
+- houston
+- LateStageCapitalism
+---

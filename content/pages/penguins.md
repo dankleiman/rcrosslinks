@@ -1,0 +1,24 @@
+---
+title: penguins
+crosslinks:
+- youtubefactsbot
+- hockey
+- livven
+- tmsbmeta
+- youtubot
+- anti_gif_bot
+- NHLStreams
+- hockeyjerseys
+- MassdropBot
+- u_imguralbumbot
+- puckstreams
+- caps
+- nhl
+- Predators
+- penstickets
+- OttawaSenators
+- LazyMan
+- HELOE
+- pittsburgh
+- autourbanbot
+---

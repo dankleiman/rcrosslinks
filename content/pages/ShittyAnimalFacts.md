@@ -1,0 +1,24 @@
+---
+title: ShittyAnimalFacts
+crosslinks:
+- livven
+- ShittierAnimalFacts
+- photoshopbattles
+- youtubefactsbot
+- anti_gif_bot
+- pics
+- aww
+- hardcoreaww
+- RealLifePokemon
+- tmsbmeta
+- TreesSuckingAtThings
+- thecatdimension
+- Rabbits
+- SoundsLikeMusic
+- AnimalsBeingDerps
+- BestOfReports
+- Serendipity
+- Cinemagraphs
+- nonononoyes
+- llama
+---

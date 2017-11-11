@@ -1,0 +1,24 @@
+---
+title: Megumin
+crosslinks:
+- Pixiv
+- Konosuba
+- botwatch
+- anime
+- youtubefactsbot
+- stlouisblues
+- place
+- u_imguralbumbot
+- Animemes
+- TheBlueCorner
+- anti_gif_bot
+- nsfwMegumin
+- MassdropBot
+- ahegao
+- de
+- john_yukis_bots
+- livven
+- KonosubaPornography
+- placehearts
+- SpiceandWolf
+---

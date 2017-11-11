@@ -1,0 +1,24 @@
+---
+title: AmateurRoomPorn
+crosslinks:
+- malelivingspace
+- u_imguralbumbot
+- youtubefactsbot
+- MassdropBot
+- toomanypillows
+- guitars
+- ThriftStoreHauls
+- madmen
+- DIY
+- MusicBattlestations
+- Buddhism
+- norwayonreddit
+- youtubot
+- westworld
+- Tinder
+- relationships
+- woodworking
+- battlestations
+- osha
+- terrariums
+---

@@ -1,0 +1,24 @@
+---
+title: Frugal
+crosslinks:
+- youtubefactsbot
+- personalfinance
+- churning
+- AskReddit
+- youtubot
+- cordcutters
+- u_imguralbumbot
+- wicked_edge
+- vandwellers
+- financialindependence
+- NoContract
+- HailCorporate
+- DumpsterDiving
+- EatCheapAndHealthy
+- IAmA
+- beermoney
+- BuyItForLife
+- LifeProTips
+- goodyearwelt
+- patientgamers
+---

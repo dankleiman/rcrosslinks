@@ -1,0 +1,24 @@
+---
+title: FreeCompliments
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- aww
+- bestof
+- curlyhair
+- beards
+- LifeProTips
+- getdisciplined
+- Incels
+- TheRedPill
+- Ice_Poseidon
+- happy
+- nosleep
+- MadeMeSmile
+- MakeupAddiction
+- historyanecdotes
+- videos
+- tattoos
+- BeAmazed
+---

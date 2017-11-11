@@ -1,0 +1,24 @@
+---
+title: LawSchool
+crosslinks:
+- youtubefactsbot
+- lawschooladmissions
+- youtubot
+- u_imguralbumbot
+- anti_gif_bot
+- livven
+- LawSchoolOutlines
+- autotldr
+- IAmA
+- law
+- badbot
+- The_Donald
+- AMAAggregator
+- SubredditDrama
+- thelawschool
+- Anki
+- tmsbmeta
+- wallstreetbets
+- CGPGrey
+- Nootropics
+---

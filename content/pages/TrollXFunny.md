@@ -1,0 +1,24 @@
+---
+title: TrollXFunny
+crosslinks:
+- livven
+- TrollXChromosomes
+- youtubefactsbot
+- funny
+- tumblr
+- youtubot
+- wholesomememes
+- u_imguralbumbot
+- pics
+- gatekeeping
+- Drugs
+- creepyPMs
+- OTMemes
+- ABraThatFits
+- BabyBumps
+- xkcd
+- DnD
+- standupshots
+- Aella_Girl
+- niceguys
+---

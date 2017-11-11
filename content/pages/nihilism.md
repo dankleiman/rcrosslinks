@@ -1,0 +1,24 @@
+---
+title: nihilism
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Existentialism
+- misanthropy
+- antinatalism
+- Pessimism
+- xkcd
+- badphilosophy
+- Polycentric_Law
+- Fichte
+- nihilistmemes
+- soccer
+- askscience
+- AgainstHateSubreddits
+- MassdropBot
+- Christianity
+- occult
+- SanctionedSuicide
+- raisedbynarcissists
+- morbidquestions
+---

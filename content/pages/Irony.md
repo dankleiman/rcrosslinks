@@ -1,0 +1,24 @@
+---
+title: Irony
+crosslinks:
+- autotldr
+- MassdropBot
+- DuplicatesBot
+- u_imguralbumbot
+- youtubefactsbot
+- Serendipity
+- replygore
+- juxtaposition
+- melbourne
+- eu4
+- HistoryPorn
+- badscience
+- ChargeYourPhone
+- RoastMe
+- narcsinthewild
+- coincidence
+- livven
+- mildlyamusing
+- LateStageCapitalism
+- mildlyinteresting
+---

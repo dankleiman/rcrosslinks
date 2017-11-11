@@ -1,0 +1,24 @@
+---
+title: StardewValley
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- xkcd
+- youtubot
+- anti_gif_bot
+- NintendoSwitch
+- FarmsofStardewValley
+- oddlysatisfying
+- gaming
+- shitpost
+- relationships
+- livven
+- place
+- pcmasterrace
+- ValleyModders
+- CrossStitch
+- MassdropBot
+- botwatch
+- ConsoleKSP
+- Needlefelting
+---

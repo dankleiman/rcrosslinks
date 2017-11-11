@@ -1,0 +1,24 @@
+---
+title: Canadian_ecigarette
+crosslinks:
+- electronic_cigarette
+- youtubefactsbot
+- DIY_eJuice
+- u_imguralbumbot
+- Canadian_EClassifieds
+- Vaping
+- youtubot
+- Canadianvapers
+- OpenPV
+- amishadowbanned
+- tifu
+- montreal
+- totallynotrobots
+- shittingadvice
+- vaporents
+- batterywraps
+- wicked_edge
+- firstworldanarchists
+- badparking
+- startrekgifs
+---

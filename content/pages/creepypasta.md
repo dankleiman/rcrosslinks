@@ -1,0 +1,24 @@
+---
+title: creepypasta
+crosslinks:
+- nosleep
+- youtubefactsbot
+- shortscarystories
+- Thetruthishere
+- Narratemystory
+- DrCreepensVault
+- youtubot
+- threekings
+- UtricksBlog
+- SCP
+- copypasta
+- AskReddit
+- hinduism
+- u_Maeltopia
+- pics
+- CampFireStories
+- advertisingREDDIT
+- ambien
+- ConspiracyFacts
+- TheMusicalPumpkin
+---

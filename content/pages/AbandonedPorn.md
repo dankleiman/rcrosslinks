@@ -1,0 +1,24 @@
+---
+title: AbandonedPorn
+crosslinks:
+- PornOverlords
+- youtubefactsbot
+- youtubot
+- rustyrails
+- nosleep
+- urbanexploration
+- pics
+- submechanophobia
+- u_imguralbumbot
+- evilbuildings
+- tmsbmeta
+- shittyHDR
+- creepy
+- ThePicturesofTacHam
+- Birmingham
+- AskReddit
+- bestof
+- excgarated
+- architecture
+- CrappyDesign
+---

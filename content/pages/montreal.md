@@ -1,0 +1,24 @@
+---
+title: montreal
+crosslinks:
+- Quebec
+- canada
+- nyc
+- youtubot
+- TrueOffMyChest
+- ShadowBan
+- Enhancement
+- vancouver
+- dataisbeautiful
+- toronto
+- IAmA
+- pittsburgh
+- TwoXChromosomes
+- Belgium
+- london
+- tippr
+- scannablefakeids
+- Calgary
+- formula1
+- grilledcheese
+---

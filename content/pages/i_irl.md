@@ -1,0 +1,24 @@
+---
+title: i_irl
+crosslinks:
+- anti_gif_bot
+- livven
+- u_imguralbumbot
+- me_irl
+- youtubefactsbot
+- tmsbmeta
+- DuplicatesBot
+- bonehurtingjuice
+- MassdropBot
+- wsgy
+- paradoxplaza
+- mildlyinteresting
+- FunnyandSad
+- WhitePeopleTwitter
+- dankmemes
+- elderscrollsonline
+- robotlove
+- ShitPostCrusaders
+- wallpapers
+- hmmm
+---

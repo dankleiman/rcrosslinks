@@ -1,0 +1,24 @@
+---
+title: DaystromInstitute
+crosslinks:
+- startrek
+- AskScienceFiction
+- FanTheories
+- DeepSpaceNine
+- startrekgifs
+- arrow
+- askscience
+- WritingPrompts
+- StarTrekViewingParty
+- science
+- whowouldwin
+- PostScarcity
+- rickandmorty
+- MirrorDaystrom
+- tlhInganHol
+- HFY
+- youtubot
+- videos
+- Eyebleach
+- oddlysatisfying
+---

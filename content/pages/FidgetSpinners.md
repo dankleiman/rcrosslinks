@@ -1,0 +1,24 @@
+---
+title: FidgetSpinners
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- MassdropBot
+- fidgettoys
+- flyawaytoys
+- interestingasfuck
+- FidgetSpinnersMarket
+- youtubot
+- EDC
+- alotabot
+- AskReddit
+- autotldr
+- electronic_cigarette
+- pcmasterrace
+- AMAAggregator
+- tmsbmeta
+- knifeclub
+- begleri
+- balisong
+---

@@ -1,0 +1,24 @@
+---
+title: Fishing
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- youtubefactsbot
+- anti_gif_bot
+- bassfishing
+- livven
+- pics
+- vredditmirrorbot
+- tmsbmeta
+- photoshopbattles
+- MassdropBot
+- MicroFishing
+- alotabot
+- troutfishing
+- houston
+- BrasilOnReddit
+- WTF
+- UNBGBBIIVCHIDCTIICBG
+- autotldr
+- RBI
+---

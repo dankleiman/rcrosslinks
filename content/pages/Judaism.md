@@ -1,0 +1,24 @@
+---
+title: Judaism
+crosslinks:
+- autotldr
+- xkcd
+- ReformJews
+- youtubot
+- The_Donald
+- breakawayminyan
+- AskHistorians
+- Abbajokes
+- MassdropBot
+- AcademicBiblical
+- islam
+- SubredditDrama
+- JudaismTooltips
+- exjew
+- Israel
+- bestof
+- john_yukis_bots
+- DebateReligion
+- conspiracy
+- LGBTOpenModmail
+---

@@ -1,0 +1,24 @@
+---
+title: 40kLore
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Warhammer40k
+- tmsbmeta
+- Grimdank
+- u_imguralbumbot
+- Warhammer
+- respectthreads
+- whowouldwin
+- 40kOrkScience
+- AskHistorians
+- livven
+- AskScienceFiction
+- Drama
+- xkcd
+- MassdropBot
+- Eyebleach
+- badhistory
+- Warhammer30k
+- botsrights
+---

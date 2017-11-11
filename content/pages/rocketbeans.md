@@ -1,0 +1,24 @@
+---
+title: rocketbeans
+crosslinks:
+- youtubefactsbot
+- rocketbeanscirclejerk
+- youtubot
+- placestart
+- u_imguralbumbot
+- place
+- livven
+- john_yukis_bots
+- anti_gif_bot
+- gameone
+- announcements
+- reactiongifs
+- metalgearsolid
+- de
+- destiny2
+- iamsosmart
+- osuplace
+- NichtDerPostillon
+- aoe2
+- gaming
+---

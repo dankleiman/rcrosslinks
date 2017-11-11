@@ -1,0 +1,24 @@
+---
+title: destiny2
+crosslinks:
+- youtubefactsbot
+- DestinyTheGame
+- youtubot
+- Fireteams
+- anti_gif_bot
+- livven
+- john_yukis_bots
+- DestinyFashion
+- botwatch
+- pcmasterrace
+- Overwatch
+- tmsbmeta
+- raidsecrets
+- u_imguralbumbot
+- DestinySherpa
+- vredditmirrorbot
+- DestinyPC
+- Games
+- Destiny
+- PS4
+---

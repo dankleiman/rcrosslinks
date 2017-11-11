@@ -1,0 +1,24 @@
+---
+title: nonononoyes
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- gifs
+- botwatch
+- tmsbmeta
+- maybemaybemaybe
+- xkcd
+- WTF
+- u_imguralbumbot
+- DadReflexes
+- Unexpected
+- SweatyPalms
+- videos
+- AskReddit
+- nocontext
+- funny
+- motorcycles
+- IdiotsNearlyDying
+- theydidthemath
+---

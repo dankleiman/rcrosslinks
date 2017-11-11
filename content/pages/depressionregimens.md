@@ -1,0 +1,24 @@
+---
+title: depressionregimens
+crosslinks:
+- Nootropics
+- StackAdvice
+- nootropics
+- microdosing
+- afinil
+- tmsbmeta
+- self
+- antidepressants
+- shrooms
+- DarkNetMarkets
+- DecidingToBeBetter
+- kratom
+- MassdropBot
+- ibs
+- steroids
+- ADHD
+- askpsychology
+- youtubefactsbot
+- Accutane
+- CPTSD
+---

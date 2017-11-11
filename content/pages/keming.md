@@ -1,0 +1,24 @@
+---
+title: keming
+crosslinks:
+- xkcd
+- CrappyDesign
+- ProgrammerHumor
+- typography
+- engrish
+- dontdeadopeninside
+- pcmasterrace
+- mildlyinfuriating
+- AVoid5
+- dankchristianmemes
+- missingprinterfont
+- rupaulsdragrace
+- Vive
+- TwoRedditorsOneCup
+- modnews
+- nocontext
+- WTF
+- underpopular
+- facepalm
+- pics
+---

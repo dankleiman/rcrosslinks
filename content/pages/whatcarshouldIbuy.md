@@ -1,0 +1,24 @@
+---
+title: whatcarshouldIbuy
+crosslinks:
+- youtubefactsbot
+- askcarsales
+- subaru
+- cars
+- personalfinance
+- teslamotors
+- youtubot
+- GolfGTI
+- alotabot
+- FordFocus
+- u_imguralbumbot
+- todayilearned
+- mercedes_benz
+- mechanicadvice
+- carfax
+- vandwellers
+- carbuying
+- mazda3
+- Audi
+- saab
+---

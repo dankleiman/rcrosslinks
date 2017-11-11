@@ -1,0 +1,24 @@
+---
+title: StruggleFucking
+crosslinks:
+- livven
+- Pain
+- tipofmypenis
+- rape_porn
+- IAmA
+- painal
+- JavDownloadCenter
+- AbusePorn2
+- AMAAggregator
+- FMRP
+- Sexfight
+- IncestPorn
+- Leglock
+- Exxxtras
+- SubmissiveTgirls
+- xkcd
+- Rapekink
+- mentalillness
+- jav
+- breakfeminazis
+---

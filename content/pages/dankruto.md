@@ -1,0 +1,24 @@
+---
+title: dankruto
+crosslinks:
+- Naruto
+- livven
+- MassdropBot
+- u_imguralbumbot
+- youtubefactsbot
+- REEEEEEEEEE
+- naruto
+- tmsbmeta
+- MemeEconomy
+- Naruto_Hentai
+- grilledcheese
+- Roboragi
+- PrequelMemes
+- Showerthoughts
+- OneTrueAsuna
+- unexpectednaruto
+- FrenchWestIndies
+- neckbeardRPG
+- OutOfTheLoop
+- Boruto
+---

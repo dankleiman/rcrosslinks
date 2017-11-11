@@ -1,0 +1,24 @@
+---
+title: tea
+crosslinks:
+- teasales
+- u_imguralbumbot
+- youtubefactsbot
+- teaexchange
+- treas
+- livven
+- MassdropBot
+- tea_irl
+- puer
+- translator
+- askscience
+- anti_gif_bot
+- Kombucha
+- autourbanbot
+- youtubot
+- tmsbmeta
+- CupOnMe
+- autotldr
+- Kava
+- ThriftStoreHauls
+---

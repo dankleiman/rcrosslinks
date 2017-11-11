@@ -1,0 +1,24 @@
+---
+title: SAVEBRENDAN
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- u_imguralbumbot
+- autotldr
+- CringeAnarchy
+- movies
+- youtubot
+- modnews
+- The_Brendan
+- MensLib
+- Sneks
+- Drama
+- moviescirclejerk
+- TheRedditPolice
+- IAmA
+- AskReddit
+- shittymorph
+- EnoughBrendanSpam
+- technology
+---

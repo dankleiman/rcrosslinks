@@ -1,0 +1,24 @@
+---
+title: shittyama
+crosslinks:
+- AMAAggregator
+- youtubefactsbot
+- youtubot
+- totallynotrobots
+- AutoMauderator
+- tmsbmeta
+- AskReddit
+- PostAndBecomeAMod
+- nohomo_bot
+- postandbanned
+- u_imguralbumbot
+- Music
+- MrBugleArmy
+- KarmaCourt
+- postandbecomeamod
+- shittyaskscience
+- autourbanbot
+- CertainlyNotAliens
+- Ooer
+- Maskese
+---

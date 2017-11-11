@@ -1,0 +1,24 @@
+---
+title: CatGifs
+crosslinks:
+- anti_gif_bot
+- aww
+- gifs
+- Eyebleach
+- StartledCats
+- youtubefactsbot
+- Thisismylifemeow
+- u_imguralbumbot
+- CatsAreAssholes
+- cats
+- CatTaps
+- funny
+- StoppedWorking
+- hitanimals
+- videos
+- tuckedinkitties
+- xkcd
+- catstouchingfaces
+- lotr
+- CatsStandingUp
+---

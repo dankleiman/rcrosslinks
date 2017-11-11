@@ -1,0 +1,24 @@
+---
+title: NSFWgaming
+crosslinks:
+- lewdgames
+- freecitiesgame
+- spnati
+- Haramase_Simulator
+- eroge
+- u_imguralbumbot
+- Sissymakergame
+- AndroidNSFWgaming
+- Futanari_Games
+- livven
+- botwatch
+- futanari
+- youtubefactsbot
+- NSFWGames
+- adultgamedev
+- trueNSFWgaming
+- superheroinesdefeated
+- mylittlepony
+- visualnovels
+- bestof2d
+---

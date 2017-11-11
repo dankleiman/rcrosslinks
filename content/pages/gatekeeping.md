@@ -1,0 +1,24 @@
+---
+title: gatekeeping
+crosslinks:
+- youtubefactsbot
+- youtubot
+- SubredditDrama
+- u_imguralbumbot
+- MassdropBot
+- xkcd
+- iamverybadass
+- childfree
+- lewronggeneration
+- Metal
+- vegan
+- AskReddit
+- Incels
+- LateStageCapitalism
+- ComedyCemetery
+- pics
+- totallynotrobots
+- botwatch
+- niceguys
+- TumblrInAction
+---

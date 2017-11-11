@@ -1,0 +1,24 @@
+---
+title: delusionalartists
+crosslinks:
+- youtubefactsbot
+- youtubot
+- AskReddit
+- NotTimAndEric
+- ChoosingBeggars
+- crappymusic
+- tmsbmeta
+- gatekeeping
+- u_imguralbumbot
+- SubredditDrama
+- insanepeoplefacebook
+- john_yukis_bots
+- subredditsashashtags
+- learnart
+- surrealmemes
+- 4chan
+- lewronggeneration
+- trashyboners
+- movies
+- autourbanbot
+---

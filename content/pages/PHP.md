@@ -1,0 +1,24 @@
+---
+title: PHP
+crosslinks:
+- PHPhelp
+- unixtime_bot
+- youtubefactsbot
+- john_yukis_bots
+- laravel
+- programming
+- ProgrammerHumor
+- phpsec
+- autotldr
+- phphelp
+- autourbanbot
+- tommymuehle
+- Python
+- webdev
+- linux
+- MassdropBot
+- youtubot
+- learnprogramming
+- lolphp
+- colinodell
+---

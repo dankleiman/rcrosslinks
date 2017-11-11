@@ -1,0 +1,24 @@
+---
+title: gameideas
+crosslinks:
+- gamedesign
+- youtubefactsbot
+- MMORPG
+- youtubot
+- albiononline
+- MuLegend
+- anti_gif_bot
+- restofthefuckingowl
+- ROVEIndustries
+- titlegore
+- oculus
+- shortscarystories
+- armoredwomen
+- iamverysmart
+- pathofexile
+- MLPLounge
+- truegaming
+- dishonored
+- WritingPrompts
+- 2meirl42meirl4meirl
+---

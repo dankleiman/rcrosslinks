@@ -1,0 +1,24 @@
+---
+title: FinancialPlanning
+crosslinks:
+- personalfinance
+- churning
+- ynab
+- Frugal
+- financialindependence
+- Relationship
+- leanfire
+- ThePlanningCafe
+- AskEconomics
+- weedstocks
+- investing
+- TheEducatedPlanner
+- EarnablyTips
+- autotldr
+- preppers
+- vandwellers
+- Serendipity
+- mutualfunds
+- StudentLoans
+- InvestmentEducation
+---

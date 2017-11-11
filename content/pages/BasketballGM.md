@@ -1,0 +1,24 @@
+---
+title: BasketballGM
+crosslinks:
+- BGMLL
+- MassdropBot
+- AmericanBasketballFed
+- u_imguralbumbot
+- nba
+- BGMCA
+- zengmlol
+- youtubefactsbot
+- NBGMLL
+- raerth
+- NCBCA
+- ZenGMHockey
+- ZenGMBasketballCoach
+- ZenGMBaseball
+- ModSupport
+- youtubot
+- statistics
+- BBGMSL
+- BGASDL
+- zengmTPBL
+---

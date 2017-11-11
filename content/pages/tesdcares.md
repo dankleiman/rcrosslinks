@@ -1,0 +1,24 @@
+---
+title: tesdcares
+crosslinks:
+- youtubefactsbot
+- youtubot
+- autotldr
+- livven
+- anti_gif_bot
+- OldSchoolCool
+- ImpracticalJokers
+- books
+- comicbookmen
+- u_imguralbumbot
+- MandelaEffect
+- xkcd
+- mma
+- ReadeBookOnline
+- rickygervais
+- tmsbmeta
+- TESDoverkill
+- HateCrimeHoaxes
+- UnresolvedMysteries
+- funny
+---

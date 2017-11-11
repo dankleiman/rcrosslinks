@@ -1,0 +1,24 @@
+---
+title: Oppression
+crosslinks:
+- conspiracy
+- ModSupport
+- LifeProTips
+- news
+- undelete
+- subredditcancer
+- EuropeMeta
+- modnews
+- cockwombles
+- AngelsAndAirwaves
+- NuclearThrone
+- u_imguralbumbot
+- Conservative
+- blog
+- AskThe_Donald
+- nintendo
+- SubredditDrama
+- LateStageCapitalism
+- AskReddit
+- IHateRedditModerators
+---

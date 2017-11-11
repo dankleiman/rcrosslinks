@@ -1,0 +1,24 @@
+---
+title: AcademicBiblical
+crosslinks:
+- AskHistorians
+- Christianity
+- DebateReligion
+- badhistory
+- Judaism
+- DebateAChristian
+- theology
+- TheImperialCult
+- Christian
+- religion
+- askTheology
+- gatekeeping
+- MassdropBot
+- OpenChristian
+- islam
+- JordanPeterson
+- autotldr
+- youtubefactsbot
+- Theologia
+- IslamicStudies
+---

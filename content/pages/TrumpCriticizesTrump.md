@@ -1,0 +1,24 @@
+---
+title: TrumpCriticizesTrump
+crosslinks:
+- The_Donald
+- politics
+- dataisbeautiful
+- EnoughTrumpSpam
+- subredditoftheday
+- news
+- worldnews
+- covfefe
+- all
+- announcements
+- xkcd
+- DumpTrump
+- RussiaLago
+- Keep_Track
+- TheAvenger_94
+- OurPresident
+- youtubot
+- the_schulz
+- NegativeWithGold
+- unexpected40k
+---

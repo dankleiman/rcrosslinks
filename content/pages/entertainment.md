@@ -1,0 +1,24 @@
+---
+title: entertainment
+crosslinks:
+- youtubefactsbot
+- youtubot
+- movies
+- tmsbmeta
+- IAmA
+- The_Donald
+- funny
+- OutOfTheLoop
+- worldpolitics
+- fyrefestival
+- conspiracy
+- television
+- ShitPoliticsSays
+- SandersForPresident
+- nostalgia
+- short
+- TrueFilm
+- RedditWritesSeinfeld
+- FuckTammy
+- projecthotmess
+---

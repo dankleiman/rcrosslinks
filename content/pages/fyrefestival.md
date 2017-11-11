@@ -1,0 +1,24 @@
+---
+title: fyrefestival
+crosslinks:
+- youtubefactsbot
+- SubredditDrama
+- autotldr
+- u_imguralbumbot
+- tmsbmeta
+- iamverybadass
+- Anarchy101
+- bestof
+- lostgeneration
+- modnews
+- simpsonsdidit
+- The_Bogdanoff
+- shittykickstarters
+- gameofthrones
+- todayilearned
+- livven
+- Planetside
+- unexpectedHIMYM
+- DiWHY
+- Blink182
+---

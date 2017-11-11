@@ -1,0 +1,24 @@
+---
+title: BannedFromThe_Donald
+crosslinks:
+- The_Donald
+- youtubefactsbot
+- conspiracy
+- AskThe_Donald
+- EnoughTrumpSpam
+- AskTrumpSupporters
+- youtubot
+- politics
+- autotldr
+- AgainstHateSubreddits
+- MarchAgainstTrump
+- SubredditDrama
+- livven
+- u_imguralbumbot
+- Conservative
+- neoliberal
+- announcements
+- esist
+- iamverybadass
+- uncensorednews
+---

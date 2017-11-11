@@ -1,0 +1,24 @@
+---
+title: GiftofGames
+crosslinks:
+- youtubot
+- youtubefactsbot
+- u_imguralbumbot
+- indiegameswap
+- RandomActsOfGaming
+- AskReddit
+- SteamGameSwap
+- FreeGamesOnSteam
+- pcmasterrace
+- animegifs
+- gifs
+- tmsbmeta
+- GameDeals
+- GameSale
+- Jokes
+- therewasanattempt
+- steam_giveaway
+- Minecraft
+- PrequelMemes
+- DotA2
+---

@@ -1,0 +1,24 @@
+---
+title: HomeServer
+crosslinks:
+- homelab
+- PleX
+- DataHoarder
+- JDM_WAAAT
+- buildapc
+- xkcd
+- synology
+- PFSENSE
+- linuxserver
+- usenet
+- linuxadmin
+- pcmasterrace
+- xboxone
+- Steam
+- zelon88
+- Amd
+- radarr
+- binhex
+- microsoftsoftwareswap
+- freenas
+---

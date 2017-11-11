@@ -1,0 +1,24 @@
+---
+title: titlegore
+crosslinks:
+- TitlePapercut
+- AskReddit
+- youtubefactsbot
+- tmsbmeta
+- commentgore
+- WhereIsPepper
+- todayilearned
+- RotMG
+- oldpeoplefacebook
+- MadeMeSmile
+- NoFap
+- shittykickstarters
+- dontdeadopeninside
+- Showerthoughts
+- The_Donald
+- gaming
+- Ooer
+- autotldr
+- excgarated
+- ToughGuysGroup
+---

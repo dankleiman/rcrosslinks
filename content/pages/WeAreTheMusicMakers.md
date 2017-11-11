@@ -1,0 +1,24 @@
+---
+title: WeAreTheMusicMakers
+crosslinks:
+- youtubefactsbot
+- youtubot
+- edmproduction
+- audioengineering
+- synthesizers
+- musictheory
+- u_imguralbumbot
+- Music
+- Drumkits
+- makinghiphop
+- piano
+- MusicInTheMaking
+- autotldr
+- alotabot
+- tmsbmeta
+- songaweek
+- Reaper
+- trapproduction
+- ableton
+- lewronggeneration
+---

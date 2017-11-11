@@ -1,0 +1,24 @@
+---
+title: Stoicism
+crosslinks:
+- youtubot
+- youtubefactsbot
+- Buddhism
+- Vrilwytblik
+- raisedbynarcissists
+- getdisciplined
+- SuicideWatch
+- autourbanbot
+- todayilearned
+- AntiFacebook
+- MGTOW
+- Mindfulness
+- xkcd
+- fasting
+- intermittentfasting
+- ZenHabits
+- howtonotgiveafuck
+- IOPsychology
+- LifeProTips
+- mgtow
+---

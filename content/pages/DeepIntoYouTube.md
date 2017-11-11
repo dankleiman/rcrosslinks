@@ -1,0 +1,24 @@
+---
+title: DeepIntoYouTube
+crosslinks:
+- youtubot
+- NotTimAndEric
+- tmsbmeta
+- youtubehaiku
+- nocontext
+- botpopularitybot
+- AskReddit
+- InterdimensionalCable
+- me_irl
+- videos
+- EnoughInternet
+- yee
+- Music
+- gatekeeping
+- MassdropBot
+- zeropointmodule
+- xkcd
+- NotHowDrugsWork
+- fifthworldvideos
+- communism
+---

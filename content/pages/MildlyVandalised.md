@@ -1,0 +1,24 @@
+---
+title: MildlyVandalised
+crosslinks:
+- youtubefactsbot
+- pics
+- mildlyinteresting
+- onejob
+- tmsbmeta
+- dontdeadopeninside
+- funny
+- MassdropBot
+- eyebombing
+- xkcd
+- r
+- trees
+- boottoobig
+- GetBamboozled
+- modnews
+- madlads
+- kerning
+- tacobell
+- yarnbombing
+- suspiciousquotes
+---

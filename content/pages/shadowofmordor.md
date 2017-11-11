@@ -1,0 +1,24 @@
+---
+title: shadowofmordor
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- shadow_of_war
+- livven
+- gaming
+- anti_gif_bot
+- Gamingcirclejerk
+- dawnofwar
+- forhonor
+- PrequelMemes
+- patientgamers
+- tmsbmeta
+- INJUSTICE
+- pcgaming
+- Overwatch
+- Doom
+- FictionalVittles
+- xboxone
+- badlinguistics
+---

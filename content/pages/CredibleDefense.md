@@ -1,0 +1,24 @@
+---
+title: CredibleDefense
+crosslinks:
+- LessCredibleDefence
+- Metageopolitics
+- autotldr
+- WarCollege
+- HephaestusAetnaean
+- youtubefactsbot
+- IndiaSpeaks
+- geopolitics
+- DepthHub
+- AskHistorians
+- Dragon029
+- aviation
+- xkcd
+- bestof
+- politics
+- kurdistan
+- worldnews
+- WarshipPorn
+- ShitAmericansSay
+- shitnazbolssay
+---

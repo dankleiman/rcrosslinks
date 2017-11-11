@@ -1,0 +1,24 @@
+---
+title: mariokart
+crosslinks:
+- anti_gif_bot
+- NintendoSwitch
+- livven
+- youtubot
+- youtubefactsbot
+- nintendo
+- 29mkbnp
+- xkcd
+- interestingasfuck
+- Henryuuki
+- autourbanbot
+- MarioMaker
+- BotRights
+- wiiu
+- WiiHacks
+- splatoon
+- shittytumblrgifs
+- boardgames
+- cringe
+- SwitchFCSwap
+---

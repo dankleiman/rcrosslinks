@@ -1,0 +1,24 @@
+---
+title: rollercoasters
+crosslinks:
+- youtubefactsbot
+- RMCMeanStreak
+- livven
+- rollercoasterjerk
+- u_imguralbumbot
+- anti_gif_bot
+- CoasterDraft
+- Themepark
+- CanadaCoasterFan
+- metric_units
+- washingtondc
+- place
+- gif
+- coasterporn
+- gifs
+- theydidthemath
+- SweatyPalms
+- Vaporwave
+- beetlejuicing
+- coasterdynamix
+---

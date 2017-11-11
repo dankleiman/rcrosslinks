@@ -1,0 +1,24 @@
+---
+title: badlegaladvice
+crosslinks:
+- news
+- The_Donald
+- AskReddit
+- politics
+- law
+- legaladvice
+- science
+- amibeingdetained
+- Shoplifting
+- SubredditDrama
+- pics
+- AdviceAnimals
+- videos
+- pussypassdenied
+- TrueReddit
+- CringeAnarchy
+- MensRights
+- Drama
+- television
+- personalfinance
+---

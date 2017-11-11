@@ -1,0 +1,24 @@
+---
+title: bestofworldstar
+crosslinks:
+- youtubefactsbot
+- TheImperialCult
+- NegativeWithGold
+- watchpeopledie
+- youtubot
+- trashyboner
+- NotHowDrugsWork
+- mildlysatisfying
+- islamcirclejerk
+- washingtondc
+- JusticeServed
+- whitepeoplegifs
+- thisismylifenow
+- iamversmart
+- Drama
+- history
+- PublicFreakout
+- SummerReddit
+- videos
+- BestOfLiveleak
+---

@@ -1,0 +1,24 @@
+---
+title: hawks
+crosslinks:
+- hockey
+- youtubot
+- u_imguralbumbot
+- wildhockey
+- anti_gif_bot
+- chicago
+- puckstreams
+- place
+- LazyMan
+- stlouisblues
+- underpopular
+- leafs
+- IceHogs
+- reddit_stream
+- hockeyjerseys
+- NewYorkIslanders
+- CHIBears
+- TheGreatGooner
+- nhl
+- '2013'
+---

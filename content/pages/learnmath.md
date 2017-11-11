@@ -1,0 +1,24 @@
+---
+title: learnmath
+crosslinks:
+- math
+- u_imguralbumbot
+- cheatatmathhomework
+- askscience
+- youtubefactsbot
+- youtubot
+- mentalmath
+- badmathematics
+- babyrudin
+- askmath
+- CompileBot
+- learnprogramming
+- HomeworkHelp
+- AskPhysics
+- AskEconomics
+- Fuckthealtright
+- MassdropBot
+- unrealengine
+- learnphysics
+- IsAnybodyHere
+---

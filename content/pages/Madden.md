@@ -1,0 +1,24 @@
+---
+title: Madden
+crosslinks:
+- MaddenUltimateTeam
+- youtubefactsbot
+- livven
+- youtubot
+- CFMmadden
+- u_imguralbumbot
+- MaddenGMs
+- NBA2k
+- anti_gif_bot
+- MaddenRFL
+- Patriots
+- MaddenMonarchy
+- CoalitionAgainstEvil
+- MaddenBros
+- MLBTheShow
+- RedditIML
+- MCSPlaystation
+- AMAAggregator
+- NCAAFBseries
+- john_yukis_bots
+---

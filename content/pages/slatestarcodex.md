@@ -1,0 +1,24 @@
+---
+title: slatestarcodex
+crosslinks:
+- AskHistorians
+- politics
+- badeconomics
+- KotakuInAction
+- AskSocialScience
+- Drama
+- TrueReddit
+- ChapoTrapHouse
+- socialism
+- philosophy
+- science
+- discussion
+- SubredditDrama
+- The_Donald
+- changemyview
+- SneerClub
+- Economics
+- youtubefactsbot
+- DepthHub
+- neoliberal
+---

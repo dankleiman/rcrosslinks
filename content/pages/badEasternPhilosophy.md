@@ -1,0 +1,24 @@
+---
+title: badEasternPhilosophy
+crosslinks:
+- Buddhism
+- zen
+- Meditation
+- taoism
+- AskReddit
+- hinduism
+- askphilosophy
+- DebateReligion
+- SIGjudaismConversion
+- OutOfTheLoop
+- dankmemes
+- worldnews
+- ABCDesis
+- DrugStashes
+- quityourbullshit
+- IndiaSpeaks
+- SubredditDrama
+- PureLand
+- religion
+- TheRedPill
+---

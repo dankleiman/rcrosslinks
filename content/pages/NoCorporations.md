@@ -1,0 +1,24 @@
+---
+title: NoCorporations
+crosslinks:
+- technology
+- conspiracy
+- environment
+- privacy
+- worldnews
+- LateStageCapitalism
+- politics
+- Health
+- business
+- psychology
+- news
+- TrueReddit
+- Anticonsumption
+- Portland
+- science
+- EverythingScience
+- Documentaries
+- UpliftingNews
+- Futurology
+- Frugal
+---

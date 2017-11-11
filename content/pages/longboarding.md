@@ -1,0 +1,24 @@
+---
+title: longboarding
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- anti_gif_bot
+- livven
+- youtubot
+- tmsbmeta
+- skateboarding
+- LongboardBuilding
+- ElectricSkateboarding
+- NewSkaters
+- LSD
+- nameaserver
+- gifs
+- gatekeeping
+- xkcd
+- autourbanbot
+- solotravel
+- regularcarreviews
+- furry_irl
+- airsoft
+---

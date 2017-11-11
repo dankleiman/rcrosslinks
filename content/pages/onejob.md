@@ -1,0 +1,24 @@
+---
+title: onejob
+crosslinks:
+- youtubefactsbot
+- CrappyDesign
+- anti_gif_bot
+- mildlyinfuriating
+- NotMyJob
+- funny
+- u_imguralbumbot
+- mildlypenis
+- dontdeadopeninside
+- india
+- youtubot
+- MildlyVandalised
+- TitlePapercut
+- imc_irl
+- MaliciousCompliance
+- jesuschristreddit
+- mildyinfuriating
+- shubreddit
+- StoppedWorking
+- Austin
+---

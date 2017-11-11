@@ -1,0 +1,24 @@
+---
+title: Femdom
+crosslinks:
+- livven
+- botwatch
+- u_imguralbumbot
+- FemdomCommunity
+- JavDownloadCenter
+- youtubefactsbot
+- hentaifemdom
+- ShibbySays
+- Pain
+- gentlefemdom
+- BDSMpersonals
+- chastity
+- assworship
+- titshansen
+- femdompersonals
+- orgasmcontrol
+- feet
+- EnoughTrumpSpam
+- FemdomPets
+- Hotwife
+---

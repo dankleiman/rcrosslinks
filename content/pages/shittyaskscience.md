@@ -1,0 +1,24 @@
+---
+title: shittyaskscience
+crosslinks:
+- livven
+- youtubefactsbot
+- tmsbmeta
+- xkcd
+- u_imguralbumbot
+- pics
+- AskReddit
+- autourbanbot
+- autotldr
+- youtubot
+- funny
+- gifs
+- nohomo_bot
+- theydidthemath
+- askscience
+- john_yukis_bots
+- bestof
+- Jokes
+- tifu
+- totallynotrobots
+---

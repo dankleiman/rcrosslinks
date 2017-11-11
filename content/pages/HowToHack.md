@@ -1,0 +1,24 @@
+---
+title: HowToHack
+crosslinks:
+- youtubefactsbot
+- hacking
+- netsec
+- u_imguralbumbot
+- LiveOverflow
+- xkcd
+- youtubot
+- learnpython
+- controllablewebcams
+- lockpicking
+- Kalilinux
+- trackers
+- autotldr
+- StarboundPlanets
+- AssHatHackers
+- Jokes
+- Hacking_Tutorials
+- Bitcoin
+- TOR
+- explainlikeimfive
+---

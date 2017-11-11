@@ -1,0 +1,24 @@
+---
+title: theydidthefuckyou
+crosslinks:
+- livven
+- FuckTokenBot
+- botsrights
+- anti_gif_bot
+- MassdropBot
+- youtubefactsbot
+- LinusTechTips
+- autourbanbot
+- Calligraphy
+- gifs
+- tmsbmeta
+- DrosteEffect
+- totallynotrobots
+- PenmanshipPorn
+- youtubot
+- HistoryPorn
+- EarthPorn
+- AskOuija
+- onewordeach
+- autotldr
+---

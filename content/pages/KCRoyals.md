@@ -1,0 +1,24 @@
+---
+title: KCRoyals
+crosslinks:
+- youtubefactsbot
+- baseball
+- youtubot
+- tmsbmeta
+- Askme4astory
+- botpopularitybot
+- kansascity
+- MLBStreams
+- xkcd
+- KansasCityChiefs
+- place
+- IAmA
+- OutOfTheLoop
+- WhitMerrifield
+- MassdropBot
+- john_yukis_bots
+- AskReddit
+- livven
+- tifu
+- WahoosTipi
+---

@@ -1,0 +1,24 @@
+---
+title: BlueJackets
+crosslinks:
+- hockey
+- youtubefactsbot
+- LazyMan
+- penguins
+- youtubot
+- hockeyjerseys
+- puckstreams
+- livven
+- CollegeBasketball
+- nhl_games
+- u_imguralbumbot
+- hockeycirclejerk
+- Columbus
+- Suomi
+- hawks
+- SubredditSimulator
+- MassdropBot
+- OttawaSenators
+- nhl
+- canucks
+---

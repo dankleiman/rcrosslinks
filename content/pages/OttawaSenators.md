@@ -1,0 +1,24 @@
+---
+title: OttawaSenators
+crosslinks:
+- hockey
+- youtubefactsbot
+- tmsbmeta
+- penguins
+- anti_gif_bot
+- livven
+- canucks
+- stupidsexykarlsson
+- markborowiecki
+- BostonBruins
+- OneTurrisGod
+- leafs
+- DallasStars
+- NHLStreams
+- puckstreams
+- u_imguralbumbot
+- Flyers
+- youtubot
+- hockeyjerseys
+- Habs
+---

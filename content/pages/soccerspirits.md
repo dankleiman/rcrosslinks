@@ -1,0 +1,24 @@
+---
+title: soccerspirits
+crosslinks:
+- tmsbmeta
+- SoccerSpiritsTrading
+- john_yukis_bots
+- livven
+- nohomo_bot
+- alotabot
+- summonerswar
+- xkcd
+- 107703b
+- totallynotrobots
+- youtubot
+- o59xs1
+- ggggg
+- hearthstone
+- HailCorporate
+- MSLGame
+- grandorder
+- leagueoflegends
+- Warframe
+- help
+---

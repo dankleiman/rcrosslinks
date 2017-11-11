@@ -1,0 +1,24 @@
+---
+title: ibs
+crosslinks:
+- HumanMicrobiome
+- Microbiome
+- FODMAPS
+- youtubefactsbot
+- keto
+- instantpot
+- SuicideWatch
+- science
+- youtubot
+- zerocarb
+- kratom
+- AMAAggregator
+- todayilearned
+- john_yukis_bots
+- Cyclicvomiting
+- gainit
+- Mindfulness
+- mentalhealth
+- Prebiotics
+- PhoenixR4R
+---

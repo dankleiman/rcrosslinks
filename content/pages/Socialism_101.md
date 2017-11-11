@@ -1,0 +1,24 @@
+---
+title: Socialism_101
+crosslinks:
+- socialism
+- communism101
+- communism
+- Anarchy101
+- youtubefactsbot
+- marxism_101
+- CapitalismVSocialism
+- DebateCommunism
+- LateStageCapitalism
+- ShitLiberalsSay
+- youtubot
+- Anarchism
+- AskHistorians
+- shitleftistssay
+- Anarcho_Capitalism
+- mutualism
+- badeconomics
+- FULLCOMMUNISM
+- RadicalChristianity
+- Market_Socialism
+---

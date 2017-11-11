@@ -1,0 +1,24 @@
+---
+title: xbox
+crosslinks:
+- xboxone
+- youtubefactsbot
+- xbox360
+- gaming
+- gamingnews
+- MCPE
+- buildapc
+- assassinscreed
+- shitpost
+- GreatXboxDeals
+- CallOfDuty
+- PoliticalHumor
+- consoledeals
+- MechanicalKeyboards
+- originalxbox
+- Overwatch
+- patientgamers
+- shadowrunfps
+- DestinyTheGame
+- Windows10
+---

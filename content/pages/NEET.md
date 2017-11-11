@@ -1,0 +1,24 @@
+---
+title: NEET
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- ShrugLifeSyndicate
+- NEETByChoice
+- autotldr
+- jobs
+- bodyweightfitness
+- LateStageCapitalism
+- freelanceWriters
+- Fraudnet2
+- xkcd
+- amiugly
+- childfree
+- depression
+- nosleep
+- economicCollapse
+- flipping
+- MassdropBot
+- mturk
+- financialindependence
+---

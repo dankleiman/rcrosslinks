@@ -1,0 +1,24 @@
+---
+title: LetsTalkMusic
+crosslinks:
+- youtubefactsbot
+- ifyoulikeblank
+- ShitTheFalseSay
+- trap
+- classicalmusic
+- Metal
+- Emo
+- outrun
+- indieheads
+- Music
+- hiphopheads
+- DepthHub
+- Nirvana
+- listentothis
+- Metalcore
+- LinkinPark
+- makinghiphop
+- explainlikeimfive
+- EDM
+- postrock
+---

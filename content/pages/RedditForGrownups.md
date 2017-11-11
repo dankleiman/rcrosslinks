@@ -1,0 +1,24 @@
+---
+title: RedditForGrownups
+crosslinks:
+- youtubefactsbot
+- AskMenOver30
+- autotldr
+- xkcd
+- youtubot
+- findareddit
+- AskOldPeople
+- u_imguralbumbot
+- marriedredpill
+- discworld
+- Psychosis
+- tall
+- Vernon
+- PLC
+- Incels
+- DesirePath
+- AndyKim2018
+- MusicBattlestations
+- mealtimevideos
+- TrueTrueReddit
+---

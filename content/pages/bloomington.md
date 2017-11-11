@@ -1,0 +1,24 @@
+---
+title: bloomington
+crosslinks:
+- youtubefactsbot
+- TrueTrueReddit
+- autotldr
+- u_imguralbumbot
+- IndianaUniversity
+- BtownExchange
+- autourbanbot
+- AskVet
+- answers
+- UTK
+- changemyview
+- electronic_cigarette
+- HateCrimeHoaxes
+- politics
+- explainlikeimfive
+- indianapolis
+- news
+- TheseFuckingAccounts
+- personalfinance
+- bedford
+---

@@ -1,0 +1,24 @@
+---
+title: metalworking
+crosslinks:
+- youtubefactsbot
+- DIY
+- Welding
+- u_imguralbumbot
+- spam
+- anti_gif_bot
+- Blacksmith
+- Skookum
+- wheredidthesodago
+- billiards
+- jewelry
+- wallart
+- MetalCasting
+- blacksmithing
+- creepy
+- pics
+- reactiongifs
+- ultrawidemasterrace
+- CNC
+- short
+---

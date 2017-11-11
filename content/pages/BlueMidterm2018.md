@@ -1,0 +1,24 @@
+---
+title: BlueMidterm2018
+crosslinks:
+- autotldr
+- Political_Revolution
+- Enough_Sanders_Spam
+- RalphNortham
+- youtubefactsbot
+- politics
+- esist
+- justicedemocrats
+- neoliberal
+- SandersForPresident
+- IndivisibleGuide
+- EnoughTrumpSpam
+- botpopularitybot
+- youtubot
+- bestof
+- tmsbmeta
+- AMAAggregator
+- liberalgunowners
+- u_imguralbumbot
+- PoliticalDiscussion
+---

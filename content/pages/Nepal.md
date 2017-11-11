@@ -1,0 +1,24 @@
+---
+title: Nepal
+crosslinks:
+- youtubefactsbot
+- FreeMadhesh
+- youtubot
+- india
+- IndiaSpeaks
+- indianews
+- autotldr
+- place
+- bakchodi
+- hinduism
+- vexillology
+- AskReddit
+- nepalISP
+- NoStupidQuestions
+- polandball
+- trees
+- OutOfTheLoop
+- autourbanbot
+- pakistan
+- gonewildstories
+---

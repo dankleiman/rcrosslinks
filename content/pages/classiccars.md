@@ -1,0 +1,24 @@
+---
+title: classiccars
+crosslinks:
+- ClassicFord
+- youtubefactsbot
+- botwatch
+- classicmustangs
+- youtubot
+- u_imguralbumbot
+- projectcar
+- NovaParking
+- pics
+- carporn
+- AutoDetailing
+- tractors
+- RatRods
+- vandwellers
+- mercedes
+- Trucks
+- WeirdWheels
+- autotldr
+- mercedes_benz
+- Autos
+---

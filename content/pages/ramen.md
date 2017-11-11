@@ -1,0 +1,24 @@
+---
+title: ramen
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- AskCulinary
+- boston
+- ShittyRamen
+- GifRecipes
+- japancirclejerk
+- john_yukis_bots
+- wholesomemes
+- sushi
+- FoodLosAngeles
+- JapaneseFood
+- spicy
+- Naruto
+- japanpics
+- changemyview
+- fermentation
+- bulletjournal
+- livven
+---

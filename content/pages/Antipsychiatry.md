@@ -1,0 +1,24 @@
+---
+title: Antipsychiatry
+crosslinks:
+- autotldr
+- Antipsychlibrary
+- MassdropBot
+- processthinking
+- SurvivorPsychiatry
+- askscience
+- shrooms
+- cfs
+- TargetedEnergyWeapons
+- Gangstalking
+- japan
+- xkcd
+- WayOfTheBern
+- Gnostic
+- SanctionedSuicide
+- troubledteens
+- autourbanbot
+- Psychiatry
+- Supplements
+- PsychiatricFreedom
+---

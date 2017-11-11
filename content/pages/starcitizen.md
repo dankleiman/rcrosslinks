@@ -1,0 +1,24 @@
+---
+title: starcitizen
+crosslinks:
+- youtubefactsbot
+- youtubot
+- starcitizen_refunds
+- DerekSmart
+- u_imguralbumbot
+- Starcitizen_trades
+- livven
+- EliteDangerous
+- anti_gif_bot
+- Eve
+- xkcd
+- Starcitizen_guilds
+- pcgaming
+- MassdropBot
+- john_yukis_bots
+- hotas
+- Games
+- place
+- scleaks
+- gamedev
+---

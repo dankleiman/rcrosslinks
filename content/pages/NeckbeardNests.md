@@ -1,0 +1,24 @@
+---
+title: NeckbeardNests
+crosslinks:
+- youtubefactsbot
+- carbage
+- ICleanedMyRoom
+- WTF
+- neckbeardstories
+- declutter
+- lego
+- trashy
+- Sexsells
+- Frugal_Jerk
+- FML
+- HighschoolDxD
+- ChoosingBeggars
+- chipchan
+- GetOrganized
+- Throwers
+- AskReddit
+- delusionalartists
+- pussypassdenied
+- Serendipity
+---

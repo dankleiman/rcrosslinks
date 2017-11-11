@@ -1,0 +1,24 @@
+---
+title: vegetarian
+crosslinks:
+- vegan
+- autotldr
+- youtubefactsbot
+- vegancirclejerk
+- youtubot
+- badcarnism
+- veganfitness
+- GifRecipes
+- EatCheapAndHealthy
+- food
+- u_imguralbumbot
+- livven
+- science
+- Detroit
+- MeatlessMealPrep
+- vegangifrecipes
+- OutOfTheLoop
+- recipes
+- john_yukis_bots
+- Pescetarian
+---

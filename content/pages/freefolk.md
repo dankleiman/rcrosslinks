@@ -1,0 +1,24 @@
+---
+title: freefolk
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- asoiaf
+- gameofthrones
+- youtubot
+- u_imguralbumbot
+- tmsbmeta
+- john_yukis_bots
+- livven
+- asoiafcirclejerk
+- GoTlinks
+- andnowmyrewatchbegins
+- megalinks
+- MassdropBot
+- autotldr
+- autourbanbot
+- got4spoilswar
+- MaestersoftheFreefolk
+- Weirwood_net
+- IAmA
+---

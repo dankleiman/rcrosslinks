@@ -1,0 +1,24 @@
+---
+title: niceguys
+crosslinks:
+- Nicegirls
+- u_imguralbumbot
+- sadcringe
+- cringepics
+- youtubot
+- autourbanbot
+- tmsbmeta
+- AskReddit
+- relationships
+- legaladvice
+- botwatch
+- niceguysDiscussion
+- totallynotrobots
+- badwomensanatomy
+- xkcd
+- indianpeoplefacebook
+- creepyPMs
+- iamverybadass
+- insanepeoplefacebook
+- short
+---

@@ -1,0 +1,24 @@
+---
+title: gpdwin
+crosslinks:
+- youtubefactsbot
+- GPDPocket
+- youtubot
+- shittykickstarters
+- emulation
+- Gamingcirclejerk
+- metalgearsolid
+- ffxiv
+- mechwarrior
+- SteamController
+- pcmasterrace
+- Xiaomi
+- gaming
+- lowspecgamer
+- 2h5ibnk
+- DarkSouls2
+- indiegameswap
+- help
+- vita
+- FalloutMods
+---

@@ -1,0 +1,24 @@
+---
+title: Charlottesville
+crosslinks:
+- autotldr
+- Serendipity
+- bestof
+- standupshots
+- videos
+- europeannationalism
+- CharlottesvilleTech
+- youtubefactsbot
+- anti_gif_bot
+- Physical_Removal
+- EnoughTrumpSpam
+- u_imguralbumbot
+- killthosewhodisagree
+- forhonor
+- ChadNationalism
+- conspiracy
+- youtubot
+- The_Donald
+- Virginia
+- BlackPeopleTwitter
+---

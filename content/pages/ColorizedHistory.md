@@ -1,0 +1,24 @@
+---
+title: ColorizedHistory
+crosslinks:
+- youtubefactsbot
+- ShitWehraboosSay
+- youtubot
+- badhistory
+- AskHistorians
+- communism
+- todayilearned
+- history
+- bestof
+- NotKenM
+- india
+- Drama
+- analog
+- zeropointmodule
+- EnoughCommieSpam
+- mildlyinteresting
+- HistoryPorn
+- oldbabies
+- conspiracy
+- ShitLiberalsSay
+---

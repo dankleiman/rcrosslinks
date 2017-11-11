@@ -1,0 +1,24 @@
+---
+title: beards
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- youtubot
+- BeardPorn
+- MassdropBot
+- FierceFlow
+- john_yukis_bots
+- funny
+- loseit
+- tmsbmeta
+- malehairadvice
+- xkcd
+- DIY
+- malefashionadvice
+- autourbanbot
+- casualiama
+- pics
+- BeardAdvice
+---

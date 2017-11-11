@@ -1,0 +1,24 @@
+---
+title: bookclub
+crosslinks:
+- firstpage
+- shakespeare
+- TheWedge
+- logophilia
+- Canonade
+- books
+- shortstoryclub
+- Cyberpunk
+- SF_Book_Club
+- asoiafreread
+- lickerish
+- wikipedia
+- ReadingGroup
+- youtubefactsbot
+- InfiniteDiscussion
+- BooksAMA
+- pics
+- rouen
+- whatsthatbook
+- pittsburgh
+---

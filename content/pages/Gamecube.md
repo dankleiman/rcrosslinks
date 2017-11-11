@@ -1,0 +1,24 @@
+---
+title: Gamecube
+crosslinks:
+- youtubefactsbot
+- gameswap
+- crtgaming
+- youtubot
+- GameSale
+- gamecollecting
+- cemu
+- u_imguralbumbot
+- n64
+- PSO
+- funny
+- SSBM
+- WiiHacks
+- place
+- wii
+- MassdropBot
+- GameTrade
+- SSX
+- mildlyinteresting
+- customGCC
+---

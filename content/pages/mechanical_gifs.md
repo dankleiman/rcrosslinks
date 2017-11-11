@@ -1,0 +1,24 @@
+---
+title: mechanical_gifs
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- gifs
+- xkcd
+- youtubot
+- totallynotrobots
+- specializedtools
+- oddlysatisfying
+- AskReddit
+- 3Dprinting
+- CatastrophicFailure
+- u_imguralbumbot
+- botpopularitybot
+- botwatch
+- Skookum
+- Watches
+- EngineeringPorn
+- blackmagicfuckery
+- Design
+---

@@ -1,0 +1,24 @@
+---
+title: shittydarksouls
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- MassdropBot
+- anti_gif_bot
+- darksouls3
+- DarkSouls2
+- youtubot
+- gaming
+- darksouls
+- ClubGwyndolin
+- shittyshittydarksouls
+- assignedmale
+- alotabot
+- autourbanbot
+- neckbeardRPG
+- neckbeardrpg
+- CatInTheHatMemes
+- thalassophobia
+- translator
+- BotsScrewingUp
+---

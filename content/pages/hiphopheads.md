@@ -1,0 +1,24 @@
+---
+title: hiphopheads
+crosslinks:
+- XXXTENTACION
+- Music
+- FrankOcean
+- music_survivor
+- IAmA
+- KendrickLamar
+- Kanye
+- videos
+- popheads
+- AskReddit
+- RnBHeads
+- autourbanbot
+- freshalbumart
+- Drizzy
+- leakthreads
+- makinghiphop
+- john_yukis_bots
+- Hiphopcirclejerk
+- brockhampton
+- G59
+---

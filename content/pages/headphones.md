@@ -1,0 +1,24 @@
+---
+title: headphones
+crosslinks:
+- MassdropBot
+- audiophile
+- AVexchange
+- headphonegore
+- audiophilemusic
+- Zeos
+- pcmasterrace
+- ZReviews
+- alotabot
+- PS4
+- diytubes
+- Headphoneporn
+- MechanicalKeyboards
+- avexchange
+- GlobalOffensive
+- bose
+- autotldr
+- buildapcsales
+- EarSpeakers
+- Amd
+---

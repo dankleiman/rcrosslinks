@@ -1,0 +1,24 @@
+---
+title: DBZDokkanBattle
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- anti_gif_bot
+- DBZDokkanMarketplace
+- john_yukis_bots
+- dbz
+- alotabot
+- FireEmblemHeroes
+- MassdropBot
+- OnePieceTC
+- '2013'
+- NarutoBlazing
+- autourbanbot
+- DokkanBattleCommunity
+- tabled
+- xkcd
+- SubredditDrama
+- REEEEEEEEEE
+- OutOfTheLoop
+---

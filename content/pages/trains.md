@@ -1,0 +1,24 @@
+---
+title: trains
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- youtubot
+- norwayonreddit
+- CringeAnarchy
+- TrainPorn
+- OSHA
+- AskReddit
+- WWII
+- energy
+- lego
+- uktrains
+- europe
+- modeltrains
+- Railroad
+- Switzerland
+- aviation
+- openstreetmap
+- tiltshift
+---

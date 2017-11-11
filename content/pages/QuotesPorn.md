@@ -1,0 +1,24 @@
+---
+title: QuotesPorn
+crosslinks:
+- PornOverlords
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- AskHistorians
+- politics
+- EnoughTrumpSpam
+- LiveToWin
+- The_Donald
+- altright
+- tmsbmeta
+- Drama
+- im14andthisisdeep
+- EarthPorn
+- ShitLiberalsSay
+- quotes
+- NewSlangTerms
+- AdviceAnimals
+- canada
+- videos
+---

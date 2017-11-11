@@ -1,0 +1,24 @@
+---
+title: AlternativeAmazonVGF
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Disgaea
+- xboxone
+- farcry
+- Games
+- StardewValley
+- john_yukis_bots
+- biomutant
+- lakers
+- vinyl
+- help
+- adventuretime
+- videos
+- 4kTV
+- depechemode
+- copypasta
+- AmazonVGF
+- tifu
+- houston
+---

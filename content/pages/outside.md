@@ -1,0 +1,24 @@
+---
+title: outside
+crosslinks:
+- youtubefactsbot
+- xkcd
+- youtubot
+- mildlyinteresting
+- PersonalGame
+- unnecessaryhypeman
+- ADHD
+- nocontext
+- dysthymia
+- Undertale
+- swoleacceptance
+- bee_irl
+- pics
+- unexpectedrunescape
+- restofthefuckingowl
+- facepalm
+- MadeMeSmile
+- neckbeardRPG
+- solipsism
+- ShrugLifeSyndicate
+---

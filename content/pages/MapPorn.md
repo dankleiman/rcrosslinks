@@ -1,0 +1,24 @@
+---
+title: MapPorn
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- ShitAmericansSay
+- europe
+- MapsWithoutNZ
+- AskHistorians
+- ShittyMapPorn
+- anti_gif_bot
+- livven
+- dataisbeautiful
+- imaginarymaps
+- dutchshitonreddit
+- mapporncirclejerk
+- SubredditDrama
+- papertowns
+- eu4
+- finlandConspiracy
+- vexillology
+- Turkey
+---

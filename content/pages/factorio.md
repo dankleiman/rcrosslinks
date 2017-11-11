@@ -1,0 +1,24 @@
+---
+title: factorio
+crosslinks:
+- michael________
+- FactorioBlueprints
+- youtubefactsbot
+- u_imguralbumbot
+- xkcd
+- livven
+- anti_gif_bot
+- FactorioMMO
+- dwarffortress
+- feedthebeast
+- dtandersen
+- MassdropBot
+- totallynotrobots
+- place
+- RimWorld
+- ProgrammerHumor
+- FactorioCirclejerk
+- bestof
+- arumba07
+- youtubot
+---

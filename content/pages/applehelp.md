@@ -1,0 +1,24 @@
+---
+title: applehelp
+crosslinks:
+- apple
+- u_imguralbumbot
+- youtubefactsbot
+- mac
+- osx
+- ipad
+- hardwareswap
+- MacOS
+- self
+- techsupport
+- AppleWatch
+- AppleWhatShouldIBuy
+- xkcd
+- youtubot
+- applehelp_betas
+- ios
+- ITunes
+- appletv
+- premiere
+- privacy
+---

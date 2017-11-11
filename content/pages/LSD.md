@@ -1,0 +1,24 @@
+---
+title: LSD
+crosslinks:
+- youtubefactsbot
+- livven
+- Drugs
+- anti_gif_bot
+- DarkNetMarkets
+- Psychonaut
+- DarkNetMarketsNoobs
+- microdosing
+- ShrugLifeSyndicate
+- replications
+- u_imguralbumbot
+- youtubot
+- drugscirclejerk
+- woahdude
+- Currentlytripping
+- Art
+- place
+- botwatch
+- gratefuldead
+- shrooms
+---

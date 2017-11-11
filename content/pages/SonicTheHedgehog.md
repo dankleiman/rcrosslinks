@@ -1,0 +1,24 @@
+---
+title: SonicTheHedgehog
+crosslinks:
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- livven
+- u_imguralbumbot
+- NintendoSwitch
+- place
+- sonic
+- john_yukis_bots
+- axew
+- AceAttorney
+- pcmasterrace
+- autourbanbot
+- gaming
+- TheBlueCorner
+- ExpandDong
+- surrealmemes
+- tailsclub
+- me_irl
+- pcgaming
+---

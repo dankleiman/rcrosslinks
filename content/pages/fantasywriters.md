@@ -1,0 +1,24 @@
+---
+title: fantasywriters
+crosslinks:
+- writing
+- scifiwriting
+- Fantasy
+- WritingPrompts
+- YAwriters
+- worldbuilding
+- PubTips
+- conlangs
+- DestructiveReaders
+- youtubefactsbot
+- DawnbreakerStory
+- InkbloodWritersGuild
+- AskReddit
+- createthisworld
+- bloodborne
+- magicbuilding
+- fantasywriting
+- WriteWorld
+- UnexploredWorldMeta
+- Serendipity
+---

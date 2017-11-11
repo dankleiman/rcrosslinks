@@ -1,0 +1,24 @@
+---
+title: ClashOfClans
+crosslinks:
+- livven
+- youtubefactsbot
+- RedditAllianceClans
+- RedditZuluCOC
+- ClashOfClansRecruit
+- RedditPirates
+- tmsbmeta
+- redditclansystem
+- RedditAsylumCoC
+- john_yukis_bots
+- ClanZen
+- RedditZeroClan
+- ClashRoyale
+- dynastyclash
+- botpopularitybot
+- cocredditheroes
+- alotabot
+- redditchi
+- RedditClansHistory
+- saltminersclash
+---

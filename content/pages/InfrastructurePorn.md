@@ -1,0 +1,24 @@
+---
+title: InfrastructurePorn
+crosslinks:
+- PornOverlords
+- youtubefactsbot
+- BrasilOnReddit
+- CitiesSkylines
+- HalfbuiltHistory
+- intersectionporn
+- nyc
+- urbanplanning
+- engineteststands
+- u_imguralbumbot
+- youtubot
+- TomScott
+- theydidthemath
+- EarthPorn
+- portland
+- norwayonreddit
+- india
+- StLouis
+- MassdropBot
+- UrbanHell
+---

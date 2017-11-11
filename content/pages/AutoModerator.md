@@ -1,0 +1,24 @@
+---
+title: AutoModerator
+crosslinks:
+- ModSupport
+- modhelp
+- dirtykikpals
+- Android
+- Fitness
+- subreddit
+- subredditname
+- toolbox
+- bugs
+- RequestABot
+- captainmeta4bots
+- todayilearned
+- earwolf
+- SkincareAddiction
+- YOURSUBREDDITHERE
+- ContestOfChampions
+- cordless
+- SUBREDDIT
+- csshelp
+- BestOfStreamingVideo
+---

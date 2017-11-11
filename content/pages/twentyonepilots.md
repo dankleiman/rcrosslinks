@@ -1,0 +1,24 @@
+---
+title: twentyonepilots
+crosslinks:
+- youtubefactsbot
+- youtubot
+- MassdropBot
+- tmsbmeta
+- place
+- TwennyWunPilots
+- anti_gif_bot
+- Music
+- livven
+- announcements
+- LearnUselessTalents
+- ComedyCemetery
+- Muse
+- SongStems
+- drums
+- isolateddragon
+- glitch_art
+- PinkOmega
+- AskReddit
+- theydidthemath
+---

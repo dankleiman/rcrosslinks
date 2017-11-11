@@ -1,0 +1,24 @@
+---
+title: COMPLETEANARCHY
+crosslinks:
+- youtubefactsbot
+- TOTALCOMMUNALISM
+- FULLCOMMUNISM
+- livven
+- Anarchism
+- anti_gif_bot
+- Ultraleft
+- u_imguralbumbot
+- socialism
+- Anarcho_Capitalism
+- shitleftistssay
+- ShitLiberalsSay
+- EnoughBrocialistSpam
+- xkcd
+- MassdropBot
+- The_Donald
+- ANI_COMMUNISM
+- Anarchy101
+- SubredditDrama
+- autotldr
+---

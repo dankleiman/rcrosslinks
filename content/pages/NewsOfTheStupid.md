@@ -1,0 +1,24 @@
+---
+title: NewsOfTheStupid
+crosslinks:
+- autotldr
+- facepalm
+- subredditoftheday
+- Serendipity
+- California
+- The_Donald
+- IndianaMan
+- titlegore
+- news
+- uncensorednews
+- ShitJadenSays
+- topnotchshitposting
+- legaladvice
+- politics
+- technology
+- youtubot
+- straya
+- StallmanWasRight
+- TheOnion
+- dataisbeautiful
+---

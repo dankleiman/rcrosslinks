@@ -1,0 +1,24 @@
+---
+title: gfur
+crosslinks:
+- furaffinitybot
+- livven
+- youtubefactsbot
+- u_imguralbumbot
+- Drawn_Horsecock
+- Chubbygayyiff
+- FurryArtSchool
+- autofellatio
+- yiff
+- FeralPokePorn
+- MassdropBot
+- jockstraps
+- gaycumsluts
+- yiffplus
+- awwnverts
+- femyiff
+- rc
+- furry_irl
+- Furry_Backsack
+- PureYC
+---

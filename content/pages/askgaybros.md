@@ -1,0 +1,24 @@
+---
+title: askgaybros
+crosslinks:
+- youtubefactsbot
+- youtubot
+- gaybros
+- autourbanbot
+- Drama
+- gaybroscirclejerk
+- AskReddit
+- MassdropBot
+- lgbt
+- gaystoriesgonewild
+- RightwingLGBT
+- ShitGaybrosSay
+- john_yukis_bots
+- gayyoungold
+- politics
+- u_imguralbumbot
+- gay
+- hapas
+- seduction
+- gaymers
+---

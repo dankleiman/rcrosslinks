@@ -1,0 +1,24 @@
+---
+title: ACMilan
+crosslinks:
+- soccer
+- u_imguralbumbot
+- soccerstreams
+- Juve
+- youtubot
+- alotabot
+- Barca
+- xkcd
+- OutOfTheLoop
+- MassdropBot
+- sportsjerseys
+- WEPES
+- autourbanbot
+- MLS
+- footballhighlights
+- italy
+- highqualitygifs
+- Gunners
+- AccidentalRenaissance
+- butthurt
+---

@@ -1,0 +1,24 @@
+---
+title: vegan
+crosslinks:
+- youtubefactsbot
+- vegancirclejerk
+- youtubot
+- veganfitness
+- veganrecipes
+- DebateAVegan
+- PlantBasedDiet
+- autotldr
+- badcarnism
+- u_imguralbumbot
+- veganketo
+- vegetarian
+- anti_gif_bot
+- AskReddit
+- videos
+- likeus
+- VeganFoodPorn
+- IAmA
+- aww
+- vegangifrecipes
+---

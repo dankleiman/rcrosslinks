@@ -1,0 +1,24 @@
+---
+title: fixit
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- DIY
+- youtubot
+- appliancerepair
+- AskElectronics
+- thereifixedit
+- TVRepair
+- electricians
+- poolsandspas
+- PlumbingRepair
+- accessdoors
+- hackedgadgets
+- botwatch
+- HomeRepair
+- headphones
+- homenetworking
+- pussypassdenied
+- soldering
+- homeowners
+---

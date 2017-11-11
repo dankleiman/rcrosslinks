@@ -1,0 +1,24 @@
+---
+title: ChineseLanguage
+crosslinks:
+- translator
+- translatorBOT
+- youtubefactsbot
+- chinesebookclub
+- languagelearning
+- u_imguralbumbot
+- China
+- autourbanbot
+- LearnJapanese
+- youtubot
+- badlinguistics
+- learnchinese
+- linguistics
+- taiwan
+- Cantonese
+- Korean
+- autotldr
+- Scams
+- RemindMeBot
+- Antiques
+---

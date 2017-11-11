@@ -1,0 +1,24 @@
+---
+title: newsg
+crosslinks:
+- kokusaijyousei_ja
+- sky_ja
+- GeinouNews
+- newsokuexp
+- religions_ja
+- local_ja
+- petdaisuki
+- privacy_ja
+- newsokur
+- sokur2
+- security_ja
+- Politics_ja
+- kokoro
+- newsoku_jp
+- lgbt_ja
+- books
+- keizai
+- ijndael
+- quake_jp
+- hage
+---

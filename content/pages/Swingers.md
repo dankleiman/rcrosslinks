@@ -1,0 +1,24 @@
+---
+title: Swingers
+crosslinks:
+- polyamory
+- swingersr4r
+- Hotwife
+- sex
+- youtubefactsbot
+- nonmonogamy
+- titlegore
+- nashville
+- askwomenadvice
+- autourbanbot
+- peyroniesdisease
+- swingertravel
+- Herpes
+- chastity
+- DirtySexyKikPals
+- marriedredpill
+- Virology
+- datingoverthirty
+- Cuckold
+- childfree
+---

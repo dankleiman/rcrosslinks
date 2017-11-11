@@ -1,0 +1,24 @@
+---
+title: GTA
+crosslinks:
+- livven
+- youtubefactsbot
+- gtaonline
+- GrandTheftAutoV
+- gaming
+- HeistTeams
+- youtubot
+- GARNER2015
+- u_imguralbumbot
+- 9gag
+- xkcd
+- GTAGivers
+- OutOfTheLoop
+- funny
+- emulation
+- gtaglitches
+- gtav
+- AskGames
+- OpenSpaceProgram
+- shield
+---

@@ -1,0 +1,24 @@
+---
+title: mildyinteresting
+crosslinks:
+- u_imguralbumbot
+- livven
+- anti_gif_bot
+- pics
+- youtubefactsbot
+- MassdropBot
+- Cubers
+- untrustworthypoptarts
+- nevertellmetheodds
+- woahdude
+- SignalYourVirtue
+- thingsforants
+- subredditsashashtags
+- Odlysatisfying
+- mildlyinteresting
+- politics
+- WeWantPlates
+- gifs
+- perfectcircles
+- LosAngeles
+---

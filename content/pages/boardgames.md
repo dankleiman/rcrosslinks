@@ -1,0 +1,24 @@
+---
+title: boardgames
+crosslinks:
+- boardgamerecommender
+- youtubefactsbot
+- tabletopgamedesign
+- BoardGameExchange
+- metaboardgames
+- foamcore
+- xkcd
+- Boardgamedeals
+- minipainting
+- Gloomhaven
+- MassdropBot
+- Netrunner
+- 18XX
+- rpg
+- youtubot
+- hexandcounter
+- arkhamhorrorlcg
+- DnD
+- boardgamescirclejerk
+- ImperialAssaultTMG
+---

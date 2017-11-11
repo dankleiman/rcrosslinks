@@ -1,0 +1,24 @@
+---
+title: AskAcademia
+crosslinks:
+- education
+- GradSchool
+- xkcd
+- youtubefactsbot
+- gradadmissions
+- Scholar
+- math
+- labrats
+- SubredditDrama
+- Economics
+- AskSocialScience
+- Professors
+- chemistry
+- MuseumPros
+- Futurology
+- AskReddit
+- bestof
+- science
+- literature
+- shanghai
+---

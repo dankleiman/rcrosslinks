@@ -1,0 +1,24 @@
+---
+title: TheFarLeftSide
+crosslinks:
+- place
+- MassdropBot
+- PartyParrot
+- edPlace
+- theitalyplace
+- The_Donald
+- theblackvoid
+- FULLCOMMUNISM
+- ANI_COMMUNISM
+- Anarcho_Capitalism
+- Palestine
+- Turkey
+- EnoughCommieSpam
+- samuraijack
+- catalunya
+- Anarchism
+- AprilKnights
+- Pxlsspace
+- LateStageCapitalism
+- PokemonSage
+---

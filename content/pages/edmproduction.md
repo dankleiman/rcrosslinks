@@ -1,0 +1,24 @@
+---
+title: edmproduction
+crosslinks:
+- youtubefactsbot
+- WeAreTheMusicMakers
+- youtubot
+- ableton
+- edmprodcirclejerk
+- FL_Studio
+- makinghiphop
+- u_imguralbumbot
+- synthesizers
+- EDM
+- trapproduction
+- musictheory
+- Drumkits
+- audioengineering
+- MassdropBot
+- synthrecipes
+- electronicmusic
+- autotldr
+- john_yukis_bots
+- MusicInTheMaking
+---

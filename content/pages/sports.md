@@ -1,0 +1,24 @@
+---
+title: sports
+crosslinks:
+- livven
+- anti_gif_bot
+- autotldr
+- youtubot
+- tmsbmeta
+- u_imguralbumbot
+- gifs
+- MMA
+- nba
+- AskReddit
+- Boxing
+- MassdropBot
+- soccer
+- theocho
+- videos
+- funny
+- hockey
+- xkcd
+- IAmA
+- nfl
+---

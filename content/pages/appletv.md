@@ -1,0 +1,24 @@
+---
+title: appletv
+crosslinks:
+- sideloaded
+- youtubefactsbot
+- KodionATV4
+- autotldr
+- cordcutters
+- apple
+- shittyhaikus
+- television
+- videos
+- PleX
+- sodaplayer
+- youtubot
+- xboxone
+- Roku
+- gamedev
+- AppleMusic
+- Addons4Kodi
+- nflstreams
+- Serendipity
+- directvnow
+---

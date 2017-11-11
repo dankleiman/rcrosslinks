@@ -1,0 +1,24 @@
+---
+title: AnythingGoesNews
+crosslinks:
+- JustTheTopNews
+- autotldr
+- youtubefactsbot
+- conspiracy
+- news
+- worldpolitics
+- POLITIC
+- uncensorednews
+- me_irl
+- youtubot
+- TrueReddit
+- WayOfTheBern
+- WarUpdates
+- The_Donald
+- Sino
+- blackindependence
+- jesuschristreddit
+- AskReddit
+- expatrights
+- IAmA
+---

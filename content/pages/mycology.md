@@ -1,0 +1,24 @@
+---
+title: mycology
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- Mushrooms
+- terrariums
+- MushroomGrowers
+- autotldr
+- livven
+- mildlyinteresting
+- Slimemolds
+- tmsbmeta
+- botwatch
+- Awwducational
+- Scientits
+- shittyfoodporn
+- ImagesOfMississippi
+- gardening
+- announcements
+- foraging
+- interestingasfuck
+- metric_units
+---

@@ -1,0 +1,24 @@
+---
+title: HogwartsWerewolves
+crosslinks:
+- HogwartsGhosts
+- BearGame
+- TurtleGame
+- hogwartswerewolvesA
+- TheUpsideDown
+- youtubot
+- hogwartswerewolvesB
+- '2013'
+- yaxli
+- hprankdown2
+- youtubefactsbot
+- Xenolo
+- Hogwarts
+- reIationships
+- BearKaTet2
+- toronto
+- '2012'
+- FloridaMan
+- survivorrankdownIII
+- forumgames
+---

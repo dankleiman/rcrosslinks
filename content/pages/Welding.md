@@ -1,0 +1,24 @@
+---
+title: Welding
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- u_imguralbumbot
+- alotabot
+- tmsbmeta
+- WTF
+- autourbanbot
+- Skookum
+- arduino
+- spam
+- metric_units
+- Justrolledintotheshop
+- metalworking
+- SubredditDrama
+- OldSchoolCool
+- BadWelding
+- Jokes
+- electronics
+- trashy
+---

@@ -1,0 +1,24 @@
+---
+title: itookapicture
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- pics
+- outrun
+- photocritique
+- fakealbumcovers
+- AccidentalWesAnderson
+- EarthPorn
+- travel
+- VaporwaveAesthetics
+- youtubot
+- AccidentalRenaissance
+- SubredditDrama
+- HailCorporate
+- photoshopbattles
+- botwatch
+- misleadingthumbnails
+- analog
+- tmsbmeta
+- livven
+---

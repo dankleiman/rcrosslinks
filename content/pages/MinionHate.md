@@ -1,0 +1,24 @@
+---
+title: MinionHate
+crosslinks:
+- WackyTicTacs
+- youtubefactsbot
+- ReallyWackyTicTacs
+- u_imguralbumbot
+- botwatch
+- comedynecromancy
+- livven
+- MassdropBot
+- DeepFriedMemes
+- titlegore
+- Shadman
+- fuck206
+- tifu
+- oldpeoplefacebook
+- ComedyCemetery
+- Sleepinganimals
+- CrappyDesign
+- killthosewhodisagree
+- JonTronShow
+- youdontsurf
+---

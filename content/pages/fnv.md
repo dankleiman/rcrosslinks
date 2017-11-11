@@ -1,0 +1,24 @@
+---
+title: fnv
+crosslinks:
+- FalloutMods
+- youtubefactsbot
+- Fallout
+- Gamingcirclejerk
+- youtubot
+- ManyATrueNerd
+- livven
+- alotabot
+- u_imguralbumbot
+- falloutlore
+- gaming
+- skyrimmods
+- 4chan
+- guns
+- gatekeeping
+- mancave
+- Games
+- john_yukis_bots
+- MandelaEffect
+- autotldr
+---

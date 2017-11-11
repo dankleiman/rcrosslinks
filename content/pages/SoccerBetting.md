@@ -1,0 +1,24 @@
+---
+title: SoccerBetting
+crosslinks:
+- sportsbook
+- tmsbmeta
+- youtubefactsbot
+- soccer
+- '1942464'
+- '382027'
+- soccerstreams
+- InnocentPossumsPicks
+- '86590'
+- BrasilOnReddit
+- MLS
+- '1363260'
+- autourbanbot
+- reddevils
+- MLSBettingTeam
+- me_irl
+- '1785699'
+- tabled
+- '2012'
+- personalfinance
+---

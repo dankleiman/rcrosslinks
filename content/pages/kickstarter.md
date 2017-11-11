@@ -1,0 +1,24 @@
+---
+title: kickstarter
+crosslinks:
+- shittykickstarters
+- youtubefactsbot
+- AMAAggregator
+- Games
+- Watches
+- anti_gif_bot
+- Entrepreneur
+- Serendipity
+- gamedev
+- malefashionadvice
+- Vaporwave
+- metalworking
+- Vive
+- MUD
+- 2jcx5yu
+- youtubot
+- dataisbeautiful
+- college
+- gofundme
+- ebikes
+---

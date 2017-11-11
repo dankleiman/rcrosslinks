@@ -1,0 +1,24 @@
+---
+title: ClubPenguin
+crosslinks:
+- youtubefactsbot
+- bannedfromclubpenguin
+- tmsbmeta
+- MassdropBot
+- placestart
+- ClubPenguinRewritten
+- place
+- mspaintbattles
+- commentgore
+- unexpectedsabaton
+- catalunya
+- wallpapers
+- ClubPenguinIsland
+- teenagers
+- DestinyTheGame
+- gaming
+- livven
+- theydidthefuckyou
+- videos
+- factorio
+---

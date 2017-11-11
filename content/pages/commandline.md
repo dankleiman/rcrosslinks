@@ -1,0 +1,24 @@
+---
+title: commandline
+crosslinks:
+- xkcd
+- youtubefactsbot
+- linux
+- unixporn
+- anti_gif_bot
+- applehelp
+- vim
+- taskwarrior
+- programming_jp
+- CatsStandingUp
+- DataHoarder
+- opendirectories
+- subredditname
+- devops
+- Cyberpunk
+- datarecovery
+- bashonubuntuonwindows
+- freebsd
+- u_imguralbumbot
+- i3wm
+---

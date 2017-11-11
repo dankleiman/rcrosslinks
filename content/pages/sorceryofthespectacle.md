@@ -1,0 +1,24 @@
+---
+title: sorceryofthespectacle
+crosslinks:
+- youtubefactsbot
+- ShrugLifeSyndicate
+- youtubot
+- autotldr
+- ByTheBookofThySelf
+- askphilosophy
+- funny
+- u_imguralbumbot
+- thelastpsychiatrist
+- ancientfutures
+- occult
+- Psychonaut
+- CriticalTheory
+- C_S_T
+- explainlikeimfive
+- sots
+- badphilosophy
+- AskMoreSotS
+- cadia
+- Retconned
+---

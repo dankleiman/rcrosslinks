@@ -1,0 +1,24 @@
+---
+title: techsupportmacgyver
+crosslinks:
+- youtubefactsbot
+- techsupportgore
+- youtubot
+- techsupport
+- redneckengineering
+- u_imguralbumbot
+- keming
+- talesfromtechsupport
+- HowToStartAFire
+- DiWHY
+- retrobattlestations
+- Skookum
+- facepalm
+- autotldr
+- nexus5x
+- ThatPeelingFeeling
+- shittybattlestations
+- DiWHYNOT
+- EtherMining
+- BestOfReports
+---

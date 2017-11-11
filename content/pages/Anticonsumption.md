@@ -1,0 +1,24 @@
+---
+title: Anticonsumption
+crosslinks:
+- autotldr
+- youtubefactsbot
+- ZeroWaste
+- simpleliving
+- youtubot
+- minimalism
+- subredditcancer
+- Frugal_Jerk
+- Degrowth
+- nosurf
+- DumpsterDiving
+- fountainpens
+- AntiFacebook
+- LateStageCapitalism
+- minimalist
+- Documentaries
+- communism
+- shittykickstarters
+- gatekeeping
+- itscalledfashion
+---

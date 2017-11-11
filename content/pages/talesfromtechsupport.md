@@ -1,0 +1,24 @@
+---
+title: talesfromtechsupport
+crosslinks:
+- AskReddit
+- techsupportgore
+- tifu
+- ATechsTale
+- patches765
+- totallynotrobots
+- CheapOnlineCerts
+- linus140
+- pics
+- cscareerquestions
+- TalesFromRetail
+- TronScript
+- techsupport
+- bestof
+- legaladvice
+- startrekstabilized
+- leagueoflegends
+- unexpectedfactorial
+- technology
+- talesfromthejob
+---

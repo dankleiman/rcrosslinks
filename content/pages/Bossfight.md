@@ -1,0 +1,24 @@
+---
+title: Bossfight
+crosslinks:
+- anti_gif_bot
+- botwatch
+- youtubefactsbot
+- livven
+- hmmm
+- youtubot
+- mildlyinteresting
+- MassdropBot
+- outside
+- neckbeardRPG
+- OldSchoolCool
+- airsoft
+- Birbs
+- birdswitharms
+- DarkSouls2
+- oddlyterrifying
+- reallifedoodles
+- RedditBeastiary
+- SwordOrSheath
+- gifs
+---

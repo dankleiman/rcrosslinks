@@ -1,0 +1,24 @@
+---
+title: Metallica
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- pics
+- Megadeth
+- alotabot
+- KarmaCourt
+- livven
+- IAmA
+- Metal
+- tmsbmeta
+- MassdropBot
+- vinyl
+- mildlyinfuriating
+- discgolf
+- horror
+- explainlikeimfive
+- Showerthoughts
+- AMAAggregator
+- metaljerk
+---

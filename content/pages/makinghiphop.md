@@ -1,0 +1,24 @@
+---
+title: makinghiphop
+crosslinks:
+- youtubot
+- Drumkits
+- LofiHipHop
+- alotabot
+- edmproduction
+- WeAreTheMusicMakers
+- PewdiepieSubmissions
+- audioengineering
+- u_imguralbumbot
+- trap
+- hiphopheads
+- FL_Studio
+- futurebeatproducers
+- mixingmastering
+- musictheory
+- synthesizers
+- maschine
+- singing
+- trapproduction
+- drumkits
+---

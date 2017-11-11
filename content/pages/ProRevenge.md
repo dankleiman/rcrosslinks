@@ -1,0 +1,24 @@
+---
+title: ProRevenge
+crosslinks:
+- botpopularitybot
+- AskReddit
+- tmsbmeta
+- youtubefactsbot
+- youtubot
+- pettyrevenge
+- legaladvice
+- xkcd
+- Nudelete
+- autourbanbot
+- RegularRevenge
+- AMA
+- MilitaryStories
+- personalfinance
+- longtail
+- nocontext
+- MaliciousCompliance
+- tifu
+- u_imguralbumbot
+- MylifeSuxNow
+---

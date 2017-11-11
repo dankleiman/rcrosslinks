@@ -1,0 +1,24 @@
+---
+title: AyyMD
+crosslinks:
+- Amd
+- youtubefactsbot
+- MassdropBot
+- livven
+- pcmasterrace
+- tmsbmeta
+- u_imguralbumbot
+- anti_gif_bot
+- nvidia
+- intel
+- youtubot
+- intelmr
+- autotldr
+- nvidiots
+- fire_snyper
+- Windows1984
+- xkcd
+- CAHbot
+- place
+- botsrights
+---

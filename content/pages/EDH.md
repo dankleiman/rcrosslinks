@@ -1,0 +1,24 @@
+---
+title: EDH
+crosslinks:
+- CompetitiveEDH
+- magicTCG
+- youtubefactsbot
+- LabManiacs
+- magicthecirclejerking
+- youtubot
+- u_imguralbumbot
+- competitiveedh
+- MassdropBot
+- tmsbmeta
+- custommagic
+- foilmtg
+- alotabot
+- xkcd
+- mtgfinance
+- mtgjudge
+- MagicMeetups
+- Magicdeckbuilding
+- PauperEDH
+- nohomo_bot
+---

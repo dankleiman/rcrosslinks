@@ -1,0 +1,24 @@
+---
+title: geopolitics
+crosslinks:
+- AskHistorians
+- syriancivilwar
+- worldnews
+- ossiswessis
+- youtubot
+- IRstudies
+- pakistan
+- politics
+- CredibleDefense
+- india
+- CombatFootage
+- geopoliticsblog
+- Israel
+- TechWar
+- TopMindsOfReddit
+- ukpolitics
+- WarCollege
+- russia
+- Missing411
+- saudiarabia
+---

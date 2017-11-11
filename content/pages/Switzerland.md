@@ -1,0 +1,24 @@
+---
+title: Switzerland
+crosslinks:
+- travel
+- AskReddit
+- place
+- autotldr
+- europe
+- youtubefactsbot
+- The_Donald
+- askswitzerland
+- bern
+- explainlikeimfive
+- news
+- BasicIncome
+- funny
+- swissproblems
+- DotA2
+- LinguisticMaps
+- schweiz
+- AskAnAmerican
+- NoStupidQuestions
+- de
+---

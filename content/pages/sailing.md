@@ -1,0 +1,24 @@
+---
+title: sailing
+crosslinks:
+- youtubefactsbot
+- SailboatCruising
+- youtubot
+- u_imguralbumbot
+- livven
+- autotldr
+- HeavySeas
+- anti_gif_bot
+- tmsbmeta
+- OldSchoolCool
+- bookporn
+- botwatch
+- mildlyinteresting
+- Bitcoin
+- HailCorporate
+- TheDepthsBelow
+- submarines
+- blackpeoplegifs
+- itookapicture
+- projectcar
+---

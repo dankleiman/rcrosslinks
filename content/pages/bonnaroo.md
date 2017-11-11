@@ -1,0 +1,24 @@
+---
+title: bonnaroo
+crosslinks:
+- youtubefactsbot
+- youtubot
+- portugaltheman
+- bonnarootickets
+- u_imguralbumbot
+- Reddaroo
+- anti_gif_bot
+- tmsbmeta
+- U2Band
+- livven
+- RooRideshares
+- Coachella
+- festivals
+- alotabot
+- hulaween
+- mountainjam
+- okeechobeemusicfest
+- reddaroo
+- k3Jg7p
+- PortugalOnReddit
+---

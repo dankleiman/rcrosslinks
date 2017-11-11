@@ -1,0 +1,24 @@
+---
+title: HadToHurt
+crosslinks:
+- livven
+- youtubefactsbot
+- youtubot
+- holdmybeer
+- Whatcouldgowrong
+- tmsbmeta
+- autourbanbot
+- gifs
+- FullScorpion
+- gifsthatendtoosoon
+- ChildrenFallingOver
+- BetterEveryLoop
+- WTF
+- holdmyfries
+- instant_regret
+- funny
+- nononono
+- alotabot
+- u_imguralbumbot
+- OutOfTheLoop
+---

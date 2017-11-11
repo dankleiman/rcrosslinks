@@ -1,0 +1,24 @@
+---
+title: CPTSD
+crosslinks:
+- raisedbynarcissists
+- youtubot
+- youtubefactsbot
+- internetparents
+- BPD
+- survivinginfidelity
+- bipolar
+- MassdropBot
+- Codependency
+- SuicideWatch
+- 2lliqyx
+- dbtselfhelp
+- ExNoContact
+- getdisciplined
+- PTSDParents
+- AlAnon
+- CBD
+- Anne
+- AskNetsec
+- Drugs
+---

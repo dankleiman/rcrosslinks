@@ -1,0 +1,24 @@
+---
+title: AmItheAsshole
+crosslinks:
+- JUSTNOMIL
+- SubredditDrama
+- Drama
+- AskReddit
+- youtubefactsbot
+- offmychest
+- autourbanbot
+- JusticeServed
+- MildRedditDrama
+- raisedbynarcissists
+- holdmybeer
+- MassdropBot
+- PKA
+- changemyview
+- botwatch
+- Volvo
+- greentext
+- Debate
+- QTWTAIN
+- iamsmart
+---

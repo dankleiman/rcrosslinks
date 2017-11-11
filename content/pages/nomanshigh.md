@@ -1,0 +1,24 @@
+---
+title: nomanshigh
+crosslinks:
+- NoMansSkyTheGame
+- NmsMindwarArchive
+- NMSGalacticHub
+- youtubefactsbot
+- NMSCoordinateExchange
+- anti_gif_bot
+- NMS_Zoology
+- NMSPortals
+- NoMansSkyMyJourney
+- botwatch
+- xkcd
+- no_mans_sky
+- john_yukis_bots
+- tmsbmeta
+- livven
+- NMS_Bases
+- NMS_Federation
+- NMSSuggestions
+- nomansskyshots
+- NoMansSkyShips
+---

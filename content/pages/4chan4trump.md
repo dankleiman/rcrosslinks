@@ -1,0 +1,24 @@
+---
+title: 4chan4trump
+crosslinks:
+- youtubot
+- Suomi
+- pa
+- 2007scape
+- The_Donald
+- autourbanbot
+- alotabot
+- me_irl
+- REEEEEEEEEE
+- u_imguralbumbot
+- farshnukeofficial
+- 4chan
+- hapas
+- nosleep
+- TheRedPill
+- neoliberal
+- worldnews
+- tmsbmeta
+- WhereIsAssange
+- transtimelines
+---

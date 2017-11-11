@@ -1,0 +1,24 @@
+---
+title: aerospace
+crosslinks:
+- AskEngineers
+- EngineeringStudents
+- autotldr
+- spacex
+- youtubefactsbot
+- aviation
+- IAmA
+- xkcd
+- livven
+- engineering
+- rust
+- electricjet
+- space
+- Shittyaskflying
+- IsaacArthur
+- Serendipity
+- AerospaceEngineering
+- chemistry
+- FSAE
+- Military
+---

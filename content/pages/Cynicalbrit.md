@@ -1,0 +1,24 @@
+---
+title: Cynicalbrit
+crosslinks:
+- cynicalbritofficial
+- youtubot
+- JonTron
+- u_imguralbumbot
+- pcgaming
+- Destiny
+- Shaboozey
+- IAmA
+- SubredditDrama
+- roguelikes
+- AskReddit
+- LivestreamFail
+- masseffect
+- programming
+- traps
+- KotakuInAction
+- Gamingcirclejerk
+- gamerghazi
+- Xcom
+- Feminism
+---

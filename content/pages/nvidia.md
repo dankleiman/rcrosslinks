@@ -1,0 +1,24 @@
+---
+title: nvidia
+crosslinks:
+- Amd
+- pcmasterrace
+- buildapcsales
+- buildapc
+- youtubot
+- pcgaming
+- watercooling
+- hardware
+- MassdropBot
+- hardwareswap
+- techsupport
+- gigabytegaming
+- EtherMining
+- Windows10
+- youtubefactsbot
+- livven
+- masseffect
+- Vive
+- NintendoSwitch
+- GlobalOffensive
+---

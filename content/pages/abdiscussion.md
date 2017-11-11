@@ -1,0 +1,24 @@
+---
+title: abdiscussion
+crosslinks:
+- AsianBeauty
+- AsianBeautyAdvice
+- DIYBeauty
+- asianbeautyexchange
+- BeautyRecap
+- beautytalkph
+- MakeupAddiction
+- ABCJ
+- u_imguralbumbot
+- brownbeauty
+- sca
+- abcjdiscussion
+- raisedbynarcissists
+- muacjdiscussion
+- EuroSkincare
+- Fude
+- sugarfreemua
+- SkincareAddictionUK
+- RandomActsOfAB
+- curlyhair
+---

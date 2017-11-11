@@ -1,0 +1,24 @@
+---
+title: utdallas
+crosslinks:
+- Enarc
+- youtubefactsbot
+- CrappyDesign
+- unt
+- SuggestALaptop
+- Serendipity
+- Richardson
+- Infuriating
+- exmuslim
+- TAMS
+- oldpeoplefacebook
+- MRA
+- xkcd
+- VoHiYo
+- college
+- jesuschristreddit
+- u_imguralbumbot
+- autotldr
+- metric_units
+- youtubot
+---

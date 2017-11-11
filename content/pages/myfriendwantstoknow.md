@@ -1,0 +1,24 @@
+---
+title: myfriendwantstoknow
+crosslinks:
+- youtubefactsbot
+- youtubot
+- AskReddit
+- SourcePornMaker
+- theydidthemath
+- watch_dogs
+- SubredditDrama
+- NoStupidQuestions
+- dating_advice
+- SuicideWatch
+- autourbanbot
+- itwasagraveyardsmash
+- LegalAdviceUK
+- bigdickproblems
+- whowouldwin
+- RoastMe
+- NotHowDrugsWork
+- morbidquestions
+- Pets
+- ProtectAndServe
+---

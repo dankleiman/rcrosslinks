@@ -1,0 +1,24 @@
+---
+title: schizophrenia
+crosslinks:
+- youtubot
+- Nootropics
+- bipolar
+- tmsbmeta
+- HPPD
+- u_imguralbumbot
+- ShrugLifeSyndicate
+- aww
+- mentalhealth
+- BipolarReddit
+- Drugs
+- neuro
+- painting
+- movies
+- teenagers
+- StackAdvice
+- Antipsychiatry
+- shortstories
+- alotabot
+- ShittyPhotoshop
+---

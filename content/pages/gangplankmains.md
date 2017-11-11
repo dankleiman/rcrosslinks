@@ -1,0 +1,24 @@
+---
+title: gangplankmains
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- leagueoflegends
+- summonerschool
+- livven
+- youtubot
+- sufficiencybot
+- koreanadvice
+- vredditmirrorbot
+- anti_gif_bot
+- TwistedFateMains
+- KledMains
+- WatchVayneDie
+- DirtySionMains
+- Dariusmains
+- YasuoMains
+- LucianMains
+- Rivenmains
+- ChromaRequest
+- yorickmains
+---

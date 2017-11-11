@@ -1,0 +1,24 @@
+---
+title: insanepeoplefacebook
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- MassdropBot
+- tmsbmeta
+- xkcd
+- john_yukis_bots
+- SubredditDrama
+- thisguyagain
+- Incels
+- Drama
+- autourbanbot
+- facepalm
+- AskReddit
+- trashy
+- TrashyText
+- niceguys
+- nocontext
+- SubAutoCorrectBot
+- conspiracy
+---

@@ -1,0 +1,24 @@
+---
+title: aviation
+crosslinks:
+- youtubefactsbot
+- autotldr
+- flying
+- livven
+- u_imguralbumbot
+- anti_gif_bot
+- Shittyaskflying
+- videos
+- pics
+- xkcd
+- hoggit
+- funny
+- planesgonewild
+- MilitaryPorn
+- AviationHistory
+- botwatch
+- flightsim
+- MilitaryGfys
+- aviationmaintenance
+- gifs
+---

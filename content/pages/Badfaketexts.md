@@ -1,0 +1,24 @@
+---
+title: Badfaketexts
+crosslinks:
+- GoodFakeTexts
+- ComedyCemetery
+- bonehurtingjuice
+- youtubefactsbot
+- livven
+- totallynotrobots
+- DeepFriedMemes
+- botwatch
+- MassdropBot
+- NotHowDrugsWork
+- coaxedintoasnafu
+- emojipasta
+- tmsbmeta
+- ComedyNecrophilia
+- ChargeYourPhone
+- goodfaketexts
+- subredditsarehashtags
+- comedynecromancy
+- finlandConspiracy
+- raisedbynarcissists
+---

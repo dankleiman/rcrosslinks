@@ -1,0 +1,24 @@
+---
+title: Gunpla
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- Gundam
+- tmsbmeta
+- livven
+- modelmakers
+- advancedGunpla
+- MassdropBot
+- BuildFightSystem
+- anti_gif_bot
+- subreddit_stats
+- MachNeu
+- minipainting
+- SciFiModels
+- HighQualityGifs
+- ZettaiRyouiki
+- interestingasfuck
+- AMAAggregator
+- bodybuilding
+- GundamBreaker3
+---

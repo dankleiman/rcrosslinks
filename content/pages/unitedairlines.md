@@ -1,0 +1,24 @@
+---
+title: unitedairlines
+crosslinks:
+- videos
+- autotldr
+- FUCK_United_Airlines
+- youtubefactsbot
+- OutOfTheLoop
+- causeWhyNotMate
+- all
+- politics
+- screenshots
+- united
+- AdviceAnimals
+- funny
+- FuckUnitedAirlines
+- airplanes
+- MassdropBot
+- autourbanbot
+- ProtectAndServe
+- pics
+- delta
+- aznidentity
+---

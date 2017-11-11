@@ -1,0 +1,24 @@
+---
+title: AskHistorians
+crosslinks:
+- badhistory
+- AskAnthropology
+- history
+- AcademicBiblical
+- IndianCountry
+- AskFoodHistorians
+- askscience
+- OldSchoolCool
+- RemindMeBot
+- AskSocialScience
+- todayilearned
+- IAmA
+- WarCollege
+- dataisbeautiful
+- EarlyModernEurope
+- MapPorn
+- linguistics
+- HistoryResources
+- Christianity
+- HistoryPorn
+---

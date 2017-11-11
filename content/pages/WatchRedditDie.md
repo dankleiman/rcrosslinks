@@ -1,0 +1,24 @@
+---
+title: WatchRedditDie
+crosslinks:
+- exmuslim
+- MassdropBot
+- subredditcancer
+- The_Donald
+- botwatch
+- politics
+- surfing
+- worldnews
+- KotakuInAction
+- LateStageCapitalism
+- piratenpartei
+- washingtondc
+- europeanparliament
+- conspiracy
+- RedditCensors
+- EnoughCommieSpam
+- privacy
+- italy
+- undelete
+- EnoughTrumpSpam
+---

@@ -1,0 +1,24 @@
+---
+title: windowsphone
+crosslinks:
+- youtubefactsbot
+- autotldr
+- u_imguralbumbot
+- WinPhoneCirclejerk
+- windows10mobile
+- Windows10
+- Android
+- alotabot
+- readit
+- xkcd
+- WPDev
+- NintendoSwitch
+- WindowsStartscreens
+- Windows10M
+- xboxone
+- apple
+- youtubot
+- Surface
+- Nokia
+- verizon
+---

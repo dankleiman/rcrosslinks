@@ -1,0 +1,24 @@
+---
+title: LittleWitchAcademia
+crosslinks:
+- youtubefactsbot
+- LilWitchSpankademia
+- u_imguralbumbot
+- anti_gif_bot
+- Akkordian
+- livven
+- anime
+- youtubot
+- KillLaKill
+- AnimalCrossing
+- ANI_COMMUNISM
+- trigger
+- john_yukis_bots
+- Pixiv
+- MassdropBot
+- NetflixViaVPN
+- masseffect
+- place
+- BokuNoHeroAcademia
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: modelmakers
+crosslinks:
+- youtubefactsbot
+- youtubot
+- ModelCars
+- u_imguralbumbot
+- 72scale
+- motorcycle_model_kits
+- SciFiModels
+- MaschinenKrieger
+- minipainting
+- modeltrains
+- papercraft
+- Gunpla
+- ShitWehraboosSay
+- WWIIplanes
+- StarWars
+- metalearth
+- TankPorn
+- ResinCasting
+- aviation
+- xkcd
+---

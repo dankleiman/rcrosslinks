@@ -1,0 +1,24 @@
+---
+title: assholedesign
+crosslinks:
+- youtubefactsbot
+- xkcd
+- u_imguralbumbot
+- AntiFacebook
+- softwaregore
+- livven
+- anti_gif_bot
+- gaming
+- mildlyinfuriating
+- MassdropBot
+- LateStageCapitalism
+- tmsbmeta
+- pihole
+- youtubot
+- redditmobile
+- ChargeYourPhone
+- StallmanWasRight
+- microsoftsoftwareswap
+- funny
+- john_yukis_bots
+---

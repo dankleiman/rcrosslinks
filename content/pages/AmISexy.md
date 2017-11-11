@@ -1,0 +1,24 @@
+---
+title: AmISexy
+crosslinks:
+- amiugly
+- Rateme
+- AmISexyisCREEPY
+- Drama
+- niceguys
+- autourbanbot
+- curlyhair
+- Serendipity
+- nohomo_bot
+- youtubefactsbot
+- GoneMild
+- TellMeImPretty
+- malehairadvice
+- DPPprofiles
+- KindVoice
+- cscareerquestions
+- FierceFlow
+- amipretty
+- AskReddit
+- dirtypenpals
+---

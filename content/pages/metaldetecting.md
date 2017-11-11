@@ -1,0 +1,24 @@
+---
+title: metaldetecting
+crosslinks:
+- youtubefactsbot
+- youtubot
+- magnetfishing
+- whatisthisthing
+- Calligraphy
+- marijuanaenthusiasts
+- hiking
+- Hallmarks
+- bottledigging
+- AbandonedPorn
+- history
+- DesirePaths
+- adelaide
+- Skookum
+- coins
+- autotldr
+- pics
+- anti_gif_bot
+- LifeProTips
+- typography
+---

@@ -1,0 +1,24 @@
+---
+title: HiTMAN
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- HITMANCONTRACTHUB
+- autotldr
+- botsrights
+- SubredditDrama
+- truegaming
+- tmsbmeta
+- respectthreads
+- CrackWatch
+- Games
+- MassdropBot
+- THE_PACK
+- SquaredCircle
+- GreatXboxDeals
+- gamingsuggestions
+- samuraijack
+---

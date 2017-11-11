@@ -1,0 +1,24 @@
+---
+title: Python
+crosslinks:
+- learnpython
+- xkcd
+- programming
+- youtubefactsbot
+- youtubot
+- django
+- learnprogramming
+- CompileBot
+- u_imguralbumbot
+- datascience
+- functionalprogramming
+- flask
+- raspberry_pi
+- autourbanbot
+- nim
+- rust
+- blackmirror
+- bestof
+- MassdropBot
+- dailyprogrammer
+---

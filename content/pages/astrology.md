@@ -1,0 +1,24 @@
+---
+title: astrology
+crosslinks:
+- AskAstrologers
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- astrologyreadings
+- mysterybabylon
+- askscience
+- evilbuildings
+- movies
+- occult
+- gwcumsluts
+- atheism
+- Mneumonese
+- givemorefucks
+- alotabot
+- livven
+- holofractal
+- GetMotivated
+- ConspiracyII
+- aries
+---

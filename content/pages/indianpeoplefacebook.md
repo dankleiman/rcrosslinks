@@ -1,0 +1,24 @@
+---
+title: indianpeoplefacebook
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- MassdropBot
+- oldpeoplefacebook
+- ComedyCemetery
+- india
+- BollywoodRealism
+- tmsbmeta
+- insanepeoplefacebook
+- news
+- john_yukis_bots
+- sadcringe
+- ShitAmericansSay
+- autourbanbot
+- indianpeoplereddit
+- CringeAnarchy
+- bakchodi
+- wincest
+- BotRights
+- bestof
+---

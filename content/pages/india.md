@@ -1,0 +1,24 @@
+---
+title: india
+crosslinks:
+- anti_anti_adblock
+- u_imguralbumbot
+- tippr
+- xkcd
+- IndiaInvestments
+- anti_gif_bot
+- AskReddit
+- IndianGaming
+- worldnews
+- place
+- AskHistorians
+- livven
+- IAmA
+- pics
+- antiaadhar
+- botwatch
+- indianpeoplequora
+- MapPorn
+- explainlikeimfive
+- mumbai
+---

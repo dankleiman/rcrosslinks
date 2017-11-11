@@ -1,0 +1,24 @@
+---
+title: WeatherGifs
+crosslinks:
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- youtubot
+- gifs
+- botwatch
+- interestingasfuck
+- videos
+- MassdropBot
+- WhyWereTheyFilming
+- noisygifs
+- ChoosingBeggars
+- ImageStabilization
+- gifsthatendtoosoon
+- megalophobia
+- Thorgasm
+- AskOuija
+- askredditAR
+- Austin
+- HighQualityGifs
+---

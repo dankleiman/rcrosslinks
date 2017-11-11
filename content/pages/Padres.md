@@ -1,0 +1,24 @@
+---
+title: Padres
+crosslinks:
+- youtubefactsbot
+- reddit_stream
+- PadresFarm
+- baseball
+- u_imguralbumbot
+- youtubot
+- CHICubs
+- SanDiegoGulls
+- monsterdongs
+- Brewers
+- anti_gif_bot
+- MLS
+- WahoosTipi
+- CFBStreams
+- SFGiants
+- letsgofish
+- MassdropBot
+- sandiego
+- tmsbmeta
+- nhl_games
+---

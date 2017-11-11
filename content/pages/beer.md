@@ -1,0 +1,24 @@
+---
+title: beer
+crosslinks:
+- beervideos
+- beercirclejerk
+- beertrade
+- Homebrewing
+- xkcd
+- AskReddit
+- AustinBeer
+- COBeer
+- njbeer
+- atlbeer
+- beerporn
+- TheBrewery
+- cider
+- FloridaBrew
+- breweriana
+- michiganbeer
+- IAmA
+- gaming
+- CrappyDesign
+- Untappd
+---

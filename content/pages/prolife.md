@@ -1,0 +1,24 @@
+---
+title: prolife
+crosslinks:
+- autotldr
+- prochoice
+- youtubefactsbot
+- TwoXChromosomes
+- pics
+- politics
+- Christianity
+- worldnews
+- AltRightChristian
+- forwardsfromgrandma
+- Conservative
+- atheism
+- MassdropBot
+- EnoughTrumpSpam
+- help
+- raisedbynarcississts
+- ireland
+- childfree
+- sex
+- ShitPoliticsSays
+---

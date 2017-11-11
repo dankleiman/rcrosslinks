@@ -1,0 +1,24 @@
+---
+title: poppunkers
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Emo
+- PostHardcore
+- Metalcore
+- Punk_Rock
+- brandnew
+- MassdropBot
+- Blink182
+- Music
+- Easycore
+- modnews
+- ADTR
+- lewronggeneration
+- ProCSS
+- zeropointmodule
+- popheads
+- mathrock
+- ModSupport
+- mildlyinfuriating
+---

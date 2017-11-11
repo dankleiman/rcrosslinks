@@ -1,0 +1,24 @@
+---
+title: snes
+crosslinks:
+- youtubefactsbot
+- retrogaming
+- youtubot
+- u_imguralbumbot
+- gamecollecting
+- anti_gif_bot
+- metric_units
+- nintendo
+- gaming
+- miniSNES
+- miniSNESmods
+- nesclassicmods
+- autotldr
+- Games
+- titlegore
+- emulation
+- RetroPie
+- Serendipity
+- botpopularitybot
+- '2013'
+---

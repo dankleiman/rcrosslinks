@@ -1,0 +1,24 @@
+---
+title: linuxmasterrace
+crosslinks:
+- xkcd
+- youtubefactsbot
+- unixporn
+- linux
+- linux_gaming
+- VFIO
+- linuxmemes
+- u_imguralbumbot
+- pcmasterrace
+- archlinux
+- youtubot
+- linux_cucks
+- autotldr
+- LinuxCirclejerk
+- Windows10
+- ProgrammerHumor
+- linuxquestions
+- privacy
+- techsupport
+- linux4noobs
+---

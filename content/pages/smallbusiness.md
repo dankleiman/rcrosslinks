@@ -1,0 +1,24 @@
+---
+title: smallbusiness
+crosslinks:
+- Entrepreneur
+- youtubefactsbot
+- startups
+- churning
+- LateStageCapitalism
+- bestof
+- AskReddit
+- youtubot
+- borrow
+- forhire
+- excel
+- MassdropBot
+- autourbanbot
+- web_design
+- FULLCOMMUNISM
+- Inventions
+- personaltraining
+- WTFgaragesale
+- bookkeeping
+- Teachers
+---

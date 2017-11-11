@@ -1,0 +1,24 @@
+---
+title: classicalmusic
+crosslinks:
+- youtubefactsbot
+- classicalresources
+- musictheory
+- MonthlyComposition
+- ClassicalMemes
+- ElitistClassical
+- composer
+- videos
+- autotldr
+- violinist
+- opera
+- AskHistorians
+- icm
+- tmsbmeta
+- IsLoneEchoAlive
+- youtubot
+- badmusicology
+- lewronggeneration
+- headphones
+- contemporary
+---

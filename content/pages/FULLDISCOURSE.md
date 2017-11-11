@@ -1,0 +1,24 @@
+---
+title: FULLDISCOURSE
+crosslinks:
+- communism
+- youtubefactsbot
+- FULLCOMMUNISM
+- autotldr
+- MassdropBot
+- communism101
+- LateStageCapitalism
+- azureScapegoat
+- Anarchism
+- bestof
+- DebateCommunism
+- TROLLXCOMMUNISM
+- ChapoTrapHouse
+- communists
+- xkcd
+- rojava
+- SocialistRA
+- nottheonion
+- Anarchy101
+- youtubot
+---

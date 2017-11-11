@@ -1,0 +1,24 @@
+---
+title: Huskers
+crosslinks:
+- youtubefactsbot
+- CFB
+- place
+- MassdropBot
+- youtubot
+- john_yukis_bots
+- CrootBot
+- livven
+- anti_gif_bot
+- UNL
+- sooners
+- placeAtlas
+- NewAmericanVision
+- ronpaulshops
+- buccaneers
+- NLSSCircleJerk
+- TheSimpsons
+- tmsbmeta
+- Omaha
+- giantbomb
+---

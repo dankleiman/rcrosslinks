@@ -1,0 +1,24 @@
+---
+title: EnoughTrumpSpam
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- politics
+- youtubot
+- Enough_Sanders_Spam
+- conspiracy
+- ShitPoliticsSays
+- u_imguralbumbot
+- esist
+- AntiTrumpAlliance
+- anti_gif_bot
+- SnapshillBotEx
+- worldnews
+- Conservative
+- news
+- PoliticalHumor
+- pics
+- SandersForPresident
+- IAmA
+- AgainstHateSubreddits
+---

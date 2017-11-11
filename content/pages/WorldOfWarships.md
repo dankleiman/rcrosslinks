@@ -1,0 +1,24 @@
+---
+title: WorldOfWarships
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- WarshipPorn
+- john_yukis_bots
+- WorldofTanks
+- modnews
+- anti_gif_bot
+- tmsbmeta
+- AskHistorians
+- kancolle
+- xkcd
+- ShitWehraboosSay
+- autourbanbot
+- pics
+- Warthunder
+- modelmakers
+- announcements
+- alotabot
+- hearthstone
+---

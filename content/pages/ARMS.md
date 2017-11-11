@@ -1,0 +1,24 @@
+---
+title: ARMS
+crosslinks:
+- u_imguralbumbot
+- NintendoSwitch
+- youtubot
+- youtubefactsbot
+- MasterMummyMasterRace
+- anti_gif_bot
+- alotabot
+- nintendo
+- livven
+- john_yukis_bots
+- splatoon
+- MassdropBot
+- Vive
+- Kappa
+- whatisthisthing
+- smashbros
+- botpopularitybot
+- amiibo
+- iamverybadass
+- Dreadlocks
+---

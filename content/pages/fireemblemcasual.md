@@ -1,0 +1,24 @@
+---
+title: fireemblemcasual
+crosslinks:
+- anime
+- fireemblem
+- FireEmblemHeroes
+- youtubot
+- Berserk
+- TabletopCrusaders
+- manga
+- RWBY
+- leagueoflegends
+- OreGairuSNAFU
+- rpg
+- ffxiv
+- pokemon
+- DnDGreentext
+- fecRPplanning
+- anime_irl
+- shitpostemblem
+- araragi
+- k_on
+- monkslookingatbeer
+---

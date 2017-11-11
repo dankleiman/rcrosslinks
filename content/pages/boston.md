@@ -1,0 +1,24 @@
+---
+title: boston
+crosslinks:
+- autotldr
+- BostonWeather
+- The_Donald
+- BostonSocialClub
+- dataisbeautiful
+- bostontrees
+- IAmA
+- AskReddit
+- livven
+- tmsbmeta
+- ApplyingToCollege
+- msaeachubaets
+- RedditAlternatives
+- u_imguralbumbot
+- SeattleWA
+- youtubot
+- roxbury
+- CambridgeMA
+- news
+- NeutralPolitics
+---

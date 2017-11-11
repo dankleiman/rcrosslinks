@@ -1,0 +1,24 @@
+---
+title: Whatcouldgowrong
+crosslinks:
+- livven
+- botwatch
+- AskReddit
+- gifs
+- xkcd
+- WTF
+- u_imguralbumbot
+- watchpeopledie
+- holdmybeer
+- autourbanbot
+- IAmA
+- funny
+- videos
+- JusticeServed
+- therewasanattempt
+- gifsthatendtoosoon
+- BetterEveryLoop
+- Roadcam
+- SubAutoCorrectBot
+- OutOfTheLoop
+---

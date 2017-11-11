@@ -1,0 +1,24 @@
+---
+title: ainbow
+crosslinks:
+- autotldr
+- youtubefactsbot
+- lgbt
+- Drama
+- RightwingLGBT
+- askgaybros
+- The_Donald
+- asktransgender
+- gaybros
+- xkcd
+- MassdropBot
+- politics
+- LGBTQnews
+- Anarchism
+- ShitRedditSays
+- AsABlackMan
+- atheism
+- AdviceAnimals
+- news
+- ShitLiberalsSay
+---

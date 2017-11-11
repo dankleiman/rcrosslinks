@@ -1,0 +1,24 @@
+---
+title: RedLetterMedia
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- moviescirclejerk
+- movies
+- autourbanbot
+- StarWars
+- gatekeeping
+- AskReddit
+- SubredditDrama
+- DC_Cinematic
+- ShitRedditSays
+- moviedicks
+- startrek
+- JonTron
+- badphilosophy
+- nfffffffluuuuuuuuuuuu
+- PrequelMemes
+---

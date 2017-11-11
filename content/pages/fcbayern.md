@@ -1,0 +1,24 @@
+---
+title: fcbayern
+crosslinks:
+- soccer
+- youtubefactsbot
+- u_imguralbumbot
+- photoshopbattles
+- Juve
+- Gunners
+- realmadrid
+- youtubot
+- MCFC
+- BrasilOnReddit
+- SoccerDownloadClub
+- footballhighlights
+- lecutinsideman
+- livven
+- MLS
+- place
+- German
+- pics
+- swanseacity
+- chelseafc
+---

@@ -1,0 +1,24 @@
+---
+title: asktrp
+crosslinks:
+- TheRedPill
+- youtubot
+- RedPillWomen
+- seduction
+- MGTOW
+- PurplePillDebate
+- redpillbooks
+- autourbanbot
+- Testosterone
+- AskReddit
+- Fitness
+- askMRP
+- MensRights
+- alotabot
+- NoFap
+- ketogains
+- MassdropBot
+- steroids
+- nohomo_bot
+- bodyweightfitness
+---

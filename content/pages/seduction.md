@@ -1,0 +1,24 @@
+---
+title: seduction
+crosslinks:
+- youtubefactsbot
+- TheRedPill
+- youtubot
+- askseddit
+- socialskills
+- alotabot
+- NoFap
+- AskReddit
+- john_yukis_bots
+- bestof
+- Rateme
+- sex
+- pornfree
+- OkCupid
+- tmsbmeta
+- seddit
+- pickup
+- nohomo_bot
+- dating
+- Bumble
+---

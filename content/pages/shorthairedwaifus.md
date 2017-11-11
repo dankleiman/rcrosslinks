@@ -1,0 +1,24 @@
+---
+title: shorthairedwaifus
+crosslinks:
+- YukariAkiyama
+- Roboragi
+- awwnime
+- LoveLive
+- pantsu
+- wholesomeyuri
+- anti_gif_bot
+- livven
+- succubae
+- Yousoro
+- Animemes
+- BakaChika
+- anime_irl
+- animemaids
+- Vigne
+- anime
+- youtubefactsbot
+- headpats
+- onetrueidol
+- SchoolIdolFestival
+---

@@ -1,0 +1,24 @@
+---
+title: UnexpectedHamilton
+crosslinks:
+- AskReddit
+- StarWars
+- botwatch
+- MassdropBot
+- nosleep
+- expectedhamilton
+- Overwatch
+- Hamilton
+- hamiltonmusical
+- holdmybeer
+- commentgore
+- u_imguralbumbot
+- mildlyinteresting
+- marvelstudios
+- counting
+- fivenightsatfreddys
+- CHICubs
+- funny
+- FireEmblemHeroes
+- subredditsimmeta
+---

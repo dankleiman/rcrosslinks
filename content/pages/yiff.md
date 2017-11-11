@@ -1,0 +1,24 @@
+---
+title: yiff
+crosslinks:
+- furaffinitybot
+- livven
+- u_imguralbumbot
+- HornyDinos
+- youtubefactsbot
+- gfur
+- furry_irl
+- FurrySoftcore
+- Drawn_Horsecock
+- PokePorn
+- yiffcomics
+- DragonsFuckingDragons
+- Sharktits
+- yiffgif
+- Palpz
+- PureYC
+- Rule34FMK
+- youtubot
+- place
+- femyiff
+---

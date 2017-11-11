@@ -1,0 +1,24 @@
+---
+title: educationalgifs
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- youtubot
+- restofthefuckingowl
+- xkcd
+- dataisbeautiful
+- interestingasfuck
+- u_imguralbumbot
+- AskHistorians
+- blackmagicfuckery
+- SurgeryGifs
+- androidapps
+- bestof
+- tmsbmeta
+- AskReddit
+- askscience
+- trashy
+- trypophobia
+- mildlyinfuriating
+---

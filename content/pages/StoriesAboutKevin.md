@@ -1,0 +1,24 @@
+---
+title: StoriesAboutKevin
+crosslinks:
+- mylittleandysonic1
+- HarmReductionExperts
+- AskReddit
+- tifu
+- raisedbynarcissists
+- MaliciousCompliance
+- flying
+- youtubefactsbot
+- excgarated
+- IAmA
+- oldpeoplefacebook
+- NotMyJob
+- JUSTNOMIL
+- wtfdidijustread
+- subreddit
+- rpghorrorstories
+- Whatcouldgowrong
+- talesofmike
+- badwomensanatomy
+- DnDSteve
+---

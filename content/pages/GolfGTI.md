@@ -1,0 +1,24 @@
+---
+title: GolfGTI
+crosslinks:
+- Volkswagen
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- AutoDetailing
+- anti_gif_bot
+- Golf_R
+- alotabot
+- livven
+- MassdropBot
+- Stance
+- '2013'
+- dicksmellers
+- john_yukis_bots
+- golf
+- GooglePixel
+- cars
+- gatekeeping
+- motorcycles
+- DIY
+---

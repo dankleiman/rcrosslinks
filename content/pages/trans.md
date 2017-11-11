@@ -1,0 +1,24 @@
+---
+title: trans
+crosslinks:
+- asktransgender
+- LesbianActually
+- MtF
+- ftm
+- news
+- TransFlagPlace
+- transtimelines
+- The_Donald
+- GCdebatesQT
+- schizophrenia
+- AskReddit
+- traaaaaaannnnnnnnnns
+- TransChristianity
+- TransLater
+- SeattleWA
+- autourbanbot
+- transvoice
+- botwatch
+- thesims
+- dirtykikpals
+---

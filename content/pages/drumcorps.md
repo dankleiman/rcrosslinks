@@ -1,0 +1,24 @@
+---
+title: drumcorps
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- drumcorpscirclejerk
+- john_yukis_bots
+- tmsbmeta
+- livven
+- xkcd
+- redsox
+- WGI
+- anti_gif_bot
+- bodyweightfitness
+- place
+- rust
+- dci
+- autourbanbot
+- Atlanta
+- techsupportgore
+- todayilearned
+- alotabot
+---

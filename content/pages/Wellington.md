@@ -1,0 +1,24 @@
+---
+title: Wellington
+crosslinks:
+- newzealand
+- youtubefactsbot
+- marton
+- youtubot
+- food
+- TheBucketFountain
+- palmy
+- u_imguralbumbot
+- Karori
+- Serendipity
+- OutOfTheLoop
+- hockey
+- canberra
+- gifs
+- pics
+- nocontext
+- autotldr
+- GameofThronesRP
+- Fitness
+- CitiesSkylines
+---

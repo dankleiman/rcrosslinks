@@ -1,0 +1,24 @@
+---
+title: CraftBeer
+crosslinks:
+- beercirclejerk
+- beertrade
+- youtubefactsbot
+- u_imguralbumbot
+- beer
+- beerporn
+- MassdropBot
+- StencilTemplates
+- Homebrewing
+- craft
+- nycbeer
+- abbotsford
+- livven
+- mildyinteresting
+- doughboys
+- CanuckEmpire
+- FoundersAllDayIPA
+- autotldr
+- hops
+- CatsAreAssholes
+---

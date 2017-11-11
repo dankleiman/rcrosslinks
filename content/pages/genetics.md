@@ -1,0 +1,24 @@
+---
+title: genetics
+crosslinks:
+- autotldr
+- nutrition
+- OpenandHonest
+- Palestinesubwatch
+- dickgirls
+- bioinformatics
+- AskAnthropology
+- youtubefactsbot
+- SampleSize
+- tressless
+- genomicdatasharing
+- askscience
+- IsraelSubredditWatch
+- xkcd
+- Serendipity
+- dataisbeautiful
+- ClinicalGenetics
+- genomics
+- AskBiology
+- nottheonion
+---

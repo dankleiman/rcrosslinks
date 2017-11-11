@@ -1,0 +1,24 @@
+---
+title: emacs
+crosslinks:
+- ShadowBan
+- orgmode
+- unixporn
+- vim
+- xkcd
+- youtubefactsbot
+- u_imguralbumbot
+- rust
+- programming
+- git
+- lisp
+- john_yukis_bots
+- MechanicalKeyboards
+- linux
+- guile
+- Python
+- Clojure
+- RelayForReddit
+- xmonad
+- remacs
+---

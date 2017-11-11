@@ -1,0 +1,24 @@
+---
+title: Dinosaurs
+crosslinks:
+- autotldr
+- youtubot
+- youtubefactsbot
+- science
+- Paleontology
+- CoolDinosaurPictures
+- DebateAnAtheist
+- trexgonewild
+- dinosaurswerebad
+- jurassicworldevo
+- JurassicPark
+- CrappyDesign
+- askscience
+- gaming
+- u_imguralbumbot
+- DebunkThis
+- AnimalTextGifs
+- xkcd
+- magicTCG
+- tipofmyjoystick
+---

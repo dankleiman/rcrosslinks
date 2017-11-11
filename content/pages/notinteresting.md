@@ -1,0 +1,24 @@
+---
+title: notinteresting
+crosslinks:
+- u_imguralbumbot
+- livven
+- mildlyinteresting
+- youtubefactsbot
+- MassdropBot
+- SurrealNSFW
+- anti_gif_bot
+- beetlejuicing
+- totallynotrobots
+- slightlyinteresting
+- tmsbmeta
+- AVoid5
+- clickholeorbuzzfeed
+- almostinteresting
+- unexpectedfactorial
+- bonehurtingjuice
+- hmmm
+- underpopular
+- SUBREDDITNAME
+- barelyinteresting
+---

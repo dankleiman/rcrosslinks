@@ -1,0 +1,24 @@
+---
+title: VACCINES
+crosslinks:
+- VaccinesCause
+- conspiracy
+- DebateVaccine
+- science
+- VaccineCausesAutism
+- AntiVaccineMemes
+- AskReddit
+- Vaccine
+- youtubefactsbot
+- worldnews
+- VaccinesAreMoreAwesomeThanGodAndIfYouDoubtThisYouAreAScienceDenierWhoShouldBurnInHellForEverAndEver
+- help
+- VaccinesAreGodsGiftToMan
+- autotldr
+- biology
+- medicine
+- educationalgifs
+- globalhealth
+- VaccinesAreMoreAwesomeThanSex
+- EverythingScience
+---

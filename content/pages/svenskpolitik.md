@@ -1,0 +1,24 @@
+---
+title: svenskpolitik
+crosslinks:
+- sweden
+- youtubefactsbot
+- exmuslim
+- autotldr
+- europe
+- islam
+- arbetarrorelsen
+- youtubot
+- NeutralPolitics
+- worldnews
+- '2017'
+- dataisbeautiful
+- kurdistan
+- skitswedditsager
+- politics
+- syriancivilwar
+- TrumpCriticizesTrump
+- ImGoingToHellForThis
+- todayilearned
+- CGPGrey
+---

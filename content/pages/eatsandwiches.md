@@ -1,0 +1,24 @@
+---
+title: eatsandwiches
+crosslinks:
+- grilledcheese
+- youtubefactsbot
+- food
+- eatwraps
+- iamveryculinary
+- u_imguralbumbot
+- SubredditDrama
+- burgers
+- livven
+- shittyfoodporn
+- FoodPorn
+- ketchuphate
+- bingingwithbabish
+- Breadit
+- SummerReddit
+- youtubot
+- slowcooking
+- Sandwiches
+- ImagesOfMexico
+- texas
+---

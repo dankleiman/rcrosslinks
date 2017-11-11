@@ -1,0 +1,24 @@
+---
+title: shockwaveporn
+crosslinks:
+- youtubefactsbot
+- livven
+- CombatFootage
+- botwatch
+- youtubot
+- AtomicPorn
+- anti_gif_bot
+- videos
+- interestingasfuck
+- Physics
+- ThingsThatBlowUp
+- Serendipity
+- ImGoingToHellForThis
+- MilitaryGfys
+- spacex
+- WhyWereTheyFilming
+- Firefighting
+- noisygifs
+- almostperfectloops
+- JusticeServed
+---

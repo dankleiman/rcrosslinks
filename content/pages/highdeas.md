@@ -1,0 +1,24 @@
+---
+title: highdeas
+crosslinks:
+- youtubefactsbot
+- trees
+- AWLIAS
+- funny
+- StonerThoughts
+- StonerEngineering
+- awfuleverything
+- MassdropBot
+- highthoughts
+- botwatch
+- treedibles
+- microgrowery
+- askgaybros
+- asmr
+- BattleOfTheNations
+- autourbanbot
+- AskReddit
+- LSD
+- WritingPrompts
+- todayilearned
+---

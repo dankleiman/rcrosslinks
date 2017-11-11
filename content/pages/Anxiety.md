@@ -1,0 +1,24 @@
+---
+title: Anxiety
+crosslinks:
+- youtubot
+- youtubefactsbot
+- SWResources
+- worldnews
+- HealthAnxiety
+- AskReddit
+- ADHD
+- getdisciplined
+- SuicideWatch
+- Nootropics
+- depression
+- LateStageCapitalism
+- socialanxiety
+- Meditation
+- calmhands
+- theXeffect
+- KindVoice
+- nootropics
+- CBD
+- mentalhealth
+---

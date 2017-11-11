@@ -1,0 +1,24 @@
+---
+title: minipainting
+crosslinks:
+- Warhammer40k
+- youtubefactsbot
+- u_imguralbumbot
+- youtubot
+- Warhammer
+- DnD
+- InfinityTheGame
+- bloodbowl
+- JourneysInTheDark
+- zombicide
+- TerrainBuilding
+- tmsbmeta
+- ageofsigmar
+- Miniswap
+- Gunpla
+- modelmakers
+- MassdropBot
+- boltaction
+- livven
+- MassiveDarkness
+---

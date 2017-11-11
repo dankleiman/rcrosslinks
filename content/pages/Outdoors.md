@@ -1,0 +1,24 @@
+---
+title: Outdoors
+crosslinks:
+- youtubefactsbot
+- autotldr
+- climbing
+- youtubot
+- SoPosts
+- bugout
+- hiking
+- videos
+- NatureIsFuckingLit
+- anti_gif_bot
+- NorthernWilds
+- PakistaniLeft
+- ireland
+- backpacking
+- antarctica
+- foraging
+- Ultralight
+- Infographics
+- Shambhala
+- norcalhiking
+---

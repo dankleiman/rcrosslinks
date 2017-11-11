@@ -1,0 +1,24 @@
+---
+title: selfhosted
+crosslinks:
+- zeronet
+- homelab
+- linuxserver
+- linux
+- privacy
+- FileRun
+- DataHoarder
+- linux4noobs
+- HomeServer
+- autotldr
+- xkcd
+- RemindMeBot
+- wallabag
+- afian
+- privacytoolsIO
+- programming
+- webhosting
+- sysadmin
+- MMORPG
+- binarybabel
+---

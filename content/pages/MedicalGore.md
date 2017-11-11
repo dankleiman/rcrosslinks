@@ -1,0 +1,24 @@
+---
+title: MedicalGore
+crosslinks:
+- livven
+- youtubefactsbot
+- popping
+- ShittyLifeProTips
+- scars
+- funny
+- Gore
+- Gory
+- jesuschristreddit
+- botwatch
+- Anatomy
+- opiates
+- commonsense
+- gore
+- alotabot
+- piercing
+- SweatyPalms
+- WTF
+- GorePicsandVids
+- bonehurtingjuice
+---

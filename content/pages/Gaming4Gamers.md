@@ -1,0 +1,24 @@
+---
+title: Gaming4Gamers
+crosslinks:
+- youtubot
+- Games
+- gaming
+- patientgamers
+- autotldr
+- pcmasterrace
+- cynicalbritofficial
+- The_Gaben
+- EmulationOnAndroid
+- ZadocPaet
+- Steam
+- pcgaming
+- IAmA
+- livven
+- gamemaker
+- ShouldIbuythisgame
+- truegaming
+- emulation
+- xkcd
+- bestof2016
+---

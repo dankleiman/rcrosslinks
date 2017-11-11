@@ -1,0 +1,24 @@
+---
+title: IronThronePowers
+crosslinks:
+- IronThroneMechanics
+- harrisonial2992
+- ripoffpowers
+- tmsbmeta
+- McClaneMacleod
+- WhoKnowsNot
+- ModmailSandbox
+- ladymormont
+- woiafpowers
+- botpopularitybot
+- youtubot
+- IceandFirePowers
+- IronThroneRP
+- gameofthrones
+- modmailbeta
+- alotabot
+- ironthronemechanics
+- worldpowers
+- PsychoGobstopper
+- PangeanPowers
+---

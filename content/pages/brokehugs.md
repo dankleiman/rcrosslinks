@@ -1,0 +1,24 @@
+---
+title: brokehugs
+crosslinks:
+- Christianity
+- Catholicism
+- xkcd
+- Reformed
+- TrueCatholicPolitics
+- ChristianityMeta
+- AnarchismOnline
+- barwhack
+- badlinguistics
+- xianissues
+- thatHappened
+- atheism
+- popheads
+- SubredditDrama
+- catholicism
+- CatholicPolitics
+- the_donald
+- christian_libertarian
+- AskHistorians
+- redditrequest
+---

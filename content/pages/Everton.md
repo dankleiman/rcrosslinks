@@ -1,0 +1,24 @@
+---
+title: Everton
+crosslinks:
+- youtubefactsbot
+- soccer
+- tmsbmeta
+- youtubot
+- livven
+- soccerstreams
+- soccerbot
+- LiverpoolFC
+- lcfc
+- footballhighlights
+- swanseacity
+- MassdropBot
+- thesimpsons
+- Stealing
+- Gunners
+- botwatch
+- reddevils
+- footballdownload
+- Hammers
+- john_yukis_bots
+---

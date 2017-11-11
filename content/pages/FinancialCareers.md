@@ -1,0 +1,24 @@
+---
+title: FinancialCareers
+crosslinks:
+- cscareerquestions
+- Accounting
+- CFA
+- math
+- consulting
+- youtubefactsbot
+- finance
+- alotabot
+- LawSchool
+- resumes
+- cscareers
+- Baruch
+- actuary
+- RemindMeBot
+- beertrade
+- autotldr
+- Advice
+- iamverybadass
+- motivation
+- CONSLUTING
+---

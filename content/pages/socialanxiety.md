@@ -1,0 +1,24 @@
+---
+title: socialanxiety
+crosslinks:
+- youtubefactsbot
+- socialskills
+- livven
+- IAmA
+- AskReddit
+- youtubot
+- Anxiety
+- anti_gif_bot
+- u_imguralbumbot
+- tmsbmeta
+- ADHD
+- SuicideWatch
+- faimprovement
+- malehairadvice
+- Nootropics
+- CannotWatchScottsTots
+- makingfriends
+- Needafriend
+- TheRedPill
+- Maps_of_Meaning
+---

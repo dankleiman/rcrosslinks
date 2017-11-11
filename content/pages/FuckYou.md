@@ -1,0 +1,24 @@
+---
+title: FuckYou
+crosslinks:
+- livven
+- youtubefactsbot
+- nohomo_bot
+- tmsbmeta
+- MassdropBot
+- KarmaCourt
+- Advice
+- politics
+- sompthingelse
+- wincest
+- fuckyouone
+- gay
+- Plagiarism
+- beetlejuicing
+- csgo
+- botwatch
+- OopsDidntMeanTo
+- AskOuija
+- Showerthoughts
+- CompileBot
+---

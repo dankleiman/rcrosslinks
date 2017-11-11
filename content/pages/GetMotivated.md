@@ -1,0 +1,24 @@
+---
+title: GetMotivated
+crosslinks:
+- TranscribersOfReddit
+- getdisciplined
+- xkcd
+- IAmA
+- AskReddit
+- gaming
+- '2013'
+- mildlyinteresting
+- books
+- videos
+- ShitAmericansSay
+- tmsbmeta
+- hatchery
+- The_Donald
+- Assistance
+- progresspics
+- me_irl
+- gifs
+- stoicism
+- NonZeroDay
+---

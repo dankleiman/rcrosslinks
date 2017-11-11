@@ -1,0 +1,24 @@
+---
+title: guitarcirclejerk
+crosslinks:
+- youtubefactsbot
+- Guitar
+- u_imguralbumbot
+- livven
+- guitarpedalsjerk
+- mildlyinteresting
+- WTF
+- metallicacirclejerk
+- youtubot
+- telecaster
+- IsAnybodyHere
+- AMAAggregator
+- autotldr
+- japancirclejerk
+- ImagesOfThe1940s
+- Luthier
+- REEEEEE
+- ProRevenge
+- virginvschad
+- guitars
+---

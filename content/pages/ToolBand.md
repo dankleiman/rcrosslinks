@@ -1,0 +1,24 @@
+---
+title: ToolBand
+crosslinks:
+- youtubefactsbot
+- youtubot
+- ToolJerk
+- u_imguralbumbot
+- ToolTickets
+- place
+- livven
+- botwatch
+- soundsliketool
+- anti_gif_bot
+- radiohead
+- futurama
+- makesyoumoist
+- ShitTheFalseSay
+- placestart
+- Bender
+- aperfectcircle
+- progmetal
+- musictheory
+- memes
+---

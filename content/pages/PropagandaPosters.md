@@ -1,0 +1,24 @@
+---
+title: PropagandaPosters
+crosslinks:
+- youtubefactsbot
+- SovietHistory
+- AskHistorians
+- u_imguralbumbot
+- pics
+- translator
+- HistoryPorn
+- EnoughCommieSpam
+- xkcd
+- badhistory
+- vexillology
+- FULLCOMMUNISM
+- ShitAmericansSay
+- worstof
+- nocontext
+- LateStageCapitalism
+- OutOfTheLoop
+- ShitLiberalsSay
+- bestof
+- TrueReddit
+---

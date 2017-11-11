@@ -1,0 +1,24 @@
+---
+title: iranian
+crosslinks:
+- autotldr
+- syriancivilwar
+- iran
+- youtubefactsbot
+- arabs
+- OnThisDateInBahai
+- pakistan
+- worldnews
+- kurdistan
+- exbahai
+- autourbanbot
+- Palestine
+- CoincidenceTheorist
+- qatar
+- serbia
+- interestingasfuck
+- IsraelPalestine
+- DarkEnlightenment
+- wallstreetbets
+- RedditDayOf
+---

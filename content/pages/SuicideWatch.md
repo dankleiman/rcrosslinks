@@ -1,0 +1,24 @@
+---
+title: SuicideWatch
+crosslinks:
+- SWResources
+- depression
+- AskReddit
+- raisedbynarcissists
+- pics
+- getdisciplined
+- CasualConversation
+- personalfinance
+- tmsbmeta
+- asktransgender
+- offmychest
+- GetMotivated
+- SuicideBereavement
+- WritingPrompts
+- selfharm
+- science
+- legaladvice
+- relationship_advice
+- gifs
+- explainlikeimfive
+---

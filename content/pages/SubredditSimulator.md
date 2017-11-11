@@ -1,0 +1,24 @@
+---
+title: SubredditSimulator
+crosslinks:
+- SubredditSimMeta
+- tmsbmeta
+- AskHistorians
+- photoshopbattles
+- twitchplayspokemon
+- pics
+- livven
+- zen
+- oddlysatisfying
+- headphones
+- AskReddit
+- askscience
+- me_irl
+- SandersForPresident
+- SubtleTV
+- nosleep
+- OutOfTheLoop
+- mylittlepony
+- gaming
+- funny
+---

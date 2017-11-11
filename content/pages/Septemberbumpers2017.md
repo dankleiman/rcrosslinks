@@ -1,0 +1,24 @@
+---
+title: Septemberbumpers2017
+crosslinks:
+- BabyBumps
+- u_imguralbumbot
+- predaddit
+- anti_gif_bot
+- OctoberBumpers2017
+- JUSTNOMIL
+- beyondthebump
+- youtubefactsbot
+- Mommit
+- raisedbynarcissists
+- AugustBumpers2017
+- infertility
+- livven
+- GestationalDiabetes
+- xxfitness
+- stilltrying
+- food
+- babybumps
+- xkcd
+- TryingForABaby
+---

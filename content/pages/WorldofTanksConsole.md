@@ -1,0 +1,24 @@
+---
+title: WorldofTanksConsole
+crosslinks:
+- livven
+- WorldofTanks
+- youtubefactsbot
+- anti_gif_bot
+- TankPorn
+- xboxone
+- WorldofTanksXbox
+- youtubot
+- MassdropBot
+- aww
+- AskHistorians
+- DuplicatesBot
+- electronic_cigarette
+- 2007scape
+- shittytheydidthemath
+- Gamingcirclejerk
+- GIRLSundPANZER
+- botsrights
+- ShitWehraboosSay
+- xboxrddt
+---

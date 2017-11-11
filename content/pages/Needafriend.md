@@ -1,0 +1,24 @@
+---
+title: Needafriend
+crosslinks:
+- MakeNewFriendsHere
+- penpals
+- youtubefactsbot
+- alotabot
+- GamerPals
+- youtubot
+- SuicideWatch
+- john_yukis_bots
+- teenagers
+- loseit
+- dirtykikpals
+- CorgiwiggleFanClub
+- BasementBadBoy
+- Blink182
+- raisedbynarcissists
+- nihilism
+- sarcasm
+- niceguys
+- xkcd
+- r4r
+---

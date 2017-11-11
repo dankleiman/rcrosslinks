@@ -1,0 +1,24 @@
+---
+title: Mindfulness
+crosslinks:
+- youtubefactsbot
+- youtubot
+- autotldr
+- Meditation
+- getdisciplined
+- xkcd
+- microdosing
+- relationships
+- getting_over_it
+- Stoicism
+- download
+- Psychonaut
+- self
+- Art
+- ADHD
+- u_imguralbumbot
+- streamentry
+- Minecraft
+- ZeroWaste
+- livven
+---

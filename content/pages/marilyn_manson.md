@@ -1,0 +1,24 @@
+---
+title: marilyn_manson
+crosslinks:
+- youtubefactsbot
+- youtubot
+- IAmA
+- LinkinPark
+- nincirclejerk
+- tmsbmeta
+- gatekeeping
+- Christianity
+- LadyGaga
+- livven
+- botwatch
+- deadmau5
+- MassdropBot
+- marilynmanson
+- sweden
+- Nirvana
+- PhotoshopRequest
+- drunkenpeasants
+- MMCirclejerk
+- u_imguralbumbot
+---

@@ -1,0 +1,24 @@
+---
+title: wikipedia
+crosslinks:
+- youtubefactsbot
+- youtubot
+- xkcd
+- autotldr
+- UnresolvedMysteries
+- changemyview
+- australia
+- HitlerSpam
+- Drama
+- AskHistorians
+- CompulsiveSkinPicking
+- anticonsumption
+- Roboragi
+- theydidthefuckyou
+- beatles
+- news
+- Henanporn
+- todayilearned
+- ImpeachTrump
+- conspiracy
+---

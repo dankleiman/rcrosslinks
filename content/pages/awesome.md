@@ -1,0 +1,24 @@
+---
+title: awesome
+crosslinks:
+- youtubefactsbot
+- youtubot
+- pics
+- gifs
+- anti_gif_bot
+- interestingasfuck
+- funny
+- videos
+- snowboarding
+- aww
+- photoshopbattles
+- mildlyinteresting
+- autotldr
+- CuttingShapes
+- AirBrawl
+- botwatch
+- nocontext
+- SweatyPalms
+- woahdude
+- iamverybadass
+---

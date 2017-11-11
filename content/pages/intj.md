@@ -1,0 +1,24 @@
+---
+title: intj
+crosslinks:
+- mbti
+- youtubefactsbot
+- 2X_INTJ
+- iamverysmart
+- infj
+- Stoicism
+- TheRedPill
+- INTP
+- getdisciplined
+- MGTOW
+- ENFP
+- entp
+- AskReddit
+- entj
+- infp
+- socialskills
+- askscience
+- autourbanbot
+- '2013'
+- AskWomen
+---

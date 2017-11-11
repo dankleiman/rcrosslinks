@@ -1,0 +1,24 @@
+---
+title: LearnUselessTalents
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- restofthefuckingowl
+- xkcd
+- DiWHY
+- Shoplifting
+- nocontext
+- videos
+- origami
+- Cubers
+- blackmagicfuckery
+- WritingPrompts
+- Frugal_Jerk
+- AskHistorians
+- lockpicking
+- killthosewhodisagree
+- anti_gif_bot
+- SCP
+- birdswitharms
+---

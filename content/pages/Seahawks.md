@@ -1,0 +1,24 @@
+---
+title: Seahawks
+crosslinks:
+- nfl
+- falcons
+- u_imguralbumbot
+- nflstreams
+- john_yukis_bots
+- MassdropBot
+- livven
+- CoalitionAgainstEvil
+- mildlyinteresting
+- anti_gif_bot
+- redditsync
+- GreenBayPackers
+- detroitlions
+- SeattleWA
+- place
+- IAmA
+- nyjets
+- Browns
+- redsox
+- Texans
+---

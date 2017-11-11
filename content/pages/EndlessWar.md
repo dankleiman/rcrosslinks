@@ -1,0 +1,24 @@
+---
+title: EndlessWar
+crosslinks:
+- autotldr
+- youtubefactsbot
+- antiwar
+- Libertarian
+- conspiracy
+- WayOfTheBern
+- worldpolitics
+- TrueReddit
+- worldnews
+- DescentIntoTyranny
+- politics
+- badeconomics
+- GreenTea_Party
+- POLITIC
+- UpcomingWW3
+- TheNewRight
+- TheColorIsBlue
+- PanicHistory
+- history
+- aznidentity
+---

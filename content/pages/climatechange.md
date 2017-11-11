@@ -1,0 +1,24 @@
+---
+title: climatechange
+crosslinks:
+- autotldr
+- climateskeptics
+- askscience
+- youtubefactsbot
+- ZeroWaste
+- aftertheflood
+- xkcd
+- energy
+- skeptic
+- AskPhysics
+- politics
+- science
+- youtubot
+- climate
+- canada
+- ParisAccord
+- shitdenierssay
+- ocean
+- space
+- Serendipity
+---

@@ -1,0 +1,24 @@
+---
+title: premed
+crosslinks:
+- anti_gif_bot
+- livven
+- youtubefactsbot
+- medicalschool
+- tommytext
+- Mcat
+- medicine
+- tmsbmeta
+- john_yukis_bots
+- depression
+- u_imguralbumbot
+- autotldr
+- bestof
+- youtubot
+- MassdropBot
+- AMAAggregator
+- AskReddit
+- Drama
+- legaladvice
+- Serendipity
+---

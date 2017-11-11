@@ -1,0 +1,24 @@
+---
+title: MadokaMagica
+crosslinks:
+- Pixiv
+- anime
+- livven
+- youtubefactsbot
+- u_imguralbumbot
+- magiarecord
+- MassdropBot
+- twitchplayspokemon
+- ToTheStars
+- homura
+- HomuMado
+- LoveLive
+- sailormoon
+- PuzzleAndDragons
+- place
+- SayaHomu
+- Kyousaya
+- placeAtlas
+- phantomofthekill
+- alotabot
+---

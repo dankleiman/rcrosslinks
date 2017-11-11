@@ -1,0 +1,24 @@
+---
+title: DestroyedTanks
+crosslinks:
+- TankPorn
+- HistoryPorn
+- ShitWehraboosSay
+- MilitaryGfys
+- youtubot
+- AskHistorians
+- CombatFootage
+- youtubefactsbot
+- MilitaryPorn
+- CatastrophicFailure
+- 88mm
+- syriancivilwar
+- DestructionPorn
+- ww2
+- SovietWW2Photos
+- GifsThatStartTooLate
+- SyrianRebels
+- tanks
+- autourbanbot
+- afghanistan
+---

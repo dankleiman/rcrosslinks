@@ -1,0 +1,24 @@
+---
+title: findareddit
+crosslinks:
+- SuicideWatch
+- botwatch
+- TrueOffMyChest
+- techsupport
+- HelpMeFind
+- AskReddit
+- youtubefactsbot
+- rant
+- youtubot
+- answers
+- NotOClockers
+- Advice
+- ifyoulikeblank
+- movies
+- CasualConversation
+- ICanDrawThat
+- tipofmytongue
+- androidapps
+- offmychest
+- politics
+---

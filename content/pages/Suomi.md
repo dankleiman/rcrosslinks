@@ -1,0 +1,24 @@
+---
+title: Suomi
+crosslinks:
+- youtubefactsbot
+- europe
+- xkcd
+- youtubot
+- AskReddit
+- sweden
+- worldnews
+- autourbanbot
+- place
+- livven
+- news
+- HommaInAction
+- FinlandFlag
+- pics
+- autotldr
+- Finland
+- OutOfTheLoop
+- politics
+- anti_gif_bot
+- videos
+---

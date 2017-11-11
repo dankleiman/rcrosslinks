@@ -1,0 +1,24 @@
+---
+title: Colorado
+crosslinks:
+- Denver
+- autotldr
+- youtubefactsbot
+- youtubot
+- IAmA
+- technology
+- dataisbeautiful
+- focoprogress
+- worldpolitics
+- MassdropBot
+- ColoradoHyperloop
+- pics
+- Missing411
+- lowcar
+- The_Donald
+- privacy
+- boulder
+- nosleep
+- lewronggeneration
+- coloradohikers
+---

@@ -1,0 +1,24 @@
+---
+title: Italian
+crosslinks:
+- italy
+- perlediritaly
+- perlediritalian
+- youtubefactsbot
+- autotldr
+- ShitEvilModsSay
+- MassdropBot
+- Italia
+- MGTOW
+- youtubot
+- italypremium
+- WhereIsAssange
+- television
+- ussr
+- perlediperlediritaly
+- xkcd
+- anti_gif_bot
+- REEEEEEEEEE
+- worldnews
+- cazzeggio
+---

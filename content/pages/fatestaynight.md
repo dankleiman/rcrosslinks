@@ -1,0 +1,24 @@
+---
+title: fatestaynight
+crosslinks:
+- Pixiv
+- grandorder
+- anime
+- youtubot
+- u_imguralbumbot
+- livven
+- botwatch
+- RWBY
+- Saber
+- User_Simulator
+- badphilosophy
+- Animewallpaper
+- Illyasviel
+- respectthreads
+- Bazett
+- typemoon
+- IAmA
+- autourbanbot
+- eyebleachrequestbot
+- heavensfeel
+---

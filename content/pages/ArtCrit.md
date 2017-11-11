@@ -1,0 +1,24 @@
+---
+title: ArtCrit
+crosslinks:
+- u_imguralbumbot
+- learnart
+- redditgetsdrawn
+- youtubefactsbot
+- MassdropBot
+- livven
+- Art
+- ArtFundamentals
+- pics
+- youtubot
+- a
+- hmmm
+- anti_gif_bot
+- characterdrawing
+- AccidentalRenaissance
+- '2015'
+- Illustration
+- ArtProgressPics
+- kei0q9
+- PutAnEggOnIt
+---

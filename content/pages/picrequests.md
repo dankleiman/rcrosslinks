@@ -1,0 +1,24 @@
+---
+title: picrequests
+crosslinks:
+- u_imguralbumbot
+- PhotoshopRequest
+- redditgetsdrawn
+- estoration
+- gifrequests
+- colorizationrequests
+- DrawForMe
+- Berserk
+- deltalog
+- DesignJobs
+- vegan
+- youtubot
+- HungryArtists
+- forhire
+- pics
+- tipofmypenis
+- abandonedsubreddits
+- contentawarescale
+- artrequests
+- IASIP
+---

@@ -1,0 +1,24 @@
+---
+title: StallmanWasRight
+crosslinks:
+- autotldr
+- AntiFacebook
+- privacy
+- youtubefactsbot
+- xkcd
+- linuxmasterrace
+- technology
+- theinternetofshit
+- COMPLETEANARCHY
+- bestof
+- darknetplan
+- linux
+- CrackWatch
+- ShitAmericansSay
+- selfhosted
+- milliondollarextreme
+- youtubot
+- Futurology
+- YouShouldKnow
+- PortugalOnReddit
+---

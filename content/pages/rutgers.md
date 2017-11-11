@@ -1,0 +1,24 @@
+---
+title: rutgers
+crosslinks:
+- youtubefactsbot
+- place
+- cscareerquestions
+- TheB1G
+- RutgersNewark
+- Piracy
+- youtubot
+- trackers
+- learnprogramming
+- newjersey
+- college
+- u_imguralbumbot
+- ofcoursethatexists
+- Huskers
+- linguistics
+- gradadmissions
+- siliconvalley
+- actuary
+- Physics
+- CourseHeroUnlocks
+---

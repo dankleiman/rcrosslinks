@@ -1,0 +1,24 @@
+---
+title: neopets
+crosslinks:
+- u_imguralbumbot
+- IAmA
+- tmsbmeta
+- youtubefactsbot
+- john_yukis_bots
+- youtubot
+- anti_gif_bot
+- place
+- neopetsmeta
+- livven
+- TheFarLeftSide
+- ShadowBan
+- autotldr
+- autourbanbot
+- REEEEEEEEEE
+- asatru
+- gatekeeping
+- asianbeauty
+- askscience
+- xkcd
+---

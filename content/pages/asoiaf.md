@@ -1,0 +1,24 @@
+---
+title: asoiaf
+crosslinks:
+- gameofthrones
+- pureasoiaf
+- AskHistorians
+- asoiafcirclejerk
+- Fantasy
+- asoiafreread
+- freefolk
+- FanTheories
+- gottheories
+- AccursedKings
+- dataisbeautiful
+- ImaginaryWesteros
+- television
+- WritingPrompts
+- IAmA
+- explainlikeimfive
+- CK2GameOfthrones
+- modnews
+- oldgodsandnew
+- AskReddit
+---

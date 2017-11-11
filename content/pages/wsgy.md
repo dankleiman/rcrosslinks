@@ -1,0 +1,24 @@
+---
+title: wsgy
+crosslinks:
+- youtubefactsbot
+- 4chan
+- CadenMoranDairy
+- AskReddit
+- SubredditDrama
+- Grilsubs
+- taylorswiftarmpit
+- The_Donald
+- Jokes
+- circlebroke2
+- Drama
+- TheRedPill
+- dataisbeautiful
+- mildlyinteresting
+- gaystoriesgonewild
+- wewLad
+- jerktalkdiamond
+- CIRCLEFUCKERS
+- atheism
+- nfl
+---

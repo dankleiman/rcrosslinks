@@ -1,0 +1,24 @@
+---
+title: montageparodies
+crosslinks:
+- youtubefactsbot
+- youtubot
+- shitpost
+- Overwatch
+- weekendgunnit
+- simpsonswave
+- h3h3productions
+- MemeEconomy
+- Serendipity
+- shooting_stars
+- PrequelMemes
+- bannedfromclubpenguin
+- smashups
+- cringe
+- lazytown
+- tennis
+- engineering
+- tmsbmeta
+- anti_gif_bot
+- the_donald_circlejerk
+---

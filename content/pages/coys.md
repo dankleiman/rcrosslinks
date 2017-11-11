@@ -1,0 +1,24 @@
+---
+title: coys
+crosslinks:
+- youtubefactsbot
+- soccer
+- footballdownload
+- u_imguralbumbot
+- youtubot
+- reddevils
+- soccerstreams
+- CoysCirclejerk
+- livven
+- SoccerDownloadClub
+- chelseafc
+- FantasyPL
+- MassdropBot
+- footbaww
+- john_yukis_bots
+- anti_gif_bot
+- place
+- schalke04
+- london
+- football
+---

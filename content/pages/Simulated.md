@@ -1,0 +1,24 @@
+---
+title: Simulated
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- livven
+- youtubot
+- blender
+- tmsbmeta
+- xkcd
+- shittysimulated
+- oddlysatisfying
+- ConfusedBoners
+- woahdude
+- botwatch
+- noisygifs
+- oeCake
+- glitch_art
+- bestof
+- mildlypenis
+- john_yukis_bots
+- gifs
+- totallynotrobots
+---

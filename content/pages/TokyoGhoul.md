@@ -1,0 +1,24 @@
+---
+title: TokyoGhoul
+crosslinks:
+- tokyo_ghoulre
+- youtubefactsbot
+- u_imguralbumbot
+- manga
+- youtubot
+- livven
+- autourbanbot
+- john_yukis_bots
+- soledsnak
+- berserklejerk
+- PrequelMemes
+- nohomo_bot
+- tgrp
+- japancirclejerk
+- one_shot
+- place
+- changelog
+- Tokyo_Ghoul_NSFW
+- Berserk
+- highqualitygifs
+---

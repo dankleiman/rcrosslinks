@@ -1,0 +1,24 @@
+---
+title: hacking
+crosslinks:
+- autotldr
+- HowToHack
+- xkcd
+- youtubefactsbot
+- netsec
+- masterhacker
+- autourbanbot
+- techsupport
+- AskNetsec
+- raspberry_pi
+- tmsbmeta
+- homelab
+- livven
+- Fraudnet2
+- itsaunixsystem
+- MassdropBot
+- switcharoo
+- youtubot
+- IAmA
+- computerforensics
+---

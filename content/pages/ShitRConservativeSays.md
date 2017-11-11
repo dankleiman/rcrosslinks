@@ -1,0 +1,24 @@
+---
+title: ShitRConservativeSays
+crosslinks:
+- Conservative
+- The_Donald
+- Republican
+- MetaRepublican
+- ConservativeMeta
+- conservatives
+- metacanada
+- conservative
+- askaconservative
+- ShitPoliticsSays
+- politics
+- AskTrumpSupporters
+- youtubot
+- RightwingLGBT
+- AskReddit
+- Libertarian
+- PoliticalHumor
+- conspiracy
+- ConservativesOnly
+- KotakuInAction
+---

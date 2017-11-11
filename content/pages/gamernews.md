@@ -1,0 +1,24 @@
+---
+title: gamernews
+crosslinks:
+- youtubefactsbot
+- autotldr
+- Gamingcirclejerk
+- youtubot
+- tmsbmeta
+- pathofexile
+- pcgaming
+- albiononline
+- autourbanbot
+- ps2
+- SmallYTChannel
+- Steam
+- Games
+- anti_gif_bot
+- pcmasterrace
+- xboxone
+- gaming
+- me_irl
+- gamingnews
+- starcraft
+---

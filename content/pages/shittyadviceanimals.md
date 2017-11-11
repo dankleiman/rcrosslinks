@@ -1,0 +1,24 @@
+---
+title: shittyadviceanimals
+crosslinks:
+- AdviceAnimals
+- youtubot
+- tmsbmeta
+- autourbanbot
+- livven
+- bonehurtingjuice
+- u_imguralbumbot
+- WTF
+- shittyshittyadviceani
+- ScottishPeopleTwitter
+- rickandmorty
+- wholesomememes
+- Music
+- TheSimpsons
+- weakmemes
+- PoliticalHumor
+- iamverysmart
+- 2meirl42meirl4meirl
+- Showerthoughts
+- shitpost
+---

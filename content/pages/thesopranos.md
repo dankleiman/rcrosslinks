@@ -1,0 +1,24 @@
+---
+title: thesopranos
+crosslinks:
+- youtubefactsbot
+- youtubot
+- CirclejerkSopranos
+- TheWire
+- anti_gif_bot
+- u_imguralbumbot
+- Mafia
+- autourbanbot
+- television
+- livven
+- Judaism
+- legaladviceofftopic
+- RetiredReferences
+- nfl
+- IAmA
+- NintendoSwitch
+- MassdropBot
+- modelmakers
+- opieandanthony
+- titlegore
+---

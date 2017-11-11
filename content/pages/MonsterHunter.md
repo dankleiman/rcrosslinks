@@ -1,0 +1,24 @@
+---
+title: MonsterHunter
+crosslinks:
+- youtubefactsbot
+- tmsbmeta
+- monsterhunterclan
+- monsterhunterrage
+- 3dshacks
+- NintendoSwitch
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- placestart
+- MHF
+- MH34u
+- MHOnline
+- place
+- nocontext
+- AceCadetJokes
+- 3DS
+- Laxaria
+- youtubot
+- MonsterHunterCustoms
+---

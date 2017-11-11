@@ -1,0 +1,24 @@
+---
+title: soccer
+crosslinks:
+- u_imguralbumbot
+- Gunners
+- reddevils
+- LiverpoolFC
+- soccerbot
+- Barca
+- anti_gif_bot
+- chelseafc
+- livven
+- coys
+- soccerstreams
+- MCFC
+- MLS
+- AskReddit
+- realmadrid
+- LigaMX
+- nba
+- '2013'
+- borussiadortmund
+- footballhighlights
+---

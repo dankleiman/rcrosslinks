@@ -1,0 +1,24 @@
+---
+title: ProductPorn
+crosslinks:
+- pics
+- youtubefactsbot
+- shittykickstarters
+- awwnverts
+- shrimptank
+- Roombaww
+- ConfusedBoners
+- john_yukis_bots
+- oddlysatisfying
+- ExpectationVsReality
+- metalgearsolid
+- woodworking
+- gifs
+- DIY
+- Creativity
+- poop
+- DiWHY
+- tea
+- mildlyinteresting
+- reallifedoodles
+---

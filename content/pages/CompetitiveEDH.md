@@ -1,0 +1,24 @@
+---
+title: CompetitiveEDH
+crosslinks:
+- LabManiacs
+- EDH
+- youtubot
+- magicTCG
+- tmsbmeta
+- youtubefactsbot
+- spikes
+- OptimalEDH
+- Pauper
+- xkcd
+- magicthecirclejerking
+- mtgjudge
+- Rutherfox
+- baconreader
+- BigLupu
+- Cockatrice
+- BasementBoardGames
+- ModernMagic
+- SiegeCommander
+- mtgfinance
+---

@@ -1,0 +1,24 @@
+---
+title: NorthCarolina
+crosslinks:
+- autotldr
+- WNC
+- Charlotte
+- badhistory
+- bestof
+- news
+- raleigh
+- asheville
+- bullcity
+- Christianity
+- SwagBucks
+- personalfinance
+- youtubefactsbot
+- goodposts_aboutvoting
+- todayilearned
+- gatekeeping
+- PoliticalDiscussion
+- triangle
+- The_Donald_NC
+- politics
+---

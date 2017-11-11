@@ -1,0 +1,24 @@
+---
+title: ImagesOfAfghanistan
+crosslinks:
+- MilitaryPorn
+- pics
+- imagesofnetwork
+- OldSchoolCool
+- funny
+- HistoryPorn
+- FiveYearsAgoOnReddit
+- gifs
+- EarthPorn
+- WarplanePorn
+- CombatFootage
+- TankPorn
+- aww
+- army
+- PoliticalHumor
+- Military
+- afghanistan
+- MineralPorn
+- u_2BrkOnThru
+- MapPorn
+---

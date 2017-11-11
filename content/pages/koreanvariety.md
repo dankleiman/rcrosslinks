@@ -1,0 +1,24 @@
+---
+title: koreanvariety
+crosslinks:
+- youtubefactsbot
+- kpop
+- KDRAMA
+- runningman
+- girlsday
+- TheGenius
+- youtubot
+- u_imguralbumbot
+- Broduce101
+- netflix
+- stanisms
+- videos
+- xkcd
+- BlackPink
+- Serendipity
+- Produce101
+- nuest
+- NorthKoreaPics
+- WMOhMyGirl
+- ShadowBan
+---

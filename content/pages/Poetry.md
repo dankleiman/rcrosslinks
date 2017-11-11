@@ -1,0 +1,24 @@
+---
+title: Poetry
+crosslinks:
+- OCPoetry
+- youtubot
+- youtubefactsbot
+- ocPoetry
+- poemVIDEOs
+- poetryreading
+- autotldr
+- Seattle
+- tmsbmeta
+- u_imguralbumbot
+- MassdropBot
+- TheHaiku
+- badphilosophy
+- GetMotivated
+- anti_gif_bot
+- AskLiteraryStudies
+- TheHourchive
+- todayilearned
+- bestof
+- Documentaries
+---

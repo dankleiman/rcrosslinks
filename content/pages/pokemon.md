@@ -1,0 +1,24 @@
+---
+title: pokemon
+crosslinks:
+- youtubefactsbot
+- pokemontrades
+- u_imguralbumbot
+- livven
+- stunfisk
+- tmsbmeta
+- ShinyPokemon
+- gaming
+- xkcd
+- PokemonROMhacks
+- Pixiv
+- NintendoSwitch
+- bulbasaurmasterrace
+- pokemonrng
+- PokeMoonSun
+- 3dshacks
+- nuzlocke
+- MassdropBot
+- TheFestivalPlaza
+- BattleFactory
+---

@@ -1,0 +1,24 @@
+---
+title: law
+crosslinks:
+- youtubefactsbot
+- The_Donald
+- badlegaladvice
+- politics
+- Lawfare
+- xkcd
+- IAmA
+- worldnews
+- neutralnews
+- medicalschool
+- youtubot
+- medicine
+- legaladviceofftopic
+- AMAAggregator
+- Libertarian
+- bestof
+- videos
+- Dallas
+- ProtectAndServe
+- ShitPoliticsSays
+---

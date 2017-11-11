@@ -1,0 +1,24 @@
+---
+title: lifeisstrange
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- anti_gif_bot
+- livven
+- john_yukis_bots
+- thatfeelbro
+- autourbanbot
+- lifeisstrangeleaks
+- Pricefield
+- Games
+- Rainmeter
+- patientgamers
+- Vampyr
+- CrusaderKings
+- Firewatch
+- telltale
+- tmsbmeta
+- alotabot
+- xkcd
+---

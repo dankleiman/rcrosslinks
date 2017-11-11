@@ -1,0 +1,24 @@
+---
+title: Enneagram
+crosslinks:
+- mbti
+- INTP
+- JungianTypology
+- youtubefactsbot
+- AskReddit
+- philosophy
+- appers
+- MassdropBot
+- Pottermore
+- standupshots
+- youtubot
+- raisedbynarcissists
+- Suomi
+- worries
+- selfimprovement
+- NonZeroDay
+- FringeHub
+- Pussified
+- Futurology
+- infp
+---

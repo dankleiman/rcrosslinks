@@ -1,0 +1,24 @@
+---
+title: CatastrophicFailure
+crosslinks:
+- youtubefactsbot
+- livven
+- youtubot
+- anti_gif_bot
+- watchpeopledie
+- botwatch
+- pics
+- WTF
+- videos
+- gifs
+- xkcd
+- catastrophicsuccess
+- nononono
+- MyPeopleNeedMe
+- WhyWereTheyFilming
+- aviation
+- OSHA
+- SweatyPalms
+- drunk
+- IdiotsNearlyDying
+---

@@ -1,0 +1,24 @@
+---
+title: jobs
+crosslinks:
+- youtubefactsbot
+- personalfinance
+- resumes
+- AskReddit
+- legaladvice
+- autotldr
+- cscareerquestions
+- financialindependence
+- WorkOnline
+- MassdropBot
+- recruitinghell
+- youtubot
+- LateStageCapitalism
+- IAmA
+- john_yukis_bots
+- AMAAggregator
+- LegalAdviceUK
+- Career_Advice
+- unitedkingdom
+- tmsbmeta
+---

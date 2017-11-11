@@ -1,0 +1,24 @@
+---
+title: badparking
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- livven
+- mazda
+- mildlyinteresting
+- JusticeServed
+- NotMyJob
+- MassdropBot
+- 4chan
+- KarmaConspiracy
+- AskReddit
+- hmmm
+- peopleofwalmart
+- pics
+- xkcd
+- botwatch
+- Blind
+- gatekeeping
+- copypasta
+- mobilerepair
+---

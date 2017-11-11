@@ -1,0 +1,24 @@
+---
+title: rush
+crosslinks:
+- youtubefactsbot
+- youtubot
+- place
+- MassdropBot
+- u_imguralbumbot
+- space
+- RushCirclejerk
+- gamegrumps
+- modnews
+- gifs
+- TaiShan
+- MechanicalKeyboards
+- TameImpala
+- Pay_Respects
+- autotldr
+- placecanada
+- goldbenefits
+- Go_PlayalongTrax
+- TWRP
+- xkcd
+---

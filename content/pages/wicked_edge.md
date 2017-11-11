@@ -1,0 +1,24 @@
+---
+title: wicked_edge
+crosslinks:
+- Shave_Bazaar
+- Wetshaving
+- youtubefactsbot
+- Wet_Shavers
+- MassdropBot
+- youtubot
+- Skincare_Addiction
+- fragsplits
+- ladyshavers
+- wetshaving
+- flashlight
+- fountainpens
+- BuyItForLife
+- SkincareAddiction
+- toothbrushmasterrace
+- u_imguralbumbot
+- fragrance
+- livven
+- NBASpurs
+- PropagandaPosters
+---

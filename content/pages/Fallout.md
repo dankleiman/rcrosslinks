@@ -1,0 +1,24 @@
+---
+title: Fallout
+crosslinks:
+- FalloutMods
+- fo4
+- falloutlore
+- gaming
+- xkcd
+- IAmA
+- FalloutCascadia
+- fnv
+- u_imguralbumbot
+- skyrimmods
+- Gamingcirclejerk
+- youtubot
+- pcmasterrace
+- MoxdogTheWriter
+- ElderScrolls
+- Fallout4Builds
+- Steam
+- foshelter
+- skyrim
+- FO4mods
+---

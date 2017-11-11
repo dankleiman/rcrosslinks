@@ -1,0 +1,24 @@
+---
+title: nameaserver
+crosslinks:
+- HighQualityGifs
+- atheism
+- gameofthrones
+- WaterGuy12
+- worldnews
+- TropicalWeather
+- funny
+- NoStupidQuestions
+- apple
+- AskReddit
+- 2007scape
+- hearthstone
+- videos
+- 3dshacks
+- aww
+- wholesomememes
+- fivenightsatfreddys
+- SquaredCircle
+- Rainbow6
+- movies
+---

@@ -1,0 +1,24 @@
+---
+title: whatsthisrock
+crosslinks:
+- fossilid
+- u_imguralbumbot
+- rockhounds
+- geology
+- whatisthisthing
+- Arrowheads
+- MineralPorn
+- MassdropBot
+- xkcd
+- mildlypenis
+- grilledcheese
+- 90sdesign
+- Minerals
+- itsslag
+- Whatisthis
+- tmsbmeta
+- livven
+- youtubefactsbot
+- meteorites
+- pics
+---

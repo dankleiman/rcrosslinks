@@ -1,0 +1,24 @@
+---
+title: Tennesseetitans
+crosslinks:
+- youtubefactsbot
+- nfl
+- NFL_Draft
+- tmsbmeta
+- youtubot
+- u_imguralbumbot
+- nflstreams
+- Texans
+- detroitlions
+- livven
+- cordcutters
+- Jaguars
+- MassdropBot
+- EvilLeagueOfEvil
+- anti_gif_bot
+- autotldr
+- oaklandraiders
+- Lions
+- predators
+- panthers
+---

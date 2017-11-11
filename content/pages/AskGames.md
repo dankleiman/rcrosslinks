@@ -1,0 +1,24 @@
+---
+title: AskGames
+crosslinks:
+- tipofmyjoystick
+- youtubefactsbot
+- gamingsuggestions
+- youtubot
+- buildapc
+- Gamingcirclejerk
+- lowendgaming
+- SuggestALaptop
+- CrusaderKings
+- u_imguralbumbot
+- AskReddit
+- teenagers
+- GlobalOffensive
+- GearsOfWar
+- visualnovels
+- masseffect
+- dwarffortress
+- todayilearned
+- statistics
+- starbound
+---

@@ -1,0 +1,24 @@
+---
+title: longtail
+crosslinks:
+- noveltranslations
+- changemyview
+- u_imguralbumbot
+- leagueoflegends
+- Showerthoughts
+- HFY
+- botwatch
+- underpopular
+- legaladvice
+- AMAAggregator
+- LifeProTips
+- Nudelete
+- FFBraveExvius
+- ethtrader
+- youtubot
+- hearthstone
+- personalfinance
+- nosleep
+- me_irl
+- explainlikeimfive
+---

@@ -1,0 +1,24 @@
+---
+title: arcticmonkeys
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- livven
+- qotsa
+- titlegore
+- u_imguralbumbot
+- PATV
+- amcirclejerk
+- place
+- ArcticMonkeysRule34
+- weezer
+- malefashionadvice
+- beatles
+- tmsbmeta
+- Hair
+- Kanye
+- OopsDidntMeanTo
+- LSD
+- The_Donald
+---

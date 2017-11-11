@@ -1,0 +1,24 @@
+---
+title: tattoo
+crosslinks:
+- tattoos
+- youtubefactsbot
+- u_imguralbumbot
+- badtattoos
+- livven
+- youtubot
+- sticknpokes
+- SubAutoCorrectBot
+- tmsbmeta
+- translator
+- ThriftStoreHauls
+- FinalFantasy
+- BrasilOnReddit
+- DuplicatesBot
+- DrawMyTattoo
+- sandiego
+- ArtisanVideos
+- wildlypenis
+- trashy
+- science
+---

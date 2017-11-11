@@ -1,0 +1,24 @@
+---
+title: SCP
+crosslinks:
+- youtubefactsbot
+- SCPDeclassified
+- livven
+- DankMemesFromSite19
+- botpopularitybot
+- anti_gif_bot
+- tmsbmeta
+- youtubot
+- 093game
+- CompileBot
+- creepy
+- xkcd
+- scpcontainmentbreach
+- pics
+- u_imguralbumbot
+- MassdropBot
+- Simulated
+- botwatch
+- bonehurtingjuice
+- videos
+---

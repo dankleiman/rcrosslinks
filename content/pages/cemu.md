@@ -1,0 +1,24 @@
+---
+title: cemu
+crosslinks:
+- youtubefactsbot
+- CEMUcaches
+- youtubot
+- emulation
+- u_imguralbumbot
+- breathofthewow
+- Amd
+- CemuGraphicPacks
+- NintendoSwitch
+- pcmasterrace
+- CemuMarioMaker
+- tmsbmeta
+- SteamController
+- cemucaches
+- john_yukis_bots
+- WiiUHacks
+- Breath_of_the_Wild
+- DolphinEmulator
+- pcgaming
+- nvidia
+---

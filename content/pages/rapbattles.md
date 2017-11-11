@@ -1,0 +1,24 @@
+---
+title: rapbattles
+crosslinks:
+- youtubefactsbot
+- youtubot
+- livven
+- hiphopheads
+- john_yukis_bots
+- beetlejuicing
+- RapWars
+- u_imguralbumbot
+- Music
+- alotabot
+- grime
+- Daylyt
+- anti_gif_bot
+- eyebleachrequestbot
+- conspiracy
+- traps
+- FinancialAdvice
+- kittens
+- shittyHDR
+- IAmA
+---

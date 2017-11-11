@@ -1,0 +1,24 @@
+---
+title: airsoft
+crosslinks:
+- youtubefactsbot
+- airsoftmarket
+- u_imguralbumbot
+- youtubot
+- airsoftcirclejerk
+- tmsbmeta
+- paintball
+- livven
+- anti_gif_bot
+- iamverybadass
+- MassdropBot
+- alotabot
+- weekendgunnit
+- airsoftgore
+- airsoftmarketcanada
+- john_yukis_bots
+- Rainbow6
+- bestoflegaladvice
+- shittyHDR
+- masseffect
+---

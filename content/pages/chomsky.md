@@ -1,0 +1,24 @@
+---
+title: chomsky
+crosslinks:
+- youtubefactsbot
+- Anarchism
+- autotldr
+- askphilosophy
+- AnarchismOnline
+- chomskybookclub
+- badphilosophy
+- lectures
+- media_criticism
+- youtubot
+- ChapoTrapHouse
+- autourbanbot
+- PropagandaPosters
+- dredmorbius
+- WikiLeaks
+- slatestarcodex
+- SubAutoCorrectBot
+- demsocialist
+- conspiracy
+- socialism
+---

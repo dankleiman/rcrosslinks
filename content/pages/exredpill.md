@@ -1,0 +1,24 @@
+---
+title: exredpill
+crosslinks:
+- TheBluePill
+- TheRedPill
+- marriedredpill
+- Serendipity
+- Incels
+- DeadBedrooms
+- youtubefactsbot
+- MensLib
+- PurplePillDebate
+- seduction
+- Christianity
+- RPChristians
+- femradebates
+- theydidthemath
+- NoParticipation
+- PurplePill
+- exmuslim
+- selfimprovement
+- PunchingMorpheus
+- Incel
+---

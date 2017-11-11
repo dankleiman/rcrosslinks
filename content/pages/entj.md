@@ -1,0 +1,24 @@
+---
+title: entj
+crosslinks:
+- youtubefactsbot
+- intj
+- INTP
+- mbti
+- entp
+- mturk
+- conspiracy
+- intp
+- lewronggeneration
+- isfj
+- alotabot
+- getdisciplined
+- GeneralTaxAdvice
+- raisedbynarcissists
+- childfree
+- Enneagram
+- leanfire
+- iamverybadass
+- youtubot
+- AskSocialScience
+---

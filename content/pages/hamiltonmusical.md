@@ -1,0 +1,24 @@
+---
+title: hamiltonmusical
+crosslinks:
+- youtubefactsbot
+- u_imguralbumbot
+- Broadway
+- MassdropBot
+- IAmA
+- thegreatcomet
+- hamiltonmemes
+- KerrysDiary
+- youtubot
+- niceguys
+- GirlsMirin
+- tmsbmeta
+- InTheHeights
+- broadway
+- Oddwonks
+- Enough_Sanders_Spam
+- musicals
+- Hamilton
+- music_survivor
+- DCcomics
+---

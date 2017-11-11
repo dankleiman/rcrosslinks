@@ -1,0 +1,24 @@
+---
+title: TenYearsAgoOnReddit
+crosslinks:
+- programming
+- science
+- politics
+- ja
+- freeculture
+- ads
+- features
+- de
+- tr
+- it
+- DuplicatesBot
+- ru
+- netsec
+- fr
+- autourbanbot
+- The_Donald
+- obama
+- eo
+- gadgets
+- linux
+---

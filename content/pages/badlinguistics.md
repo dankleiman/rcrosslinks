@@ -1,0 +1,24 @@
+---
+title: badlinguistics
+crosslinks:
+- AskReddit
+- linguistics
+- languagelearning
+- conlangs
+- todayilearned
+- LearnJapanese
+- badhistory
+- youtubefactsbot
+- BlackPeopleTwitter
+- BadEverything
+- Showerthoughts
+- europe
+- SubredditDrama
+- forwardsfromgrandma
+- emojilang
+- NoStupidQuestions
+- howtonotgiveafuck
+- shittylinguistics
+- videos
+- Foodforthought
+---

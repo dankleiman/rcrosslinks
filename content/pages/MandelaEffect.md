@@ -1,0 +1,24 @@
+---
+title: MandelaEffect
+crosslinks:
+- youtubefactsbot
+- youtubot
+- Retconned
+- Glitch_in_the_Matrix
+- DimensionalJumping
+- u_imguralbumbot
+- TopMindsOfReddit
+- Mandela_Effect
+- mildlyinteresting
+- Shazaam
+- conspiracy
+- mandelajerk
+- autourbanbot
+- MESociety
+- xkcd
+- mandelaeffects
+- 8vzo5e
+- tipofmytongue
+- GlitchInTheMatrix
+- SubredditDrama
+---

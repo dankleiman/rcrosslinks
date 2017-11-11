@@ -1,0 +1,24 @@
+---
+title: mallninjashit
+crosslinks:
+- youtubefactsbot
+- livven
+- weekendgunnit
+- iamverybadass
+- u_imguralbumbot
+- EDC
+- youtubot
+- neckbeardRPG
+- pics
+- tmsbmeta
+- ATBGE
+- MassdropBot
+- justneckbeardthings
+- knives
+- SWORDS
+- martialarts
+- gaming
+- houston
+- xkcd
+- furry_irl
+---

@@ -1,0 +1,24 @@
+---
+title: Physical_Removal
+crosslinks:
+- AgainstHateSubreddits
+- The_Donald
+- Anarchism
+- Anarcho_Capitalism
+- youtubot
+- zeronet
+- youtubefactsbot
+- GoldandBlack
+- EnoughLibertarianSpam
+- conspiracy
+- tmsbmeta
+- ShitLiberalsSay
+- LateStageCapitalism
+- DebateAltRight
+- EnoughCommieSpam
+- ShitPoliticsSays
+- anti_gif_bot
+- Libertarian
+- AMAAggregator
+- neoliberal
+---

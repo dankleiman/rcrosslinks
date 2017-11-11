@@ -1,0 +1,24 @@
+---
+title: whatsthisplant
+crosslinks:
+- u_imguralbumbot
+- succulents
+- mycology
+- Bonsai
+- youtubefactsbot
+- gardening
+- orchids
+- whatisthisthing
+- marijuanaenthusiasts
+- MassdropBot
+- whatsthisbug
+- cactus
+- foraging
+- SavageGarden
+- HotPeppers
+- PlantedTank
+- whatsthisbird
+- plantclinic
+- john_yukis_bots
+- Fern
+---

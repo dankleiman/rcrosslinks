@@ -1,0 +1,24 @@
+---
+title: Animemes
+crosslinks:
+- Roboragi
+- youtubefactsbot
+- livven
+- youtubot
+- anti_gif_bot
+- u_imguralbumbot
+- anime_irl
+- anime
+- thighdeology
+- tmsbmeta
+- wholesomeanimemes
+- hentai_irl
+- john_yukis_bots
+- araragi
+- botpopularitybot
+- doujinshi
+- furry_irl
+- WhatAWeeb
+- ANI_COMMUNISM
+- ZettaiRyouiki
+---

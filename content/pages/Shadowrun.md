@@ -1,0 +1,24 @@
+---
+title: Shadowrun
+crosslinks:
+- hubchargen
+- SixthWorld
+- autotldr
+- RunnerHub
+- rpg
+- talesfromtechsupport
+- gametales
+- lfg
+- shadownet
+- shadowrunreturns
+- EmeraldGrid
+- AskHistorians
+- DnDGreentext
+- FinalFantasy
+- shadowchargen
+- pcmasterrace
+- r00tShadowrunRP
+- CatastrophicFailure
+- newretrowave
+- canada
+---

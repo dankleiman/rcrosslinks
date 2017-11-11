@@ -1,0 +1,24 @@
+---
+title: YouShouldKnow
+crosslinks:
+- youtubefactsbot
+- HailCorporate
+- xkcd
+- youtubot
+- IAmA
+- security
+- personalfinance
+- Linky_links
+- AskReddit
+- LifeProTips
+- u_imguralbumbot
+- DataHoarder
+- bestof
+- nocontext
+- technology
+- askscience
+- iamverybadass
+- spiderbro
+- gainit
+- solareclipse
+---

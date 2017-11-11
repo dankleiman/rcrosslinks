@@ -1,0 +1,24 @@
+---
+title: rojava
+crosslinks:
+- syriancivilwar
+- Communalists
+- autotldr
+- kurdistan
+- MassdropBot
+- socialism
+- youtubefactsbot
+- u_imguralbumbot
+- TOTALCOMMUNALISM
+- Anarchism
+- insurgency
+- RojavaSocietyUK
+- boston
+- TheFarLeftSide
+- COMPLETEANARCHY
+- leftvexillology
+- cooperatives
+- NationalSocialism
+- Feminism
+- FULLCOMMUNISM
+---

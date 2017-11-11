@@ -1,0 +1,24 @@
+---
+title: Veterans
+crosslinks:
+- army
+- u_imguralbumbot
+- youtubefactsbot
+- Military
+- PTSDCombat
+- unitedstatesofamerica
+- ProtectAndServe
+- MassdropBot
+- The_Donald
+- TalesFromTheFrontDesk
+- AMA
+- navy
+- StudentVets
+- autourbanbot
+- MilitaryStories
+- woahdude
+- news
+- securityguards
+- RandomKindness
+- malefashionadvice
+---

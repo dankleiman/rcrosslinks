@@ -1,0 +1,24 @@
+---
+title: 9gag
+crosslinks:
+- pics
+- dankmemes
+- CringeAnarchy
+- surrealmemes
+- ProRevenge
+- gifs
+- u_imguralbumbot
+- MassdropBot
+- AskReddit
+- WritingPrompts
+- funny
+- toosoon
+- blackholedmemes
+- todayilearned
+- beatles
+- Dank
+- livven
+- anime_irl
+- ShitAmericansSay
+- SubredditSimMeta
+---

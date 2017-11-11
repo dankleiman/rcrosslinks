@@ -1,0 +1,24 @@
+---
+title: nexus6
+crosslinks:
+- Android
+- ProjectFi
+- Nexus6P
+- Magisk
+- nexus5x
+- onetruegod
+- ATT
+- NoContract
+- youtubefactsbot
+- motox
+- nexus4
+- firstworldanarchists
+- facebook
+- verizon
+- GooglePixel
+- PureNexus
+- xkcd
+- GoogleCardboard
+- tmobile
+- xdacirclejerk
+---

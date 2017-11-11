@@ -1,0 +1,24 @@
+---
+title: synthesizers
+crosslinks:
+- youtubefactsbot
+- youtubot
+- modular
+- u_imguralbumbot
+- volcas
+- edmproduction
+- synthrecipes
+- OP1users
+- MusicBattlestations
+- tmsbmeta
+- synthdiy
+- Synths4Sale
+- guitarpedals
+- pocketoperators
+- WeAreTheMusicMakers
+- Music
+- musictheory
+- audioengineering
+- ipadmusic
+- TechnoProduction
+---

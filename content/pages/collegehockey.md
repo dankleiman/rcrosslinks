@@ -1,0 +1,24 @@
+---
+title: collegehockey
+crosslinks:
+- youtubefactsbot
+- hockey
+- tmsbmeta
+- NHLStreams
+- formula1
+- MTU
+- '2013'
+- dataisbeautiful
+- youtubot
+- RPI
+- wearepennstate
+- Serendipity
+- AFL
+- cfb
+- autotldr
+- livven
+- SubredditDrama
+- footballmanagergames
+- rit
+- miamioh
+---

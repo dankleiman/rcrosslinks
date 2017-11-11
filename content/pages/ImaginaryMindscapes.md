@@ -1,0 +1,24 @@
+---
+title: ImaginaryMindscapes
+crosslinks:
+- Art
+- BirdsForScale
+- evilbuildings
+- ImaginaryFood
+- Marooned
+- ImaginaryScience
+- xdfp
+- SpecArt
+- ImaginaryBodyscapes
+- autourbanbot
+- LateStageCapitalism
+- ImaginaryStarscapes
+- Miniworlds
+- ImaginaryIslands
+- CharacterPrompt
+- anti_gif_bot
+- ImaginaryFuturism
+- ImaginaryGiants
+- ImaginaryCityscapes
+- youtubefactsbot
+---

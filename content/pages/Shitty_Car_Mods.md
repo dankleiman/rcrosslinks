@@ -1,0 +1,24 @@
+---
+title: Shitty_Car_Mods
+crosslinks:
+- ATBGE
+- youtubefactsbot
+- u_imguralbumbot
+- MassdropBot
+- youtubot
+- AwesomeCarMods
+- Battlecars
+- tmsbmeta
+- WeirdWheels
+- WTF
+- livven
+- atbge
+- subaru
+- trashy
+- DiWHY
+- delusionalcraigslist
+- iamverybadass
+- autourbanbot
+- botwatch
+- dontdeadopeninside
+---

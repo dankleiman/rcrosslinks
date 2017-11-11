@@ -1,0 +1,24 @@
+---
+title: flyfishing
+crosslinks:
+- flytying
+- Fishing
+- youtubot
+- tmsbmeta
+- gratefuldead
+- Serendipity
+- flygear
+- SaltwaterFlyfishing
+- woodworking
+- COfishing
+- anti_gif_bot
+- Aquariums
+- MassdropBot
+- livven
+- bestof
+- rickandmorty
+- photoshop
+- michiganflyfishing
+- newzealand
+- u_imguralbumbot
+---

@@ -1,0 +1,24 @@
+---
+title: math
+crosslinks:
+- youtubefactsbot
+- xkcd
+- learnmath
+- badmathematics
+- TestingOEISbot
+- autotldr
+- AskReddit
+- askscience
+- MassdropBot
+- Physics
+- mathriddles
+- youtubot
+- anti_gif_bot
+- mathpics
+- MachineLearning
+- u_imguralbumbot
+- livven
+- CompileBot
+- badphilosophy
+- Drama
+---

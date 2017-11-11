@@ -1,0 +1,24 @@
+---
+title: NFL_Draft
+crosslinks:
+- nfl
+- youtubefactsbot
+- oaklandraiders
+- Browns
+- CHIBears
+- Chargers
+- Redskins
+- detroitlions
+- Saints
+- Colts
+- Texans
+- panthers
+- CFB
+- 49ers
+- the_darnold
+- Tennesseetitans
+- '2013'
+- youtubot
+- eagles
+- buccaneers
+---

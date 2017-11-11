@@ -1,0 +1,24 @@
+---
+title: lectures
+crosslinks:
+- youtubefactsbot
+- youtubot
+- TodayIGrandstanded
+- TopMindsOfReddit
+- BasicIncome
+- Serendipity
+- TumblrInAction
+- collapse
+- titlegore
+- askphilosophy
+- EnoughLibertarianSpam
+- OkayNowWhat
+- atheism
+- ShitLiberalsSay
+- AskHistorians
+- vzla
+- TrueAtheism
+- badphilosophy
+- The_Donald
+- badscience
+---

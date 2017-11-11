@@ -1,0 +1,24 @@
+---
+title: INTP
+crosslinks:
+- youtubefactsbot
+- youtubot
+- mbti
+- intj
+- infp
+- u_imguralbumbot
+- xkcd
+- entp
+- AskReddit
+- autourbanbot
+- infj
+- john_yukis_bots
+- MassdropBot
+- gatekeeping
+- entj
+- IDGF
+- TheImperialCult
+- istp
+- 2X__INTP
+- getdisciplined
+---

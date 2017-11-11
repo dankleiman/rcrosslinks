@@ -1,0 +1,24 @@
+---
+title: economy
+crosslinks:
+- autotldr
+- worldpolitics
+- youtubefactsbot
+- Missing411
+- Economics
+- Anarcho_Capitalism
+- worldnews
+- finance
+- xkcd
+- The_Donald
+- politics
+- germany
+- youtubot
+- autourbanbot
+- personalfinance
+- ShitPoliticsSays
+- IRstudies
+- toronto
+- EconPapers
+- FULLCOMMUNISM
+---

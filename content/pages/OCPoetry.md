@@ -1,0 +1,24 @@
+---
+title: OCPoetry
+crosslinks:
+- Poetry
+- youtubot
+- EnglishHaiku
+- youtubefactsbot
+- fifthworldpoetry
+- SimplePrompts
+- subname
+- WritingPrompts
+- subredditoftheday
+- SuicideWatch
+- TheHaiku
+- Poems
+- RoastMe
+- languagelearning
+- Art
+- ShittyPoetry
+- raerth
+- AskReddit
+- SHFTZ
+- poetry_critics
+---

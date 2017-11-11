@@ -1,0 +1,24 @@
+---
+title: darksouls
+crosslinks:
+- darksouls3
+- DarkSouls2
+- youtubot
+- shittydarksouls
+- snuggly
+- gaming
+- onebros
+- ProtectorsofPriscilla
+- tmsbmeta
+- demonssouls
+- DarkSoulsHelp
+- dadsouls
+- SummonSign
+- john_yukis_bots
+- bloodborne
+- pcgaming
+- DarkSoulsMods
+- u_imguralbumbot
+- placestart
+- alotabot
+---

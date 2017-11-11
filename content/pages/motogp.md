@@ -1,0 +1,24 @@
+---
+title: motogp
+crosslinks:
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- formula1
+- livven
+- motorcycles
+- anti_gif_bot
+- tmsbmeta
+- Cinemagraphs
+- MassdropBot
+- BritishSuperbikes
+- MotoGPPorn
+- autourbanbot
+- nohomo_bot
+- motograndprix
+- Ride2
+- Makemeagif
+- homelab
+- funny
+- xkcd
+---

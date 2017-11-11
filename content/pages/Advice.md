@@ -1,0 +1,24 @@
+---
+title: Advice
+crosslinks:
+- youtubefactsbot
+- raisedbynarcissists
+- AskReddit
+- youtubot
+- legaladvice
+- personalfinance
+- SuicideWatch
+- alotabot
+- getdisciplined
+- ShrugLifeSyndicate
+- GetMotivated
+- AdviceAnimals
+- autourbanbot
+- progresspics
+- relationships
+- LifeProTips
+- Pussified
+- MassdropBot
+- IAmA
+- me_irl
+---

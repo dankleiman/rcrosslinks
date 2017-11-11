@@ -1,0 +1,24 @@
+---
+title: witchcraft
+crosslinks:
+- occult
+- Wicca
+- DimensionalJumping
+- MassdropBot
+- youtubot
+- u_imguralbumbot
+- iamverysmart
+- xkcd
+- tarot
+- GreenhornCoven
+- yoga
+- Drama
+- anti_gif_bot
+- gatekeeping
+- wicca
+- succulents
+- sigils
+- Occultism
+- Vodou
+- paganism
+---

@@ -1,0 +1,24 @@
+---
+title: uofm
+crosslinks:
+- place
+- OSU
+- AnnArbor
+- MassdropBot
+- autotldr
+- anti_gif_bot
+- youtubefactsbot
+- SubredditDrama
+- TumblrInAction
+- factorio
+- trackers
+- mfa_irl
+- IndianaUniversity
+- Fitness
+- DetroitRedWings
+- Michigan
+- shittyaskscience
+- TheB1G
+- tattoos
+- nocontextpics
+---

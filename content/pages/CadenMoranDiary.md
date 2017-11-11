@@ -1,0 +1,24 @@
+---
+title: CadenMoranDiary
+crosslinks:
+- RoastMe
+- AskReddit
+- electronicmusic
+- funny
+- EnoughTrumpSpam
+- Jelqing
+- 1200isplenty
+- Incels
+- hmmm
+- heresy
+- tha_pit
+- hapas
+- lowlevelaware
+- ImagesOfRussia
+- ComedyCemetery
+- survivor
+- slavs_squatting
+- corncob
+- Cuckold
+- MetalMemes
+---

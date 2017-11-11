@@ -1,0 +1,24 @@
+---
+title: Buttcoin
+crosslinks:
+- Bitcoin
+- btc
+- ethereum
+- BitcoinMarkets
+- ethtrader
+- DarkNetMarkets
+- autotldr
+- CryptoCurrency
+- youtubefactsbot
+- CoinBase
+- litecoin
+- OpenBazaar
+- lambotoken
+- dogecoin
+- tipnyan
+- legaladvice
+- EthereumClassic
+- ethereumfraud
+- mtgoxinsolvency
+- AskReddit
+---

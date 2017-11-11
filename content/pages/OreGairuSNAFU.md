@@ -1,0 +1,24 @@
+---
+title: OreGairuSNAFU
+crosslinks:
+- anime
+- u_imguralbumbot
+- livven
+- youtubefactsbot
+- Pixiv
+- highqualitygifs
+- user
+- MadokaMagica
+- '11492096'
+- redditrequest
+- YuiBestGirl
+- Haganai
+- translator
+- AnimeFigures
+- Nisekoi
+- Drama
+- autourbanbot
+- Re_Zero
+- tmsbmeta
+- seiyuu
+---

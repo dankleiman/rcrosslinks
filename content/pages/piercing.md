@@ -1,0 +1,24 @@
+---
+title: piercing
+crosslinks:
+- u_imguralbumbot
+- Stretched
+- MassdropBot
+- shouldimod
+- bodymods
+- PiercedCock
+- metric_units
+- john_yukis_bots
+- youtubefactsbot
+- alotabot
+- Unnecessaryapostrophe
+- me_irl
+- shitpost
+- tmsbmeta
+- 30vgaj9
+- AskHistorians
+- youtubot
+- shorthairedhotties
+- crochet
+- SPGBlocks
+---

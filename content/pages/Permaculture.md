@@ -1,0 +1,24 @@
+---
+title: Permaculture
+crosslinks:
+- youtubefactsbot
+- youtubot
+- gardening
+- farming
+- marijuanaenthusiasts
+- PaulWheatonWatch
+- autotldr
+- homestead
+- iamverysmart
+- collapse
+- conspiracy
+- foraging
+- HawaiiGardening
+- TheRecordCorrected
+- AmericanPlantSwap
+- GMOMyths
+- lifehacks
+- Anarchist
+- Anarchism
+- accountt1234
+---

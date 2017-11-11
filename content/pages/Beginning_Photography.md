@@ -1,0 +1,24 @@
+---
+title: Beginning_Photography
+crosslinks:
+- photography
+- AskPhotography
+- photoclass2017
+- youtubot
+- analog
+- youtubefactsbot
+- photomarket
+- phoenix
+- SonyAlpha
+- nexus5x
+- telescopes
+- itookapicture
+- portfoliocritique
+- AccidentalRenaissance
+- RealEstatePhotography
+- EarthPorn
+- PictureChallenge
+- macro
+- AccidentalWesAnderson
+- BeginnerPhotoCritique
+---

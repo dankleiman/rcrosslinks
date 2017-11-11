@@ -1,0 +1,24 @@
+---
+title: sociopath
+crosslinks:
+- youtubefactsbot
+- Drugs
+- AskReddit
+- The48LawsOfPower
+- morbidquestions
+- Tulpas
+- gifs
+- TheRedPill
+- confession
+- 4chan
+- asktrp
+- alotabot
+- drugscirclejerk
+- explainlikeIAmA
+- Serendipity
+- Mommit
+- AstralProjection
+- Empaths
+- Showerthoughts
+- Drama
+---

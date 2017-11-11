@@ -1,0 +1,24 @@
+---
+title: exchristian
+crosslinks:
+- youtubefactsbot
+- atheism
+- youtubot
+- raisedbynarcissists
+- AcademicBiblical
+- Christianity
+- xkcd
+- exmormon
+- autotldr
+- exjw
+- exmuslim
+- exchristianr4r
+- DebateAChristian
+- AskHistorians
+- AtheistHavens
+- DebateAnAtheist
+- autourbanbot
+- IAmA
+- DebateReligion
+- botwatch
+---

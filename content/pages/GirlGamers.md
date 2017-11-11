@@ -1,0 +1,24 @@
+---
+title: GirlGamers
+crosslinks:
+- ggoverwatch
+- Overwatch
+- youtubot
+- youtubefactsbot
+- gatekeeping
+- gaymers
+- patientgamers
+- dragonage
+- Gamingcirclejerk
+- gaming
+- autotldr
+- buildapc
+- DotA2
+- armoredwomen
+- pcmasterrace
+- localmultiplayergames
+- badwomensanatomy
+- Guildwars2
+- guildrecruitment
+- transgamers
+---

@@ -1,0 +1,24 @@
+---
+title: vfx
+crosslinks:
+- youtubefactsbot
+- youtubot
+- anti_gif_bot
+- Filmmakers
+- movies
+- buildapc
+- livven
+- autotldr
+- VFXUnion
+- headphones
+- blender
+- SynthEyes
+- 3dsmax
+- AfterEffects
+- MattePainting
+- IAmA
+- u_imguralbumbot
+- RedshiftRenderer
+- graphic_design
+- john_yukis_bots
+---

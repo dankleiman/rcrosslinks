@@ -1,0 +1,24 @@
+---
+title: AskMenOver30
+crosslinks:
+- AskWomenOver30
+- financialindependence
+- personalfinance
+- r4r
+- AskMen
+- Fitness
+- YouShouldKnow
+- AskReddit
+- OutOfTheLoop
+- DIY
+- getdisciplined
+- mashups
+- smalldickproblems
+- Divorce
+- StardewValley
+- wicked_edge
+- TrollXChromosomes
+- mentors
+- bodyweightfitness
+- longrange
+---

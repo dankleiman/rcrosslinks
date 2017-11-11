@@ -1,0 +1,24 @@
+---
+title: classic4chan
+crosslinks:
+- youtubefactsbot
+- 4chan
+- greentext
+- u_imguralbumbot
+- tmsbmeta
+- Pic__Related
+- wholesomegreentext
+- Wholesome4chan
+- youtubot
+- copypasta
+- funny
+- mallninjashit
+- hatchery
+- pepe
+- gatekeeping
+- DeepFriedMemes
+- FuckYou
+- autourbanbot
+- furry_irl
+- AskHistorians
+---

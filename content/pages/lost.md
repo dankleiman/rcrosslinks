@@ -1,0 +1,24 @@
+---
+title: lost
+crosslinks:
+- youtubefactsbot
+- anti_gif_bot
+- youtubot
+- WhyICorrectBryanPCox
+- TheLeftovers
+- livven
+- IAmA
+- john_yukis_bots
+- u_imguralbumbot
+- Screenwriting
+- nocontext
+- gifs
+- FanTheories
+- Kanye
+- DunderMifflin
+- autotldr
+- SWResources
+- autourbanbot
+- mildyinteresting
+- place
+---

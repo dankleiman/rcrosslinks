@@ -1,0 +1,24 @@
+---
+title: husky
+crosslinks:
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- youtubefactsbot
+- puppy101
+- Eyebleach
+- dogs
+- IAmA
+- gifs
+- NamFlashbacks
+- siberianhusky
+- botwatch
+- blop
+- shiba
+- FreeKarma4You
+- animalssmiling
+- Zoomies
+- UpliftingNews
+- Unorthodog
+- AskVet
+---

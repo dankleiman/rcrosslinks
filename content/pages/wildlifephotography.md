@@ -1,0 +1,24 @@
+---
+title: wildlifephotography
+crosslinks:
+- u_imguralbumbot
+- pics
+- youtubefactsbot
+- justneckbeardthings
+- me_irl
+- Superbowl
+- norwayonreddit
+- itookapicture
+- youtubot
+- photography
+- beerporn
+- AnimalPorn
+- HailCorporate
+- whatsthisbird
+- instantkarma
+- photoshopbattles
+- NatureIsFuckingLit
+- BotanicalPorn
+- StandingAnimals
+- BirdsBeingDicks
+---

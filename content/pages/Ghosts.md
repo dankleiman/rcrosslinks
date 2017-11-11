@@ -1,0 +1,24 @@
+---
+title: Ghosts
+crosslinks:
+- youtubefactsbot
+- Paranormal
+- PhotoshopRequest
+- anti_gif_bot
+- youtubot
+- Thetruthishere
+- askscience
+- instax
+- Serendipity
+- oldschoolcreepy
+- shitpost
+- skeptic
+- marton
+- creepy_gif
+- Gullible
+- creepy
+- nyctohylophobia
+- photography
+- alotabot
+- Abductions
+---

@@ -1,0 +1,24 @@
+---
+title: PoliticalVideos
+crosslinks:
+- autotldr
+- me_irl
+- youtubefactsbot
+- SethKaperDale
+- FrenchWestIndies
+- television
+- news
+- UtricksBlog
+- askphilosophy
+- LibertyTV
+- JordanPeterson
+- mealtimevideos
+- botwatch
+- youtubot
+- gaybros
+- AMAAggregator
+- PoliticalVideo
+- conspiracy
+- Republican
+- ahmadiyya
+---

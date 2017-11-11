@@ -1,0 +1,24 @@
+---
+title: seinfeld
+crosslinks:
+- youtubefactsbot
+- livven
+- anti_gif_bot
+- u_imguralbumbot
+- gifs
+- seinfeldgifs
+- pics
+- tmsbmeta
+- youtubot
+- autotldr
+- autourbanbot
+- howyoudoin
+- botwatch
+- IAmA
+- AgainstKarmaWhores
+- Serendipity
+- ConfusedTravolta
+- seinfeldtrivia
+- lossedits
+- dankmemes
+---

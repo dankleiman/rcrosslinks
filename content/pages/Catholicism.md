@@ -1,0 +1,24 @@
+---
+title: Catholicism
+crosslinks:
+- AMA
+- autotldr
+- Christianity
+- badhistory
+- place
+- youtubot
+- worldnews
+- CatholicismFAQ
+- todayilearned
+- AskHistorians
+- CatholicPolitics
+- prolife
+- asianamerican
+- DebateReligion
+- divineoffice
+- videos
+- CatholicDating
+- Solidarity_Party
+- botwatch
+- OrthodoxChristianity
+---

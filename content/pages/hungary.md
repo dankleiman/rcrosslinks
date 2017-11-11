@@ -1,0 +1,24 @@
+---
+title: hungary
+crosslinks:
+- youtubefactsbot
+- europe
+- budapest
+- u_imguralbumbot
+- autotldr
+- youtubot
+- Romania
+- MapPorn
+- hungarian
+- place
+- starterpacks
+- copypasta
+- travel
+- politics
+- '2'
+- europeanunion
+- MassdropBot
+- autourbanbot
+- portugal
+- badlinguistics
+---

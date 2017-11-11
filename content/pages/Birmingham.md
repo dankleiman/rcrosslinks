@@ -1,0 +1,24 @@
+---
+title: Birmingham
+crosslinks:
+- youtubefactsbot
+- autotldr
+- tmsbmeta
+- MassdropBot
+- autourbanbot
+- u_imguralbumbot
+- bamabeer
+- botpopularitybot
+- alabamapolitics
+- brum
+- ShitPoliticsSays
+- MLS
+- livven
+- imaginarymaps
+- AskReddit
+- john_yukis_bots
+- youtubot
+- HuntsvilleAlabama
+- NeutralPolitics
+- Cumtown
+---

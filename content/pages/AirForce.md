@@ -1,0 +1,24 @@
+---
+title: AirForce
+crosslinks:
+- AFSCbot
+- youtubefactsbot
+- livven
+- tmsbmeta
+- u_imguralbumbot
+- autotldr
+- youtubot
+- Military
+- RateMyAFB
+- army
+- USMC
+- airnationalguard
+- autourbanbot
+- MaliciousCompliance
+- navy
+- personalfinance
+- MilitaryFinance
+- xkcd
+- AFILinkerBot
+- botpopularitybot
+---

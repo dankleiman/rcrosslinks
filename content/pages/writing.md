@@ -1,0 +1,24 @@
+---
+title: writing
+crosslinks:
+- DestructiveReaders
+- fantasywriters
+- youtubefactsbot
+- WritingPrompts
+- worldbuilding
+- writerchat
+- PubTips
+- DavesWorld
+- eroticauthors
+- YAwriters
+- AskReddit
+- books
+- HFY
+- hc84
+- selfpublish
+- xkcd
+- IAmA
+- nosleep
+- Write2Publish
+- freelanceWriters
+---

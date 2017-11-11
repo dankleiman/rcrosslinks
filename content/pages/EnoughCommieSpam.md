@@ -1,0 +1,24 @@
+---
+title: EnoughCommieSpam
+crosslinks:
+- socialism
+- LateStageCapitalism
+- communism
+- ShitLiberalsSay
+- Drama
+- SubredditDrama
+- Anarchism
+- youtubefactsbot
+- shittankiessay
+- FULLCOMMUNISM
+- worldnews
+- circlebroke2
+- neoliberal
+- youtubot
+- forwardsfromgrandma
+- todayilearned
+- ShitAmericansSay
+- politics
+- EnoughLibertarianSpam
+- badpolitics
+---

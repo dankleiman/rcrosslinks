@@ -1,0 +1,24 @@
+---
+title: evangelion
+crosslinks:
+- anime
+- ReiAyanami
+- IAmA
+- john_yukis_bots
+- livven
+- homestuck
+- TrueFilm
+- Roboragi
+- explainlikeimfive
+- cosplay
+- ainbowroad
+- awwnime
+- JustEvangelionThings
+- evangelionmemes
+- photoshopbattles
+- PhotoshopRequest
+- botwatch
+- framing
+- montageparodies
+- translator
+---

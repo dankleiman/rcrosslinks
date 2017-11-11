@@ -1,0 +1,24 @@
+---
+title: r4r
+crosslinks:
+- youtubot
+- u_imguralbumbot
+- r4rtoronto
+- MassdropBot
+- SoCalR4R
+- Rateme
+- dirtyr4r
+- Needafriend
+- john_yukis_bots
+- R4R30Plus
+- PhoenixR4R
+- RandomActsOfBlowJob
+- CasualConversation
+- RandomActsOfMuffDive
+- stupidslutsclub
+- CringeAnarchy
+- AskReddit
+- Drama
+- alotabot
+- xkcd
+---

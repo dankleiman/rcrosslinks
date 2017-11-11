@@ -1,0 +1,24 @@
+---
+title: FFRecordKeeper
+crosslinks:
+- u_imguralbumbot
+- youtubot
+- livven
+- anti_gif_bot
+- FinalFantasy
+- alotabot
+- autourbanbot
+- FFBraveExvius
+- FFRK
+- grandorder
+- ffxiv
+- y
+- MobiusFF
+- FireEmblemHeroes
+- modnews
+- test
+- blackdesertonline
+- MassdropBot
+- DFFOperaOmnia
+- tabled
+---

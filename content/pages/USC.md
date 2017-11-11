@@ -1,0 +1,24 @@
+---
+title: USC
+crosslinks:
+- autotldr
+- accounting
+- ucla
+- mba
+- SampleSize
+- MassdropBot
+- losangeles
+- ApplyingToCollege
+- place
+- videos
+- CFB
+- politics
+- GODZILLA
+- trackers
+- autourbanbot
+- youtubefactsbot
+- DuplicatesBot
+- LSAT
+- adhd
+- fighton
+---

@@ -1,0 +1,24 @@
+---
+title: Connecticut
+crosslinks:
+- youtubefactsbot
+- autotldr
+- newhaven
+- youtubot
+- ctbeer
+- u_imguralbumbot
+- livven
+- The_Donald
+- cordcutters
+- funny
+- MarchForScience
+- botwatch
+- titlegore
+- alotabot
+- badeconomics
+- videos
+- GlobalWarming
+- iamverybadass
+- bigfoot
+- MassdropBot
+---

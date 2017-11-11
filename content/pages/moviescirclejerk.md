@@ -1,0 +1,24 @@
+---
+title: moviescirclejerk
+crosslinks:
+- movies
+- DC_Cinematic
+- youtubefactsbot
+- marvelstudios
+- anti_gif_bot
+- AskReddit
+- MovieDetails
+- REEEEEEEEEE
+- YMS
+- u_imguralbumbot
+- TrueFilm
+- botwatch
+- flicks
+- iwatchedanoldmovie
+- SuperheroCirclejerk
+- television
+- tmsbmeta
+- StarWars
+- ghostbusters
+- Dunkirk
+---

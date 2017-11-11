@@ -1,0 +1,24 @@
+---
+title: StopGaming
+crosslinks:
+- youtubefactsbot
+- nosurf
+- getdisciplined
+- AskReddit
+- Gamingcirclejerk
+- NoFap
+- KotakuInAction
+- youtubot
+- TheRedPill
+- autotldr
+- ShadowBan
+- stopdrinking
+- gamedesign
+- MuLegend
+- stopsmoking
+- youtubehaiku
+- productivity
+- lol
+- simpleliving
+- BettermentBookClub
+---

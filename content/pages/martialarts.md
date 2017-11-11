@@ -1,0 +1,24 @@
+---
+title: martialarts
+crosslinks:
+- youtubefactsbot
+- youtubot
+- bjj
+- kungfu
+- livven
+- Koryu
+- StreetFights
+- amateur_boxing
+- WingChun
+- judo
+- anti_gif_bot
+- MassdropBot
+- autotldr
+- MMA
+- botpopularitybot
+- MuayThai
+- taekwondo
+- Fitness
+- tmsbmeta
+- funny
+---

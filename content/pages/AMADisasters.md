@@ -1,0 +1,24 @@
+---
+title: AMADisasters
+crosslinks:
+- IAmA
+- AMA
+- AMAAggregator
+- politics
+- pcmasterrace
+- AskReddit
+- SubredditDrama
+- casualiama
+- OutOfTheLoop
+- Drama
+- books
+- Classical_Liberals
+- movies
+- bestof
+- videos
+- Incels
+- SuperMindsofReddit
+- youtubefactsbot
+- Android
+- milliondollarextreme
+---

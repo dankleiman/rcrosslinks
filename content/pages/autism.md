@@ -1,0 +1,24 @@
+---
+title: autism
+crosslinks:
+- aspergers
+- autotldr
+- aspergirls
+- AskReddit
+- youtubefactsbot
+- youtubot
+- livven
+- everyfuckingthread
+- SargonofAkkad
+- The_Donald
+- neurodiversity
+- u_imguralbumbot
+- aww
+- Eyeshakers
+- REEEEEEEEEE
+- MassdropBot
+- siblingsupport
+- traaaaaaannnnnnnnnns
+- AspieMoms
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: KingkillerChronicle
+crosslinks:
+- kkcwhiteboard
+- youtubefactsbot
+- Fantasy
+- livven
+- youtubot
+- books
+- anti_gif_bot
+- OutOfTheLoop
+- tmsbmeta
+- u_imguralbumbot
+- WritingPrompts
+- explainlikeimfive
+- AskScienceFiction
+- kingkillerchronicles
+- Tak
+- xkcd
+- UnearthedArcana
+- asoiaf
+- linguistics
+- kerning
+---

@@ -1,0 +1,24 @@
+---
+title: AugustBumpers2017
+crosslinks:
+- u_imguralbumbot
+- BabyBumps
+- JUSTNOMIL
+- youtubefactsbot
+- predaddit
+- ttcafterloss
+- tmsbmeta
+- CautiousBB
+- xkcd
+- BabyExchange
+- namenerds
+- clothdiaps
+- FitMama
+- NovemberBumpers2017
+- JulyBumpers2017
+- Eyebleach
+- john_yukis_bots
+- alotabot
+- snackexchange
+- May2017Bumpers
+---

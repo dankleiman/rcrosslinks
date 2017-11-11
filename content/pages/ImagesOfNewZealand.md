@@ -1,0 +1,24 @@
+---
+title: ImagesOfNewZealand
+crosslinks:
+- newzealand
+- EarthPorn
+- pics
+- imagesofnetwork
+- Aleague
+- Wellington
+- MapsWithoutNZ
+- itookapicture
+- tattoos
+- mildlyinteresting
+- travel
+- mycology
+- OldSchoolCool
+- funny
+- BotanicalPorn
+- NZPhotos
+- aww
+- analog
+- LargeImages
+- SkyPorn
+---

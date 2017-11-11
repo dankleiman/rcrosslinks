@@ -1,0 +1,24 @@
+---
+title: logodesign
+crosslinks:
+- u_imguralbumbot
+- youtubefactsbot
+- freedesign
+- livven
+- graphic_design
+- restofthefuckingowl
+- Cascadia
+- '2014'
+- Anime_Art
+- Design
+- Serendipity
+- COPYRIGHT
+- autourbanbot
+- freelogodesign
+- funny
+- botwatch
+- autotldr
+- anti_gif_bot
+- mildlyvagina
+- CrappyDesign
+---

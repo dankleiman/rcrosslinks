@@ -1,0 +1,24 @@
+---
+title: BasicIncome
+crosslinks:
+- autotldr
+- Futurology
+- youtubefactsbot
+- youtubot
+- LateStageCapitalism
+- IAmA
+- badeconomics
+- lostgeneration
+- newzealand
+- Economics
+- conspiracy
+- georgism
+- changemyview
+- WayOfTheBern
+- ubijam
+- Automate
+- NewSlangTerms
+- xkcd
+- politics
+- freeformost
+---

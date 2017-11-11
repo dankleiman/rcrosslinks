@@ -1,0 +1,24 @@
+---
+title: wedding
+crosslinks:
+- weddingplanning
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- alotabot
+- JUSTNOMIL
+- trashy
+- autotldr
+- newjersey
+- livven
+- malefashionadvice
+- weddingswap
+- AskReddit
+- The_Donald
+- Drag
+- MassdropBot
+- Catholicism
+- SubAutoCorrectBot
+- travel
+- tmsbmeta
+---

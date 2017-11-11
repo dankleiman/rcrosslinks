@@ -1,0 +1,24 @@
+---
+title: AskEconomics
+crosslinks:
+- Economics
+- badeconomics
+- AskSocialScience
+- GoodEconomics
+- IAmA
+- explainlikeimfive
+- neoliberal
+- NeutralPolitics
+- austrian_economics
+- globalistshills
+- youtubot
+- BasicIncome
+- AskReddit
+- changemyview
+- Bitcoin
+- finance
+- Rlanguage
+- economics
+- actuary
+- worldnews
+---

@@ -1,0 +1,24 @@
+---
+title: splatoon
+crosslinks:
+- mylittlepony
+- u_imguralbumbot
+- youtubefactsbot
+- youtubot
+- NintendoSwitch
+- livven
+- anti_gif_bot
+- Saltoon
+- MassdropBot
+- botpopularitybot
+- autourbanbot
+- tmsbmeta
+- place
+- Callieism
+- nintendo
+- me_irl
+- gaming
+- Splatoon_2
+- splatooncirclejerk
+- PrequelMemes
+---

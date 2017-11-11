@@ -1,0 +1,24 @@
+---
+title: greece
+crosslinks:
+- youtubot
+- europe
+- autotldr
+- u_imguralbumbot
+- livven
+- worldnews
+- xkcd
+- OutOfTheLoop
+- ShitGreeceSays
+- Incels
+- AskHistorians
+- botwatch
+- place
+- gameofthrones
+- KriAnekdota
+- pics
+- The_Donald
+- AdviceAnimals
+- copypasta
+- Turkey
+---

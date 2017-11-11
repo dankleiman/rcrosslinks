@@ -1,0 +1,24 @@
+---
+title: trucksim
+crosslinks:
+- youtubefactsbot
+- ClassicCore
+- u_imguralbumbot
+- livven
+- EuroTruck2
+- CitiesSkylines
+- oculus
+- desertbus
+- Roadcam
+- BotsScrewingUp
+- ToMetric
+- Truckers
+- Suomi
+- Minecraft
+- MaliciousCompliance
+- botpopularitybot
+- flightsim
+- KerbalSpaceProgram
+- wtfdidijustread
+- hydraulicpresschannel
+---

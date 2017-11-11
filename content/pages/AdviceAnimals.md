@@ -1,0 +1,24 @@
+---
+title: AdviceAnimals
+crosslinks:
+- The_Donald
+- AskReddit
+- politics
+- pics
+- u_imguralbumbot
+- IAmA
+- funny
+- tmsbmeta
+- OutOfTheLoop
+- livven
+- todayilearned
+- news
+- PoliticalHumor
+- videos
+- EnoughTrumpSpam
+- Showerthoughts
+- personalfinance
+- tifu
+- aww
+- conspiracy
+---

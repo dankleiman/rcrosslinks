@@ -1,0 +1,24 @@
+---
+title: fatlogic
+crosslinks:
+- loseit
+- Fitness
+- youtubefactsbot
+- TumblrInAction
+- thatHappened
+- 4chan
+- askscience
+- livven
+- askfatlogic
+- EatCheapAndHealthy
+- AskReddit
+- VisualKcal
+- vegan1200isplenty
+- RagenChastain
+- raisedbynarcissists
+- youtubot
+- WritingPrompts
+- finlandConspiracy
+- keto
+- Random_Acts_Of_Pizza
+---

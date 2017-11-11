@@ -1,0 +1,24 @@
+---
+title: confessions
+crosslinks:
+- youtubefactsbot
+- childfree
+- youtubot
+- traphentai
+- IAmA
+- relationships
+- OutOfTheLoop
+- raisedbynarcissists
+- JUSTNOMIL
+- polyamory
+- freeuse
+- gonewild
+- AskMen
+- atheism
+- bestof
+- AskReddit
+- tmsbmeta
+- stopdrinking
+- confession
+- MassdropBot
+---

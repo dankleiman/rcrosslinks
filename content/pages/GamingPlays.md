@@ -1,0 +1,24 @@
+---
+title: GamingPlays
+crosslinks:
+- GlobalOffensive
+- starcraft
+- gaming
+- DotA2
+- smashbros
+- Battlefield
+- leagueoflegends
+- BattleRite
+- QuakeChampions
+- RivalsOfAether
+- livven
+- QuakeLive
+- Smite
+- halo
+- fragfilms
+- GosuMicro
+- battlefield_one
+- forhonor
+- Tribes
+- ArenaFPS
+---

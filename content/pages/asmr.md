@@ -1,0 +1,24 @@
+---
+title: asmr
+crosslinks:
+- AskReddit
+- ArtisanVideos
+- baduk
+- autourbanbot
+- Frisson
+- leagueoflegends
+- videos
+- nsfwasmr
+- u_imguralbumbot
+- bestof
+- gifs
+- AccidentalComedy
+- Serendipity
+- voiceover
+- Drama
+- femininasmr
+- alotabot
+- OutOfTheLoop
+- nintendo
+- mechmarket
+---

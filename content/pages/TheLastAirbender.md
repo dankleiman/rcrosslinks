@@ -1,0 +1,24 @@
+---
+title: TheLastAirbender
+crosslinks:
+- youtubefactsbot
+- LakeLaogai
+- livven
+- u_imguralbumbot
+- youtubot
+- anti_gif_bot
+- RemasteringATLA
+- BendingWallpapers
+- botwatch
+- xkcd
+- Azula
+- AskReddit
+- korrasami
+- whatirohwouldsay
+- UnearthedArcana
+- PrequelMemes
+- gaming
+- Unity3D
+- firefly
+- iamverybadass
+---

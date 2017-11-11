@@ -1,0 +1,24 @@
+---
+title: SeriousConversation
+crosslinks:
+- CasualConversation
+- SuicideWatch
+- trees
+- SWResources
+- Mindfulness
+- Catholicism
+- MensRights
+- changemyview
+- Advice
+- femalefashionadvice
+- NoFap
+- phenibut
+- law
+- autourbanbot
+- videos
+- gameideas
+- Military
+- Assistance
+- NOTSONEWREDDITS
+- DecidingToBeBetter
+---

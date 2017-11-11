@@ -1,0 +1,24 @@
+---
+title: LegalTeens
+crosslinks:
+- nsfw
+- Amateur_Tenn_Girls
+- funsizedasian
+- BustyPetite
+- SophieMudd
+- tmsbmeta
+- NSFW_GIF
+- RealGirls
+- snorl4x
+- iLuvBananas
+- whynotasource
+- unitedkingdom
+- TeenyGinger
+- PlayMe
+- MilaAzul
+- Ali_Michael
+- DownvoteTrolling
+- Claire_Abbott_
+- MyWateringCan
+- NotSafeForNature
+---

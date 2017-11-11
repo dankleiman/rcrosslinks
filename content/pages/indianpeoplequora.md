@@ -1,0 +1,24 @@
+---
+title: indianpeoplequora
+crosslinks:
+- youtubefactsbot
+- IndiaHumor
+- indianpeoplefacebook
+- india
+- MassdropBot
+- Incels
+- tmsbmeta
+- AskReddit
+- thatHappened
+- john_yukis_bots
+- mildlyinfuriating
+- GifIndex
+- KenM
+- xkcd
+- botwatch
+- announcements
+- China
+- spacex
+- NoStupidQuestions
+- theunkillnetwork
+---

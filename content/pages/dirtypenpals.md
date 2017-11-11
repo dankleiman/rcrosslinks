@@ -1,0 +1,24 @@
+---
+title: dirtypenpals
+crosslinks:
+- DPPprofiles
+- VibratorsForWomen
+- RoamingTypist
+- gonewildaudio
+- InboxRevamp
+- changelog
+- DPPTinkering
+- dirtyr4r
+- eroticliterature
+- announcements
+- dirtykikpals
+- sexystories
+- DirtyWritingPrompts
+- dirtystorywriting
+- dirtypenpals_germany
+- anime
+- exxxchange
+- ImGoingToHellForThis
+- skyrimmods
+- NSFWworldbuilding
+---

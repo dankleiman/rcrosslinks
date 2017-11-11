@@ -1,0 +1,24 @@
+---
+title: heat
+crosslinks:
+- nba
+- youtubefactsbot
+- youtubot
+- u_imguralbumbot
+- HeatNews
+- MassdropBot
+- tmsbmeta
+- anti_gif_bot
+- torontoraptors
+- bostonceltics
+- GoNets
+- rockets
+- DuplicatesBot
+- livven
+- nbastreams
+- miamidolphins
+- AtlantaHawks
+- autourbanbot
+- SeattleWA
+- NBA2k
+---

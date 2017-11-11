@@ -1,0 +1,24 @@
+---
+title: papertowns
+crosslinks:
+- MapPorn
+- youtubefactsbot
+- u_imguralbumbot
+- castles
+- history
+- bestof
+- Colorado
+- livven
+- europe
+- Egypt
+- Drama
+- impressionsgames
+- sanfrancisco
+- imaginarymaps
+- namur
+- BrasilOnReddit
+- Linky_links
+- RetroFuturism
+- AskAnthropology
+- atoptics
+---

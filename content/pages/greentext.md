@@ -1,0 +1,24 @@
+---
+title: greentext
+crosslinks:
+- youtubefactsbot
+- 4chan
+- youtubot
+- botpopularitybot
+- AskReddit
+- Jokes
+- wholesomegreentext
+- tmsbmeta
+- u_imguralbumbot
+- classic4chan
+- Wholesome4chan
+- totallynotrobots
+- funny
+- iamverybadass
+- Tendies
+- runescape
+- bestof
+- autourbanbot
+- SummerReddit
+- TrumpGold
+---

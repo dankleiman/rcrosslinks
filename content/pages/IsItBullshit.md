@@ -1,0 +1,24 @@
+---
+title: IsItBullshit
+crosslinks:
+- youtubefactsbot
+- AskReddit
+- IAmA
+- youtubot
+- news
+- DebateReligion
+- ThreadKillers
+- creepy
+- asmr
+- bestof
+- xkcd
+- churning
+- answers
+- DebateAnAtheist
+- TrueThinspo
+- LateStageCapitalism
+- dataisbeautiful
+- subaru
+- estimation
+- worldnews
+---

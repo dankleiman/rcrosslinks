@@ -1,0 +1,24 @@
+---
+title: Logic_301
+crosslinks:
+- youtubefactsbot
+- hiphopheads
+- youtubot
+- MassdropBot
+- u_imguralbumbot
+- donaldglover
+- anti_gif_bot
+- hhh
+- leakthreads
+- freshalbumart
+- Kanye
+- KendrickLamar
+- livven
+- Jessica_Andrea
+- logic
+- Bottiquette
+- NSFW_GIF
+- tmsbmeta
+- gatekeeping
+- botsrights
+---

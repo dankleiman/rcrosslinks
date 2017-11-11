@@ -1,0 +1,24 @@
+---
+title: Prematurecelebration
+crosslinks:
+- youtubefactsbot
+- livven
+- MassdropBot
+- The_Donald
+- bestof
+- politics
+- news
+- phoenix
+- soccer
+- the_meltdown
+- anti_gif_bot
+- youtubot
+- botwatch
+- ChargeYourPhone
+- ShitAmericansSay
+- Unexpected
+- Wellthatsucks
+- KarmaCourt
+- videos
+- HadToHurt
+---

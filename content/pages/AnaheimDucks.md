@@ -1,0 +1,24 @@
+---
+title: AnaheimDucks
+crosslinks:
+- youtubefactsbot
+- hockey
+- livven
+- MassdropBot
+- EdmontonOilers
+- tmsbmeta
+- CalgaryFlames
+- nhl_games
+- youtubot
+- u_imguralbumbot
+- NHLStreams
+- todayilearned
+- anti_gif_bot
+- Predators
+- nhl
+- place
+- stlouisblues
+- puckstreams
+- ColoradoAvalanche
+- botwatch
+---

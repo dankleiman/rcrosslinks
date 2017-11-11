@@ -1,0 +1,24 @@
+---
+title: YasuoMains
+crosslinks:
+- youtubefactsbot
+- leagueoflegends
+- alotabot
+- summonerschool
+- Rivenmains
+- youtubot
+- u_imguralbumbot
+- KoreanAdvice
+- MassdropBot
+- fizzmains
+- lol
+- anti_gif_bot
+- sufficiencybot
+- TwistedFateMains
+- ChampionMains
+- akalimains
+- zedmains
+- gangplankmains
+- SwainMains
+- Bamboozle_Insurance
+---

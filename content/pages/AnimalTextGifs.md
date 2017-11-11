@@ -1,0 +1,24 @@
+---
+title: AnimalTextGifs
+crosslinks:
+- livven
+- anti_gif_bot
+- youtubefactsbot
+- aww
+- gifs
+- youtubot
+- rarepuppers
+- funny
+- HighQualityGifs
+- botwatch
+- WTF
+- tmsbmeta
+- instant_regret
+- AnimalsBeingJerks
+- youseeingthisshit
+- Zoomies
+- likeus
+- CatsStandingUp
+- PeopleFuckingDying
+- BetterEveryLoop
+---

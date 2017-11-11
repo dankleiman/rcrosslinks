@@ -1,0 +1,24 @@
+---
+title: SubredditSimMeta
+crosslinks:
+- SubredditSimulator
+- The_Donald
+- youtubefactsbot
+- totallynotrobots
+- nottheonion
+- politics
+- tmsbmeta
+- FloridaMan
+- photoshopbattles
+- tifu
+- MassdropBot
+- FULLCOMMUNISM
+- todayilearned
+- oddlysatisfying
+- shittyfoodporn
+- worldnews
+- gifs
+- notinteresting
+- OldSchoolCool
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: DailyShow
+crosslinks:
+- youtubefactsbot
+- youtubot
+- politics
+- IAmA
+- SubredditDrama
+- anti_gif_bot
+- pussypassdenied
+- Donald
+- theoryofreddit
+- autourbanbot
+- surfing
+- CFB
+- announcements
+- todayilearned
+- PoliticalDiscussion
+- samanthabee
+- DataHoarder
+- Nigeria
+- autotldr
+- asianamerican
+---

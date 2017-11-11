@@ -1,0 +1,24 @@
+---
+title: RedditDayOf
+crosslinks:
+- youtubefactsbot
+- livven
+- xkcd
+- youtubot
+- autotldr
+- MapPorn
+- VintageMenus
+- u_imguralbumbot
+- videos
+- funny
+- woahdude
+- news
+- science
+- tmsbmeta
+- coins
+- drydockporn
+- criticalrole
+- scienceofdeduction
+- vegancirclejerk
+- Reddit101
+---

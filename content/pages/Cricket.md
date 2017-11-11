@@ -1,0 +1,24 @@
+---
+title: Cricket
+crosslinks:
+- youtubot
+- u_imguralbumbot
+- reddit_stream
+- CricketShitpost
+- anti_gif_bot
+- EIBWT
+- NoParticipation
+- sports
+- todayilearned
+- OutOfTheLoop
+- india
+- IndiaSpeaks
+- dataisbeautiful
+- Brisbane_Heat
+- pakistan
+- photoshopbattles
+- Che_Pujara
+- gifs
+- bakchodi
+- funny
+---
