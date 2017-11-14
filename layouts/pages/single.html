@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<article class="post">
+    <h1 class="title">r/{{ .Title }} </h1>
+    <div class="content">
+        <ol>
+        {{ range .Params.crosslinks }}
+            {{ $sub := . }}
+            {{ if in $.Site.Data.subreddits.r $sub }}
+              <li><a href="/r/{{ $sub }}">{{ $sub }}</a></li>
+            {{ else }}
+              <li>{{ $sub }}</li>
+            {{ end }}
+        {{ end }}
+        </ol>
+    </div>
+</article>
+
+{{ partial "footer.html" . }}
