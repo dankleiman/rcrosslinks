@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<div class="err-404" >
+    <h1 id="title">{{ .Title }} :(</h1>
+</div>
+
+<div class="content" >
+  <h2>Try one of these pages instead</h2>
+    {{ range $.Site.Data.subreddits.r }}
+      <a href="/r/{{lower . }}">{{ . }}</a>&nbsp;&nbsp;
+    {{ end }}
+<div>
+{{ partial "footer.html" . }}
