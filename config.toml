@@ -4,3 +4,10 @@ languageCode = "en-us"
 
 [permalinks]
   pages = "/r/:title/"
+
+[params]
+  # email = "myemail"
+  github = "dankleiman"
+  #gitlab = "gitlab id"
+  twitter = "dan_kleiman"
+  #linkedin = "linkedin id"  
