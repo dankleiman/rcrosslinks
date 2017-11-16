@@ -1,6 +1,6 @@
-<div class="content">
-    <div>
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="padding:5px;margin-bottom:10px;width:300px;">
+<div class="search">
+    <div class="box">
+        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
     </div>
     <div id="subs">
         {{ range $.Site.Data.subreddits.r}}
