@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -128,22 +110,22 @@
         
             
             
-              <li>MHOCPress</li>
+              <li><a href="/r/mhocpress">MHOCPress</a></li>
             
         
             
             
-              <li>MHOL</li>
+              <li><a href="/r/mhol">MHOL</a></li>
             
         
             
             
-              <li>mstormont</li>
+              <li><a href="/r/mstormont">mstormont</a></li>
             
         
             
             
-              <li>MHOCMeta</li>
+              <li><a href="/r/mhocmeta">MHOCMeta</a></li>
             
         
             
@@ -153,22 +135,22 @@
         
             
             
-              <li>DowningStreet</li>
+              <li><a href="/r/downingstreet">DowningStreet</a></li>
             
         
             
             
-              <li>MHoCCampaigning</li>
+              <li><a href="/r/mhoccampaigning">MHoCCampaigning</a></li>
             
         
             
             
-              <li>ModelMonolith</li>
+              <li><a href="/r/modelmonolith">ModelMonolith</a></li>
             
         
             
             
-              <li>MHOCStrangersBar</li>
+              <li><a href="/r/mhocstrangersbar">MHOCStrangersBar</a></li>
             
         
             
@@ -178,22 +160,22 @@
         
             
             
-              <li>MhOir</li>
+              <li><a href="/r/mhoir">MhOir</a></li>
             
         
             
             
-              <li>FULLCOMMUNISM</li>
+              <li><a href="/r/fullcommunism">FULLCOMMUNISM</a></li>
             
         
             
             
-              <li>MHOCNUPPress</li>
+              <li><a href="/r/mhocnuppress">MHOCNUPPress</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
@@ -208,7 +190,7 @@
         
             
             
-              <li>CCHQPressOffice</li>
+              <li><a href="/r/cchqpressoffice">CCHQPressOffice</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

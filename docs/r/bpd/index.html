@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>sociopath</li>
+              <li><a href="/r/sociopath">sociopath</a></li>
             
         
             
             
-              <li>BPDmemes</li>
+              <li><a href="/r/bpdmemes">BPDmemes</a></li>
             
         
             
             
-              <li>depression</li>
+              <li><a href="/r/depression">depression</a></li>
             
         
             
             
-              <li>Art</li>
+              <li><a href="/r/art">Art</a></li>
             
         
             
             
-              <li>science</li>
+              <li><a href="/r/science">science</a></li>
             
         
             
@@ -148,12 +130,12 @@
         
             
             
-              <li>GetMotivated</li>
+              <li><a href="/r/getmotivated">GetMotivated</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
@@ -168,47 +150,47 @@
         
             
             
-              <li>opieandanthony</li>
+              <li><a href="/r/opieandanthony">opieandanthony</a></li>
             
         
             
             
-              <li>OCD</li>
+              <li><a href="/r/ocd">OCD</a></li>
             
         
             
             
-              <li>3amjokes</li>
+              <li><a href="/r/3amjokes">3amjokes</a></li>
             
         
             
             
-              <li>StopSelfHarm</li>
+              <li><a href="/r/stopselfharm">StopSelfHarm</a></li>
             
         
             
             
-              <li>Anger</li>
+              <li><a href="/r/anger">Anger</a></li>
             
         
             
             
-              <li>origami</li>
+              <li><a href="/r/origami">origami</a></li>
             
         
             
             
-              <li>Demotivational</li>
+              <li><a href="/r/demotivational">Demotivational</a></li>
             
         
             
             
-              <li>cults</li>
+              <li><a href="/r/cults">cults</a></li>
             
         
             
             
-              <li>ADHD</li>
+              <li><a href="/r/adhd">ADHD</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

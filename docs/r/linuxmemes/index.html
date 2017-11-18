@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>linux</li>
+              <li><a href="/r/linux">linux</a></li>
             
         
             
             
-              <li>linuxmasterrace</li>
+              <li><a href="/r/linuxmasterrace">linuxmasterrace</a></li>
             
         
             
             
-              <li>unixporn</li>
+              <li><a href="/r/unixporn">unixporn</a></li>
             
         
             
@@ -143,7 +125,7 @@
         
             
             
-              <li>BashRMS</li>
+              <li><a href="/r/bashrms">BashRMS</a></li>
             
         
             
@@ -153,57 +135,57 @@
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>LinuxCirclejerk</li>
+              <li><a href="/r/linuxcirclejerk">LinuxCirclejerk</a></li>
             
         
             
             
-              <li>windowsmemes</li>
+              <li><a href="/r/windowsmemes">windowsmemes</a></li>
             
         
             
             
-              <li>sysadmin</li>
+              <li><a href="/r/sysadmin">sysadmin</a></li>
             
         
             
             
-              <li>ProgrammerHumor</li>
+              <li><a href="/r/programmerhumor">ProgrammerHumor</a></li>
             
         
             
             
-              <li>iiiiiiitttttttttttt</li>
+              <li><a href="/r/iiiiiiitttttttttttt">iiiiiiitttttttttttt</a></li>
             
         
             
             
-              <li>dontdeadopeninside</li>
+              <li><a href="/r/dontdeadopeninside">dontdeadopeninside</a></li>
             
         
             
             
-              <li>AyyMD</li>
+              <li><a href="/r/ayymd">AyyMD</a></li>
             
         
             
             
-              <li>emacs</li>
+              <li><a href="/r/emacs">emacs</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>BirdsBeingDicks</li>
+              <li><a href="/r/birdsbeingdicks">BirdsBeingDicks</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>programmingcirclejerk</li>
+              <li><a href="/r/programmingcirclejerk">programmingcirclejerk</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

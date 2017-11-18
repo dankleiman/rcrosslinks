@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,77 +100,77 @@
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
             
-              <li>ShitRConservativeSays</li>
+              <li><a href="/r/shitrconservativesays">ShitRConservativeSays</a></li>
             
         
             
             
-              <li>LateStageCapitalism</li>
+              <li><a href="/r/latestagecapitalism">LateStageCapitalism</a></li>
             
         
             
             
-              <li>Conservative</li>
+              <li><a href="/r/conservative">Conservative</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
             
-              <li>modhelp</li>
+              <li><a href="/r/modhelp">modhelp</a></li>
             
         
             
             
-              <li>conservatives</li>
+              <li><a href="/r/conservatives">conservatives</a></li>
             
         
             
             
-              <li>Military</li>
+              <li><a href="/r/military">Military</a></li>
             
         
             
             
-              <li>NeutralPolitics</li>
+              <li><a href="/r/neutralpolitics">NeutralPolitics</a></li>
             
         
             
             
-              <li>ConservativeLounge</li>
+              <li><a href="/r/conservativelounge">ConservativeLounge</a></li>
             
         
             
             
-              <li>KasichForPresident</li>
+              <li><a href="/r/kasichforpresident">KasichForPresident</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>AskTrumpSupporters</li>
+              <li><a href="/r/asktrumpsupporters">AskTrumpSupporters</a></li>
             
         
             
             
-              <li>Oppression</li>
+              <li><a href="/r/oppression">Oppression</a></li>
             
         
             
             
-              <li>ShitPoliticsSays</li>
+              <li><a href="/r/shitpoliticssays">ShitPoliticsSays</a></li>
             
         
             
@@ -198,6 +180,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

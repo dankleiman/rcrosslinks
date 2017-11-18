@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>ArtFundamentals</li>
+              <li><a href="/r/artfundamentals">ArtFundamentals</a></li>
             
         
             
@@ -128,52 +110,52 @@
         
             
             
-              <li>redditgetsdrawn</li>
+              <li><a href="/r/redditgetsdrawn">redditgetsdrawn</a></li>
             
         
             
             
-              <li>IDAP</li>
+              <li><a href="/r/idap">IDAP</a></li>
             
         
             
             
-              <li>DigitalPainting</li>
+              <li><a href="/r/digitalpainting">DigitalPainting</a></li>
             
         
             
             
-              <li>SketchDaily</li>
+              <li><a href="/r/sketchdaily">SketchDaily</a></li>
             
         
             
             
-              <li>gameDevClassifieds</li>
+              <li><a href="/r/gamedevclassifieds">gameDevClassifieds</a></li>
             
         
             
             
-              <li>HappyTrees</li>
+              <li><a href="/r/happytrees">HappyTrees</a></li>
             
         
             
             
-              <li>Art</li>
+              <li><a href="/r/art">Art</a></li>
             
         
             
             
-              <li>ArtistLounge</li>
+              <li><a href="/r/artistlounge">ArtistLounge</a></li>
             
         
             
             
-              <li>HungryArtists</li>
+              <li><a href="/r/hungryartists">HungryArtists</a></li>
             
         
             
             
-              <li>SmutBuddy</li>
+              <li><a href="/r/smutbuddy">SmutBuddy</a></li>
             
         
             
@@ -183,7 +165,7 @@
         
             
             
-              <li>restofthefuckingowl</li>
+              <li><a href="/r/restofthefuckingowl">restofthefuckingowl</a></li>
             
         
             
@@ -198,26 +180,30 @@
         
             
             
-              <li>ArtProgressPics</li>
+              <li><a href="/r/artprogresspics">ArtProgressPics</a></li>
             
         
             
             
-              <li>Imaginaryvessels</li>
+              <li><a href="/r/imaginaryvessels">Imaginaryvessels</a></li>
             
         
             
             
-              <li>loseit</li>
+              <li><a href="/r/loseit">loseit</a></li>
             
         
             
             
-              <li>freelance</li>
+              <li><a href="/r/freelance">freelance</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

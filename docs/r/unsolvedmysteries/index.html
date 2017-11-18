@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,97 +100,97 @@
         
             
             
-              <li>UnresolvedMysteries</li>
+              <li><a href="/r/unresolvedmysteries">UnresolvedMysteries</a></li>
             
         
             
             
-              <li>Missing411</li>
+              <li><a href="/r/missing411">Missing411</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>RBI</li>
+              <li><a href="/r/rbi">RBI</a></li>
             
         
             
             
-              <li>DelphiMurders</li>
+              <li><a href="/r/delphimurders">DelphiMurders</a></li>
             
         
             
             
-              <li>musicals</li>
+              <li><a href="/r/musicals">musicals</a></li>
             
         
             
             
-              <li>mauramurray</li>
+              <li><a href="/r/mauramurray">mauramurray</a></li>
             
         
             
             
-              <li>serialkillers</li>
+              <li><a href="/r/serialkillers">serialkillers</a></li>
             
         
             
             
-              <li>CaseyAnthony</li>
+              <li><a href="/r/caseyanthony">CaseyAnthony</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
             
-              <li>AskAnthropology</li>
+              <li><a href="/r/askanthropology">AskAnthropology</a></li>
             
         
             
             
-              <li>JonBenet</li>
+              <li><a href="/r/jonbenet">JonBenet</a></li>
             
         
             
             
-              <li>codes</li>
+              <li><a href="/r/codes">codes</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>TrueCrimeDiscussion</li>
+              <li><a href="/r/truecrimediscussion">TrueCrimeDiscussion</a></li>
             
         
             
             
-              <li>truecrimereview</li>
+              <li><a href="/r/truecrimereview">truecrimereview</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>MissingPersons</li>
+              <li><a href="/r/missingpersons">MissingPersons</a></li>
             
         
             
             
-              <li>whatisthisthing</li>
+              <li><a href="/r/whatisthisthing">whatisthisthing</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

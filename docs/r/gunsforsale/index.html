@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>gundeals</li>
+              <li><a href="/r/gundeals">gundeals</a></li>
             
         
             
             
-              <li>ak47</li>
+              <li><a href="/r/ak47">ak47</a></li>
             
         
             
             
-              <li>VAGuns</li>
+              <li><a href="/r/vaguns">VAGuns</a></li>
             
         
             
             
-              <li>guns</li>
+              <li><a href="/r/guns">guns</a></li>
             
         
             
             
-              <li>ar15</li>
+              <li><a href="/r/ar15">ar15</a></li>
             
         
             
             
-              <li>USPmasterrace</li>
+              <li><a href="/r/uspmasterrace">USPmasterrace</a></li>
             
         
             
@@ -153,52 +135,52 @@
         
             
             
-              <li>WA_guns</li>
+              <li><a href="/r/wa_guns">WA_guns</a></li>
             
         
             
             
-              <li>GunPorn</li>
+              <li><a href="/r/gunporn">GunPorn</a></li>
             
         
             
             
-              <li>czscorpion</li>
+              <li><a href="/r/czscorpion">czscorpion</a></li>
             
         
             
             
-              <li>longrange</li>
+              <li><a href="/r/longrange">longrange</a></li>
             
         
             
             
-              <li>Walther</li>
+              <li><a href="/r/walther">Walther</a></li>
             
         
             
             
-              <li>weekendgunnit</li>
+              <li><a href="/r/weekendgunnit">weekendgunnit</a></li>
             
         
             
             
-              <li>HoustonClassifieds</li>
+              <li><a href="/r/houstonclassifieds">HoustonClassifieds</a></li>
             
         
             
             
-              <li>fakeid</li>
+              <li><a href="/r/fakeid">fakeid</a></li>
             
         
             
             
-              <li>reloading</li>
+              <li><a href="/r/reloading">reloading</a></li>
             
         
             
             
-              <li>austinguns</li>
+              <li><a href="/r/austinguns">austinguns</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>saiga</li>
+              <li><a href="/r/saiga">saiga</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

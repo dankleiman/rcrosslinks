@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,47 +100,47 @@
         
             
             
-              <li>ethtrader</li>
+              <li><a href="/r/ethtrader">ethtrader</a></li>
             
         
             
             
-              <li>ethereum</li>
+              <li><a href="/r/ethereum">ethereum</a></li>
             
         
             
             
-              <li>EtherMining</li>
+              <li><a href="/r/ethermining">EtherMining</a></li>
             
         
             
             
-              <li>ethdev</li>
+              <li><a href="/r/ethdev">ethdev</a></li>
             
         
             
             
-              <li>BitcoinUK</li>
+              <li><a href="/r/bitcoinuk">BitcoinUK</a></li>
             
         
             
             
-              <li>ledgerwallet</li>
+              <li><a href="/r/ledgerwallet">ledgerwallet</a></li>
             
         
             
             
-              <li>CryptoMarkets</li>
+              <li><a href="/r/cryptomarkets">CryptoMarkets</a></li>
             
         
             
             
-              <li>Ethtradernl</li>
+              <li><a href="/r/ethtradernl">Ethtradernl</a></li>
             
         
             
             
-              <li>CoinBase</li>
+              <li><a href="/r/coinbase">CoinBase</a></li>
             
         
             
@@ -168,22 +150,22 @@
         
             
             
-              <li>ethmarket</li>
+              <li><a href="/r/ethmarket">ethmarket</a></li>
             
         
             
             
-              <li>EthereumClassic</li>
+              <li><a href="/r/ethereumclassic">EthereumClassic</a></li>
             
         
             
             
-              <li>dogemarket</li>
+              <li><a href="/r/dogemarket">dogemarket</a></li>
             
         
             
             
-              <li>CryptoCurrency</li>
+              <li><a href="/r/cryptocurrency">CryptoCurrency</a></li>
             
         
             
@@ -198,6 +180,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

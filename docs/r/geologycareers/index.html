@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,42 +100,42 @@
         
             
             
-              <li>geology</li>
+              <li><a href="/r/geology">geology</a></li>
             
         
             
             
-              <li>mining</li>
+              <li><a href="/r/mining">mining</a></li>
             
         
             
             
-              <li>AskAcademia</li>
+              <li><a href="/r/askacademia">AskAcademia</a></li>
             
         
             
             
-              <li>perth</li>
+              <li><a href="/r/perth">perth</a></li>
             
         
             
             
-              <li>oilandgasworkers</li>
+              <li><a href="/r/oilandgasworkers">oilandgasworkers</a></li>
             
         
             
             
-              <li>whatsthisrock</li>
+              <li><a href="/r/whatsthisrock">whatsthisrock</a></li>
             
         
             
             
-              <li>Construction</li>
+              <li><a href="/r/construction">Construction</a></li>
             
         
             
             
-              <li>financialindependence</li>
+              <li><a href="/r/financialindependence">financialindependence</a></li>
             
         
             
@@ -163,56 +145,60 @@
         
             
             
-              <li>SuicideWatch</li>
+              <li><a href="/r/suicidewatch">SuicideWatch</a></li>
             
         
             
             
-              <li>environmental_science</li>
+              <li><a href="/r/environmental_science">environmental_science</a></li>
             
         
             
             
-              <li>EngineeringStudents</li>
+              <li><a href="/r/engineeringstudents">EngineeringStudents</a></li>
             
         
             
             
-              <li>collegeadvice</li>
+              <li><a href="/r/collegeadvice">collegeadvice</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>gis</li>
+              <li><a href="/r/gis">gis</a></li>
             
         
             
             
-              <li>vandwelling</li>
+              <li><a href="/r/vandwelling">vandwelling</a></li>
             
         
             
             
-              <li>leanfire</li>
+              <li><a href="/r/leanfire">leanfire</a></li>
             
         
             
             
-              <li>LifeProTips</li>
+              <li><a href="/r/lifeprotips">LifeProTips</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

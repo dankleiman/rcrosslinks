@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>Surface</li>
+              <li><a href="/r/surface">Surface</a></li>
             
         
             
             
-              <li>techsupport</li>
+              <li><a href="/r/techsupport">techsupport</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>windows</li>
+              <li><a href="/r/windows">windows</a></li>
             
         
             
             
-              <li>windowsinsiders</li>
+              <li><a href="/r/windowsinsiders">windowsinsiders</a></li>
             
         
             
             
-              <li>windowsphone</li>
+              <li><a href="/r/windowsphone">windowsphone</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
@@ -158,66 +140,70 @@
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>nvidia</li>
+              <li><a href="/r/nvidia">nvidia</a></li>
             
         
             
             
-              <li>sysadmin</li>
+              <li><a href="/r/sysadmin">sysadmin</a></li>
             
         
             
             
-              <li>firefox</li>
+              <li><a href="/r/firefox">firefox</a></li>
             
         
             
             
-              <li>pcgaming</li>
+              <li><a href="/r/pcgaming">pcgaming</a></li>
             
         
             
             
-              <li>edge</li>
+              <li><a href="/r/edge">edge</a></li>
             
         
             
             
-              <li>TronScript</li>
+              <li><a href="/r/tronscript">TronScript</a></li>
             
         
             
             
-              <li>FFRecordKeeper</li>
+              <li><a href="/r/ffrecordkeeper">FFRecordKeeper</a></li>
             
         
             
             
-              <li>Rainmeter</li>
+              <li><a href="/r/rainmeter">Rainmeter</a></li>
             
         
             
             
-              <li>programming</li>
+              <li><a href="/r/programming">programming</a></li>
             
         
             
             
-              <li>unixporn</li>
+              <li><a href="/r/unixporn">unixporn</a></li>
             
         
             
             
-              <li>Win10_UI</li>
+              <li><a href="/r/win10_ui">Win10_UI</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

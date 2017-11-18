@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>Vaping</li>
+              <li><a href="/r/vaping">Vaping</a></li>
             
         
             
             
-              <li>electronic_cigarette</li>
+              <li><a href="/r/electronic_cigarette">electronic_cigarette</a></li>
             
         
             
             
-              <li>CoilGore</li>
+              <li><a href="/r/coilgore">CoilGore</a></li>
             
         
             
             
-              <li>DIY_classifieds</li>
+              <li><a href="/r/diy_classifieds">DIY_classifieds</a></li>
             
         
             
             
-              <li>IgnorantImgur</li>
+              <li><a href="/r/ignorantimgur">IgnorantImgur</a></li>
             
         
             
             
-              <li>ecigclassifieds</li>
+              <li><a href="/r/ecigclassifieds">ecigclassifieds</a></li>
             
         
             
@@ -168,12 +150,12 @@
         
             
             
-              <li>VapePorn</li>
+              <li><a href="/r/vapeporn">VapePorn</a></li>
             
         
             
             
-              <li>Skookum</li>
+              <li><a href="/r/skookum">Skookum</a></li>
             
         
             
@@ -183,11 +165,15 @@
         
             
             
-              <li>shitty_ecr</li>
+              <li><a href="/r/shitty_ecr">shitty_ecr</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

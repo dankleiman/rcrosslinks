@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,62 +100,62 @@
         
             
             
-              <li>reddit_stream</li>
+              <li><a href="/r/reddit_stream">reddit_stream</a></li>
             
         
             
             
-              <li>phillies</li>
+              <li><a href="/r/phillies">phillies</a></li>
             
         
             
             
-              <li>Mariners</li>
+              <li><a href="/r/mariners">Mariners</a></li>
             
         
             
             
-              <li>Dodgers</li>
+              <li><a href="/r/dodgers">Dodgers</a></li>
             
         
             
             
-              <li>Nationals</li>
+              <li><a href="/r/nationals">Nationals</a></li>
             
         
             
             
-              <li>MLBStreams</li>
+              <li><a href="/r/mlbstreams">MLBStreams</a></li>
             
         
             
             
-              <li>NewYorkMets</li>
+              <li><a href="/r/newyorkmets">NewYorkMets</a></li>
             
         
             
             
-              <li>Cardinals</li>
+              <li><a href="/r/cardinals">Cardinals</a></li>
             
         
             
             
-              <li>NYYankees</li>
+              <li><a href="/r/nyyankees">NYYankees</a></li>
             
         
             
             
-              <li>Padres</li>
+              <li><a href="/r/padres">Padres</a></li>
             
         
             
             
-              <li>LazyMan</li>
+              <li><a href="/r/lazyman">LazyMan</a></li>
             
         
             
             
-              <li>hmmm</li>
+              <li><a href="/r/hmmm">hmmm</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>MinionHate</li>
+              <li><a href="/r/minionhate">MinionHate</a></li>
             
         
             
             
-              <li>Astros</li>
+              <li><a href="/r/astros">Astros</a></li>
             
         
             
             
-              <li>photography</li>
+              <li><a href="/r/photography">photography</a></li>
             
         
             
             
-              <li>BoJackHorseman</li>
+              <li><a href="/r/bojackhorseman">BoJackHorseman</a></li>
             
         
             
             
-              <li>suns</li>
+              <li><a href="/r/suns">suns</a></li>
             
         
             
             
-              <li>WahoosTipi</li>
+              <li><a href="/r/wahoostipi">WahoosTipi</a></li>
             
         
             
             
-              <li>Braves</li>
+              <li><a href="/r/braves">Braves</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

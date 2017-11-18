@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>TwennyWunPilots</li>
+              <li><a href="/r/twennywunpilots">TwennyWunPilots</a></li>
             
         
             
             
-              <li>Music</li>
+              <li><a href="/r/music">Music</a></li>
             
         
             
@@ -138,12 +120,12 @@
         
             
             
-              <li>Art</li>
+              <li><a href="/r/art">Art</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
@@ -153,17 +135,17 @@
         
             
             
-              <li>tipofmytongue</li>
+              <li><a href="/r/tipofmytongue">tipofmytongue</a></li>
             
         
             
             
-              <li>REEEEEEEEEE</li>
+              <li><a href="/r/reeeeeeeeee">REEEEEEEEEE</a></li>
             
         
             
             
-              <li>photography</li>
+              <li><a href="/r/photography">photography</a></li>
             
         
             
@@ -173,7 +155,7 @@
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>announcements</li>
+              <li><a href="/r/announcements">announcements</a></li>
             
         
             
             
-              <li>Sasquatch</li>
+              <li><a href="/r/sasquatch">Sasquatch</a></li>
             
         
             
             
-              <li>Muse</li>
+              <li><a href="/r/muse">Muse</a></li>
             
         
             
             
-              <li>drums</li>
+              <li><a href="/r/drums">drums</a></li>
             
         
             
             
-              <li>tulsa</li>
+              <li><a href="/r/tulsa">tulsa</a></li>
             
         
             
             
-              <li>ComedyCemetery</li>
+              <li><a href="/r/comedycemetery">ComedyCemetery</a></li>
             
         
             
             
-              <li>SongStems</li>
+              <li><a href="/r/songstems">SongStems</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,82 +100,82 @@
         
             
             
-              <li>shittykickstarters</li>
+              <li><a href="/r/shittykickstarters">shittykickstarters</a></li>
             
         
             
             
-              <li>Games</li>
+              <li><a href="/r/games">Games</a></li>
             
         
             
             
-              <li>AMAAggregator</li>
+              <li><a href="/r/amaaggregator">AMAAggregator</a></li>
             
         
             
             
-              <li>Watches</li>
+              <li><a href="/r/watches">Watches</a></li>
             
         
             
             
-              <li>Entrepreneur</li>
+              <li><a href="/r/entrepreneur">Entrepreneur</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>gamedev</li>
+              <li><a href="/r/gamedev">gamedev</a></li>
             
         
             
             
-              <li>daddit</li>
+              <li><a href="/r/daddit">daddit</a></li>
             
         
             
             
-              <li>AshesofCreation</li>
+              <li><a href="/r/ashesofcreation">AshesofCreation</a></li>
             
         
             
             
-              <li>90sdesign</li>
+              <li><a href="/r/90sdesign">90sdesign</a></li>
             
         
             
             
-              <li>puns</li>
+              <li><a href="/r/puns">puns</a></li>
             
         
             
             
-              <li>IsItBullshit</li>
+              <li><a href="/r/isitbullshit">IsItBullshit</a></li>
             
         
             
             
-              <li>arduino</li>
+              <li><a href="/r/arduino">arduino</a></li>
             
         
             
             
-              <li>DontFundMe</li>
+              <li><a href="/r/dontfundme">DontFundMe</a></li>
             
         
             
             
-              <li>explainlikeimfive</li>
+              <li><a href="/r/explainlikeimfive">explainlikeimfive</a></li>
             
         
             
             
-              <li>asmr</li>
+              <li><a href="/r/asmr">asmr</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>homeautomation</li>
+              <li><a href="/r/homeautomation">homeautomation</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Rotoscope</li>
+              <li><a href="/r/rotoscope">Rotoscope</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

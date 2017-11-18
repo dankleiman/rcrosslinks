@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,17 +105,17 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>Shoplifting</li>
+              <li><a href="/r/shoplifting">Shoplifting</a></li>
             
         
             
@@ -143,81 +125,85 @@
         
             
             
-              <li>trashy</li>
+              <li><a href="/r/trashy">trashy</a></li>
             
         
             
             
-              <li>kroger</li>
+              <li><a href="/r/kroger">kroger</a></li>
             
         
             
             
-              <li>legal</li>
+              <li><a href="/r/legal">legal</a></li>
             
         
             
             
-              <li>Kentucky</li>
+              <li><a href="/r/kentucky">Kentucky</a></li>
             
         
             
             
-              <li>ActionFigures</li>
+              <li><a href="/r/actionfigures">ActionFigures</a></li>
             
         
             
             
-              <li>peopleofwalmart</li>
+              <li><a href="/r/peopleofwalmart">peopleofwalmart</a></li>
             
         
             
             
-              <li>LateStageCapitalism</li>
+              <li><a href="/r/latestagecapitalism">LateStageCapitalism</a></li>
             
         
             
             
-              <li>thinkpad</li>
+              <li><a href="/r/thinkpad">thinkpad</a></li>
             
         
             
             
-              <li>REEEEEEEEEE</li>
+              <li><a href="/r/reeeeeeeeee">REEEEEEEEEE</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>churning</li>
+              <li><a href="/r/churning">churning</a></li>
             
         
             
             
-              <li>OSHA</li>
+              <li><a href="/r/osha">OSHA</a></li>
             
         
             
             
-              <li>SuggestALaptop</li>
+              <li><a href="/r/suggestalaptop">SuggestALaptop</a></li>
             
         
             
             
-              <li>Random_Acts_Of_Pizza</li>
+              <li><a href="/r/random_acts_of_pizza">Random_Acts_Of_Pizza</a></li>
             
         
             
             
-              <li>identity_theft</li>
+              <li><a href="/r/identity_theft">identity_theft</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

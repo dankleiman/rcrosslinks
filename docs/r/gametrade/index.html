@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,47 +100,47 @@
         
             
             
-              <li>indiegameswap</li>
+              <li><a href="/r/indiegameswap">indiegameswap</a></li>
             
         
             
             
-              <li>SteamGameSwap</li>
+              <li><a href="/r/steamgameswap">SteamGameSwap</a></li>
             
         
             
             
-              <li>IGSRep</li>
+              <li><a href="/r/igsrep">IGSRep</a></li>
             
         
             
             
-              <li>GameTradeRep</li>
+              <li><a href="/r/gametraderep">GameTradeRep</a></li>
             
         
             
             
-              <li>sgsflair</li>
+              <li><a href="/r/sgsflair">sgsflair</a></li>
             
         
             
             
-              <li>GameSale</li>
+              <li><a href="/r/gamesale">GameSale</a></li>
             
         
             
             
-              <li>GCXRep</li>
+              <li><a href="/r/gcxrep">GCXRep</a></li>
             
         
             
             
-              <li>mushroomkingdom</li>
+              <li><a href="/r/mushroomkingdom">mushroomkingdom</a></li>
             
         
             
             
-              <li>WTTNVidia</li>
+              <li><a href="/r/wttnvidia">WTTNVidia</a></li>
             
         
             
@@ -168,42 +150,42 @@
         
             
             
-              <li>gameswap</li>
+              <li><a href="/r/gameswap">gameswap</a></li>
             
         
             
             
-              <li>RandomActsOfGaming</li>
+              <li><a href="/r/randomactsofgaming">RandomActsOfGaming</a></li>
             
         
             
             
-              <li>dogemarket</li>
+              <li><a href="/r/dogemarket">dogemarket</a></li>
             
         
             
             
-              <li>giftcardexchange</li>
+              <li><a href="/r/giftcardexchange">giftcardexchange</a></li>
             
         
             
             
-              <li>hardwareswap</li>
+              <li><a href="/r/hardwareswap">hardwareswap</a></li>
             
         
             
             
-              <li>ffxiv</li>
+              <li><a href="/r/ffxiv">ffxiv</a></li>
             
         
             
             
-              <li>gamecollecting</li>
+              <li><a href="/r/gamecollecting">gamecollecting</a></li>
             
         
             
             
-              <li>steamcoupons</li>
+              <li><a href="/r/steamcoupons">steamcoupons</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>gwent</li>
+              <li><a href="/r/gwent">gwent</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,57 +105,57 @@
         
             
             
-              <li>gamedev</li>
+              <li><a href="/r/gamedev">gamedev</a></li>
             
         
             
             
-              <li>Unity2D</li>
+              <li><a href="/r/unity2d">Unity2D</a></li>
             
         
             
             
-              <li>justgamedevthings</li>
+              <li><a href="/r/justgamedevthings">justgamedevthings</a></li>
             
         
             
             
-              <li>gameDevClassifieds</li>
+              <li><a href="/r/gamedevclassifieds">gameDevClassifieds</a></li>
             
         
             
             
-              <li>Vive</li>
+              <li><a href="/r/vive">Vive</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>proceduralgeneration</li>
+              <li><a href="/r/proceduralgeneration">proceduralgeneration</a></li>
             
         
             
             
-              <li>oculus</li>
+              <li><a href="/r/oculus">oculus</a></li>
             
         
             
             
-              <li>GravitonSoldier</li>
+              <li><a href="/r/gravitonsoldier">GravitonSoldier</a></li>
             
         
             
             
-              <li>playrust</li>
+              <li><a href="/r/playrust">playrust</a></li>
             
         
             
             
-              <li>GTTOD</li>
+              <li><a href="/r/gttod">GTTOD</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>askscience</li>
+              <li><a href="/r/askscience">askscience</a></li>
             
         
             
             
-              <li>interestingasfuck</li>
+              <li><a href="/r/interestingasfuck">interestingasfuck</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>VaporwaveAesthetics</li>
+              <li><a href="/r/vaporwaveaesthetics">VaporwaveAesthetics</a></li>
             
         
             
             
-              <li>AMAAggregator</li>
+              <li><a href="/r/amaaggregator">AMAAggregator</a></li>
             
         
             
             
-              <li>yandere_simulator</li>
+              <li><a href="/r/yandere_simulator">yandere_simulator</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

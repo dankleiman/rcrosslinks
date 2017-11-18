@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>leagueoflegends</li>
+              <li><a href="/r/leagueoflegends">leagueoflegends</a></li>
             
         
             
             
-              <li>summonerschool</li>
+              <li><a href="/r/summonerschool">summonerschool</a></li>
             
         
             
             
-              <li>lol</li>
+              <li><a href="/r/lol">lol</a></li>
             
         
             
             
-              <li>LeagueOfMeta</li>
+              <li><a href="/r/leagueofmeta">LeagueOfMeta</a></li>
             
         
             
             
-              <li>gangplankmains</li>
+              <li><a href="/r/gangplankmains">gangplankmains</a></li>
             
         
             
@@ -148,12 +130,12 @@
         
             
             
-              <li>fizzmains</li>
+              <li><a href="/r/fizzmains">fizzmains</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
@@ -163,46 +145,50 @@
         
             
             
-              <li>FrenchWestIndies</li>
+              <li><a href="/r/frenchwestindies">FrenchWestIndies</a></li>
             
         
             
             
-              <li>League_Of_Legends_</li>
+              <li><a href="/r/league_of_legends_">League_Of_Legends_</a></li>
             
         
             
             
-              <li>LeeSinMains</li>
+              <li><a href="/r/leesinmains">LeeSinMains</a></li>
             
         
             
             
-              <li>Rule34LoL</li>
+              <li><a href="/r/rule34lol">Rule34LoL</a></li>
             
         
             
             
-              <li>LeagueofLegendsMeta</li>
+              <li><a href="/r/leagueoflegendsmeta">LeagueofLegendsMeta</a></li>
             
         
             
             
-              <li>Kindred</li>
+              <li><a href="/r/kindred">Kindred</a></li>
             
         
             
             
-              <li>YasuoMains</li>
+              <li><a href="/r/yasuomains">YasuoMains</a></li>
             
         
             
             
-              <li>JhinMains</li>
+              <li><a href="/r/jhinmains">JhinMains</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

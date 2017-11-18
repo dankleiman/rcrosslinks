@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>aviation</li>
+              <li><a href="/r/aviation">aviation</a></li>
             
         
             
             
-              <li>ww2</li>
+              <li><a href="/r/ww2">ww2</a></li>
             
         
             
             
-              <li>europe</li>
+              <li><a href="/r/europe">europe</a></li>
             
         
             
             
-              <li>AviationHistory</li>
+              <li><a href="/r/aviationhistory">AviationHistory</a></li>
             
         
             
             
-              <li>sweden</li>
+              <li><a href="/r/sweden">sweden</a></li>
             
         
             
             
-              <li>shanghai</li>
+              <li><a href="/r/shanghai">shanghai</a></li>
             
         
             
@@ -153,17 +135,17 @@
         
             
             
-              <li>poland</li>
+              <li><a href="/r/poland">poland</a></li>
             
         
             
             
-              <li>Eesti</li>
+              <li><a href="/r/eesti">Eesti</a></li>
             
         
             
             
-              <li>ThisDayInHistory</li>
+              <li><a href="/r/thisdayinhistory">ThisDayInHistory</a></li>
             
         
             
@@ -173,6 +155,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

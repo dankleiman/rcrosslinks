@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>Nootropics</li>
+              <li><a href="/r/nootropics">Nootropics</a></li>
             
         
             
             
-              <li>Fitness</li>
+              <li><a href="/r/fitness">Fitness</a></li>
             
         
             
@@ -133,32 +115,32 @@
         
             
             
-              <li>nutrition</li>
+              <li><a href="/r/nutrition">nutrition</a></li>
             
         
             
             
-              <li>gainit</li>
+              <li><a href="/r/gainit">gainit</a></li>
             
         
             
             
-              <li>AskDocs</li>
+              <li><a href="/r/askdocs">AskDocs</a></li>
             
         
             
             
-              <li>RCSources</li>
+              <li><a href="/r/rcsources">RCSources</a></li>
             
         
             
             
-              <li>kratom</li>
+              <li><a href="/r/kratom">kratom</a></li>
             
         
             
             
-              <li>stopdrinking</li>
+              <li><a href="/r/stopdrinking">stopdrinking</a></li>
             
         
             
@@ -168,42 +150,42 @@
         
             
             
-              <li>depressionregimens</li>
+              <li><a href="/r/depressionregimens">depressionregimens</a></li>
             
         
             
             
-              <li>steroids</li>
+              <li><a href="/r/steroids">steroids</a></li>
             
         
             
             
-              <li>AdvancedFitness</li>
+              <li><a href="/r/advancedfitness">AdvancedFitness</a></li>
             
         
             
             
-              <li>soylent</li>
+              <li><a href="/r/soylent">soylent</a></li>
             
         
             
             
-              <li>StackAdvice</li>
+              <li><a href="/r/stackadvice">StackAdvice</a></li>
             
         
             
             
-              <li>AsianBeauty</li>
+              <li><a href="/r/asianbeauty">AsianBeauty</a></li>
             
         
             
             
-              <li>Paleo</li>
+              <li><a href="/r/paleo">Paleo</a></li>
             
         
             
             
-              <li>PCOS</li>
+              <li><a href="/r/pcos">PCOS</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>leangains</li>
+              <li><a href="/r/leangains">leangains</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,52 +100,52 @@
         
             
             
-              <li>PornOverlords</li>
+              <li><a href="/r/pornoverlords">PornOverlords</a></li>
             
         
             
             
-              <li>HistoryPorn</li>
+              <li><a href="/r/historyporn">HistoryPorn</a></li>
             
         
             
             
-              <li>DestroyedTanks</li>
+              <li><a href="/r/destroyedtanks">DestroyedTanks</a></li>
             
         
             
             
-              <li>AtomicPorn</li>
+              <li><a href="/r/atomicporn">AtomicPorn</a></li>
             
         
             
             
-              <li>vancouver</li>
+              <li><a href="/r/vancouver">vancouver</a></li>
             
         
             
             
-              <li>ThingsThatBlowUp</li>
+              <li><a href="/r/thingsthatblowup">ThingsThatBlowUp</a></li>
             
         
             
             
-              <li>Warplanesnuffporn</li>
+              <li><a href="/r/warplanesnuffporn">Warplanesnuffporn</a></li>
             
         
             
             
-              <li>Porsche</li>
+              <li><a href="/r/porsche">Porsche</a></li>
             
         
             
             
-              <li>nuclearweapons</li>
+              <li><a href="/r/nuclearweapons">nuclearweapons</a></li>
             
         
             
             
-              <li>WarshipPorn</li>
+              <li><a href="/r/warshipporn">WarshipPorn</a></li>
             
         
             
@@ -178,12 +160,12 @@
         
             
             
-              <li>papertowns</li>
+              <li><a href="/r/papertowns">papertowns</a></li>
             
         
             
             
-              <li>architecture</li>
+              <li><a href="/r/architecture">architecture</a></li>
             
         
             
@@ -193,11 +175,15 @@
         
             
             
-              <li>MilitaryGfys</li>
+              <li><a href="/r/militarygfys">MilitaryGfys</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

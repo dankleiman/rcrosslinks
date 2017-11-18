@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,92 +100,92 @@
         
             
             
-              <li>askcarsales</li>
+              <li><a href="/r/askcarsales">askcarsales</a></li>
             
         
             
             
-              <li>marketing</li>
+              <li><a href="/r/marketing">marketing</a></li>
             
         
             
             
-              <li>churning</li>
+              <li><a href="/r/churning">churning</a></li>
             
         
             
             
-              <li>Entrepreneur</li>
+              <li><a href="/r/entrepreneur">Entrepreneur</a></li>
             
         
             
             
-              <li>RealEstate</li>
+              <li><a href="/r/realestate">RealEstate</a></li>
             
         
             
             
-              <li>apple</li>
+              <li><a href="/r/apple">apple</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>MaleFashionMarket</li>
+              <li><a href="/r/malefashionmarket">MaleFashionMarket</a></li>
             
         
             
             
-              <li>freelance</li>
+              <li><a href="/r/freelance">freelance</a></li>
             
         
             
             
-              <li>AskMarketing</li>
+              <li><a href="/r/askmarketing">AskMarketing</a></li>
             
         
             
             
-              <li>security</li>
+              <li><a href="/r/security">security</a></li>
             
         
             
             
-              <li>Accounting</li>
+              <li><a href="/r/accounting">Accounting</a></li>
             
         
             
             
-              <li>AskHR</li>
+              <li><a href="/r/askhr">AskHR</a></li>
             
         
             
             
-              <li>forhire</li>
+              <li><a href="/r/forhire">forhire</a></li>
             
         
             
             
-              <li>mturk</li>
+              <li><a href="/r/mturk">mturk</a></li>
             
         
             
             
-              <li>startups</li>
+              <li><a href="/r/startups">startups</a></li>
             
         
             
             
-              <li>shutdown</li>
+              <li><a href="/r/shutdown">shutdown</a></li>
             
         
             
             
-              <li>oilandgas</li>
+              <li><a href="/r/oilandgas">oilandgas</a></li>
             
         
             
@@ -213,6 +195,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

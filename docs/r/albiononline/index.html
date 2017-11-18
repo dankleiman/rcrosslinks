@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>MMORPG</li>
+              <li><a href="/r/mmorpg">MMORPG</a></li>
             
         
             
@@ -128,32 +110,32 @@
         
             
             
-              <li>REEEEEEEEEE</li>
+              <li><a href="/r/reeeeeeeeee">REEEEEEEEEE</a></li>
             
         
             
             
-              <li>Eve</li>
+              <li><a href="/r/eve">Eve</a></li>
             
         
             
             
-              <li>playrust</li>
+              <li><a href="/r/playrust">playrust</a></li>
             
         
             
             
-              <li>LifeProTips</li>
+              <li><a href="/r/lifeprotips">LifeProTips</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>2007scape</li>
+              <li><a href="/r/2007scape">2007scape</a></li>
             
         
             
@@ -163,61 +145,65 @@
         
             
             
-              <li>AMAAggregator</li>
+              <li><a href="/r/amaaggregator">AMAAggregator</a></li>
             
         
             
             
-              <li>KotakuInAction</li>
+              <li><a href="/r/kotakuinaction">KotakuInAction</a></li>
             
         
             
             
-              <li>pcgaming</li>
+              <li><a href="/r/pcgaming">pcgaming</a></li>
             
         
             
             
-              <li>legaladvice</li>
+              <li><a href="/r/legaladvice">legaladvice</a></li>
             
         
             
             
-              <li>Surface</li>
+              <li><a href="/r/surface">Surface</a></li>
             
         
             
             
-              <li>wow</li>
+              <li><a href="/r/wow">wow</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>archeage</li>
+              <li><a href="/r/archeage">archeage</a></li>
             
         
             
             
-              <li>Floridar4r</li>
+              <li><a href="/r/floridar4r">Floridar4r</a></li>
             
         
             
             
-              <li>dndnext</li>
+              <li><a href="/r/dndnext">dndnext</a></li>
             
         
             
             
-              <li>paragon</li>
+              <li><a href="/r/paragon">paragon</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

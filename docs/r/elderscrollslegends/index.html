@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>CustomLegends</li>
+              <li><a href="/r/customlegends">CustomLegends</a></li>
             
         
             
             
-              <li>hearthstone</li>
+              <li><a href="/r/hearthstone">hearthstone</a></li>
             
         
             
             
-              <li>teslore</li>
+              <li><a href="/r/teslore">teslore</a></li>
             
         
             
@@ -138,67 +120,67 @@
         
             
             
-              <li>duelyst</li>
+              <li><a href="/r/duelyst">duelyst</a></li>
             
         
             
             
-              <li>gwent</li>
+              <li><a href="/r/gwent">gwent</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>EternalCardGame</li>
+              <li><a href="/r/eternalcardgame">EternalCardGame</a></li>
             
         
             
             
-              <li>skyrim</li>
+              <li><a href="/r/skyrim">skyrim</a></li>
             
         
             
             
-              <li>TrueSTL</li>
+              <li><a href="/r/truestl">TrueSTL</a></li>
             
         
             
             
-              <li>dankchristianmemes</li>
+              <li><a href="/r/dankchristianmemes">dankchristianmemes</a></li>
             
         
             
             
-              <li>Games</li>
+              <li><a href="/r/games">Games</a></li>
             
         
             
             
-              <li>elderscrollsonline</li>
+              <li><a href="/r/elderscrollsonline">elderscrollsonline</a></li>
             
         
             
             
-              <li>chrome</li>
+              <li><a href="/r/chrome">chrome</a></li>
             
         
             
             
-              <li>keming</li>
+              <li><a href="/r/keming">keming</a></li>
             
         
             
             
-              <li>samuraijack</li>
+              <li><a href="/r/samuraijack">samuraijack</a></li>
             
         
             
             
-              <li>customhearthstone</li>
+              <li><a href="/r/customhearthstone">customhearthstone</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>Twitch</li>
+              <li><a href="/r/twitch">Twitch</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

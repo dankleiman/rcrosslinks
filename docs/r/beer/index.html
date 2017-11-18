@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,97 +100,97 @@
         
             
             
-              <li>AustinBeer</li>
+              <li><a href="/r/austinbeer">AustinBeer</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>COBeer</li>
+              <li><a href="/r/cobeer">COBeer</a></li>
             
         
             
             
-              <li>FloridaBrew</li>
+              <li><a href="/r/floridabrew">FloridaBrew</a></li>
             
         
             
             
-              <li>TheBrewery</li>
+              <li><a href="/r/thebrewery">TheBrewery</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>cider</li>
+              <li><a href="/r/cider">cider</a></li>
             
         
             
             
-              <li>graphic_design</li>
+              <li><a href="/r/graphic_design">graphic_design</a></li>
             
         
             
             
-              <li>Dallas</li>
+              <li><a href="/r/dallas">Dallas</a></li>
             
         
             
             
-              <li>EarthPorn</li>
+              <li><a href="/r/earthporn">EarthPorn</a></li>
             
         
             
             
-              <li>Munich</li>
+              <li><a href="/r/munich">Munich</a></li>
             
         
             
             
-              <li>NewOrleans</li>
+              <li><a href="/r/neworleans">NewOrleans</a></li>
             
         
             
             
-              <li>Cleveland</li>
+              <li><a href="/r/cleveland">Cleveland</a></li>
             
         
             
             
-              <li>Portland</li>
+              <li><a href="/r/portland">Portland</a></li>
             
         
             
             
-              <li>killthosewhodisagree</li>
+              <li><a href="/r/killthosewhodisagree">killthosewhodisagree</a></li>
             
         
             
             
-              <li>cringe</li>
+              <li><a href="/r/cringe">cringe</a></li>
             
         
             
             
-              <li>CraftBeer</li>
+              <li><a href="/r/craftbeer">CraftBeer</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

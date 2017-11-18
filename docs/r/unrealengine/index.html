@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,22 +105,22 @@
         
             
             
-              <li>gamedev</li>
+              <li><a href="/r/gamedev">gamedev</a></li>
             
         
             
             
-              <li>starcitizen</li>
+              <li><a href="/r/starcitizen">starcitizen</a></li>
             
         
             
             
-              <li>gameDevClassifieds</li>
+              <li><a href="/r/gamedevclassifieds">gameDevClassifieds</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
@@ -148,76 +130,80 @@
         
             
             
-              <li>ShadowBan</li>
+              <li><a href="/r/shadowban">ShadowBan</a></li>
             
         
             
             
-              <li>Vive</li>
+              <li><a href="/r/vive">Vive</a></li>
             
         
             
             
-              <li>Unity3D</li>
+              <li><a href="/r/unity3d">Unity3D</a></li>
             
         
             
             
-              <li>skyrimmods</li>
+              <li><a href="/r/skyrimmods">skyrimmods</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>EternalCardGame</li>
+              <li><a href="/r/eternalcardgame">EternalCardGame</a></li>
             
         
             
             
-              <li>gamedevscreens</li>
+              <li><a href="/r/gamedevscreens">gamedevscreens</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>hammer</li>
+              <li><a href="/r/hammer">hammer</a></li>
             
         
             
             
-              <li>androiddev</li>
+              <li><a href="/r/androiddev">androiddev</a></li>
             
         
             
             
-              <li>UE4Devs</li>
+              <li><a href="/r/ue4devs">UE4Devs</a></li>
             
         
             
             
-              <li>explainlikeIAmA</li>
+              <li><a href="/r/explainlikeiama">explainlikeIAmA</a></li>
             
         
             
             
-              <li>xdfp</li>
+              <li><a href="/r/xdfp">xdfp</a></li>
             
         
             
             
-              <li>milliondollarextreme</li>
+              <li><a href="/r/milliondollarextreme">milliondollarextreme</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

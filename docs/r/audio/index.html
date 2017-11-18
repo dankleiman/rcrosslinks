@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>audiophile</li>
+              <li><a href="/r/audiophile">audiophile</a></li>
             
         
             
             
-              <li>headphones</li>
+              <li><a href="/r/headphones">headphones</a></li>
             
         
             
             
-              <li>CarAV</li>
+              <li><a href="/r/carav">CarAV</a></li>
             
         
             
@@ -138,37 +120,37 @@
         
             
             
-              <li>audioengineering</li>
+              <li><a href="/r/audioengineering">audioengineering</a></li>
             
         
             
             
-              <li>diyaudio</li>
+              <li><a href="/r/diyaudio">diyaudio</a></li>
             
         
             
             
-              <li>BudgetAudiophile</li>
+              <li><a href="/r/budgetaudiophile">BudgetAudiophile</a></li>
             
         
             
             
-              <li>Twitch</li>
+              <li><a href="/r/twitch">Twitch</a></li>
             
         
             
             
-              <li>livesound</li>
+              <li><a href="/r/livesound">livesound</a></li>
             
         
             
             
-              <li>hometheater</li>
+              <li><a href="/r/hometheater">hometheater</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
@@ -178,27 +160,27 @@
         
             
             
-              <li>playstation</li>
+              <li><a href="/r/playstation">playstation</a></li>
             
         
             
             
-              <li>Zeos</li>
+              <li><a href="/r/zeos">Zeos</a></li>
             
         
             
             
-              <li>CommercialAV</li>
+              <li><a href="/r/commercialav">CommercialAV</a></li>
             
         
             
             
-              <li>Windows10</li>
+              <li><a href="/r/windows10">Windows10</a></li>
             
         
             
             
-              <li>audiojerk</li>
+              <li><a href="/r/audiojerk">audiojerk</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>fieldrecording</li>
+              <li><a href="/r/fieldrecording">fieldrecording</a></li>
             
         
             
             
-              <li>gadgets</li>
+              <li><a href="/r/gadgets">gadgets</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

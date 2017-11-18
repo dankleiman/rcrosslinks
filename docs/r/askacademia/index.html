@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,87 +100,87 @@
         
             
             
-              <li>education</li>
+              <li><a href="/r/education">education</a></li>
             
         
             
             
-              <li>GradSchool</li>
+              <li><a href="/r/gradschool">GradSchool</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>gradadmissions</li>
+              <li><a href="/r/gradadmissions">gradadmissions</a></li>
             
         
             
             
-              <li>Scholar</li>
+              <li><a href="/r/scholar">Scholar</a></li>
             
         
             
             
-              <li>math</li>
+              <li><a href="/r/math">math</a></li>
             
         
             
             
-              <li>Professors</li>
+              <li><a href="/r/professors">Professors</a></li>
             
         
             
             
-              <li>AskSocialScience</li>
+              <li><a href="/r/asksocialscience">AskSocialScience</a></li>
             
         
             
             
-              <li>chemistry</li>
+              <li><a href="/r/chemistry">chemistry</a></li>
             
         
             
             
-              <li>Economics</li>
+              <li><a href="/r/economics">Economics</a></li>
             
         
             
             
-              <li>Futurology</li>
+              <li><a href="/r/futurology">Futurology</a></li>
             
         
             
             
-              <li>MuseumPros</li>
+              <li><a href="/r/museumpros">MuseumPros</a></li>
             
         
             
             
-              <li>im14andthisisdeep</li>
+              <li><a href="/r/im14andthisisdeep">im14andthisisdeep</a></li>
             
         
             
             
-              <li>AskLiteraryStudies</li>
+              <li><a href="/r/askliterarystudies">AskLiteraryStudies</a></li>
             
         
             
             
-              <li>college</li>
+              <li><a href="/r/college">college</a></li>
             
         
             
             
-              <li>linguistics</li>
+              <li><a href="/r/linguistics">linguistics</a></li>
             
         
             
             
-              <li>Drama</li>
+              <li><a href="/r/drama">Drama</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>theydidthefuckyou</li>
+              <li><a href="/r/theydidthefuckyou">theydidthefuckyou</a></li>
             
         
             
             
-              <li>ApplyingToCollege</li>
+              <li><a href="/r/applyingtocollege">ApplyingToCollege</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

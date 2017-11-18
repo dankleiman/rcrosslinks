@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,17 +105,17 @@
         
             
             
-              <li>APUSH</li>
+              <li><a href="/r/apush">APUSH</a></li>
             
         
             
             
-              <li>ApplyingToCollege</li>
+              <li><a href="/r/applyingtocollege">ApplyingToCollege</a></li>
             
         
             
             
-              <li>RateMySchedule</li>
+              <li><a href="/r/ratemyschedule">RateMySchedule</a></li>
             
         
             
@@ -148,47 +130,47 @@
         
             
             
-              <li>Sat</li>
+              <li><a href="/r/sat">Sat</a></li>
             
         
             
             
-              <li>ChoosingBeggars</li>
+              <li><a href="/r/choosingbeggars">ChoosingBeggars</a></li>
             
         
             
             
-              <li>opera</li>
+              <li><a href="/r/opera">opera</a></li>
             
         
             
             
-              <li>copypasta</li>
+              <li><a href="/r/copypasta">copypasta</a></li>
             
         
             
             
-              <li>learnprogramming</li>
+              <li><a href="/r/learnprogramming">learnprogramming</a></li>
             
         
             
             
-              <li>Drugs</li>
+              <li><a href="/r/drugs">Drugs</a></li>
             
         
             
             
-              <li>ACT</li>
+              <li><a href="/r/act">ACT</a></li>
             
         
             
             
-              <li>ComedyCemetery</li>
+              <li><a href="/r/comedycemetery">ComedyCemetery</a></li>
             
         
             
             
-              <li>duolingo</li>
+              <li><a href="/r/duolingo">duolingo</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>FRC</li>
+              <li><a href="/r/frc">FRC</a></li>
             
         
             
             
-              <li>AskHSteacher</li>
+              <li><a href="/r/askhsteacher">AskHSteacher</a></li>
             
         
             
             
-              <li>FellowKids</li>
+              <li><a href="/r/fellowkids">FellowKids</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

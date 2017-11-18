@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,57 +100,57 @@
         
             
             
-              <li>infj</li>
+              <li><a href="/r/infj">infj</a></li>
             
         
             
             
-              <li>ADHD</li>
+              <li><a href="/r/adhd">ADHD</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>intj</li>
+              <li><a href="/r/intj">intj</a></li>
             
         
             
             
-              <li>INTP</li>
+              <li><a href="/r/intp">INTP</a></li>
             
         
             
             
-              <li>WritingPrompts</li>
+              <li><a href="/r/writingprompts">WritingPrompts</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>entp</li>
+              <li><a href="/r/entp">entp</a></li>
             
         
             
             
-              <li>infp</li>
+              <li><a href="/r/infp">infp</a></li>
             
         
             
             
-              <li>istp</li>
+              <li><a href="/r/istp">istp</a></li>
             
         
             
@@ -178,37 +160,37 @@
         
             
             
-              <li>C25K</li>
+              <li><a href="/r/c25k">C25K</a></li>
             
         
             
             
-              <li>medical</li>
+              <li><a href="/r/medical">medical</a></li>
             
         
             
             
-              <li>motivation</li>
+              <li><a href="/r/motivation">motivation</a></li>
             
         
             
             
-              <li>anime</li>
+              <li><a href="/r/anime">anime</a></li>
             
         
             
             
-              <li>ESFP</li>
+              <li><a href="/r/esfp">ESFP</a></li>
             
         
             
             
-              <li>DecidingToBeBetter</li>
+              <li><a href="/r/decidingtobebetter">DecidingToBeBetter</a></li>
             
         
             
             
-              <li>whatisthisthing</li>
+              <li><a href="/r/whatisthisthing">whatisthisthing</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>Mushrooms</li>
+              <li><a href="/r/mushrooms">Mushrooms</a></li>
             
         
             
             
-              <li>terrariums</li>
+              <li><a href="/r/terrariums">terrariums</a></li>
             
         
             
             
-              <li>MushroomGrowers</li>
+              <li><a href="/r/mushroomgrowers">MushroomGrowers</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
@@ -143,81 +125,85 @@
         
             
             
-              <li>mildlyinteresting</li>
+              <li><a href="/r/mildlyinteresting">mildlyinteresting</a></li>
             
         
             
             
-              <li>Slimemolds</li>
+              <li><a href="/r/slimemolds">Slimemolds</a></li>
             
         
             
             
-              <li>whatisthismushroom</li>
+              <li><a href="/r/whatisthismushroom">whatisthismushroom</a></li>
             
         
             
             
-              <li>fatsquirrelhate</li>
+              <li><a href="/r/fatsquirrelhate">fatsquirrelhate</a></li>
             
         
             
             
-              <li>KotakuInAction</li>
+              <li><a href="/r/kotakuinaction">KotakuInAction</a></li>
             
         
             
             
-              <li>iamverysmart</li>
+              <li><a href="/r/iamverysmart">iamverysmart</a></li>
             
         
             
             
-              <li>Awwducational</li>
+              <li><a href="/r/awwducational">Awwducational</a></li>
             
         
             
             
-              <li>species</li>
+              <li><a href="/r/species">species</a></li>
             
         
             
             
-              <li>KitchenConfidential</li>
+              <li><a href="/r/kitchenconfidential">KitchenConfidential</a></li>
             
         
             
             
-              <li>whatisthisthing</li>
+              <li><a href="/r/whatisthisthing">whatisthisthing</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>food</li>
+              <li><a href="/r/food">food</a></li>
             
         
             
             
-              <li>ShroomID</li>
+              <li><a href="/r/shroomid">ShroomID</a></li>
             
         
             
             
-              <li>Bonsai</li>
+              <li><a href="/r/bonsai">Bonsai</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

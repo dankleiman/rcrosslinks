@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,77 +100,77 @@
         
             
             
-              <li>keto</li>
+              <li><a href="/r/keto">keto</a></li>
             
         
             
             
-              <li>GifRecipes</li>
+              <li><a href="/r/gifrecipes">GifRecipes</a></li>
             
         
             
             
-              <li>sousvide</li>
+              <li><a href="/r/sousvide">sousvide</a></li>
             
         
             
             
-              <li>1200isplentyketo</li>
+              <li><a href="/r/1200isplentyketo">1200isplentyketo</a></li>
             
         
             
             
-              <li>ketogains</li>
+              <li><a href="/r/ketogains">ketogains</a></li>
             
         
             
             
-              <li>ketodrunk</li>
+              <li><a href="/r/ketodrunk">ketodrunk</a></li>
             
         
             
             
-              <li>food</li>
+              <li><a href="/r/food">food</a></li>
             
         
             
             
-              <li>grilledcheese</li>
+              <li><a href="/r/grilledcheese">grilledcheese</a></li>
             
         
             
             
-              <li>xxketo</li>
+              <li><a href="/r/xxketo">xxketo</a></li>
             
         
             
             
-              <li>HailCorporate</li>
+              <li><a href="/r/hailcorporate">HailCorporate</a></li>
             
         
             
             
-              <li>GifRecipesKeto</li>
+              <li><a href="/r/gifrecipesketo">GifRecipesKeto</a></li>
             
         
             
             
-              <li>PressureCooking</li>
+              <li><a href="/r/pressurecooking">PressureCooking</a></li>
             
         
             
             
-              <li>FrugalKeto</li>
+              <li><a href="/r/frugalketo">FrugalKeto</a></li>
             
         
             
             
-              <li>1200isplenty</li>
+              <li><a href="/r/1200isplenty">1200isplenty</a></li>
             
         
             
             
-              <li>announcements</li>
+              <li><a href="/r/announcements">announcements</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>nocontext</li>
+              <li><a href="/r/nocontext">nocontext</a></li>
             
         
             
             
-              <li>EatCheapAndHealthy</li>
+              <li><a href="/r/eatcheapandhealthy">EatCheapAndHealthy</a></li>
             
         
             
             
-              <li>underpopular</li>
+              <li><a href="/r/underpopular">underpopular</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

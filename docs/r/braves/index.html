@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>reddit_stream</li>
+              <li><a href="/r/reddit_stream">reddit_stream</a></li>
             
         
             
             
-              <li>BravesGIFs</li>
+              <li><a href="/r/bravesgifs">BravesGIFs</a></li>
             
         
             
@@ -133,42 +115,42 @@
         
             
             
-              <li>MLBStreams</li>
+              <li><a href="/r/mlbstreams">MLBStreams</a></li>
             
         
             
             
-              <li>NewYorkMets</li>
+              <li><a href="/r/newyorkmets">NewYorkMets</a></li>
             
         
             
             
-              <li>Nationals</li>
+              <li><a href="/r/nationals">Nationals</a></li>
             
         
             
             
-              <li>NationalsGIFs</li>
+              <li><a href="/r/nationalsgifs">NationalsGIFs</a></li>
             
         
             
             
-              <li>Atlanta</li>
+              <li><a href="/r/atlanta">Atlanta</a></li>
             
         
             
             
-              <li>falcons</li>
+              <li><a href="/r/falcons">falcons</a></li>
             
         
             
             
-              <li>orioles</li>
+              <li><a href="/r/orioles">orioles</a></li>
             
         
             
             
-              <li>nfl</li>
+              <li><a href="/r/nfl">nfl</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>Cardinals</li>
+              <li><a href="/r/cardinals">Cardinals</a></li>
             
         
             
             
-              <li>phillies</li>
+              <li><a href="/r/phillies">phillies</a></li>
             
         
             
             
-              <li>GreenBayPackers</li>
+              <li><a href="/r/greenbaypackers">GreenBayPackers</a></li>
             
         
             
             
-              <li>BIRDTEAMS</li>
+              <li><a href="/r/birdteams">BIRDTEAMS</a></li>
             
         
             
             
-              <li>EditingAndLayout</li>
+              <li><a href="/r/editingandlayout">EditingAndLayout</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>UnexpectedHamilton</li>
+              <li><a href="/r/unexpectedhamilton">UnexpectedHamilton</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

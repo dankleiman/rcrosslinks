@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>musictheory</li>
+              <li><a href="/r/musictheory">musictheory</a></li>
             
         
             
             
-              <li>guitarpedals</li>
+              <li><a href="/r/guitarpedals">guitarpedals</a></li>
             
         
             
             
-              <li>Luthier</li>
+              <li><a href="/r/luthier">Luthier</a></li>
             
         
             
             
-              <li>guitarcirclejerk</li>
+              <li><a href="/r/guitarcirclejerk">guitarcirclejerk</a></li>
             
         
             
             
-              <li>guitars</li>
+              <li><a href="/r/guitars">guitars</a></li>
             
         
             
             
-              <li>Leftyguitarists</li>
+              <li><a href="/r/leftyguitarists">Leftyguitarists</a></li>
             
         
             
             
-              <li>diypedals</li>
+              <li><a href="/r/diypedals">diypedals</a></li>
             
         
             
             
-              <li>Bass</li>
+              <li><a href="/r/bass">Bass</a></li>
             
         
             
             
-              <li>guitarlessons</li>
+              <li><a href="/r/guitarlessons">guitarlessons</a></li>
             
         
             
             
-              <li>Gear4Sale</li>
+              <li><a href="/r/gear4sale">Gear4Sale</a></li>
             
         
             
             
-              <li>rocksmith</li>
+              <li><a href="/r/rocksmith">rocksmith</a></li>
             
         
             
             
-              <li>guitarporn</li>
+              <li><a href="/r/guitarporn">guitarporn</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>metalguitar</li>
+              <li><a href="/r/metalguitar">metalguitar</a></li>
             
         
             
             
-              <li>WeAreTheMusicMakers</li>
+              <li><a href="/r/wearethemusicmakers">WeAreTheMusicMakers</a></li>
             
         
             
             
-              <li>offset</li>
+              <li><a href="/r/offset">offset</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>jazzguitar</li>
+              <li><a href="/r/jazzguitar">jazzguitar</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

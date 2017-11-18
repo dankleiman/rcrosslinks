@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -133,22 +115,22 @@
         
             
             
-              <li>Scholar</li>
+              <li><a href="/r/scholar">Scholar</a></li>
             
         
             
             
-              <li>underwaterphotography</li>
+              <li><a href="/r/underwaterphotography">underwaterphotography</a></li>
             
         
             
             
-              <li>KeyWest</li>
+              <li><a href="/r/keywest">KeyWest</a></li>
             
         
             
             
-              <li>TheDerpsBelow</li>
+              <li><a href="/r/thederpsbelow">TheDerpsBelow</a></li>
             
         
             
@@ -158,12 +140,12 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>comics</li>
+              <li><a href="/r/comics">comics</a></li>
             
         
             
@@ -173,27 +155,27 @@
         
             
             
-              <li>SneakyBackgroundFeet</li>
+              <li><a href="/r/sneakybackgroundfeet">SneakyBackgroundFeet</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>natureismetal</li>
+              <li><a href="/r/natureismetal">natureismetal</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>CatastrophicFailure</li>
+              <li><a href="/r/catastrophicfailure">CatastrophicFailure</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

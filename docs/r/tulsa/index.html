@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>oklahoma</li>
+              <li><a href="/r/oklahoma">oklahoma</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
@@ -138,86 +120,90 @@
         
             
             
-              <li>cordcutters</li>
+              <li><a href="/r/cordcutters">cordcutters</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>UpliftingNews</li>
+              <li><a href="/r/upliftingnews">UpliftingNews</a></li>
             
         
             
             
-              <li>Cooking</li>
+              <li><a href="/r/cooking">Cooking</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>Portland</li>
+              <li><a href="/r/portland">Portland</a></li>
             
         
             
             
-              <li>shittylegaladvice</li>
+              <li><a href="/r/shittylegaladvice">shittylegaladvice</a></li>
             
         
             
             
-              <li>uverse</li>
+              <li><a href="/r/uverse">uverse</a></li>
             
         
             
             
-              <li>sex</li>
+              <li><a href="/r/sex">sex</a></li>
             
         
             
             
-              <li>DarkNetMarkets</li>
+              <li><a href="/r/darknetmarkets">DarkNetMarkets</a></li>
             
         
             
             
-              <li>vexillology</li>
+              <li><a href="/r/vexillology">vexillology</a></li>
             
         
             
             
-              <li>KeepOurNetFree</li>
+              <li><a href="/r/keepournetfree">KeepOurNetFree</a></li>
             
         
             
             
-              <li>movies</li>
+              <li><a href="/r/movies">movies</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
             
-              <li>technology</li>
+              <li><a href="/r/technology">technology</a></li>
             
         
             
             
-              <li>kansascity</li>
+              <li><a href="/r/kansascity">kansascity</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

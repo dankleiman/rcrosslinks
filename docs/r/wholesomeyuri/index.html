@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>awwnime</li>
+              <li><a href="/r/awwnime">awwnime</a></li>
             
         
             
             
-              <li>Pixiv</li>
+              <li><a href="/r/pixiv">Pixiv</a></li>
             
         
             
@@ -133,91 +115,95 @@
         
             
             
-              <li>pharmercy</li>
+              <li><a href="/r/pharmercy">pharmercy</a></li>
             
         
             
             
-              <li>anime</li>
+              <li><a href="/r/anime">anime</a></li>
             
         
             
             
-              <li>yuri</li>
+              <li><a href="/r/yuri">yuri</a></li>
             
         
             
             
-              <li>handholding</li>
+              <li><a href="/r/handholding">handholding</a></li>
             
         
             
             
-              <li>RWBY</li>
+              <li><a href="/r/rwby">RWBY</a></li>
             
         
             
             
-              <li>Animesuggest</li>
+              <li><a href="/r/animesuggest">Animesuggest</a></li>
             
         
             
             
-              <li>u_ena9219</li>
+              <li><a href="/r/u_ena9219">u_ena9219</a></li>
             
         
             
             
-              <li>shoujoai</li>
+              <li><a href="/r/shoujoai">shoujoai</a></li>
             
         
             
             
-              <li>animegifs</li>
+              <li><a href="/r/animegifs">animegifs</a></li>
             
         
             
             
-              <li>MutualYuri</li>
+              <li><a href="/r/mutualyuri">MutualYuri</a></li>
             
         
             
             
-              <li>stevenuniverse</li>
+              <li><a href="/r/stevenuniverse">stevenuniverse</a></li>
             
         
             
             
-              <li>shorthairedwaifus</li>
+              <li><a href="/r/shorthairedwaifus">shorthairedwaifus</a></li>
             
         
             
             
-              <li>LoveLive</li>
+              <li><a href="/r/lovelive">LoveLive</a></li>
             
         
             
             
-              <li>grandorder</li>
+              <li><a href="/r/grandorder">grandorder</a></li>
             
         
             
             
-              <li>Kyousaya</li>
+              <li><a href="/r/kyousaya">Kyousaya</a></li>
             
         
             
             
-              <li>anime_irl</li>
+              <li><a href="/r/anime_irl">anime_irl</a></li>
             
         
             
             
-              <li>Akkordian</li>
+              <li><a href="/r/akkordian">Akkordian</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

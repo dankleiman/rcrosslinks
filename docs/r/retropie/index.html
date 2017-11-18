@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>emulation</li>
+              <li><a href="/r/emulation">emulation</a></li>
             
         
             
             
-              <li>MAME</li>
+              <li><a href="/r/mame">MAME</a></li>
             
         
             
             
-              <li>cade</li>
+              <li><a href="/r/cade">cade</a></li>
             
         
             
             
-              <li>Addons4Kodi</li>
+              <li><a href="/r/addons4kodi">Addons4Kodi</a></li>
             
         
             
             
-              <li>Games</li>
+              <li><a href="/r/games">Games</a></li>
             
         
             
@@ -148,76 +130,80 @@
         
             
             
-              <li>vitahacks</li>
+              <li><a href="/r/vitahacks">vitahacks</a></li>
             
         
             
             
-              <li>DIY</li>
+              <li><a href="/r/diy">DIY</a></li>
             
         
             
             
-              <li>pihole</li>
+              <li><a href="/r/pihole">pihole</a></li>
             
         
             
             
-              <li>crtgaming</li>
+              <li><a href="/r/crtgaming">crtgaming</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>datascience</li>
+              <li><a href="/r/datascience">datascience</a></li>
             
         
             
             
-              <li>OrangePI</li>
+              <li><a href="/r/orangepi">OrangePI</a></li>
             
         
             
             
-              <li>newretrowave</li>
+              <li><a href="/r/newretrowave">newretrowave</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>PokemonROMhacks</li>
+              <li><a href="/r/pokemonromhacks">PokemonROMhacks</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>3dshacks</li>
+              <li><a href="/r/3dshacks">3dshacks</a></li>
             
         
             
             
-              <li>PSP</li>
+              <li><a href="/r/psp">PSP</a></li>
             
         
             
             
-              <li>learnprogramming</li>
+              <li><a href="/r/learnprogramming">learnprogramming</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

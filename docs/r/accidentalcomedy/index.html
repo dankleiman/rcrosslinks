@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,52 +105,52 @@
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>NotTimAndEric</li>
+              <li><a href="/r/nottimanderic">NotTimAndEric</a></li>
             
         
             
             
-              <li>dontdeadopeninside</li>
+              <li><a href="/r/dontdeadopeninside">dontdeadopeninside</a></li>
             
         
             
             
-              <li>ComedyCemetery</li>
+              <li><a href="/r/comedycemetery">ComedyCemetery</a></li>
             
         
             
             
-              <li>assholedesign</li>
+              <li><a href="/r/assholedesign">assholedesign</a></li>
             
         
             
             
-              <li>television</li>
+              <li><a href="/r/television">television</a></li>
             
         
             
             
-              <li>ContagiousLaughter</li>
+              <li><a href="/r/contagiouslaughter">ContagiousLaughter</a></li>
             
         
             
             
-              <li>Drama</li>
+              <li><a href="/r/drama">Drama</a></li>
             
         
             
             
-              <li>jesuschristreddit</li>
+              <li><a href="/r/jesuschristreddit">jesuschristreddit</a></li>
             
         
             
             
-              <li>KarmaCourt</li>
+              <li><a href="/r/karmacourt">KarmaCourt</a></li>
             
         
             
@@ -178,46 +160,50 @@
         
             
             
-              <li>hockey</li>
+              <li><a href="/r/hockey">hockey</a></li>
             
         
             
             
-              <li>juxtaposition</li>
+              <li><a href="/r/juxtaposition">juxtaposition</a></li>
             
         
             
             
-              <li>TitSlapping</li>
+              <li><a href="/r/titslapping">TitSlapping</a></li>
             
         
             
             
-              <li>notfunny</li>
+              <li><a href="/r/notfunny">notfunny</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>snooker</li>
+              <li><a href="/r/snooker">snooker</a></li>
             
         
             
             
-              <li>MemeYourEnthusiasm</li>
+              <li><a href="/r/memeyourenthusiasm">MemeYourEnthusiasm</a></li>
             
         
             
             
-              <li>h3h3productions</li>
+              <li><a href="/r/h3h3productions">h3h3productions</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

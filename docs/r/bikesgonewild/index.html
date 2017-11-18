@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>CalamariRaceTeam</li>
+              <li><a href="/r/calamariraceteam">CalamariRaceTeam</a></li>
             
         
             
             
-              <li>motorcycles</li>
+              <li><a href="/r/motorcycles">motorcycles</a></li>
             
         
             
@@ -133,27 +115,27 @@
         
             
             
-              <li>altgonewild</li>
+              <li><a href="/r/altgonewild">altgonewild</a></li>
             
         
             
             
-              <li>supermoto</li>
+              <li><a href="/r/supermoto">supermoto</a></li>
             
         
             
             
-              <li>CafeRacers</li>
+              <li><a href="/r/caferacers">CafeRacers</a></li>
             
         
             
             
-              <li>motorcyclememes</li>
+              <li><a href="/r/motorcyclememes">motorcyclememes</a></li>
             
         
             
             
-              <li>Buell</li>
+              <li><a href="/r/buell">Buell</a></li>
             
         
             
@@ -163,37 +145,37 @@
         
             
             
-              <li>HondaCB</li>
+              <li><a href="/r/hondacb">HondaCB</a></li>
             
         
             
             
-              <li>Ducati</li>
+              <li><a href="/r/ducati">Ducati</a></li>
             
         
             
             
-              <li>BMW_S1000RR</li>
+              <li><a href="/r/bmw_s1000rr">BMW_S1000RR</a></li>
             
         
             
             
-              <li>350z</li>
+              <li><a href="/r/350z">350z</a></li>
             
         
             
             
-              <li>crt</li>
+              <li><a href="/r/crt">crt</a></li>
             
         
             
             
-              <li>SVRiders</li>
+              <li><a href="/r/svriders">SVRiders</a></li>
             
         
             
             
-              <li>Harley</li>
+              <li><a href="/r/harley">Harley</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>Motorrad</li>
+              <li><a href="/r/motorrad">Motorrad</a></li>
             
         
             
             
-              <li>cycling</li>
+              <li><a href="/r/cycling">cycling</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

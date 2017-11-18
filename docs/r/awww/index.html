@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,67 +105,67 @@
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>TheseFuckingAccounts</li>
+              <li><a href="/r/thesefuckingaccounts">TheseFuckingAccounts</a></li>
             
         
             
             
-              <li>cats</li>
+              <li><a href="/r/cats">cats</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>teefies</li>
+              <li><a href="/r/teefies">teefies</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>PetBehavior</li>
+              <li><a href="/r/petbehavior">PetBehavior</a></li>
             
         
             
             
-              <li>PimpYourWifeForKarma</li>
+              <li><a href="/r/pimpyourwifeforkarma">PimpYourWifeForKarma</a></li>
             
         
             
             
-              <li>CatsInSinks</li>
+              <li><a href="/r/catsinsinks">CatsInSinks</a></li>
             
         
             
             
-              <li>PeopleFuckingDying</li>
+              <li><a href="/r/peoplefuckingdying">PeopleFuckingDying</a></li>
             
         
             
             
-              <li>ggggg</li>
+              <li><a href="/r/ggggg">ggggg</a></li>
             
         
             
             
-              <li>dogpictures</li>
+              <li><a href="/r/dogpictures">dogpictures</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
@@ -193,11 +175,15 @@
         
             
             
-              <li>Blep</li>
+              <li><a href="/r/blep">Blep</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

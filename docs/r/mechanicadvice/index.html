@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,47 +100,47 @@
         
             
             
-              <li>Justrolledintotheshop</li>
+              <li><a href="/r/justrolledintotheshop">Justrolledintotheshop</a></li>
             
         
             
             
-              <li>Cartalk</li>
+              <li><a href="/r/cartalk">Cartalk</a></li>
             
         
             
             
-              <li>Trucks</li>
+              <li><a href="/r/trucks">Trucks</a></li>
             
         
             
             
-              <li>CarAV</li>
+              <li><a href="/r/carav">CarAV</a></li>
             
         
             
             
-              <li>AutoDetailing</li>
+              <li><a href="/r/autodetailing">AutoDetailing</a></li>
             
         
             
             
-              <li>AskMechanics</li>
+              <li><a href="/r/askmechanics">AskMechanics</a></li>
             
         
             
             
-              <li>Diesel</li>
+              <li><a href="/r/diesel">Diesel</a></li>
             
         
             
             
-              <li>askscience</li>
+              <li><a href="/r/askscience">askscience</a></li>
             
         
             
             
-              <li>BMW</li>
+              <li><a href="/r/bmw">BMW</a></li>
             
         
             
@@ -168,42 +150,42 @@
         
             
             
-              <li>cars</li>
+              <li><a href="/r/cars">cars</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>Audi</li>
+              <li><a href="/r/audi">Audi</a></li>
             
         
             
             
-              <li>AskEngineers</li>
+              <li><a href="/r/askengineers">AskEngineers</a></li>
             
         
             
             
-              <li>fordranger</li>
+              <li><a href="/r/fordranger">fordranger</a></li>
             
         
             
             
-              <li>Bandnames</li>
+              <li><a href="/r/bandnames">Bandnames</a></li>
             
         
             
             
-              <li>TwoRedditorsOneCup</li>
+              <li><a href="/r/tworedditorsonecup">TwoRedditorsOneCup</a></li>
             
         
             
             
-              <li>namethatcar</li>
+              <li><a href="/r/namethatcar">namethatcar</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>audiophile</li>
+              <li><a href="/r/audiophile">audiophile</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,101 +105,105 @@
         
             
             
-              <li>investing</li>
+              <li><a href="/r/investing">investing</a></li>
             
         
             
             
-              <li>stocks</li>
+              <li><a href="/r/stocks">stocks</a></li>
             
         
             
             
-              <li>LateStageCapitalism</li>
+              <li><a href="/r/latestagecapitalism">LateStageCapitalism</a></li>
             
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>AMD_Stock</li>
+              <li><a href="/r/amd_stock">AMD_Stock</a></li>
             
         
             
             
-              <li>Amd</li>
+              <li><a href="/r/amd">Amd</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>options</li>
+              <li><a href="/r/options">options</a></li>
             
         
             
             
-              <li>REEEEEEEEEE</li>
+              <li><a href="/r/reeeeeeeeee">REEEEEEEEEE</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>fscomeau</li>
+              <li><a href="/r/fscomeau">fscomeau</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>Drama</li>
+              <li><a href="/r/drama">Drama</a></li>
             
         
             
             
-              <li>zeronet</li>
+              <li><a href="/r/zeronet">zeronet</a></li>
             
         
             
             
-              <li>weedstocks</li>
+              <li><a href="/r/weedstocks">weedstocks</a></li>
             
         
             
             
-              <li>tradeXIV</li>
+              <li><a href="/r/tradexiv">tradeXIV</a></li>
             
         
             
             
-              <li>AMAAggregator</li>
+              <li><a href="/r/amaaggregator">AMAAggregator</a></li>
             
         
             
             
-              <li>Stock_Picks</li>
+              <li><a href="/r/stock_picks">Stock_Picks</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

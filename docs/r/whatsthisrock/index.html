@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,62 +100,62 @@
         
             
             
-              <li>fossilid</li>
+              <li><a href="/r/fossilid">fossilid</a></li>
             
         
             
             
-              <li>rockhounds</li>
+              <li><a href="/r/rockhounds">rockhounds</a></li>
             
         
             
             
-              <li>geology</li>
+              <li><a href="/r/geology">geology</a></li>
             
         
             
             
-              <li>whatisthisthing</li>
+              <li><a href="/r/whatisthisthing">whatisthisthing</a></li>
             
         
             
             
-              <li>Arrowheads</li>
+              <li><a href="/r/arrowheads">Arrowheads</a></li>
             
         
             
             
-              <li>MineralPorn</li>
+              <li><a href="/r/mineralporn">MineralPorn</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>meteorites</li>
+              <li><a href="/r/meteorites">meteorites</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>Minerals</li>
+              <li><a href="/r/minerals">Minerals</a></li>
             
         
             
             
-              <li>Archeology</li>
+              <li><a href="/r/archeology">Archeology</a></li>
             
         
             
             
-              <li>90sdesign</li>
+              <li><a href="/r/90sdesign">90sdesign</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>itsslag</li>
+              <li><a href="/r/itsslag">itsslag</a></li>
             
         
             
             
-              <li>spam</li>
+              <li><a href="/r/spam">spam</a></li>
             
         
             
             
-              <li>Lapidary</li>
+              <li><a href="/r/lapidary">Lapidary</a></li>
             
         
             
             
-              <li>casualiama</li>
+              <li><a href="/r/casualiama">casualiama</a></li>
             
         
             
             
-              <li>Crystals</li>
+              <li><a href="/r/crystals">Crystals</a></li>
             
         
             
             
-              <li>Breadit</li>
+              <li><a href="/r/breadit">Breadit</a></li>
             
         
             
             
-              <li>Whatisthis</li>
+              <li><a href="/r/whatisthis">Whatisthis</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

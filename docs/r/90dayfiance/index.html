@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,12 +105,12 @@
         
             
             
-              <li>AMAAggregator</li>
+              <li><a href="/r/amaaggregator">AMAAggregator</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
@@ -138,86 +120,90 @@
         
             
             
-              <li>JUSTNOMIL</li>
+              <li><a href="/r/justnomil">JUSTNOMIL</a></li>
             
         
             
             
-              <li>LongDistance</li>
+              <li><a href="/r/longdistance">LongDistance</a></li>
             
         
             
             
-              <li>Floof</li>
+              <li><a href="/r/floof">Floof</a></li>
             
         
             
             
-              <li>usedpanties</li>
+              <li><a href="/r/usedpanties">usedpanties</a></li>
             
         
             
             
-              <li>incest_relationships</li>
+              <li><a href="/r/incest_relationships">incest_relationships</a></li>
             
         
             
             
-              <li>ConfusedBoners</li>
+              <li><a href="/r/confusedboners">ConfusedBoners</a></li>
             
         
             
             
-              <li>TheRedPill</li>
+              <li><a href="/r/theredpill">TheRedPill</a></li>
             
         
             
             
-              <li>Suomi</li>
+              <li><a href="/r/suomi">Suomi</a></li>
             
         
             
             
-              <li>MGTOW</li>
+              <li><a href="/r/mgtow">MGTOW</a></li>
             
         
             
             
-              <li>Divorce</li>
+              <li><a href="/r/divorce">Divorce</a></li>
             
         
             
             
-              <li>BravoRealHousewives</li>
+              <li><a href="/r/bravorealhousewives">BravoRealHousewives</a></li>
             
         
             
             
-              <li>Thailand</li>
+              <li><a href="/r/thailand">Thailand</a></li>
             
         
             
             
-              <li>PokemonGoLouisville</li>
+              <li><a href="/r/pokemongolouisville">PokemonGoLouisville</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>weddingplanning</li>
+              <li><a href="/r/weddingplanning">weddingplanning</a></li>
             
         
             
             
-              <li>teenmom</li>
+              <li><a href="/r/teenmom">teenmom</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

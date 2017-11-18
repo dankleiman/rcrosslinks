@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>CryptoCurrency</li>
+              <li><a href="/r/cryptocurrency">CryptoCurrency</a></li>
             
         
             
@@ -128,17 +110,17 @@
         
             
             
-              <li>ethtrader</li>
+              <li><a href="/r/ethtrader">ethtrader</a></li>
             
         
             
             
-              <li>ethereum</li>
+              <li><a href="/r/ethereum">ethereum</a></li>
             
         
             
             
-              <li>vertcoin</li>
+              <li><a href="/r/vertcoin">vertcoin</a></li>
             
         
             
@@ -148,17 +130,17 @@
         
             
             
-              <li>ethereumfraud</li>
+              <li><a href="/r/ethereumfraud">ethereumfraud</a></li>
             
         
             
             
-              <li>ByteBall</li>
+              <li><a href="/r/byteball">ByteBall</a></li>
             
         
             
             
-              <li>BytecoinBCN</li>
+              <li><a href="/r/bytecoinbcn">BytecoinBCN</a></li>
             
         
             
@@ -168,47 +150,47 @@
         
             
             
-              <li>AMAAggregator</li>
+              <li><a href="/r/amaaggregator">AMAAggregator</a></li>
             
         
             
             
-              <li>dogecoin</li>
+              <li><a href="/r/dogecoin">dogecoin</a></li>
             
         
             
             
-              <li>Adel</li>
+              <li><a href="/r/adel">Adel</a></li>
             
         
             
             
-              <li>officialpesetacoin</li>
+              <li><a href="/r/officialpesetacoin">officialpesetacoin</a></li>
             
         
             
             
-              <li>CryptoMarkets</li>
+              <li><a href="/r/cryptomarkets">CryptoMarkets</a></li>
             
         
             
             
-              <li>Signatum</li>
+              <li><a href="/r/signatum">Signatum</a></li>
             
         
             
             
-              <li>AirToken</li>
+              <li><a href="/r/airtoken">AirToken</a></li>
             
         
             
             
-              <li>elixirtoken</li>
+              <li><a href="/r/elixirtoken">elixirtoken</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

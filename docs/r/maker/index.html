@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>Wandsmith</li>
+              <li><a href="/r/wandsmith">Wandsmith</a></li>
             
         
             
             
-              <li>3Dprinting</li>
+              <li><a href="/r/3dprinting">3Dprinting</a></li>
             
         
             
             
-              <li>lockpicking</li>
+              <li><a href="/r/lockpicking">lockpicking</a></li>
             
         
             
             
-              <li>woodworking</li>
+              <li><a href="/r/woodworking">woodworking</a></li>
             
         
             
@@ -143,51 +125,55 @@
         
             
             
-              <li>somethingimade</li>
+              <li><a href="/r/somethingimade">somethingimade</a></li>
             
         
             
             
-              <li>simracing</li>
+              <li><a href="/r/simracing">simracing</a></li>
             
         
             
             
-              <li>pcmods</li>
+              <li><a href="/r/pcmods">pcmods</a></li>
             
         
             
             
-              <li>Ask3D</li>
+              <li><a href="/r/ask3d">Ask3D</a></li>
             
         
             
             
-              <li>tested</li>
+              <li><a href="/r/tested">tested</a></li>
             
         
             
             
-              <li>DiWHY</li>
+              <li><a href="/r/diwhy">DiWHY</a></li>
             
         
             
             
-              <li>mallninja</li>
+              <li><a href="/r/mallninja">mallninja</a></li>
             
         
             
             
-              <li>SpaceBuckets</li>
+              <li><a href="/r/spacebuckets">SpaceBuckets</a></li>
             
         
             
             
-              <li>musicvideo</li>
+              <li><a href="/r/musicvideo">musicvideo</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

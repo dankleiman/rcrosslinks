@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>3DScanning</li>
+              <li><a href="/r/3dscanning">3DScanning</a></li>
             
         
             
             
-              <li>functionalprint</li>
+              <li><a href="/r/functionalprint">functionalprint</a></li>
             
         
             
@@ -138,47 +120,47 @@
         
             
             
-              <li>Maya</li>
+              <li><a href="/r/maya">Maya</a></li>
             
         
             
             
-              <li>delusionalartists</li>
+              <li><a href="/r/delusionalartists">delusionalartists</a></li>
             
         
             
             
-              <li>mildlypenis</li>
+              <li><a href="/r/mildlypenis">mildlypenis</a></li>
             
         
             
             
-              <li>ArtBuddy</li>
+              <li><a href="/r/artbuddy">ArtBuddy</a></li>
             
         
             
             
-              <li>gameDevClassifieds</li>
+              <li><a href="/r/gamedevclassifieds">gameDevClassifieds</a></li>
             
         
             
             
-              <li>oculus_medium</li>
+              <li><a href="/r/oculus_medium">oculus_medium</a></li>
             
         
             
             
-              <li>computergraphics</li>
+              <li><a href="/r/computergraphics">computergraphics</a></li>
             
         
             
             
-              <li>Houdini</li>
+              <li><a href="/r/houdini">Houdini</a></li>
             
         
             
             
-              <li>3DMA</li>
+              <li><a href="/r/3dma">3DMA</a></li>
             
         
             
@@ -188,36 +170,40 @@
         
             
             
-              <li>Cinema4D</li>
+              <li><a href="/r/cinema4d">Cinema4D</a></li>
             
         
             
             
-              <li>low_poly</li>
+              <li><a href="/r/low_poly">low_poly</a></li>
             
         
             
             
-              <li>photogrammetry</li>
+              <li><a href="/r/photogrammetry">photogrammetry</a></li>
             
         
             
             
-              <li>xdfp</li>
+              <li><a href="/r/xdfp">xdfp</a></li>
             
         
             
             
-              <li>Amd</li>
+              <li><a href="/r/amd">Amd</a></li>
             
         
             
             
-              <li>unrealengine</li>
+              <li><a href="/r/unrealengine">unrealengine</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

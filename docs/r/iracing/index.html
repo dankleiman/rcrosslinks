@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>RiL</li>
+              <li><a href="/r/ril">RiL</a></li>
             
         
             
             
-              <li>simracing</li>
+              <li><a href="/r/simracing">simracing</a></li>
             
         
             
@@ -133,7 +115,7 @@
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
@@ -143,51 +125,55 @@
         
             
             
-              <li>assettocorsa</li>
+              <li><a href="/r/assettocorsa">assettocorsa</a></li>
             
         
             
             
-              <li>unexpectedjihad</li>
+              <li><a href="/r/unexpectedjihad">unexpectedjihad</a></li>
             
         
             
             
-              <li>INDYCAR</li>
+              <li><a href="/r/indycar">INDYCAR</a></li>
             
         
             
             
-              <li>dirtgame</li>
+              <li><a href="/r/dirtgame">dirtgame</a></li>
             
         
             
             
-              <li>DestinyTheGame</li>
+              <li><a href="/r/destinythegame">DestinyTheGame</a></li>
             
         
             
             
-              <li>racing</li>
+              <li><a href="/r/racing">racing</a></li>
             
         
             
             
-              <li>vmware</li>
+              <li><a href="/r/vmware">vmware</a></li>
             
         
             
             
-              <li>CatastrophicFailure</li>
+              <li><a href="/r/catastrophicfailure">CatastrophicFailure</a></li>
             
         
             
             
-              <li>StreetOutlaws</li>
+              <li><a href="/r/streetoutlaws">StreetOutlaws</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

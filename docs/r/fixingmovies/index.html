@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>movies</li>
+              <li><a href="/r/movies">movies</a></li>
             
         
             
             
-              <li>RewritingTheDCEU</li>
+              <li><a href="/r/rewritingthedceu">RewritingTheDCEU</a></li>
             
         
             
@@ -133,17 +115,17 @@
         
             
             
-              <li>StarWars</li>
+              <li><a href="/r/starwars">StarWars</a></li>
             
         
             
             
-              <li>onetruegod</li>
+              <li><a href="/r/onetruegod">onetruegod</a></li>
             
         
             
             
-              <li>furry_irl</li>
+              <li><a href="/r/furry_irl">furry_irl</a></li>
             
         
             
@@ -153,71 +135,75 @@
         
             
             
-              <li>Screenwriting</li>
+              <li><a href="/r/screenwriting">Screenwriting</a></li>
             
         
             
             
-              <li>hapas</li>
+              <li><a href="/r/hapas">hapas</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
             
-              <li>deathnote</li>
+              <li><a href="/r/deathnote">deathnote</a></li>
             
         
             
             
-              <li>TrueFilm</li>
+              <li><a href="/r/truefilm">TrueFilm</a></li>
             
         
             
             
-              <li>roguelikes</li>
+              <li><a href="/r/roguelikes">roguelikes</a></li>
             
         
             
             
-              <li>SAVEBRENDAN</li>
+              <li><a href="/r/savebrendan">SAVEBRENDAN</a></li>
             
         
             
             
-              <li>AskScienceFiction</li>
+              <li><a href="/r/asksciencefiction">AskScienceFiction</a></li>
             
         
             
             
-              <li>teslore</li>
+              <li><a href="/r/teslore">teslore</a></li>
             
         
             
             
-              <li>lotr</li>
+              <li><a href="/r/lotr">lotr</a></li>
             
         
             
             
-              <li>fo4</li>
+              <li><a href="/r/fo4">fo4</a></li>
             
         
             
             
-              <li>Naruto</li>
+              <li><a href="/r/naruto">Naruto</a></li>
             
         
             
             
-              <li>PrequelMemes</li>
+              <li><a href="/r/prequelmemes">PrequelMemes</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

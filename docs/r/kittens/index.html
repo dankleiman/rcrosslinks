@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,47 +105,47 @@
         
             
             
-              <li>cats</li>
+              <li><a href="/r/cats">cats</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>torties</li>
+              <li><a href="/r/torties">torties</a></li>
             
         
             
             
-              <li>StartledCats</li>
+              <li><a href="/r/startledcats">StartledCats</a></li>
             
         
             
             
-              <li>Floof</li>
+              <li><a href="/r/floof">Floof</a></li>
             
         
             
             
-              <li>thecatdimension</li>
+              <li><a href="/r/thecatdimension">thecatdimension</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>CatsNamedToothless</li>
+              <li><a href="/r/catsnamedtoothless">CatsNamedToothless</a></li>
             
         
             
             
-              <li>PeanutWhiskers</li>
+              <li><a href="/r/peanutwhiskers">PeanutWhiskers</a></li>
             
         
             
@@ -173,26 +155,30 @@
         
             
             
-              <li>cat</li>
+              <li><a href="/r/cat">cat</a></li>
             
         
             
             
-              <li>Siamesecats</li>
+              <li><a href="/r/siamesecats">Siamesecats</a></li>
             
         
             
             
-              <li>PointyTailedKittens</li>
+              <li><a href="/r/pointytailedkittens">PointyTailedKittens</a></li>
             
         
             
             
-              <li>shouldercats</li>
+              <li><a href="/r/shouldercats">shouldercats</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

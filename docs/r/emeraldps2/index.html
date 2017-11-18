@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>Planetside</li>
+              <li><a href="/r/planetside">Planetside</a></li>
             
         
             
             
-              <li>MillerPlanetside</li>
+              <li><a href="/r/millerplanetside">MillerPlanetside</a></li>
             
         
             
@@ -133,27 +115,27 @@
         
             
             
-              <li>Battlefield</li>
+              <li><a href="/r/battlefield">Battlefield</a></li>
             
         
             
             
-              <li>ps2ragetells</li>
+              <li><a href="/r/ps2ragetells">ps2ragetells</a></li>
             
         
             
             
-              <li>Connery</li>
+              <li><a href="/r/connery">Connery</a></li>
             
         
             
             
-              <li>REEEEEEEEEE</li>
+              <li><a href="/r/reeeeeeeeee">REEEEEEEEEE</a></li>
             
         
             
             
-              <li>tifu</li>
+              <li><a href="/r/tifu">tifu</a></li>
             
         
             
@@ -163,61 +145,65 @@
         
             
             
-              <li>ButtSharpies</li>
+              <li><a href="/r/buttsharpies">ButtSharpies</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>Briggs</li>
+              <li><a href="/r/briggs">Briggs</a></li>
             
         
             
             
-              <li>planetsidearmor</li>
+              <li><a href="/r/planetsidearmor">planetsidearmor</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>WTF</li>
+              <li><a href="/r/wtf">WTF</a></li>
             
         
             
             
-              <li>Planetmens</li>
+              <li><a href="/r/planetmens">Planetmens</a></li>
             
         
             
             
-              <li>GoneWildTrans</li>
+              <li><a href="/r/gonewildtrans">GoneWildTrans</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>fakehistoryporn</li>
+              <li><a href="/r/fakehistoryporn">fakehistoryporn</a></li>
             
         
             
             
-              <li>gamingsuggestions</li>
+              <li><a href="/r/gamingsuggestions">gamingsuggestions</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

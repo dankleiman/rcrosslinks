@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>Jokes</li>
+              <li><a href="/r/jokes">Jokes</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Punny</li>
+              <li><a href="/r/punny">Punny</a></li>
             
         
             
             
-              <li>jesuschristreddit</li>
+              <li><a href="/r/jesuschristreddit">jesuschristreddit</a></li>
             
         
             
             
-              <li>BestOfReports</li>
+              <li><a href="/r/bestofreports">BestOfReports</a></li>
             
         
             
             
-              <li>BrasilOnReddit</li>
+              <li><a href="/r/brasilonreddit">BrasilOnReddit</a></li>
             
         
             
             
-              <li>excgarated</li>
+              <li><a href="/r/excgarated">excgarated</a></li>
             
         
             
@@ -158,66 +140,70 @@
         
             
             
-              <li>phonewallpapers</li>
+              <li><a href="/r/phonewallpapers">phonewallpapers</a></li>
             
         
             
             
-              <li>ImGoingToHellForThis</li>
+              <li><a href="/r/imgoingtohellforthis">ImGoingToHellForThis</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>ich_iel</li>
+              <li><a href="/r/ich_iel">ich_iel</a></li>
             
         
             
             
-              <li>TwoXChromosomes</li>
+              <li><a href="/r/twoxchromosomes">TwoXChromosomes</a></li>
             
         
             
             
-              <li>CheeseandRiceReddit</li>
+              <li><a href="/r/cheeseandricereddit">CheeseandRiceReddit</a></li>
             
         
             
             
-              <li>TooMeIrlForMeIrl</li>
+              <li><a href="/r/toomeirlformeirl">TooMeIrlForMeIrl</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>DirtyJokes</li>
+              <li><a href="/r/dirtyjokes">DirtyJokes</a></li>
             
         
             
             
-              <li>Showerthoughts</li>
+              <li><a href="/r/showerthoughts">Showerthoughts</a></li>
             
         
             
             
-              <li>darkjokes</li>
+              <li><a href="/r/darkjokes">darkjokes</a></li>
             
         
             
             
-              <li>facts</li>
+              <li><a href="/r/facts">facts</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

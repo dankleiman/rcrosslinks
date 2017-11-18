@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>PS4Planetside2</li>
+              <li><a href="/r/ps4planetside2">PS4Planetside2</a></li>
             
         
             
             
-              <li>MillerPlanetside</li>
+              <li><a href="/r/millerplanetside">MillerPlanetside</a></li>
             
         
             
             
-              <li>EmeraldPS2</li>
+              <li><a href="/r/emeraldps2">EmeraldPS2</a></li>
             
         
             
             
-              <li>Briggs</li>
+              <li><a href="/r/briggs">Briggs</a></li>
             
         
             
             
-              <li>DBGpatchnotes</li>
+              <li><a href="/r/dbgpatchnotes">DBGpatchnotes</a></li>
             
         
             
             
-              <li>harasser</li>
+              <li><a href="/r/harasser">harasser</a></li>
             
         
             
@@ -153,57 +135,57 @@
         
             
             
-              <li>Connery</li>
+              <li><a href="/r/connery">Connery</a></li>
             
         
             
             
-              <li>planetsidearmor</li>
+              <li><a href="/r/planetsidearmor">planetsidearmor</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>kotk</li>
+              <li><a href="/r/kotk">kotk</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>h1z1</li>
+              <li><a href="/r/h1z1">h1z1</a></li>
             
         
             
             
-              <li>ps2ragetells</li>
+              <li><a href="/r/ps2ragetells">ps2ragetells</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>EncyclopaediaAuraxia</li>
+              <li><a href="/r/encyclopaediaauraxia">EncyclopaediaAuraxia</a></li>
             
         
             
             
-              <li>Planetmens</li>
+              <li><a href="/r/planetmens">Planetmens</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

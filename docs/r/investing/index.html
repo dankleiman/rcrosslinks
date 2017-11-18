@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
             
-              <li>Bitcoin</li>
+              <li><a href="/r/bitcoin">Bitcoin</a></li>
             
         
             
             
-              <li>InvestingCJ</li>
+              <li><a href="/r/investingcj">InvestingCJ</a></li>
             
         
             
             
-              <li>financialindependence</li>
+              <li><a href="/r/financialindependence">financialindependence</a></li>
             
         
             
             
-              <li>StockMarket</li>
+              <li><a href="/r/stockmarket">StockMarket</a></li>
             
         
             
             
-              <li>stockaday</li>
+              <li><a href="/r/stockaday">stockaday</a></li>
             
         
             
             
-              <li>stocks</li>
+              <li><a href="/r/stocks">stocks</a></li>
             
         
             
             
-              <li>ethtrader</li>
+              <li><a href="/r/ethtrader">ethtrader</a></li>
             
         
             
             
-              <li>weedstocks</li>
+              <li><a href="/r/weedstocks">weedstocks</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>CryptoCurrency</li>
+              <li><a href="/r/cryptocurrency">CryptoCurrency</a></li>
             
         
             
             
-              <li>ethereum</li>
+              <li><a href="/r/ethereum">ethereum</a></li>
             
         
             
             
-              <li>options</li>
+              <li><a href="/r/options">options</a></li>
             
         
             
             
-              <li>teslamotors</li>
+              <li><a href="/r/teslamotors">teslamotors</a></li>
             
         
             
             
-              <li>explainlikeimfive</li>
+              <li><a href="/r/explainlikeimfive">explainlikeimfive</a></li>
             
         
             
             
-              <li>Futurology</li>
+              <li><a href="/r/futurology">Futurology</a></li>
             
         
             
             
-              <li>technology</li>
+              <li><a href="/r/technology">technology</a></li>
             
         
             
             
-              <li>SecurityAnalysis</li>
+              <li><a href="/r/securityanalysis">SecurityAnalysis</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>Forex</li>
+              <li><a href="/r/forex">Forex</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>California</li>
+              <li><a href="/r/california">California</a></li>
             
         
             
             
-              <li>vandwellers</li>
+              <li><a href="/r/vandwellers">vandwellers</a></li>
             
         
             
             
-              <li>yellowstone</li>
+              <li><a href="/r/yellowstone">yellowstone</a></li>
             
         
             
             
-              <li>MapPorn</li>
+              <li><a href="/r/mapporn">MapPorn</a></li>
             
         
             
             
-              <li>askportland</li>
+              <li><a href="/r/askportland">askportland</a></li>
             
         
             
@@ -148,27 +130,27 @@
         
             
             
-              <li>overland</li>
+              <li><a href="/r/overland">overland</a></li>
             
         
             
             
-              <li>rva</li>
+              <li><a href="/r/rva">rva</a></li>
             
         
             
             
-              <li>Mommit</li>
+              <li><a href="/r/mommit">Mommit</a></li>
             
         
             
             
-              <li>Yosemite</li>
+              <li><a href="/r/yosemite">Yosemite</a></li>
             
         
             
             
-              <li>RBI</li>
+              <li><a href="/r/rbi">RBI</a></li>
             
         
             
@@ -178,27 +160,27 @@
         
             
             
-              <li>Amtrak</li>
+              <li><a href="/r/amtrak">Amtrak</a></li>
             
         
             
             
-              <li>glacier</li>
+              <li><a href="/r/glacier">glacier</a></li>
             
         
             
             
-              <li>teslamotors</li>
+              <li><a href="/r/teslamotors">teslamotors</a></li>
             
         
             
             
-              <li>houston</li>
+              <li><a href="/r/houston">houston</a></li>
             
         
             
             
-              <li>CampfireCooking</li>
+              <li><a href="/r/campfirecooking">CampfireCooking</a></li>
             
         
             
@@ -208,11 +190,15 @@
         
             
             
-              <li>solareclipse</li>
+              <li><a href="/r/solareclipse">solareclipse</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,42 +100,42 @@
         
             
             
-              <li>learnprogramming</li>
+              <li><a href="/r/learnprogramming">learnprogramming</a></li>
             
         
             
             
-              <li>programming</li>
+              <li><a href="/r/programming">programming</a></li>
             
         
             
             
-              <li>ITCareerQuestions</li>
+              <li><a href="/r/itcareerquestions">ITCareerQuestions</a></li>
             
         
             
             
-              <li>OSUOnlineCS</li>
+              <li><a href="/r/osuonlinecs">OSUOnlineCS</a></li>
             
         
             
             
-              <li>resumes</li>
+              <li><a href="/r/resumes">resumes</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>netsec</li>
+              <li><a href="/r/netsec">netsec</a></li>
             
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
@@ -163,47 +145,47 @@
         
             
             
-              <li>OMSCS</li>
+              <li><a href="/r/omscs">OMSCS</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>MachineLearning</li>
+              <li><a href="/r/machinelearning">MachineLearning</a></li>
             
         
             
             
-              <li>GetMotivated</li>
+              <li><a href="/r/getmotivated">GetMotivated</a></li>
             
         
             
             
-              <li>legaladvice</li>
+              <li><a href="/r/legaladvice">legaladvice</a></li>
             
         
             
             
-              <li>FinancialCareers</li>
+              <li><a href="/r/financialcareers">FinancialCareers</a></li>
             
         
             
             
-              <li>ProgrammerHumor</li>
+              <li><a href="/r/programmerhumor">ProgrammerHumor</a></li>
             
         
             
             
-              <li>financialindependence</li>
+              <li><a href="/r/financialindependence">financialindependence</a></li>
             
         
             
             
-              <li>digitalnomad</li>
+              <li><a href="/r/digitalnomad">digitalnomad</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>uwaterloo</li>
+              <li><a href="/r/uwaterloo">uwaterloo</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

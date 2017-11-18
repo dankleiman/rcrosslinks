@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,82 +100,82 @@
         
             
             
-              <li>trap</li>
+              <li><a href="/r/trap">trap</a></li>
             
         
             
             
-              <li>Music</li>
+              <li><a href="/r/music">Music</a></li>
             
         
             
             
-              <li>classicalmusic</li>
+              <li><a href="/r/classicalmusic">classicalmusic</a></li>
             
         
             
             
-              <li>outrun</li>
+              <li><a href="/r/outrun">outrun</a></li>
             
         
             
             
-              <li>hiphopheads</li>
+              <li><a href="/r/hiphopheads">hiphopheads</a></li>
             
         
             
             
-              <li>Metal</li>
+              <li><a href="/r/metal">Metal</a></li>
             
         
             
             
-              <li>ShitTheFalseSay</li>
+              <li><a href="/r/shitthefalsesay">ShitTheFalseSay</a></li>
             
         
             
             
-              <li>Emo</li>
+              <li><a href="/r/emo">Emo</a></li>
             
         
             
             
-              <li>indieheads</li>
+              <li><a href="/r/indieheads">indieheads</a></li>
             
         
             
             
-              <li>askphilosophy</li>
+              <li><a href="/r/askphilosophy">askphilosophy</a></li>
             
         
             
             
-              <li>electronicmusic</li>
+              <li><a href="/r/electronicmusic">electronicmusic</a></li>
             
         
             
             
-              <li>aves</li>
+              <li><a href="/r/aves">aves</a></li>
             
         
             
             
-              <li>pcmusic</li>
+              <li><a href="/r/pcmusic">pcmusic</a></li>
             
         
             
             
-              <li>musictheory</li>
+              <li><a href="/r/musictheory">musictheory</a></li>
             
         
             
             
-              <li>postrock</li>
+              <li><a href="/r/postrock">postrock</a></li>
             
         
             
             
-              <li>asianamerican</li>
+              <li><a href="/r/asianamerican">asianamerican</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>trees</li>
+              <li><a href="/r/trees">trees</a></li>
             
         
             
             
-              <li>numetal</li>
+              <li><a href="/r/numetal">numetal</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

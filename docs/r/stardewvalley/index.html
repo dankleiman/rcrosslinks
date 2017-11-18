@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>NintendoSwitch</li>
+              <li><a href="/r/nintendoswitch">NintendoSwitch</a></li>
             
         
             
             
-              <li>FarmsofStardewValley</li>
+              <li><a href="/r/farmsofstardewvalley">FarmsofStardewValley</a></li>
             
         
             
             
-              <li>oddlysatisfying</li>
+              <li><a href="/r/oddlysatisfying">oddlysatisfying</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
@@ -148,76 +130,80 @@
         
             
             
-              <li>relationships</li>
+              <li><a href="/r/relationships">relationships</a></li>
             
         
             
             
-              <li>shitpost</li>
+              <li><a href="/r/shitpost">shitpost</a></li>
             
         
             
             
-              <li>ValleyModders</li>
+              <li><a href="/r/valleymodders">ValleyModders</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>Stardew_Valley</li>
+              <li><a href="/r/stardew_valley">Stardew_Valley</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>ConsoleKSP</li>
+              <li><a href="/r/consoleksp">ConsoleKSP</a></li>
             
         
             
             
-              <li>Needlefelting</li>
+              <li><a href="/r/needlefelting">Needlefelting</a></li>
             
         
             
             
-              <li>niceguys</li>
+              <li><a href="/r/niceguys">niceguys</a></li>
             
         
             
             
-              <li>Games</li>
+              <li><a href="/r/games">Games</a></li>
             
         
             
             
-              <li>CrossStitch</li>
+              <li><a href="/r/crossstitch">CrossStitch</a></li>
             
         
             
             
-              <li>Drama</li>
+              <li><a href="/r/drama">Drama</a></li>
             
         
             
             
-              <li>eroticauthors</li>
+              <li><a href="/r/eroticauthors">eroticauthors</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

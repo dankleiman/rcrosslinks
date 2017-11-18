@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,52 +100,52 @@
         
             
             
-              <li>electronic_cigarette</li>
+              <li><a href="/r/electronic_cigarette">electronic_cigarette</a></li>
             
         
             
             
-              <li>Vaping</li>
+              <li><a href="/r/vaping">Vaping</a></li>
             
         
             
             
-              <li>ECR_UK</li>
+              <li><a href="/r/ecr_uk">ECR_UK</a></li>
             
         
             
             
-              <li>DIY_eJuice</li>
+              <li><a href="/r/diy_ejuice">DIY_eJuice</a></li>
             
         
             
             
-              <li>vaporents</li>
+              <li><a href="/r/vaporents">vaporents</a></li>
             
         
             
             
-              <li>ecigclassifieds</li>
+              <li><a href="/r/ecigclassifieds">ecigclassifieds</a></li>
             
         
             
             
-              <li>aussievapers</li>
+              <li><a href="/r/aussievapers">aussievapers</a></li>
             
         
             
             
-              <li>juul</li>
+              <li><a href="/r/juul">juul</a></li>
             
         
             
             
-              <li>DIY_classifieds</li>
+              <li><a href="/r/diy_classifieds">DIY_classifieds</a></li>
             
         
             
             
-              <li>Canadian_ecigarette</li>
+              <li><a href="/r/canadian_ecigarette">Canadian_ecigarette</a></li>
             
         
             
@@ -173,17 +155,17 @@
         
             
             
-              <li>RBA</li>
+              <li><a href="/r/rba">RBA</a></li>
             
         
             
             
-              <li>ejuice</li>
+              <li><a href="/r/ejuice">ejuice</a></li>
             
         
             
             
-              <li>Squonk_Life</li>
+              <li><a href="/r/squonk_life">Squonk_Life</a></li>
             
         
             
@@ -193,7 +175,7 @@
         
             
             
-              <li>CoilGore</li>
+              <li><a href="/r/coilgore">CoilGore</a></li>
             
         
             
@@ -203,7 +185,7 @@
         
             
             
-              <li>sounding</li>
+              <li><a href="/r/sounding">sounding</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>vapeitforward</li>
+              <li><a href="/r/vapeitforward">vapeitforward</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

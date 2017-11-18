@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>Repsneakers</li>
+              <li><a href="/r/repsneakers">Repsneakers</a></li>
             
         
             
             
-              <li>FashionReps</li>
+              <li><a href="/r/fashionreps">FashionReps</a></li>
             
         
             
             
-              <li>RepGuides</li>
+              <li><a href="/r/repguides">RepGuides</a></li>
             
         
             
             
-              <li>Sneakers</li>
+              <li><a href="/r/sneakers">Sneakers</a></li>
             
         
             
             
-              <li>REPSNEAKERBST</li>
+              <li><a href="/r/repsneakerbst">REPSNEAKERBST</a></li>
             
         
             
@@ -148,7 +130,7 @@
         
             
             
-              <li>chanzhfsneakers</li>
+              <li><a href="/r/chanzhfsneakers">chanzhfsneakers</a></li>
             
         
             
@@ -158,31 +140,35 @@
         
             
             
-              <li>niceyes</li>
+              <li><a href="/r/niceyes">niceyes</a></li>
             
         
             
             
-              <li>MichaelSneakers</li>
+              <li><a href="/r/michaelsneakers">MichaelSneakers</a></li>
             
         
             
             
-              <li>sneakermarket</li>
+              <li><a href="/r/sneakermarket">sneakermarket</a></li>
             
         
             
             
-              <li>sneakerkicks</li>
+              <li><a href="/r/sneakerkicks">sneakerkicks</a></li>
             
         
             
             
-              <li>DesignerReps</li>
+              <li><a href="/r/designerreps">DesignerReps</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

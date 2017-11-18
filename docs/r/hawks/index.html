@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>hockey</li>
+              <li><a href="/r/hockey">hockey</a></li>
             
         
             
             
-              <li>chicago</li>
+              <li><a href="/r/chicago">chicago</a></li>
             
         
             
             
-              <li>puckstreams</li>
+              <li><a href="/r/puckstreams">puckstreams</a></li>
             
         
             
             
-              <li>wildhockey</li>
+              <li><a href="/r/wildhockey">wildhockey</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>LazyMan</li>
+              <li><a href="/r/lazyman">LazyMan</a></li>
             
         
             
             
-              <li>nhl</li>
+              <li><a href="/r/nhl">nhl</a></li>
             
         
             
@@ -158,32 +140,32 @@
         
             
             
-              <li>CHIBears</li>
+              <li><a href="/r/chibears">CHIBears</a></li>
             
         
             
             
-              <li>NewYorkIslanders</li>
+              <li><a href="/r/newyorkislanders">NewYorkIslanders</a></li>
             
         
             
             
-              <li>hockeyjerseys</li>
+              <li><a href="/r/hockeyjerseys">hockeyjerseys</a></li>
             
         
             
             
-              <li>underpopular</li>
+              <li><a href="/r/underpopular">underpopular</a></li>
             
         
             
             
-              <li>reddit_stream</li>
+              <li><a href="/r/reddit_stream">reddit_stream</a></li>
             
         
             
             
-              <li>leafs</li>
+              <li><a href="/r/leafs">leafs</a></li>
             
         
             
@@ -193,31 +175,35 @@
         
             
             
-              <li>collegehockey</li>
+              <li><a href="/r/collegehockey">collegehockey</a></li>
             
         
             
             
-              <li>UnexpectedHamilton</li>
+              <li><a href="/r/unexpectedhamilton">UnexpectedHamilton</a></li>
             
         
             
             
-              <li>losangeleskings</li>
+              <li><a href="/r/losangeleskings">losangeleskings</a></li>
             
         
             
             
-              <li>PortugalOnReddit</li>
+              <li><a href="/r/portugalonreddit">PortugalOnReddit</a></li>
             
         
             
             
-              <li>stupidsexykarlsson</li>
+              <li><a href="/r/stupidsexykarlsson">stupidsexykarlsson</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

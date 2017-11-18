@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,92 +105,92 @@
         
             
             
-              <li>learndota2</li>
+              <li><a href="/r/learndota2">learndota2</a></li>
             
         
             
             
-              <li>Dota2Trade</li>
+              <li><a href="/r/dota2trade">Dota2Trade</a></li>
             
         
             
             
-              <li>TrueDoTA2</li>
+              <li><a href="/r/truedota2">TrueDoTA2</a></li>
             
         
             
             
-              <li>DotaVods</li>
+              <li><a href="/r/dotavods">DotaVods</a></li>
             
         
             
             
-              <li>dotamasterrace</li>
+              <li><a href="/r/dotamasterrace">dotamasterrace</a></li>
             
         
             
             
-              <li>DOTA</li>
+              <li><a href="/r/dota">DOTA</a></li>
             
         
             
             
-              <li>fifteefiftee</li>
+              <li><a href="/r/fifteefiftee">fifteefiftee</a></li>
             
         
             
             
-              <li>leagueoflegends</li>
+              <li><a href="/r/leagueoflegends">leagueoflegends</a></li>
             
         
             
             
-              <li>compDota2</li>
+              <li><a href="/r/compdota2">compDota2</a></li>
             
         
             
             
-              <li>dota2smut</li>
+              <li><a href="/r/dota2smut">dota2smut</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>zeronet</li>
+              <li><a href="/r/zeronet">zeronet</a></li>
             
         
             
             
-              <li>Overwatch</li>
+              <li><a href="/r/overwatch">Overwatch</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>starcraft</li>
+              <li><a href="/r/starcraft">starcraft</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>dota2circlejerk</li>
+              <li><a href="/r/dota2circlejerk">dota2circlejerk</a></li>
             
         
             
             
-              <li>DotaConcepts</li>
+              <li><a href="/r/dotaconcepts">DotaConcepts</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

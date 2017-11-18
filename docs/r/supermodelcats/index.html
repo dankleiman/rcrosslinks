@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>cats</li>
+              <li><a href="/r/cats">cats</a></li>
             
         
             
             
-              <li>Floof</li>
+              <li><a href="/r/floof">Floof</a></li>
             
         
             
             
-              <li>Catloaf</li>
+              <li><a href="/r/catloaf">Catloaf</a></li>
             
         
             
@@ -138,22 +120,22 @@
         
             
             
-              <li>curledfeetsies</li>
+              <li><a href="/r/curledfeetsies">curledfeetsies</a></li>
             
         
             
             
-              <li>CatsInSinks</li>
+              <li><a href="/r/catsinsinks">CatsInSinks</a></li>
             
         
             
             
-              <li>grumpycats</li>
+              <li><a href="/r/grumpycats">grumpycats</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
@@ -168,7 +150,7 @@
         
             
             
-              <li>seniorkitties</li>
+              <li><a href="/r/seniorkitties">seniorkitties</a></li>
             
         
             
@@ -178,27 +160,27 @@
         
             
             
-              <li>kittens</li>
+              <li><a href="/r/kittens">kittens</a></li>
             
         
             
             
-              <li>teefies</li>
+              <li><a href="/r/teefies">teefies</a></li>
             
         
             
             
-              <li>Blep</li>
+              <li><a href="/r/blep">Blep</a></li>
             
         
             
             
-              <li>Kitting</li>
+              <li><a href="/r/kitting">Kitting</a></li>
             
         
             
             
-              <li>sploot</li>
+              <li><a href="/r/sploot">sploot</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>torties</li>
+              <li><a href="/r/torties">torties</a></li>
             
         
             
             
-              <li>ragdolls</li>
+              <li><a href="/r/ragdolls">ragdolls</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

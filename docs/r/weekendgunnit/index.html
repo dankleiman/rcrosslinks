@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>guns</li>
+              <li><a href="/r/guns">guns</a></li>
             
         
             
             
-              <li>gundeals</li>
+              <li><a href="/r/gundeals">gundeals</a></li>
             
         
             
             
-              <li>ar15</li>
+              <li><a href="/r/ar15">ar15</a></li>
             
         
             
@@ -138,86 +120,90 @@
         
             
             
-              <li>PETA</li>
+              <li><a href="/r/peta">PETA</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>Firearms</li>
+              <li><a href="/r/firearms">Firearms</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>MemeEconomy</li>
+              <li><a href="/r/memeeconomy">MemeEconomy</a></li>
             
         
             
             
-              <li>AskAnAmerican</li>
+              <li><a href="/r/askanamerican">AskAnAmerican</a></li>
             
         
             
             
-              <li>GunPorn</li>
+              <li><a href="/r/gunporn">GunPorn</a></li>
             
         
             
             
-              <li>hmmm</li>
+              <li><a href="/r/hmmm">hmmm</a></li>
             
         
             
             
-              <li>Austin</li>
+              <li><a href="/r/austin">Austin</a></li>
             
         
             
             
-              <li>GunsAreCool</li>
+              <li><a href="/r/gunsarecool">GunsAreCool</a></li>
             
         
             
             
-              <li>OldSchoolCool</li>
+              <li><a href="/r/oldschoolcool">OldSchoolCool</a></li>
             
         
             
             
-              <li>MilitaryPorn</li>
+              <li><a href="/r/militaryporn">MilitaryPorn</a></li>
             
         
             
             
-              <li>FullMetalGunnit</li>
+              <li><a href="/r/fullmetalgunnit">FullMetalGunnit</a></li>
             
         
             
             
-              <li>interestingasfuck</li>
+              <li><a href="/r/interestingasfuck">interestingasfuck</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

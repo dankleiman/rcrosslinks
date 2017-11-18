@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,46 +100,50 @@
         
             
             
-              <li>PokeGo2</li>
+              <li><a href="/r/pokego2">PokeGo2</a></li>
             
         
             
             
-              <li>PokemonGoSpoofing</li>
+              <li><a href="/r/pokemongospoofing">PokemonGoSpoofing</a></li>
             
         
             
             
-              <li>pokemongodev</li>
+              <li><a href="/r/pokemongodev">pokemongodev</a></li>
             
         
             
             
-              <li>sideloaded</li>
+              <li><a href="/r/sideloaded">sideloaded</a></li>
             
         
             
             
-              <li>TheSilphRoad</li>
+              <li><a href="/r/thesilphroad">TheSilphRoad</a></li>
             
         
             
             
-              <li>redditrequest</li>
+              <li><a href="/r/redditrequest">redditrequest</a></li>
             
         
             
             
-              <li>pokemongo</li>
+              <li><a href="/r/pokemongo">pokemongo</a></li>
             
         
             
             
-              <li>androidroot</li>
+              <li><a href="/r/androidroot">androidroot</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

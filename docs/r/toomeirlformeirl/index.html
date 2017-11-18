@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>DankMemeArchive</li>
+              <li><a href="/r/dankmemearchive">DankMemeArchive</a></li>
             
         
             
@@ -128,42 +110,42 @@
         
             
             
-              <li>2meirl42meirl4meirl</li>
+              <li><a href="/r/2meirl42meirl4meirl">2meirl42meirl4meirl</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
             
-              <li>solipsism</li>
+              <li><a href="/r/solipsism">solipsism</a></li>
             
         
             
             
-              <li>COMPLETEANARCHY</li>
+              <li><a href="/r/completeanarchy">COMPLETEANARCHY</a></li>
             
         
             
             
-              <li>DotA2</li>
+              <li><a href="/r/dota2">DotA2</a></li>
             
         
             
             
-              <li>youdontsurf</li>
+              <li><a href="/r/youdontsurf">youdontsurf</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
@@ -173,32 +155,32 @@
         
             
             
-              <li>leanfire</li>
+              <li><a href="/r/leanfire">leanfire</a></li>
             
         
             
             
-              <li>LifeProTips</li>
+              <li><a href="/r/lifeprotips">LifeProTips</a></li>
             
         
             
             
-              <li>MemantineHCl</li>
+              <li><a href="/r/memantinehcl">MemantineHCl</a></li>
             
         
             
             
-              <li>gainit</li>
+              <li><a href="/r/gainit">gainit</a></li>
             
         
             
             
-              <li>comics</li>
+              <li><a href="/r/comics">comics</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>turt_irl</li>
+              <li><a href="/r/turt_irl">turt_irl</a></li>
             
         
             
             
-              <li>RestaurantsThatMeme</li>
+              <li><a href="/r/restaurantsthatmeme">RestaurantsThatMeme</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>europe</li>
+              <li><a href="/r/europe">europe</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>quefaitlapolice</li>
+              <li><a href="/r/quefaitlapolice">quefaitlapolice</a></li>
             
         
             
@@ -163,22 +145,22 @@
         
             
             
-              <li>Le_Pen</li>
+              <li><a href="/r/le_pen">Le_Pen</a></li>
             
         
             
             
-              <li>de</li>
+              <li><a href="/r/de">de</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>SocialFrance</li>
+              <li><a href="/r/socialfrance">SocialFrance</a></li>
             
         
             
@@ -188,36 +170,40 @@
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>Lyon</li>
+              <li><a href="/r/lyon">Lyon</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>effondrement</li>
+              <li><a href="/r/effondrement">effondrement</a></li>
             
         
             
             
-              <li>ShitAmericansSay</li>
+              <li><a href="/r/shitamericanssay">ShitAmericansSay</a></li>
             
         
             
             
-              <li>jeuxvideo</li>
+              <li><a href="/r/jeuxvideo">jeuxvideo</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

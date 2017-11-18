@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,62 +100,62 @@
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>ShitPoliticsSays</li>
+              <li><a href="/r/shitpoliticssays">ShitPoliticsSays</a></li>
             
         
             
             
-              <li>forwardsfromgrandma</li>
+              <li><a href="/r/forwardsfromgrandma">forwardsfromgrandma</a></li>
             
         
             
             
-              <li>lewronggeneration</li>
+              <li><a href="/r/lewronggeneration">lewronggeneration</a></li>
             
         
             
             
-              <li>MensRights</li>
+              <li><a href="/r/mensrights">MensRights</a></li>
             
         
             
             
-              <li>BrainwashedAmerica</li>
+              <li><a href="/r/brainwashedamerica">BrainwashedAmerica</a></li>
             
         
             
             
-              <li>FULLCOMMUNISM</li>
+              <li><a href="/r/fullcommunism">FULLCOMMUNISM</a></li>
             
         
             
             
-              <li>ImGoingToHellForThis</li>
+              <li><a href="/r/imgoingtohellforthis">ImGoingToHellForThis</a></li>
             
         
             
             
-              <li>onewordeach</li>
+              <li><a href="/r/onewordeach">onewordeach</a></li>
             
         
             
             
-              <li>pussypassdenied</li>
+              <li><a href="/r/pussypassdenied">pussypassdenied</a></li>
             
         
             
             
-              <li>TheSquadOnPoint</li>
+              <li><a href="/r/thesquadonpoint">TheSquadOnPoint</a></li>
             
         
             
             
-              <li>LateStageCapitalism</li>
+              <li><a href="/r/latestagecapitalism">LateStageCapitalism</a></li>
             
         
             
@@ -183,17 +165,17 @@
         
             
             
-              <li>europeannationalism</li>
+              <li><a href="/r/europeannationalism">europeannationalism</a></li>
             
         
             
             
-              <li>nazi</li>
+              <li><a href="/r/nazi">nazi</a></li>
             
         
             
             
-              <li>DarkHumor</li>
+              <li><a href="/r/darkhumor">DarkHumor</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>enoughclassistspam</li>
+              <li><a href="/r/enoughclassistspam">enoughclassistspam</a></li>
             
         
             
             
-              <li>Ghosts</li>
+              <li><a href="/r/ghosts">Ghosts</a></li>
             
         
             
             
-              <li>PussyPass</li>
+              <li><a href="/r/pussypass">PussyPass</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

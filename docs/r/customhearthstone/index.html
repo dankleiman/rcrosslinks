@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>hearthstone</li>
+              <li><a href="/r/hearthstone">hearthstone</a></li>
             
         
             
             
-              <li>hearthstonecirclejerk</li>
+              <li><a href="/r/hearthstonecirclejerk">hearthstonecirclejerk</a></li>
             
         
             
@@ -133,32 +115,32 @@
         
             
             
-              <li>custommagic</li>
+              <li><a href="/r/custommagic">custommagic</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>ImaginaryAzeroth</li>
+              <li><a href="/r/imaginaryazeroth">ImaginaryAzeroth</a></li>
             
         
             
             
-              <li>ShadowBan</li>
+              <li><a href="/r/shadowban">ShadowBan</a></li>
             
         
             
             
-              <li>Flamewanker</li>
+              <li><a href="/r/flamewanker">Flamewanker</a></li>
             
         
             
             
-              <li>CompetitiveHS</li>
+              <li><a href="/r/competitivehs">CompetitiveHS</a></li>
             
         
             
@@ -168,7 +150,7 @@
         
             
             
-              <li>ImaginaryMythology</li>
+              <li><a href="/r/imaginarymythology">ImaginaryMythology</a></li>
             
         
             
@@ -178,7 +160,7 @@
         
             
             
-              <li>SolForge</li>
+              <li><a href="/r/solforge">SolForge</a></li>
             
         
             
@@ -188,36 +170,40 @@
         
             
             
-              <li>hedidthemath</li>
+              <li><a href="/r/hedidthemath">hedidthemath</a></li>
             
         
             
             
-              <li>hearthsone</li>
+              <li><a href="/r/hearthsone">hearthsone</a></li>
             
         
             
             
-              <li>IncestComics</li>
+              <li><a href="/r/incestcomics">IncestComics</a></li>
             
         
             
             
-              <li>radiohead</li>
+              <li><a href="/r/radiohead">radiohead</a></li>
             
         
             
             
-              <li>magicTCG</li>
+              <li><a href="/r/magictcg">magicTCG</a></li>
             
         
             
             
-              <li>wow</li>
+              <li><a href="/r/wow">wow</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

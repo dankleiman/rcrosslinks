@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,77 +105,77 @@
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>MaliciousCompliance</li>
+              <li><a href="/r/maliciouscompliance">MaliciousCompliance</a></li>
             
         
             
             
-              <li>FirstWorldConformists</li>
+              <li><a href="/r/firstworldconformists">FirstWorldConformists</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>madlads</li>
+              <li><a href="/r/madlads">madlads</a></li>
             
         
             
             
-              <li>mildlyinteresting</li>
+              <li><a href="/r/mildlyinteresting">mildlyinteresting</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>mildlyinfuriating</li>
+              <li><a href="/r/mildlyinfuriating">mildlyinfuriating</a></li>
             
         
             
             
-              <li>HailCorporate</li>
+              <li><a href="/r/hailcorporate">HailCorporate</a></li>
             
         
             
             
-              <li>shitpost</li>
+              <li><a href="/r/shitpost">shitpost</a></li>
             
         
             
             
-              <li>softwaregore</li>
+              <li><a href="/r/softwaregore">softwaregore</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
             
-              <li>MildlyVandalised</li>
+              <li><a href="/r/mildlyvandalised">MildlyVandalised</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>education</li>
+              <li><a href="/r/education">education</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>BoJackHorseman</li>
+              <li><a href="/r/bojackhorseman">BoJackHorseman</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

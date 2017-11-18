@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,92 +105,92 @@
         
             
             
-              <li>hockey</li>
+              <li><a href="/r/hockey">hockey</a></li>
             
         
             
             
-              <li>NHLStreams</li>
+              <li><a href="/r/nhlstreams">NHLStreams</a></li>
             
         
             
             
-              <li>penguins</li>
+              <li><a href="/r/penguins">penguins</a></li>
             
         
             
             
-              <li>Predators</li>
+              <li><a href="/r/predators">Predators</a></li>
             
         
             
             
-              <li>caps</li>
+              <li><a href="/r/caps">caps</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>puckstreams</li>
+              <li><a href="/r/puckstreams">puckstreams</a></li>
             
         
             
             
-              <li>BostonBruins</li>
+              <li><a href="/r/bostonbruins">BostonBruins</a></li>
             
         
             
             
-              <li>hockeyjerseys</li>
+              <li><a href="/r/hockeyjerseys">hockeyjerseys</a></li>
             
         
             
             
-              <li>lewronggeneration</li>
+              <li><a href="/r/lewronggeneration">lewronggeneration</a></li>
             
         
             
             
-              <li>nashville</li>
+              <li><a href="/r/nashville">nashville</a></li>
             
         
             
             
-              <li>losangeleskings</li>
+              <li><a href="/r/losangeleskings">losangeleskings</a></li>
             
         
             
             
-              <li>devils</li>
+              <li><a href="/r/devils">devils</a></li>
             
         
             
             
-              <li>hockeyplayers</li>
+              <li><a href="/r/hockeyplayers">hockeyplayers</a></li>
             
         
             
             
-              <li>HighQualityGifs</li>
+              <li><a href="/r/highqualitygifs">HighQualityGifs</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
             
-              <li>cripplingalcoholism</li>
+              <li><a href="/r/cripplingalcoholism">cripplingalcoholism</a></li>
             
         
             
             
-              <li>EdmontonOilers</li>
+              <li><a href="/r/edmontonoilers">EdmontonOilers</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,101 +105,105 @@
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>CityPorn</li>
+              <li><a href="/r/cityporn">CityPorn</a></li>
             
         
             
             
-              <li>itookapicture</li>
+              <li><a href="/r/itookapicture">itookapicture</a></li>
             
         
             
             
-              <li>mildlyinteresting</li>
+              <li><a href="/r/mildlyinteresting">mildlyinteresting</a></li>
             
         
             
             
-              <li>crewiser</li>
+              <li><a href="/r/crewiser">crewiser</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>travel</li>
+              <li><a href="/r/travel">travel</a></li>
             
         
             
             
-              <li>EarthPorn</li>
+              <li><a href="/r/earthporn">EarthPorn</a></li>
             
         
             
             
-              <li>UAE</li>
+              <li><a href="/r/uae">UAE</a></li>
             
         
             
             
-              <li>wallpaper</li>
+              <li><a href="/r/wallpaper">wallpaper</a></li>
             
         
             
             
-              <li>Ice_Poseidon</li>
+              <li><a href="/r/ice_poseidon">Ice_Poseidon</a></li>
             
         
             
             
-              <li>u_2BrkOnThru</li>
+              <li><a href="/r/u_2brkonthru">u_2BrkOnThru</a></li>
             
         
             
             
-              <li>ArchitecturePorn</li>
+              <li><a href="/r/architectureporn">ArchitecturePorn</a></li>
             
         
             
             
-              <li>whatsthisplant</li>
+              <li><a href="/r/whatsthisplant">whatsthisplant</a></li>
             
         
             
             
-              <li>Sneakers</li>
+              <li><a href="/r/sneakers">Sneakers</a></li>
             
         
             
             
-              <li>carporn</li>
+              <li><a href="/r/carporn">carporn</a></li>
             
         
             
             
-              <li>interestingasfuck</li>
+              <li><a href="/r/interestingasfuck">interestingasfuck</a></li>
             
         
             
             
-              <li>snapchatgeofilters</li>
+              <li><a href="/r/snapchatgeofilters">snapchatgeofilters</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

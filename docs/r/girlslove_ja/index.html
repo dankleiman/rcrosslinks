@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>highlevelkarma</li>
+              <li><a href="/r/highlevelkarma">highlevelkarma</a></li>
             
         
             
             
-              <li>Beth_Lily</li>
+              <li><a href="/r/beth_lily">Beth_Lily</a></li>
             
         
             
             
-              <li>kateupton</li>
+              <li><a href="/r/kateupton">kateupton</a></li>
             
         
             
@@ -138,12 +120,12 @@
         
             
             
-              <li>starlets</li>
+              <li><a href="/r/starlets">starlets</a></li>
             
         
             
             
-              <li>cosplaygirls</li>
+              <li><a href="/r/cosplaygirls">cosplaygirls</a></li>
             
         
             
@@ -153,26 +135,30 @@
         
             
             
-              <li>Just18</li>
+              <li><a href="/r/just18">Just18</a></li>
             
         
             
             
-              <li>EroGazo</li>
+              <li><a href="/r/erogazo">EroGazo</a></li>
             
         
             
             
-              <li>memorandum</li>
+              <li><a href="/r/memorandum">memorandum</a></li>
             
         
             
             
-              <li>ja</li>
+              <li><a href="/r/ja">ja</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

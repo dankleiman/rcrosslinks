@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>malefashionadvice</li>
+              <li><a href="/r/malefashionadvice">malefashionadvice</a></li>
             
         
             
             
-              <li>frugalmalefashion</li>
+              <li><a href="/r/frugalmalefashion">frugalmalefashion</a></li>
             
         
             
             
-              <li>Sneakers</li>
+              <li><a href="/r/sneakers">Sneakers</a></li>
             
         
             
             
-              <li>Watches</li>
+              <li><a href="/r/watches">Watches</a></li>
             
         
             
             
-              <li>Leathercraft</li>
+              <li><a href="/r/leathercraft">Leathercraft</a></li>
             
         
             
             
-              <li>starterpacks</li>
+              <li><a href="/r/starterpacks">starterpacks</a></li>
             
         
             
@@ -158,12 +140,12 @@
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>announcements</li>
+              <li><a href="/r/announcements">announcements</a></li>
             
         
             
@@ -173,51 +155,55 @@
         
             
             
-              <li>TheseFuckingAccounts</li>
+              <li><a href="/r/thesefuckingaccounts">TheseFuckingAccounts</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>help</li>
+              <li><a href="/r/help">help</a></li>
             
         
             
             
-              <li>RedWingShoes</li>
+              <li><a href="/r/redwingshoes">RedWingShoes</a></li>
             
         
             
             
-              <li>Cordwaining</li>
+              <li><a href="/r/cordwaining">Cordwaining</a></li>
             
         
             
             
-              <li>search</li>
+              <li><a href="/r/search">search</a></li>
             
         
             
             
-              <li>rawdenim</li>
+              <li><a href="/r/rawdenim">rawdenim</a></li>
             
         
             
             
-              <li>TheWayWeWere</li>
+              <li><a href="/r/thewaywewere">TheWayWeWere</a></li>
             
         
             
             
-              <li>ImagesOfScotland</li>
+              <li><a href="/r/imagesofscotland">ImagesOfScotland</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

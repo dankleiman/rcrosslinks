@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>reddit_stream</li>
+              <li><a href="/r/reddit_stream">reddit_stream</a></li>
             
         
             
             
-              <li>CricketShitpost</li>
+              <li><a href="/r/cricketshitpost">CricketShitpost</a></li>
             
         
             
             
-              <li>EIBWT</li>
+              <li><a href="/r/eibwt">EIBWT</a></li>
             
         
             
@@ -138,37 +120,37 @@
         
             
             
-              <li>sports</li>
+              <li><a href="/r/sports">sports</a></li>
             
         
             
             
-              <li>IndiaSpeaks</li>
+              <li><a href="/r/indiaspeaks">IndiaSpeaks</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>india</li>
+              <li><a href="/r/india">india</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>pakistan</li>
+              <li><a href="/r/pakistan">pakistan</a></li>
             
         
             
             
-              <li>Steve_Smith</li>
+              <li><a href="/r/steve_smith">Steve_Smith</a></li>
             
         
             
@@ -178,17 +160,17 @@
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
@@ -198,12 +180,12 @@
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>indianews</li>
+              <li><a href="/r/indianews">indianews</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>datasets</li>
+              <li><a href="/r/datasets">datasets</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>FFXIVRECRUITMENT</li>
+              <li><a href="/r/ffxivrecruitment">FFXIVRECRUITMENT</a></li>
             
         
             
@@ -128,27 +110,27 @@
         
             
             
-              <li>FFXIVGlamours</li>
+              <li><a href="/r/ffxivglamours">FFXIVGlamours</a></li>
             
         
             
             
-              <li>ACTOverlayPlugin</li>
+              <li><a href="/r/actoverlayplugin">ACTOverlayPlugin</a></li>
             
         
             
             
-              <li>ffxivraf</li>
+              <li><a href="/r/ffxivraf">ffxivraf</a></li>
             
         
             
             
-              <li>FFXIVhousingmarket</li>
+              <li><a href="/r/ffxivhousingmarket">FFXIVhousingmarket</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
@@ -158,52 +140,52 @@
         
             
             
-              <li>ShitpostXIV</li>
+              <li><a href="/r/shitpostxiv">ShitpostXIV</a></li>
             
         
             
             
-              <li>wow</li>
+              <li><a href="/r/wow">wow</a></li>
             
         
             
             
-              <li>modnews</li>
+              <li><a href="/r/modnews">modnews</a></li>
             
         
             
             
-              <li>ffxivart</li>
+              <li><a href="/r/ffxivart">ffxivart</a></li>
             
         
             
             
-              <li>ModSupport</li>
+              <li><a href="/r/modsupport">ModSupport</a></li>
             
         
             
             
-              <li>ffxi</li>
+              <li><a href="/r/ffxi">ffxi</a></li>
             
         
             
             
-              <li>PS4</li>
+              <li><a href="/r/ps4">PS4</a></li>
             
         
             
             
-              <li>Guildwars2</li>
+              <li><a href="/r/guildwars2">Guildwars2</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>ffxivhomeandgarden</li>
+              <li><a href="/r/ffxivhomeandgarden">ffxivhomeandgarden</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>Overwatch</li>
+              <li><a href="/r/overwatch">Overwatch</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

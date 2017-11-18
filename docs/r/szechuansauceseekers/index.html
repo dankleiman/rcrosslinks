@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>rickandmorty</li>
+              <li><a href="/r/rickandmorty">rickandmorty</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>HailCorporate</li>
+              <li><a href="/r/hailcorporate">HailCorporate</a></li>
             
         
             
             
-              <li>Harmontown</li>
+              <li><a href="/r/harmontown">Harmontown</a></li>
             
         
             
             
-              <li>KeepOurNetFree</li>
+              <li><a href="/r/keepournetfree">KeepOurNetFree</a></li>
             
         
             
             
-              <li>LosAngeles</li>
+              <li><a href="/r/losangeles">LosAngeles</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>europeannationalism</li>
+              <li><a href="/r/europeannationalism">europeannationalism</a></li>
             
         
             
             
-              <li>tifu</li>
+              <li><a href="/r/tifu">tifu</a></li>
             
         
             
             
-              <li>teentitans</li>
+              <li><a href="/r/teentitans">teentitans</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>technology</li>
+              <li><a href="/r/technology">technology</a></li>
             
         
             
             
-              <li>trees</li>
+              <li><a href="/r/trees">trees</a></li>
             
         
             
             
-              <li>atmidnight</li>
+              <li><a href="/r/atmidnight">atmidnight</a></li>
             
         
             
             
-              <li>announcements</li>
+              <li><a href="/r/announcements">announcements</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>ShitPoliticsSays</li>
+              <li><a href="/r/shitpoliticssays">ShitPoliticsSays</a></li>
             
         
             
             
-              <li>Against_Astroturfing</li>
+              <li><a href="/r/against_astroturfing">Against_Astroturfing</a></li>
             
         
             
             
-              <li>nintendo</li>
+              <li><a href="/r/nintendo">nintendo</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

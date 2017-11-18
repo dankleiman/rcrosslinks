@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>india</li>
+              <li><a href="/r/india">india</a></li>
             
         
             
             
-              <li>nyc</li>
+              <li><a href="/r/nyc">nyc</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
@@ -138,86 +120,90 @@
         
             
             
-              <li>Blogging</li>
+              <li><a href="/r/blogging">Blogging</a></li>
             
         
             
             
-              <li>tressless</li>
+              <li><a href="/r/tressless">tressless</a></li>
             
         
             
             
-              <li>PokemonGoIndia</li>
+              <li><a href="/r/pokemongoindia">PokemonGoIndia</a></li>
             
         
             
             
-              <li>iamverysmart</li>
+              <li><a href="/r/iamverysmart">iamverysmart</a></li>
             
         
             
             
-              <li>IndiaNonPolitical</li>
+              <li><a href="/r/indianonpolitical">IndiaNonPolitical</a></li>
             
         
             
             
-              <li>IndiaSpeaks</li>
+              <li><a href="/r/indiaspeaks">IndiaSpeaks</a></li>
             
         
             
             
-              <li>LGBTindia</li>
+              <li><a href="/r/lgbtindia">LGBTindia</a></li>
             
         
             
             
-              <li>ethtrader</li>
+              <li><a href="/r/ethtrader">ethtrader</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>icm</li>
+              <li><a href="/r/icm">icm</a></li>
             
         
             
             
-              <li>pune</li>
+              <li><a href="/r/pune">pune</a></li>
             
         
             
             
-              <li>CGPGrey</li>
+              <li><a href="/r/cgpgrey">CGPGrey</a></li>
             
         
             
             
-              <li>Chennai</li>
+              <li><a href="/r/chennai">Chennai</a></li>
             
         
             
             
-              <li>ethereum</li>
+              <li><a href="/r/ethereum">ethereum</a></li>
             
         
             
             
-              <li>Jokes</li>
+              <li><a href="/r/jokes">Jokes</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>WeAreTheMusicMakers</li>
+              <li><a href="/r/wearethemusicmakers">WeAreTheMusicMakers</a></li>
             
         
             
@@ -128,22 +110,22 @@
         
             
             
-              <li>musictheory</li>
+              <li><a href="/r/musictheory">musictheory</a></li>
             
         
             
             
-              <li>JudgeMyAccent</li>
+              <li><a href="/r/judgemyaccent">JudgeMyAccent</a></li>
             
         
             
             
-              <li>slp</li>
+              <li><a href="/r/slp">slp</a></li>
             
         
             
             
-              <li>lewronggeneration</li>
+              <li><a href="/r/lewronggeneration">lewronggeneration</a></li>
             
         
             
@@ -153,37 +135,37 @@
         
             
             
-              <li>audioengineering</li>
+              <li><a href="/r/audioengineering">audioengineering</a></li>
             
         
             
             
-              <li>ICoveredASong</li>
+              <li><a href="/r/icoveredasong">ICoveredASong</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>FindABand</li>
+              <li><a href="/r/findaband">FindABand</a></li>
             
         
             
             
-              <li>arcticmonkeys</li>
+              <li><a href="/r/arcticmonkeys">arcticmonkeys</a></li>
             
         
             
             
-              <li>screaming</li>
+              <li><a href="/r/screaming">screaming</a></li>
             
         
             
             
-              <li>musicians</li>
+              <li><a href="/r/musicians">musicians</a></li>
             
         
             
@@ -193,16 +175,20 @@
         
             
             
-              <li>ClassicalSinger</li>
+              <li><a href="/r/classicalsinger">ClassicalSinger</a></li>
             
         
             
             
-              <li>audiophile</li>
+              <li><a href="/r/audiophile">audiophile</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

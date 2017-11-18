@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>CrappyDesign</li>
+              <li><a href="/r/crappydesign">CrappyDesign</a></li>
             
         
             
             
-              <li>NegativeWithGold</li>
+              <li><a href="/r/negativewithgold">NegativeWithGold</a></li>
             
         
             
             
-              <li>CorporateFacepalm</li>
+              <li><a href="/r/corporatefacepalm">CorporateFacepalm</a></li>
             
         
             
@@ -143,37 +125,37 @@
         
             
             
-              <li>nevertellmetheodds</li>
+              <li><a href="/r/nevertellmetheodds">nevertellmetheodds</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>finlandConspiracy</li>
+              <li><a href="/r/finlandconspiracy">finlandConspiracy</a></li>
             
         
             
             
-              <li>ProCSS</li>
+              <li><a href="/r/procss">ProCSS</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
             
-              <li>accidentalswastika</li>
+              <li><a href="/r/accidentalswastika">accidentalswastika</a></li>
             
         
             
             
-              <li>ProtectAndServe</li>
+              <li><a href="/r/protectandserve">ProtectAndServe</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>ProRevenge</li>
+              <li><a href="/r/prorevenge">ProRevenge</a></li>
             
         
             
             
-              <li>dontdeadopeninside</li>
+              <li><a href="/r/dontdeadopeninside">dontdeadopeninside</a></li>
             
         
             
             
-              <li>forwardsfromhitler</li>
+              <li><a href="/r/forwardsfromhitler">forwardsfromhitler</a></li>
             
         
             
             
-              <li>vegan</li>
+              <li><a href="/r/vegan">vegan</a></li>
             
         
             
             
-              <li>stevenuniverse</li>
+              <li><a href="/r/stevenuniverse">stevenuniverse</a></li>
             
         
             
             
-              <li>nottheonion</li>
+              <li><a href="/r/nottheonion">nottheonion</a></li>
             
         
             
             
-              <li>australia</li>
+              <li><a href="/r/australia">australia</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

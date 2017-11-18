@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,77 +100,77 @@
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>talesfromtechsupport</li>
+              <li><a href="/r/talesfromtechsupport">talesfromtechsupport</a></li>
             
         
             
             
-              <li>TalesFromTheCustomer</li>
+              <li><a href="/r/talesfromthecustomer">TalesFromTheCustomer</a></li>
             
         
             
             
-              <li>TalesFromYourServer</li>
+              <li><a href="/r/talesfromyourserver">TalesFromYourServer</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>legaladvice</li>
+              <li><a href="/r/legaladvice">legaladvice</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>undelete</li>
+              <li><a href="/r/undelete">undelete</a></li>
             
         
             
             
-              <li>JUSTNOMIL</li>
+              <li><a href="/r/justnomil">JUSTNOMIL</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>IDontWorkHereLady</li>
+              <li><a href="/r/idontworkherelady">IDontWorkHereLady</a></li>
             
         
             
             
-              <li>Showerthoughts</li>
+              <li><a href="/r/showerthoughts">Showerthoughts</a></li>
             
         
             
             
-              <li>electronics</li>
+              <li><a href="/r/electronics">electronics</a></li>
             
         
             
             
-              <li>teenagers</li>
+              <li><a href="/r/teenagers">teenagers</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>de_verstaendlich</li>
+              <li><a href="/r/de_verstaendlich">de_verstaendlich</a></li>
             
         
             
             
-              <li>talesfrommedicine</li>
+              <li><a href="/r/talesfrommedicine">talesfrommedicine</a></li>
             
         
             
             
-              <li>OSHA</li>
+              <li><a href="/r/osha">OSHA</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

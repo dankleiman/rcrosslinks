@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
@@ -128,52 +110,52 @@
         
             
             
-              <li>fidgetspin</li>
+              <li><a href="/r/fidgetspin">fidgetspin</a></li>
             
         
             
             
-              <li>helpmewin</li>
+              <li><a href="/r/helpmewin">helpmewin</a></li>
             
         
             
             
-              <li>counting</li>
+              <li><a href="/r/counting">counting</a></li>
             
         
             
             
-              <li>reactiongifs</li>
+              <li><a href="/r/reactiongifs">reactiongifs</a></li>
             
         
             
             
-              <li>upvote</li>
+              <li><a href="/r/upvote">upvote</a></li>
             
         
             
             
-              <li>Pay_Respects</li>
+              <li><a href="/r/pay_respects">Pay_Respects</a></li>
             
         
             
             
-              <li>h3h3productions</li>
+              <li><a href="/r/h3h3productions">h3h3productions</a></li>
             
         
             
             
-              <li>dankmemes</li>
+              <li><a href="/r/dankmemes">dankmemes</a></li>
             
         
             
             
-              <li>youclickedthelink</li>
+              <li><a href="/r/youclickedthelink">youclickedthelink</a></li>
             
         
             
             
-              <li>karmawhore</li>
+              <li><a href="/r/karmawhore">karmawhore</a></li>
             
         
             
@@ -183,17 +165,17 @@
         
             
             
-              <li>TOUHOUMUSIC</li>
+              <li><a href="/r/touhoumusic">TOUHOUMUSIC</a></li>
             
         
             
             
-              <li>Metalcore</li>
+              <li><a href="/r/metalcore">Metalcore</a></li>
             
         
             
             
-              <li>FreeKarma4You</li>
+              <li><a href="/r/freekarma4you">FreeKarma4You</a></li>
             
         
             
@@ -208,7 +190,7 @@
         
             
             
-              <li>country</li>
+              <li><a href="/r/country">country</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

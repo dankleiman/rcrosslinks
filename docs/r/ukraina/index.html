@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,42 +100,42 @@
         
             
             
-              <li>europe</li>
+              <li><a href="/r/europe">europe</a></li>
             
         
             
             
-              <li>theUkrainians</li>
+              <li><a href="/r/theukrainians">theUkrainians</a></li>
             
         
             
             
-              <li>ukraine</li>
+              <li><a href="/r/ukraine">ukraine</a></li>
             
         
             
             
-              <li>announcements</li>
+              <li><a href="/r/announcements">announcements</a></li>
             
         
             
             
-              <li>ukrainian_flag</li>
+              <li><a href="/r/ukrainian_flag">ukrainian_flag</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
@@ -163,52 +145,52 @@
         
             
             
-              <li>Polska</li>
+              <li><a href="/r/polska">Polska</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>russia</li>
+              <li><a href="/r/russia">russia</a></li>
             
         
             
             
-              <li>thenetherlands</li>
+              <li><a href="/r/thenetherlands">thenetherlands</a></li>
             
         
             
             
-              <li>WTF</li>
+              <li><a href="/r/wtf">WTF</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>WikiLeaks</li>
+              <li><a href="/r/wikileaks">WikiLeaks</a></li>
             
         
             
             
-              <li>podemos</li>
+              <li><a href="/r/podemos">podemos</a></li>
             
         
             
             
-              <li>RTLSDR</li>
+              <li><a href="/r/rtlsdr">RTLSDR</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>soccer</li>
+              <li><a href="/r/soccer">soccer</a></li>
             
         
             
             
-              <li>SportingCP</li>
+              <li><a href="/r/sportingcp">SportingCP</a></li>
             
         
             
             
-              <li>portugal</li>
+              <li><a href="/r/portugal">portugal</a></li>
             
         
             
             
-              <li>soccerstreams</li>
+              <li><a href="/r/soccerstreams">soccerstreams</a></li>
             
         
             
@@ -143,12 +125,12 @@
         
             
             
-              <li>Hammers</li>
+              <li><a href="/r/hammers">Hammers</a></li>
             
         
             
             
-              <li>KendrickLamar</li>
+              <li><a href="/r/kendricklamar">KendrickLamar</a></li>
             
         
             
@@ -158,12 +140,12 @@
         
             
             
-              <li>chadpc</li>
+              <li><a href="/r/chadpc">chadpc</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
@@ -173,22 +155,22 @@
         
             
             
-              <li>psg</li>
+              <li><a href="/r/psg">psg</a></li>
             
         
             
             
-              <li>PORTUGALCARALHO</li>
+              <li><a href="/r/portugalcaralho">PORTUGALCARALHO</a></li>
             
         
             
             
-              <li>Eder</li>
+              <li><a href="/r/eder">Eder</a></li>
             
         
             
             
-              <li>anime</li>
+              <li><a href="/r/anime">anime</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>gamingportugal</li>
+              <li><a href="/r/gamingportugal">gamingportugal</a></li>
             
         
             
             
-              <li>eu_nvr</li>
+              <li><a href="/r/eu_nvr">eu_nvr</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

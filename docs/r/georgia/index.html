@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Atlanta</li>
+              <li><a href="/r/atlanta">Atlanta</a></li>
             
         
             
             
-              <li>Sakartvelo</li>
+              <li><a href="/r/sakartvelo">Sakartvelo</a></li>
             
         
             
             
-              <li>askeconomists</li>
+              <li><a href="/r/askeconomists">askeconomists</a></li>
             
         
             
             
-              <li>4chan</li>
+              <li><a href="/r/4chan">4chan</a></li>
             
         
             
@@ -148,7 +130,7 @@
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
@@ -158,47 +140,47 @@
         
             
             
-              <li>shittyHDR</li>
+              <li><a href="/r/shittyhdr">shittyHDR</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
             
-              <li>texas</li>
+              <li><a href="/r/texas">texas</a></li>
             
         
             
             
-              <li>changemyview</li>
+              <li><a href="/r/changemyview">changemyview</a></li>
             
         
             
             
-              <li>Athens</li>
+              <li><a href="/r/athens">Athens</a></li>
             
         
             
             
-              <li>ShitAmericansSay</li>
+              <li><a href="/r/shitamericanssay">ShitAmericansSay</a></li>
             
         
             
             
-              <li>BlueMidterm2018</li>
+              <li><a href="/r/bluemidterm2018">BlueMidterm2018</a></li>
             
         
             
             
-              <li>PoliticalDiscussion</li>
+              <li><a href="/r/politicaldiscussion">PoliticalDiscussion</a></li>
             
         
             
             
-              <li>StormComing</li>
+              <li><a href="/r/stormcoming">StormComing</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>GAPol</li>
+              <li><a href="/r/gapol">GAPol</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

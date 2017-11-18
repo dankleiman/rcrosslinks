@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,97 +100,97 @@
         
             
             
-              <li>trap</li>
+              <li><a href="/r/trap">trap</a></li>
             
         
             
             
-              <li>electronicmusic</li>
+              <li><a href="/r/electronicmusic">electronicmusic</a></li>
             
         
             
             
-              <li>aves</li>
+              <li><a href="/r/aves">aves</a></li>
             
         
             
             
-              <li>trance</li>
+              <li><a href="/r/trance">trance</a></li>
             
         
             
             
-              <li>electricdaisycarnival</li>
+              <li><a href="/r/electricdaisycarnival">electricdaisycarnival</a></li>
             
         
             
             
-              <li>edmproduction</li>
+              <li><a href="/r/edmproduction">edmproduction</a></li>
             
         
             
             
-              <li>xTrill</li>
+              <li><a href="/r/xtrill">xTrill</a></li>
             
         
             
             
-              <li>deadmau5</li>
+              <li><a href="/r/deadmau5">deadmau5</a></li>
             
         
             
             
-              <li>Music</li>
+              <li><a href="/r/music">Music</a></li>
             
         
             
             
-              <li>hardstyle</li>
+              <li><a href="/r/hardstyle">hardstyle</a></li>
             
         
             
             
-              <li>ericprydz</li>
+              <li><a href="/r/ericprydz">ericprydz</a></li>
             
         
             
             
-              <li>skrillex</li>
+              <li><a href="/r/skrillex">skrillex</a></li>
             
         
             
             
-              <li>popheads</li>
+              <li><a href="/r/popheads">popheads</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>UMF</li>
+              <li><a href="/r/umf">UMF</a></li>
             
         
             
             
-              <li>shallowhouse</li>
+              <li><a href="/r/shallowhouse">shallowhouse</a></li>
             
         
             
             
-              <li>meirl</li>
+              <li><a href="/r/meirl">meirl</a></li>
             
         
             
             
-              <li>Monstercat</li>
+              <li><a href="/r/monstercat">Monstercat</a></li>
             
         
             
             
-              <li>electrohouse</li>
+              <li><a href="/r/electrohouse">electrohouse</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

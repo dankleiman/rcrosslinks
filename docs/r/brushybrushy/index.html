@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,77 +105,77 @@
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>tippr</li>
+              <li><a href="/r/tippr">tippr</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>curledfeetsies</li>
+              <li><a href="/r/curledfeetsies">curledfeetsies</a></li>
             
         
             
             
-              <li>noisygifs</li>
+              <li><a href="/r/noisygifs">noisygifs</a></li>
             
         
             
             
-              <li>furry_irl</li>
+              <li><a href="/r/furry_irl">furry_irl</a></li>
             
         
             
             
-              <li>ScratchyScratchy</li>
+              <li><a href="/r/scratchyscratchy">ScratchyScratchy</a></li>
             
         
             
             
-              <li>Pigifs</li>
+              <li><a href="/r/pigifs">Pigifs</a></li>
             
         
             
             
-              <li>explainlikedonald</li>
+              <li><a href="/r/explainlikedonald">explainlikedonald</a></li>
             
         
             
             
-              <li>BatFacts</li>
+              <li><a href="/r/batfacts">BatFacts</a></li>
             
         
             
             
-              <li>60FpsGifs</li>
+              <li><a href="/r/60fpsgifs">60FpsGifs</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
             
-              <li>CatsNamedToothless</li>
+              <li><a href="/r/catsnamedtoothless">CatsNamedToothless</a></li>
             
         
             
             
-              <li>SwiggitySwootyGifs</li>
+              <li><a href="/r/swiggityswootygifs">SwiggitySwootyGifs</a></li>
             
         
             
             
-              <li>wicked_edge</li>
+              <li><a href="/r/wicked_edge">wicked_edge</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>StoppedWorking</li>
+              <li><a href="/r/stoppedworking">StoppedWorking</a></li>
             
         
             
             
-              <li>plantedtanks</li>
+              <li><a href="/r/plantedtanks">plantedtanks</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

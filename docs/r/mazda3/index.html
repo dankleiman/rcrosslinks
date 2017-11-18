@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>mazda</li>
+              <li><a href="/r/mazda">mazda</a></li>
             
         
             
             
-              <li>AutoDetailing</li>
+              <li><a href="/r/autodetailing">AutoDetailing</a></li>
             
         
             
             
-              <li>cars</li>
+              <li><a href="/r/cars">cars</a></li>
             
         
             
@@ -138,12 +120,12 @@
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>Miata</li>
+              <li><a href="/r/miata">Miata</a></li>
             
         
             
@@ -153,12 +135,12 @@
         
             
             
-              <li>amateurradio</li>
+              <li><a href="/r/amateurradio">amateurradio</a></li>
             
         
             
             
-              <li>GooglePixel</li>
+              <li><a href="/r/googlepixel">GooglePixel</a></li>
             
         
             
@@ -168,17 +150,17 @@
         
             
             
-              <li>AskAShittyMechanic</li>
+              <li><a href="/r/askashittymechanic">AskAShittyMechanic</a></li>
             
         
             
             
-              <li>Shitty_Car_Mods</li>
+              <li><a href="/r/shitty_car_mods">Shitty_Car_Mods</a></li>
             
         
             
             
-              <li>audioengineering</li>
+              <li><a href="/r/audioengineering">audioengineering</a></li>
             
         
             
@@ -188,17 +170,17 @@
         
             
             
-              <li>Epilepsy</li>
+              <li><a href="/r/epilepsy">Epilepsy</a></li>
             
         
             
             
-              <li>surfing</li>
+              <li><a href="/r/surfing">surfing</a></li>
             
         
             
             
-              <li>ImagesOfThe2010s</li>
+              <li><a href="/r/imagesofthe2010s">ImagesOfThe2010s</a></li>
             
         
             
@@ -208,6 +190,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

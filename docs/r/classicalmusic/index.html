@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,47 +105,47 @@
         
             
             
-              <li>musictheory</li>
+              <li><a href="/r/musictheory">musictheory</a></li>
             
         
             
             
-              <li>MonthlyComposition</li>
+              <li><a href="/r/monthlycomposition">MonthlyComposition</a></li>
             
         
             
             
-              <li>ClassicalMemes</li>
+              <li><a href="/r/classicalmemes">ClassicalMemes</a></li>
             
         
             
             
-              <li>ElitistClassical</li>
+              <li><a href="/r/elitistclassical">ElitistClassical</a></li>
             
         
             
             
-              <li>composer</li>
+              <li><a href="/r/composer">composer</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>icm</li>
+              <li><a href="/r/icm">icm</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>violinist</li>
+              <li><a href="/r/violinist">violinist</a></li>
             
         
             
@@ -173,17 +155,17 @@
         
             
             
-              <li>opera</li>
+              <li><a href="/r/opera">opera</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Music</li>
+              <li><a href="/r/music">Music</a></li>
             
         
             
@@ -193,31 +175,35 @@
         
             
             
-              <li>Jazz</li>
+              <li><a href="/r/jazz">Jazz</a></li>
             
         
             
             
-              <li>lewronggeneration</li>
+              <li><a href="/r/lewronggeneration">lewronggeneration</a></li>
             
         
             
             
-              <li>headphones</li>
+              <li><a href="/r/headphones">headphones</a></li>
             
         
             
             
-              <li>contemporary</li>
+              <li><a href="/r/contemporary">contemporary</a></li>
             
         
             
             
-              <li>lastimages</li>
+              <li><a href="/r/lastimages">lastimages</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,57 +100,57 @@
         
             
             
-              <li>tippr</li>
+              <li><a href="/r/tippr">tippr</a></li>
             
         
             
             
-              <li>edefreiheit</li>
+              <li><a href="/r/edefreiheit">edefreiheit</a></li>
             
         
             
             
-              <li>translation</li>
+              <li><a href="/r/translation">translation</a></li>
             
         
             
             
-              <li>outercourse</li>
+              <li><a href="/r/outercourse">outercourse</a></li>
             
         
             
             
-              <li>tea</li>
+              <li><a href="/r/tea">tea</a></li>
             
         
             
             
-              <li>googlehome</li>
+              <li><a href="/r/googlehome">googlehome</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>SeattleTransparency</li>
+              <li><a href="/r/seattletransparency">SeattleTransparency</a></li>
             
         
             
             
-              <li>suggestions</li>
+              <li><a href="/r/suggestions">suggestions</a></li>
             
         
             
             
-              <li>AccidentalRenaissance</li>
+              <li><a href="/r/accidentalrenaissance">AccidentalRenaissance</a></li>
             
         
             
             
-              <li>AndroidMasterRace</li>
+              <li><a href="/r/androidmasterrace">AndroidMasterRace</a></li>
             
         
             
@@ -178,22 +160,22 @@
         
             
             
-              <li>Repsneakers</li>
+              <li><a href="/r/repsneakers">Repsneakers</a></li>
             
         
             
             
-              <li>startrekgifs</li>
+              <li><a href="/r/startrekgifs">startrekgifs</a></li>
             
         
             
             
-              <li>worstof</li>
+              <li><a href="/r/worstof">worstof</a></li>
             
         
             
             
-              <li>VEDC</li>
+              <li><a href="/r/vedc">VEDC</a></li>
             
         
             
@@ -203,11 +185,15 @@
         
             
             
-              <li>Piracy</li>
+              <li><a href="/r/piracy">Piracy</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

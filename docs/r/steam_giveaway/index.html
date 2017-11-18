@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>Jokes</li>
+              <li><a href="/r/jokes">Jokes</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>corgi</li>
+              <li><a href="/r/corgi">corgi</a></li>
             
         
             
             
-              <li>food</li>
+              <li><a href="/r/food">food</a></li>
             
         
             
             
-              <li>GiftofGames</li>
+              <li><a href="/r/giftofgames">GiftofGames</a></li>
             
         
             
             
-              <li>cats</li>
+              <li><a href="/r/cats">cats</a></li>
             
         
             
             
-              <li>steamcoupons</li>
+              <li><a href="/r/steamcoupons">steamcoupons</a></li>
             
         
             
             
-              <li>passive_income</li>
+              <li><a href="/r/passive_income">passive_income</a></li>
             
         
             
             
-              <li>osugame</li>
+              <li><a href="/r/osugame">osugame</a></li>
             
         
             
             
-              <li>Fishing</li>
+              <li><a href="/r/fishing">Fishing</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>wholesomememes</li>
+              <li><a href="/r/wholesomememes">wholesomememes</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>FREE</li>
+              <li><a href="/r/free">FREE</a></li>
             
         
             
             
-              <li>GameDeals</li>
+              <li><a href="/r/gamedeals">GameDeals</a></li>
             
         
             
             
-              <li>anime</li>
+              <li><a href="/r/anime">anime</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

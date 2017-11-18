@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,87 +100,87 @@
         
             
             
-              <li>Random_Acts_Of_Pizza</li>
+              <li><a href="/r/random_acts_of_pizza">Random_Acts_Of_Pizza</a></li>
             
         
             
             
-              <li>Assistance</li>
+              <li><a href="/r/assistance">Assistance</a></li>
             
         
             
             
-              <li>PhotoshopRequest</li>
+              <li><a href="/r/photoshoprequest">PhotoshopRequest</a></li>
             
         
             
             
-              <li>RandomActsofCards</li>
+              <li><a href="/r/randomactsofcards">RandomActsofCards</a></li>
             
         
             
             
-              <li>MadeMeSmile</li>
+              <li><a href="/r/mademesmile">MadeMeSmile</a></li>
             
         
             
             
-              <li>RandomActsOfPetFood</li>
+              <li><a href="/r/randomactsofpetfood">RandomActsOfPetFood</a></li>
             
         
             
             
-              <li>RandomActsOfBras</li>
+              <li><a href="/r/randomactsofbras">RandomActsOfBras</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>HelpMeFind</li>
+              <li><a href="/r/helpmefind">HelpMeFind</a></li>
             
         
             
             
-              <li>redditgetsdrawn</li>
+              <li><a href="/r/redditgetsdrawn">redditgetsdrawn</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>gardening</li>
+              <li><a href="/r/gardening">gardening</a></li>
             
         
             
             
-              <li>Markiplier</li>
+              <li><a href="/r/markiplier">Markiplier</a></li>
             
         
             
             
-              <li>Food_Bank</li>
+              <li><a href="/r/food_bank">Food_Bank</a></li>
             
         
             
             
-              <li>picrequests</li>
+              <li><a href="/r/picrequests">picrequests</a></li>
             
         
             
             
-              <li>DIY</li>
+              <li><a href="/r/diy">DIY</a></li>
             
         
             
             
-              <li>translator</li>
+              <li><a href="/r/translator">translator</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>Drugs</li>
+              <li><a href="/r/drugs">Drugs</a></li>
             
         
             
             
-              <li>Advice</li>
+              <li><a href="/r/advice">Advice</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

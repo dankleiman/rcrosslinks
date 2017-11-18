@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>StormfrontorSJW</li>
+              <li><a href="/r/stormfrontorsjw">StormfrontorSJW</a></li>
             
         
             
             
-              <li>PussyPass</li>
+              <li><a href="/r/pussypass">PussyPass</a></li>
             
         
             
             
-              <li>Feminism</li>
+              <li><a href="/r/feminism">Feminism</a></li>
             
         
             
             
-              <li>Anarchism</li>
+              <li><a href="/r/anarchism">Anarchism</a></li>
             
         
             
             
-              <li>LateStageCapitalism</li>
+              <li><a href="/r/latestagecapitalism">LateStageCapitalism</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
@@ -153,36 +135,40 @@
         
             
             
-              <li>Alt_Right</li>
+              <li><a href="/r/alt_right">Alt_Right</a></li>
             
         
             
             
-              <li>grilledcheese</li>
+              <li><a href="/r/grilledcheese">grilledcheese</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
             
-              <li>ShitAmericansSay</li>
+              <li><a href="/r/shitamericanssay">ShitAmericansSay</a></li>
             
         
             
             
-              <li>firstworldanarchists</li>
+              <li><a href="/r/firstworldanarchists">firstworldanarchists</a></li>
             
         
             
             
-              <li>BestOfReports</li>
+              <li><a href="/r/bestofreports">BestOfReports</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

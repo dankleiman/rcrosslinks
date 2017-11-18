@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,66 +100,70 @@
         
             
             
-              <li>ThriftStoreHauls</li>
+              <li><a href="/r/thriftstorehauls">ThriftStoreHauls</a></li>
             
         
             
             
-              <li>hatchery</li>
+              <li><a href="/r/hatchery">hatchery</a></li>
             
         
             
             
-              <li>ducklings</li>
+              <li><a href="/r/ducklings">ducklings</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
             
-              <li>MinionHate</li>
+              <li><a href="/r/minionhate">MinionHate</a></li>
             
         
             
             
-              <li>Pigifs</li>
+              <li><a href="/r/pigifs">Pigifs</a></li>
             
         
             
             
-              <li>hamiltonmusical</li>
+              <li><a href="/r/hamiltonmusical">hamiltonmusical</a></li>
             
         
             
             
-              <li>mildlypenis</li>
+              <li><a href="/r/mildlypenis">mildlypenis</a></li>
             
         
             
             
-              <li>StonerEngineering</li>
+              <li><a href="/r/stonerengineering">StonerEngineering</a></li>
             
         
             
             
-              <li>Pigtures</li>
+              <li><a href="/r/pigtures">Pigtures</a></li>
             
         
             
             
-              <li>hmm</li>
+              <li><a href="/r/hmm">hmm</a></li>
             
         
             
             
-              <li>Shitty_Car_Mods</li>
+              <li><a href="/r/shitty_car_mods">Shitty_Car_Mods</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

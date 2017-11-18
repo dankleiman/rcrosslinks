@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>Steam</li>
+              <li><a href="/r/steam">Steam</a></li>
             
         
             
             
-              <li>GOTradeReport</li>
+              <li><a href="/r/gotradereport">GOTradeReport</a></li>
             
         
             
             
-              <li>opskins</li>
+              <li><a href="/r/opskins">opskins</a></li>
             
         
             
             
-              <li>SteamTradingCards</li>
+              <li><a href="/r/steamtradingcards">SteamTradingCards</a></li>
             
         
             
             
-              <li>csgomarketforum</li>
+              <li><a href="/r/csgomarketforum">csgomarketforum</a></li>
             
         
             
             
-              <li>SteamGameSwap</li>
+              <li><a href="/r/steamgameswap">SteamGameSwap</a></li>
             
         
             
             
-              <li>csgotrade</li>
+              <li><a href="/r/csgotrade">csgotrade</a></li>
             
         
             
@@ -158,42 +140,42 @@
         
             
             
-              <li>GoTradeAppeals</li>
+              <li><a href="/r/gotradeappeals">GoTradeAppeals</a></li>
             
         
             
             
-              <li>KatowiceTrading</li>
+              <li><a href="/r/katowicetrading">KatowiceTrading</a></li>
             
         
             
             
-              <li>PUBGTrade</li>
+              <li><a href="/r/pubgtrade">PUBGTrade</a></li>
             
         
             
             
-              <li>SteamArtworkProfiles</li>
+              <li><a href="/r/steamartworkprofiles">SteamArtworkProfiles</a></li>
             
         
             
             
-              <li>Dota2Trade</li>
+              <li><a href="/r/dota2trade">Dota2Trade</a></li>
             
         
             
             
-              <li>csgo_trading</li>
+              <li><a href="/r/csgo_trading">csgo_trading</a></li>
             
         
             
             
-              <li>RAOfCSGO</li>
+              <li><a href="/r/raofcsgo">RAOfCSGO</a></li>
             
         
             
             
-              <li>changelog</li>
+              <li><a href="/r/changelog">changelog</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>tf2</li>
+              <li><a href="/r/tf2">tf2</a></li>
             
         
             
             
-              <li>cheapcsgotrading</li>
+              <li><a href="/r/cheapcsgotrading">cheapcsgotrading</a></li>
             
         
             
             
-              <li>programming</li>
+              <li><a href="/r/programming">programming</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

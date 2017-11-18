@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>Android</li>
+              <li><a href="/r/android">Android</a></li>
             
         
             
             
-              <li>oneplussupport</li>
+              <li><a href="/r/oneplussupport">oneplussupport</a></li>
             
         
             
@@ -133,91 +115,95 @@
         
             
             
-              <li>LineageOS</li>
+              <li><a href="/r/lineageos">LineageOS</a></li>
             
         
             
             
-              <li>androidthemes</li>
+              <li><a href="/r/androidthemes">androidthemes</a></li>
             
         
             
             
-              <li>Nexus6P</li>
+              <li><a href="/r/nexus6p">Nexus6P</a></li>
             
         
             
             
-              <li>androidapps</li>
+              <li><a href="/r/androidapps">androidapps</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>GalaxyS7</li>
+              <li><a href="/r/galaxys7">GalaxyS7</a></li>
             
         
             
             
-              <li>OnePlus3T</li>
+              <li><a href="/r/oneplus3t">OnePlus3T</a></li>
             
         
             
             
-              <li>lgg6</li>
+              <li><a href="/r/lgg6">lgg6</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>GooglePixel</li>
+              <li><a href="/r/googlepixel">GooglePixel</a></li>
             
         
             
             
-              <li>GalaxyS8</li>
+              <li><a href="/r/galaxys8">GalaxyS8</a></li>
             
         
             
             
-              <li>PickAnAndroidForMe</li>
+              <li><a href="/r/pickanandroidforme">PickAnAndroidForMe</a></li>
             
         
             
             
-              <li>oneplusone</li>
+              <li><a href="/r/oneplusone">oneplusone</a></li>
             
         
             
             
-              <li>SchoolIdolFestival</li>
+              <li><a href="/r/schoolidolfestival">SchoolIdolFestival</a></li>
             
         
             
             
-              <li>oneplusphotos</li>
+              <li><a href="/r/oneplusphotos">oneplusphotos</a></li>
             
         
             
             
-              <li>EarthPorn</li>
+              <li><a href="/r/earthporn">EarthPorn</a></li>
             
         
             
             
-              <li>nexus5x</li>
+              <li><a href="/r/nexus5x">nexus5x</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

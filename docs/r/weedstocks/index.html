@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,47 +100,47 @@
         
             
             
-              <li>canadients</li>
+              <li><a href="/r/canadients">canadients</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>CanadaWeedStocks</li>
+              <li><a href="/r/canadaweedstocks">CanadaWeedStocks</a></li>
             
         
             
             
-              <li>TODispensaries</li>
+              <li><a href="/r/todispensaries">TODispensaries</a></li>
             
         
             
             
-              <li>canada</li>
+              <li><a href="/r/canada">canada</a></li>
             
         
             
             
-              <li>stocks</li>
+              <li><a href="/r/stocks">stocks</a></li>
             
         
             
             
-              <li>investing</li>
+              <li><a href="/r/investing">investing</a></li>
             
         
             
             
-              <li>trees</li>
+              <li><a href="/r/trees">trees</a></li>
             
         
             
             
-              <li>microgrowery</li>
+              <li><a href="/r/microgrowery">microgrowery</a></li>
             
         
             
@@ -168,22 +150,22 @@
         
             
             
-              <li>pennystocks</li>
+              <li><a href="/r/pennystocks">pennystocks</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>CanadianMOMs</li>
+              <li><a href="/r/canadianmoms">CanadianMOMs</a></li>
             
         
             
             
-              <li>madlads</li>
+              <li><a href="/r/madlads">madlads</a></li>
             
         
             
             
-              <li>ITdept</li>
+              <li><a href="/r/itdept">ITdept</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

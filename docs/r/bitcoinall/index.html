@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>Bitcoin</li>
+              <li><a href="/r/bitcoin">Bitcoin</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Bitcoincash</li>
+              <li><a href="/r/bitcoincash">Bitcoincash</a></li>
             
         
             
             
-              <li>BitcoinMarkets</li>
+              <li><a href="/r/bitcoinmarkets">BitcoinMarkets</a></li>
             
         
             
             
-              <li>BitcoinMining</li>
+              <li><a href="/r/bitcoinmining">BitcoinMining</a></li>
             
         
             
@@ -148,7 +130,7 @@
         
             
             
-              <li>CryptoCurrency</li>
+              <li><a href="/r/cryptocurrency">CryptoCurrency</a></li>
             
         
             
@@ -158,12 +140,12 @@
         
             
             
-              <li>BitcoinTechnology</li>
+              <li><a href="/r/bitcointechnology">BitcoinTechnology</a></li>
             
         
             
             
-              <li>BTCuncensored</li>
+              <li><a href="/r/btcuncensored">BTCuncensored</a></li>
             
         
             
@@ -173,27 +155,27 @@
         
             
             
-              <li>BitcoinSerious</li>
+              <li><a href="/r/bitcoinserious">BitcoinSerious</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>Bitcoin_Exposed</li>
+              <li><a href="/r/bitcoin_exposed">Bitcoin_Exposed</a></li>
             
         
             
             
-              <li>Bitcoin_Classic</li>
+              <li><a href="/r/bitcoin_classic">Bitcoin_Classic</a></li>
             
         
             
             
-              <li>BitcoinABC</li>
+              <li><a href="/r/bitcoinabc">BitcoinABC</a></li>
             
         
             
@@ -203,7 +185,7 @@
         
             
             
-              <li>ethereum</li>
+              <li><a href="/r/ethereum">ethereum</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>ProCSS</li>
+              <li><a href="/r/procss">ProCSS</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

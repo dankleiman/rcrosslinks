@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>tf2</li>
+              <li><a href="/r/tf2">tf2</a></li>
             
         
             
@@ -133,7 +115,7 @@
         
             
             
-              <li>JonTron</li>
+              <li><a href="/r/jontron">JonTron</a></li>
             
         
             
@@ -148,76 +130,80 @@
         
             
             
-              <li>PlaceThugs</li>
+              <li><a href="/r/placethugs">PlaceThugs</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>ImagesOfMassachusetts</li>
+              <li><a href="/r/imagesofmassachusetts">ImagesOfMassachusetts</a></li>
             
         
             
             
-              <li>reddevils</li>
+              <li><a href="/r/reddevils">reddevils</a></li>
             
         
             
             
-              <li>lego</li>
+              <li><a href="/r/lego">lego</a></li>
             
         
             
             
-              <li>ChargeYourPhone</li>
+              <li><a href="/r/chargeyourphone">ChargeYourPhone</a></li>
             
         
             
             
-              <li>TheOfficialPodcast</li>
+              <li><a href="/r/theofficialpodcast">TheOfficialPodcast</a></li>
             
         
             
             
-              <li>HelloInternet</li>
+              <li><a href="/r/hellointernet">HelloInternet</a></li>
             
         
             
             
-              <li>oddlysatisfying</li>
+              <li><a href="/r/oddlysatisfying">oddlysatisfying</a></li>
             
         
             
             
-              <li>wholesomememes</li>
+              <li><a href="/r/wholesomememes">wholesomememes</a></li>
             
         
             
             
-              <li>0w0</li>
+              <li><a href="/r/0w0">0w0</a></li>
             
         
             
             
-              <li>seaofgreed</li>
+              <li><a href="/r/seaofgreed">seaofgreed</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>Soundclown</li>
+              <li><a href="/r/soundclown">Soundclown</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

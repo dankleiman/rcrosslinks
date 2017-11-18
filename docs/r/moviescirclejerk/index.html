@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>movies</li>
+              <li><a href="/r/movies">movies</a></li>
             
         
             
             
-              <li>DC_Cinematic</li>
+              <li><a href="/r/dc_cinematic">DC_Cinematic</a></li>
             
         
             
             
-              <li>marvelstudios</li>
+              <li><a href="/r/marvelstudios">marvelstudios</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>MovieDetails</li>
+              <li><a href="/r/moviedetails">MovieDetails</a></li>
             
         
             
             
-              <li>REEEEEEEEEE</li>
+              <li><a href="/r/reeeeeeeeee">REEEEEEEEEE</a></li>
             
         
             
             
-              <li>YMS</li>
+              <li><a href="/r/yms">YMS</a></li>
             
         
             
             
-              <li>TrueFilm</li>
+              <li><a href="/r/truefilm">TrueFilm</a></li>
             
         
             
             
-              <li>flicks</li>
+              <li><a href="/r/flicks">flicks</a></li>
             
         
             
             
-              <li>iwatchedanoldmovie</li>
+              <li><a href="/r/iwatchedanoldmovie">iwatchedanoldmovie</a></li>
             
         
             
             
-              <li>SuperheroCirclejerk</li>
+              <li><a href="/r/superherocirclejerk">SuperheroCirclejerk</a></li>
             
         
             
             
-              <li>television</li>
+              <li><a href="/r/television">television</a></li>
             
         
             
             
-              <li>StarWars</li>
+              <li><a href="/r/starwars">StarWars</a></li>
             
         
             
             
-              <li>Dunkirk</li>
+              <li><a href="/r/dunkirk">Dunkirk</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
             
-              <li>interstellar</li>
+              <li><a href="/r/interstellar">interstellar</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>raimimemes</li>
+              <li><a href="/r/raimimemes">raimimemes</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

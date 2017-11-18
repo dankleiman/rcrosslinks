@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,27 +100,27 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Portland</li>
+              <li><a href="/r/portland">Portland</a></li>
             
         
             
             
-              <li>Eugene</li>
+              <li><a href="/r/eugene">Eugene</a></li>
             
         
             
             
-              <li>corvallis</li>
+              <li><a href="/r/corvallis">corvallis</a></li>
             
         
             
             
-              <li>SALEM</li>
+              <li><a href="/r/salem">SALEM</a></li>
             
         
             
@@ -148,27 +130,27 @@
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>trains</li>
+              <li><a href="/r/trains">trains</a></li>
             
         
             
             
-              <li>Roadcam</li>
+              <li><a href="/r/roadcam">Roadcam</a></li>
             
         
             
             
-              <li>DeepGreenResistance</li>
+              <li><a href="/r/deepgreenresistance">DeepGreenResistance</a></li>
             
         
             
             
-              <li>thenext</li>
+              <li><a href="/r/thenext">thenext</a></li>
             
         
             
@@ -178,12 +160,12 @@
         
             
             
-              <li>NationalPark</li>
+              <li><a href="/r/nationalpark">NationalPark</a></li>
             
         
             
             
-              <li>SkyPorn</li>
+              <li><a href="/r/skyporn">SkyPorn</a></li>
             
         
             
@@ -198,7 +180,7 @@
         
             
             
-              <li>askportland</li>
+              <li><a href="/r/askportland">askportland</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>electionReformXpost</li>
+              <li><a href="/r/electionreformxpost">electionReformXpost</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

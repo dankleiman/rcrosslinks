@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,57 +100,57 @@
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>2007scape</li>
+              <li><a href="/r/2007scape">2007scape</a></li>
             
         
             
             
-              <li>OnePiece</li>
+              <li><a href="/r/onepiece">OnePiece</a></li>
             
         
             
             
-              <li>skyrim</li>
+              <li><a href="/r/skyrim">skyrim</a></li>
             
         
             
             
-              <li>FlagAlliance</li>
+              <li><a href="/r/flagalliance">FlagAlliance</a></li>
             
         
             
             
-              <li>Pxlsspace</li>
+              <li><a href="/r/pxlsspace">Pxlsspace</a></li>
             
         
             
             
-              <li>mylittlepony</li>
+              <li><a href="/r/mylittlepony">mylittlepony</a></li>
             
         
             
             
-              <li>AmericanFlaginPlace</li>
+              <li><a href="/r/americanflaginplace">AmericanFlaginPlace</a></li>
             
         
             
             
-              <li>RimWorld</li>
+              <li><a href="/r/rimworld">RimWorld</a></li>
             
         
             
             
-              <li>furry</li>
+              <li><a href="/r/furry">furry</a></li>
             
         
             
             
-              <li>STS9</li>
+              <li><a href="/r/sts9">STS9</a></li>
             
         
             
@@ -178,12 +160,12 @@
         
             
             
-              <li>hyperlightdrifter</li>
+              <li><a href="/r/hyperlightdrifter">hyperlightdrifter</a></li>
             
         
             
             
-              <li>myst</li>
+              <li><a href="/r/myst">myst</a></li>
             
         
             
@@ -193,31 +175,35 @@
         
             
             
-              <li>Warframe</li>
+              <li><a href="/r/warframe">Warframe</a></li>
             
         
             
             
-              <li>poop</li>
+              <li><a href="/r/poop">poop</a></li>
             
         
             
             
-              <li>h3h3productions</li>
+              <li><a href="/r/h3h3productions">h3h3productions</a></li>
             
         
             
             
-              <li>place20</li>
+              <li><a href="/r/place20">place20</a></li>
             
         
             
             
-              <li>teslamotors</li>
+              <li><a href="/r/teslamotors">teslamotors</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

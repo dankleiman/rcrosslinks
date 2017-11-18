@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,47 +100,47 @@
         
             
             
-              <li>ethtrader</li>
+              <li><a href="/r/ethtrader">ethtrader</a></li>
             
         
             
             
-              <li>DNTtrader</li>
+              <li><a href="/r/dnttrader">DNTtrader</a></li>
             
         
             
             
-              <li>Bitcoin</li>
+              <li><a href="/r/bitcoin">Bitcoin</a></li>
             
         
             
             
-              <li>pcmasterrace</li>
+              <li><a href="/r/pcmasterrace">pcmasterrace</a></li>
             
         
             
             
-              <li>CryptoCurrency</li>
+              <li><a href="/r/cryptocurrency">CryptoCurrency</a></li>
             
         
             
             
-              <li>FuckToken</li>
+              <li><a href="/r/fucktoken">FuckToken</a></li>
             
         
             
             
-              <li>ICONOMI</li>
+              <li><a href="/r/iconomi">ICONOMI</a></li>
             
         
             
             
-              <li>ArkEcosystem</li>
+              <li><a href="/r/arkecosystem">ArkEcosystem</a></li>
             
         
             
             
-              <li>ethereum</li>
+              <li><a href="/r/ethereum">ethereum</a></li>
             
         
             
@@ -168,21 +150,25 @@
         
             
             
-              <li>Tenant</li>
+              <li><a href="/r/tenant">Tenant</a></li>
             
         
             
             
-              <li>Crypto_Currency_News</li>
+              <li><a href="/r/crypto_currency_news">Crypto_Currency_News</a></li>
             
         
             
             
-              <li>aragonproject</li>
+              <li><a href="/r/aragonproject">aragonproject</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

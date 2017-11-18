@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,32 +105,32 @@
         
             
             
-              <li>tf2</li>
+              <li><a href="/r/tf2">tf2</a></li>
             
         
             
             
-              <li>JonTron</li>
+              <li><a href="/r/jontron">JonTron</a></li>
             
         
             
             
-              <li>riversidestation</li>
+              <li><a href="/r/riversidestation">riversidestation</a></li>
             
         
             
             
-              <li>playmygame</li>
+              <li><a href="/r/playmygame">playmygame</a></li>
             
         
             
             
-              <li>speedrun</li>
+              <li><a href="/r/speedrun">speedrun</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
@@ -158,46 +140,50 @@
         
             
             
-              <li>shamelessplug</li>
+              <li><a href="/r/shamelessplug">shamelessplug</a></li>
             
         
             
             
-              <li>modnews</li>
+              <li><a href="/r/modnews">modnews</a></li>
             
         
             
             
-              <li>whowouldwin</li>
+              <li><a href="/r/whowouldwin">whowouldwin</a></li>
             
         
             
             
-              <li>Metroid</li>
+              <li><a href="/r/metroid">Metroid</a></li>
             
         
             
             
-              <li>i_irl</li>
+              <li><a href="/r/i_irl">i_irl</a></li>
             
         
             
             
-              <li>coaxedintoasnafu</li>
+              <li><a href="/r/coaxedintoasnafu">coaxedintoasnafu</a></li>
             
         
             
             
-              <li>nintendo</li>
+              <li><a href="/r/nintendo">nintendo</a></li>
             
         
             
             
-              <li>retrogaming</li>
+              <li><a href="/r/retrogaming">retrogaming</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

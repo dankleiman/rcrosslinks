@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>Crouton</li>
+              <li><a href="/r/crouton">Crouton</a></li>
             
         
             
             
-              <li>GalliumOS</li>
+              <li><a href="/r/galliumos">GalliumOS</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Android</li>
+              <li><a href="/r/android">Android</a></li>
             
         
             
             
-              <li>chrome</li>
+              <li><a href="/r/chrome">chrome</a></li>
             
         
             
             
-              <li>hardwareswap</li>
+              <li><a href="/r/hardwareswap">hardwareswap</a></li>
             
         
             
             
-              <li>Chromecast</li>
+              <li><a href="/r/chromecast">Chromecast</a></li>
             
         
             
@@ -163,52 +145,52 @@
         
             
             
-              <li>SuggestALaptop</li>
+              <li><a href="/r/suggestalaptop">SuggestALaptop</a></li>
             
         
             
             
-              <li>AndroidGaming</li>
+              <li><a href="/r/androidgaming">AndroidGaming</a></li>
             
         
             
             
-              <li>AskElectronics</li>
+              <li><a href="/r/askelectronics">AskElectronics</a></li>
             
         
             
             
-              <li>GooglePixel</li>
+              <li><a href="/r/googlepixel">GooglePixel</a></li>
             
         
             
             
-              <li>thinkpad</li>
+              <li><a href="/r/thinkpad">thinkpad</a></li>
             
         
             
             
-              <li>linux</li>
+              <li><a href="/r/linux">linux</a></li>
             
         
             
             
-              <li>2007scape</li>
+              <li><a href="/r/2007scape">2007scape</a></li>
             
         
             
             
-              <li>gameofthrones</li>
+              <li><a href="/r/gameofthrones">gameofthrones</a></li>
             
         
             
             
-              <li>BrowserGames</li>
+              <li><a href="/r/browsergames">BrowserGames</a></li>
             
         
             
             
-              <li>greatestgen</li>
+              <li><a href="/r/greatestgen">greatestgen</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,66 +100,70 @@
         
             
             
-              <li>delusionalartists</li>
+              <li><a href="/r/delusionalartists">delusionalartists</a></li>
             
         
             
             
-              <li>lewronggeneration</li>
+              <li><a href="/r/lewronggeneration">lewronggeneration</a></li>
             
         
             
             
-              <li>NotTimAndEric</li>
+              <li><a href="/r/nottimanderic">NotTimAndEric</a></li>
             
         
             
             
-              <li>isrconspiracyracist</li>
+              <li><a href="/r/isrconspiracyracist">isrconspiracyracist</a></li>
             
         
             
             
-              <li>listentothis</li>
+              <li><a href="/r/listentothis">listentothis</a></li>
             
         
             
             
-              <li>Deathcore</li>
+              <li><a href="/r/deathcore">Deathcore</a></li>
             
         
             
             
-              <li>DeFranco</li>
+              <li><a href="/r/defranco">DeFranco</a></li>
             
         
             
             
-              <li>BurlingtonON</li>
+              <li><a href="/r/burlingtonon">BurlingtonON</a></li>
             
         
             
             
-              <li>trapmuzik</li>
+              <li><a href="/r/trapmuzik">trapmuzik</a></li>
             
         
             
             
-              <li>notcirclejerk</li>
+              <li><a href="/r/notcirclejerk">notcirclejerk</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

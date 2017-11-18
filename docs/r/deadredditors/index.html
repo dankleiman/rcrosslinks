@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>Drama</li>
+              <li><a href="/r/drama">Drama</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>Epilepsy</li>
+              <li><a href="/r/epilepsy">Epilepsy</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>MGTOW</li>
+              <li><a href="/r/mgtow">MGTOW</a></li>
             
         
             
             
-              <li>jesuschristreddit</li>
+              <li><a href="/r/jesuschristreddit">jesuschristreddit</a></li>
             
         
             
             
-              <li>SuddenlyGay</li>
+              <li><a href="/r/suddenlygay">SuddenlyGay</a></li>
             
         
             
@@ -158,47 +140,47 @@
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>opieandanthony</li>
+              <li><a href="/r/opieandanthony">opieandanthony</a></li>
             
         
             
             
-              <li>SuicideWatch</li>
+              <li><a href="/r/suicidewatch">SuicideWatch</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>democrats</li>
+              <li><a href="/r/democrats">democrats</a></li>
             
         
             
             
-              <li>watchpeopledie</li>
+              <li><a href="/r/watchpeopledie">watchpeopledie</a></li>
             
         
             
             
-              <li>Bitcoin</li>
+              <li><a href="/r/bitcoin">Bitcoin</a></li>
             
         
             
             
-              <li>Devoted</li>
+              <li><a href="/r/devoted">Devoted</a></li>
             
         
             
             
-              <li>ClicksOnLinks</li>
+              <li><a href="/r/clicksonlinks">ClicksOnLinks</a></li>
             
         
             
@@ -208,6 +190,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

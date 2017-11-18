@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,66 +100,70 @@
         
             
             
-              <li>spotted</li>
+              <li><a href="/r/spotted">spotted</a></li>
             
         
             
             
-              <li>WeirdWheels</li>
+              <li><a href="/r/weirdwheels">WeirdWheels</a></li>
             
         
             
             
-              <li>whatisthiscar</li>
+              <li><a href="/r/whatisthiscar">whatisthiscar</a></li>
             
         
             
             
-              <li>cars</li>
+              <li><a href="/r/cars">cars</a></li>
             
         
             
             
-              <li>Justrolledintotheshop</li>
+              <li><a href="/r/justrolledintotheshop">Justrolledintotheshop</a></li>
             
         
             
             
-              <li>namethatplane</li>
+              <li><a href="/r/namethatplane">namethatplane</a></li>
             
         
             
             
-              <li>whatisthisthing</li>
+              <li><a href="/r/whatisthisthing">whatisthisthing</a></li>
             
         
             
             
-              <li>Skookum</li>
+              <li><a href="/r/skookum">Skookum</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>exoticspotting</li>
+              <li><a href="/r/exoticspotting">exoticspotting</a></li>
             
         
             
             
-              <li>mr2</li>
+              <li><a href="/r/mr2">mr2</a></li>
             
         
             
             
-              <li>MechanicAdvice</li>
+              <li><a href="/r/mechanicadvice">MechanicAdvice</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,7 +105,7 @@
         
             
             
-              <li>newreddits_nsfw</li>
+              <li><a href="/r/newreddits_nsfw">newreddits_nsfw</a></li>
             
         
             
@@ -138,32 +120,32 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>INEEEEDIT</li>
+              <li><a href="/r/ineeeedit">INEEEEDIT</a></li>
             
         
             
             
-              <li>HateCrimeHoaxes</li>
+              <li><a href="/r/hatecrimehoaxes">HateCrimeHoaxes</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>Pikmin</li>
+              <li><a href="/r/pikmin">Pikmin</a></li>
             
         
             
@@ -173,22 +155,22 @@
         
             
             
-              <li>PornStarletHQ</li>
+              <li><a href="/r/pornstarlethq">PornStarletHQ</a></li>
             
         
             
             
-              <li>FFNBPS</li>
+              <li><a href="/r/ffnbps">FFNBPS</a></li>
             
         
             
             
-              <li>SkyrimSkills_IRL</li>
+              <li><a href="/r/skyrimskills_irl">SkyrimSkills_IRL</a></li>
             
         
             
             
-              <li>whatsmyimpression</li>
+              <li><a href="/r/whatsmyimpression">whatsmyimpression</a></li>
             
         
             
@@ -198,7 +180,7 @@
         
             
             
-              <li>WritingPrompts</li>
+              <li><a href="/r/writingprompts">WritingPrompts</a></li>
             
         
             
@@ -208,7 +190,7 @@
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

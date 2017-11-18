@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>paradoxplaza</li>
+              <li><a href="/r/paradoxplaza">paradoxplaza</a></li>
             
         
             
             
-              <li>CrusaderKings</li>
+              <li><a href="/r/crusaderkings">CrusaderKings</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
@@ -143,81 +125,85 @@
         
             
             
-              <li>europe</li>
+              <li><a href="/r/europe">europe</a></li>
             
         
             
             
-              <li>eu4achievements</li>
+              <li><a href="/r/eu4achievements">eu4achievements</a></li>
             
         
             
             
-              <li>MapPorn</li>
+              <li><a href="/r/mapporn">MapPorn</a></li>
             
         
             
             
-              <li>ParadoxExtra</li>
+              <li><a href="/r/paradoxextra">ParadoxExtra</a></li>
             
         
             
             
-              <li>MEIOUandTaxes</li>
+              <li><a href="/r/meiouandtaxes">MEIOUandTaxes</a></li>
             
         
             
             
-              <li>DemocratiaUniversalis</li>
+              <li><a href="/r/democratiauniversalis">DemocratiaUniversalis</a></li>
             
         
             
             
-              <li>ShitCrusaderKingsSay</li>
+              <li><a href="/r/shitcrusaderkingssay">ShitCrusaderKingsSay</a></li>
             
         
             
             
-              <li>civ</li>
+              <li><a href="/r/civ">civ</a></li>
             
         
             
             
-              <li>PortugalOnReddit</li>
+              <li><a href="/r/portugalonreddit">PortugalOnReddit</a></li>
             
         
             
             
-              <li>nocontext</li>
+              <li><a href="/r/nocontext">nocontext</a></li>
             
         
             
             
-              <li>GameDeals</li>
+              <li><a href="/r/gamedeals">GameDeals</a></li>
             
         
             
             
-              <li>Stellaris</li>
+              <li><a href="/r/stellaris">Stellaris</a></li>
             
         
             
             
-              <li>EU4Multi</li>
+              <li><a href="/r/eu4multi">EU4Multi</a></li>
             
         
             
             
-              <li>EuropePlaysParadox</li>
+              <li><a href="/r/europeplaysparadox">EuropePlaysParadox</a></li>
             
         
             
             
-              <li>DotA2</li>
+              <li><a href="/r/dota2">DotA2</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

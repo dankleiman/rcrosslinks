@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
@@ -128,96 +110,100 @@
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>foxes</li>
+              <li><a href="/r/foxes">foxes</a></li>
             
         
             
             
-              <li>hitmanimals</li>
+              <li><a href="/r/hitmanimals">hitmanimals</a></li>
             
         
             
             
-              <li>SupermodelCats</li>
+              <li><a href="/r/supermodelcats">SupermodelCats</a></li>
             
         
             
             
-              <li>catsvstechnology</li>
+              <li><a href="/r/catsvstechnology">catsvstechnology</a></li>
             
         
             
             
-              <li>rarepuppers</li>
+              <li><a href="/r/rarepuppers">rarepuppers</a></li>
             
         
             
             
-              <li>frogdogs</li>
+              <li><a href="/r/frogdogs">frogdogs</a></li>
             
         
             
             
-              <li>quilting</li>
+              <li><a href="/r/quilting">quilting</a></li>
             
         
             
             
-              <li>mlem</li>
+              <li><a href="/r/mlem">mlem</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>awwakeup</li>
+              <li><a href="/r/awwakeup">awwakeup</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>Pigtures</li>
+              <li><a href="/r/pigtures">Pigtures</a></li>
             
         
             
             
-              <li>trashpandas</li>
+              <li><a href="/r/trashpandas">trashpandas</a></li>
             
         
             
             
-              <li>MostInterestingCats</li>
+              <li><a href="/r/mostinterestingcats">MostInterestingCats</a></li>
             
         
             
             
-              <li>mildlyinteresting</li>
+              <li><a href="/r/mildlyinteresting">mildlyinteresting</a></li>
             
         
             
             
-              <li>curledfeetsies</li>
+              <li><a href="/r/curledfeetsies">curledfeetsies</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

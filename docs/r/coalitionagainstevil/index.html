@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,42 +100,42 @@
         
             
             
-              <li>EvilLeagueOfEvil</li>
+              <li><a href="/r/evilleagueofevil">EvilLeagueOfEvil</a></li>
             
         
             
             
-              <li>nfl</li>
+              <li><a href="/r/nfl">nfl</a></li>
             
         
             
             
-              <li>Evilluminati</li>
+              <li><a href="/r/evilluminati">Evilluminati</a></li>
             
         
             
             
-              <li>steelers</li>
+              <li><a href="/r/steelers">steelers</a></li>
             
         
             
             
-              <li>ungulateteams</li>
+              <li><a href="/r/ungulateteams">ungulateteams</a></li>
             
         
             
             
-              <li>Patriots</li>
+              <li><a href="/r/patriots">Patriots</a></li>
             
         
             
             
-              <li>Browns</li>
+              <li><a href="/r/browns">Browns</a></li>
             
         
             
             
-              <li>minnesotavikings</li>
+              <li><a href="/r/minnesotavikings">minnesotavikings</a></li>
             
         
             
@@ -163,17 +145,17 @@
         
             
             
-              <li>BIRDTEAMS</li>
+              <li><a href="/r/birdteams">BIRDTEAMS</a></li>
             
         
             
             
-              <li>EvilerLeagueOfEvil</li>
+              <li><a href="/r/evilerleagueofevil">EvilerLeagueOfEvil</a></li>
             
         
             
             
-              <li>NYGiants</li>
+              <li><a href="/r/nygiants">NYGiants</a></li>
             
         
             
@@ -183,22 +165,22 @@
         
             
             
-              <li>Seahawks</li>
+              <li><a href="/r/seahawks">Seahawks</a></li>
             
         
             
             
-              <li>Colts</li>
+              <li><a href="/r/colts">Colts</a></li>
             
         
             
             
-              <li>theplunderhood</li>
+              <li><a href="/r/theplunderhood">theplunderhood</a></li>
             
         
             
             
-              <li>GreenBayPackers</li>
+              <li><a href="/r/greenbaypackers">GreenBayPackers</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>Saints</li>
+              <li><a href="/r/saints">Saints</a></li>
             
         
             
             
-              <li>oaklandraiders</li>
+              <li><a href="/r/oaklandraiders">oaklandraiders</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

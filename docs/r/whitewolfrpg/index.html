@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>rpg</li>
+              <li><a href="/r/rpg">rpg</a></li>
             
         
             
             
-              <li>spam</li>
+              <li><a href="/r/spam">spam</a></li>
             
         
             
             
-              <li>lfg</li>
+              <li><a href="/r/lfg">lfg</a></li>
             
         
             
@@ -138,12 +120,12 @@
         
             
             
-              <li>lego</li>
+              <li><a href="/r/lego">lego</a></li>
             
         
             
             
-              <li>anime_irl</li>
+              <li><a href="/r/anime_irl">anime_irl</a></li>
             
         
             
@@ -153,22 +135,22 @@
         
             
             
-              <li>AskGameMasters</li>
+              <li><a href="/r/askgamemasters">AskGameMasters</a></li>
             
         
             
             
-              <li>DnD</li>
+              <li><a href="/r/dnd">DnD</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>roll20LFG</li>
+              <li><a href="/r/roll20lfg">roll20LFG</a></li>
             
         
             
@@ -178,21 +160,25 @@
         
             
             
-              <li>nocontext</li>
+              <li><a href="/r/nocontext">nocontext</a></li>
             
         
             
             
-              <li>homeless</li>
+              <li><a href="/r/homeless">homeless</a></li>
             
         
             
             
-              <li>exalted</li>
+              <li><a href="/r/exalted">exalted</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

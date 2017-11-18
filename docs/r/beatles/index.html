@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,101 +105,105 @@
         
             
             
-              <li>vinyl</li>
+              <li><a href="/r/vinyl">vinyl</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
             
-              <li>led_zeppelin</li>
+              <li><a href="/r/led_zeppelin">led_zeppelin</a></li>
             
         
             
             
-              <li>weezer</li>
+              <li><a href="/r/weezer">weezer</a></li>
             
         
             
             
-              <li>vexillology</li>
+              <li><a href="/r/vexillology">vexillology</a></li>
             
         
             
             
-              <li>TheBeatles</li>
+              <li><a href="/r/thebeatles">TheBeatles</a></li>
             
         
             
             
-              <li>Guitar</li>
+              <li><a href="/r/guitar">Guitar</a></li>
             
         
             
             
-              <li>lego</li>
+              <li><a href="/r/lego">lego</a></li>
             
         
             
             
-              <li>Art</li>
+              <li><a href="/r/art">Art</a></li>
             
         
             
             
-              <li>Documentaries</li>
+              <li><a href="/r/documentaries">Documentaries</a></li>
             
         
             
             
-              <li>madlads</li>
+              <li><a href="/r/madlads">madlads</a></li>
             
         
             
             
-              <li>DeepFriedMemes</li>
+              <li><a href="/r/deepfriedmemes">DeepFriedMemes</a></li>
             
         
             
             
-              <li>copypasta</li>
+              <li><a href="/r/copypasta">copypasta</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>ofcoursethatsathing</li>
+              <li><a href="/r/ofcoursethatsathing">ofcoursethatsathing</a></li>
             
         
             
             
-              <li>gorillaz</li>
+              <li><a href="/r/gorillaz">gorillaz</a></li>
             
         
             
             
-              <li>KendrickLamar</li>
+              <li><a href="/r/kendricklamar">KendrickLamar</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

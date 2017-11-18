@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>nfl</li>
+              <li><a href="/r/nfl">nfl</a></li>
             
         
             
@@ -133,67 +115,67 @@
         
             
             
-              <li>GreenBayPackers</li>
+              <li><a href="/r/greenbaypackers">GreenBayPackers</a></li>
             
         
             
             
-              <li>detroitlions</li>
+              <li><a href="/r/detroitlions">detroitlions</a></li>
             
         
             
             
-              <li>nflstreams</li>
+              <li><a href="/r/nflstreams">nflstreams</a></li>
             
         
             
             
-              <li>reddit_stream</li>
+              <li><a href="/r/reddit_stream">reddit_stream</a></li>
             
         
             
             
-              <li>wildhockey</li>
+              <li><a href="/r/wildhockey">wildhockey</a></li>
             
         
             
             
-              <li>CoalitionAgainstEvil</li>
+              <li><a href="/r/coalitionagainstevil">CoalitionAgainstEvil</a></li>
             
         
             
             
-              <li>minnesotatwins</li>
+              <li><a href="/r/minnesotatwins">minnesotatwins</a></li>
             
         
             
             
-              <li>49ers</li>
+              <li><a href="/r/49ers">49ers</a></li>
             
         
             
             
-              <li>sports</li>
+              <li><a href="/r/sports">sports</a></li>
             
         
             
             
-              <li>ravens</li>
+              <li><a href="/r/ravens">ravens</a></li>
             
         
             
             
-              <li>NFL_Draft</li>
+              <li><a href="/r/nfl_draft">NFL_Draft</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>redditdev</li>
+              <li><a href="/r/redditdev">redditdev</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>HFY</li>
+              <li><a href="/r/hfy">HFY</a></li>
             
         
             
             
-              <li>DenverBroncos</li>
+              <li><a href="/r/denverbroncos">DenverBroncos</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

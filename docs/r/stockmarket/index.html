@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,42 +100,42 @@
         
             
             
-              <li>investing</li>
+              <li><a href="/r/investing">investing</a></li>
             
         
             
             
-              <li>stocks</li>
+              <li><a href="/r/stocks">stocks</a></li>
             
         
             
             
-              <li>BitcoinMarkets</li>
+              <li><a href="/r/bitcoinmarkets">BitcoinMarkets</a></li>
             
         
             
             
-              <li>CryptoCurrency</li>
+              <li><a href="/r/cryptocurrency">CryptoCurrency</a></li>
             
         
             
             
-              <li>teenagers</li>
+              <li><a href="/r/teenagers">teenagers</a></li>
             
         
             
             
-              <li>mmt_economics</li>
+              <li><a href="/r/mmt_economics">mmt_economics</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
             
-              <li>Stock_Picks</li>
+              <li><a href="/r/stock_picks">Stock_Picks</a></li>
             
         
             
@@ -163,7 +145,7 @@
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
@@ -173,31 +155,35 @@
         
             
             
-              <li>Marijuana_Stocks</li>
+              <li><a href="/r/marijuana_stocks">Marijuana_Stocks</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>opieandanthony</li>
+              <li><a href="/r/opieandanthony">opieandanthony</a></li>
             
         
             
             
-              <li>Bitcoin</li>
+              <li><a href="/r/bitcoin">Bitcoin</a></li>
             
         
             
             
-              <li>anything</li>
+              <li><a href="/r/anything">anything</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,72 +100,72 @@
         
             
             
-              <li>motorcycles</li>
+              <li><a href="/r/motorcycles">motorcycles</a></li>
             
         
             
             
-              <li>CincinnatiRiders</li>
+              <li><a href="/r/cincinnatiriders">CincinnatiRiders</a></li>
             
         
             
             
-              <li>Trackdays</li>
+              <li><a href="/r/trackdays">Trackdays</a></li>
             
         
             
             
-              <li>WTF</li>
+              <li><a href="/r/wtf">WTF</a></li>
             
         
             
             
-              <li>Roadcam</li>
+              <li><a href="/r/roadcam">Roadcam</a></li>
             
         
             
             
-              <li>motorcycle</li>
+              <li><a href="/r/motorcycle">motorcycle</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>FZ09</li>
+              <li><a href="/r/fz09">FZ09</a></li>
             
         
             
             
-              <li>SweatyPalms</li>
+              <li><a href="/r/sweatypalms">SweatyPalms</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>marijuanaenthusiasts</li>
+              <li><a href="/r/marijuanaenthusiasts">marijuanaenthusiasts</a></li>
             
         
             
             
-              <li>SeattleWA</li>
+              <li><a href="/r/seattlewa">SeattleWA</a></li>
             
         
             
             
-              <li>killthecameraman</li>
+              <li><a href="/r/killthecameraman">killthecameraman</a></li>
             
         
             
             
-              <li>MotorcyclesCirclejerk</li>
+              <li><a href="/r/motorcyclescirclejerk">MotorcyclesCirclejerk</a></li>
             
         
             
@@ -193,22 +175,22 @@
         
             
             
-              <li>crt</li>
+              <li><a href="/r/crt">crt</a></li>
             
         
             
             
-              <li>Art</li>
+              <li><a href="/r/art">Art</a></li>
             
         
             
             
-              <li>steroids</li>
+              <li><a href="/r/steroids">steroids</a></li>
             
         
             
             
-              <li>metalworking</li>
+              <li><a href="/r/metalworking">metalworking</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

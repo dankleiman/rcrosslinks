@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>homestead</li>
+              <li><a href="/r/homestead">homestead</a></li>
             
         
             
@@ -128,27 +110,27 @@
         
             
             
-              <li>conspiracy</li>
+              <li><a href="/r/conspiracy">conspiracy</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
             
-              <li>Homesteading</li>
+              <li><a href="/r/homesteading">Homesteading</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>Entrepreneur</li>
+              <li><a href="/r/entrepreneur">Entrepreneur</a></li>
             
         
             
@@ -158,46 +140,50 @@
         
             
             
-              <li>MushroomGrowers</li>
+              <li><a href="/r/mushroomgrowers">MushroomGrowers</a></li>
             
         
             
             
-              <li>mildlypenis</li>
+              <li><a href="/r/mildlypenis">mildlypenis</a></li>
             
         
             
             
-              <li>TwoXChromosomes</li>
+              <li><a href="/r/twoxchromosomes">TwoXChromosomes</a></li>
             
         
             
             
-              <li>BrasilOnReddit</li>
+              <li><a href="/r/brasilonreddit">BrasilOnReddit</a></li>
             
         
             
             
-              <li>NegativeWithGold</li>
+              <li><a href="/r/negativewithgold">NegativeWithGold</a></li>
             
         
             
             
-              <li>goodyearwelt</li>
+              <li><a href="/r/goodyearwelt">goodyearwelt</a></li>
             
         
             
             
-              <li>gardening</li>
+              <li><a href="/r/gardening">gardening</a></li>
             
         
             
             
-              <li>science</li>
+              <li><a href="/r/science">science</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

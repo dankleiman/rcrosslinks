@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>whowouldwin</li>
+              <li><a href="/r/whowouldwin">whowouldwin</a></li>
             
         
             
             
-              <li>respectthreads</li>
+              <li><a href="/r/respectthreads">respectthreads</a></li>
             
         
             
             
-              <li>whowouldcirclejerk</li>
+              <li><a href="/r/whowouldcirclejerk">whowouldcirclejerk</a></li>
             
         
             
             
-              <li>OnePunchMan</li>
+              <li><a href="/r/onepunchman">OnePunchMan</a></li>
             
         
             
             
-              <li>Parahumans</li>
+              <li><a href="/r/parahumans">Parahumans</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
@@ -153,71 +135,75 @@
         
             
             
-              <li>AskScienceFiction</li>
+              <li><a href="/r/asksciencefiction">AskScienceFiction</a></li>
             
         
             
             
-              <li>teslore</li>
+              <li><a href="/r/teslore">teslore</a></li>
             
         
             
             
-              <li>gameofthrones</li>
+              <li><a href="/r/gameofthrones">gameofthrones</a></li>
             
         
             
             
-              <li>anime</li>
+              <li><a href="/r/anime">anime</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>MemeEconomy</li>
+              <li><a href="/r/memeeconomy">MemeEconomy</a></li>
             
         
             
             
-              <li>ElderScrolls</li>
+              <li><a href="/r/elderscrolls">ElderScrolls</a></li>
             
         
             
             
-              <li>mylittlepony</li>
+              <li><a href="/r/mylittlepony">mylittlepony</a></li>
             
         
             
             
-              <li>StarWarsEU</li>
+              <li><a href="/r/starwarseu">StarWarsEU</a></li>
             
         
             
             
-              <li>MawInstallation</li>
+              <li><a href="/r/mawinstallation">MawInstallation</a></li>
             
         
             
             
-              <li>DnD</li>
+              <li><a href="/r/dnd">DnD</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>asoiaf</li>
+              <li><a href="/r/asoiaf">asoiaf</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

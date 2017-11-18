@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>teaexchange</li>
+              <li><a href="/r/teaexchange">teaexchange</a></li>
             
         
             
             
-              <li>germany</li>
+              <li><a href="/r/germany">germany</a></li>
             
         
             
             
-              <li>spain</li>
+              <li><a href="/r/spain">spain</a></li>
             
         
             
             
-              <li>MimicRecipes</li>
+              <li><a href="/r/mimicrecipes">MimicRecipes</a></li>
             
         
             
             
-              <li>Whatisthis</li>
+              <li><a href="/r/whatisthis">Whatisthis</a></li>
             
         
             
             
-              <li>Austria</li>
+              <li><a href="/r/austria">Austria</a></li>
             
         
             
@@ -153,22 +135,22 @@
         
             
             
-              <li>france</li>
+              <li><a href="/r/france">france</a></li>
             
         
             
             
-              <li>AskAnAmerican</li>
+              <li><a href="/r/askanamerican">AskAnAmerican</a></li>
             
         
             
             
-              <li>AskUK</li>
+              <li><a href="/r/askuk">AskUK</a></li>
             
         
             
             
-              <li>Random_Acts_Of_Pizza</li>
+              <li><a href="/r/random_acts_of_pizza">Random_Acts_Of_Pizza</a></li>
             
         
             
@@ -178,6 +160,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

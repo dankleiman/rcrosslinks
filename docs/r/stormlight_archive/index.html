@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>Cosmere</li>
+              <li><a href="/r/cosmere">Cosmere</a></li>
             
         
             
@@ -128,27 +110,27 @@
         
             
             
-              <li>Fantasy</li>
+              <li><a href="/r/fantasy">Fantasy</a></li>
             
         
             
             
-              <li>imaginarycosmere</li>
+              <li><a href="/r/imaginarycosmere">imaginarycosmere</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>EarthPorn</li>
+              <li><a href="/r/earthporn">EarthPorn</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
@@ -158,7 +140,7 @@
         
             
             
-              <li>Art</li>
+              <li><a href="/r/art">Art</a></li>
             
         
             
@@ -168,51 +150,55 @@
         
             
             
-              <li>asoiaf</li>
+              <li><a href="/r/asoiaf">asoiaf</a></li>
             
         
             
             
-              <li>FanTheories</li>
+              <li><a href="/r/fantheories">FanTheories</a></li>
             
         
             
             
-              <li>Malazan</li>
+              <li><a href="/r/malazan">Malazan</a></li>
             
         
             
             
-              <li>woahdude</li>
+              <li><a href="/r/woahdude">woahdude</a></li>
             
         
             
             
-              <li>AMAAggregator</li>
+              <li><a href="/r/amaaggregator">AMAAggregator</a></li>
             
         
             
             
-              <li>interestingasfuck</li>
+              <li><a href="/r/interestingasfuck">interestingasfuck</a></li>
             
         
             
             
-              <li>spaceporn</li>
+              <li><a href="/r/spaceporn">spaceporn</a></li>
             
         
             
             
-              <li>latin</li>
+              <li><a href="/r/latin">latin</a></li>
             
         
             
             
-              <li>whowouldwin</li>
+              <li><a href="/r/whowouldwin">whowouldwin</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

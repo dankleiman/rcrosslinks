@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,47 +100,47 @@
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>graphic_design</li>
+              <li><a href="/r/graphic_design">graphic_design</a></li>
             
         
             
             
-              <li>programming</li>
+              <li><a href="/r/programming">programming</a></li>
             
         
             
             
-              <li>explainlikeimfive</li>
+              <li><a href="/r/explainlikeimfive">explainlikeimfive</a></li>
             
         
             
             
-              <li>forhire</li>
+              <li><a href="/r/forhire">forhire</a></li>
             
         
             
             
-              <li>Wordpress</li>
+              <li><a href="/r/wordpress">Wordpress</a></li>
             
         
             
             
-              <li>css</li>
+              <li><a href="/r/css">css</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
@@ -168,17 +150,17 @@
         
             
             
-              <li>Entrepreneur</li>
+              <li><a href="/r/entrepreneur">Entrepreneur</a></li>
             
         
             
             
-              <li>userexperience</li>
+              <li><a href="/r/userexperience">userexperience</a></li>
             
         
             
             
-              <li>PHP</li>
+              <li><a href="/r/php">PHP</a></li>
             
         
             
@@ -188,22 +170,22 @@
         
             
             
-              <li>puppies</li>
+              <li><a href="/r/puppies">puppies</a></li>
             
         
             
             
-              <li>nhl</li>
+              <li><a href="/r/nhl">nhl</a></li>
             
         
             
             
-              <li>shopify</li>
+              <li><a href="/r/shopify">shopify</a></li>
             
         
             
             
-              <li>CodingHelp</li>
+              <li><a href="/r/codinghelp">CodingHelp</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

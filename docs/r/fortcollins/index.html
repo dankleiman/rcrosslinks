@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>Denver</li>
+              <li><a href="/r/denver">Denver</a></li>
             
         
             
@@ -133,12 +115,12 @@
         
             
             
-              <li>FortCollinsClassified</li>
+              <li><a href="/r/fortcollinsclassified">FortCollinsClassified</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
@@ -148,12 +130,12 @@
         
             
             
-              <li>DrawForMe</li>
+              <li><a href="/r/drawforme">DrawForMe</a></li>
             
         
             
             
-              <li>MTB</li>
+              <li><a href="/r/mtb">MTB</a></li>
             
         
             
@@ -163,17 +145,17 @@
         
             
             
-              <li>trashpandas</li>
+              <li><a href="/r/trashpandas">trashpandas</a></li>
             
         
             
             
-              <li>CSUFoCo</li>
+              <li><a href="/r/csufoco">CSUFoCo</a></li>
             
         
             
             
-              <li>trees</li>
+              <li><a href="/r/trees">trees</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>MealPrepSunday</li>
+              <li><a href="/r/mealprepsunday">MealPrepSunday</a></li>
             
         
             
             
-              <li>technology</li>
+              <li><a href="/r/technology">technology</a></li>
             
         
             
             
-              <li>teslamotors</li>
+              <li><a href="/r/teslamotors">teslamotors</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>Whatcouldgowrong</li>
+              <li><a href="/r/whatcouldgowrong">Whatcouldgowrong</a></li>
             
         
             
             
-              <li>NeutralPolitics</li>
+              <li><a href="/r/neutralpolitics">NeutralPolitics</a></li>
             
         
             
             
-              <li>Calligraphy</li>
+              <li><a href="/r/calligraphy">Calligraphy</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

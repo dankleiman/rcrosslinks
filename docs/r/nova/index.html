@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,47 +100,47 @@
         
             
             
-              <li>washingtondc</li>
+              <li><a href="/r/washingtondc">washingtondc</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Roadcam</li>
+              <li><a href="/r/roadcam">Roadcam</a></li>
             
         
             
             
-              <li>VAGuns</li>
+              <li><a href="/r/vaguns">VAGuns</a></li>
             
         
             
             
-              <li>VirginiaPolitics</li>
+              <li><a href="/r/virginiapolitics">VirginiaPolitics</a></li>
             
         
             
             
-              <li>rva</li>
+              <li><a href="/r/rva">rva</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>PFSENSE</li>
+              <li><a href="/r/pfsense">PFSENSE</a></li>
             
         
             
@@ -168,12 +150,12 @@
         
             
             
-              <li>ShitRedditSays</li>
+              <li><a href="/r/shitredditsays">ShitRedditSays</a></li>
             
         
             
             
-              <li>AutoDetailing</li>
+              <li><a href="/r/autodetailing">AutoDetailing</a></li>
             
         
             
@@ -188,36 +170,40 @@
         
             
             
-              <li>Dashcam</li>
+              <li><a href="/r/dashcam">Dashcam</a></li>
             
         
             
             
-              <li>cars</li>
+              <li><a href="/r/cars">cars</a></li>
             
         
             
             
-              <li>ShadowBan</li>
+              <li><a href="/r/shadowban">ShadowBan</a></li>
             
         
             
             
-              <li>investing</li>
+              <li><a href="/r/investing">investing</a></li>
             
         
             
             
-              <li>jesuschristreddit</li>
+              <li><a href="/r/jesuschristreddit">jesuschristreddit</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

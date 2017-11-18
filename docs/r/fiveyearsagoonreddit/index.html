@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>gaming</li>
+              <li><a href="/r/gaming">gaming</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>WTF</li>
+              <li><a href="/r/wtf">WTF</a></li>
             
         
             
             
-              <li>fffffffuuuuuuuuuuuu</li>
+              <li><a href="/r/fffffffuuuuuuuuuuuu">fffffffuuuuuuuuuuuu</a></li>
             
         
             
             
-              <li>atheism</li>
+              <li><a href="/r/atheism">atheism</a></li>
             
         
             
             
-              <li>trees</li>
+              <li><a href="/r/trees">trees</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>AdviceAnimals</li>
+              <li><a href="/r/adviceanimals">AdviceAnimals</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
             
-              <li>Minecraft</li>
+              <li><a href="/r/minecraft">Minecraft</a></li>
             
         
             
             
-              <li>movies</li>
+              <li><a href="/r/movies">movies</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>4chan</li>
+              <li><a href="/r/4chan">4chan</a></li>
             
         
             
             
-              <li>reactiongifs</li>
+              <li><a href="/r/reactiongifs">reactiongifs</a></li>
             
         
             
             
-              <li>pokemon</li>
+              <li><a href="/r/pokemon">pokemon</a></li>
             
         
             
             
-              <li>technology</li>
+              <li><a href="/r/technology">technology</a></li>
             
         
             
             
-              <li>gameofthrones</li>
+              <li><a href="/r/gameofthrones">gameofthrones</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

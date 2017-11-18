@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>FirefoxCSS</li>
+              <li><a href="/r/firefoxcss">FirefoxCSS</a></li>
             
         
             
             
-              <li>uBlockOrigin</li>
+              <li><a href="/r/ublockorigin">uBlockOrigin</a></li>
             
         
             
             
-              <li>rust</li>
+              <li><a href="/r/rust">rust</a></li>
             
         
             
             
-              <li>linux</li>
+              <li><a href="/r/linux">linux</a></li>
             
         
             
             
-              <li>zeronet</li>
+              <li><a href="/r/zeronet">zeronet</a></li>
             
         
             
             
-              <li>waterfox</li>
+              <li><a href="/r/waterfox">waterfox</a></li>
             
         
             
@@ -158,22 +140,22 @@
         
             
             
-              <li>chrome</li>
+              <li><a href="/r/chrome">chrome</a></li>
             
         
             
             
-              <li>programming</li>
+              <li><a href="/r/programming">programming</a></li>
             
         
             
             
-              <li>Enhancement</li>
+              <li><a href="/r/enhancement">Enhancement</a></li>
             
         
             
             
-              <li>privacytoolsIO</li>
+              <li><a href="/r/privacytoolsio">privacytoolsIO</a></li>
             
         
             
@@ -183,32 +165,32 @@
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>RESAnnouncements</li>
+              <li><a href="/r/resannouncements">RESAnnouncements</a></li>
             
         
             
             
-              <li>RESissues</li>
+              <li><a href="/r/resissues">RESissues</a></li>
             
         
             
             
-              <li>Windows10</li>
+              <li><a href="/r/windows10">Windows10</a></li>
             
         
             
             
-              <li>modnews</li>
+              <li><a href="/r/modnews">modnews</a></li>
             
         
             
             
-              <li>linux_gaming</li>
+              <li><a href="/r/linux_gaming">linux_gaming</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

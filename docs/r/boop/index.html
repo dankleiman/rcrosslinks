@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,17 +105,17 @@
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>aviation</li>
+              <li><a href="/r/aviation">aviation</a></li>
             
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
@@ -143,12 +125,12 @@
         
             
             
-              <li>BetterEveryLoop</li>
+              <li><a href="/r/bettereveryloop">BetterEveryLoop</a></li>
             
         
             
             
-              <li>whothefuckup</li>
+              <li><a href="/r/whothefuckup">whothefuckup</a></li>
             
         
             
@@ -158,22 +140,22 @@
         
             
             
-              <li>nonononoyes</li>
+              <li><a href="/r/nonononoyes">nonononoyes</a></li>
             
         
             
             
-              <li>Blup</li>
+              <li><a href="/r/blup">Blup</a></li>
             
         
             
             
-              <li>PeopleFuckingDying</li>
+              <li><a href="/r/peoplefuckingdying">PeopleFuckingDying</a></li>
             
         
             
             
-              <li>noisygifs</li>
+              <li><a href="/r/noisygifs">noisygifs</a></li>
             
         
             
@@ -183,12 +165,12 @@
         
             
             
-              <li>hitmanimals</li>
+              <li><a href="/r/hitmanimals">hitmanimals</a></li>
             
         
             
             
-              <li>GamePhysics</li>
+              <li><a href="/r/gamephysics">GamePhysics</a></li>
             
         
             
@@ -198,26 +180,30 @@
         
             
             
-              <li>OopsDidntMeanTo</li>
+              <li><a href="/r/oopsdidntmeanto">OopsDidntMeanTo</a></li>
             
         
             
             
-              <li>WhyWereTheyFilming</li>
+              <li><a href="/r/whyweretheyfilming">WhyWereTheyFilming</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>uglypuppers</li>
+              <li><a href="/r/uglypuppers">uglypuppers</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

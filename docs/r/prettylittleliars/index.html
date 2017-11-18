@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,12 +105,12 @@
         
             
             
-              <li>riverdale</li>
+              <li><a href="/r/riverdale">riverdale</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
@@ -143,7 +125,7 @@
         
             
             
-              <li>rupaulsdragrace</li>
+              <li><a href="/r/rupaulsdragrace">rupaulsdragrace</a></li>
             
         
             
@@ -153,47 +135,47 @@
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>GilmoreGirls</li>
+              <li><a href="/r/gilmoregirls">GilmoreGirls</a></li>
             
         
             
             
-              <li>thesims</li>
+              <li><a href="/r/thesims">thesims</a></li>
             
         
             
             
-              <li>TheoryOfReddit</li>
+              <li><a href="/r/theoryofreddit">TheoryOfReddit</a></li>
             
         
             
             
-              <li>FlashTV</li>
+              <li><a href="/r/flashtv">FlashTV</a></li>
             
         
             
             
-              <li>help</li>
+              <li><a href="/r/help">help</a></li>
             
         
             
             
-              <li>Drama</li>
+              <li><a href="/r/drama">Drama</a></li>
             
         
             
             
-              <li>BestOfReports</li>
+              <li><a href="/r/bestofreports">BestOfReports</a></li>
             
         
             
             
-              <li>nosleep</li>
+              <li><a href="/r/nosleep">nosleep</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>cringepics</li>
+              <li><a href="/r/cringepics">cringepics</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

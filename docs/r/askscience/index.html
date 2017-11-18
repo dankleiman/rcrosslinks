@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,37 +100,37 @@
         
             
             
-              <li>HomeworkHelp</li>
+              <li><a href="/r/homeworkhelp">HomeworkHelp</a></li>
             
         
             
             
-              <li>Physics</li>
+              <li><a href="/r/physics">Physics</a></li>
             
         
             
             
-              <li>space</li>
+              <li><a href="/r/space">space</a></li>
             
         
             
             
-              <li>AskScienceDiscussion</li>
+              <li><a href="/r/asksciencediscussion">AskScienceDiscussion</a></li>
             
         
             
             
-              <li>science</li>
+              <li><a href="/r/science">science</a></li>
             
         
             
             
-              <li>AskPhysics</li>
+              <li><a href="/r/askphysics">AskPhysics</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
@@ -158,66 +140,70 @@
         
             
             
-              <li>math</li>
+              <li><a href="/r/math">math</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>explainlikeimfive</li>
+              <li><a href="/r/explainlikeimfive">explainlikeimfive</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>conspiracy</li>
+              <li><a href="/r/conspiracy">conspiracy</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>geology</li>
+              <li><a href="/r/geology">geology</a></li>
             
         
             
             
-              <li>learnprogramming</li>
+              <li><a href="/r/learnprogramming">learnprogramming</a></li>
             
         
             
             
-              <li>chemistry</li>
+              <li><a href="/r/chemistry">chemistry</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>teslamotors</li>
+              <li><a href="/r/teslamotors">teslamotors</a></li>
             
         
             
             
-              <li>help</li>
+              <li><a href="/r/help">help</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>MapPorn</li>
+              <li><a href="/r/mapporn">MapPorn</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
             
-              <li>unitedkingdom</li>
+              <li><a href="/r/unitedkingdom">unitedkingdom</a></li>
             
         
             
             
-              <li>france</li>
+              <li><a href="/r/france">france</a></li>
             
         
             
             
-              <li>ukpolitics</li>
+              <li><a href="/r/ukpolitics">ukpolitics</a></li>
             
         
             
             
-              <li>de</li>
+              <li><a href="/r/de">de</a></li>
             
         
             
             
-              <li>Turkey</li>
+              <li><a href="/r/turkey">Turkey</a></li>
             
         
             
             
-              <li>AskEurope</li>
+              <li><a href="/r/askeurope">AskEurope</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>russia</li>
+              <li><a href="/r/russia">russia</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
             
-              <li>vexillology</li>
+              <li><a href="/r/vexillology">vexillology</a></li>
             
         
             
             
-              <li>sweden</li>
+              <li><a href="/r/sweden">sweden</a></li>
             
         
             
             
-              <li>ireland</li>
+              <li><a href="/r/ireland">ireland</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>syriancivilwar</li>
+              <li><a href="/r/syriancivilwar">syriancivilwar</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

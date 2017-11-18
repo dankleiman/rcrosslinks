@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>PanMan</li>
+              <li><a href="/r/panman">PanMan</a></li>
             
         
             
@@ -128,22 +110,22 @@
         
             
             
-              <li>DavesWorld</li>
+              <li><a href="/r/davesworld">DavesWorld</a></li>
             
         
             
             
-              <li>Tensingstories</li>
+              <li><a href="/r/tensingstories">Tensingstories</a></li>
             
         
             
             
-              <li>HampsterStories</li>
+              <li><a href="/r/hampsterstories">HampsterStories</a></li>
             
         
             
             
-              <li>intotheslushpile</li>
+              <li><a href="/r/intotheslushpile">intotheslushpile</a></li>
             
         
             
@@ -153,12 +135,12 @@
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>XcessiveWriting</li>
+              <li><a href="/r/xcessivewriting">XcessiveWriting</a></li>
             
         
             
@@ -173,12 +155,12 @@
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>nickofnight</li>
+              <li><a href="/r/nickofnight">nickofnight</a></li>
             
         
             
@@ -193,17 +175,17 @@
         
             
             
-              <li>Luna_Lovewell</li>
+              <li><a href="/r/luna_lovewell">Luna_Lovewell</a></li>
             
         
             
             
-              <li>Lilwa_Dexel</li>
+              <li><a href="/r/lilwa_dexel">Lilwa_Dexel</a></li>
             
         
             
             
-              <li>JasonHolloway</li>
+              <li><a href="/r/jasonholloway">JasonHolloway</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>CroatianSpy</li>
+              <li><a href="/r/croatianspy">CroatianSpy</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

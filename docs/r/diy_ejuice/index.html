@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>electronic_cigarette</li>
+              <li><a href="/r/electronic_cigarette">electronic_cigarette</a></li>
             
         
             
             
-              <li>Deeper_DIY</li>
+              <li><a href="/r/deeper_diy">Deeper_DIY</a></li>
             
         
             
             
-              <li>DIY_classifieds</li>
+              <li><a href="/r/diy_classifieds">DIY_classifieds</a></li>
             
         
             
@@ -138,37 +120,37 @@
         
             
             
-              <li>ShakeAndVape</li>
+              <li><a href="/r/shakeandvape">ShakeAndVape</a></li>
             
         
             
             
-              <li>CBD</li>
+              <li><a href="/r/cbd">CBD</a></li>
             
         
             
             
-              <li>Canadian_ecigarette</li>
+              <li><a href="/r/canadian_ecigarette">Canadian_ecigarette</a></li>
             
         
             
             
-              <li>Vaping</li>
+              <li><a href="/r/vaping">Vaping</a></li>
             
         
             
             
-              <li>diy_eliquid</li>
+              <li><a href="/r/diy_eliquid">diy_eliquid</a></li>
             
         
             
             
-              <li>ecr_eu</li>
+              <li><a href="/r/ecr_eu">ecr_eu</a></li>
             
         
             
             
-              <li>aussievapers</li>
+              <li><a href="/r/aussievapers">aussievapers</a></li>
             
         
             
@@ -188,22 +170,22 @@
         
             
             
-              <li>ecigclassifieds</li>
+              <li><a href="/r/ecigclassifieds">ecigclassifieds</a></li>
             
         
             
             
-              <li>Vaping101</li>
+              <li><a href="/r/vaping101">Vaping101</a></li>
             
         
             
             
-              <li>highdeas</li>
+              <li><a href="/r/highdeas">highdeas</a></li>
             
         
             
             
-              <li>mentionhelper</li>
+              <li><a href="/r/mentionhelper">mentionhelper</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>dessert</li>
+              <li><a href="/r/dessert">dessert</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

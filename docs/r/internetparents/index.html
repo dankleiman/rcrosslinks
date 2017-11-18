@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
@@ -128,96 +110,100 @@
         
             
             
-              <li>LifeAfterNarcissism</li>
+              <li><a href="/r/lifeafternarcissism">LifeAfterNarcissism</a></li>
             
         
             
             
-              <li>Anxiety</li>
+              <li><a href="/r/anxiety">Anxiety</a></li>
             
         
             
             
-              <li>resumes</li>
+              <li><a href="/r/resumes">resumes</a></li>
             
         
             
             
-              <li>Teachers</li>
+              <li><a href="/r/teachers">Teachers</a></li>
             
         
             
             
-              <li>ABraThatFits</li>
+              <li><a href="/r/abrathatfits">ABraThatFits</a></li>
             
         
             
             
-              <li>rapecounseling</li>
+              <li><a href="/r/rapecounseling">rapecounseling</a></li>
             
         
             
             
-              <li>declutter</li>
+              <li><a href="/r/declutter">declutter</a></li>
             
         
             
             
-              <li>daddit</li>
+              <li><a href="/r/daddit">daddit</a></li>
             
         
             
             
-              <li>almosthomeless</li>
+              <li><a href="/r/almosthomeless">almosthomeless</a></li>
             
         
             
             
-              <li>CapeCod</li>
+              <li><a href="/r/capecod">CapeCod</a></li>
             
         
             
             
-              <li>AskUK</li>
+              <li><a href="/r/askuk">AskUK</a></li>
             
         
             
             
-              <li>getdisciplined</li>
+              <li><a href="/r/getdisciplined">getdisciplined</a></li>
             
         
             
             
-              <li>angry</li>
+              <li><a href="/r/angry">angry</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>Art</li>
+              <li><a href="/r/art">Art</a></li>
             
         
             
             
-              <li>TrueOffMyChest</li>
+              <li><a href="/r/trueoffmychest">TrueOffMyChest</a></li>
             
         
             
             
-              <li>legaladvice</li>
+              <li><a href="/r/legaladvice">legaladvice</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

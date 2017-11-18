@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,106 +100,110 @@
         
             
             
-              <li>teaching</li>
+              <li><a href="/r/teaching">teaching</a></li>
             
         
             
             
-              <li>SuicideWatch</li>
+              <li><a href="/r/suicidewatch">SuicideWatch</a></li>
             
         
             
             
-              <li>TEFL</li>
+              <li><a href="/r/tefl">TEFL</a></li>
             
         
             
             
-              <li>privacy</li>
+              <li><a href="/r/privacy">privacy</a></li>
             
         
             
             
-              <li>specialed</li>
+              <li><a href="/r/specialed">specialed</a></li>
             
         
             
             
-              <li>ELATeachers</li>
+              <li><a href="/r/elateachers">ELATeachers</a></li>
             
         
             
             
-              <li>furry_irl</li>
+              <li><a href="/r/furry_irl">furry_irl</a></li>
             
         
             
             
-              <li>instructionaldesign</li>
+              <li><a href="/r/instructionaldesign">instructionaldesign</a></li>
             
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
             
-              <li>matheducation</li>
+              <li><a href="/r/matheducation">matheducation</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>ukvisa</li>
+              <li><a href="/r/ukvisa">ukvisa</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>statistics</li>
+              <li><a href="/r/statistics">statistics</a></li>
             
         
             
             
-              <li>CSEducation</li>
+              <li><a href="/r/cseducation">CSEducation</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>politics</li>
+              <li><a href="/r/politics">politics</a></li>
             
         
             
             
-              <li>mentalhealth</li>
+              <li><a href="/r/mentalhealth">mentalhealth</a></li>
             
         
             
             
-              <li>misophonia</li>
+              <li><a href="/r/misophonia">misophonia</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

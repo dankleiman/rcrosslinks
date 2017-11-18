@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,27 +105,27 @@
         
             
             
-              <li>NYKnicks</li>
+              <li><a href="/r/nyknicks">NYKnicks</a></li>
             
         
             
             
-              <li>SampleSize</li>
+              <li><a href="/r/samplesize">SampleSize</a></li>
             
         
             
             
-              <li>washingtonwizards</li>
+              <li><a href="/r/washingtonwizards">washingtonwizards</a></li>
             
         
             
             
-              <li>Suomi</li>
+              <li><a href="/r/suomi">Suomi</a></li>
             
         
             
             
-              <li>chicago</li>
+              <li><a href="/r/chicago">chicago</a></li>
             
         
             
@@ -153,12 +135,12 @@
         
             
             
-              <li>notreallyfamous</li>
+              <li><a href="/r/notreallyfamous">notreallyfamous</a></li>
             
         
             
             
-              <li>NBA2k</li>
+              <li><a href="/r/nba2k">NBA2k</a></li>
             
         
             
@@ -168,56 +150,60 @@
         
             
             
-              <li>StackAdvice</li>
+              <li><a href="/r/stackadvice">StackAdvice</a></li>
             
         
             
             
-              <li>YouGotMe</li>
+              <li><a href="/r/yougotme">YouGotMe</a></li>
             
         
             
             
-              <li>suns</li>
+              <li><a href="/r/suns">suns</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>whitesox</li>
+              <li><a href="/r/whitesox">whitesox</a></li>
             
         
             
             
-              <li>torontoraptors</li>
+              <li><a href="/r/torontoraptors">torontoraptors</a></li>
             
         
             
             
-              <li>pol</li>
+              <li><a href="/r/pol">pol</a></li>
             
         
             
             
-              <li>BlackPeopleTwitter</li>
+              <li><a href="/r/blackpeopletwitter">BlackPeopleTwitter</a></li>
             
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
             
             
-              <li>movies</li>
+              <li><a href="/r/movies">movies</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

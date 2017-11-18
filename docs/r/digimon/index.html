@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,86 +105,90 @@
         
             
             
-              <li>NextOrder</li>
+              <li><a href="/r/nextorder">NextOrder</a></li>
             
         
             
             
-              <li>Crunchyroll</li>
+              <li><a href="/r/crunchyroll">Crunchyroll</a></li>
             
         
             
             
-              <li>cosplay</li>
+              <li><a href="/r/cosplay">cosplay</a></li>
             
         
             
             
-              <li>3dshacks</li>
+              <li><a href="/r/3dshacks">3dshacks</a></li>
             
         
             
             
-              <li>anime</li>
+              <li><a href="/r/anime">anime</a></li>
             
         
             
             
-              <li>RPGMaker</li>
+              <li><a href="/r/rpgmaker">RPGMaker</a></li>
             
         
             
             
-              <li>ActionFigures</li>
+              <li><a href="/r/actionfigures">ActionFigures</a></li>
             
         
             
             
-              <li>SaltyEdits</li>
+              <li><a href="/r/saltyedits">SaltyEdits</a></li>
             
         
             
             
-              <li>pokemon</li>
+              <li><a href="/r/pokemon">pokemon</a></li>
             
         
             
             
-              <li>Games</li>
+              <li><a href="/r/games">Games</a></li>
             
         
             
             
-              <li>icarly</li>
+              <li><a href="/r/icarly">icarly</a></li>
             
         
             
             
-              <li>Blogging</li>
+              <li><a href="/r/blogging">Blogging</a></li>
             
         
             
             
-              <li>TPPKappa</li>
+              <li><a href="/r/tppkappa">TPPKappa</a></li>
             
         
             
             
-              <li>GreenLattice</li>
+              <li><a href="/r/greenlattice">GreenLattice</a></li>
             
         
             
             
-              <li>pokemongo</li>
+              <li><a href="/r/pokemongo">pokemongo</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

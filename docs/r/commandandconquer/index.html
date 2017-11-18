@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>openra</li>
+              <li><a href="/r/openra">openra</a></li>
             
         
             
             
-              <li>redalert2</li>
+              <li><a href="/r/redalert2">redalert2</a></li>
             
         
             
@@ -133,22 +115,22 @@
         
             
             
-              <li>pcgaming</li>
+              <li><a href="/r/pcgaming">pcgaming</a></li>
             
         
             
             
-              <li>modnews</li>
+              <li><a href="/r/modnews">modnews</a></li>
             
         
             
             
-              <li>europe</li>
+              <li><a href="/r/europe">europe</a></li>
             
         
             
             
-              <li>Games</li>
+              <li><a href="/r/games">Games</a></li>
             
         
             
@@ -158,17 +140,17 @@
         
             
             
-              <li>truegaming</li>
+              <li><a href="/r/truegaming">truegaming</a></li>
             
         
             
             
-              <li>redditsync</li>
+              <li><a href="/r/redditsync">redditsync</a></li>
             
         
             
             
-              <li>pcgames</li>
+              <li><a href="/r/pcgames">pcgames</a></li>
             
         
             
@@ -178,11 +160,15 @@
         
             
             
-              <li>aoe3</li>
+              <li><a href="/r/aoe3">aoe3</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>AMA</li>
+              <li><a href="/r/ama">AMA</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>Christianity</li>
+              <li><a href="/r/christianity">Christianity</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
@@ -153,47 +135,47 @@
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>CatholicPolitics</li>
+              <li><a href="/r/catholicpolitics">CatholicPolitics</a></li>
             
         
             
             
-              <li>prolife</li>
+              <li><a href="/r/prolife">prolife</a></li>
             
         
             
             
-              <li>asianamerican</li>
+              <li><a href="/r/asianamerican">asianamerican</a></li>
             
         
             
             
-              <li>divineoffice</li>
+              <li><a href="/r/divineoffice">divineoffice</a></li>
             
         
             
             
-              <li>Solidarity_Party</li>
+              <li><a href="/r/solidarity_party">Solidarity_Party</a></li>
             
         
             
             
-              <li>CatholicDating</li>
+              <li><a href="/r/catholicdating">CatholicDating</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>OrthodoxChristianity</li>
+              <li><a href="/r/orthodoxchristianity">OrthodoxChristianity</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>MapPorn</li>
+              <li><a href="/r/mapporn">MapPorn</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>CatsStandingUp</li>
+              <li><a href="/r/catsstandingup">CatsStandingUp</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

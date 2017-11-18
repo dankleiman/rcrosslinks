@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>denvernuggets</li>
+              <li><a href="/r/denvernuggets">denvernuggets</a></li>
             
         
             
             
-              <li>UtahJazz</li>
+              <li><a href="/r/utahjazz">UtahJazz</a></li>
             
         
             
             
-              <li>minnesotavikings</li>
+              <li><a href="/r/minnesotavikings">minnesotavikings</a></li>
             
         
             
@@ -138,72 +120,72 @@
         
             
             
-              <li>reddit_stream</li>
+              <li><a href="/r/reddit_stream">reddit_stream</a></li>
             
         
             
             
-              <li>wolves</li>
+              <li><a href="/r/wolves">wolves</a></li>
             
         
             
             
-              <li>MkeBucks</li>
+              <li><a href="/r/mkebucks">MkeBucks</a></li>
             
         
             
             
-              <li>NBA_Draft</li>
+              <li><a href="/r/nba_draft">NBA_Draft</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>theydidthemath</li>
+              <li><a href="/r/theydidthemath">theydidthemath</a></li>
             
         
             
             
-              <li>ThePack</li>
+              <li><a href="/r/thepack">ThePack</a></li>
             
         
             
             
-              <li>funkopop</li>
+              <li><a href="/r/funkopop">funkopop</a></li>
             
         
             
             
-              <li>Kanye</li>
+              <li><a href="/r/kanye">Kanye</a></li>
             
         
             
             
-              <li>ripcity</li>
+              <li><a href="/r/ripcity">ripcity</a></li>
             
         
             
             
-              <li>warriors</li>
+              <li><a href="/r/warriors">warriors</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
             
-              <li>shooting_stars</li>
+              <li><a href="/r/shooting_stars">shooting_stars</a></li>
             
         
             
             
-              <li>drawing</li>
+              <li><a href="/r/drawing">drawing</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>Mavericks</li>
+              <li><a href="/r/mavericks">Mavericks</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

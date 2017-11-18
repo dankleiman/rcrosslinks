@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>pacers</li>
+              <li><a href="/r/pacers">pacers</a></li>
             
         
             
             
-              <li>sixers</li>
+              <li><a href="/r/sixers">sixers</a></li>
             
         
             
@@ -133,22 +115,22 @@
         
             
             
-              <li>suns</li>
+              <li><a href="/r/suns">suns</a></li>
             
         
             
             
-              <li>BBB</li>
+              <li><a href="/r/bbb">BBB</a></li>
             
         
             
             
-              <li>NBA_Draft</li>
+              <li><a href="/r/nba_draft">NBA_Draft</a></li>
             
         
             
             
-              <li>Dodgers</li>
+              <li><a href="/r/dodgers">Dodgers</a></li>
             
         
             
@@ -158,12 +140,12 @@
         
             
             
-              <li>NBA2k</li>
+              <li><a href="/r/nba2k">NBA2k</a></li>
             
         
             
             
-              <li>clevelandcavs</li>
+              <li><a href="/r/clevelandcavs">clevelandcavs</a></li>
             
         
             
@@ -173,12 +155,12 @@
         
             
             
-              <li>nfl</li>
+              <li><a href="/r/nfl">nfl</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
@@ -188,36 +170,40 @@
         
             
             
-              <li>GoNets</li>
+              <li><a href="/r/gonets">GoNets</a></li>
             
         
             
             
-              <li>placehearts</li>
+              <li><a href="/r/placehearts">placehearts</a></li>
             
         
             
             
-              <li>NBASpurs</li>
+              <li><a href="/r/nbaspurs">NBASpurs</a></li>
             
         
             
             
-              <li>rockets</li>
+              <li><a href="/r/rockets">rockets</a></li>
             
         
             
             
-              <li>lewronggeneration</li>
+              <li><a href="/r/lewronggeneration">lewronggeneration</a></li>
             
         
             
             
-              <li>orangecounty</li>
+              <li><a href="/r/orangecounty">orangecounty</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

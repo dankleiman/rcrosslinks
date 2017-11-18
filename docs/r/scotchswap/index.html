@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,71 +100,75 @@
         
             
             
-              <li>whiskyinventory</li>
+              <li><a href="/r/whiskyinventory">whiskyinventory</a></li>
             
         
             
             
-              <li>Scotch</li>
+              <li><a href="/r/scotch">Scotch</a></li>
             
         
             
             
-              <li>Whiskyporn</li>
+              <li><a href="/r/whiskyporn">Whiskyporn</a></li>
             
         
             
             
-              <li>whiskyeurope</li>
+              <li><a href="/r/whiskyeurope">whiskyeurope</a></li>
             
         
             
             
-              <li>whiskey</li>
+              <li><a href="/r/whiskey">whiskey</a></li>
             
         
             
             
-              <li>dcwhisky</li>
+              <li><a href="/r/dcwhisky">dcwhisky</a></li>
             
         
             
             
-              <li>cigars</li>
+              <li><a href="/r/cigars">cigars</a></li>
             
         
             
             
-              <li>instant_regret</li>
+              <li><a href="/r/instant_regret">instant_regret</a></li>
             
         
             
             
-              <li>whiskago</li>
+              <li><a href="/r/whiskago">whiskago</a></li>
             
         
             
             
-              <li>ImagesOfAustralia</li>
+              <li><a href="/r/imagesofaustralia">ImagesOfAustralia</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>Enhancement</li>
+              <li><a href="/r/enhancement">Enhancement</a></li>
             
         
             
             
-              <li>canadawhisky</li>
+              <li><a href="/r/canadawhisky">canadawhisky</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

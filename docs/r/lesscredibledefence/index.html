@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>india</li>
+              <li><a href="/r/india">india</a></li>
             
         
             
             
-              <li>navy</li>
+              <li><a href="/r/navy">navy</a></li>
             
         
             
@@ -138,7 +120,7 @@
         
             
             
-              <li>syriancivilwar</li>
+              <li><a href="/r/syriancivilwar">syriancivilwar</a></li>
             
         
             
@@ -148,12 +130,12 @@
         
             
             
-              <li>MilitaryProcurement</li>
+              <li><a href="/r/militaryprocurement">MilitaryProcurement</a></li>
             
         
             
             
-              <li>cooperatives</li>
+              <li><a href="/r/cooperatives">cooperatives</a></li>
             
         
             
@@ -163,61 +145,65 @@
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
             
             
-              <li>weekendgunnit</li>
+              <li><a href="/r/weekendgunnit">weekendgunnit</a></li>
             
         
             
             
-              <li>theydidthemath</li>
+              <li><a href="/r/theydidthemath">theydidthemath</a></li>
             
         
             
             
-              <li>MilitaryGfys</li>
+              <li><a href="/r/militarygfys">MilitaryGfys</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>WarCollege</li>
+              <li><a href="/r/warcollege">WarCollege</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>guns</li>
+              <li><a href="/r/guns">guns</a></li>
             
         
             
             
-              <li>weaponsystems</li>
+              <li><a href="/r/weaponsystems">weaponsystems</a></li>
             
         
             
             
-              <li>FULLCOMMUNISM</li>
+              <li><a href="/r/fullcommunism">FULLCOMMUNISM</a></li>
             
         
             
             
-              <li>MilitaryPorn</li>
+              <li><a href="/r/militaryporn">MilitaryPorn</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

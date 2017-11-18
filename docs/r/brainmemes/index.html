@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,72 +100,72 @@
         
             
             
-              <li>dankmemes</li>
+              <li><a href="/r/dankmemes">dankmemes</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>KnightsOfPineapple</li>
+              <li><a href="/r/knightsofpineapple">KnightsOfPineapple</a></li>
             
         
             
             
-              <li>silenthill</li>
+              <li><a href="/r/silenthill">silenthill</a></li>
             
         
             
             
-              <li>Wizard101</li>
+              <li><a href="/r/wizard101">Wizard101</a></li>
             
         
             
             
-              <li>surrealmemes</li>
+              <li><a href="/r/surrealmemes">surrealmemes</a></li>
             
         
             
             
-              <li>magicthecirclejerking</li>
+              <li><a href="/r/magicthecirclejerking">magicthecirclejerking</a></li>
             
         
             
             
-              <li>iiiiiiitttttttttttt</li>
+              <li><a href="/r/iiiiiiitttttttttttt">iiiiiiitttttttttttt</a></li>
             
         
             
             
-              <li>data_irl</li>
+              <li><a href="/r/data_irl">data_irl</a></li>
             
         
             
             
-              <li>COMPLETEANARCHY</li>
+              <li><a href="/r/completeanarchy">COMPLETEANARCHY</a></li>
             
         
             
             
-              <li>Ooer</li>
+              <li><a href="/r/ooer">Ooer</a></li>
             
         
             
             
-              <li>hoi4</li>
+              <li><a href="/r/hoi4">hoi4</a></li>
             
         
             
             
-              <li>ProgrammerHumor</li>
+              <li><a href="/r/programmerhumor">ProgrammerHumor</a></li>
             
         
             
@@ -193,6 +175,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,7 +100,7 @@
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
@@ -128,52 +110,52 @@
         
             
             
-              <li>legaladvice</li>
+              <li><a href="/r/legaladvice">legaladvice</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>Nudelete</li>
+              <li><a href="/r/nudelete">Nudelete</a></li>
             
         
             
             
-              <li>RegularRevenge</li>
+              <li><a href="/r/regularrevenge">RegularRevenge</a></li>
             
         
             
             
-              <li>AMA</li>
+              <li><a href="/r/ama">AMA</a></li>
             
         
             
             
-              <li>MilitaryStories</li>
+              <li><a href="/r/militarystories">MilitaryStories</a></li>
             
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
             
-              <li>longtail</li>
+              <li><a href="/r/longtail">longtail</a></li>
             
         
             
             
-              <li>nocontext</li>
+              <li><a href="/r/nocontext">nocontext</a></li>
             
         
             
             
-              <li>MaliciousCompliance</li>
+              <li><a href="/r/maliciouscompliance">MaliciousCompliance</a></li>
             
         
             
@@ -188,36 +170,40 @@
         
             
             
-              <li>thatHappened</li>
+              <li><a href="/r/thathappened">thatHappened</a></li>
             
         
             
             
-              <li>tifu</li>
+              <li><a href="/r/tifu">tifu</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
             
-              <li>JUSTNOMIL</li>
+              <li><a href="/r/justnomil">JUSTNOMIL</a></li>
             
         
             
             
-              <li>mildlyinfuriating</li>
+              <li><a href="/r/mildlyinfuriating">mildlyinfuriating</a></li>
             
         
             
             
-              <li>childfree</li>
+              <li><a href="/r/childfree">childfree</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

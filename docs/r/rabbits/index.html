@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,17 +105,17 @@
         
             
             
-              <li>aww</li>
+              <li><a href="/r/aww">aww</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>ShadowBan</li>
+              <li><a href="/r/shadowban">ShadowBan</a></li>
             
         
             
@@ -143,12 +125,12 @@
         
             
             
-              <li>wholesomememes</li>
+              <li><a href="/r/wholesomememes">wholesomememes</a></li>
             
         
             
             
-              <li>tampa</li>
+              <li><a href="/r/tampa">tampa</a></li>
             
         
             
@@ -158,66 +140,70 @@
         
             
             
-              <li>sploot</li>
+              <li><a href="/r/sploot">sploot</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>whatsthisplant</li>
+              <li><a href="/r/whatsthisplant">whatsthisplant</a></li>
             
         
             
             
-              <li>RATS</li>
+              <li><a href="/r/rats">RATS</a></li>
             
         
             
             
-              <li>Pets</li>
+              <li><a href="/r/pets">Pets</a></li>
             
         
             
             
-              <li>PeopleFuckingDying</li>
+              <li><a href="/r/peoplefuckingdying">PeopleFuckingDying</a></li>
             
         
             
             
-              <li>Austin</li>
+              <li><a href="/r/austin">Austin</a></li>
             
         
             
             
-              <li>MadokaMagica</li>
+              <li><a href="/r/madokamagica">MadokaMagica</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>lifehacks</li>
+              <li><a href="/r/lifehacks">lifehacks</a></li>
             
         
             
             
-              <li>Hedgehog</li>
+              <li><a href="/r/hedgehog">Hedgehog</a></li>
             
         
             
             
-              <li>mildlyinteresting</li>
+              <li><a href="/r/mildlyinteresting">mildlyinteresting</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

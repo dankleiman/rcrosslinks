@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,52 +100,52 @@
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>fidgetspin</li>
+              <li><a href="/r/fidgetspin">fidgetspin</a></li>
             
         
             
             
-              <li>titlegore</li>
+              <li><a href="/r/titlegore">titlegore</a></li>
             
         
             
             
-              <li>adventures</li>
+              <li><a href="/r/adventures">adventures</a></li>
             
         
             
             
-              <li>vidmeos</li>
+              <li><a href="/r/vidmeos">vidmeos</a></li>
             
         
             
             
-              <li>NotTimAndEric</li>
+              <li><a href="/r/nottimanderic">NotTimAndEric</a></li>
             
         
             
             
-              <li>13ReasonsWhy</li>
+              <li><a href="/r/13reasonswhy">13ReasonsWhy</a></li>
             
         
             
             
-              <li>ukulele</li>
+              <li><a href="/r/ukulele">ukulele</a></li>
             
         
             
             
-              <li>anime</li>
+              <li><a href="/r/anime">anime</a></li>
             
         
             
@@ -173,37 +155,37 @@
         
             
             
-              <li>TitlePapercut</li>
+              <li><a href="/r/titlepapercut">TitlePapercut</a></li>
             
         
             
             
-              <li>mealtimevideos</li>
+              <li><a href="/r/mealtimevideos">mealtimevideos</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>coins</li>
+              <li><a href="/r/coins">coins</a></li>
             
         
             
             
-              <li>deepdream</li>
+              <li><a href="/r/deepdream">deepdream</a></li>
             
         
             
             
-              <li>PromoteGamingVideos</li>
+              <li><a href="/r/promotegamingvideos">PromoteGamingVideos</a></li>
             
         
             
             
-              <li>ShortFilm</li>
+              <li><a href="/r/shortfilm">ShortFilm</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>asmr</li>
+              <li><a href="/r/asmr">asmr</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

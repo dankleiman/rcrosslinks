@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>TheSecretWorld</li>
+              <li><a href="/r/thesecretworld">TheSecretWorld</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
@@ -133,32 +115,32 @@
         
             
             
-              <li>MMORPG</li>
+              <li><a href="/r/mmorpg">MMORPG</a></li>
             
         
             
             
-              <li>Warframe</li>
+              <li><a href="/r/warframe">Warframe</a></li>
             
         
             
             
-              <li>themes</li>
+              <li><a href="/r/themes">themes</a></li>
             
         
             
             
-              <li>slavs_squatting</li>
+              <li><a href="/r/slavs_squatting">slavs_squatting</a></li>
             
         
             
             
-              <li>Guildwars2</li>
+              <li><a href="/r/guildwars2">Guildwars2</a></li>
             
         
             
             
-              <li>pathofexile</li>
+              <li><a href="/r/pathofexile">pathofexile</a></li>
             
         
             
@@ -173,32 +155,32 @@
         
             
             
-              <li>Smite</li>
+              <li><a href="/r/smite">Smite</a></li>
             
         
             
             
-              <li>outrun</li>
+              <li><a href="/r/outrun">outrun</a></li>
             
         
             
             
-              <li>swtor</li>
+              <li><a href="/r/swtor">swtor</a></li>
             
         
             
             
-              <li>TheSecretWorldLegends</li>
+              <li><a href="/r/thesecretworldlegends">TheSecretWorldLegends</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
@@ -208,11 +190,15 @@
         
             
             
-              <li>gatekeeping</li>
+              <li><a href="/r/gatekeeping">gatekeeping</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

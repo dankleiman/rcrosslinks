@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>hockey</li>
+              <li><a href="/r/hockey">hockey</a></li>
             
         
             
             
-              <li>leafs</li>
+              <li><a href="/r/leafs">leafs</a></li>
             
         
             
@@ -133,7 +115,7 @@
         
             
             
-              <li>CutCBC</li>
+              <li><a href="/r/cutcbc">CutCBC</a></li>
             
         
             
@@ -143,12 +125,12 @@
         
             
             
-              <li>LAINE</li>
+              <li><a href="/r/laine">LAINE</a></li>
             
         
             
             
-              <li>NHLStreams</li>
+              <li><a href="/r/nhlstreams">NHLStreams</a></li>
             
         
             
@@ -158,42 +140,42 @@
         
             
             
-              <li>Predators</li>
+              <li><a href="/r/predators">Predators</a></li>
             
         
             
             
-              <li>hawks</li>
+              <li><a href="/r/hawks">hawks</a></li>
             
         
             
             
-              <li>nyjets</li>
+              <li><a href="/r/nyjets">nyjets</a></li>
             
         
             
             
-              <li>puckstreams</li>
+              <li><a href="/r/puckstreams">puckstreams</a></li>
             
         
             
             
-              <li>nhl_games</li>
+              <li><a href="/r/nhl_games">nhl_games</a></li>
             
         
             
             
-              <li>conspiracy</li>
+              <li><a href="/r/conspiracy">conspiracy</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>Enhancement</li>
+              <li><a href="/r/enhancement">Enhancement</a></li>
             
         
             
@@ -203,21 +185,25 @@
         
             
             
-              <li>Jaguars</li>
+              <li><a href="/r/jaguars">Jaguars</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>Serendipity</li>
+              <li><a href="/r/serendipity">Serendipity</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

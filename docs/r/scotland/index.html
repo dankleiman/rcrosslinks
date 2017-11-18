@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,52 +100,52 @@
         
             
             
-              <li>ukpolitics</li>
+              <li><a href="/r/ukpolitics">ukpolitics</a></li>
             
         
             
             
-              <li>glasgow</li>
+              <li><a href="/r/glasgow">glasgow</a></li>
             
         
             
             
-              <li>unitedkingdom</li>
+              <li><a href="/r/unitedkingdom">unitedkingdom</a></li>
             
         
             
             
-              <li>OutdoorScotland</li>
+              <li><a href="/r/outdoorscotland">OutdoorScotland</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>ScottishPeopleTwitter</li>
+              <li><a href="/r/scottishpeopletwitter">ScottishPeopleTwitter</a></li>
             
         
             
             
-              <li>europe</li>
+              <li><a href="/r/europe">europe</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>ireland</li>
+              <li><a href="/r/ireland">ireland</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
@@ -173,51 +155,55 @@
         
             
             
-              <li>AskEurope</li>
+              <li><a href="/r/askeurope">AskEurope</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>ShitAmericansSay</li>
+              <li><a href="/r/shitamericanssay">ShitAmericansSay</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>IncelTears</li>
+              <li><a href="/r/inceltears">IncelTears</a></li>
             
         
             
             
-              <li>thefinalclean</li>
+              <li><a href="/r/thefinalclean">thefinalclean</a></li>
             
         
             
             
-              <li>ScottishMusic</li>
+              <li><a href="/r/scottishmusic">ScottishMusic</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>Wales</li>
+              <li><a href="/r/wales">Wales</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

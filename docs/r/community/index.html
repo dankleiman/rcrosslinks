@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>Harmontown</li>
+              <li><a href="/r/harmontown">Harmontown</a></li>
             
         
             
@@ -133,22 +115,22 @@
         
             
             
-              <li>hatchery</li>
+              <li><a href="/r/hatchery">hatchery</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>socialskills</li>
+              <li><a href="/r/socialskills">socialskills</a></li>
             
         
             
             
-              <li>KnightsOfPineapple</li>
+              <li><a href="/r/knightsofpineapple">KnightsOfPineapple</a></li>
             
         
             
@@ -158,12 +140,12 @@
         
             
             
-              <li>S01E01</li>
+              <li><a href="/r/s01e01">S01E01</a></li>
             
         
             
             
-              <li>doctorwho</li>
+              <li><a href="/r/doctorwho">doctorwho</a></li>
             
         
             
@@ -173,51 +155,55 @@
         
             
             
-              <li>NotKenM</li>
+              <li><a href="/r/notkenm">NotKenM</a></li>
             
         
             
             
-              <li>psych</li>
+              <li><a href="/r/psych">psych</a></li>
             
         
             
             
-              <li>StarWars</li>
+              <li><a href="/r/starwars">StarWars</a></li>
             
         
             
             
-              <li>rickandmorty</li>
+              <li><a href="/r/rickandmorty">rickandmorty</a></li>
             
         
             
             
-              <li>writing</li>
+              <li><a href="/r/writing">writing</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>HighQualityGifs</li>
+              <li><a href="/r/highqualitygifs">HighQualityGifs</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

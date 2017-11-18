@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,42 +100,42 @@
         
             
             
-              <li>guns</li>
+              <li><a href="/r/guns">guns</a></li>
             
         
             
             
-              <li>Gunsforsale</li>
+              <li><a href="/r/gunsforsale">Gunsforsale</a></li>
             
         
             
             
-              <li>gundeals</li>
+              <li><a href="/r/gundeals">gundeals</a></li>
             
         
             
             
-              <li>ar15</li>
+              <li><a href="/r/ar15">ar15</a></li>
             
         
             
             
-              <li>AKMarketplace</li>
+              <li><a href="/r/akmarketplace">AKMarketplace</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>worldnews</li>
+              <li><a href="/r/worldnews">worldnews</a></li>
             
         
             
             
-              <li>Gecko45</li>
+              <li><a href="/r/gecko45">Gecko45</a></li>
             
         
             
@@ -163,42 +145,42 @@
         
             
             
-              <li>army</li>
+              <li><a href="/r/army">army</a></li>
             
         
             
             
-              <li>Switzerland</li>
+              <li><a href="/r/switzerland">Switzerland</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>PropagandaPosters</li>
+              <li><a href="/r/propagandaposters">PropagandaPosters</a></li>
             
         
             
             
-              <li>NFA</li>
+              <li><a href="/r/nfa">NFA</a></li>
             
         
             
             
-              <li>whowouldwin</li>
+              <li><a href="/r/whowouldwin">whowouldwin</a></li>
             
         
             
             
-              <li>CCW</li>
+              <li><a href="/r/ccw">CCW</a></li>
             
         
             
             
-              <li>MemeEconomy</li>
+              <li><a href="/r/memeeconomy">MemeEconomy</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>VAGuns</li>
+              <li><a href="/r/vaguns">VAGuns</a></li>
             
         
             
             
-              <li>Glocks</li>
+              <li><a href="/r/glocks">Glocks</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

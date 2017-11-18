@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -123,32 +105,32 @@
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>survivorcirclejerk</li>
+              <li><a href="/r/survivorcirclejerk">survivorcirclejerk</a></li>
             
         
             
             
-              <li>BigBrother</li>
+              <li><a href="/r/bigbrother">BigBrother</a></li>
             
         
             
             
-              <li>nzsurvivor</li>
+              <li><a href="/r/nzsurvivor">nzsurvivor</a></li>
             
         
             
             
-              <li>survivorrankdownIII</li>
+              <li><a href="/r/survivorrankdowniii">survivorrankdownIII</a></li>
             
         
             
             
-              <li>Edgic</li>
+              <li><a href="/r/edgic">Edgic</a></li>
             
         
             
@@ -158,37 +140,37 @@
         
             
             
-              <li>SpoiledSurvivor</li>
+              <li><a href="/r/spoiledsurvivor">SpoiledSurvivor</a></li>
             
         
             
             
-              <li>todayilearned</li>
+              <li><a href="/r/todayilearned">todayilearned</a></li>
             
         
             
             
-              <li>survivorau</li>
+              <li><a href="/r/survivorau">survivorau</a></li>
             
         
             
             
-              <li>nocontext</li>
+              <li><a href="/r/nocontext">nocontext</a></li>
             
         
             
             
-              <li>TheGenius</li>
+              <li><a href="/r/thegenius">TheGenius</a></li>
             
         
             
             
-              <li>SurvivorRankdownIV</li>
+              <li><a href="/r/survivorrankdowniv">SurvivorRankdownIV</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
@@ -198,26 +180,30 @@
         
             
             
-              <li>FrankOcean</li>
+              <li><a href="/r/frankocean">FrankOcean</a></li>
             
         
             
             
-              <li>ProCSS</li>
+              <li><a href="/r/procss">ProCSS</a></li>
             
         
             
             
-              <li>me_irl</li>
+              <li><a href="/r/me_irl">me_irl</a></li>
             
         
             
             
-              <li>movies</li>
+              <li><a href="/r/movies">movies</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

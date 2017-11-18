@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>ModelCars</li>
+              <li><a href="/r/modelcars">ModelCars</a></li>
             
         
             
             
-              <li>72scale</li>
+              <li><a href="/r/72scale">72scale</a></li>
             
         
             
@@ -133,47 +115,47 @@
         
             
             
-              <li>SciFiModels</li>
+              <li><a href="/r/scifimodels">SciFiModels</a></li>
             
         
             
             
-              <li>MaschinenKrieger</li>
+              <li><a href="/r/maschinenkrieger">MaschinenKrieger</a></li>
             
         
             
             
-              <li>Gunpla</li>
+              <li><a href="/r/gunpla">Gunpla</a></li>
             
         
             
             
-              <li>modeltrains</li>
+              <li><a href="/r/modeltrains">modeltrains</a></li>
             
         
             
             
-              <li>minipainting</li>
+              <li><a href="/r/minipainting">minipainting</a></li>
             
         
             
             
-              <li>papercraft</li>
+              <li><a href="/r/papercraft">papercraft</a></li>
             
         
             
             
-              <li>AskHistorians</li>
+              <li><a href="/r/askhistorians">AskHistorians</a></li>
             
         
             
             
-              <li>aviation</li>
+              <li><a href="/r/aviation">aviation</a></li>
             
         
             
             
-              <li>StarWars</li>
+              <li><a href="/r/starwars">StarWars</a></li>
             
         
             
@@ -183,41 +165,45 @@
         
             
             
-              <li>metalearth</li>
+              <li><a href="/r/metalearth">metalearth</a></li>
             
         
             
             
-              <li>WWIIplanes</li>
+              <li><a href="/r/wwiiplanes">WWIIplanes</a></li>
             
         
             
             
-              <li>WarshipPorn</li>
+              <li><a href="/r/warshipporn">WarshipPorn</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>hoggit</li>
+              <li><a href="/r/hoggit">hoggit</a></li>
             
         
             
             
-              <li>ResinCasting</li>
+              <li><a href="/r/resincasting">ResinCasting</a></li>
             
         
             
             
-              <li>TankPorn</li>
+              <li><a href="/r/tankporn">TankPorn</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,67 +100,67 @@
         
             
             
-              <li>nyc</li>
+              <li><a href="/r/nyc">nyc</a></li>
             
         
             
             
-              <li>NYCapartments</li>
+              <li><a href="/r/nycapartments">NYCapartments</a></li>
             
         
             
             
-              <li>nycmeetups</li>
+              <li><a href="/r/nycmeetups">nycmeetups</a></li>
             
         
             
             
-              <li>NYList</li>
+              <li><a href="/r/nylist">NYList</a></li>
             
         
             
             
-              <li>cscareerquestions</li>
+              <li><a href="/r/cscareerquestions">cscareerquestions</a></li>
             
         
             
             
-              <li>legaladvice</li>
+              <li><a href="/r/legaladvice">legaladvice</a></li>
             
         
             
             
-              <li>astoria</li>
+              <li><a href="/r/astoria">astoria</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
             
-              <li>AskCulinary</li>
+              <li><a href="/r/askculinary">AskCulinary</a></li>
             
         
             
             
-              <li>malefashionadvice</li>
+              <li><a href="/r/malefashionadvice">malefashionadvice</a></li>
             
         
             
             
-              <li>thatHappened</li>
+              <li><a href="/r/thathappened">thatHappened</a></li>
             
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
@@ -188,7 +170,7 @@
         
             
             
-              <li>learnprogramming</li>
+              <li><a href="/r/learnprogramming">learnprogramming</a></li>
             
         
             
@@ -198,17 +180,17 @@
         
             
             
-              <li>AskSF</li>
+              <li><a href="/r/asksf">AskSF</a></li>
             
         
             
             
-              <li>WWE</li>
+              <li><a href="/r/wwe">WWE</a></li>
             
         
             
             
-              <li>Frugal</li>
+              <li><a href="/r/frugal">Frugal</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

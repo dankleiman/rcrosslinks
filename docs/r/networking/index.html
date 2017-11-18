@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>sysadmin</li>
+              <li><a href="/r/sysadmin">sysadmin</a></li>
             
         
             
             
-              <li>HomeNetworking</li>
+              <li><a href="/r/homenetworking">HomeNetworking</a></li>
             
         
             
             
-              <li>Cisco</li>
+              <li><a href="/r/cisco">Cisco</a></li>
             
         
             
             
-              <li>ITCareerQuestions</li>
+              <li><a href="/r/itcareerquestions">ITCareerQuestions</a></li>
             
         
             
@@ -143,81 +125,85 @@
         
             
             
-              <li>PFSENSE</li>
+              <li><a href="/r/pfsense">PFSENSE</a></li>
             
         
             
             
-              <li>paloaltonetworks</li>
+              <li><a href="/r/paloaltonetworks">paloaltonetworks</a></li>
             
         
             
             
-              <li>talesfromtechsupport</li>
+              <li><a href="/r/talesfromtechsupport">talesfromtechsupport</a></li>
             
         
             
             
-              <li>ccna</li>
+              <li><a href="/r/ccna">ccna</a></li>
             
         
             
             
-              <li>meraki</li>
+              <li><a href="/r/meraki">meraki</a></li>
             
         
             
             
-              <li>redditrequest</li>
+              <li><a href="/r/redditrequest">redditrequest</a></li>
             
         
             
             
-              <li>spacex</li>
+              <li><a href="/r/spacex">spacex</a></li>
             
         
             
             
-              <li>AskReddit</li>
+              <li><a href="/r/askreddit">AskReddit</a></li>
             
         
             
             
-              <li>VOIP</li>
+              <li><a href="/r/voip">VOIP</a></li>
             
         
             
             
-              <li>mikrotik</li>
+              <li><a href="/r/mikrotik">mikrotik</a></li>
             
         
             
             
-              <li>linuxadmin</li>
+              <li><a href="/r/linuxadmin">linuxadmin</a></li>
             
         
             
             
-              <li>programming</li>
+              <li><a href="/r/programming">programming</a></li>
             
         
             
             
-              <li>techsupport</li>
+              <li><a href="/r/techsupport">techsupport</a></li>
             
         
             
             
-              <li>networkingmemes</li>
+              <li><a href="/r/networkingmemes">networkingmemes</a></li>
             
         
             
             
-              <li>vmware</li>
+              <li><a href="/r/vmware">vmware</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

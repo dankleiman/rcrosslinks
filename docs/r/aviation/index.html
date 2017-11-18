@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,12 +100,12 @@
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
             
-              <li>flying</li>
+              <li><a href="/r/flying">flying</a></li>
             
         
             
@@ -133,77 +115,77 @@
         
             
             
-              <li>Shittyaskflying</li>
+              <li><a href="/r/shittyaskflying">Shittyaskflying</a></li>
             
         
             
             
-              <li>videos</li>
+              <li><a href="/r/videos">videos</a></li>
             
         
             
             
-              <li>pics</li>
+              <li><a href="/r/pics">pics</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>hoggit</li>
+              <li><a href="/r/hoggit">hoggit</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>planesgonewild</li>
+              <li><a href="/r/planesgonewild">planesgonewild</a></li>
             
         
             
             
-              <li>MilitaryPorn</li>
+              <li><a href="/r/militaryporn">MilitaryPorn</a></li>
             
         
             
             
-              <li>AviationHistory</li>
+              <li><a href="/r/aviationhistory">AviationHistory</a></li>
             
         
             
             
-              <li>flightsim</li>
+              <li><a href="/r/flightsim">flightsim</a></li>
             
         
             
             
-              <li>MilitaryGfys</li>
+              <li><a href="/r/militarygfys">MilitaryGfys</a></li>
             
         
             
             
-              <li>aviationmaintenance</li>
+              <li><a href="/r/aviationmaintenance">aviationmaintenance</a></li>
             
         
             
             
-              <li>gifs</li>
+              <li><a href="/r/gifs">gifs</a></li>
             
         
             
             
-              <li>SR71</li>
+              <li><a href="/r/sr71">SR71</a></li>
             
         
             
             
-              <li>WeirdWings</li>
+              <li><a href="/r/weirdwings">WeirdWings</a></li>
             
         
             
@@ -213,11 +195,15 @@
         
             
             
-              <li>AviationPorn</li>
+              <li><a href="/r/aviationporn">AviationPorn</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

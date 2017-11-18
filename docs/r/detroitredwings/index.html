@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,22 +100,22 @@
         
             
             
-              <li>hockey</li>
+              <li><a href="/r/hockey">hockey</a></li>
             
         
             
             
-              <li>place</li>
+              <li><a href="/r/place">place</a></li>
             
         
             
             
-              <li>NHLStreams</li>
+              <li><a href="/r/nhlstreams">NHLStreams</a></li>
             
         
             
             
-              <li>Detroit</li>
+              <li><a href="/r/detroit">Detroit</a></li>
             
         
             
@@ -143,12 +125,12 @@
         
             
             
-              <li>LazyMan</li>
+              <li><a href="/r/lazyman">LazyMan</a></li>
             
         
             
             
-              <li>Kanye</li>
+              <li><a href="/r/kanye">Kanye</a></li>
             
         
             
@@ -158,12 +140,12 @@
         
             
             
-              <li>leafs</li>
+              <li><a href="/r/leafs">leafs</a></li>
             
         
             
             
-              <li>OriginalSix_Place</li>
+              <li><a href="/r/originalsix_place">OriginalSix_Place</a></li>
             
         
             
@@ -173,42 +155,42 @@
         
             
             
-              <li>Mariners</li>
+              <li><a href="/r/mariners">Mariners</a></li>
             
         
             
             
-              <li>nhl_games</li>
+              <li><a href="/r/nhl_games">nhl_games</a></li>
             
         
             
             
-              <li>hawks</li>
+              <li><a href="/r/hawks">hawks</a></li>
             
         
             
             
-              <li>TransFlagPlace</li>
+              <li><a href="/r/transflagplace">TransFlagPlace</a></li>
             
         
             
             
-              <li>CalgaryFlames</li>
+              <li><a href="/r/calgaryflames">CalgaryFlames</a></li>
             
         
             
             
-              <li>detroitlions</li>
+              <li><a href="/r/detroitlions">detroitlions</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>EDC</li>
+              <li><a href="/r/edc">EDC</a></li>
             
         
             
@@ -218,6 +200,10 @@
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

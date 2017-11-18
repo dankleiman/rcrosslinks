@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,52 +100,52 @@
         
             
             
-              <li>ARG</li>
+              <li><a href="/r/arg">ARG</a></li>
             
         
             
             
-              <li>twinpeaks</li>
+              <li><a href="/r/twinpeaks">twinpeaks</a></li>
             
         
             
             
-              <li>crypto</li>
+              <li><a href="/r/crypto">crypto</a></li>
             
         
             
             
-              <li>ciphers</li>
+              <li><a href="/r/ciphers">ciphers</a></li>
             
         
             
             
-              <li>programming</li>
+              <li><a href="/r/programming">programming</a></li>
             
         
             
             
-              <li>conspiracy</li>
+              <li><a href="/r/conspiracy">conspiracy</a></li>
             
         
             
             
-              <li>cicada</li>
+              <li><a href="/r/cicada">cicada</a></li>
             
         
             
             
-              <li>CracktheCode</li>
+              <li><a href="/r/crackthecode">CracktheCode</a></li>
             
         
             
             
-              <li>Oppression</li>
+              <li><a href="/r/oppression">Oppression</a></li>
             
         
             
             
-              <li>coding</li>
+              <li><a href="/r/coding">coding</a></li>
             
         
             
@@ -173,17 +155,17 @@
         
             
             
-              <li>fivenightsatfreddys</li>
+              <li><a href="/r/fivenightsatfreddys">fivenightsatfreddys</a></li>
             
         
             
             
-              <li>Steganography</li>
+              <li><a href="/r/steganography">Steganography</a></li>
             
         
             
             
-              <li>gunters_lounge</li>
+              <li><a href="/r/gunters_lounge">gunters_lounge</a></li>
             
         
             
@@ -193,31 +175,35 @@
         
             
             
-              <li>raidsecrets</li>
+              <li><a href="/r/raidsecrets">raidsecrets</a></li>
             
         
             
             
-              <li>nosleep</li>
+              <li><a href="/r/nosleep">nosleep</a></li>
             
         
             
             
-              <li>amateurradio</li>
+              <li><a href="/r/amateurradio">amateurradio</a></li>
             
         
             
             
-              <li>KarmaCourt</li>
+              <li><a href="/r/karmacourt">KarmaCourt</a></li>
             
         
             
             
-              <li>thenext</li>
+              <li><a href="/r/thenext">thenext</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

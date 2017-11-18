@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,17 +100,17 @@
         
             
             
-              <li>Flipping</li>
+              <li><a href="/r/flipping">Flipping</a></li>
             
         
             
             
-              <li>paypal</li>
+              <li><a href="/r/paypal">paypal</a></li>
             
         
             
             
-              <li>legaladvice</li>
+              <li><a href="/r/legaladvice">legaladvice</a></li>
             
         
             
@@ -138,86 +120,90 @@
         
             
             
-              <li>poshmark</li>
+              <li><a href="/r/poshmark">poshmark</a></li>
             
         
             
             
-              <li>mysql</li>
+              <li><a href="/r/mysql">mysql</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
             
-              <li>GameSale</li>
+              <li><a href="/r/gamesale">GameSale</a></li>
             
         
             
             
-              <li>EtherMining</li>
+              <li><a href="/r/ethermining">EtherMining</a></li>
             
         
             
             
-              <li>funny</li>
+              <li><a href="/r/funny">funny</a></li>
             
         
             
             
-              <li>RBI</li>
+              <li><a href="/r/rbi">RBI</a></li>
             
         
             
             
-              <li>churning</li>
+              <li><a href="/r/churning">churning</a></li>
             
         
             
             
-              <li>personalfinance</li>
+              <li><a href="/r/personalfinance">personalfinance</a></li>
             
         
             
             
-              <li>hardwareswap</li>
+              <li><a href="/r/hardwareswap">hardwareswap</a></li>
             
         
             
             
-              <li>drums</li>
+              <li><a href="/r/drums">drums</a></li>
             
         
             
             
-              <li>india</li>
+              <li><a href="/r/india">india</a></li>
             
         
             
             
-              <li>Watchexchange</li>
+              <li><a href="/r/watchexchange">Watchexchange</a></li>
             
         
             
             
-              <li>usedpanties</li>
+              <li><a href="/r/usedpanties">usedpanties</a></li>
             
         
             
             
-              <li>ChargeYourPhone</li>
+              <li><a href="/r/chargeyourphone">ChargeYourPhone</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

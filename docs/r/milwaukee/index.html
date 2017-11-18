@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,87 +100,87 @@
         
             
             
-              <li>PoliticalHumor</li>
+              <li><a href="/r/politicalhumor">PoliticalHumor</a></li>
             
         
             
             
-              <li>AdviceAnimals</li>
+              <li><a href="/r/adviceanimals">AdviceAnimals</a></li>
             
         
             
             
-              <li>The_Donald</li>
+              <li><a href="/r/the_donald">The_Donald</a></li>
             
         
             
             
-              <li>wisconsin</li>
+              <li><a href="/r/wisconsin">wisconsin</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>WICircleJerk</li>
+              <li><a href="/r/wicirclejerk">WICircleJerk</a></li>
             
         
             
             
-              <li>UWMilwaukee</li>
+              <li><a href="/r/uwmilwaukee">UWMilwaukee</a></li>
             
         
             
             
-              <li>cordcutters</li>
+              <li><a href="/r/cordcutters">cordcutters</a></li>
             
         
             
             
-              <li>OutOfTheLoop</li>
+              <li><a href="/r/outoftheloop">OutOfTheLoop</a></li>
             
         
             
             
-              <li>Seattle</li>
+              <li><a href="/r/seattle">Seattle</a></li>
             
         
             
             
-              <li>minnesota</li>
+              <li><a href="/r/minnesota">minnesota</a></li>
             
         
             
             
-              <li>news</li>
+              <li><a href="/r/news">news</a></li>
             
         
             
             
-              <li>esist</li>
+              <li><a href="/r/esist">esist</a></li>
             
         
             
             
-              <li>pilonidalcyst</li>
+              <li><a href="/r/pilonidalcyst">pilonidalcyst</a></li>
             
         
             
             
-              <li>MapPorn</li>
+              <li><a href="/r/mapporn">MapPorn</a></li>
             
         
             
             
-              <li>MLBStreams</li>
+              <li><a href="/r/mlbstreams">MLBStreams</a></li>
             
         
             
             
-              <li>IAmA</li>
+              <li><a href="/r/iama">IAmA</a></li>
             
         
             
@@ -208,16 +190,20 @@
         
             
             
-              <li>UnnecessaryQuotes</li>
+              <li><a href="/r/unnecessaryquotes">UnnecessaryQuotes</a></li>
             
         
             
             
-              <li>GreenBayPackers</li>
+              <li><a href="/r/greenbaypackers">GreenBayPackers</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>

@@ -60,6 +60,13 @@
 <link rel="stylesheet" href="css/color-dark.css" />
 
 
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-19970008-13', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
 
 <title>
 
@@ -82,31 +89,6 @@
         <div class="siteTitle">
           <a href="/">Top Crosslinked Subreddits</a>
         </div> 
-        <div class="search">
-    <div class="box">
-        <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
-    </div>
-    <div id="subs">
-        
-    </div>
-</div>
-<script>
-    function search() {
-        var input, filter, ul, li, a, i;
-        input = document.getElementById('searchBox');
-        filter = input.value.toUpperCase();
-        subDiv = document.getElementById("subs");
-        subSpans = subDiv.getElementsByTagName('span');
-        for (i = 0; i < subSpans.length; i++) {
-            a = subSpans[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                subSpans[i].style.display = "";
-            } else {
-                subSpans[i].style.display = "none";
-            }
-        }
-    }
-</script>
     </div>
 </header>
 
@@ -118,32 +100,32 @@
         
             
             
-              <li>RetroPie</li>
+              <li><a href="/r/retropie">RetroPie</a></li>
             
         
             
             
-              <li>pihole</li>
+              <li><a href="/r/pihole">pihole</a></li>
             
         
             
             
-              <li>MarshallBrain</li>
+              <li><a href="/r/marshallbrain">MarshallBrain</a></li>
             
         
             
             
-              <li>xkcd</li>
+              <li><a href="/r/xkcd">xkcd</a></li>
             
         
             
             
-              <li>linux</li>
+              <li><a href="/r/linux">linux</a></li>
             
         
             
             
-              <li>arduino</li>
+              <li><a href="/r/arduino">arduino</a></li>
             
         
             
@@ -153,27 +135,27 @@
         
             
             
-              <li>DIY</li>
+              <li><a href="/r/diy">DIY</a></li>
             
         
             
             
-              <li>3Dprinting</li>
+              <li><a href="/r/3dprinting">3Dprinting</a></li>
             
         
             
             
-              <li>RTLSDR</li>
+              <li><a href="/r/rtlsdr">RTLSDR</a></li>
             
         
             
             
-              <li>RASPBERRY_PI_PROJECTS</li>
+              <li><a href="/r/raspberry_pi_projects">RASPBERRY_PI_PROJECTS</a></li>
             
         
             
             
-              <li>autotldr</li>
+              <li><a href="/r/autotldr">autotldr</a></li>
             
         
             
@@ -183,12 +165,12 @@
         
             
             
-              <li>esp8266</li>
+              <li><a href="/r/esp8266">esp8266</a></li>
             
         
             
             
-              <li>homeassistant</li>
+              <li><a href="/r/homeassistant">homeassistant</a></li>
             
         
             
@@ -198,26 +180,30 @@
         
             
             
-              <li>Bitcoin</li>
+              <li><a href="/r/bitcoin">Bitcoin</a></li>
             
         
             
             
-              <li>unixporn</li>
+              <li><a href="/r/unixporn">unixporn</a></li>
             
         
             
             
-              <li>secretsanta</li>
+              <li><a href="/r/secretsanta">secretsanta</a></li>
             
         
             
             
-              <li>Monero</li>
+              <li><a href="/r/monero">Monero</a></li>
             
         
         </ol>
     </div>
+    <div>
+      <a href="/">Search for more...</a>
+    </div>
+
 </article>
 
   <footer>
