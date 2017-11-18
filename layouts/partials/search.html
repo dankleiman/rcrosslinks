@@ -3,7 +3,7 @@
         <input type="text" id="searchBox" onkeyup="search()" placeholder="Find subreddit crosslinks..." style="width:300px;padding:5px;margin-bottom:10px;">
     </div>
     <div id="subs">
-        {{ range $.Site.Data.subreddits }}
+        {{ range $.Site.Data.subreddits.subreddits }}
               <span style="display:none"><a href="/r/{{lower . }}">{{ . }}</a>&nbsp;&nbsp;</span>
         {{ end }}
     </div>
