@@ -1,0 +1,5 @@
+---
+title: shittyfacetune
+crosslinks:
+- JohnMayer
+---

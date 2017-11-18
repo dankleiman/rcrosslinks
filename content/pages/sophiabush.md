@@ -1,0 +1,5 @@
+---
+title: sophiabush
+crosslinks:
+- shittyaskhistory
+---

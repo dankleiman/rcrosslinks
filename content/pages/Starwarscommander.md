@@ -1,0 +1,5 @@
+---
+title: Starwarscommander
+crosslinks:
+- SWCommander
+---

@@ -1,0 +1,5 @@
+---
+title: opiatescirclejerk
+crosslinks:
+- SUBREDDITNAME
+---

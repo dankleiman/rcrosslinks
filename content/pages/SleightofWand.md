@@ -1,0 +1,5 @@
+---
+title: SleightofWand
+crosslinks:
+- magicmuggle
+---

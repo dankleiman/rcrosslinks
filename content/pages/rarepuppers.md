@@ -1,0 +1,24 @@
+---
+title: rarepuppers
+crosslinks:
+- livven
+- aww
+- LifePupperTips
+- gifs
+- pics
+- funny
+- AskReddit
+- OldManDog
+- woof_irl
+- videos
+- mildlyinteresting
+- TotallyNotDogs
+- corgi
+- AnimalTextGifs
+- xkcd
+- Zoomies
+- tippytaps
+- hmmm
+- PuppySmiles
+- redpuppers
+---

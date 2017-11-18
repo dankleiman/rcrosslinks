@@ -1,0 +1,5 @@
+---
+title: HuntingBabes
+crosslinks:
+- BeautyQueens
+---

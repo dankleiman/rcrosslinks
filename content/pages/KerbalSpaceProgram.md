@@ -1,0 +1,24 @@
+---
+title: KerbalSpaceProgram
+crosslinks:
+- livven
+- jatwaaspaceprogram
+- RealSolarSystem
+- Kos
+- ConsoleKSP
+- space
+- nocontext
+- EmpireDidNothingWrong
+- spacex
+- aviation
+- pcmasterrace
+- SpaceXMasterrace
+- EliteDangerous
+- gifsthatendtoosoon
+- SpaceXLounge
+- oddlysatisfying
+- Warthunder
+- Steam
+- dwarffortress
+- factorio
+---

@@ -1,0 +1,24 @@
+---
+title: AskNetsec
+crosslinks:
+- netsec
+- xkcd
+- sysadmin
+- netsecstudents
+- techsupport
+- HowToHack
+- privacy
+- msp
+- securityCTF
+- security
+- ITCareerQuestions
+- p
+- VPN
+- computerforensics
+- CommandLineKungFu
+- dns
+- restorethefourth
+- AskReddit
+- TheRedPill
+- legaladvice
+---

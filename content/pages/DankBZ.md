@@ -1,0 +1,5 @@
+---
+title: DankBZ
+crosslinks:
+- REEEEEEEEEE
+---

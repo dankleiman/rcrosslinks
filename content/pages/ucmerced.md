@@ -1,0 +1,5 @@
+---
+title: ucmerced
+crosslinks:
+- SJSU
+---

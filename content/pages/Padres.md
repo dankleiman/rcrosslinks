@@ -1,0 +1,24 @@
+---
+title: Padres
+crosslinks:
+- reddit_stream
+- PadresFarm
+- SanDiegoGulls
+- monsterdongs
+- Brewers
+- CFBStreams
+- WahoosTipi
+- letsgofish
+- sandiego
+- MLS
+- SFGiants
+- Nationals
+- nfl
+- KCRoyals
+- CFB
+- '2016'
+- copypasta
+- Dodgers
+- minnesotatwins
+- asu
+---

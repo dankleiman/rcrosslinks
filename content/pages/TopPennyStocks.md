@@ -1,0 +1,5 @@
+---
+title: TopPennyStocks
+crosslinks:
+- pennystocks
+---

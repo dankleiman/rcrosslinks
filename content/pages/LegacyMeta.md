@@ -1,0 +1,5 @@
+---
+title: LegacyMeta
+crosslinks:
+- wowservers
+---

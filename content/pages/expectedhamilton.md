@@ -1,0 +1,5 @@
+---
+title: expectedhamilton
+crosslinks:
+- mildlyinteresting
+---

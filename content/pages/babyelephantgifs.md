@@ -1,0 +1,24 @@
+---
+title: babyelephantgifs
+crosslinks:
+- livven
+- pics
+- Pigifs
+- likeus
+- funny
+- GivesRandomGoldOut
+- UNBGBBIIVCHIDCTIICBG
+- woahdude
+- nocontext
+- Serendipity
+- legaladvice
+- u_PM_ME_UR_CUTE_PETS
+- videos
+- gifs
+- iamverysmart
+- underpopular
+- aww
+- GifSound
+- wholesomegifs
+- Zoomies
+---

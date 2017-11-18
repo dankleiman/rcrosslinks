@@ -1,0 +1,5 @@
+---
+title: wearables
+crosslinks:
+- Austin
+---

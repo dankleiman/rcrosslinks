@@ -1,0 +1,5 @@
+---
+title: lazy
+crosslinks:
+- iamverysmart
+---

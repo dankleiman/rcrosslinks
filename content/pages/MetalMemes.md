@@ -1,0 +1,24 @@
+---
+title: MetalMemes
+crosslinks:
+- livven
+- gatekeeping
+- progmetal
+- ShitTheFalseSay
+- europe
+- Metal
+- lewronggeneration
+- whatintarnation
+- h3h3_productions
+- metaljerk
+- ironmaiden
+- AwesomeCarMods
+- killthosewhodisagree
+- whothefuckup
+- ComedyCemetery
+- lanadelrey
+- xkcd
+- musicmemes
+- folkmetal
+- KarmaCourt
+---

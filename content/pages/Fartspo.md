@@ -1,0 +1,5 @@
+---
+title: Fartspo
+crosslinks:
+- livven
+---

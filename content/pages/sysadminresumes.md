@@ -1,0 +1,5 @@
+---
+title: sysadminresumes
+crosslinks:
+- resumes
+---

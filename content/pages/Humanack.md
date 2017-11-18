@@ -1,0 +1,5 @@
+---
+title: Humanack
+crosslinks:
+- AskReddit
+---

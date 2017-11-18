@@ -1,0 +1,24 @@
+---
+title: dataisugly
+crosslinks:
+- CrappyDesign
+- data_irl
+- xkcd
+- soccer
+- softwaregore
+- europe
+- LateStageCapitalism
+- mildlyinfuriating
+- dataisfunny
+- Infographics
+- livven
+- AVoid5
+- ShittyMapPorn
+- dontdeadopeninside
+- australia
+- shittykickstarters
+- NintendoSwitch
+- germany
+- dontfuckingsayit
+- TalesFromTheCustomer
+---

@@ -1,0 +1,5 @@
+---
+title: bitconnectcoin
+crosslinks:
+- CryptoCurrency
+---

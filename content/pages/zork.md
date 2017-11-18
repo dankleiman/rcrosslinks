@@ -1,0 +1,5 @@
+---
+title: zork
+crosslinks:
+- adventuregames
+---

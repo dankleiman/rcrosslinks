@@ -1,0 +1,5 @@
+---
+title: BdsmDIY
+crosslinks:
+- tickling
+---

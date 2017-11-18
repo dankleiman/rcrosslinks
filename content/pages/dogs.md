@@ -1,0 +1,24 @@
+---
+title: dogs
+crosslinks:
+- Dogtraining
+- puppy101
+- AskVet
+- aww
+- PlottHounds
+- DoggyDNA
+- dogtraining
+- IAmA
+- reactivedogs
+- dogpictures
+- samoyeds
+- LifeProTips
+- MildRedditDrama
+- RunningWithDogs
+- k9sports
+- metric_units
+- Greyhounds
+- AustralianCattleDog
+- corgi
+- Hounds
+---

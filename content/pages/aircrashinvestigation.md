@@ -1,0 +1,5 @@
+---
+title: aircrashinvestigation
+crosslinks:
+- aviation
+---

@@ -1,0 +1,5 @@
+---
+title: EXLove
+crosslinks:
+- Pixiv
+---

@@ -1,0 +1,23 @@
+---
+title: entj
+crosslinks:
+- intj
+- INTP
+- entp
+- ENFP
+- isfj
+- Enneagram
+- GeneralTaxAdvice
+- lewronggeneration
+- childfree
+- intp
+- getdisciplined
+- conspiracy
+- AskEurope
+- xkcd
+- infj
+- mturk
+- leanfire
+- AskSocialScience
+- RationalPsychonaut
+---

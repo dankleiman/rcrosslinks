@@ -1,0 +1,24 @@
+---
+title: snes
+crosslinks:
+- retrogaming
+- gamecollecting
+- gaming
+- nintendo
+- miniSNES
+- metric_units
+- autotldr
+- nesclassicmods
+- miniSNESmods
+- SegaSaturn
+- zelda
+- Fighters
+- tipofmytongue
+- Snek
+- Flipping
+- speedrun
+- GameSale
+- Cades
+- Megadrive
+- crtgaming
+---

@@ -1,0 +1,5 @@
+---
+title: Attila
+crosslinks:
+- corejerk
+---

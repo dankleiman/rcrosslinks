@@ -1,0 +1,5 @@
+---
+title: PokemonMusic
+crosslinks:
+- gamemusic
+---

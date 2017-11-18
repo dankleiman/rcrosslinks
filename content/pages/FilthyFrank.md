@@ -1,0 +1,24 @@
+---
+title: FilthyFrank
+crosslinks:
+- PinkOmega
+- livven
+- hiphopheads
+- place
+- TrueSTL
+- gaming
+- OverwatchCirclejerk
+- starterpacks
+- rule34
+- WatchRedditDie
+- meirl
+- gatekeeping
+- ShadowBan
+- GuitarHero
+- wediditreddit
+- JonTron
+- DeepFriedMemes
+- LateStageCapitalism
+- furry_irl
+- underpopular
+---

@@ -1,0 +1,5 @@
+---
+title: ANormalDayintheSims
+crosslinks:
+- thesims
+---

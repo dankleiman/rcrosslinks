@@ -1,0 +1,5 @@
+---
+title: ImaginaryStash
+crosslinks:
+- SpecArt
+---

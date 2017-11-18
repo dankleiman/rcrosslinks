@@ -1,0 +1,5 @@
+---
+title: Shejected
+crosslinks:
+- cringepics
+---

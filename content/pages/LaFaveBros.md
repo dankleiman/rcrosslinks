@@ -1,0 +1,5 @@
+---
+title: LaFaveBros
+crosslinks:
+- ElderScrolls
+---

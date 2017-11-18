@@ -1,0 +1,24 @@
+---
+title: techsupport
+crosslinks:
+- Windows10
+- pcmasterrace
+- windows
+- nvidia
+- sysadmin
+- TronScript
+- SuggestALaptop
+- Amd
+- microsoftsoftwareswap
+- HomeNetworking
+- xkcd
+- AndroidQuestions
+- HFY
+- applehelp
+- 24hoursupport
+- Dell
+- DotA2
+- linux
+- pcgamingtechsupport
+- AMDHelp
+---

@@ -1,0 +1,5 @@
+---
+title: varicocele
+crosslinks:
+- maleinfertility
+---

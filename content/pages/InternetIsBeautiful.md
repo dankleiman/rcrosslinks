@@ -1,0 +1,24 @@
+---
+title: InternetIsBeautiful
+crosslinks:
+- xkcd
+- autotldr
+- OutOfTheLoop
+- AskReddit
+- Fitness
+- placeAtlas
+- science
+- workflow
+- Metal
+- announcements
+- ProgrammerHumor
+- Android
+- CatastrophicFailure
+- mysterysearch
+- zeronet
+- grilledcheese
+- videos
+- millionairemakers
+- The_Donald
+- spacex
+---

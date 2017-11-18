@@ -1,0 +1,5 @@
+---
+title: australiaright
+crosslinks:
+- australia
+---

@@ -1,0 +1,24 @@
+---
+title: japanpics
+crosslinks:
+- japancirclejerk
+- JapanTravel
+- Sumo
+- Tokyo
+- outrun
+- japan
+- MapPorn
+- TaiwanPics
+- manholeporn
+- SouthKoreaPics
+- pics
+- funny
+- food
+- RedHotChiliPeppers
+- Breath_of_the_Wild
+- japanlife
+- MostBeautiful
+- normaldayinjapan
+- travel
+- ramen
+---

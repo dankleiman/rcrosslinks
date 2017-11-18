@@ -1,0 +1,24 @@
+---
+title: amibeingdetained
+crosslinks:
+- legaladvice
+- xkcd
+- AmIFreeToGo
+- autotldr
+- whatisthisthing
+- videos
+- AskReddit
+- conspiratard
+- RightToRemainSilent
+- news
+- AskHistorians
+- IAmA
+- ProtectAndServe
+- todayilearned
+- CCW
+- Calgary
+- shitamericanssay
+- comics
+- furry_irl
+- cringe
+---

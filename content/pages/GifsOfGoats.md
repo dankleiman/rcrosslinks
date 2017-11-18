@@ -1,0 +1,5 @@
+---
+title: GifsOfGoats
+crosslinks:
+- GoatsOnTopOfHorses
+---

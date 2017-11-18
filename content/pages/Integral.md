@@ -1,0 +1,5 @@
+---
+title: Integral
+crosslinks:
+- Structura
+---

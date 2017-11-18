@@ -1,0 +1,5 @@
+---
+title: Folliculitis
+crosslinks:
+- worldnews
+---

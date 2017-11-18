@@ -1,0 +1,24 @@
+---
+title: coys
+crosslinks:
+- soccer
+- reddevils
+- soccerstreams
+- CoysCirclejerk
+- livven
+- chelseafc
+- FantasyPL
+- london
+- avfc
+- place
+- schalke04
+- announcements
+- swanseacity
+- tottenhamhotspur
+- spursfanfiction
+- '2013'
+- plastic
+- MLS
+- dataisugly
+- AskReddit
+---

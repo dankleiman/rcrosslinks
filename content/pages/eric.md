@@ -1,0 +1,5 @@
+---
+title: eric
+crosslinks:
+- politics
+---

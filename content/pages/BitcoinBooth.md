@@ -1,0 +1,5 @@
+---
+title: BitcoinBooth
+crosslinks:
+- Bitcoin
+---

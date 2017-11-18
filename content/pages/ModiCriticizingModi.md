@@ -1,0 +1,5 @@
+---
+title: ModiCriticizingModi
+crosslinks:
+- india
+---

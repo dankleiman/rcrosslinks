@@ -1,0 +1,24 @@
+---
+title: StreetFighter
+crosslinks:
+- Kappa
+- StreetFighterMods
+- livven
+- SF4
+- ModFighters
+- GameDeals
+- Fighters
+- fightsticks
+- Games
+- Tekken
+- xdfp
+- NewChallenger
+- salty
+- SFV
+- Pixiv
+- darksouls3
+- mvci
+- USF2
+- gifs
+- Daigod
+---

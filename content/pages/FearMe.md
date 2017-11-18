@@ -1,0 +1,5 @@
+---
+title: FearMe
+crosslinks:
+- wtfart
+---

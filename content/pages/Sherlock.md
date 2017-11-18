@@ -1,0 +1,24 @@
+---
+title: Sherlock
+crosslinks:
+- livven
+- arrow
+- autotldr
+- xkcd
+- MGTOW
+- iamverysmart
+- doctorwho
+- Torchwood
+- curlyhair
+- flash
+- television
+- HalfLife
+- pics
+- IAmA
+- modnews
+- firefly
+- itsaunixsystem
+- AskReddit
+- gallifrey
+- unexpectedrt
+---

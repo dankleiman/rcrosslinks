@@ -1,0 +1,24 @@
+---
+title: ufc
+crosslinks:
+- mayweathermcgreggors
+- ufcjonescormier
+- weidmanvsgastelums
+- UFC213wr
+- Boxing
+- AskReddit
+- autotldr
+- Serendipity
+- funny
+- ufc211miocicdos
+- singaporeufc
+- Past_UFC
+- metric_units
+- JoeRogan
+- opieandanthony
+- instantkarma
+- BadAssRefs
+- religion
+- FashionReps
+- hockey
+---

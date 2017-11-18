@@ -1,0 +1,5 @@
+---
+title: GenitalHerpes
+crosslinks:
+- Herpes
+---

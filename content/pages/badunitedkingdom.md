@@ -1,0 +1,24 @@
+---
+title: badunitedkingdom
+crosslinks:
+- ukpolitics
+- unitedkingdom
+- CasualUK
+- europe
+- Scotland
+- REEEEEEEEEE
+- Oppression
+- BadEverything
+- IAmA
+- Loungers
+- gatekeeping
+- philpsychuk
+- milliondollarextreme
+- ShitAmericansSay
+- AskReddit
+- announcements
+- ShitRUKSays
+- UKPol
+- goth
+- worldnews
+---

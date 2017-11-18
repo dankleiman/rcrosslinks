@@ -1,0 +1,24 @@
+---
+title: aviation
+crosslinks:
+- autotldr
+- flying
+- livven
+- Shittyaskflying
+- videos
+- pics
+- xkcd
+- hoggit
+- funny
+- planesgonewild
+- MilitaryPorn
+- AviationHistory
+- flightsim
+- MilitaryGfys
+- aviationmaintenance
+- gifs
+- SR71
+- WeirdWings
+- Brrrrrrrrrrrrrrrrt
+- AviationPorn
+---

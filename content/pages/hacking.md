@@ -1,0 +1,24 @@
+---
+title: hacking
+crosslinks:
+- autotldr
+- HowToHack
+- xkcd
+- netsec
+- masterhacker
+- techsupport
+- AskNetsec
+- itsaunixsystem
+- Fraudnet2
+- livven
+- switcharoo
+- ReverseEngineering
+- conspiracy
+- ProgrammerHumor
+- netsecstudents
+- pwned
+- pentest
+- AssHatHackers
+- AskReddit
+- technology
+---

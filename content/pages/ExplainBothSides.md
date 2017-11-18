@@ -1,0 +1,22 @@
+---
+title: ExplainBothSides
+crosslinks:
+- AskPhilosophyFAQ
+- leagueoflegends
+- gatekeeping
+- conspiracy
+- vegan
+- The_Donald
+- F35Lightning
+- explainlikeimfive
+- dotamasterrace
+- AskThe_Donald
+- changemyview
+- xkcd
+- relationship_advice
+- redacted
+- AskWomenOver30
+- shrooms
+- JordanBPeterson
+- OutOfTheLoop
+---

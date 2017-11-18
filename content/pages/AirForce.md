@@ -1,0 +1,24 @@
+---
+title: AirForce
+crosslinks:
+- livven
+- autotldr
+- Military
+- RateMyAFB
+- army
+- USMC
+- airnationalguard
+- MaliciousCompliance
+- navy
+- personalfinance
+- MilitaryFinance
+- xkcd
+- news
+- AMAAggregator
+- AskReddit
+- Amry
+- churning
+- MilitaryGoneWild
+- EOD
+- ITCareerQuestions
+---

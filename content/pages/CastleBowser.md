@@ -1,0 +1,5 @@
+---
+title: CastleBowser
+crosslinks:
+- hogwartswerewolvesB
+---

@@ -1,0 +1,24 @@
+---
+title: TooMeIrlForMeIrl
+crosslinks:
+- DankMemeArchive
+- livven
+- 2meirl42meirl4meirl
+- AskReddit
+- gatekeeping
+- solipsism
+- COMPLETEANARCHY
+- DotA2
+- youdontsurf
+- The_Donald
+- 2ME_IRL4ME_IRL
+- leanfire
+- LifeProTips
+- MemantineHCl
+- gainit
+- comics
+- titlegore
+- Taxidermy
+- turt_irl
+- RestaurantsThatMeme
+---

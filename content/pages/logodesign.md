@@ -1,0 +1,24 @@
+---
+title: logodesign
+crosslinks:
+- freedesign
+- restofthefuckingowl
+- livven
+- graphic_design
+- Overwatch
+- funny
+- CrappyDesign
+- typography
+- Ooer
+- Minecraft
+- '2014'
+- mildlyvagina
+- autotldr
+- freelogodesign
+- illustration
+- Serendipity
+- Anime_Art
+- consulting
+- COPYRIGHT
+- Design
+---

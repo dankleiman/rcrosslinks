@@ -1,0 +1,5 @@
+---
+title: Lingen
+crosslinks:
+- de
+---

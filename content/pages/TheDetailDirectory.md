@@ -1,0 +1,5 @@
+---
+title: TheDetailDirectory
+crosslinks:
+- AutoDetailing
+---

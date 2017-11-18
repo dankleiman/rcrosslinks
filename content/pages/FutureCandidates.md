@@ -1,0 +1,5 @@
+---
+title: FutureCandidates
+crosslinks:
+- CrazyIdeas
+---

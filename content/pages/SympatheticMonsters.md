@@ -1,0 +1,24 @@
+---
+title: SympatheticMonsters
+crosslinks:
+- WritingPrompts
+- comics
+- ImaginaryMonsters
+- ImaginaryFeels
+- ImaginaryArtists
+- ArtofHands
+- WholesomeComics
+- FreeEBOOKS
+- promptoftheday
+- ImaginaryDemons
+- dadjokes
+- Beetlejuice
+- ItsADnDMonsterNow
+- ImaginaryBehemoths
+- livven
+- ImaginaryMindscapes
+- graphic_design
+- DecidingToBeBetter
+- ImaginaryLeviathans
+- ImaginaryTrolls
+---

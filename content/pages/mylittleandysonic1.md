@@ -1,0 +1,24 @@
+---
+title: mylittleandysonic1
+crosslinks:
+- Drama
+- RateMyOC
+- CringeAnarchy
+- ploungeafterdark
+- Horses
+- modnews
+- mylittlehorde
+- MLPLounge
+- Sharktits
+- emojipasta
+- LosAngeles
+- PLoungeCirclejerk
+- mylittleandysonic1_ss
+- ProgrammerHumor
+- MemeEconomy
+- WTF
+- EnoughInternet
+- 4chan
+- ftlgame
+- NatureIsFuckingLit
+---

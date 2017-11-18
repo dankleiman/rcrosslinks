@@ -1,0 +1,24 @@
+---
+title: SluttyConfessions
+crosslinks:
+- cheatingwives
+- incest
+- Hotwife
+- gonewildstories
+- SexLists
+- Rapekink
+- Hot_Milf
+- BedSurfing
+- Tgirlhookups
+- livven
+- everything
+- AskRedditAfterDark
+- holdthemoan
+- Ageplaystories
+- ButtSharpies
+- AMAAggregator
+- wincest
+- sexadvice
+- dirtypenpals
+- sexystories
+---

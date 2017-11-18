@@ -1,0 +1,24 @@
+---
+title: uglyduckling
+crosslinks:
+- transtimelines
+- gatekeeping
+- cringepics
+- Rateme
+- PrettyGirlsUglyFaces
+- curlyhair
+- malehairadvice
+- instant_regret
+- SceneBoys
+- asktransgender
+- The_Dennis
+- ihavesex
+- potato
+- shorthairedhotties
+- swordorsheath
+- singapore
+- whiteknighting
+- nattyorjuice
+- Duckingugly
+- GirlsMirin
+---

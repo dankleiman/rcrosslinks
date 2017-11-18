@@ -1,0 +1,24 @@
+---
+title: copypasta
+crosslinks:
+- DankMemeArchive
+- AskReddit
+- CringeAnarchy
+- me_irl
+- emojipasta
+- ComedyCemetery
+- videos
+- dankmemes
+- REEEEEEEEEE
+- pics
+- gaming
+- iamverysmart
+- 4chan
+- Overwatch
+- furry_irl
+- todayilearned
+- teenagers
+- funny
+- The_Donald
+- tifu
+---

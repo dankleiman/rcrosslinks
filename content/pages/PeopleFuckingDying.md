@@ -1,0 +1,24 @@
+---
+title: PeopleFuckingDying
+crosslinks:
+- livven
+- gifs
+- funny
+- aww
+- AskReddit
+- titleporn
+- rarepuppers
+- BetterEveryLoop
+- pics
+- HumansBeingBros
+- ChildrenFallingOver
+- mildlyinteresting
+- watchpeopledie
+- nocontext
+- gaming
+- StartledCats
+- hitmanimals
+- therewasanattempt
+- reallifedoodles
+- gifsthatendtoosoon
+---

@@ -1,0 +1,24 @@
+---
+title: EcoInternet
+crosslinks:
+- autotldr
+- me_irl
+- worldnews
+- environment
+- TheColorIsBlue
+- politics
+- collapse
+- Techfeed
+- willis7737_news
+- SethKaperDale
+- europe
+- TopDesign
+- OutOfTheLoop
+- newzealand
+- IowaHunting
+- Suomi
+- BetoORourke
+- science
+- whales
+- EnoughTrumpSpam
+---

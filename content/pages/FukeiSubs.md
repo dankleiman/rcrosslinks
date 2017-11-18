@@ -1,0 +1,5 @@
+---
+title: FukeiSubs
+crosslinks:
+- SakuraGakuin
+---

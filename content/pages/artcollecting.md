@@ -1,0 +1,5 @@
+---
+title: artcollecting
+crosslinks:
+- WhatIsThisPainting
+---

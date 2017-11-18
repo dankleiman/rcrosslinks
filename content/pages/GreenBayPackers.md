@@ -1,0 +1,24 @@
+---
+title: GreenBayPackers
+crosslinks:
+- nfl
+- livven
+- EvilLeagueOfEvil
+- CHIBears
+- NFL_Draft
+- place
+- minnesotavikings
+- MkeBucks
+- nflstreams
+- detroitlions
+- Seahawks
+- evilleagueofevil
+- falcons
+- reddit_stream
+- Patriots
+- '2013'
+- Brewers
+- GandSand
+- CoalitionAgainstEvil
+- gifs
+---

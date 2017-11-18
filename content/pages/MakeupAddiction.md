@@ -1,0 +1,24 @@
+---
+title: MakeupAddiction
+crosslinks:
+- SkincareAddiction
+- muacjdiscussion
+- PaleMUA
+- AsianBeauty
+- BeautyGuruChatter
+- makeupexchange
+- MUAontheCheap
+- Indiemakeupandmore
+- muacirclejerk
+- MakeupAddictionCanada
+- OliveMUA
+- BeautyGuruChat
+- Fude
+- AustralianMakeup
+- RandomActsofMakeup
+- Makeup
+- drugstoreMUA
+- curlyhair
+- BeautyDiagrams
+- skincareaddiction
+---

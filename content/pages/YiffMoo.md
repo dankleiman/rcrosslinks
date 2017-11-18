@@ -1,0 +1,5 @@
+---
+title: YiffMoo
+crosslinks:
+- FurryTF
+---

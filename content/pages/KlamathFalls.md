@@ -1,0 +1,5 @@
+---
+title: KlamathFalls
+crosslinks:
+- autotldr
+---

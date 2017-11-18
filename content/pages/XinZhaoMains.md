@@ -1,0 +1,5 @@
+---
+title: XinZhaoMains
+crosslinks:
+- leagueoflegends
+---

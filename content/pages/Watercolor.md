@@ -1,0 +1,21 @@
+---
+title: Watercolor
+crosslinks:
+- PaintedElevations
+- Art
+- redditgetsdrawn
+- artistspeakeasy
+- TheWire
+- work_in_progress
+- watercolor101
+- ArtFundamentals
+- portraits
+- EarthPorn
+- painting
+- LandscapeArchitecture
+- ICanDrawThat
+- artrequests
+- CatsStandingUp
+- AccidentalRenaissance
+- ImageComics
+---

@@ -1,0 +1,5 @@
+---
+title: consolesetups
+crosslinks:
+- retrogaming
+---

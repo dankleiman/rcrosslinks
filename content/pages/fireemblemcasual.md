@@ -1,0 +1,24 @@
+---
+title: fireemblemcasual
+crosslinks:
+- anime
+- manga
+- RWBY
+- Berserk
+- rpg
+- fecRPplanning
+- pokemon
+- OreGairuSNAFU
+- ffxiv
+- anime_irl
+- leagueoflegends
+- DnDGreentext
+- AMAAggregator
+- ColosseumTournament
+- horizon
+- xkcd
+- StardustCrusaders
+- 2meirl4meirl
+- PokemonNuzlocke
+- metalgearsolid
+---

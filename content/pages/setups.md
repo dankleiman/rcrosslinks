@@ -1,0 +1,5 @@
+---
+title: setups
+crosslinks:
+- gamingsetups
+---

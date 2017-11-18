@@ -1,0 +1,5 @@
+---
+title: lvysaur
+crosslinks:
+- Fitness
+---

@@ -1,0 +1,24 @@
+---
+title: washingtondc
+crosslinks:
+- autotldr
+- newdcgirls
+- nova
+- DCover30
+- The_Donald
+- pics
+- news
+- livven
+- DCents
+- excel
+- IAmA
+- DCforRent
+- AskReddit
+- maryland
+- ShitPoliticsSays
+- PrinceGeorgesCountyMD
+- politics
+- vexillology
+- '2013'
+- HateCrimeHoaxes
+---

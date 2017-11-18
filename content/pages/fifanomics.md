@@ -1,0 +1,5 @@
+---
+title: fifanomics
+crosslinks:
+- FIFA
+---

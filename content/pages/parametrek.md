@@ -1,0 +1,5 @@
+---
+title: parametrek
+crosslinks:
+- CampingandHiking
+---

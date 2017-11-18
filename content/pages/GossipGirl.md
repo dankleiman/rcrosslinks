@@ -1,0 +1,5 @@
+---
+title: GossipGirl
+crosslinks:
+- autotldr
+---

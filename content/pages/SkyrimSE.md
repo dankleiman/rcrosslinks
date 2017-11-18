@@ -1,0 +1,5 @@
+---
+title: SkyrimSE
+crosslinks:
+- skyrimmods
+---

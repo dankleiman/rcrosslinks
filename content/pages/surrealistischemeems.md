@@ -1,0 +1,5 @@
+---
+title: surrealistischemeems
+crosslinks:
+- surrealmemes
+---

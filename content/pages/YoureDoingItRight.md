@@ -1,0 +1,5 @@
+---
+title: YoureDoingItRight
+crosslinks:
+- CrappyDesign
+---

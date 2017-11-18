@@ -1,0 +1,24 @@
+---
+title: NoMansSkyTheGame
+crosslinks:
+- NMSCoordinateExchange
+- nomanshigh
+- NMSPortals
+- chiliadmystery
+- livven
+- NoMansSkyMods
+- Games
+- NMS_Zoology
+- wakingtitan
+- NMS_Federation
+- me_irl
+- gaming
+- EliteDangerous
+- NMSSuggestions
+- no_mans_sky
+- spaceengine
+- IAmA
+- NMS_Bases
+- xkcd
+- NoMansSkyMyJourney
+---

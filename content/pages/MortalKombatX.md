@@ -1,0 +1,5 @@
+---
+title: MortalKombatX
+crosslinks:
+- IGSRep
+---

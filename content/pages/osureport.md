@@ -1,0 +1,5 @@
+---
+title: osureport
+crosslinks:
+- osugame
+---

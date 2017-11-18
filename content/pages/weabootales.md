@@ -1,0 +1,5 @@
+---
+title: weabootales
+crosslinks:
+- theydidthefuckyou
+---

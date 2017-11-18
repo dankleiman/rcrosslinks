@@ -1,0 +1,5 @@
+---
+title: guitarplaying
+crosslinks:
+- GreatGuitarSolos
+---

@@ -1,0 +1,5 @@
+---
+title: Fribbles
+crosslinks:
+- startrekmemes
+---

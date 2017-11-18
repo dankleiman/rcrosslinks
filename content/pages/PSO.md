@@ -1,0 +1,5 @@
+---
+title: PSO
+crosslinks:
+- ffxiv
+---

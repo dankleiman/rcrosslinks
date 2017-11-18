@@ -1,0 +1,5 @@
+---
+title: MiniPaws
+crosslinks:
+- cats
+---

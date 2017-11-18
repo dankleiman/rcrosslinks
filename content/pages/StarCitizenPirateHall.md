@@ -1,0 +1,5 @@
+---
+title: StarCitizenPirateHall
+crosslinks:
+- starcitizen
+---

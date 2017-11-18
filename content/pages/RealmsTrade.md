@@ -1,0 +1,5 @@
+---
+title: RealmsTrade
+crosslinks:
+- TheRealmsMC
+---

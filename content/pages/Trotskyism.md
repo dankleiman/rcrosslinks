@@ -1,0 +1,5 @@
+---
+title: Trotskyism
+crosslinks:
+- FULLCOMMUNISM
+---

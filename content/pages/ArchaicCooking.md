@@ -1,0 +1,5 @@
+---
+title: ArchaicCooking
+crosslinks:
+- slowcooking
+---

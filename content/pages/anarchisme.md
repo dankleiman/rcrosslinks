@@ -1,0 +1,5 @@
+---
+title: anarchisme
+crosslinks:
+- france
+---

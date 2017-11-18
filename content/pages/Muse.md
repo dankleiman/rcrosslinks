@@ -1,0 +1,24 @@
+---
+title: Muse
+crosslinks:
+- guidinglight
+- radiohead
+- place
+- qotsa
+- excgarated
+- weezer
+- Preview
+- outrun
+- musecirclejerk
+- radioheadcirclejerk
+- spongemuse
+- BiffyClyro
+- Coldplay
+- musescones
+- KarmaCourt
+- lewronggeneration
+- AskReddit
+- FallOutBoy
+- progrockmusic
+- Music
+---

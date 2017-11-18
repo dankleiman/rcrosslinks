@@ -1,0 +1,24 @@
+---
+title: educationalgifs
+crosslinks:
+- livven
+- restofthefuckingowl
+- xkcd
+- interestingasfuck
+- AskHistorians
+- SurgeryGifs
+- androidapps
+- AskReddit
+- askscience
+- trashy
+- funny
+- IAmA
+- nocontext
+- noisygifs
+- gifs
+- mildlyinfuriating
+- HailCorporate
+- ShittyLifeProTips
+- woahdude
+- chemicalreactiongifs
+---

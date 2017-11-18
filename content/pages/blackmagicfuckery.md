@@ -1,0 +1,24 @@
+---
+title: blackmagicfuckery
+crosslinks:
+- livven
+- gifs
+- interestingasfuck
+- woahdude
+- cardistry
+- oddlysatisfying
+- xkcd
+- restofthefuckingowl
+- videos
+- AskReddit
+- GeometryIsNeat
+- nocontext
+- INEEEEDIT
+- UNBGBBIIVCHIDCTIICBG
+- BeAmazed
+- gaming
+- 2007scape
+- HailCorporate
+- Damnthatsinteresting
+- LaserCleaningPorn
+---

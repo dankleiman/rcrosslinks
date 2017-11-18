@@ -1,0 +1,5 @@
+---
+title: JumpMag
+crosslinks:
+- manga
+---

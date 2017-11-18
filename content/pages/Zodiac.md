@@ -1,0 +1,5 @@
+---
+title: Zodiac
+crosslinks:
+- tarot
+---

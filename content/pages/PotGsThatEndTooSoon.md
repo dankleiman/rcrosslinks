@@ -1,0 +1,5 @@
+---
+title: PotGsThatEndTooSoon
+crosslinks:
+- Overwatch
+---

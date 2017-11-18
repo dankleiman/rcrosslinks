@@ -1,0 +1,24 @@
+---
+title: Needafriend
+crosslinks:
+- MakeNewFriendsHere
+- penpals
+- GamerPals
+- loseit
+- teenagers
+- SuicideWatch
+- EDH
+- GirlGamers
+- makingfriends
+- fucktammy
+- Piracy
+- Castawaymates
+- TheRedPill
+- antinatalism
+- TwoXChromosomes
+- studypals
+- PrisonTalk
+- Stims
+- costa_rica
+- AskReddit
+---

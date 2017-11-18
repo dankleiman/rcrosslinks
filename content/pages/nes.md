@@ -1,0 +1,24 @@
+---
+title: nes
+crosslinks:
+- gamecollecting
+- retrogaming
+- snes
+- tipofmyjoystick
+- n64
+- SignalYourVirtue
+- PixelArt
+- crtgaming
+- Mario
+- RetroPie
+- livven
+- SummerReddit
+- speedrun
+- minines
+- Rainmeter
+- chinadirect
+- rva
+- nesclassicmods
+- O90sKWU
+- ThatPeelingFeeling
+---

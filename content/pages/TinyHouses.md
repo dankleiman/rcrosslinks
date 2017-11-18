@@ -1,0 +1,24 @@
+---
+title: TinyHouses
+crosslinks:
+- vandwellers
+- DIY
+- vandwelling
+- HomeImprovement
+- TinyCastles
+- GoRVing
+- ftm
+- ZeroWaste
+- videos
+- containerhomes
+- Chattanooga
+- personalfinance
+- simpleliving
+- SmallHome
+- autotldr
+- Serendipity
+- LONESTAR
+- Austin
+- NewOrleans
+- stevenuniverse
+---

@@ -1,0 +1,5 @@
+---
+title: Structures
+crosslinks:
+- Construction
+---

@@ -1,0 +1,5 @@
+---
+title: PuroresuRevolution
+crosslinks:
+- SquaredCircle
+---

@@ -1,0 +1,24 @@
+---
+title: Bandnames
+crosslinks:
+- AskReddit
+- funny
+- todayilearned
+- watchpeopledie
+- pics
+- ShitRedditSays
+- xkcd
+- trashy
+- SampleSize
+- vexillology
+- furry_irl
+- salt
+- SUBREDDITNAME
+- progmetal
+- trees
+- weekendgunnit
+- dontdeadopeninside
+- DIY
+- PostAndBecomeAMod
+- europe
+---

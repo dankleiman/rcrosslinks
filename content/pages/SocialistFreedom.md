@@ -1,0 +1,5 @@
+---
+title: SocialistFreedom
+crosslinks:
+- socialists
+---

@@ -1,0 +1,5 @@
+---
+title: SSSNarrations
+crosslinks:
+- shortscarystories
+---

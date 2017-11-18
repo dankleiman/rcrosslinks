@@ -1,0 +1,5 @@
+---
+title: AustralianHistory
+crosslinks:
+- AskHistorians
+---

@@ -1,0 +1,5 @@
+---
+title: FreedomOfInternet
+crosslinks:
+- autotldr
+---

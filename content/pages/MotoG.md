@@ -1,0 +1,23 @@
+---
+title: MotoG
+crosslinks:
+- Android
+- LineageOS
+- motorola
+- Moto_Z
+- AndroidQuestions
+- Nexus6P
+- motog5
+- googleplaydeals
+- att
+- legaladvice
+- androidthemes
+- MotoG4
+- lineageos
+- android
+- nexus5x
+- Nokia
+- MotoE
+- tasker
+- iphone
+---

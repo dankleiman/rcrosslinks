@@ -1,0 +1,5 @@
+---
+title: TrumpCutouts
+crosslinks:
+- cutouts
+---

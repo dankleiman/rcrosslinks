@@ -1,0 +1,24 @@
+---
+title: gaypornhunters
+crosslinks:
+- notgayporn
+- site
+- VintageGayVids
+- TotallyStraight
+- gaystrugglefuck
+- gaypornwithplot
+- twinks
+- cher
+- IAmA
+- gayporn
+- GayGifs
+- funny
+- LadyBoners
+- PornOrder
+- vikingsgonewild
+- i_stars
+- malepornstars
+- hunkporn
+- GayJiggleJiggle
+- GayDaddiesPics
+---

@@ -1,0 +1,24 @@
+---
+title: badukpolitics
+crosslinks:
+- ukpolitics
+- unitedkingdom
+- Scotland
+- london
+- ukright
+- europe
+- ukipparty
+- gifs
+- AskUK
+- SKZCartoons
+- MakeUkpolGreatAgain
+- LateStageCapitalism
+- TopMindsOfReddit
+- 6thForm
+- far_right
+- UK_Politics
+- asktrp
+- europeannationalism
+- Unexpected
+- me_ira
+---

@@ -1,0 +1,21 @@
+---
+title: flexibility
+crosslinks:
+- Fitness
+- yoga
+- titlegore
+- asanas
+- Dance
+- autotldr
+- overcominggravity
+- IgnorantImgur
+- Posture
+- livven
+- AdvancedFitness
+- Serendipity
+- FeldenkraisMethod
+- MuayThai
+- HappyBody
+- ashtanga
+- YogaWorkouts
+---

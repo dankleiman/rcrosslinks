@@ -1,0 +1,5 @@
+---
+title: Mastodon
+crosslinks:
+- mastodonrocks
+---

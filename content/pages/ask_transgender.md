@@ -1,0 +1,24 @@
+---
+title: ask_transgender
+crosslinks:
+- asktransgender
+- mypartneristrans
+- ftm
+- TransDIY
+- transgenderau
+- science
+- Transgender_Surgeries
+- transtimelines
+- ABraThatFits
+- transgendercirclejerk
+- GenderCynical
+- MtF
+- transpassing
+- transdiy
+- transeducate
+- changemyview
+- fasting
+- xkcd
+- cisparenttranskid
+- NonBinary
+---

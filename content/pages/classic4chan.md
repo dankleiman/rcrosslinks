@@ -1,0 +1,24 @@
+---
+title: classic4chan
+crosslinks:
+- 4chan
+- greentext
+- Pic__Related
+- wholesomegreentext
+- Wholesome4chan
+- funny
+- copypasta
+- furry_irl
+- todayilearned
+- pepe
+- tardtales
+- mallninjashit
+- FuckYou
+- gatekeeping
+- sadcringe
+- theydidthefuckyou
+- AskHistorians
+- AskReddit
+- Shoplifting
+- DeepFriedMemes
+---

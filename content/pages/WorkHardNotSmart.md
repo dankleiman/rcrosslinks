@@ -1,0 +1,5 @@
+---
+title: WorkHardNotSmart
+crosslinks:
+- OSHA
+---

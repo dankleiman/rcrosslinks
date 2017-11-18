@@ -1,0 +1,5 @@
+---
+title: LDSex
+crosslinks:
+- ldssexuality
+---

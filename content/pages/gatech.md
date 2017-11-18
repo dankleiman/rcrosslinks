@@ -1,0 +1,24 @@
+---
+title: gatech
+crosslinks:
+- Atlanta
+- xkcd
+- autotldr
+- EngineeringStudents
+- livven
+- UGA
+- all
+- place_vandals
+- Sat
+- videos
+- personalfinance
+- Serendipity
+- announcements
+- BlackPeopleTwitter
+- trackers
+- CFB
+- OMSCS
+- OldSchoolCool
+- atlantar4r
+- 4chan
+---

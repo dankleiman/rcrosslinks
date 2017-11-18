@@ -1,0 +1,5 @@
+---
+title: Globalaffairs
+crosslinks:
+- autotldr
+---

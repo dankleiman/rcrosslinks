@@ -1,0 +1,5 @@
+---
+title: FiveNightsatTheories
+crosslinks:
+- FNAFNews
+---

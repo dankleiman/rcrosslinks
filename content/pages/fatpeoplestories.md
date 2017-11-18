@@ -1,0 +1,24 @@
+---
+title: fatpeoplestories
+crosslinks:
+- 1200isplenty
+- JUSTNOMIL
+- AskReddit
+- TalesFromYourServer
+- OutOfTheLoop
+- FPSCrafters
+- funny
+- RantsFromRetail
+- niceguys
+- FPS
+- dashcams
+- JUSTNOFAMILY
+- keto
+- autotldr
+- pickuplines
+- livven
+- sewing
+- KitchenPrivilege
+- talesfromthelaw
+- popping
+---

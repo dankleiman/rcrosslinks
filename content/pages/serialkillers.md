@@ -1,0 +1,24 @@
+---
+title: serialkillers
+crosslinks:
+- UnresolvedMysteries
+- autotldr
+- CrimeScene
+- EARONS
+- LPOTL
+- LetsNotMeet
+- OldSchoolCool
+- IAmA
+- truecrimereview
+- RBI
+- AskReddit
+- conspiracy
+- philadelphia
+- casualiama
+- SwordAndScale
+- drawing
+- UnsolvedMysteries
+- Psychopathy
+- TrueCrime
+- trees
+---

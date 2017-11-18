@@ -1,0 +1,5 @@
+---
+title: personals
+crosslinks:
+- NoStupidQuestions
+---

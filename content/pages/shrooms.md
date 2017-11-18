@@ -1,0 +1,24 @@
+---
+title: shrooms
+crosslinks:
+- sporetraders
+- mycology
+- LSD
+- microdosing
+- shroomers
+- Drugs
+- livven
+- replications
+- ShroomID
+- MushroomGrowers
+- Psychonaut
+- researchchemicals
+- DrugNerds
+- DMT
+- autotldr
+- place
+- MDMA
+- explainlikeimfive
+- 2007scape
+- microgrowery
+---

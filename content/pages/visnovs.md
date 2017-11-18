@@ -1,0 +1,5 @@
+---
+title: visnovs
+crosslinks:
+- visualnovels
+---

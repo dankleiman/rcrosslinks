@@ -1,0 +1,5 @@
+---
+title: ural
+crosslinks:
+- pics
+---

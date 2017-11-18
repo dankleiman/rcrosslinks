@@ -1,0 +1,22 @@
+---
+title: musicals
+crosslinks:
+- Broadway
+- WeAreTheMusicalMakers
+- CastRecordings
+- thegreatcomet
+- DracoMalphas
+- me_irl
+- exmormon
+- opera
+- Theatre
+- BritainsGotTalent
+- techtheatre
+- MusicalTheatreScores
+- UnsolvedMysteries
+- improv
+- videos
+- Ice_Poseidon
+- Sondheim
+- BroadwayBoots
+---

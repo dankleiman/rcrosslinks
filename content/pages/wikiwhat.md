@@ -1,0 +1,5 @@
+---
+title: wikiwhat
+crosslinks:
+- gorillazcirclejerk
+---

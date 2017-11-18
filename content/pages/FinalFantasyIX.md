@@ -1,0 +1,5 @@
+---
+title: FinalFantasyIX
+crosslinks:
+- pcgaming
+---

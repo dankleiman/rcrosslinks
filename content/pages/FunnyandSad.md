@@ -1,0 +1,24 @@
+---
+title: FunnyandSad
+crosslinks:
+- livven
+- Enough_Sanders_Spam
+- autotldr
+- comics
+- funny
+- comedynecromancy
+- politics
+- ComedyCemetery
+- sadcringe
+- PoliticalHumor
+- shitpost
+- gaming
+- xkcd
+- LateStageCapitalism
+- AskReddit
+- niceguys
+- ShitRedditSays
+- pics
+- ShitAmericansSay
+- ChoosingBeggars
+---

@@ -1,0 +1,5 @@
+---
+title: FettyCat
+crosslinks:
+- fettywap
+---

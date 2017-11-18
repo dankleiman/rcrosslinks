@@ -1,0 +1,5 @@
+---
+title: motioncontrols
+crosslinks:
+- partygames
+---

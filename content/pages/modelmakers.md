@@ -1,0 +1,24 @@
+---
+title: modelmakers
+crosslinks:
+- ModelCars
+- 72scale
+- motorcycle_model_kits
+- SciFiModels
+- MaschinenKrieger
+- Gunpla
+- modeltrains
+- minipainting
+- papercraft
+- AskHistorians
+- aviation
+- StarWars
+- modelexchange
+- metalearth
+- WWIIplanes
+- WarshipPorn
+- xkcd
+- hoggit
+- ResinCasting
+- TankPorn
+---

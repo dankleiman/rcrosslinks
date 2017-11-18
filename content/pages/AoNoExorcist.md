@@ -1,0 +1,5 @@
+---
+title: AoNoExorcist
+crosslinks:
+- anime
+---

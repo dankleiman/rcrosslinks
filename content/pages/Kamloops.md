@@ -1,0 +1,5 @@
+---
+title: Kamloops
+crosslinks:
+- canadaguns
+---

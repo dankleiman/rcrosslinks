@@ -1,0 +1,5 @@
+---
+title: NOLAGo
+crosslinks:
+- TheSilphRoad
+---

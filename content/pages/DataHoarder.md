@@ -1,0 +1,24 @@
+---
+title: DataHoarder
+crosslinks:
+- PleX
+- autotldr
+- opendirectories
+- xkcd
+- PlexACD
+- trackers
+- megalinks
+- unRAID
+- Piracy
+- zfs
+- JDM_WAAAT
+- Crashplan
+- DHExchange
+- synology
+- usenet
+- datacurator
+- datahoarders
+- datasets
+- hardwareswap
+- datahorder
+---

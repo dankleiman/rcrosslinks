@@ -1,0 +1,5 @@
+---
+title: Whippets
+crosslinks:
+- Serendipity
+---

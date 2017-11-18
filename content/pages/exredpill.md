@@ -1,0 +1,24 @@
+---
+title: exredpill
+crosslinks:
+- TheBluePill
+- TheRedPill
+- marriedredpill
+- Serendipity
+- Incels
+- DeadBedrooms
+- PurplePill
+- seduction
+- RedPillWomen
+- intersex
+- wgtow
+- exmuslim
+- NoParticipation
+- Christianity
+- AskReddit
+- TwoXChromosomes
+- Incel
+- theydidthemath
+- AskFeminists
+- RPChristians
+---

@@ -1,0 +1,5 @@
+---
+title: PokemonCommunity
+crosslinks:
+- KantoPokedexPR
+---

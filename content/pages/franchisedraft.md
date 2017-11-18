@@ -1,0 +1,5 @@
+---
+title: franchisedraft
+crosslinks:
+- xkcd
+---

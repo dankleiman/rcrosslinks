@@ -1,0 +1,24 @@
+---
+title: BitcoinMining
+crosslinks:
+- EtherMining
+- NiceHash
+- Bitcoin
+- decred
+- ethereum
+- smoknfx
+- explainlikeimfive
+- zenMiner
+- Hodl
+- solar
+- dogecoin
+- BitcoinMarkets
+- autotldr
+- etherium
+- Serendipity
+- BitMarket
+- Windows10
+- Ripple
+- BitcoinSalt
+- Patriots
+---

@@ -1,0 +1,24 @@
+---
+title: shittankiessay
+crosslinks:
+- communism
+- FULLCOMMUNISM
+- socialism
+- EnoughCommieSpam
+- LateStageCapitalism
+- Anarchism
+- Ultraleft
+- NegaRedditRedux
+- FULLDISCOURSE
+- worldnews
+- COMPLETEANARCHY
+- leftcommunism
+- shitleftistssay
+- communism101
+- marxism_101
+- ShitSTSSays
+- Stellaris
+- islam
+- sadcringe
+- ShitRedditSays
+---

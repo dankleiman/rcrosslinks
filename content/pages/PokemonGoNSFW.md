@@ -1,0 +1,5 @@
+---
+title: PokemonGoNSFW
+crosslinks:
+- gonewild
+---

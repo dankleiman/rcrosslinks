@@ -1,0 +1,24 @@
+---
+title: indiadiscussion
+crosslinks:
+- india
+- IndiaSpeaks
+- IndiaMain
+- indianews
+- India
+- ABCDesis
+- pakistan
+- MapPorn
+- indiaspeaks
+- announcements
+- marathi
+- Nepal
+- Kerala
+- IndiaDrama
+- news
+- hindu
+- nocontext
+- somyog
+- Cricket
+- ModSupport
+---

@@ -1,0 +1,5 @@
+---
+title: diyguitar
+crosslinks:
+- guitarpedals
+---

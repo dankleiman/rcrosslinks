@@ -1,0 +1,24 @@
+---
+title: Chargers
+crosslinks:
+- nfl
+- livven
+- sandiegochargers
+- oaklandraiders
+- sandiego
+- NFL_Draft
+- padres
+- DenverBroncos
+- autotldr
+- raiders
+- EvilLeagueOfEvil
+- Padres
+- StLouisRams
+- seahawks
+- minnesotavikings
+- Madden
+- LosAngelesRams
+- redditrequest
+- panthers
+- prisons
+---

@@ -1,0 +1,24 @@
+---
+title: TrueChristian
+crosslinks:
+- Christianity
+- cosmicservant
+- judaism
+- ChristianCoffeeTime
+- Reformed
+- islam
+- dailyverse
+- RPChristians
+- TheArmorofGod
+- tenprecepts
+- TrueChristianMeta
+- Christians
+- The_Donald
+- ChristianUniversalism
+- Exhomosexual
+- TopMindsOfReddit
+- rhapsodyonline
+- usnews
+- MGTOW
+- AskHistorians
+---

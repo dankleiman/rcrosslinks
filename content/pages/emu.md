@@ -1,0 +1,5 @@
+---
+title: emu
+crosslinks:
+- college
+---

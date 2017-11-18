@@ -1,0 +1,5 @@
+---
+title: LATIMESauto
+crosslinks:
+- autotldr
+---

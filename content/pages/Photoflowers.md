@@ -1,0 +1,5 @@
+---
+title: Photoflowers
+crosslinks:
+- Autoflowers
+---

@@ -1,0 +1,5 @@
+---
+title: AskExistential
+crosslinks:
+- xkcd
+---

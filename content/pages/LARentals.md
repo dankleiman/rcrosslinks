@@ -1,0 +1,5 @@
+---
+title: LARentals
+crosslinks:
+- LAlist
+---

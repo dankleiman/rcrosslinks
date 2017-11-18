@@ -1,0 +1,5 @@
+---
+title: Hellsing
+crosslinks:
+- read
+---

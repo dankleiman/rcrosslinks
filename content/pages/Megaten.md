@@ -1,0 +1,24 @@
+---
+title: Megaten
+crosslinks:
+- Persona5
+- adulthate
+- demifiendnocturne
+- personajerk
+- PERSoNA
+- livven
+- JRPG
+- ShinMegamiHentai
+- Ninto55
+- Games
+- ZeroEscape
+- NintendoSwitch
+- TwoBestFriendsPlay
+- Gamingcirclejerk
+- cummingonfigurines
+- Pixiv
+- atlus
+- TaylorSwiftsLegs
+- atheism
+- anime
+---

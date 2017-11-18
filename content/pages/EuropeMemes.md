@@ -1,0 +1,5 @@
+---
+title: EuropeMemes
+crosslinks:
+- europe
+---

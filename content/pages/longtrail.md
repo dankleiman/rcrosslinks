@@ -1,0 +1,5 @@
+---
+title: longtrail
+crosslinks:
+- Ultralight
+---

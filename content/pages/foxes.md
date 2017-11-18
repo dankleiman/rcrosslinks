@@ -1,0 +1,24 @@
+---
+title: foxes
+crosslinks:
+- livven
+- aww
+- place
+- gaming
+- gifs
+- pics
+- AskReddit
+- furry_irl
+- mildlyinteresting
+- MapPorn
+- AnimalFans
+- PhotoshopRequest
+- UNBGBBIIVCHIDCTIICBG
+- Art
+- MostBeautiful
+- firefox
+- zootopia
+- IAmA
+- fujix
+- Unexpected
+---

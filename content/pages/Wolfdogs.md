@@ -1,0 +1,5 @@
+---
+title: Wolfdogs
+crosslinks:
+- wolves
+---

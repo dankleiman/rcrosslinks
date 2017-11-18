@@ -1,0 +1,24 @@
+---
+title: badgovnofreedom
+crosslinks:
+- autotldr
+- europrivacy
+- politics
+- privacy
+- socialism
+- postnationalist
+- todayilearned
+- MyNewsGuru
+- PressFreedom
+- NoFilterNews
+- EnoughTrumpSpam
+- news
+- conspiracy
+- DeepGreenResistance
+- WayOfTheBern
+- Futurology
+- TheColorIsBlue
+- BetoORourke
+- europe
+- INTELLECTUALPROPERTY
+---

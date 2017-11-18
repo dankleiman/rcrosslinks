@@ -1,0 +1,5 @@
+---
+title: TheMMOBookclub
+crosslinks:
+- WildStar
+---

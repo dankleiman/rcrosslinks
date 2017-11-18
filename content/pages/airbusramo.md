@@ -1,0 +1,5 @@
+---
+title: airbusramo
+crosslinks:
+- danganronpa
+---

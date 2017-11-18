@@ -1,0 +1,24 @@
+---
+title: gametales
+crosslinks:
+- DnD
+- DnDGreentext
+- 40kLore
+- KJamesF
+- rpg
+- todayilearned
+- truezelda
+- AskReddit
+- tipofmytongue
+- 2007scape
+- mylittleandysonic1
+- YouEnterADungeon
+- patches765
+- magicTCG
+- TheGlassCannonPodcast
+- spaceengineers
+- MonkeyIsland
+- dndgreentext
+- Pathfinder_RPG
+- rpghorrorstories
+---

@@ -1,0 +1,24 @@
+---
+title: learnpython
+crosslinks:
+- Python
+- learnprogramming
+- dailyprogrammer
+- xkcd
+- test
+- redditdev
+- pygame
+- gis
+- programming
+- dankmemes
+- SQL
+- roguelikedev
+- vim
+- eOeLEz
+- funny
+- memes
+- stackoverflow
+- django
+- sN6xat
+- tiangolo
+---

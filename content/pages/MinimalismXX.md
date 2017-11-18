@@ -1,0 +1,5 @@
+---
+title: MinimalismXX
+crosslinks:
+- minimalist
+---

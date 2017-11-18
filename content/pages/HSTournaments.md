@@ -1,0 +1,5 @@
+---
+title: HSTournaments
+crosslinks:
+- hearthstone
+---

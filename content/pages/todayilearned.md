@@ -1,0 +1,24 @@
+---
+title: todayilearned
+crosslinks:
+- AskReddit
+- AskHistorians
+- xkcd
+- IAmA
+- videos
+- pics
+- funny
+- worldnews
+- explainlikeimfive
+- askscience
+- news
+- The_Donald
+- movies
+- politics
+- mildlyinteresting
+- tifu
+- NoStupidQuestions
+- science
+- WTF
+- WritingPrompts
+---

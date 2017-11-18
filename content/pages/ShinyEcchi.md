@@ -1,0 +1,5 @@
+---
+title: ShinyEcchi
+crosslinks:
+- livven
+---

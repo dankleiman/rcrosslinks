@@ -1,0 +1,24 @@
+---
+title: FreeCompliments
+crosslinks:
+- aww
+- getdisciplined
+- LifeProTips
+- Incels
+- curlyhair
+- TheRedPill
+- livven
+- happy
+- drawing
+- selfie
+- HistoryAnecdotes
+- malefashionadvice
+- Vallenan
+- SuicideWatch
+- personalfinance
+- ExNoContact
+- transtimelines
+- AskMen
+- congratslikeimfive
+- GFD
+---

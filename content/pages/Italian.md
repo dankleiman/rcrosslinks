@@ -1,0 +1,24 @@
+---
+title: Italian
+crosslinks:
+- italy
+- perlediritaly
+- perlediritalian
+- autotldr
+- ShitEvilModsSay
+- Italia
+- television
+- worldnews
+- commercialisti
+- changetip
+- Ital1an
+- WhereIsAssange
+- ussr
+- REEEEEEEEEE
+- nexus5x
+- im14andthisisdeep
+- cazzeggio
+- perlediperlediritaly
+- litigi
+- xkcd
+---

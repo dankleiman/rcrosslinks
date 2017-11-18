@@ -1,0 +1,24 @@
+---
+title: vexillology
+crosslinks:
+- vexillologycirclejerk
+- BrasilOnReddit
+- PortugalOnReddit
+- heraldry
+- europe
+- AskHistorians
+- HelloInternet
+- pics
+- place
+- livven
+- LateStageCapitalism
+- imaginarymaps
+- MapPorn
+- soccer
+- xkcd
+- ShitAmericansSay
+- argentina
+- AskReddit
+- nocontext
+- whatisthisthing
+---

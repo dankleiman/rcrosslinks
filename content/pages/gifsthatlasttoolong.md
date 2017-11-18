@@ -1,0 +1,5 @@
+---
+title: gifsthatlasttoolong
+crosslinks:
+- whitepeoplegifs
+---

@@ -1,0 +1,5 @@
+---
+title: FULLFASCISM
+crosslinks:
+- nazi
+---

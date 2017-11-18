@@ -1,0 +1,5 @@
+---
+title: RetroGamingNetwork
+crosslinks:
+- RecentGenNetwork
+---

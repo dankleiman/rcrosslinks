@@ -1,0 +1,5 @@
+---
+title: TeenTitansGo
+crosslinks:
+- RWBY
+---

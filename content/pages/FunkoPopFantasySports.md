@@ -1,0 +1,5 @@
+---
+title: FunkoPopFantasySports
+crosslinks:
+- funkopop
+---

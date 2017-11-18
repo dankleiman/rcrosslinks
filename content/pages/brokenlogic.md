@@ -1,0 +1,5 @@
+---
+title: brokenlogic
+crosslinks:
+- mildlyinfuriating
+---

@@ -1,0 +1,5 @@
+---
+title: TheSwearBot
+crosslinks:
+- BostonBruins
+---

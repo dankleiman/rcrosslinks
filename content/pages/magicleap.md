@@ -1,0 +1,23 @@
+---
+title: magicleap
+crosslinks:
+- autotldr
+- MVIS
+- HoloLens
+- oculus
+- Vive
+- IAmA
+- augmentedreality
+- CinematicReality
+- avegant
+- virtuality
+- movies
+- pokemongo
+- ARKitCreators
+- PastorArrested
+- OsterhoutDesignGroup
+- livven
+- BlockChain
+- metric_units
+- apple
+---

@@ -1,0 +1,5 @@
+---
+title: sama
+crosslinks:
+- anime
+---

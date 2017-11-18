@@ -1,0 +1,5 @@
+---
+title: KingGizz
+crosslinks:
+- Gizzverse
+---

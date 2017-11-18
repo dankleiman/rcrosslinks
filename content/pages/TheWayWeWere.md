@@ -1,0 +1,24 @@
+---
+title: TheWayWeWere
+crosslinks:
+- OldSchoolCool
+- WorkCrews
+- VintageMenus
+- lewronggeneration
+- UnexpectedMulaney
+- titlegore
+- pics
+- shitamericanssay
+- winstonsalem
+- hapas
+- PastAndPresentPics
+- SovietHistory
+- norwayonreddit
+- '2016'
+- OldSchoolCoolMusic
+- SLO
+- Pyracringe
+- puremichigan
+- australia
+- Drama
+---

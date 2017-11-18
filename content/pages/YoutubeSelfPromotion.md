@@ -1,0 +1,5 @@
+---
+title: YoutubeSelfPromotion
+crosslinks:
+- YourVideos
+---

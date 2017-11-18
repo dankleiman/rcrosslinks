@@ -1,0 +1,24 @@
+---
+title: crafts
+crosslinks:
+- polymerclay
+- DIY
+- quilling
+- Wandsmith
+- somethingimade
+- pokemon
+- LearnUselessTalents
+- craft
+- Etsy
+- Leathercraft
+- knots
+- TheseFuckingAccounts
+- RATS
+- funny
+- Repaintings
+- Serendipity
+- maker
+- gameofthrones
+- WireWrapping
+- videoskids
+---

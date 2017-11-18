@@ -1,0 +1,5 @@
+---
+title: HardcoreSocialTruths
+crosslinks:
+- LateStageCapitalism
+---

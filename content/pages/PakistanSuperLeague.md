@@ -1,0 +1,5 @@
+---
+title: PakistanSuperLeague
+crosslinks:
+- pakistan
+---

@@ -1,0 +1,24 @@
+---
+title: spicy
+crosslinks:
+- HotPeppers
+- hotsauce
+- autotldr
+- Peppers
+- arresteddevelopment
+- hotsaucerecipes
+- metric_units
+- hotones
+- poutine
+- IAmA
+- gatekeeping
+- GifRecipes
+- southpark
+- fermentation
+- Masochism
+- hardwareswap
+- shutupandtakemymoney
+- askscience
+- ArcherFX
+- xkcd
+---

@@ -1,0 +1,24 @@
+---
+title: UofT
+crosslinks:
+- uwaterloo
+- cscareerquestions
+- xkcd
+- Thailand
+- IAmA
+- place
+- math
+- toronto
+- livven
+- yorku
+- UTSC
+- AMAAggregator
+- autotldr
+- UTM
+- AskReddit
+- canada
+- UBC
+- AskTrumpSupporters
+- politics
+- funny
+---

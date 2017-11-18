@@ -1,0 +1,5 @@
+---
+title: SeeYasuoDie
+crosslinks:
+- leagueoflegends
+---

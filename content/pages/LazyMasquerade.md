@@ -1,0 +1,5 @@
+---
+title: LazyMasquerade
+crosslinks:
+- AskReddit
+---

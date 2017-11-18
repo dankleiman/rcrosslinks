@@ -1,0 +1,5 @@
+---
+title: Pokemixes
+crosslinks:
+- VGCovers
+---

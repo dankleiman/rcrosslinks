@@ -1,0 +1,24 @@
+---
+title: 4PanelCringe
+crosslinks:
+- DeepFriedMemes
+- ComedyCemetery
+- CringeAnarchy
+- SwordOrSheath
+- funny
+- gatekeeping
+- cringepics
+- asktransgender
+- ComedyNecrophilia
+- jewfrochamp
+- nocontext
+- islam
+- dankmemes
+- The_Donald
+- BlackPeopleTwitter
+- hyptoheicla
+- ShitRedditSays
+- Kanye
+- Hooman_Super
+- comedycemetery
+---

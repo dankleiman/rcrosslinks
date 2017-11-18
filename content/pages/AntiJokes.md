@@ -1,0 +1,24 @@
+---
+title: AntiJokes
+crosslinks:
+- AntiAntiJokes
+- Jokes
+- antiantiantijokes
+- AskReddit
+- darkjokes
+- PrequelMemes
+- ComedyCemetery
+- theydidthefuckyou
+- SuicideWatch
+- iamverysmart
+- dadjokes
+- announcements
+- counting
+- AntiJakes
+- AskOuija
+- wholesomememes
+- matey
+- DeepFriedMemes
+- WithoutContext
+- Anti_Meme
+---

@@ -1,0 +1,24 @@
+---
+title: lifehacks
+crosslinks:
+- xkcd
+- livven
+- pics
+- funny
+- AskReddit
+- LifeProTips
+- BuyItForLife
+- pcmasterrace
+- vpnreviews
+- IAmA
+- woahdude
+- talesfromtechsupport
+- SkincareAddiction
+- FoodPorn
+- autotldr
+- hatchery
+- wholesomememes
+- personalfinance
+- gingerpride
+- writing
+---

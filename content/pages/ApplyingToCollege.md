@@ -1,0 +1,24 @@
+---
+title: ApplyingToCollege
+crosslinks:
+- chanceme
+- collegeresults
+- AMAAggregator
+- ACT
+- A2C_circlejerk
+- cscareerquestions
+- Sat
+- college
+- UIUC
+- AskReddit
+- uwaterloo
+- ReverseChanceMe
+- APStudents
+- CalPoly
+- premed
+- UCSD
+- trackers
+- xkcd
+- personalfinance
+- OSU
+---

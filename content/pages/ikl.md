@@ -1,0 +1,5 @@
+---
+title: ikl
+crosslinks:
+- astrophotography
+---

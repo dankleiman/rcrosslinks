@@ -1,0 +1,24 @@
+---
+title: JamesDamore
+crosslinks:
+- autotldr
+- tech
+- cscareerquestions
+- chess
+- linuxmasterrace
+- RedPillWomen
+- me_irl
+- ShitEvilModsSay
+- TheRedPill
+- JordanPeterson
+- AsABlackMan
+- StopBeingEvil
+- ColinsLastStand
+- IAmA
+- Anarcho_Capitalism
+- girlsgonewiredRedux
+- google
+- Destiny
+- slatestarcodex
+- girlsgonewired
+---

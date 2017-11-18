@@ -1,0 +1,24 @@
+---
+title: EverythingScience
+crosslinks:
+- science
+- MarchForScience
+- worldnews
+- livven
+- videos
+- news
+- The_Donald
+- IAmA
+- medicine
+- Pyongyang
+- Permaculture
+- Futurology
+- EnoughTrumpSpam
+- zeronet
+- Physics
+- gunpolitics
+- Economics
+- datahoarder
+- vegan
+- BioSky
+---

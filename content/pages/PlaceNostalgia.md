@@ -1,0 +1,24 @@
+---
+title: PlaceNostalgia
+crosslinks:
+- thefinalclean
+- counting
+- place
+- TheButtonThread
+- livecounting
+- counting_in_the_wild
+- ButtonAftermath
+- technology
+- AskReddit
+- placehearts
+- NO_COUNTING_ALLOWED
+- me_irl
+- Pxlsspace
+- apple
+- archlinux
+- MegaLounge
+- illusionporn
+- Pincus
+- PointlessStories
+- Jokes
+---

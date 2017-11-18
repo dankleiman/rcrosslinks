@@ -1,0 +1,5 @@
+---
+title: GodEater
+crosslinks:
+- GodEaterDen
+---

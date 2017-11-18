@@ -1,0 +1,5 @@
+---
+title: TopCow
+crosslinks:
+- ImageComics
+---

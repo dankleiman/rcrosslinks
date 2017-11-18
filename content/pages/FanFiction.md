@@ -1,0 +1,24 @@
+---
+title: FanFiction
+crosslinks:
+- marvelfans
+- HPfanfiction
+- writing
+- NarutoFanfiction
+- xkcd
+- HPSlashFic
+- gallifrey
+- FanFictionCritiques
+- zootopia
+- '1046539'
+- StarVStheForcesofEvil
+- Etsy
+- DestructiveReaders
+- Marvel
+- falloutequestria
+- rational
+- Sommie789
+- Serendipity
+- WritingPrompts
+- Screenwriting
+---

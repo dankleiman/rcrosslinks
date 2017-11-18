@@ -1,0 +1,5 @@
+---
+title: ModelBowieNews
+crosslinks:
+- ModelBowieGov
+---

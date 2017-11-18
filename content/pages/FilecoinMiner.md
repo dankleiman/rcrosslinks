@@ -1,0 +1,5 @@
+---
+title: FilecoinMiner
+crosslinks:
+- autotldr
+---

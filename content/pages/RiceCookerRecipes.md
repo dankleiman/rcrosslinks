@@ -1,0 +1,5 @@
+---
+title: RiceCookerRecipes
+crosslinks:
+- PressureCooking
+---

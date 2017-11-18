@@ -1,0 +1,5 @@
+---
+title: gifsofanime
+crosslinks:
+- pics
+---

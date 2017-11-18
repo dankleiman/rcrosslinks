@@ -1,0 +1,5 @@
+---
+title: trogdor
+crosslinks:
+- HomestarRunner
+---

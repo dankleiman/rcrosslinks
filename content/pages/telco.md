@@ -1,0 +1,5 @@
+---
+title: telco
+crosslinks:
+- programming
+---

@@ -1,0 +1,5 @@
+---
+title: pcupgrade
+crosslinks:
+- Amd
+---

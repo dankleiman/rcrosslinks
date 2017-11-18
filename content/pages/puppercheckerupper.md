@@ -1,0 +1,5 @@
+---
+title: puppercheckerupper
+crosslinks:
+- BetterEveryLoop
+---

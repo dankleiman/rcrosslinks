@@ -1,0 +1,24 @@
+---
+title: randomactsofcsgo
+crosslinks:
+- AskReddit
+- leagueoflegends
+- funny
+- aww
+- Miami
+- LearnCSGO
+- pokemongo
+- dankmemes
+- TalesFromTechSupport
+- IdiotsFightingThings
+- gaming
+- soccer
+- RoastMe
+- SquaredCircle
+- SCP
+- tifu
+- IAmA
+- UpliftingNews
+- Jokes
+- WritingPrompts
+---

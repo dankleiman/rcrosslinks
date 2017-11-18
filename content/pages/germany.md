@@ -1,0 +1,24 @@
+---
+title: germany
+crosslinks:
+- autotldr
+- de
+- ShitAmericansSay
+- europrivacy
+- German
+- europe
+- german
+- Munich
+- worldpolitics
+- The_Donald
+- xkcd
+- place
+- changemyview
+- ireland
+- the_schulz
+- france
+- IWantOut
+- translator
+- de_IAmA
+- syriancivilwar
+---

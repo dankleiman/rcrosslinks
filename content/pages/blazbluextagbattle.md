@@ -1,0 +1,5 @@
+---
+title: blazbluextagbattle
+crosslinks:
+- RWBY
+---

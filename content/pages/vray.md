@@ -1,0 +1,5 @@
+---
+title: vray
+crosslinks:
+- Amd
+---

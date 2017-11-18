@@ -1,0 +1,24 @@
+---
+title: dontfuckingsayit
+crosslinks:
+- itcosinedinaflash
+- IAmA
+- theydidthefuckyou
+- REEEEEEEEEE
+- RocketLeague
+- AskOuija
+- xkcd
+- theystuttered
+- AskReddit
+- news
+- videos
+- highqualitygifs
+- ledootgeneration
+- interestingasfuck
+- gatekeeping
+- FireGuy12
+- FuckTammy
+- tifu
+- rarepuppers
+- AVoid5
+---

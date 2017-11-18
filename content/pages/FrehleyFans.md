@@ -1,0 +1,5 @@
+---
+title: FrehleyFans
+crosslinks:
+- KISS
+---

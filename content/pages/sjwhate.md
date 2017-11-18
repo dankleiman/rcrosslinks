@@ -1,0 +1,24 @@
+---
+title: sjwhate
+crosslinks:
+- The_Donald
+- livven
+- philosophy
+- news
+- FuckAMotherfucker
+- TwoXChromosomes
+- undelete
+- modnews
+- europe
+- metacanada
+- MGTOW
+- copypasta
+- IAmA
+- civ
+- shitstatistssay
+- exmuslim
+- starterpacks
+- WhiteRights
+- futurama
+- eFukt
+---

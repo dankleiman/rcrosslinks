@@ -1,0 +1,5 @@
+---
+title: nerdstuff
+crosslinks:
+- comics
+---

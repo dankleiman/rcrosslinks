@@ -1,0 +1,5 @@
+---
+title: winsomeman
+crosslinks:
+- FormerFutureAuthor
+---

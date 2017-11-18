@@ -1,0 +1,5 @@
+---
+title: fuckedbytrump
+crosslinks:
+- autotldr
+---

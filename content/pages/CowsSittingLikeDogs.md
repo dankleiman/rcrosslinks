@@ -1,0 +1,5 @@
+---
+title: CowsSittingLikeDogs
+crosslinks:
+- vegan
+---

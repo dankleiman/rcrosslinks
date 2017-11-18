@@ -1,0 +1,24 @@
+---
+title: promos
+crosslinks:
+- Coffee
+- Bitcoin
+- IAmA
+- AskReddit
+- UKFrugal
+- The_Donald
+- latterdaysaints
+- lacortenews
+- autotldr
+- exmormon
+- videos
+- exmuslim
+- xkcd
+- hapas
+- CryptoCurrency
+- MinimalistApparel
+- livecounting
+- pluckeye
+- islam
+- GAMEKIT
+---

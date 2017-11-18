@@ -1,0 +1,24 @@
+---
+title: badmathematics
+crosslinks:
+- math
+- askscience
+- AskReddit
+- philosophy
+- learnmath
+- explainlikeimfive
+- programming
+- xkcd
+- autotldr
+- iamverysmart
+- askphilosophy
+- shittymath
+- compsci
+- Physics
+- DotA2
+- theydidthemath
+- Showerthoughts
+- askmath
+- conspiracy
+- science
+---

@@ -1,0 +1,5 @@
+---
+title: PaladinsStrike
+crosslinks:
+- Paladins
+---

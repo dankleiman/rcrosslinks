@@ -1,0 +1,5 @@
+---
+title: functionaldrugs
+crosslinks:
+- Drugs
+---

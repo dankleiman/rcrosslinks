@@ -1,0 +1,24 @@
+---
+title: milwaukee
+crosslinks:
+- PoliticalHumor
+- AdviceAnimals
+- The_Donald
+- wisconsin
+- xkcd
+- WICircleJerk
+- UWMilwaukee
+- cordcutters
+- OutOfTheLoop
+- Seattle
+- minnesota
+- news
+- esist
+- pilonidalcyst
+- MapPorn
+- MLBStreams
+- IAmA
+- lifeprotips
+- UnnecessaryQuotes
+- GreenBayPackers
+---

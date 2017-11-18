@@ -1,0 +1,24 @@
+---
+title: Serendipity
+crosslinks:
+- autotldr
+- livven
+- SampleSize
+- learntodraw
+- EDC
+- theunexplained
+- knightsofsidonia
+- ProjectRunway
+- UnsolvedMurders
+- AjaxAmsterdam
+- howardstern
+- Stance
+- CarletonU
+- mylittleandysonic1
+- BigMurph26
+- SmithAndWesson
+- toradora
+- RedvsBlue
+- shoujoai
+- OceanicTagPro
+---

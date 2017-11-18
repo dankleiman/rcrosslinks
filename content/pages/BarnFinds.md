@@ -1,0 +1,5 @@
+---
+title: BarnFinds
+crosslinks:
+- delusionalcraigslist
+---

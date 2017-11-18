@@ -1,0 +1,5 @@
+---
+title: Spidderman
+crosslinks:
+- goodartvsmspaint
+---

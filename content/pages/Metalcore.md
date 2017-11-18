@@ -1,0 +1,24 @@
+---
+title: Metalcore
+crosslinks:
+- PostHardcore
+- MelodicHardcore
+- Deathcore
+- NuMetal
+- corejerk
+- ProgMetal
+- MelodicDeathMetal
+- melodichardcore
+- AntiMWMWatch
+- ShitTheFalseSay
+- Metal
+- Hardcore
+- GamerGhazi
+- Music
+- metaljerk
+- worldnews
+- ShowerOrange
+- poppunkers
+- politics
+- dancegavindance
+---

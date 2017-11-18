@@ -1,0 +1,24 @@
+---
+title: PandR
+crosslinks:
+- livven
+- pics
+- WhyICorrectBryanPCox
+- AMAAggregator
+- AdviceAnimals
+- IAmA
+- funny
+- DunderMifflin
+- AskReddit
+- aww
+- television
+- metric_units
+- trees
+- gifs
+- gatekeeping
+- HighQualityGifs
+- CrappyDesign
+- CineShots
+- ketorecipes
+- Accounting
+---

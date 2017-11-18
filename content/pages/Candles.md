@@ -1,0 +1,5 @@
+---
+title: Candles
+crosslinks:
+- candlemaking
+---

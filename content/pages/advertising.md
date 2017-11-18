@@ -1,0 +1,24 @@
+---
+title: advertising
+crosslinks:
+- autotldr
+- Entrepreneur
+- mildlyinteresting
+- legrownassman
+- themes
+- vegan
+- socialmedia
+- freeformost
+- FUCK_United_Airlines
+- marketing
+- funny
+- WeAreTheMusicMakers
+- france
+- Suomi
+- adwords
+- churning
+- ScottishPeopleTwitter
+- DIY_eJuice
+- australia
+- copywriting
+---

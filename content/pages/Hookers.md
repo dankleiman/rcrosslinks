@@ -1,0 +1,23 @@
+---
+title: Hookers
+crosslinks:
+- SexWorkers
+- Escorts
+- autotldr
+- dirtyr4r
+- DeadBedrooms
+- TrueReddit
+- SWResources
+- WorkOnline
+- watchpeopledie
+- NSFWIAMA
+- AskReddit
+- coaxedintoasnafu
+- adviceanimals
+- SuicideWatch
+- Bitcoin
+- nocontext
+- AskMen
+- AskAnEscort
+- hapas
+---

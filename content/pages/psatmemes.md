@@ -1,0 +1,5 @@
+---
+title: psatmemes
+crosslinks:
+- xkcd
+---

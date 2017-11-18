@@ -1,0 +1,24 @@
+---
+title: everymanshouldknow
+crosslinks:
+- malefashionadvice
+- massage
+- Fitness
+- getdisciplined
+- AskReddit
+- GetMotivated
+- catpranks
+- shittyadvice
+- EnglishLearning
+- stopsmoking
+- vegetarianketo
+- homegym
+- cscareerquestions
+- howtonotgiveafuck
+- restofthefuckingowl
+- churning
+- movies
+- Jokes
+- AutoDetailing
+- keto
+---

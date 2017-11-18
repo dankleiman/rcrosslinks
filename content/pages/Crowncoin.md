@@ -1,0 +1,5 @@
+---
+title: Crowncoin
+crosslinks:
+- Crown
+---

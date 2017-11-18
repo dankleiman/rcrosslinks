@@ -1,0 +1,5 @@
+---
+title: ThisIsWhyRedditSucks
+crosslinks:
+- NintendoSwitch
+---

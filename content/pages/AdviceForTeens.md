@@ -1,0 +1,5 @@
+---
+title: AdviceForTeens
+crosslinks:
+- teenagers
+---

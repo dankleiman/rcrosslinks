@@ -1,0 +1,5 @@
+---
+title: FrugalWedding
+crosslinks:
+- Frugal
+---

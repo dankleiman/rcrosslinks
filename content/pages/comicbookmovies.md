@@ -1,0 +1,24 @@
+---
+title: comicbookmovies
+crosslinks:
+- autotldr
+- DC_Cinematic
+- moviescirclejerk
+- movies
+- SuperheroCirclejerk
+- LearnUselessTalents
+- gatekeeping
+- DC_Shazam
+- livven
+- Supergirl
+- LegionFX
+- Marvel
+- UMCU
+- Runaways
+- valiant
+- ActionFigures
+- FlashTV
+- titlegore
+- HFY
+- gravityfalls
+---

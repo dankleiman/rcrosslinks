@@ -1,0 +1,24 @@
+---
+title: AsABlackMan
+crosslinks:
+- The_Donald
+- news
+- unpopularopinion
+- canada
+- worldnews
+- politics
+- AskReddit
+- conspiracy
+- videos
+- KotakuInAction
+- CringeAnarchy
+- LivestreamFail
+- television
+- GamerGhazi
+- Incels
+- ukpolitics
+- changemyview
+- BlackPeopleTwitter
+- pics
+- asktransgender
+---

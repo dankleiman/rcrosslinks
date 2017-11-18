@@ -1,0 +1,24 @@
+---
+title: TheSilphRoad
+crosslinks:
+- pokemongo
+- pokemongodev
+- GoPlus
+- PokemonGoPodcast
+- PokemonGOIVs
+- Ingress
+- xkcd
+- pokemon
+- GoIV
+- PokemonGoSpoofing
+- PokemonGoBoston
+- PokemonGoChi
+- pokemongocirclejerk
+- pokemongoLondon
+- nexus5x
+- PokemonGoSnap
+- PKGOAtlanta
+- PokemonGoSanJose
+- PoGoDFW
+- HamptonRoadsPoGo
+---

@@ -1,0 +1,5 @@
+---
+title: lehrerzimmer
+crosslinks:
+- de
+---

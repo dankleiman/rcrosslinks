@@ -1,0 +1,24 @@
+---
+title: Pennsylvania
+crosslinks:
+- autotldr
+- ShitPoliticsSays
+- philadelphia
+- NEPA
+- Missing411
+- news
+- TrumpPA
+- politics
+- pics
+- creepy
+- Political_Revolution
+- gratefuldoe
+- AskEngineers
+- AskTrumpSupporters
+- Roadcam
+- lehighvalley
+- funny
+- Austin
+- Economics
+- citizenjournalism
+---

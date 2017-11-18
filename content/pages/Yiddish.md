@@ -1,0 +1,5 @@
+---
+title: Yiddish
+crosslinks:
+- translator
+---

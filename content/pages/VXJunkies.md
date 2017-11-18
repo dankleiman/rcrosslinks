@@ -1,0 +1,24 @@
+---
+title: VXJunkies
+crosslinks:
+- livven
+- xkcd
+- mechanical_gifs
+- whatisthisthing
+- gatekeeping
+- titlegore
+- OSHA
+- assholedesign
+- EmDrive
+- '195'
+- dadjokes
+- Drama
+- musictheory
+- Skookum
+- chemicalreactiongifs
+- math
+- arXiv_Plus
+- france
+- jesuschristreddit
+- darksouls3
+---

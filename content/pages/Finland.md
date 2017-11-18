@@ -1,0 +1,24 @@
+---
+title: Finland
+crosslinks:
+- LearnFinnish
+- Suomi
+- autotldr
+- pics
+- IAmA
+- AskEurope
+- place
+- xkcd
+- Aalto
+- OutOfTheLoop
+- europeanunion
+- Serendipity
+- eupersonalfinance
+- BeautyQueens
+- russia
+- spurdo
+- en2
+- singapore
+- razer
+- fingols
+---

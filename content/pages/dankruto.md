@@ -1,0 +1,22 @@
+---
+title: dankruto
+crosslinks:
+- Naruto
+- livven
+- REEEEEEEEEE
+- naruto
+- MemeEconomy
+- Naruto_Hentai
+- unexpectednaruto
+- funny
+- gaming
+- dank_meme
+- Boruto
+- grilledcheese
+- FrenchWestIndies
+- OutOfTheLoop
+- OneTrueAsuna
+- PrequelMemes
+- meirl
+- Showerthoughts
+---

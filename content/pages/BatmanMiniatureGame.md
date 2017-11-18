@@ -1,0 +1,5 @@
+---
+title: BatmanMiniatureGame
+crosslinks:
+- minipainting
+---

@@ -1,0 +1,5 @@
+---
+title: mermaids
+crosslinks:
+- mermaid
+---

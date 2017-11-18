@@ -1,0 +1,5 @@
+---
+title: lecutinsideman
+crosslinks:
+- soccer
+---

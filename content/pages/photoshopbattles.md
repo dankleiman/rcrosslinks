@@ -1,0 +1,24 @@
+---
+title: photoshopbattles
+crosslinks:
+- cutouts
+- pics
+- aww
+- PerfectTiming
+- funny
+- mildlyinteresting
+- OldSchoolCool
+- AskReddit
+- gifs
+- natureismetal
+- AccidentalRenaissance
+- WTF
+- HighQualityGifs
+- norge
+- mildlypenis
+- StarWars
+- monkeypics
+- WritingPrompts
+- '2017'
+- CrappyDesign
+---

@@ -1,0 +1,24 @@
+---
+title: chemistry
+crosslinks:
+- livven
+- crystalgrowing
+- chemhelp
+- xkcd
+- AskReddit
+- ScientistsMarch
+- Physics
+- ChemicalEngineering
+- askscience
+- rockhounds
+- mescaline
+- elementcollection
+- AwfulScienceTats
+- AwfulVideoGameTattoos
+- farpeoplehate
+- LifeProTips
+- gaming
+- MarchForScience
+- tifu
+- OSHA
+---

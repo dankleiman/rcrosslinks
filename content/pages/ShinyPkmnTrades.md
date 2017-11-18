@@ -1,0 +1,5 @@
+---
+title: ShinyPkmnTrades
+crosslinks:
+- ShinyPokemon
+---

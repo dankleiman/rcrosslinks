@@ -1,0 +1,24 @@
+---
+title: ContestOfChampions
+crosslinks:
+- ContestOfChampionsLFG
+- ContestOfChampsArena
+- livven
+- modnews
+- Pay_Respects
+- askwomenadvice
+- contestofchampionslfg
+- knitting
+- AskReddit
+- xkcd
+- theydidthemonstermath
+- explainlikeimfive
+- candy
+- food
+- future_fight
+- Android
+- 25gf09v
+- pyrocynical
+- MCoC_News
+- 10wqssi
+---

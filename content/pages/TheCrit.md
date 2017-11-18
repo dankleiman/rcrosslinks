@@ -1,0 +1,5 @@
+---
+title: TheCrit
+crosslinks:
+- gamernews
+---

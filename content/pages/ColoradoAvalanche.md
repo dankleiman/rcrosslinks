@@ -1,0 +1,24 @@
+---
+title: ColoradoAvalanche
+crosslinks:
+- hockey
+- hockeyjerseys
+- livven
+- NHLStreams
+- wildhockey
+- puckstreams
+- canucks
+- NewYorkIslanders
+- hockeyplayers
+- SanJoseSharks
+- aww
+- ihavesex
+- highqualitygifs
+- gif
+- ShotGlassBets
+- ApicemLight
+- '2015'
+- TheseFuckingAccounts
+- AnaheimDucks
+- EdmontonOilers
+---

@@ -1,0 +1,5 @@
+---
+title: VaingloryHentai
+crosslinks:
+- vainglorygame
+---

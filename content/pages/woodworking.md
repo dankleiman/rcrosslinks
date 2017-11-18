@@ -1,0 +1,24 @@
+---
+title: woodworking
+crosslinks:
+- turning
+- DIY
+- handtools
+- livven
+- finishing
+- pics
+- marijuanaenthusiasts
+- shittywoodworking
+- craftsman113
+- Woodcarving
+- Linky_links
+- Luthier
+- Skookum
+- somethingimade
+- Bladesmith
+- Axecraft
+- accessdoors
+- AskReddit
+- oddlysatisfying
+- OutOfTheLoop
+---

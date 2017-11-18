@@ -1,0 +1,5 @@
+---
+title: NouvelleTaglineDuSub
+crosslinks:
+- france
+---

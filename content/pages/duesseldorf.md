@@ -1,0 +1,5 @@
+---
+title: duesseldorf
+crosslinks:
+- germany
+---

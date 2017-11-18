@@ -1,0 +1,24 @@
+---
+title: TheLastAirbender
+crosslinks:
+- LakeLaogai
+- livven
+- RemasteringATLA
+- BendingWallpapers
+- xkcd
+- Azula
+- korrasami
+- AskReddit
+- whatirohwouldsay
+- UnearthedArcana
+- gifs
+- megalinks
+- gaming
+- PrequelMemes
+- firefly
+- whowouldwin
+- Unity3D
+- TVDetails
+- MovieDetails
+- autotldr
+---

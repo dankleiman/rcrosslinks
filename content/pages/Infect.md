@@ -1,0 +1,5 @@
+---
+title: Infect
+crosslinks:
+- ModernMagic
+---

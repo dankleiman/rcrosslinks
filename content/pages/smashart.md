@@ -1,0 +1,5 @@
+---
+title: smashart
+crosslinks:
+- Metroid
+---

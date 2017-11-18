@@ -1,0 +1,24 @@
+---
+title: awwwtf
+crosslinks:
+- livven
+- WTF
+- aww
+- CutePetSnails
+- gifs
+- awwtf
+- PeopleFuckingDying
+- funny
+- trashy
+- pics
+- ahegao
+- awwnverts
+- shitpost
+- interestingasfuck
+- CrappyDesign
+- snakes
+- WordAvalanches
+- Funnycreepy
+- ShittyAnimalFacts
+- Unorthodog
+---

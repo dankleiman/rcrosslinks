@@ -1,0 +1,5 @@
+---
+title: beginnerfitness
+crosslinks:
+- Fitness
+---

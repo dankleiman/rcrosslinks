@@ -1,0 +1,5 @@
+---
+title: FreeSync
+crosslinks:
+- Amd
+---

@@ -1,0 +1,5 @@
+---
+title: Transnews
+crosslinks:
+- LGBTnews
+---

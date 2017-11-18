@@ -1,0 +1,5 @@
+---
+title: ClassicTrance
+crosslinks:
+- Eurodance
+---

@@ -1,0 +1,24 @@
+---
+title: sanfrancisco
+crosslinks:
+- oakland
+- xkcd
+- LateStageCapitalism
+- AskSF
+- SFBARF
+- AskReddit
+- Portland
+- politics
+- LosAngeles
+- The_Donald
+- chicago
+- pics
+- SkincareAddiction
+- OutOfTheLoop
+- news
+- Austin
+- starterpacks
+- wholesomeSF
+- worldnews
+- EnoughTrumpSpam
+---

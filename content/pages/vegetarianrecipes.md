@@ -1,0 +1,5 @@
+---
+title: vegetarianrecipes
+crosslinks:
+- spam
+---

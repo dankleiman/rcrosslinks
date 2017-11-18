@@ -1,0 +1,5 @@
+---
+title: haskellquestions
+crosslinks:
+- haskell
+---

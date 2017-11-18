@@ -1,0 +1,5 @@
+---
+title: Salsa
+crosslinks:
+- Dance
+---

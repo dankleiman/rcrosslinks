@@ -1,0 +1,24 @@
+---
+title: Turkey
+crosslinks:
+- autotldr
+- syriancivilwar
+- europe
+- worldnews
+- place
+- AskHistorians
+- islam
+- MapPorn
+- armenia
+- kurdistan
+- AMAAggregator
+- TurkicHistory
+- de
+- SyrianCirclejerkWar
+- AskReddit
+- IAmA
+- politics
+- WTF
+- pics
+- pakistan
+---

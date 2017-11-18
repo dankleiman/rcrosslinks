@@ -1,0 +1,21 @@
+---
+title: halloween
+crosslinks:
+- TheHolidaySeason
+- NewOrleans
+- pokemon
+- deepdream
+- HalloweenCostume
+- TheSimpsons
+- Thetruthishere
+- nosleep
+- HailCorporate
+- costumeideas
+- OutOfTheLoop
+- holidaygreetings
+- 291kkf9
+- 501st
+- aww
+- TrueAskReddit
+- pumpkincarving
+---

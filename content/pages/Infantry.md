@@ -1,0 +1,5 @@
+---
+title: Infantry
+crosslinks:
+- Militaryfaq
+---

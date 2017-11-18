@@ -1,0 +1,5 @@
+---
+title: hindoo
+crosslinks:
+- indianews
+---

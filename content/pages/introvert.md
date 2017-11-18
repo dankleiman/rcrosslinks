@@ -1,0 +1,24 @@
+---
+title: introvert
+crosslinks:
+- socialskills
+- AskReddit
+- wholisticenchilada
+- socialanxiety
+- xkcd
+- hsp
+- getdisciplined
+- misanthropy
+- Asean
+- anxiety
+- 4chan
+- adultchildren
+- longisland
+- The_Donald
+- autotldr
+- FierceFlow
+- VirginiaBeach
+- FunnyandSad
+- AskNYC
+- MaladaptiveDreaming
+---

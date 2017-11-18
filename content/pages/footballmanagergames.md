@@ -1,0 +1,24 @@
+---
+title: footballmanagergames
+crosslinks:
+- soccer
+- livven
+- MLS
+- titlegore
+- FifaCareers
+- FMStories
+- sports
+- CrusaderKings
+- vexillologycirclejerk
+- surrey
+- 2dhtrf8
+- '195'
+- DANMAG
+- hmmm
+- CrappyDesign
+- ErickRowan
+- pcgaming
+- NotKenM
+- Aleague
+- TheManagersCorner
+---

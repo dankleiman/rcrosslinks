@@ -1,0 +1,5 @@
+---
+title: thatpicofnzfromspace
+crosslinks:
+- newzealand
+---

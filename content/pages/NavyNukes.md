@@ -1,0 +1,5 @@
+---
+title: NavyNukes
+crosslinks:
+- AirForce
+---

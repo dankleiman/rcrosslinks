@@ -1,0 +1,5 @@
+---
+title: thepinkbird
+crosslinks:
+- thefinalclean
+---

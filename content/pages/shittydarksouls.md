@@ -1,0 +1,24 @@
+---
+title: shittydarksouls
+crosslinks:
+- darksouls3
+- DarkSouls2
+- gaming
+- darksouls
+- shittyshittydarksouls
+- assignedmale
+- funny
+- thatHappened
+- creepy
+- demonssouls
+- pics
+- CowChop
+- Vore
+- autismsouls
+- shittyreactiongifs
+- AskReddit
+- Bossfight
+- sadcringe
+- ExpandDong
+- REEEEEEEEEE
+---

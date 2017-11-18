@@ -1,0 +1,5 @@
+---
+title: toystory
+crosslinks:
+- ProCSS
+---

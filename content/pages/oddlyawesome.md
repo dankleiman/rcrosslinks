@@ -1,0 +1,5 @@
+---
+title: oddlyawesome
+crosslinks:
+- oddlysatisfying
+---

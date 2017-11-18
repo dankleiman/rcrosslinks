@@ -1,0 +1,24 @@
+---
+title: ContagiousLaughter
+crosslinks:
+- videos
+- IdiotsFightingThings
+- PUBATTLEGROUNDS
+- LivestreamFail
+- AskReddit
+- xkcd
+- funny
+- GamePhysics
+- GakiNoTsukai
+- Overwatch
+- reddCoin
+- retiredgif
+- altright
+- leagueoflegends
+- ChildrenFallingOver
+- reactiongifs
+- NLSSCircleJerk
+- ShitAmericansSay
+- BlackPeopleTwitter
+- RedLetterMedia
+---

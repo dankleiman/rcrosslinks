@@ -1,0 +1,5 @@
+---
+title: DoItAmazing
+crosslinks:
+- kpop
+---

@@ -1,0 +1,5 @@
+---
+title: VacationMeetup
+crosslinks:
+- solotravel
+---

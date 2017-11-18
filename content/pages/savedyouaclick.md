@@ -1,0 +1,24 @@
+---
+title: savedyouaclick
+crosslinks:
+- autotldr
+- xkcd
+- todayilearned
+- IAmA
+- explainlikeimfive
+- AskReddit
+- Drama
+- DownvotesMcGoats
+- nocontext
+- ShitRedditSays
+- LateStageCapitalism
+- DeadBedrooms
+- videos
+- niceguys
+- NegativeWithGold
+- AskOuija
+- commentgore
+- UnexpectedOuija
+- offmychest
+- unexpectedhogwarts
+---

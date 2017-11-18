@@ -1,0 +1,5 @@
+---
+title: lincolndouglas
+crosslinks:
+- CriticalTheory
+---

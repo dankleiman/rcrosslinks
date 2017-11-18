@@ -1,0 +1,5 @@
+---
+title: coeurdalene
+crosslinks:
+- Sandpoint
+---

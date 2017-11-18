@@ -1,0 +1,5 @@
+---
+title: Funke
+crosslinks:
+- weezer
+---

@@ -1,0 +1,5 @@
+---
+title: UnicornsOfLove
+crosslinks:
+- leagueoflegends
+---

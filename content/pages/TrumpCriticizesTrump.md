@@ -1,0 +1,24 @@
+---
+title: TrumpCriticizesTrump
+crosslinks:
+- The_Donald
+- politics
+- EnoughTrumpSpam
+- news
+- worldnews
+- xkcd
+- all
+- covfefe
+- RussiaLago
+- Keep_Track
+- announcements
+- DumpTrump
+- lifeinapost
+- RussiaLoveCircleJerk
+- autotldr
+- television
+- TheoryOfReddit
+- arksd
+- StarWars
+- Enough_Sanders_Spam
+---

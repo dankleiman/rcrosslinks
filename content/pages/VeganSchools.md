@@ -1,0 +1,5 @@
+---
+title: VeganSchools
+crosslinks:
+- VeganRights
+---

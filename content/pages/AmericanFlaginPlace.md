@@ -1,0 +1,24 @@
+---
+title: AmericanFlaginPlace
+crosslinks:
+- place
+- AFIP
+- ireland
+- GrowTheTree
+- indieheads
+- The_Donald
+- EraseThePlace
+- livven
+- straya
+- sweden
+- FlagAlliance
+- USAplace
+- devils
+- army
+- SwissNeutralityZone
+- MapsWithoutNZ
+- pepe
+- NPR
+- 4chan
+- malaysia
+---

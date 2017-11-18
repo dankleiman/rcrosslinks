@@ -1,0 +1,5 @@
+---
+title: MichelleObama
+crosslinks:
+- OldSchoolCool
+---

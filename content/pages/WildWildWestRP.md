@@ -1,0 +1,5 @@
+---
+title: WildWildWestRP
+crosslinks:
+- SpaceAgePowers
+---

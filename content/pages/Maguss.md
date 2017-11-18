@@ -1,0 +1,5 @@
+---
+title: Maguss
+crosslinks:
+- trucksim
+---

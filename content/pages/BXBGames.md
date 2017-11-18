@@ -1,0 +1,5 @@
+---
+title: BXBGames
+crosslinks:
+- aomthegame
+---

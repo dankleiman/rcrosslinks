@@ -1,0 +1,5 @@
+---
+title: TamerFrontier
+crosslinks:
+- TamerCrusade
+---

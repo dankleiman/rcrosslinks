@@ -1,0 +1,5 @@
+---
+title: Cursedgames
+crosslinks:
+- creepygaming
+---

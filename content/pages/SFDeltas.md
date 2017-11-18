@@ -1,0 +1,5 @@
+---
+title: SFDeltas
+crosslinks:
+- NASLSoccer
+---

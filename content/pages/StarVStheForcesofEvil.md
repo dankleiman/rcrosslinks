@@ -1,0 +1,24 @@
+---
+title: StarVStheForcesofEvil
+crosslinks:
+- stevenuniverse
+- livven
+- EchoCreek
+- gravityfalls
+- Pixiv
+- SquaredCircle
+- AskReddit
+- RWBY
+- place
+- FlashTV
+- xkcd
+- rickandmorty
+- titanfall
+- homestuck
+- JonTron
+- FuckTammy
+- aww
+- arrow
+- nocontext
+- SequelMemes
+---

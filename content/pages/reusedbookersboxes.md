@@ -1,0 +1,5 @@
+---
+title: reusedbookersboxes
+crosslinks:
+- modnews
+---

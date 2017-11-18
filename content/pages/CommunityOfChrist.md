@@ -1,0 +1,5 @@
+---
+title: CommunityOfChrist
+crosslinks:
+- exmormon
+---

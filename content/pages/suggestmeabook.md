@@ -1,0 +1,24 @@
+---
+title: suggestmeabook
+crosslinks:
+- Fantasy
+- AskHistorians
+- AskPhilosophyFAQ
+- AskReddit
+- nosleep
+- media_criticism
+- linguistics
+- stephenking
+- discworld
+- Malazan
+- HFY
+- MandelaEffect
+- WoT
+- askphilosophy
+- Cosmere
+- AskLiteraryStudies
+- pirates
+- rational
+- youshouldknow
+- Jung
+---

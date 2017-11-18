@@ -1,0 +1,5 @@
+---
+title: suse
+crosslinks:
+- openSUSE
+---

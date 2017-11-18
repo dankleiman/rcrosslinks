@@ -1,0 +1,24 @@
+---
+title: wtfstockphotos
+crosslinks:
+- youdontsurf
+- ComedyCemetery
+- excgarated
+- titleporn
+- FutureAnthropology
+- Sneks
+- france
+- ich_iel
+- EarthPorn
+- Pay_Respects
+- furry_irl
+- mildlyvagina
+- LucieWildeIsRetarded
+- TitlePapercut
+- ProgrammerHumor
+- nocontext
+- theydidthefuckyou
+- tacticool
+- titlegore
+- hmmm
+---

@@ -1,0 +1,5 @@
+---
+title: Scootering
+crosslinks:
+- FuckScooters
+---

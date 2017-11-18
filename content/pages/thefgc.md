@@ -1,0 +1,5 @@
+---
+title: thefgc
+crosslinks:
+- Kappa
+---

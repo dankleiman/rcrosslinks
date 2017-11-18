@@ -1,0 +1,5 @@
+---
+title: DarkDiscoEmpire
+crosslinks:
+- Chromatics
+---

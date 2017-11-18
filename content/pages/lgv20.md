@@ -1,0 +1,24 @@
+---
+title: lgv20
+crosslinks:
+- headphones
+- lgg5
+- Android
+- Nexus6P
+- LGG3
+- verizon
+- tasker
+- lgg4
+- oklahoma
+- pokemongodev
+- pics
+- me_irl
+- dirtykikpals
+- techsupportmacgyver
+- livven
+- todayilearned
+- lgg6
+- dnd
+- edc
+- androidthemes
+---

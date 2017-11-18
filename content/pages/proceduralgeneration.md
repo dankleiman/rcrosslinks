@@ -1,0 +1,24 @@
+---
+title: proceduralgeneration
+crosslinks:
+- gamedev
+- livven
+- Unity3D
+- mapmaking
+- oculus
+- VoxelGameDev
+- SCP
+- me_ira
+- reactiongifs
+- dailyprogrammer
+- xkcd
+- glitch_art
+- rust
+- proceduralplanets
+- programming
+- genetic_algorithms
+- horizon
+- RPGdesign
+- gamedesign
+- dndmaps
+---

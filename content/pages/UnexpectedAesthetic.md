@@ -1,0 +1,5 @@
+---
+title: UnexpectedAesthetic
+crosslinks:
+- pics
+---

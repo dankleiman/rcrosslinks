@@ -1,0 +1,5 @@
+---
+title: SaladCringe
+crosslinks:
+- copypasta
+---

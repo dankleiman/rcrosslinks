@@ -1,0 +1,24 @@
+---
+title: pennystocks
+crosslinks:
+- PennyStockTraining
+- weedstocks
+- investing
+- personalfinance
+- movies
+- Dolv
+- IAmA
+- wasserstoff
+- enhancedinvestor
+- Cisco
+- Ascend_Trading
+- Pay_Respects
+- stocks
+- MAGAjuana
+- Serendipity
+- InvestorsHangout
+- Watches
+- AskReddit
+- BoundGame
+- Fighters
+---

@@ -1,0 +1,24 @@
+---
+title: gamindustri
+crosslinks:
+- Pixiv
+- livven
+- 49ers
+- place
+- GreenLattice
+- NintendoSwitch
+- xkcd
+- Dakimakuras
+- RWBY
+- NepLewds
+- touhou
+- mylittleandysonic1
+- PBSOD
+- KemonoFriends
+- OutOfTheLoop
+- datgap
+- titlegore
+- GiIvaSunner
+- senrankagura
+- 2Booty
+---

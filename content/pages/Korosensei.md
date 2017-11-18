@@ -1,0 +1,5 @@
+---
+title: Korosensei
+crosslinks:
+- theydidthemath
+---

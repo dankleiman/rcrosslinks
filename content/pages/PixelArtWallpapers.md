@@ -1,0 +1,5 @@
+---
+title: PixelArtWallpapers
+crosslinks:
+- PixelArt
+---

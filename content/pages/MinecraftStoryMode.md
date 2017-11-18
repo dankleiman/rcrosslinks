@@ -1,0 +1,5 @@
+---
+title: MinecraftStoryMode
+crosslinks:
+- livven
+---

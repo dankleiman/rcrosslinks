@@ -1,0 +1,5 @@
+---
+title: majesties
+crosslinks:
+- pics
+---

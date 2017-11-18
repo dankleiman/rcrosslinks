@@ -1,0 +1,5 @@
+---
+title: LoliDragon
+crosslinks:
+- awwnime
+---

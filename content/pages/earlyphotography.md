@@ -1,0 +1,5 @@
+---
+title: earlyphotography
+crosslinks:
+- OldSchoolCool
+---

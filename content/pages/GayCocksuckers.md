@@ -1,0 +1,5 @@
+---
+title: GayCocksuckers
+crosslinks:
+- titlegore
+---

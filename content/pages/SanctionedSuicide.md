@@ -1,0 +1,24 @@
+---
+title: SanctionedSuicide
+crosslinks:
+- antinatalism
+- SuicideWatch
+- methodsforsuicide
+- depression
+- AskReddit
+- suicidenotes
+- TrueSanctionedSuicide
+- DarkNetMarkets
+- 2meirl4meirl
+- ShrugLifeSyndicate
+- todayilearned
+- askscience
+- xkcd
+- SuicideLaws
+- ForeverAlone
+- LateStageCapitalism
+- autotldr
+- 2meirl42meirl4meirl
+- science
+- pics
+---

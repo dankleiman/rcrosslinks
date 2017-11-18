@@ -1,0 +1,5 @@
+---
+title: dmtguide
+crosslinks:
+- DMT
+---

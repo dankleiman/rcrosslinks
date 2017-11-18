@@ -1,0 +1,24 @@
+---
+title: ElysiumProject
+crosslinks:
+- wowservers
+- Nostalrius
+- iamverysmart
+- livven
+- wow
+- LegacyAddons
+- EnoughTaxoroSpam
+- xkcd
+- 2007scape
+- kronos2wow
+- REEEEEEEEEE
+- KronosWoW
+- legacyaddons
+- MMORPG
+- openttd
+- playTBC
+- Eve
+- catapult_memes
+- madlads
+- gatekeeping
+---

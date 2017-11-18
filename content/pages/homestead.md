@@ -1,0 +1,24 @@
+---
+title: homestead
+crosslinks:
+- GifRecipes
+- Homesteading
+- Permaculture
+- gardening
+- autotldr
+- Axecraft
+- DIY
+- MapsWithoutNZ
+- metric_units
+- Beekeeping
+- soapmaking
+- BackYardChickens
+- BlackSoldierFly
+- ketoscience
+- Tree
+- leanfire
+- woodworking
+- Serendipity
+- AmericanPlantSwap
+- homeautomation
+---

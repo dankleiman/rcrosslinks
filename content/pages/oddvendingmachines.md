@@ -1,0 +1,5 @@
+---
+title: oddvendingmachines
+crosslinks:
+- mildlyinteresting
+---

@@ -1,0 +1,5 @@
+---
+title: CivStrategy
+crosslinks:
+- civ
+---

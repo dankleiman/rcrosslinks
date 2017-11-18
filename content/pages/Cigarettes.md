@@ -1,0 +1,24 @@
+---
+title: Cigarettes
+crosslinks:
+- CigarettePackExchange
+- packswap
+- warpedtour
+- electronic_cigarette
+- me_irl
+- nocontext
+- Watches
+- FULLCOMMUNISM
+- Snus
+- SneakyBackgroundFeet
+- fakeid
+- DumpsterDiving
+- hmmm
+- Bodyweight
+- wien
+- ShittyLifeProTips
+- DarkNetMarkets
+- nottheonion
+- REEEEEEEEEE
+- Metalocalypse
+---

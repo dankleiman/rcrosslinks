@@ -1,0 +1,24 @@
+---
+title: neckbeardRPG
+crosslinks:
+- Tendies
+- mallninjashit
+- pics
+- livven
+- WTF
+- niceguys
+- funny
+- coaxedintoasnafu
+- CreationGifs
+- Nicegirls
+- SwordOrSheath
+- NLSSCircleJerk
+- 2me4meirl
+- swordorsheath
+- NotHowDrugsWork
+- gatekeeping
+- shitpost
+- Bossfight
+- KenM
+- northernlion
+---

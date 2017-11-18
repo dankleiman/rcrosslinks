@@ -1,0 +1,5 @@
+---
+title: NotTrending
+crosslinks:
+- nongold
+---

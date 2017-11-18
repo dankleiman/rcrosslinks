@@ -1,0 +1,5 @@
+---
+title: Colocation
+crosslinks:
+- ServerColo
+---

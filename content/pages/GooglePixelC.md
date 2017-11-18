@@ -1,0 +1,5 @@
+---
+title: GooglePixelC
+crosslinks:
+- androidthemes
+---

@@ -1,0 +1,24 @@
+---
+title: portugal
+crosslinks:
+- portugalnews
+- PORTUGALCARALHO
+- place
+- europe
+- PastaPortuguesa
+- xkcd
+- autotldr
+- livven
+- IST
+- IAmA
+- AskHistorians
+- PortugalGoneWild
+- porto
+- PrimeiraLiga
+- TheRedPill
+- eurovision
+- personalfinance
+- AskReddit
+- MapPorn
+- pics
+---

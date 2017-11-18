@@ -1,0 +1,24 @@
+---
+title: TownofSalemgame
+crosslinks:
+- livven
+- darkestdungeon
+- Townofcirclejerk
+- AskReddit
+- theydidthemath
+- ShadowBan
+- REEEEEEEEEE
+- AVoid5
+- Pay_Respects
+- nocontext
+- xkcd
+- Simulated
+- keming
+- MaliciousCompliance
+- killthosewhodisagree
+- UnexpectedHamilton
+- Relax
+- gatekeeping
+- Paladins
+- MandelaEffect
+---

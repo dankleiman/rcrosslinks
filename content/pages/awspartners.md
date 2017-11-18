@@ -1,0 +1,5 @@
+---
+title: awspartners
+crosslinks:
+- aws
+---

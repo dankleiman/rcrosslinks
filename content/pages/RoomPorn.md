@@ -1,0 +1,24 @@
+---
+title: RoomPorn
+crosslinks:
+- PornOverlords
+- CozyPlaces
+- BrasilOnReddit
+- AmateurRoomPorn
+- malelivingspace
+- pics
+- reddCoin
+- ArchitecturePorn
+- hometours
+- SweatyPalms
+- titlegore
+- norwayonreddit
+- rarepuppers
+- ScandinavianInterior
+- AskReddit
+- ifiwonthelottery
+- xkcd
+- gifs
+- gatekeeping
+- HailCorporate
+---

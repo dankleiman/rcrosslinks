@@ -1,0 +1,24 @@
+---
+title: Colts
+crosslinks:
+- nfl
+- NFL_Draft
+- Texans
+- livven
+- nflstreams
+- eagles
+- AskReddit
+- nfl_draft
+- CoalitionAgainstEvil
+- pavers
+- Jaguars
+- LosAngelesRams
+- SquaredCircle
+- Tennesseetitans
+- EvilLeagueOfEvil
+- metric_units
+- ketogains
+- Cinemagraphs
+- findaleague
+- AskOuija
+---

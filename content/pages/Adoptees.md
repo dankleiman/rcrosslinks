@@ -1,0 +1,5 @@
+---
+title: Adoptees
+crosslinks:
+- Adoption
+---

@@ -1,0 +1,5 @@
+---
+title: NuclearStudentWrites
+crosslinks:
+- anime
+---

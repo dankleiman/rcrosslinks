@@ -1,0 +1,5 @@
+---
+title: SuperMarioOdyssey
+crosslinks:
+- gatekeeping
+---

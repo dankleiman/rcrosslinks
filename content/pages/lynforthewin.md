@@ -1,0 +1,5 @@
+---
+title: lynforthewin
+crosslinks:
+- Pixiv
+---

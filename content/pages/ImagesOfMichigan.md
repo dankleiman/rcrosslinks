@@ -1,0 +1,24 @@
+---
+title: ImagesOfMichigan
+crosslinks:
+- Michigan
+- pics
+- Detroit
+- EarthPorn
+- whatsthisplant
+- tattoos
+- imagesofnetwork
+- grandrapids
+- itookapicture
+- mildlyinteresting
+- funny
+- spiders
+- OldSchoolCool
+- u_2BrkOnThru
+- whatisthisthing
+- Fishing
+- mycology
+- detroitlions
+- kzoo
+- uofm
+---

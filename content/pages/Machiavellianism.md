@@ -1,0 +1,5 @@
+---
+title: Machiavellianism
+crosslinks:
+- societalengineering
+---

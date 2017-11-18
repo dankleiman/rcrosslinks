@@ -1,0 +1,5 @@
+---
+title: forcedintimacy
+crosslinks:
+- Bondage
+---

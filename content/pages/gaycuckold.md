@@ -1,0 +1,5 @@
+---
+title: gaycuckold
+crosslinks:
+- Cuckold
+---

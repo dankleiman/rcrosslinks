@@ -1,0 +1,5 @@
+---
+title: SMBPlays
+crosslinks:
+- SMBLive
+---

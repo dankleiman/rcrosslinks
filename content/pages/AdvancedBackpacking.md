@@ -1,0 +1,5 @@
+---
+title: AdvancedBackpacking
+crosslinks:
+- Ultralight
+---

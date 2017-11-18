@@ -1,0 +1,5 @@
+---
+title: ArtOfGames
+crosslinks:
+- gaming
+---

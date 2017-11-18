@@ -1,0 +1,24 @@
+---
+title: RimWorld
+crosslinks:
+- ShitRimworldSays
+- RimWorldSeeds
+- livven
+- RimworldArt
+- xkcd
+- nocontext
+- CrusaderKings
+- Talesfromrimworld
+- shitrimworldsays
+- Games
+- Pay_Respects
+- ShitDwarfFortressSays
+- place
+- dwarffortress
+- ImaginaryLandscapes
+- Rimreddit
+- OutOfTheLoop
+- funny
+- AskReddit
+- factorio
+---

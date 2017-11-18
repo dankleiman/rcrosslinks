@@ -1,0 +1,5 @@
+---
+title: EKWB
+crosslinks:
+- watercooling
+---

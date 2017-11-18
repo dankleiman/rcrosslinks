@@ -1,0 +1,24 @@
+---
+title: WhatsWrongWithYourDog
+crosslinks:
+- livven
+- aww
+- AnimalsBeingDerps
+- PoliticalHumor
+- videos
+- empiredidnothingwrong
+- MemeEconomy
+- HailCorporate
+- RedneckDadJokes
+- toofers
+- topnotchshitposting
+- gifs
+- woof_irl
+- vizsla
+- sploot
+- likeus
+- dogpictures
+- cocainekitties
+- WhyICorrectBryanPCox
+- hmm
+---

@@ -1,0 +1,24 @@
+---
+title: Calligraphy
+crosslinks:
+- fountainpens
+- AskReddit
+- aww
+- livven
+- wholesomememes
+- mildlyinteresting
+- iamverysmart
+- funny
+- Damnthatsinteresting
+- pics
+- Illustration
+- dadjokes
+- shufa
+- fragrance
+- Serendipity
+- oddlysatisfying
+- AskHistorians
+- cigars
+- weddingplanning
+- WTF
+---

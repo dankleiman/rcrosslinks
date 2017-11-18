@@ -1,0 +1,5 @@
+---
+title: SupCourtWesternState
+crosslinks:
+- ModelWesternState
+---

@@ -1,0 +1,5 @@
+---
+title: adenomyosis
+crosslinks:
+- Endo
+---

@@ -1,0 +1,5 @@
+---
+title: Gaymer
+crosslinks:
+- funny
+---

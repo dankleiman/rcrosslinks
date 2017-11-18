@@ -1,0 +1,5 @@
+---
+title: Jyvaskyla
+crosslinks:
+- Suomi
+---

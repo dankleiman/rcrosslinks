@@ -1,0 +1,5 @@
+---
+title: gpny
+crosslinks:
+- GreenPartyUSA
+---

@@ -1,0 +1,5 @@
+---
+title: IODigitalCurrency
+crosslinks:
+- CryptoCurrency
+---

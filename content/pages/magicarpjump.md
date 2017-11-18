@@ -1,0 +1,5 @@
+---
+title: magicarpjump
+crosslinks:
+- MagikarpJump
+---

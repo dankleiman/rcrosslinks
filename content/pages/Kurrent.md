@@ -1,0 +1,5 @@
+---
+title: Kurrent
+crosslinks:
+- wien
+---

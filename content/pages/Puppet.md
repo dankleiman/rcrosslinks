@@ -1,0 +1,5 @@
+---
+title: Puppet
+crosslinks:
+- puppets
+---

@@ -1,0 +1,5 @@
+---
+title: weightroomcontests
+crosslinks:
+- weightroom
+---

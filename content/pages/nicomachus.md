@@ -1,0 +1,5 @@
+---
+title: nicomachus
+crosslinks:
+- portugaltheman
+---

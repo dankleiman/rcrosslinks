@@ -1,0 +1,5 @@
+---
+title: vtm
+crosslinks:
+- WhiteWolfRPG
+---

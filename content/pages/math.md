@@ -1,0 +1,24 @@
+---
+title: math
+crosslinks:
+- xkcd
+- learnmath
+- autotldr
+- AskReddit
+- askscience
+- mathriddles
+- Physics
+- mathpics
+- MachineLearning
+- livven
+- askmath
+- Drama
+- learnprogramming
+- programming
+- curvegrapher
+- conlangs
+- videos
+- IAmA
+- OutOfTheLoop
+- mentalmath
+---

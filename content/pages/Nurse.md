@@ -1,0 +1,5 @@
+---
+title: Nurse
+crosslinks:
+- nursing
+---

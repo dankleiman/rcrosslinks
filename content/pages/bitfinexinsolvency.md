@@ -1,0 +1,5 @@
+---
+title: bitfinexinsolvency
+crosslinks:
+- BitcoinMarkets
+---

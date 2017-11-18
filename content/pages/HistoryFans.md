@@ -1,0 +1,5 @@
+---
+title: HistoryFans
+crosslinks:
+- SovietHistory
+---

@@ -1,0 +1,24 @@
+---
+title: noveltranslations
+crosslinks:
+- LightNovels
+- QidianUnderground
+- rational
+- videos
+- HFY
+- manga
+- Donghua
+- modnews
+- help
+- redditposts
+- literature
+- Spanish
+- FlashTV
+- IntroduceYourself
+- Mahouka
+- popular
+- Yaoshenji
+- wholesomemurders
+- titlegore
+- legaladvice
+---

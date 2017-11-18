@@ -1,0 +1,5 @@
+---
+title: HashtagDadJoke
+crosslinks:
+- snowmandan
+---

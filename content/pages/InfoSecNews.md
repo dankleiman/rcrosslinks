@@ -1,0 +1,5 @@
+---
+title: InfoSecNews
+crosslinks:
+- autotldr
+---

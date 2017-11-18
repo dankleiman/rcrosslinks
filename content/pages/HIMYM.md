@@ -1,0 +1,24 @@
+---
+title: HIMYM
+crosslinks:
+- livven
+- AskReddit
+- sadcringe
+- autotldr
+- interestingasfuck
+- GhostedTV
+- NotHowDrugsWork
+- Overwatch
+- RESissues
+- space
+- itwasagraveyardgraph
+- underpopular
+- penpals
+- ShitAmericansSay
+- Serendipity
+- thisismylifenow
+- grandpajoehate
+- childfree
+- Piracy
+- tipofmytongue
+---

@@ -1,0 +1,24 @@
+---
+title: Philippines
+crosslinks:
+- AskReddit
+- worldnews
+- IAmA
+- indiemusicph
+- DotA2
+- xkcd
+- ilustrado
+- nosleep
+- alasjuicy
+- explainlikeimfive
+- place
+- Fitness
+- BPOinPH
+- LifeProTips
+- videos
+- getdisciplined
+- phr4r
+- PinoyDramarama
+- pics
+- OutOfTheLoop
+---

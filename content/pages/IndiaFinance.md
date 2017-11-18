@@ -1,0 +1,5 @@
+---
+title: IndiaFinance
+crosslinks:
+- mutualfunds
+---

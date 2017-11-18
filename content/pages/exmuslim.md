@@ -1,0 +1,24 @@
+---
+title: exmuslim
+crosslinks:
+- islam
+- autotldr
+- atheism
+- The_Donald
+- AskHistorians
+- edefreiheit
+- pakistan
+- exmormon
+- AskReddit
+- exmuslimuncensored
+- worldnews
+- syriancivilwar
+- exchristian
+- MensRights
+- todayilearned
+- Izlam
+- 4chan
+- Incels
+- myanmar
+- Hexag1
+---

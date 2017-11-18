@@ -1,0 +1,24 @@
+---
+title: Parenting
+crosslinks:
+- AskReddit
+- vegan
+- daddit
+- nosurf
+- xkcd
+- TwoXChromosomes
+- legaladvice
+- relationships
+- sleeptrain
+- IAmA
+- explainlikeimfive
+- polyamory
+- sex
+- AskEurope
+- autism
+- askscience
+- AskWomen
+- AskMen
+- AdoptiveParents
+- The_Donald
+---

@@ -1,0 +1,5 @@
+---
+title: SwitchFCSwap
+crosslinks:
+- MinecraftSwitch
+---

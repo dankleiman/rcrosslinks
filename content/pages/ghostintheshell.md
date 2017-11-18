@@ -1,0 +1,5 @@
+---
+title: ghostintheshell
+crosslinks:
+- Animesuggest
+---

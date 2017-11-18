@@ -1,0 +1,5 @@
+---
+title: sentiencerights
+crosslinks:
+- autotldr
+---

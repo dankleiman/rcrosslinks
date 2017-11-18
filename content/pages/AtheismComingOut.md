@@ -1,0 +1,5 @@
+---
+title: AtheismComingOut
+crosslinks:
+- atheism
+---

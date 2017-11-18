@@ -1,0 +1,5 @@
+---
+title: Paraguay
+crosslinks:
+- autotldr
+---

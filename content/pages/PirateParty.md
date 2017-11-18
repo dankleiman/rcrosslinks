@@ -1,0 +1,5 @@
+---
+title: PirateParty
+crosslinks:
+- PiratePartyUK
+---

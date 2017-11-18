@@ -1,0 +1,5 @@
+---
+title: TraditionalArchery
+crosslinks:
+- Archery
+---

@@ -1,0 +1,5 @@
+---
+title: RivalsMainBoard
+crosslinks:
+- livven
+---

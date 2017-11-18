@@ -1,0 +1,5 @@
+---
+title: pun
+crosslinks:
+- puns
+---

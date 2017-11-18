@@ -1,0 +1,21 @@
+---
+title: guitarcirclejerk
+crosslinks:
+- Guitar
+- livven
+- guitarpedalsjerk
+- mildlyinteresting
+- WTF
+- guitars
+- REEEEEE
+- japancirclejerk
+- virginvschad
+- Luthier
+- metallicacirclejerk
+- ImagesOfThe1940s
+- Korean
+- autotldr
+- AMAAggregator
+- ProRevenge
+- telecaster
+---

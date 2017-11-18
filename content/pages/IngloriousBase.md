@@ -1,0 +1,5 @@
+---
+title: IngloriousBase
+crosslinks:
+- movies
+---

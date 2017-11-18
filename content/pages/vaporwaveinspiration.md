@@ -1,0 +1,5 @@
+---
+title: vaporwaveinspiration
+crosslinks:
+- oddlysatisfying
+---

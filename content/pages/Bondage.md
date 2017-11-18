@@ -1,0 +1,24 @@
+---
+title: Bondage
+crosslinks:
+- livven
+- HomemadeBDSM
+- GloriousCRTMasterRace
+- freeuse
+- NSFW411
+- BDSMGW
+- SpankSafe
+- forcedorgasms
+- choking
+- eyecontact
+- BdsmDIY
+- pilloryporn
+- HarnessGags
+- gagged
+- Dominated
+- RealTiedUpGirls
+- jenni_gregg
+- helgalovekaty
+- BondageGIFS_HighRES
+- mindfuckporn
+---

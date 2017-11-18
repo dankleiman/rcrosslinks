@@ -1,0 +1,5 @@
+---
+title: ssmttest
+crosslinks:
+- PugeTest
+---

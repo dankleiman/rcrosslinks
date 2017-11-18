@@ -1,0 +1,5 @@
+---
+title: Wasteland
+crosslinks:
+- classicfallout
+---

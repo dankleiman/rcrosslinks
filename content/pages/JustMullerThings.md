@@ -1,0 +1,5 @@
+---
+title: JustMullerThings
+crosslinks:
+- wholesomememes
+---

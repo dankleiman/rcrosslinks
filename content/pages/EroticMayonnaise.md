@@ -1,0 +1,5 @@
+---
+title: EroticMayonnaise
+crosslinks:
+- AMAAggregator
+---

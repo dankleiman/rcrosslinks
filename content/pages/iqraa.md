@@ -1,0 +1,5 @@
+---
+title: iqraa
+crosslinks:
+- islam
+---

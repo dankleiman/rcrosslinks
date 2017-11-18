@@ -1,0 +1,24 @@
+---
+title: xkcd
+crosslinks:
+- politics
+- modnews
+- technology
+- AskReddit
+- DesirePath
+- theydidthemath
+- Showerthoughts
+- redditsync
+- undelete
+- 3Dprinting
+- ChargeYourPhone
+- askscience
+- funny
+- aww
+- RESissues
+- spacex
+- explainlikeimfive
+- ELIRandall
+- softwaregore
+- geology
+---

@@ -1,0 +1,24 @@
+---
+title: worldpolitics
+crosslinks:
+- autotldr
+- conspiracy
+- Missing411
+- politics
+- worldnews
+- russia
+- AnythingGoesNews
+- The_DonaldUnleashed
+- LevantineWar
+- TopMindsOfReddit
+- The_Donald
+- WayOfTheBern
+- metacanada
+- POLITIC
+- news
+- AntiMSM
+- WikiLeaks
+- media
+- shills
+- law
+---

@@ -1,0 +1,5 @@
+---
+title: Vitiligo
+crosslinks:
+- AskReddit
+---

@@ -1,0 +1,5 @@
+---
+title: GunTips
+crosslinks:
+- ILGuns
+---

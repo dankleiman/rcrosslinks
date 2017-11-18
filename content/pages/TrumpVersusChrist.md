@@ -1,0 +1,5 @@
+---
+title: TrumpVersusChrist
+crosslinks:
+- EnoughTrumpSpam
+---

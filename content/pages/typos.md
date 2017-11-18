@@ -1,0 +1,5 @@
+---
+title: typos
+crosslinks:
+- typo
+---

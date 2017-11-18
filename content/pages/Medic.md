@@ -1,0 +1,5 @@
+---
+title: Medic
+crosslinks:
+- VaccineSkeptic
+---

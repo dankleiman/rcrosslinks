@@ -1,0 +1,5 @@
+---
+title: CreepyPastas
+crosslinks:
+- nosleep
+---

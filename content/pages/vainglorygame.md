@@ -1,0 +1,24 @@
+---
+title: vainglorygame
+crosslinks:
+- Vaingloryguildhall
+- livven
+- VG_Hero_Ideas
+- leagueoflegends
+- VaingloryLeaks
+- ipad
+- gaming
+- echofox
+- xkcd
+- VentGlory
+- MemeEconomy
+- thecatdimension
+- mentionhelper
+- pics
+- Philippines
+- apple
+- MLPLounge
+- learndota2
+- TeamSolomid
+- REEEEEEEEEE
+---

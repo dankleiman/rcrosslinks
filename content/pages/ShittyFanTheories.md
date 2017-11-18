@@ -1,0 +1,21 @@
+---
+title: ShittyFanTheories
+crosslinks:
+- radiohead
+- copypasta
+- DunderMifflin
+- HumansBeingBros
+- shittyshowerthoughts
+- asoiafcirclejerk
+- PrequelMemes
+- AskScienceFiction
+- SCP
+- Games
+- FanTheories
+- CERN
+- grandpajoehate
+- todayilearned
+- trashpandas
+- 80s
+- AskReddit
+---

@@ -1,0 +1,5 @@
+---
+title: inspiringasfuck
+crosslinks:
+- funny
+---

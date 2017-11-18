@@ -1,0 +1,5 @@
+---
+title: ANormalDayInGermany
+crosslinks:
+- livven
+---

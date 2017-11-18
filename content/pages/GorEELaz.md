@@ -1,0 +1,5 @@
+---
+title: GorEELaz
+crosslinks:
+- ealAppetite
+---

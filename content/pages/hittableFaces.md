@@ -1,0 +1,24 @@
+---
+title: hittableFaces
+crosslinks:
+- The_Donald
+- CringeAnarchy
+- todayilearned
+- livven
+- theyoungturks
+- RoastMe
+- ComedyCemetery
+- videos
+- copypasta
+- pics
+- pussypassdenied
+- me_irl
+- gifs
+- AskReddit
+- facepalm
+- stevedangle
+- ThriftStoreHauls
+- autotune
+- OutOfTheLoop
+- loltyler1
+---

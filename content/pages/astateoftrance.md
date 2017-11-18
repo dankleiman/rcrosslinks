@@ -1,0 +1,5 @@
+---
+title: astateoftrance
+crosslinks:
+- Serendipity
+---

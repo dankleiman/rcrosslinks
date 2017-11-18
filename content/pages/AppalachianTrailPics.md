@@ -1,0 +1,5 @@
+---
+title: AppalachianTrailPics
+crosslinks:
+- pics
+---

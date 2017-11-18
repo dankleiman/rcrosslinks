@@ -1,0 +1,24 @@
+---
+title: animegifs
+crosslinks:
+- livven
+- anime
+- araragi
+- Animemes
+- animenocontext
+- anime_irl
+- handholding
+- Tsunderes
+- redditrequest
+- nsfwanimegifs
+- LightNovels
+- rational
+- aestheticrain
+- LoveLive
+- sysadmin
+- animeirl
+- 2anime_irl4anime_irl
+- 60FpsGifs
+- animegifsound
+- yuruyuri
+---

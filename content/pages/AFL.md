@@ -1,0 +1,24 @@
+---
+title: AFL
+crosslinks:
+- westcoasteagles
+- AFLCircleJerk
+- livven
+- FremantleFC
+- AskReddit
+- GeelongCats
+- reddit_stream
+- australia
+- OutOfTheLoop
+- soccer
+- hockey
+- adelaidefc
+- pics
+- EssendonFC
+- videos
+- StKilda
+- highqualitygifs
+- funny
+- modnews
+- Cricket
+---

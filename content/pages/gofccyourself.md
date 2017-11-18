@@ -1,0 +1,5 @@
+---
+title: gofccyourself
+crosslinks:
+- KeepOurNetFree
+---

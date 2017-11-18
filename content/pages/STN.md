@@ -1,0 +1,5 @@
+---
+title: STN
+crosslinks:
+- wat
+---

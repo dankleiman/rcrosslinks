@@ -1,0 +1,5 @@
+---
+title: DrunkWritingPrompts
+crosslinks:
+- explainlikeIAmA
+---

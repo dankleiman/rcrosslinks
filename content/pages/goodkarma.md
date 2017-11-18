@@ -1,0 +1,5 @@
+---
+title: goodkarma
+crosslinks:
+- Pomade
+---

@@ -1,0 +1,5 @@
+---
+title: PAstudent
+crosslinks:
+- prephysicianassistant
+---

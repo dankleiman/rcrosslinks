@@ -1,0 +1,5 @@
+---
+title: HeavyMetalToxicity
+crosslinks:
+- AluminumPoisoning
+---

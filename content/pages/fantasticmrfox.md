@@ -1,0 +1,5 @@
+---
+title: fantasticmrfox
+crosslinks:
+- wesanderson
+---

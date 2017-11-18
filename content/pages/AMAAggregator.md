@@ -1,0 +1,24 @@
+---
+title: AMAAggregator
+crosslinks:
+- IAmA
+- casualiama
+- AMA
+- ConciseIAmA
+- shittyama
+- NSFWIAMA
+- leagueoflegends
+- science
+- FiveYearsAgoOnReddit
+- The_Donald
+- circlejerk
+- SandersForPresident
+- politics
+- underpopular
+- ApplyingToCollege
+- Political_Revolution
+- leagueofriot
+- Nudelete
+- IAmAFiction
+- Fantasy
+---

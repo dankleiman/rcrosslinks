@@ -1,0 +1,24 @@
+---
+title: MovieDetails
+crosslinks:
+- moviescirclejerk
+- shittymoviedetails
+- movies
+- IAmA
+- zootopia
+- AskReddit
+- FanTheories
+- todayilearned
+- gifs
+- UNBGBBIIVCHIDCTIICBG
+- marvelstudios
+- ZootopiaDetails
+- xkcd
+- OutOfTheLoop
+- StarWars
+- shitpost
+- nocontext
+- asoiaf
+- lotr
+- AskLiteraryStudies
+---

@@ -1,0 +1,21 @@
+---
+title: Rengarmains
+crosslinks:
+- leagueoflegends
+- summonerschool
+- lol
+- LeagueOfMeta
+- gangplankmains
+- 260v8r9
+- fizzmains
+- titlegore
+- rivenmains
+- FrenchWestIndies
+- League_Of_Legends_
+- LeeSinMains
+- Rule34LoL
+- LeagueofLegendsMeta
+- Kindred
+- YasuoMains
+- JhinMains
+---

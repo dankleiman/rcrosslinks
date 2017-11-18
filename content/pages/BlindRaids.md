@@ -1,0 +1,5 @@
+---
+title: BlindRaids
+crosslinks:
+- Fireteams
+---

@@ -1,0 +1,5 @@
+---
+title: FakeTrumpTweets
+crosslinks:
+- PoliticalHumor
+---

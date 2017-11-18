@@ -1,0 +1,5 @@
+---
+title: armwrestling
+crosslinks:
+- livven
+---

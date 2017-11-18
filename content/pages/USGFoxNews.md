@@ -1,0 +1,5 @@
+---
+title: USGFoxNews
+crosslinks:
+- USGovernmentSim
+---

@@ -1,0 +1,24 @@
+---
+title: selfhosted
+crosslinks:
+- zeronet
+- linuxserver
+- linux
+- privacy
+- FileRun
+- xkcd
+- HomeServer
+- DataHoarder
+- privacytoolsIO
+- programming
+- autotldr
+- afian
+- firefox
+- airsonic
+- julianxhokaxhiu
+- diginc
+- rlister
+- homeassistant
+- miniflux
+- synology
+---

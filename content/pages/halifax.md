@@ -1,0 +1,24 @@
+---
+title: halifax
+crosslinks:
+- NovaScotia
+- autotldr
+- canada
+- CanadianForces
+- OutOfTheLoop
+- NovaScotiaElection
+- BestOfReports
+- CanadianMOMs
+- metacanada
+- LifeProTips
+- livven
+- PersonalFinanceCanada
+- vancouver
+- facepalm
+- IASIP
+- canadients
+- watchpeopledie
+- EnoughTrumpSpam
+- gifs
+- GrMD
+---

@@ -1,0 +1,5 @@
+---
+title: BeMotivated
+crosslinks:
+- GetMotivated
+---

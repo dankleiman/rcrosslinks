@@ -1,0 +1,5 @@
+---
+title: resourcebasedeconomy
+crosslinks:
+- TZM
+---

@@ -1,0 +1,24 @@
+---
+title: ImagesOfWales
+crosslinks:
+- EarthPorn
+- Wales
+- pics
+- imagesofnetwork
+- tattoos
+- itookapicture
+- castles
+- OldSchoolCool
+- u_2BrkOnThru
+- hiking
+- CampingandHiking
+- funny
+- travel
+- analog
+- europe
+- mildlyinteresting
+- ruralporn
+- soccer
+- UKhiking
+- spiders
+---

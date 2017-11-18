@@ -1,0 +1,5 @@
+---
+title: SnowyDogs
+crosslinks:
+- gifs
+---

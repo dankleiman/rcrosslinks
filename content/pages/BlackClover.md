@@ -1,0 +1,5 @@
+---
+title: BlackClover
+crosslinks:
+- Pixiv
+---

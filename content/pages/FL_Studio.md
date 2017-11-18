@@ -1,0 +1,24 @@
+---
+title: FL_Studio
+crosslinks:
+- edmproduction
+- WeAreTheMusicMakers
+- edmprodcirclejerk
+- synthesizers
+- Drumkits
+- makinghiphop
+- torrentrequests
+- thinkpad
+- Music
+- torrentlinks
+- trees
+- shrooms
+- musicproduction
+- xkcd
+- Piracy
+- Serendipity
+- G59
+- news
+- flstudio
+- sausages
+---

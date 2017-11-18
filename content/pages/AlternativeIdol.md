@@ -1,0 +1,5 @@
+---
+title: AlternativeIdol
+crosslinks:
+- NECRONOMIDOL
+---

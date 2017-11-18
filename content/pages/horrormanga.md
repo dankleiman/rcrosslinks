@@ -1,0 +1,5 @@
+---
+title: horrormanga
+crosslinks:
+- HorrorReviewed
+---

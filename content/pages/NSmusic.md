@@ -1,0 +1,5 @@
+---
+title: NSmusic
+crosslinks:
+- halifax
+---

@@ -1,0 +1,24 @@
+---
+title: truegaming
+crosslinks:
+- patientgamers
+- Games
+- gaming
+- gamedesign
+- visualnovels
+- PS4
+- teslore
+- IAmA
+- NintendoSwitch
+- MMORPG
+- pcgaming
+- pcmasterrace
+- skyrimmods
+- gamedev
+- Eve
+- darksouls
+- rpg_gamers
+- FFXV
+- Kappa
+- lifeisstrange
+---

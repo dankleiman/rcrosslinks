@@ -1,0 +1,5 @@
+---
+title: wikia
+crosslinks:
+- runescape
+---

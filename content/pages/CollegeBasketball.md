@@ -1,0 +1,24 @@
+---
+title: CollegeBasketball
+crosslinks:
+- CFB
+- livven
+- ncaaBBallStreams
+- autotldr
+- sports
+- BracketChallenge
+- NCAAW
+- xkcd
+- '2017'
+- '2013'
+- NBA_Draft
+- funny
+- nfl
+- IAmA
+- AllHail
+- AccidentalRenaissance
+- EvilLeagueOfEvil
+- DukeBluePlanet
+- WTF
+- self
+---

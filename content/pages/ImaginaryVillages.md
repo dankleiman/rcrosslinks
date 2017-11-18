@@ -1,0 +1,5 @@
+---
+title: ImaginaryVillages
+crosslinks:
+- ImaginaryNecronomicon
+---

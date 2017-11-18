@@ -1,0 +1,24 @@
+---
+title: nocontext
+crosslinks:
+- AskReddit
+- Megaten
+- gaming
+- funny
+- tifu
+- juxtaposition
+- ShitCrusaderKingsSay
+- todayilearned
+- CrusaderKings
+- Eve
+- UpliftingNews
+- DnD
+- mildlyinteresting
+- mildlyinfuriating
+- context
+- underpopular
+- pics
+- especiallywithcontext
+- worldnews
+- wtfdidijustread
+---

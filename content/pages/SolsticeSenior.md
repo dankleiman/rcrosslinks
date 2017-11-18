@@ -1,0 +1,5 @@
+---
+title: SolsticeSenior
+crosslinks:
+- hogwartswerewolvesA
+---

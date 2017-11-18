@@ -1,0 +1,5 @@
+---
+title: PaladinsCSS
+crosslinks:
+- Paladins
+---

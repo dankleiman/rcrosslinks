@@ -1,0 +1,5 @@
+---
+title: BurningLoveQuestions
+crosslinks:
+- xkcd
+---

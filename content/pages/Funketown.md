@@ -1,0 +1,5 @@
+---
+title: Funketown
+crosslinks:
+- TagPro
+---

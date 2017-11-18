@@ -1,0 +1,5 @@
+---
+title: NordVsSud
+crosslinks:
+- autotldr
+---

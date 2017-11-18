@@ -1,0 +1,24 @@
+---
+title: ClashRoyale
+crosslinks:
+- livven
+- RoyaleRecruit
+- TrueClashRoyale
+- LootRoyale
+- ClashRoyaleCirclejerk
+- ClashOfClans
+- CompetitiveCR
+- AskReddit
+- KarmaCourt
+- ChargeYourPhone
+- RoyaleConspiracy
+- royalerecruit
+- pics
+- Brawlstars
+- RedditZuluRoyale
+- dontfuckingsayit
+- funny
+- itwasagraveyardgraph
+- place
+- royaleclansystem
+---

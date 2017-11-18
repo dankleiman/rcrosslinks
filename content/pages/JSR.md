@@ -1,0 +1,5 @@
+---
+title: JSR
+crosslinks:
+- JetSetRadio
+---

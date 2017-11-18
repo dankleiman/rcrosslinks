@@ -1,0 +1,5 @@
+---
+title: LUXURYLIFE
+crosslinks:
+- autotldr
+---

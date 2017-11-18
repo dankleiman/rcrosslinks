@@ -1,0 +1,5 @@
+---
+title: LightbringerSeries
+crosslinks:
+- Fantasy
+---

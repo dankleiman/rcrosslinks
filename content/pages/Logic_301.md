@@ -1,0 +1,22 @@
+---
+title: Logic_301
+crosslinks:
+- hiphopheads
+- donaldglover
+- leakthreads
+- hhh
+- RocketLeague
+- headphones
+- TaylorSwift
+- NSFW_GIF
+- Hiphopcirclejerk
+- JoeyBadass
+- KendrickLamar
+- gatekeeping
+- AskReddit
+- logic
+- Jessica_Andrea
+- Sneakers
+- livven
+- Kanye
+---

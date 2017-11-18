@@ -1,0 +1,5 @@
+---
+title: openra
+crosslinks:
+- commandandconquer
+---

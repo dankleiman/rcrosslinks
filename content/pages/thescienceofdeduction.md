@@ -1,0 +1,5 @@
+---
+title: thescienceofdeduction
+crosslinks:
+- scienceofdeduction
+---

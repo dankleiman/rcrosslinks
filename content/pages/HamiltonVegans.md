@@ -1,0 +1,5 @@
+---
+title: HamiltonVegans
+crosslinks:
+- vegan
+---

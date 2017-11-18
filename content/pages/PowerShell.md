@@ -1,0 +1,24 @@
+---
+title: PowerShell
+crosslinks:
+- sysadmin
+- xkcd
+- SQLServer
+- regex
+- servicenow
+- SQ9TYy
+- usefulscripts
+- Batch
+- Windows10
+- programming
+- talesfromtechsupport
+- kodi
+- exchangeserver
+- qnap
+- discordapp
+- csharp
+- lightingdesign
+- applescript
+- Splunk
+- Guildwars2
+---

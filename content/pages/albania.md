@@ -1,0 +1,24 @@
+---
+title: albania
+crosslinks:
+- europe
+- soccer
+- announcements
+- The_Donald
+- OutOfTheLoop
+- Jokes
+- kosovo
+- croatia
+- nosleep
+- modhelp
+- highqualitygifs
+- Bitcoin
+- macedonia
+- greece
+- MapPorn
+- InternetIsBeautiful
+- childfree
+- keto
+- shittyHDR
+- PCMasterRace
+---

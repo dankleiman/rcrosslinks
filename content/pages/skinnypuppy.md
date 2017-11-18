@@ -1,0 +1,5 @@
+---
+title: skinnypuppy
+crosslinks:
+- industrialmusic
+---

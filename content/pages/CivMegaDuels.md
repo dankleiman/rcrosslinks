@@ -1,0 +1,5 @@
+---
+title: CivMegaDuels
+crosslinks:
+- civAIgames
+---

@@ -1,0 +1,5 @@
+---
+title: PrinceOfPersia
+crosslinks:
+- OtakuVisualArts
+---

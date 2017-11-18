@@ -1,0 +1,5 @@
+---
+title: arity
+crosslinks:
+- mylittlepony
+---

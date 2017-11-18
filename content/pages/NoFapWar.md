@@ -1,0 +1,5 @@
+---
+title: NoFapWar
+crosslinks:
+- pornfree
+---

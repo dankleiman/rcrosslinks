@@ -1,0 +1,24 @@
+---
+title: opiates
+crosslinks:
+- Drugs
+- autotldr
+- kratom
+- IAmA
+- AskReddit
+- researchchemicals
+- DarkNetMarkets
+- opiatesmemorial
+- opiates_gonewild
+- livven
+- OpiatesRecovery
+- fentanyl
+- pillhead
+- PoppyTea
+- cripplingalcoholism
+- AlphaBayMarket
+- DrugStashes
+- Drama
+- WNOD
+- trees
+---

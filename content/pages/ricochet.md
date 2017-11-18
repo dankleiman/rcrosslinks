@@ -1,0 +1,5 @@
+---
+title: ricochet
+crosslinks:
+- DayOfDefeat
+---

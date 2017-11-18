@@ -1,0 +1,5 @@
+---
+title: ClickerHeroesBot
+crosslinks:
+- ClickerHeroes
+---

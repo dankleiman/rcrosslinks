@@ -1,0 +1,24 @@
+---
+title: opensource
+crosslinks:
+- autotldr
+- linux
+- xkcd
+- sysadmin
+- changelog
+- PFSENSE
+- OPNscam
+- programming
+- privacy
+- archlinux
+- CryptoCurrency
+- android
+- MinocaOS
+- Nonviolence
+- filezilla
+- linuxquestions
+- FreeEBOOKS
+- kde
+- zeronet
+- memes
+---

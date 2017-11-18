@@ -1,0 +1,5 @@
+---
+title: AdorableKanye
+crosslinks:
+- Kanye
+---

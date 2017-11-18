@@ -1,0 +1,24 @@
+---
+title: martialarts
+crosslinks:
+- kungfu
+- livven
+- Koryu
+- StreetFights
+- WingChun
+- judo
+- MMA
+- autotldr
+- Fitness
+- MuayThai
+- taekwondo
+- sydney
+- news
+- zen
+- funny
+- internal_arts
+- kravmaga
+- short
+- AskHistorians
+- todayilearned
+---

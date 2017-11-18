@@ -1,0 +1,5 @@
+---
+title: CompetitiveDL
+crosslinks:
+- DuelLinks
+---

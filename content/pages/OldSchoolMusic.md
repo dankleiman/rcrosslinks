@@ -1,0 +1,5 @@
+---
+title: OldSchoolMusic
+crosslinks:
+- oldtechno
+---

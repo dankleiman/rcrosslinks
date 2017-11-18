@@ -1,0 +1,5 @@
+---
+title: HuntingAustralia
+crosslinks:
+- autotldr
+---

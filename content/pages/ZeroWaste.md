@@ -1,0 +1,24 @@
+---
+title: ZeroWaste
+crosslinks:
+- wicked_edge
+- clothpads
+- Frugal
+- minimalism
+- autotldr
+- science
+- pics
+- Futurology
+- vegan
+- technology
+- news
+- homeowners
+- menstrualcups
+- SkincareAddiction
+- SuicideWatch
+- DIYBeauty
+- AskReddit
+- worldnews
+- simpleliving
+- truedocumentaries
+---

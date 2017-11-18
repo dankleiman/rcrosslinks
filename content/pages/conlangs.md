@@ -1,0 +1,24 @@
+---
+title: conlangs
+crosslinks:
+- neography
+- linguistics
+- Doggerlundt
+- languagelearning
+- Vyrmag
+- conlangscirclejerk
+- xkcd
+- AtlanteanLanguages
+- Vallenan
+- emojilang
+- minlangs
+- asklinguistics
+- PMOP_Conlangs
+- chromaverse
+- EilanCraga
+- Esperanto
+- kekistan
+- etymologymaps
+- IAmA
+- anglish
+---

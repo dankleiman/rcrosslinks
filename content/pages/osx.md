@@ -1,0 +1,21 @@
+---
+title: osx
+crosslinks:
+- apple
+- mac
+- applehelp
+- macsysadmin
+- MacOS
+- applescript
+- MacOSBeta
+- ios
+- learnpython
+- audioengineering
+- privacy
+- unixporn
+- macprogramming
+- docker
+- technology
+- DataHoarder
+- EliteDangerous
+---

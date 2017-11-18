@@ -1,0 +1,5 @@
+---
+title: hitlerdidnothingwrong
+crosslinks:
+- news
+---

@@ -1,0 +1,5 @@
+---
+title: egret
+crosslinks:
+- getdisciplined
+---

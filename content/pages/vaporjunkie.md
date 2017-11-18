@@ -1,0 +1,5 @@
+---
+title: vaporjunkie
+crosslinks:
+- juul
+---

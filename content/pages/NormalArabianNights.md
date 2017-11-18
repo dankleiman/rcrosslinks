@@ -1,0 +1,5 @@
+---
+title: NormalArabianNights
+crosslinks:
+- WTF
+---

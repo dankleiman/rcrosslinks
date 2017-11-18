@@ -1,0 +1,5 @@
+---
+title: investFeedOfficial
+crosslinks:
+- CryptoCurrency
+---

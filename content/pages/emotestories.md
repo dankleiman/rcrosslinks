@@ -1,0 +1,5 @@
+---
+title: emotestories
+crosslinks:
+- mylittlepony
+---

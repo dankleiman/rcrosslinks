@@ -1,0 +1,5 @@
+---
+title: SpousesOfGamers
+crosslinks:
+- autotldr
+---

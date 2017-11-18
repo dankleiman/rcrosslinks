@@ -1,0 +1,5 @@
+---
+title: MonmouthUniversity
+crosslinks:
+- newjersey
+---

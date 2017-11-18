@@ -1,0 +1,5 @@
+---
+title: Thunderlane
+crosslinks:
+- mylittlepony
+---

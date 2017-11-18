@@ -1,0 +1,5 @@
+---
+title: SRSShit
+crosslinks:
+- AdviceAnimals
+---

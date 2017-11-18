@@ -1,0 +1,24 @@
+---
+title: brasil
+crosslinks:
+- autotldr
+- xkcd
+- AskReddit
+- AskHistorians
+- IAmA
+- worldnews
+- portugal
+- livven
+- tiodopave
+- The_Donald
+- place
+- pics
+- MapPorn
+- circojeca
+- explainlikeimfive
+- LateStageCapitalism
+- BrasildoB
+- Cultura
+- funny
+- OutOfTheLoop
+---

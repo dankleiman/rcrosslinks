@@ -1,0 +1,5 @@
+---
+title: CamouflagePorn
+crosslinks:
+- MilitaryPorn
+---

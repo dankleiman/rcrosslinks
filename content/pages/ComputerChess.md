@@ -1,0 +1,5 @@
+---
+title: ComputerChess
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: CommandPrompt
+crosslinks:
+- askreddit
+---

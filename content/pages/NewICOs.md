@@ -1,0 +1,5 @@
+---
+title: NewICOs
+crosslinks:
+- AvalonPlatform
+---

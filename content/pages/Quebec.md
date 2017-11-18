@@ -1,0 +1,24 @@
+---
+title: Quebec
+crosslinks:
+- canada
+- france
+- xkcd
+- place
+- autotldr
+- placecanada
+- CanadaPolitics
+- worldnews
+- metacanada
+- vexillology
+- askscience
+- montreal
+- ontario
+- toronto
+- PersonalFinanceCanada
+- personalfinance
+- hockey
+- vancouver
+- livven
+- funny
+---

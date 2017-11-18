@@ -1,0 +1,21 @@
+---
+title: CallOfDuty
+crosslinks:
+- Gamingcirclejerk
+- CODOnline
+- WWII
+- Infinitewarfare
+- redditcasual
+- The_Donald
+- linux_gaming
+- emulation
+- CoDCompetitive
+- AskHistorians
+- CoD4Promod
+- titlegore
+- CODModernWarfare
+- COD_LFG
+- Overwatch
+- BrasilOnReddit
+- IAmA
+---

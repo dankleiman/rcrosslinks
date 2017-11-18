@@ -1,0 +1,5 @@
+---
+title: skulduggerypleasant
+crosslinks:
+- CAKEWIN
+---

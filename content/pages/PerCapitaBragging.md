@@ -1,0 +1,5 @@
+---
+title: PerCapitaBragging
+crosslinks:
+- newzealand
+---

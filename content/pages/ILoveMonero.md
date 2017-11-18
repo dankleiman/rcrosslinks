@@ -1,0 +1,5 @@
+---
+title: ILoveMonero
+crosslinks:
+- Monero
+---

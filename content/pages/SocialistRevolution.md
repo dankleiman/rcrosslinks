@@ -1,0 +1,5 @@
+---
+title: SocialistRevolution
+crosslinks:
+- autotldr
+---

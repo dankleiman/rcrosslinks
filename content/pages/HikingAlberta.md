@@ -1,0 +1,5 @@
+---
+title: HikingAlberta
+crosslinks:
+- CampingandHiking
+---

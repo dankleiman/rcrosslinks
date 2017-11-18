@@ -1,0 +1,24 @@
+---
+title: DotA2
+crosslinks:
+- livven
+- learndota2
+- Dota2Trade
+- TrueDoTA2
+- DotaVods
+- dotamasterrace
+- DOTA
+- fifteefiftee
+- leagueoflegends
+- compDota2
+- dota2smut
+- gaming
+- zeronet
+- Overwatch
+- place
+- starcraft
+- AskReddit
+- dota2circlejerk
+- DotaConcepts
+- ti7tickets
+---

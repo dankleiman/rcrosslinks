@@ -1,0 +1,5 @@
+---
+title: ForTheKing
+crosslinks:
+- FTK
+---

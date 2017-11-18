@@ -1,0 +1,5 @@
+---
+title: CTGP
+crosslinks:
+- mariokart
+---

@@ -1,0 +1,5 @@
+---
+title: breathofthewow
+crosslinks:
+- cemu
+---

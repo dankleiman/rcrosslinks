@@ -1,0 +1,5 @@
+---
+title: closeenoughforgovwork
+crosslinks:
+- mildlyinteresting
+---

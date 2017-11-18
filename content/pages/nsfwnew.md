@@ -1,0 +1,5 @@
+---
+title: nsfwnew
+crosslinks:
+- nsfw
+---

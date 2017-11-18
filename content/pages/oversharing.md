@@ -1,0 +1,23 @@
+---
+title: oversharing
+crosslinks:
+- ihavesex
+- emojipasta
+- MGTOW
+- OopsDidntMeanTo
+- ShitRedditSays
+- trashy
+- nomorals
+- whiteknighting
+- THE_PACK
+- The_Donald
+- Drugs
+- tipofmypenis
+- OutOfTheLoop
+- sadcringe
+- casualeugenics
+- gonewild
+- jesuschristreddit
+- DeadBedrooms
+- Upskirt
+---

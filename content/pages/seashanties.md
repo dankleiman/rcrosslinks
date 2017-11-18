@@ -1,0 +1,5 @@
+---
+title: seashanties
+crosslinks:
+- Fuckthealtright
+---

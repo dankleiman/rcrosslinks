@@ -1,0 +1,5 @@
+---
+title: rightist
+crosslinks:
+- autotldr
+---

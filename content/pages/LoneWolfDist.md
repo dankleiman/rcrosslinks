@@ -1,0 +1,5 @@
+---
+title: LoneWolfDist
+crosslinks:
+- Glocks
+---

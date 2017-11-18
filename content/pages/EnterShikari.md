@@ -1,0 +1,5 @@
+---
+title: EnterShikari
+crosslinks:
+- gifs
+---

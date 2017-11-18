@@ -1,0 +1,5 @@
+---
+title: mazes
+crosslinks:
+- programming
+---

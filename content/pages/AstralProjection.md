@@ -1,0 +1,24 @@
+---
+title: AstralProjection
+crosslinks:
+- LucidDreaming
+- occult
+- Paranormal
+- Christianity
+- Psychic
+- wholesomemes
+- CrazyIdeas
+- HigherUnderstanding
+- conlangs
+- Glitch_in_the_Matrix
+- all
+- energy_work
+- Tulpas
+- holofractal
+- FloatTank
+- conspiracy
+- DimensionalJumping
+- threekings
+- selfhelp
+- Meditation
+---

@@ -1,0 +1,24 @@
+---
+title: CrohnsDisease
+crosslinks:
+- livven
+- autotldr
+- Infographics
+- ostomy
+- motivation
+- reddevils
+- asmr
+- AMAAggregator
+- gameofthrones
+- shittingadvice
+- Charity
+- Simulated
+- AMA
+- science
+- funny
+- C_S_T
+- LateStageCapitalism
+- pics
+- AsianBeauty
+- philadelphia
+---

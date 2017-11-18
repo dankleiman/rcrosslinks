@@ -1,0 +1,24 @@
+---
+title: exjw
+crosslinks:
+- exmormon
+- exzj
+- JWs
+- AskReddit
+- atheism
+- IAmA
+- livven
+- autotldr
+- legaladvice
+- Christianity
+- AskaJW
+- religion
+- Exittors
+- personalfinance
+- exjwselfies
+- JehovahWitnesses
+- explainlikeimfive
+- xkcd
+- todayilearned
+- worldnews
+---

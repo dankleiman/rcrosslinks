@@ -1,0 +1,5 @@
+---
+title: InconvenientDemocrats
+crosslinks:
+- ChapoTrapHouse
+---

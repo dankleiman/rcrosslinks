@@ -1,0 +1,24 @@
+---
+title: CriticalTheory
+crosslinks:
+- autotldr
+- makhaevism
+- Anarchism
+- ByTheBookofThySelf
+- contpoltheor
+- sorceryofthespectacle
+- philosophy
+- livven
+- FULLCOMMUNISM
+- Political_Revolution
+- criticalthinking
+- AskLiteraryStudies
+- WhiteRights
+- HistoryofIdeas
+- PhilosophyofScience
+- The_Donald
+- media_criticism
+- LateStageCapitalism
+- AskHistorians
+- askphilosophy
+---

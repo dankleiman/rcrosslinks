@@ -1,0 +1,5 @@
+---
+title: PassionSex
+crosslinks:
+- nsfw
+---

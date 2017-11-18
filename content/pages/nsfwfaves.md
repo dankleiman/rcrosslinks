@@ -1,0 +1,5 @@
+---
+title: nsfwfaves
+crosslinks:
+- suicidegirls
+---

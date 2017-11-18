@@ -1,0 +1,5 @@
+---
+title: Malmoe
+crosslinks:
+- sweden
+---

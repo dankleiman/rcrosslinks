@@ -1,0 +1,24 @@
+---
+title: schizophrenia
+crosslinks:
+- Nootropics
+- HPPD
+- Roarica
+- psychopharmacology
+- DrugNerds
+- Drugs
+- AskReddit
+- writing
+- HighQualityGifs
+- ShrugLifeSyndicate
+- science
+- mentalhealth
+- woahdude
+- autotldr
+- hrtformentalhealth
+- poetry_critics
+- BipolarReddit
+- CasualConversation
+- causeWhyNotMate
+- visualsnow
+---

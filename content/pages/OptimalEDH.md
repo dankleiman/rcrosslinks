@@ -1,0 +1,5 @@
+---
+title: OptimalEDH
+crosslinks:
+- EDH
+---

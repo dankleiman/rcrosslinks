@@ -1,0 +1,5 @@
+---
+title: ynot
+crosslinks:
+- IsaacArthur
+---

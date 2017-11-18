@@ -1,0 +1,24 @@
+---
+title: OTMemes
+crosslinks:
+- PrequelMemes
+- SequelMemes
+- livven
+- equelMemes
+- anthologymemes
+- The_Donald
+- EmpireDidNothingWrong
+- midquelmemes
+- Chinese_Bootleg_Memes
+- raimimemes
+- BannedFromThe_Donald
+- xkcd
+- starwarsmemes
+- EnoughTrumpSpam
+- startrek
+- 4PanelCringe
+- 2edgy4me
+- furry_irl
+- youclickedthelink
+- sadcringe
+---

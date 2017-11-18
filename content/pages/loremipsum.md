@@ -1,0 +1,5 @@
+---
+title: loremipsum
+crosslinks:
+- Xcom
+---

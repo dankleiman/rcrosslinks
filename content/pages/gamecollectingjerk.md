@@ -1,0 +1,5 @@
+---
+title: gamecollectingjerk
+crosslinks:
+- Serendipity
+---

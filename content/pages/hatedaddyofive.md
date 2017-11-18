@@ -1,0 +1,5 @@
+---
+title: hatedaddyofive
+crosslinks:
+- autotldr
+---

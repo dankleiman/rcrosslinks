@@ -1,0 +1,5 @@
+---
+title: MarvelFanfiction
+crosslinks:
+- marvelfans
+---

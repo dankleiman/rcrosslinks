@@ -1,0 +1,5 @@
+---
+title: SWSNetwork
+crosslinks:
+- starwarsspeculation
+---

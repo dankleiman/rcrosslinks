@@ -1,0 +1,24 @@
+---
+title: emojipasta
+crosslinks:
+- DankMemeArchive
+- copypasta
+- AskReddit
+- sexwithhorses
+- sex
+- ComedyCemetery
+- me_irl
+- rupaulsdragrace
+- zoophilia
+- pics
+- circlejerk
+- self
+- cringepics
+- all
+- Kanye
+- hapas
+- Ooer
+- CringeAnarchy
+- Ratemeteen
+- lolgrindr
+---

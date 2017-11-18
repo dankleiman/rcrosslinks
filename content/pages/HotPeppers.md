@@ -1,0 +1,24 @@
+---
+title: HotPeppers
+crosslinks:
+- gardening
+- seedswap
+- spicy
+- hotsaucerecipes
+- theydidthemath
+- fermentation
+- hotsauce
+- Greenhouses
+- texas
+- SpaceBuckets
+- science
+- food
+- tea
+- todayilearned
+- GivesRandomGoldOut
+- indoorgardening
+- metric_units
+- GuerrillaGardening
+- answers
+- whatsthisplant
+---

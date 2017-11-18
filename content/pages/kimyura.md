@@ -1,0 +1,5 @@
+---
+title: kimyura
+crosslinks:
+- Serendipity
+---

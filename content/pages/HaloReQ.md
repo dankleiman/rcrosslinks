@@ -1,0 +1,5 @@
+---
+title: HaloReQ
+crosslinks:
+- CompetitiveHalo
+---

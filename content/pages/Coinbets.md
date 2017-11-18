@@ -1,0 +1,5 @@
+---
+title: Coinbets
+crosslinks:
+- autotldr
+---

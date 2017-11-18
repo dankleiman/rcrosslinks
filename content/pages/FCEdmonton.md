@@ -1,0 +1,5 @@
+---
+title: FCEdmonton
+crosslinks:
+- NASLSoccer
+---

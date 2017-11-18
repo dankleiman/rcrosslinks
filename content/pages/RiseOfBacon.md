@@ -1,0 +1,5 @@
+---
+title: RiseOfBacon
+crosslinks:
+- DestinyTheGame
+---

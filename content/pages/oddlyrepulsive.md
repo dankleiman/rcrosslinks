@@ -1,0 +1,5 @@
+---
+title: oddlyrepulsive
+crosslinks:
+- oddlysatisfying
+---

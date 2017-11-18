@@ -1,0 +1,5 @@
+---
+title: SocJus
+crosslinks:
+- autotldr
+---

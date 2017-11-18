@@ -1,0 +1,5 @@
+---
+title: Deadlypinfish
+crosslinks:
+- HighQualityGifs
+---

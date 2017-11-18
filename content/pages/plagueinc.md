@@ -1,0 +1,5 @@
+---
+title: plagueinc
+crosslinks:
+- Serendipity
+---

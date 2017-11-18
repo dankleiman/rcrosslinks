@@ -1,0 +1,24 @@
+---
+title: holdmybeer
+crosslinks:
+- gifs
+- funny
+- AskReddit
+- BetterEveryLoop
+- Whatcouldgowrong
+- xkcd
+- WTF
+- instant_regret
+- gifsthatendtoosoon
+- videos
+- UNBGBBIIVCHIDCTIICBG
+- todayilearned
+- holdmycosmo
+- OutOfTheLoop
+- watchpeopledie
+- woahdude
+- reddCoin
+- nonononoyes
+- therewasanattempt
+- FullScorpion
+---

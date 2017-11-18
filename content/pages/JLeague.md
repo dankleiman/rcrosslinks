@@ -1,0 +1,5 @@
+---
+title: JLeague
+crosslinks:
+- soccer
+---

@@ -1,0 +1,5 @@
+---
+title: shinylatex
+crosslinks:
+- livven
+---

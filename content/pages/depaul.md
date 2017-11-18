@@ -1,0 +1,5 @@
+---
+title: depaul
+crosslinks:
+- chicago
+---

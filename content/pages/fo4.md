@@ -1,0 +1,24 @@
+---
+title: fo4
+crosslinks:
+- Fallout
+- FalloutMods
+- falloutsettlements
+- gaming
+- Fallout4Builds
+- FO4ImmersiveGameplay
+- falloutlore
+- pcmasterrace
+- pcgaming
+- xkcd
+- skyrimmods
+- skyrim
+- pics
+- Steam
+- autotldr
+- FO4_TIPS
+- fodust
+- MoxdogTheWriter
+- ImaginaryFallout
+- explainlikeimfive
+---

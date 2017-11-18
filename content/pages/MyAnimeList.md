@@ -1,0 +1,5 @@
+---
+title: MyAnimeList
+crosslinks:
+- NoStupidQuestions
+---

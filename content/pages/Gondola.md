@@ -1,0 +1,5 @@
+---
+title: Gondola
+crosslinks:
+- INTP
+---

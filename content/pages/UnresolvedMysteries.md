@@ -1,0 +1,24 @@
+---
+title: UnresolvedMysteries
+crosslinks:
+- EARONS
+- AskReddit
+- IAmA
+- UnsolvedMysteries
+- TrueCrimeDiscussion
+- serialkillers
+- LetsNotMeet
+- gratefuldoe
+- RBI
+- CrimeScene
+- SwordAndScale
+- truecrimereview
+- conspiracy
+- mauramurray
+- JonBenetRamsey
+- nosleep
+- JonBenet
+- CaseyAnthony
+- DelphiMurders
+- zeropointmodule
+---

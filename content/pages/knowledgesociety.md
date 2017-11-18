@@ -1,0 +1,5 @@
+---
+title: knowledgesociety
+crosslinks:
+- autotldr
+---

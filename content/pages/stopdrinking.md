@@ -1,0 +1,24 @@
+---
+title: stopdrinking
+crosslinks:
+- SDCleveAkron
+- AlAnon
+- AskReddit
+- sdirc
+- alcoholism
+- videos
+- drunk
+- LifeProTips
+- stopdrinkinglacroix
+- unexpectedfactorial
+- NonZeroDay
+- OpiatesRecovery
+- getdisciplined
+- stopdrinkingfitness
+- SDrunners
+- progresspics
+- AskMen
+- pics
+- ScienceAndKindness
+- grilledcheese
+---

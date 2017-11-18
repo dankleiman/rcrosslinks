@@ -1,0 +1,5 @@
+---
+title: TheRinger
+crosslinks:
+- TheOtherOnion
+---

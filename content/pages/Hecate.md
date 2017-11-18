@@ -1,0 +1,5 @@
+---
+title: Hecate
+crosslinks:
+- occult
+---

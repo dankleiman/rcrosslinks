@@ -1,0 +1,24 @@
+---
+title: MeanJokes
+crosslinks:
+- Jokes
+- AskReddit
+- AntiJokes
+- jesuschristreddit
+- darkjokes
+- gatekeeping
+- insanepeoplereddit
+- findareddit
+- rant
+- Jew_Jokes
+- explainlikeimfive
+- Mean
+- dota2dadjokes
+- whythehell
+- Unclejokes
+- OutOfTheLoop
+- xkcd
+- dontyouknowwhoiam
+- CiernyHumor
+- AntiAntiJokes
+---

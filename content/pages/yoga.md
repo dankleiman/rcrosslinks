@@ -1,0 +1,24 @@
+---
+title: yoga
+crosslinks:
+- ashtanga
+- livven
+- Pranayama
+- Fitness
+- YogaTutorials
+- india
+- Meditation
+- asanas
+- nocontext
+- gifs
+- news
+- YogaWorkouts
+- autotldr
+- foodhacks
+- vegan
+- xxfitness
+- Raja_Yoga
+- gofundme
+- vegetarian
+- Drama
+---

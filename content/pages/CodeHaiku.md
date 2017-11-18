@@ -1,0 +1,5 @@
+---
+title: CodeHaiku
+crosslinks:
+- ProgrammerHumor
+---

@@ -1,0 +1,24 @@
+---
+title: hmmmgifs
+crosslinks:
+- hmmm
+- livven
+- Simulated
+- perfectloops
+- IAmA
+- interestingasfuck
+- ConfusedBoners
+- woahdude
+- trexgonewild
+- askscience
+- MyPeopleNeedMe
+- darksouls
+- WorseEveryLoop
+- lolwat
+- me_irl
+- gifsthatkeepongiving
+- funny
+- awwtf
+- Bandnames
+- Expected
+---

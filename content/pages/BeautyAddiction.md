@@ -1,0 +1,5 @@
+---
+title: BeautyAddiction
+crosslinks:
+- MakeupAddiction
+---

@@ -1,0 +1,5 @@
+---
+title: thehauntedmansion
+crosslinks:
+- Serendipity
+---

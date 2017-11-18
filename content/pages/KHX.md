@@ -1,0 +1,5 @@
+---
+title: KHX
+crosslinks:
+- KingdomHearts
+---

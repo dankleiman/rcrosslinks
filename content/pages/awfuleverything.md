@@ -1,0 +1,24 @@
+---
+title: awfuleverything
+crosslinks:
+- ATBGE
+- TrueAwfulEverything
+- crappycontouring
+- SwordOrSheath
+- sadcringe
+- howardstern
+- OopsDidntMeanTo
+- WouldNotBang
+- autotldr
+- muacirclejerk
+- niceguys
+- trashpandas
+- swordorsheath
+- gifsthatendtoosoon
+- ABraThatFits
+- antiMLM
+- amiugly
+- toomanypillows
+- gatekeeping
+- WeHaveSeenTheButthole
+---

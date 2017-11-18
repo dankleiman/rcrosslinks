@@ -1,0 +1,24 @@
+---
+title: atheism
+crosslinks:
+- exmuslim
+- exmormon
+- Christianity
+- AskReddit
+- The_Donald
+- AskHistorians
+- excultist
+- exjw
+- politics
+- worldnews
+- PastorArrested
+- HowGodWorks
+- islam
+- RedditAlternatives
+- explainlikeimfive
+- exchristian
+- TrueAtheism
+- thegreatproject
+- news
+- todayilearned
+---

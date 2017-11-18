@@ -1,0 +1,24 @@
+---
+title: mcservers
+crosslinks:
+- MCVanillaServers
+- kamicraft
+- thenuggetmine
+- Minecraft
+- MinecraftBuddies
+- Desecrafted
+- ContraptionCraft
+- ShadowBan
+- ThirdRockSMP
+- Serendipity
+- merecraft
+- minerapocalypse
+- Whocraft
+- Elementos
+- deathcap
+- mcrlycc
+- NathanClassic
+- GoldenRealm
+- 24CarrotCraft
+- therealmsmc
+---

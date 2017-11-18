@@ -1,0 +1,5 @@
+---
+title: fence
+crosslinks:
+- mildlyinteresting
+---

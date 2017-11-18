@@ -1,0 +1,5 @@
+---
+title: Inhumans
+crosslinks:
+- InhumansABC
+---

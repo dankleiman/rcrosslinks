@@ -1,0 +1,5 @@
+---
+title: KarmaDecay
+crosslinks:
+- food
+---

@@ -1,0 +1,24 @@
+---
+title: minimalist
+crosslinks:
+- minimalism
+- konmari
+- MinimalismXX
+- simpleliving
+- hoarding
+- gaming
+- nosurf
+- vandwellers
+- christmas
+- vandwelling
+- malelivingspace
+- hammockcamping
+- minimalism_jerk
+- transhumanism
+- latestagecapitalism
+- SkincareAddicts
+- Frugal_Jerk
+- ZeroWaste
+- Watches
+- howtonotgiveafuck
+---

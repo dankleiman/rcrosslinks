@@ -1,0 +1,24 @@
+---
+title: myfriendwantstoknow
+crosslinks:
+- AskReddit
+- watch_dogs
+- vandwellers
+- GetMotivated
+- itwasagraveyardsmash
+- ProtectAndServe
+- LucieWildeIsRetarded
+- southafrica
+- NoStupidQuestions
+- Pets
+- wholesome
+- dating_advice
+- SourcePornMaker
+- piracy
+- AskLEO
+- themonstermath
+- SuicideWatch
+- Anxiety
+- tipofmytongue
+- lfg
+---

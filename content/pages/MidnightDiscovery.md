@@ -1,0 +1,5 @@
+---
+title: MidnightDiscovery
+crosslinks:
+- ethtrader
+---

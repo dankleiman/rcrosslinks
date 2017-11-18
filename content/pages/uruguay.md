@@ -1,0 +1,24 @@
+---
+title: uruguay
+crosslinks:
+- argentina
+- WorldDailyTops
+- AskReddit
+- MapPorn
+- livven
+- notArgentina
+- BrasilOnReddit
+- vexillology
+- AskHistorians
+- HighQualityGifs
+- europe
+- me_irl
+- TheRedPill
+- podemos
+- papertowns
+- UruguayNatural
+- place
+- redditores
+- todayilearned
+- autotldr
+---

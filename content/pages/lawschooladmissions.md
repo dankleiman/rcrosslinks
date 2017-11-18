@@ -1,0 +1,22 @@
+---
+title: lawschooladmissions
+crosslinks:
+- LSAT
+- LawSchool
+- GRE
+- consulting
+- whiskey
+- ofcoursethatsathing
+- autotldr
+- MBA
+- ModSupport
+- niceguys
+- aznidentity
+- 100yearsago
+- '2013'
+- relationships
+- BingeEatingDisorder
+- howto
+- stocks
+- AskMen
+---

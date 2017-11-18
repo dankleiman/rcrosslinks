@@ -1,0 +1,5 @@
+---
+title: TheGalacticEmpire
+crosslinks:
+- HogwartsWerewolves
+---

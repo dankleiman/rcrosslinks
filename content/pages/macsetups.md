@@ -1,0 +1,24 @@
+---
+title: macsetups
+crosslinks:
+- eGPU
+- mac
+- hardwareswap
+- Verticalwallpapers
+- LaptopOnDesk
+- hackintosh
+- BudgetAudiophile
+- WidescreenWallpaper
+- Workspaces
+- PleX
+- DunderMifflin
+- EDC
+- Cortex
+- unixporn
+- Illustration
+- mechmarket
+- graphic_design
+- Stance
+- privacy
+- AppleWatch
+---

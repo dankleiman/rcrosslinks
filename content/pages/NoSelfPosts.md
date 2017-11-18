@@ -1,0 +1,5 @@
+---
+title: NoSelfPosts
+crosslinks:
+- NoLinkPosts
+---

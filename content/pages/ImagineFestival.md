@@ -1,0 +1,5 @@
+---
+title: ImagineFestival
+crosslinks:
+- ImagineMusicFestival
+---

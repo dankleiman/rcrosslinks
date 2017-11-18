@@ -1,0 +1,5 @@
+---
+title: ChineseSoccer
+crosslinks:
+- soccer
+---

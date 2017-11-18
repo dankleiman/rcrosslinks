@@ -1,0 +1,5 @@
+---
+title: nsfwfacts
+crosslinks:
+- sounding
+---

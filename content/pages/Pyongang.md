@@ -1,0 +1,5 @@
+---
+title: Pyongang
+crosslinks:
+- copypasta
+---

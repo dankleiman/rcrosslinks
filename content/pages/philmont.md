@@ -1,0 +1,5 @@
+---
+title: philmont
+crosslinks:
+- Ultralight
+---

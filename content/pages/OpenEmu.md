@@ -1,0 +1,5 @@
+---
+title: OpenEmu
+crosslinks:
+- NintendoSwitch
+---

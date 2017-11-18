@@ -1,0 +1,5 @@
+---
+title: SDCigars
+crosslinks:
+- SanDiegoCigars
+---

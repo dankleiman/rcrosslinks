@@ -1,0 +1,5 @@
+---
+title: thingsinsidethings
+crosslinks:
+- mildlyinteresting
+---

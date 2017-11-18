@@ -1,0 +1,5 @@
+---
+title: PicsOfDeadPrinters
+crosslinks:
+- techsupportgore
+---

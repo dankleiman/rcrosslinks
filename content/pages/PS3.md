@@ -1,0 +1,24 @@
+---
+title: PS3
+crosslinks:
+- ps3hacks
+- patientgamers
+- Gamingcirclejerk
+- uncharted
+- ps2
+- xkcd
+- vita
+- Serendipity
+- PS4Mods
+- Borderlands
+- infamous
+- gameswap
+- mgo
+- HPPD
+- gamecollecting
+- redditrequest
+- tifu
+- LifeProTips
+- senrankagura
+- funny
+---

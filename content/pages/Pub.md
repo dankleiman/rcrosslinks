@@ -1,0 +1,5 @@
+---
+title: Pub
+crosslinks:
+- PUBATTLEGROUNDS
+---

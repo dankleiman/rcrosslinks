@@ -1,0 +1,24 @@
+---
+title: kansascity
+crosslinks:
+- autotldr
+- heyKCwhatwasthatnoise
+- livven
+- news
+- The_Donald
+- place
+- politics
+- Toni_Anderson
+- videos
+- CCW
+- HomeImprovement
+- kcmo
+- woooosh
+- KCEDM
+- r4r
+- technology
+- missouri
+- nottheonion
+- AskReddit
+- whatsthissnake
+---

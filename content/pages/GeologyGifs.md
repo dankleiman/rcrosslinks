@@ -1,0 +1,5 @@
+---
+title: GeologyGifs
+crosslinks:
+- WTF
+---

@@ -1,0 +1,5 @@
+---
+title: peopleignorecrazyshit
+crosslinks:
+- WTF
+---

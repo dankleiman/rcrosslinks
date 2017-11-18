@@ -1,0 +1,24 @@
+---
+title: Antshares
+crosslinks:
+- ethtrader
+- CryptoCurrency
+- ethereum
+- anTrader
+- Bitcoin
+- BitcoinMarkets
+- dogecoin
+- Neotrader
+- Antcoins
+- autotldr
+- NEO
+- livven
+- QRL
+- neocoins
+- Iota
+- vertcoin
+- Memeconomy
+- anstrader
+- EthereumClassic
+- ethdev
+---

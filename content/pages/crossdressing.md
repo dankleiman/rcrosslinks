@@ -1,0 +1,24 @@
+---
+title: crossdressing
+crosslinks:
+- MakeupAddiction
+- crossplay
+- Kappa
+- GoneWildCD
+- MakeupEducation
+- PNWcrossdressing
+- metric_units
+- giftcardexchange
+- Menskirts
+- OutOfTheLoop
+- transvoice
+- transtrade
+- transfashionadvice
+- teencrossdressing
+- traps
+- FrenchWestIndies
+- all
+- BDSMcommunity
+- RedditLaqueristas
+- genderotica
+---

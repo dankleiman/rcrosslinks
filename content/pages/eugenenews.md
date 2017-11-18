@@ -1,0 +1,5 @@
+---
+title: eugenenews
+crosslinks:
+- autotldr
+---

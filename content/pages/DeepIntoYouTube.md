@@ -1,0 +1,24 @@
+---
+title: DeepIntoYouTube
+crosslinks:
+- NotTimAndEric
+- nocontext
+- AskReddit
+- videos
+- me_irl
+- EnoughInternet
+- fifthworldvideos
+- asmr
+- jesuschristreddit
+- conspiracy
+- gatekeeping
+- NotHowDrugsWork
+- xkcd
+- zeropointmodule
+- WTF
+- yee
+- Music
+- communism
+- conlang
+- communism101
+---

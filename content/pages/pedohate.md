@@ -1,0 +1,5 @@
+---
+title: pedohate
+crosslinks:
+- PoliticalAutism
+---

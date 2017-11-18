@@ -1,0 +1,22 @@
+---
+title: HotlineMiami
+crosslinks:
+- hotlinemiamimaps
+- tf2
+- gottagetagrip
+- place
+- livven
+- mashups
+- nocontext
+- pyrocynical
+- outrun
+- UnexpectedJoJo
+- teenagers
+- '2008'
+- pcmasterrace
+- xkcd
+- Vive
+- gaming
+- OneTrueRem
+- PhotoshopRequest
+---

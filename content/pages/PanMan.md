@@ -1,0 +1,5 @@
+---
+title: PanMan
+crosslinks:
+- WritingPrompts
+---

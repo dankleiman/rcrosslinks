@@ -1,0 +1,5 @@
+---
+title: consolelogs
+crosslinks:
+- ProgrammerHumor
+---

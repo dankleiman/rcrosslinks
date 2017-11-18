@@ -1,0 +1,24 @@
+---
+title: MMA
+crosslinks:
+- Boxing
+- IAmA
+- SquaredCircle
+- gifs
+- sports
+- ufc
+- '2013'
+- RizinFF
+- OutOfTheLoop
+- videos
+- funny
+- AskReddit
+- todayilearned
+- Sexymma
+- JoeRogan
+- The_Donald
+- '1277397'
+- modnews
+- pics
+- mmapredictions
+---

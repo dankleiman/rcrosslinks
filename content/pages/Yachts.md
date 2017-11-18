@@ -1,0 +1,5 @@
+---
+title: Yachts
+crosslinks:
+- autotldr
+---

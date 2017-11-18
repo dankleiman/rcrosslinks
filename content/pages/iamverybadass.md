@@ -1,0 +1,24 @@
+---
+title: iamverybadass
+crosslinks:
+- The_Donald
+- THE_PACK
+- copypasta
+- gatekeeping
+- mallninjashit
+- ihavesex
+- thatHappened
+- killthosewhodisagree
+- DownvoteTrolling
+- CringeAnarchy
+- JustBootThings
+- MarchAgainstTrump
+- AskReddit
+- xkcd
+- weekendgunnit
+- pussypassdenied
+- livven
+- iamverysmart
+- ComedyCemetery
+- OutOfTheLoop
+---

@@ -1,0 +1,5 @@
+---
+title: ScottGamesTeasers
+crosslinks:
+- ClassicCore
+---

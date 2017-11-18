@@ -1,0 +1,24 @@
+---
+title: OverwatchUniversity
+crosslinks:
+- Competitiveoverwatch
+- Overwatch
+- OverwatchLFT
+- OWConsole
+- SymmetraMains
+- OverwatchCirclejerk
+- luciomains
+- repostuniversity
+- LucioRollouts
+- MouseReview
+- overwatch
+- pcmasterrace
+- nvidia
+- ZaryaMains
+- MercyMains
+- overwatched
+- OWProTips
+- OverwatchLFG
+- PCMasterRace
+- DvaMains
+---

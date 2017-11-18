@@ -1,0 +1,5 @@
+---
+title: savageshooters
+crosslinks:
+- guns
+---

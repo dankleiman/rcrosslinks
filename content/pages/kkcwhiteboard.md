@@ -1,0 +1,5 @@
+---
+title: kkcwhiteboard
+crosslinks:
+- KingkillerChronicle
+---

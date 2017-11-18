@@ -1,0 +1,5 @@
+---
+title: Tulpa
+crosslinks:
+- Tulpas
+---

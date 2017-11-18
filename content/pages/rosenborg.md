@@ -1,0 +1,5 @@
+---
+title: rosenborg
+crosslinks:
+- soccer
+---

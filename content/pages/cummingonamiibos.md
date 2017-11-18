@@ -1,0 +1,5 @@
+---
+title: cummingonamiibos
+crosslinks:
+- cummingonfigurines
+---

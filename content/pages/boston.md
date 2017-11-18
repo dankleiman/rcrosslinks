@@ -1,0 +1,24 @@
+---
+title: boston
+crosslinks:
+- autotldr
+- BostonWeather
+- The_Donald
+- IAmA
+- AskReddit
+- livven
+- ApplyingToCollege
+- news
+- SeattleWA
+- NeutralPolitics
+- RedditAlternatives
+- falcons
+- place
+- Austin
+- BostonComedy
+- Patriots
+- CityPorn
+- Missing411
+- pics
+- nfl
+---

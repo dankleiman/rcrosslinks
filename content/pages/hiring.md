@@ -1,0 +1,5 @@
+---
+title: hiring
+crosslinks:
+- remotepython
+---

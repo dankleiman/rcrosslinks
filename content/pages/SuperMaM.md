@@ -1,0 +1,24 @@
+---
+title: SuperMaM
+crosslinks:
+- TickTockManitowoc
+- StevenAveryIsGuilty
+- MakingaMurderer
+- canada
+- UnresolvedMysteries
+- HealthyFood
+- OutOfTheLoop
+- livven
+- NoParticipation
+- modnews
+- XAveryFiles
+- photoshop
+- KarmaCourt
+- soccer
+- serialpodcastorigins
+- freemasonry
+- TheoryOfMaM
+- transformice
+- AskReddit
+- css
+---

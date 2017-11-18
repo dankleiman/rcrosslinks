@@ -1,0 +1,24 @@
+---
+title: mechanical_gifs
+crosslinks:
+- livven
+- gifs
+- xkcd
+- specializedtools
+- oddlysatisfying
+- AskReddit
+- Watches
+- Skookum
+- 3Dprinting
+- CatastrophicFailure
+- EngineeringPorn
+- Design
+- interestingasfuck
+- dontputyourdickinthat
+- reddCoin
+- GeometryIsNeat
+- restofthefuckingowl
+- almostperfectloops
+- happy
+- MilitaryGfys
+---

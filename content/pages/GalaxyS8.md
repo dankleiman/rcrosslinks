@@ -1,0 +1,24 @@
+---
+title: GalaxyS8
+crosslinks:
+- GalaxyS7
+- Android
+- GooglePixel
+- samsung
+- galaxyphotography
+- tasker
+- androidthemes
+- Galaxy_S8
+- livven
+- autotldr
+- Nexus6P
+- GearVR
+- GalaxyNote8
+- SamsungPay
+- redditrequest
+- iphone
+- galaxynote4
+- nexus5x
+- android
+- HailCorporate
+---

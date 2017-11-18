@@ -1,0 +1,5 @@
+---
+title: HawaiiJobs
+crosslinks:
+- Honolulu
+---

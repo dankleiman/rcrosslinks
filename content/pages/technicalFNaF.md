@@ -1,0 +1,5 @@
+---
+title: technicalFNaF
+crosslinks:
+- fivenightsatfreddys
+---

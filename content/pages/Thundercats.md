@@ -1,0 +1,5 @@
+---
+title: Thundercats
+crosslinks:
+- gaming
+---

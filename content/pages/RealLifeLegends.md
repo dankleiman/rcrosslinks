@@ -1,0 +1,5 @@
+---
+title: RealLifeLegends
+crosslinks:
+- tifu
+---

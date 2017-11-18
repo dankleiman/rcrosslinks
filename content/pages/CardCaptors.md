@@ -1,0 +1,5 @@
+---
+title: CardCaptors
+crosslinks:
+- animenews
+---

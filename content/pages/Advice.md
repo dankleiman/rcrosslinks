@@ -1,0 +1,24 @@
+---
+title: Advice
+crosslinks:
+- AskReddit
+- legaladvice
+- personalfinance
+- SuicideWatch
+- getdisciplined
+- GetMotivated
+- ShrugLifeSyndicate
+- AdviceAnimals
+- LifeProTips
+- progresspics
+- relationships
+- Pussified
+- IAmA
+- me_irl
+- xkcd
+- TwoXChromosomes
+- offmychest
+- SWResources
+- hapas
+- LongDistance
+---

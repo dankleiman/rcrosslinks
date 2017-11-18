@@ -1,0 +1,5 @@
+---
+title: TargetedEnergyWeapon
+crosslinks:
+- autotldr
+---

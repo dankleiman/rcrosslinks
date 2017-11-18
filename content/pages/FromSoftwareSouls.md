@@ -1,0 +1,5 @@
+---
+title: FromSoftwareSouls
+crosslinks:
+- christianitygaming
+---

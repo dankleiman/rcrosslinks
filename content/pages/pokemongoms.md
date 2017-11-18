@@ -1,0 +1,5 @@
+---
+title: pokemongoms
+crosslinks:
+- TheSilphRoad
+---

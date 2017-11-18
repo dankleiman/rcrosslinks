@@ -1,0 +1,21 @@
+---
+title: mildlysatisfying
+crosslinks:
+- livven
+- nyc
+- pooping
+- KarmaConspiracy
+- trees
+- OSHA
+- perfectloops
+- aal
+- MildlyUnsatisfying
+- hapas
+- xkcd
+- satisfying
+- RandomActsOfMuting
+- TheSilphRoad
+- steak
+- mildlyinfuriating
+- mildlycreepy
+---

@@ -1,0 +1,5 @@
+---
+title: squash
+crosslinks:
+- Fitness
+---

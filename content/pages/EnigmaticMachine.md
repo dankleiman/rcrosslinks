@@ -1,0 +1,5 @@
+---
+title: EnigmaticMachine
+crosslinks:
+- WWEChampions
+---

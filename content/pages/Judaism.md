@@ -1,0 +1,24 @@
+---
+title: Judaism
+crosslinks:
+- autotldr
+- xkcd
+- ReformJews
+- The_Donald
+- AskHistorians
+- Israel
+- islam
+- exjew
+- JudaismTooltips
+- conspiracy
+- funny
+- LGBTOpenModmail
+- Marvel
+- altright
+- AMAAggregator
+- explainlikeimfive
+- todayilearned
+- TwoXChromosomes
+- newjersey
+- announcements
+---

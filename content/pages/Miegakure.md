@@ -1,0 +1,5 @@
+---
+title: Miegakure
+crosslinks:
+- fived
+---

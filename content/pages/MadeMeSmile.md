@@ -1,0 +1,24 @@
+---
+title: MadeMeSmile
+crosslinks:
+- livven
+- gifs
+- aww
+- videos
+- funny
+- AskReddit
+- pics
+- autotldr
+- PeopleFuckingDying
+- HailCorporate
+- BritainsGotTalent
+- xkcd
+- kpop
+- UNBGBBIIVCHIDCTIICBG
+- HumansBeingBros
+- wholesomememes
+- AgainstKarmaWhores
+- instant_regret
+- shitpost
+- GirlsMirin
+---

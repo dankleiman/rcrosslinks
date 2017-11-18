@@ -1,0 +1,5 @@
+---
+title: mapswithoutmadagascar
+crosslinks:
+- MapsWithoutNZ
+---

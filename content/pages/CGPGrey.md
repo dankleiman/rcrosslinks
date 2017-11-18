@@ -1,0 +1,24 @@
+---
+title: CGPGrey
+crosslinks:
+- HelloInternet
+- xkcd
+- vexillology
+- CGPGrey2
+- Cortex
+- getdisciplined
+- cgpgreymemes
+- videos
+- pics
+- personalfinance
+- mylittlepony
+- mildlyinfuriating
+- BradyHaranMemes
+- getdemotivated
+- reactiongifs
+- aww
+- TOR
+- RimWorld
+- ems
+- AskReddit
+---

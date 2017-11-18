@@ -1,0 +1,5 @@
+---
+title: FactorioMMO
+crosslinks:
+- factorio
+---

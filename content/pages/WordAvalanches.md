@@ -1,0 +1,24 @@
+---
+title: WordAvalanches
+crosslinks:
+- ShitEvilModsSay
+- AskReddit
+- PrequelMemes
+- RhymesOnADime
+- gaming
+- de
+- JacksFilms
+- AntiAntiJokes
+- nocontext
+- xkcd
+- AVoid5
+- unexpectedonewordeach
+- titleporn
+- scaryshortstories
+- logophilia
+- greatestgen
+- grilledcheese
+- ShitCrusaderKingsSay
+- mei_irl
+- Bandnames
+---

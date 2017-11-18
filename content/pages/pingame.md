@@ -1,0 +1,5 @@
+---
+title: pingame
+crosslinks:
+- mexico
+---

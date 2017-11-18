@@ -1,0 +1,24 @@
+---
+title: ireland
+crosslinks:
+- irishtourism
+- autotldr
+- place
+- northernireland
+- me_ira
+- TearmaAnLae
+- gaeilge
+- ShitAmericansSay
+- xkcd
+- europe
+- Leitrim
+- IrishHistory
+- unitedkingdom
+- irishpolitics
+- ukpolitics
+- pics
+- The_Donald
+- PlaceIreland
+- irishpersonalfinance
+- DevelEire
+---

@@ -1,0 +1,5 @@
+---
+title: SekretMachines
+crosslinks:
+- nosleep
+---

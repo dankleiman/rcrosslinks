@@ -1,0 +1,24 @@
+---
+title: trendingsubreddits
+crosslinks:
+- AskReddit
+- The_Donald
+- videos
+- aww
+- announcements
+- hatchery
+- gifs
+- xkcd
+- KotakuInAction
+- relationship_advice
+- Iota
+- Fuckthealtright
+- StarVStheForcesofEvil
+- AskHistorians
+- explainlikeimfive
+- me_irl
+- oddlysatisfying
+- BetteReddit
+- gaming
+- OutOfTheLoop
+---

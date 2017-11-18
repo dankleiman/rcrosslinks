@@ -1,0 +1,5 @@
+---
+title: TheTwoBeerQueers
+crosslinks:
+- LGBTeens
+---

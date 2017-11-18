@@ -1,0 +1,5 @@
+---
+title: BuddyMurphy
+crosslinks:
+- SquaredCircle
+---

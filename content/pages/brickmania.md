@@ -1,0 +1,5 @@
+---
+title: brickmania
+crosslinks:
+- lego
+---

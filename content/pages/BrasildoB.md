@@ -1,0 +1,24 @@
+---
+title: BrasildoB
+crosslinks:
+- autotldr
+- worldnews
+- LateStageCapitalism
+- AskReddit
+- socialism
+- portugal
+- pics
+- politics
+- explainlikeimfive
+- geopolitics
+- AskHistorians
+- todayilearned
+- Doriana
+- de
+- conspiracy
+- communism
+- IAmA
+- MeirellesPresidente
+- xkcd
+- Whatcouldgowrong
+---

@@ -1,0 +1,5 @@
+---
+title: folkhorror
+crosslinks:
+- hauntology
+---

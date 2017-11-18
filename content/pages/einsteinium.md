@@ -1,0 +1,5 @@
+---
+title: einsteinium
+crosslinks:
+- CryptoCurrency
+---

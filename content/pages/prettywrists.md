@@ -1,0 +1,5 @@
+---
+title: prettywrists
+crosslinks:
+- redditgetsdrawn
+---

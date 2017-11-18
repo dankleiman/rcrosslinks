@@ -1,0 +1,5 @@
+---
+title: OpposeSinclair
+crosslinks:
+- autotldr
+---

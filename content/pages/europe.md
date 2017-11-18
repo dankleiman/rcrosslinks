@@ -1,0 +1,24 @@
+---
+title: europe
+crosslinks:
+- MapPorn
+- AskHistorians
+- The_Donald
+- worldnews
+- unitedkingdom
+- france
+- ukpolitics
+- de
+- Turkey
+- AskEurope
+- place
+- pics
+- russia
+- AskReddit
+- politics
+- vexillology
+- sweden
+- ireland
+- todayilearned
+- syriancivilwar
+---

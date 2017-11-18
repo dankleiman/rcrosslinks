@@ -1,0 +1,24 @@
+---
+title: NotMyJob
+crosslinks:
+- livven
+- MaliciousCompliance
+- CrappyDesign
+- funny
+- xkcd
+- mildlyinteresting
+- mildlyinfuriating
+- wildlypenis
+- dontdeadopeninside
+- DiWHY
+- hmmm
+- CrapperDesign
+- pics
+- keming
+- SUBREDDITNAME
+- firstworldanarchists
+- de
+- OSHA
+- facepalm
+- furry_irl
+---

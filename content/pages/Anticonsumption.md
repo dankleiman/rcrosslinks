@@ -1,0 +1,24 @@
+---
+title: Anticonsumption
+crosslinks:
+- autotldr
+- ZeroWaste
+- simpleliving
+- Degrowth
+- communism
+- nosurf
+- minimalism
+- LateStageCapitalism
+- Frugal_Jerk
+- Documentaries
+- DumpsterDiving
+- shittykickstarters
+- fountainpens
+- minimalist
+- news
+- askscience
+- personalfinance
+- supremeclothing
+- declutter
+- theXeffect
+---

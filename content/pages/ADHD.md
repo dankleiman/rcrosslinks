@@ -1,0 +1,24 @@
+---
+title: ADHD
+crosslinks:
+- getdisciplined
+- xkcd
+- RedditAlternatives
+- explainlikeimfive
+- AskReddit
+- Anxiety
+- ADHD_Programmers
+- aspergers
+- adhd_anxiety
+- TwoXADHD
+- Drugs
+- theXeffect
+- science
+- adhdmeme
+- BoJackHorseman
+- SketchDaily
+- sociology
+- SCT
+- afinil
+- japanlife
+---

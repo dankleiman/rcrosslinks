@@ -1,0 +1,5 @@
+---
+title: BlackFridayWerewolves
+crosslinks:
+- HogwartsWerewolves
+---

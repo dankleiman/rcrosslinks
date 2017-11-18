@@ -1,0 +1,5 @@
+---
+title: BlazeBayley
+crosslinks:
+- ironmaiden
+---

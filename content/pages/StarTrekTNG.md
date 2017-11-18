@@ -1,0 +1,5 @@
+---
+title: StarTrekTNG
+crosslinks:
+- TNG
+---

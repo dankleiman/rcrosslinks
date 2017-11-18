@@ -1,0 +1,5 @@
+---
+title: smartphone
+crosslinks:
+- autotldr
+---

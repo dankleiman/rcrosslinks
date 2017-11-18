@@ -1,0 +1,5 @@
+---
+title: mcchallenges
+crosslinks:
+- Minecraft
+---

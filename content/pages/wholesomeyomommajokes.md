@@ -1,0 +1,5 @@
+---
+title: wholesomeyomommajokes
+crosslinks:
+- OldSchoolCool
+---

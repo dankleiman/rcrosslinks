@@ -1,0 +1,24 @@
+---
+title: holdmycosmo
+crosslinks:
+- livven
+- metric_units
+- holdmyfries
+- killthecameraman
+- WhyWereTheyFilming
+- UNBGBBIIVCHIDCTIICBG
+- gifs
+- UpvotedBecauseGirl
+- FullScorpion
+- BetterEveryLoop
+- noisygifs
+- FullShrimp
+- chicksfalling
+- ConfusedBoners
+- Instantregret
+- DadReflexes
+- AskReddit
+- xkcd
+- whatcouldgoright
+- shittyStats
+---

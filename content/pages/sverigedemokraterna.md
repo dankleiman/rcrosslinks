@@ -1,0 +1,5 @@
+---
+title: sverigedemokraterna
+crosslinks:
+- autotldr
+---

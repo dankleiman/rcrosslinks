@@ -1,0 +1,5 @@
+---
+title: cryptinvest
+crosslinks:
+- CryptoCurrency
+---

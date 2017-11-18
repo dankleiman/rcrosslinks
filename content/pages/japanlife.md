@@ -1,0 +1,24 @@
+---
+title: japanlife
+crosslinks:
+- japan
+- movingtojapan
+- japancirclejerk
+- Tokyo
+- AskReddit
+- JapanTravel
+- IAmA
+- LearnJapanese
+- teachinginjapan
+- OldLadiesBakingPies
+- funny
+- worldnews
+- ketojapan
+- newsokur
+- cats
+- fffffffuuuuuuuuuuuud
+- hapas
+- NintendoSwitch
+- Ultralight
+- personalfinance
+---

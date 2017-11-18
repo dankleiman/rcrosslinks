@@ -1,0 +1,5 @@
+---
+title: AlgonquinCanoeing
+crosslinks:
+- algonquinpark
+---

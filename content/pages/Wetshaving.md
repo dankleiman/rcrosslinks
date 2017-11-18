@@ -1,0 +1,24 @@
+---
+title: Wetshaving
+crosslinks:
+- Shave_Bazaar
+- wicked_edge
+- Wet_Shavers
+- grilledcheese
+- fragsplits
+- fragrance
+- Coffee
+- Astros
+- fountainpens
+- xkcd
+- todayilearned
+- funny
+- seoul
+- redditscripting
+- OldSchoolCool
+- DotA2
+- dayz
+- Tenagra
+- wholesomememes
+- IAmA
+---

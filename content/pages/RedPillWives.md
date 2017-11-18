@@ -1,0 +1,24 @@
+---
+title: RedPillWives
+crosslinks:
+- FeminineNotFeminist
+- RedPillWomen
+- TheBluePill
+- RPChristians
+- relationships
+- INTP
+- Parenting
+- sex
+- MensRights
+- namenerds
+- stopdrinking
+- AteThePasta
+- AsianBeauty
+- femalefashionadvice
+- marriedredpill
+- homemaking
+- sleep
+- AttachmentParenting
+- TheRedPill
+- rant
+---

@@ -1,0 +1,24 @@
+---
+title: ussoccer
+crosslinks:
+- MLS
+- soccerstreams
+- NWSL
+- soccer
+- coys
+- USYouthSoccer
+- schalke04
+- NUFC
+- superhoops
+- NeutralPolitics
+- rangersfc
+- BrasilOnReddit
+- theydidthemaths
+- livven
+- nfl
+- AMAAggregator
+- PhillyUnion
+- politics
+- AtlantaUnited
+- CanadaSoccer
+---

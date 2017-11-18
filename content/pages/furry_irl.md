@@ -1,0 +1,24 @@
+---
+title: furry_irl
+crosslinks:
+- livven
+- furry
+- yiff
+- AskReddit
+- furrypasta
+- xkcd
+- zootopia
+- 2furryirl4furryirl
+- CrappyDesign
+- funny
+- gfur
+- BadDragon
+- vore_irl
+- dragonsfuckingcars
+- aww
+- me_irl
+- pics
+- KnotFurry_IRL
+- ExpandDong
+- Overwatch
+---

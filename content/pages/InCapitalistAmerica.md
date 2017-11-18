@@ -1,0 +1,5 @@
+---
+title: InCapitalistAmerica
+crosslinks:
+- LateStageCapitalism
+---

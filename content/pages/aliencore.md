@@ -1,0 +1,5 @@
+---
+title: aliencore
+crosslinks:
+- Deathcore
+---

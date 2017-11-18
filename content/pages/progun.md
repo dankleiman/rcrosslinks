@@ -1,0 +1,24 @@
+---
+title: progun
+crosslinks:
+- autotldr
+- dgu
+- shitguncontrollerssay
+- NOWTTYG
+- Firearms
+- weekendgunnit
+- news
+- gunpolitics
+- guns
+- NFA
+- fellowkids
+- nottheonion
+- politics
+- CCW
+- phoenix
+- BrasilOnReddit
+- MightMakesRight
+- The_Donald
+- gunsafety
+- RedditStateGunNetwork
+---

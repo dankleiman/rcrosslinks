@@ -1,0 +1,24 @@
+---
+title: dotamasterrace
+crosslinks:
+- leagueoflegends
+- DotA2
+- Competitiveoverwatch
+- Overwatch
+- LeagueOfMeta
+- hearthstone
+- heroesofthestorm
+- lol
+- PUBATTLEGROUNDS
+- DOTA
+- Kappa
+- artifactmasterrace
+- dota2smut
+- AskReddit
+- tf2
+- summonerschool
+- Games
+- DotaConcepts
+- StreetFighter
+- TrueDoTA2
+---

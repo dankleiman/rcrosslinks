@@ -1,0 +1,5 @@
+---
+title: sodogetip
+crosslinks:
+- dogecoin
+---

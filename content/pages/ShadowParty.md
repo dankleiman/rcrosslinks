@@ -1,0 +1,5 @@
+---
+title: ShadowParty
+crosslinks:
+- autotldr
+---

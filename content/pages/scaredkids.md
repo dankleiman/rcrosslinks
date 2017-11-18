@@ -1,0 +1,5 @@
+---
+title: scaredkids
+crosslinks:
+- videos
+---

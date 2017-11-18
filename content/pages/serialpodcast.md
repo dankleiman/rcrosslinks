@@ -1,0 +1,24 @@
+---
+title: serialpodcast
+crosslinks:
+- serialpodcastorigins
+- stownpodcast
+- theundisclosedpodcast
+- Frankenserial
+- serialdiscussion
+- NarcoticsUnitAMA
+- Ooer
+- philosophy
+- AskReddit
+- StevenAveryIsGuilty
+- army
+- askscience
+- limetown
+- The_Donald
+- MysteryMedia
+- adnansyedcase
+- UnresolvedMysteries
+- magicTCG
+- howardstern
+- SwordAndScale
+---

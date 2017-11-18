@@ -1,0 +1,22 @@
+---
+title: WackyTicTacs
+crosslinks:
+- ReallyWackyTicTacs
+- MinionHate
+- ComedyCemetery
+- DeepFriedMemes
+- Ooer
+- nukedmemes
+- childfree
+- THE_PACK
+- ledootgeneration
+- forgottengold
+- nocontext
+- livven
+- PrequelMemes
+- iamverysmart
+- KarmaCourt
+- KGATLW
+- forwardsfromgrandma
+- 2meirl42meirl4meirl
+---

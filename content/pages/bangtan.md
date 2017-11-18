@@ -1,0 +1,24 @@
+---
+title: bangtan
+crosslinks:
+- kpop
+- livven
+- BrasilOnReddit
+- kpophelp
+- AsianBeauty
+- androidapps
+- AskReddit
+- isometric
+- ketorecipes
+- kdramarecommends
+- leagueoflegends
+- askscience
+- LearnJapanese
+- raerth
+- '2013'
+- streetwear
+- koreanvariety
+- explainlikeimfive
+- Korean
+- CinemaSins
+---

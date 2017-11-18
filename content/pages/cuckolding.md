@@ -1,0 +1,5 @@
+---
+title: cuckolding
+crosslinks:
+- autotldr
+---

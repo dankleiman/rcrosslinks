@@ -1,0 +1,24 @@
+---
+title: Miata
+crosslinks:
+- livven
+- AutoDetailing
+- cars
+- autodetailing
+- outrun
+- ApostrophePatrol
+- titlegore
+- MorrisGarages
+- ATBGE
+- carporn
+- Autos
+- lewronggeneration
+- Shitty_Car_Mods
+- arrow
+- causeWhyNotMate
+- xkcd
+- IgnorantImgur
+- astrophotography
+- Whatcouldgowrong
+- Autocross
+---

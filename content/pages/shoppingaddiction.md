@@ -1,0 +1,5 @@
+---
+title: shoppingaddiction
+crosslinks:
+- alcoholism
+---

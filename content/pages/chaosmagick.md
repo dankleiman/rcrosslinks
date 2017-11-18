@@ -1,0 +1,5 @@
+---
+title: chaosmagick
+crosslinks:
+- occult
+---

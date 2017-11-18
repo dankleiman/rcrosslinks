@@ -1,0 +1,24 @@
+---
+title: rational
+crosslinks:
+- slatestarcodex
+- HPMOR
+- xkcd
+- noveltranslations
+- makeyourchoice
+- HFY
+- AskTrumpSupporters
+- motheroflearning
+- AskReddit
+- WritingPrompts
+- ToTheStars
+- Fantasy
+- neverland
+- discussion
+- unsong
+- GradSchool
+- Parahumans
+- Showerthoughts
+- AdviceAnimals
+- Futurology
+---

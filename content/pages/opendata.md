@@ -1,0 +1,5 @@
+---
+title: opendata
+crosslinks:
+- autotldr
+---

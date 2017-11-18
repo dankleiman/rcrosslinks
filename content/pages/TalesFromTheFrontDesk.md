@@ -1,0 +1,24 @@
+---
+title: TalesFromTheFrontDesk
+crosslinks:
+- askhotels
+- AskReddit
+- MaliciousCompliance
+- xkcd
+- TalesFromTheRealm
+- justnomil
+- Talesfromflightdesk
+- TalesFromRetail
+- TalesFromAdultStores
+- ProRevenge
+- RantsFromRetail
+- childfree
+- IDontWorkHereLady
+- todayilearned
+- trucking
+- u_areyousane
+- Trucking
+- dontdeadopeninside
+- staircasewit
+- PrequelMemes
+---

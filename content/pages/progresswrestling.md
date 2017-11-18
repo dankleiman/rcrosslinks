@@ -1,0 +1,5 @@
+---
+title: progresswrestling
+crosslinks:
+- SquaredCircle
+---

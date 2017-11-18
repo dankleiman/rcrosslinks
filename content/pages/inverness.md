@@ -1,0 +1,5 @@
+---
+title: inverness
+crosslinks:
+- Scotland
+---

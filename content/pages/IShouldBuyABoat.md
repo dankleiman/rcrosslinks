@@ -1,0 +1,5 @@
+---
+title: IShouldBuyABoat
+crosslinks:
+- livven
+---

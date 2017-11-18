@@ -1,0 +1,5 @@
+---
+title: SCU
+crosslinks:
+- Serendipity
+---

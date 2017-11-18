@@ -1,0 +1,24 @@
+---
+title: nursing
+crosslinks:
+- livven
+- StudentNurse
+- cna
+- medicine
+- autotldr
+- ems
+- medicalschool
+- tifu
+- CatastrophicFailure
+- picu
+- AskReddit
+- Helicopters
+- pics
+- UpliftingNews
+- premed
+- ProtectAndServe
+- EKGs
+- talesfromhealthcare
+- funny
+- AskDocs
+---

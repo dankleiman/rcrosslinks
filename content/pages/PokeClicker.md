@@ -1,0 +1,5 @@
+---
+title: PokeClicker
+crosslinks:
+- counting
+---

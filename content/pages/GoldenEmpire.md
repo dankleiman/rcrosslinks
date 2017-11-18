@@ -1,0 +1,5 @@
+---
+title: GoldenEmpire
+crosslinks:
+- ArtefactPorn
+---

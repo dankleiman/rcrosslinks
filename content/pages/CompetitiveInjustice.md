@@ -1,0 +1,5 @@
+---
+title: CompetitiveInjustice
+crosslinks:
+- Apicem
+---

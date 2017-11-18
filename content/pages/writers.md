@@ -1,0 +1,22 @@
+---
+title: writers
+crosslinks:
+- DestructiveReaders
+- writing
+- WritingPrompts
+- fantasywriters
+- EelKat
+- writerchat
+- typewriters
+- Filmmakers
+- neonseerwrites
+- 80s
+- Screenwriting
+- PPC
+- samharris
+- winkle
+- philosophy
+- intj
+- titlegore
+- occult
+---

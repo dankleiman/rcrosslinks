@@ -1,0 +1,22 @@
+---
+title: PHPhelp
+crosslinks:
+- PHP
+- Wordpress
+- SQL
+- xkcd
+- forhire
+- programming
+- hQt6hv
+- lolphp
+- php
+- arduino
+- explainlikeimfive
+- Serendipity
+- lua
+- WordPressThemes
+- phpcharity
+- linux
+- s67ghg
+- HTML
+---

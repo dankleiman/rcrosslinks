@@ -1,0 +1,24 @@
+---
+title: veganfitness
+crosslinks:
+- Fitness
+- vegan
+- veganketo
+- xxfitness
+- veganrecipes
+- AdvancedFitness
+- MeatlessMealPrep
+- modnews
+- vegan1200isplenty
+- classic4chan
+- powerlifting
+- kratom
+- GifRecipes
+- EatCheapAndHealthy
+- explainlikeimfive
+- veganfitnessvancouver
+- HailCorporate
+- PlantBasedDiet
+- 1200isplenty
+- rawdenim
+---

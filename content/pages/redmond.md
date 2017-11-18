@@ -1,0 +1,5 @@
+---
+title: redmond
+crosslinks:
+- WAlitics
+---

@@ -1,0 +1,5 @@
+---
+title: LaborPartyofAustralia
+crosslinks:
+- autotldr
+---

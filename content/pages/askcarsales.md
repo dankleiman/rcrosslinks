@@ -1,0 +1,24 @@
+---
+title: askcarsales
+crosslinks:
+- cars
+- personalfinance
+- IBoughtACarOneTime
+- legaladvice
+- teslamotors
+- GolfGTI
+- AutoDetailing
+- PFJerk
+- automotivetraining
+- MechanicAdvice
+- drphil
+- LifeProTips
+- BestOfAskCarSales
+- sales
+- TheRealMeatloaf
+- volt
+- TalesFromRetail
+- asktrp
+- tdi
+- atheism
+---

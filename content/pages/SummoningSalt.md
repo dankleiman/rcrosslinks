@@ -1,0 +1,5 @@
+---
+title: SummoningSalt
+crosslinks:
+- speedrun
+---

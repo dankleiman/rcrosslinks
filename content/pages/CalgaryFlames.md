@@ -1,0 +1,24 @@
+---
+title: CalgaryFlames
+crosslinks:
+- hockey
+- canucks
+- livven
+- NHLStreams
+- place
+- EdmontonOilers
+- Calgary
+- reddit_stream
+- rangers
+- ColoradoAvalanche
+- The_Donald
+- reactiongifs
+- caps
+- Coyotes
+- canesfanfics
+- announcements
+- MegaMegaMonitor
+- Anxiety
+- conspiracy
+- BlueJackets
+---

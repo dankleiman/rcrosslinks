@@ -1,0 +1,5 @@
+---
+title: TalesFromTheMilitary
+crosslinks:
+- WarIsKillingMe
+---

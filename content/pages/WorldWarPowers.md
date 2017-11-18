@@ -1,0 +1,5 @@
+---
+title: WorldWarPowers
+crosslinks:
+- thegreatwarpowers
+---

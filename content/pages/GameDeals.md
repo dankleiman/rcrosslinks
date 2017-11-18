@@ -1,0 +1,24 @@
+---
+title: GameDeals
+crosslinks:
+- GameDealsMeta
+- Games
+- patientgamers
+- pcmasterrace
+- indiegameswap
+- pcgaming
+- Steam
+- IAmA
+- Vive
+- titanfall
+- gaming
+- FreeGameFindings
+- masseffect
+- PS4
+- SteamGameSwap
+- thedivision
+- PS4Deals
+- skyrimmods
+- Xcom
+- nier
+---

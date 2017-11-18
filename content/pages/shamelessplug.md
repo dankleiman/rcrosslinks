@@ -1,0 +1,24 @@
+---
+title: shamelessplug
+crosslinks:
+- ShitEvilModsSay
+- IAmA
+- The_Donald
+- electrohouse
+- NotMeGamingChannel
+- FooDosage
+- videos
+- newreddits
+- vids
+- autotldr
+- thisisourmusic
+- DOLV_Oasis
+- CringeAnarchy
+- In_Flames
+- colonysurvival
+- queenyeney
+- happy
+- IMadeThis
+- me_irl
+- classicalmusic
+---

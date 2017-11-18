@@ -1,0 +1,5 @@
+---
+title: FakeVape
+crosslinks:
+- Unexpected
+---

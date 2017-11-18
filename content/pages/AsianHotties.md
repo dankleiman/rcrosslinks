@@ -1,0 +1,24 @@
+---
+title: AsianHotties
+crosslinks:
+- NSFW_Hentai_n_Jav
+- JavDownloadCenter
+- Dollywinks
+- leotards
+- funsizedasian
+- Maria_Ozawa
+- juicyasians
+- nextdoorasians
+- Ai_Shinozaki
+- NSFW_Korea
+- asamisuicide
+- BitJav
+- NaoWakana
+- cutekorean
+- SukiYuki
+- JavPreview
+- ShionUtsunomiya
+- lynnchu
+- TrueFMK
+- Asuka_Kirara
+---

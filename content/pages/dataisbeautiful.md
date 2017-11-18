@@ -1,0 +1,24 @@
+---
+title: dataisbeautiful
+crosslinks:
+- The_Donald
+- autotldr
+- AskReddit
+- MapPorn
+- goodlongposts
+- politics
+- OutOfTheLoop
+- place
+- askscience
+- europe
+- pics
+- MarshallBrain
+- datasets
+- HailCorporate
+- ShitPoliticsSays
+- todayilearned
+- worldnews
+- ShitAmericansSay
+- videos
+- announcements
+---

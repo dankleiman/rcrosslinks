@@ -1,0 +1,24 @@
+---
+title: booksuggestions
+crosslinks:
+- Fantasy
+- AskHistorians
+- AskPhilosophyFAQ
+- printSF
+- me_irl
+- freeEBOOKS
+- ReadeBookOnline
+- HFY
+- discworld
+- nosleep
+- steampunks
+- gatekeeping
+- WritingPrompts
+- Socialism_101
+- philosophy
+- Serendipity
+- tipofmytongue
+- torrents
+- Malazan
+- AskReddit
+---

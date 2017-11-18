@@ -1,0 +1,24 @@
+---
+title: Fishing
+crosslinks:
+- livven
+- pics
+- BrasilOnReddit
+- MicroFishing
+- autotldr
+- troutfishing
+- houston
+- WTF
+- UNBGBBIIVCHIDCTIICBG
+- politics
+- AskReddit
+- AnglingDeals
+- IASIP
+- Vermiculture
+- girlswithiphones
+- UpvotedBecauseGirl
+- TwoRedditorsOneCup
+- Fishing_Gear
+- HailCorporate
+- StopClickingThis
+---

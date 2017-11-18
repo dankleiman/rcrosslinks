@@ -1,0 +1,24 @@
+---
+title: asexuality
+crosslinks:
+- aaaaaaacccccccce
+- aromantic
+- r4rAsexual
+- sex
+- funny
+- AskWomen
+- AMAAggregator
+- crochet
+- martialarts
+- Sexology
+- redditrequest
+- childfree
+- RegularRevenge
+- getdisciplined
+- coaxedintoasnafu
+- Asexual
+- BlackAces
+- place
+- changemyview
+- AcePlace
+---

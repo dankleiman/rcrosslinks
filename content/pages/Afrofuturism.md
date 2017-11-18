@@ -1,0 +1,5 @@
+---
+title: Afrofuturism
+crosslinks:
+- hauntology
+---

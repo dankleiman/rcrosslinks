@@ -1,0 +1,24 @@
+---
+title: ultrawidemasterrace
+crosslinks:
+- WidescreenWallpaper
+- Amd
+- pcmasterrace
+- Monitors
+- nvidia
+- PUBATTLEGROUNDS
+- livven
+- Lightpack
+- Hewlett_Packard
+- hardwareswap
+- StarWars
+- Overwatch
+- pcgaming
+- thedivision
+- Games
+- AMDHelp
+- cemu
+- ShadowBan
+- halospv3
+- hardware
+---

@@ -1,0 +1,5 @@
+---
+title: acidjazz
+crosslinks:
+- japanesejazz
+---

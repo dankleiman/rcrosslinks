@@ -1,0 +1,5 @@
+---
+title: starfucked
+crosslinks:
+- latexcosplay
+---

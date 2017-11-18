@@ -1,0 +1,24 @@
+---
+title: TalesFromThePizzaGuy
+crosslinks:
+- LateStageCapitalism
+- KnightsOfPineapple
+- legaladvice
+- pizzadare
+- pics
+- Letterkenny
+- flashlight
+- TalesFromYourServer
+- oddlyspecific
+- metric_units
+- Rochester
+- circle
+- GarlicBreadMemes
+- ChoosingBeggars
+- tifu
+- leanfire
+- shittynosleep
+- videos
+- circlejerk
+- cartalk
+---

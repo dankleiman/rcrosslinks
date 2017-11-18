@@ -1,0 +1,5 @@
+---
+title: fantasticbeastsseries
+crosslinks:
+- movies
+---

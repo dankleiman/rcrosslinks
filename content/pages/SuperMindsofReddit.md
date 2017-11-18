@@ -1,0 +1,5 @@
+---
+title: SuperMindsofReddit
+crosslinks:
+- ExtraordinaryMinds
+---

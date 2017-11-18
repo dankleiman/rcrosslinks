@@ -1,0 +1,5 @@
+---
+title: Fanglia
+crosslinks:
+- HogwartsWerewolves
+---

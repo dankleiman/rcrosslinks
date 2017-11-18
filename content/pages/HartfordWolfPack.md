@@ -1,0 +1,5 @@
+---
+title: HartfordWolfPack
+crosslinks:
+- ahl
+---

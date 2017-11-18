@@ -1,0 +1,5 @@
+---
+title: ShitStatistSay
+crosslinks:
+- pics
+---

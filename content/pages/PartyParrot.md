@@ -1,0 +1,24 @@
+---
+title: PartyParrot
+crosslinks:
+- livven
+- aww
+- parrots
+- TheFarLeftSide
+- gifs
+- pics
+- BetterEveryLoop
+- pcmasterrace
+- AnimalTextGifs
+- kittengifs
+- ShittyAnimalFacts
+- Drama
+- meirl
+- crikey
+- shooting_stars
+- crochet
+- cockatiel
+- ProCSS
+- sixoneseven
+- anime
+---

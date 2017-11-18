@@ -1,0 +1,5 @@
+---
+title: GoogleAppsScript
+crosslinks:
+- googlecloud
+---

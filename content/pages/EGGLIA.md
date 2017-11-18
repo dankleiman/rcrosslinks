@@ -1,0 +1,5 @@
+---
+title: EGGLIA
+crosslinks:
+- Pixiv
+---

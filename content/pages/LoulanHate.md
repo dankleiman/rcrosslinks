@@ -1,0 +1,5 @@
+---
+title: LoulanHate
+crosslinks:
+- france
+---

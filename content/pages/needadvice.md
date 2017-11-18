@@ -1,0 +1,24 @@
+---
+title: needadvice
+crosslinks:
+- legaladvice
+- AskReddit
+- Advice
+- findareddit
+- getdisciplined
+- gamedev
+- stopdrinking
+- Music
+- Assistance
+- GiftofGames
+- techsupport
+- modhelp
+- worldnews
+- AskWomen
+- Anxiety
+- schizophrenia
+- Documentaries
+- comcast_xfinity
+- help
+- DeadKidPics
+---

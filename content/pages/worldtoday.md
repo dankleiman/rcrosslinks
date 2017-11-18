@@ -1,0 +1,5 @@
+---
+title: worldtoday
+crosslinks:
+- autotldr
+---

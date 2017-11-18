@@ -1,0 +1,5 @@
+---
+title: comedycemetry
+crosslinks:
+- ComedyCemetery
+---

@@ -1,0 +1,24 @@
+---
+title: civbattleroyale
+crosslinks:
+- civAIgames
+- civ
+- SackRomeAgain
+- place
+- Suomi
+- Badanthropology
+- WeAreTheWalrus
+- SeddontStopBelieving
+- vexillology
+- CBROriginalContent
+- Twitch
+- GiveEmHeck
+- PortOfPain
+- ManchurianCandidates
+- livven
+- portofpain
+- nqmod
+- wearethewalrus
+- CBRHistory
+- DracIsBack
+---

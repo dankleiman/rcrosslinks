@@ -1,0 +1,5 @@
+---
+title: GishGallop
+crosslinks:
+- InconvenientFacts
+---

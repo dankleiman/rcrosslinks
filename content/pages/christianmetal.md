@@ -1,0 +1,5 @@
+---
+title: christianmetal
+crosslinks:
+- Metal
+---

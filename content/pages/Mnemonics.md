@@ -1,0 +1,5 @@
+---
+title: Mnemonics
+crosslinks:
+- xkcd
+---

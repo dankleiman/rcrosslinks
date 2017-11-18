@@ -1,0 +1,5 @@
+---
+title: InvertedMasterRace
+crosslinks:
+- interestingasfuck
+---

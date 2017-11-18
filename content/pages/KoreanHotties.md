@@ -1,0 +1,5 @@
+---
+title: KoreanHotties
+crosslinks:
+- cutekorean
+---

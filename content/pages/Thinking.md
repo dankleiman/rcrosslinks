@@ -1,0 +1,5 @@
+---
+title: Thinking
+crosslinks:
+- livven
+---

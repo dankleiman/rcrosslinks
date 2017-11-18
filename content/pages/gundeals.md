@@ -1,0 +1,24 @@
+---
+title: gundeals
+crosslinks:
+- guns
+- ar15
+- gundealsFU
+- Gunsforsale
+- CCW
+- ak47
+- Firearms
+- longrange
+- CZFirearms
+- SigSauer
+- NFA
+- CAguns
+- Walther
+- SocialistRA
+- suppressors
+- GunPorn
+- canadaguns
+- Glocks
+- weekendgunnit
+- reloading
+---

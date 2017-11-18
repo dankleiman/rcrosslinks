@@ -1,0 +1,5 @@
+---
+title: GamingHumor
+crosslinks:
+- gaming
+---

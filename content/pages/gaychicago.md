@@ -1,0 +1,5 @@
+---
+title: gaychicago
+crosslinks:
+- ChicagoGaymers
+---

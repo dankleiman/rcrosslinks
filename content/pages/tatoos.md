@@ -1,0 +1,5 @@
+---
+title: tatoos
+crosslinks:
+- tattoos
+---

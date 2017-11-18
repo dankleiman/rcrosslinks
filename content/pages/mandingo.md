@@ -1,0 +1,5 @@
+---
+title: mandingo
+crosslinks:
+- nsfw
+---

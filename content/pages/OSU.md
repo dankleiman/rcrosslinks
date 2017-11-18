@@ -1,0 +1,24 @@
+---
+title: OSU
+crosslinks:
+- osugame
+- osutickets
+- place
+- news
+- cscareerquestions
+- livven
+- Frugal_Jerk
+- Serendipity
+- clevelandcavs
+- personalfinance
+- firstworldanarchists
+- uCinci
+- PennStateUniversity
+- resumes
+- videos
+- AskReddit
+- SuggestALaptop
+- ProjectSolstice
+- ucinci
+- TheB1G
+---

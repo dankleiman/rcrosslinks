@@ -1,0 +1,5 @@
+---
+title: catholicarchitecture
+crosslinks:
+- Catholicism
+---

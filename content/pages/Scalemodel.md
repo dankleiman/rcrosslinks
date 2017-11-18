@@ -1,0 +1,5 @@
+---
+title: Scalemodel
+crosslinks:
+- modelmakers
+---

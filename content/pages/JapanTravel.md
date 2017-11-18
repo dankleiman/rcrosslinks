@@ -1,0 +1,24 @@
+---
+title: JapanTravel
+crosslinks:
+- Tokyo
+- japan
+- japanlife
+- travel
+- japancirclejerk
+- chefknives
+- NSFW_Japan
+- tea
+- movingtojapan
+- fujix
+- fujirock
+- Flights
+- MURICA
+- AsianBeauty
+- japanpics
+- LearnJapanese
+- IWantToSuckCock
+- KemonoFriends
+- Thailand
+- japanesemusic
+---

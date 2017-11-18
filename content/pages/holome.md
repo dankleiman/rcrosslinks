@@ -1,0 +1,5 @@
+---
+title: holome
+crosslinks:
+- EliteDangerous
+---

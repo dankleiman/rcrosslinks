@@ -1,0 +1,5 @@
+---
+title: WTFMusicVideos
+crosslinks:
+- occult
+---

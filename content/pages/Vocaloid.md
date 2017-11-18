@@ -1,0 +1,24 @@
+---
+title: Vocaloid
+crosslinks:
+- Pixiv
+- placestart
+- OtakuVisualArts
+- Android
+- livven
+- imaginarymaps
+- learnanimation
+- audiophile
+- japancirclejerk
+- AnimeFigures
+- EditingAndLayout
+- canada
+- anime
+- hatsune
+- evillious
+- JapaneseFutureBass
+- splatoon
+- osugame
+- mikumikudance
+- Artcore
+---

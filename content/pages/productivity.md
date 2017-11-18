@@ -1,0 +1,24 @@
+---
+title: productivity
+crosslinks:
+- xkcd
+- todoist
+- autotldr
+- AskReddit
+- theXeffect
+- workflow
+- getdisciplined
+- personalfinance
+- ProgrammerHumor
+- MysteriousUniverse
+- 5W4F6srG
+- noteplanapp
+- tea
+- howto
+- running
+- unproductivity
+- ADHD
+- financialindependence
+- languagelearning
+- swoleacceptance
+---

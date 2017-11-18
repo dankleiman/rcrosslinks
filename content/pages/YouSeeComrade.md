@@ -1,0 +1,24 @@
+---
+title: YouSeeComrade
+crosslinks:
+- livven
+- funny
+- unexpectedoverwatch
+- 2me4meirl
+- OopsDidntMeanTo
+- 40kLore
+- portal2
+- ANormalDayInRussia
+- TankPorn
+- unexpected40k
+- LateStageCapitalism
+- PrequelMemes
+- redorchestra
+- freefolk
+- InitialDvideos
+- softwaregore
+- CCW
+- redneckengineering
+- DeFranco
+- raimimemes
+---

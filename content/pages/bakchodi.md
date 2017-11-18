@@ -1,0 +1,24 @@
+---
+title: bakchodi
+crosslinks:
+- livven
+- autotldr
+- india
+- indiadiscussion
+- pakistan
+- place
+- IndiaSpeaks
+- worldnews
+- AskReddit
+- Vishnu_Avataar
+- ukpolitics
+- IndianCJ
+- fidgetspin
+- '2013'
+- IndiansGoneWild
+- todayilearned
+- GirlsMirin
+- EasternSunRising
+- dsmofficial
+- interestingasfuck
+---

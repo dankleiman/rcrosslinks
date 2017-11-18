@@ -1,0 +1,5 @@
+---
+title: learnlisp
+crosslinks:
+- lisp
+---

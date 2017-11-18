@@ -1,0 +1,24 @@
+---
+title: cpp
+crosslinks:
+- programming
+- rust
+- cpp_questions
+- xkcd
+- cpp_review
+- learnprogramming
+- functionalprogramming
+- cscareerquestions
+- CUDA
+- dailyprogrammer
+- C_Programming
+- ProgrammerHumor
+- cppit
+- gamedev
+- vulkan
+- math
+- cmake
+- ProgrammingLanguages
+- programmingtools
+- vim
+---

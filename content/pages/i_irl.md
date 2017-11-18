@@ -1,0 +1,24 @@
+---
+title: i_irl
+crosslinks:
+- livven
+- me_irl
+- surrealmemes
+- YouthInAsia
+- fakehistoryporn
+- elderscrollsonline
+- comics
+- Shrek
+- copypasta
+- FunnyandSad
+- meirl
+- WhitePeopleTwitter
+- wsgy
+- WackyTicTacs
+- THE_PACK
+- furry_irl
+- dankmemes
+- teenagers
+- mildlyinteresting
+- data_irl
+---

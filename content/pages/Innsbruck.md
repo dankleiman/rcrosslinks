@@ -1,0 +1,5 @@
+---
+title: Innsbruck
+crosslinks:
+- German
+---

@@ -1,0 +1,5 @@
+---
+title: HITRUST
+crosslinks:
+- hipaa
+---

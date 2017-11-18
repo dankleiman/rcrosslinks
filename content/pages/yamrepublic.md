@@ -1,0 +1,24 @@
+---
+title: yamrepublic
+crosslinks:
+- ConservativeYams
+- YamSocialists
+- AskReddit
+- CocoaBeanCountries
+- Wellthatsucks
+- livven
+- Yamity
+- YamMilitary
+- HouseOfYams
+- KarmaCourt
+- FFCParty
+- TheCarrotEmpire
+- UnifiedYams
+- YamTechnocrats
+- MapsWithoutNZ
+- Ooer
+- yammunists
+- shitpost
+- place
+- yamutilitarians
+---

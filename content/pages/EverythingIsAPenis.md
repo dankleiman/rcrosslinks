@@ -1,0 +1,5 @@
+---
+title: EverythingIsAPenis
+crosslinks:
+- ofcoursethatsathing
+---

@@ -1,0 +1,5 @@
+---
+title: darkpatterns
+crosslinks:
+- autotldr
+---

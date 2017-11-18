@@ -1,0 +1,5 @@
+---
+title: gameandwatch
+crosslinks:
+- nintendo
+---

@@ -1,0 +1,24 @@
+---
+title: StarWars
+crosslinks:
+- starwarscanon
+- starwarsspeculation
+- movies
+- PrequelMemes
+- StarWarsLeaks
+- FanTheories
+- TheCloneWars
+- MawInstallation
+- lego
+- StarWarsEU
+- pics
+- respectthreads
+- AskReddit
+- IAmA
+- EmpireDidNothingWrong
+- funny
+- StarWarsReference
+- whowouldwin
+- AskScienceFiction
+- StarWarsBattlefront
+---

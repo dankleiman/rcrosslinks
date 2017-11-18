@@ -1,0 +1,5 @@
+---
+title: shimapan
+crosslinks:
+- animesalute
+---

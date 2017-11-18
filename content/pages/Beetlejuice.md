@@ -1,0 +1,5 @@
+---
+title: Beetlejuice
+crosslinks:
+- Jokes
+---

@@ -1,0 +1,5 @@
+---
+title: tarotpractice
+crosslinks:
+- freereadings
+---

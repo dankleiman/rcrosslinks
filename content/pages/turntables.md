@@ -1,0 +1,5 @@
+---
+title: turntables
+crosslinks:
+- vinyl
+---

@@ -1,0 +1,5 @@
+---
+title: GMOinfo
+crosslinks:
+- autotldr
+---

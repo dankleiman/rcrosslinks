@@ -1,0 +1,5 @@
+---
+title: LivingstoneInAfrica
+crosslinks:
+- WritingPrompts
+---

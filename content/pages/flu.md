@@ -1,0 +1,5 @@
+---
+title: flu
+crosslinks:
+- Influenza
+---

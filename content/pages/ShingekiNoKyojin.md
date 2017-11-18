@@ -1,0 +1,24 @@
+---
+title: ShingekiNoKyojin
+crosslinks:
+- attack_on_titan
+- anime
+- livven
+- attackontitan
+- The_Brothald
+- nocontext
+- Naruto
+- funny
+- ModSupport
+- manga
+- Berserk
+- gameofthrones
+- ShingekiNoHentai
+- anime_irl
+- AnimeThemes
+- csshelp
+- TokyoGhoul
+- whowouldwin
+- SNK
+- AskReddit
+---

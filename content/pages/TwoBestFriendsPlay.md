@@ -1,0 +1,24 @@
+---
+title: TwoBestFriendsPlay
+crosslinks:
+- livven
+- autotldr
+- PeachSaliva
+- anime
+- Games
+- StardustCrusaders
+- gaming
+- metalgearsolid
+- nier
+- samuraijack
+- IAmA
+- Kappa
+- darksouls
+- SonicTheHedgehog
+- Berserk
+- NintendoSwitch
+- pcgaming
+- Persona5
+- Tekken
+- RisingSuperStream
+---

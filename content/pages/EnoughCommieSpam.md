@@ -1,0 +1,24 @@
+---
+title: EnoughCommieSpam
+crosslinks:
+- socialism
+- LateStageCapitalism
+- communism
+- Drama
+- Anarchism
+- shittankiessay
+- FULLCOMMUNISM
+- worldnews
+- forwardsfromgrandma
+- todayilearned
+- ShitAmericansSay
+- politics
+- CapitalismVSocialism
+- LeftWithoutEdge
+- GamerGhazi
+- dankmemes
+- traaaaaaannnnnnnnnns
+- Negareddit
+- ChapoTrapHouse
+- communism101
+---

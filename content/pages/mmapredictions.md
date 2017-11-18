@@ -1,0 +1,5 @@
+---
+title: mmapredictions
+crosslinks:
+- MMA
+---

@@ -1,0 +1,5 @@
+---
+title: NewMarvelRp
+crosslinks:
+- XMenRP
+---

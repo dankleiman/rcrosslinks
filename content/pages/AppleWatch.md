@@ -1,0 +1,24 @@
+---
+title: AppleWatch
+crosslinks:
+- apple
+- autotldr
+- watchOSBeta
+- iphone
+- AppleBandMarket
+- running
+- iOSBeta
+- appleswap
+- livven
+- xkcd
+- help
+- lonelyworkouts
+- RandomActsOfGiftCards
+- airpods
+- AppleWatchFitness
+- assholedesign
+- verizon
+- autocorrect
+- Scams
+- AskReddit
+---

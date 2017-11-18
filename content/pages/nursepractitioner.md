@@ -1,0 +1,5 @@
+---
+title: nursepractitioner
+crosslinks:
+- nursing
+---

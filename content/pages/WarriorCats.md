@@ -1,0 +1,5 @@
+---
+title: WarriorCats
+crosslinks:
+- thedawnpatrol
+---

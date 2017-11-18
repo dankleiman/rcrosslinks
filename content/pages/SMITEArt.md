@@ -1,0 +1,5 @@
+---
+title: SMITEArt
+crosslinks:
+- Smite
+---

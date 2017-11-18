@@ -1,0 +1,5 @@
+---
+title: coffeescript
+crosslinks:
+- javascript
+---

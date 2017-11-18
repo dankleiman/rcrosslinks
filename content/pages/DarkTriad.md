@@ -1,0 +1,5 @@
+---
+title: DarkTriad
+crosslinks:
+- SocialEngineering
+---

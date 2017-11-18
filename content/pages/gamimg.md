@@ -1,0 +1,5 @@
+---
+title: gamimg
+crosslinks:
+- gaming
+---

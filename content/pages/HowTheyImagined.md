@@ -1,0 +1,5 @@
+---
+title: HowTheyImagined
+crosslinks:
+- OldSchoolCool
+---

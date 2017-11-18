@@ -1,0 +1,5 @@
+---
+title: punkrock
+crosslinks:
+- Hardcore
+---

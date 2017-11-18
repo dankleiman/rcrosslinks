@@ -1,0 +1,5 @@
+---
+title: duafire
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: ETSUBucs
+crosslinks:
+- fcs
+---

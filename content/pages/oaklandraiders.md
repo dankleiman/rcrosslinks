@@ -1,0 +1,24 @@
+---
+title: oaklandraiders
+crosslinks:
+- nfl
+- livven
+- DenverBroncos
+- nflstreams
+- raiders
+- NFL_Draft
+- KansasCityChiefs
+- Chargers
+- Redskins
+- NYGiants
+- EvilLeagueOfEvil
+- Patriots
+- videos
+- LasVegasRaiders
+- EvilerLeagueOfEvil
+- Tennesseetitans
+- CoalitionAgainstEvil
+- Incels
+- pokemon
+- OttawaSenators
+---

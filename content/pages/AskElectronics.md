@@ -1,0 +1,24 @@
+---
+title: AskElectronics
+crosslinks:
+- electronics
+- PrintedCircuitBoard
+- arduino
+- xkcd
+- electronic_circuits
+- rfelectronics
+- Multicopter
+- electricians
+- MSP430
+- solar
+- amateurradio
+- BudgetAudiophile
+- techtheatre
+- modifiedvapes
+- diypedals
+- Paranormal
+- electrical
+- explainlikeimfive
+- Koji_Kendo
+- Vive
+---

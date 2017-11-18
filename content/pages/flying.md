@@ -1,0 +1,24 @@
+---
+title: flying
+crosslinks:
+- Shittyaskflying
+- aviation
+- autotldr
+- xkcd
+- livven
+- AskReddit
+- medicalschool
+- stratux
+- shittyaskflying
+- The_Donald
+- TheHangar
+- todayilearned
+- IAmA
+- EngineeringPorn
+- videos
+- '2013'
+- CatastrophicFailure
+- ATC
+- aviationmaintenance
+- funny
+---

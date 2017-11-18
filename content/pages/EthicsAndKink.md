@@ -1,0 +1,5 @@
+---
+title: EthicsAndKink
+crosslinks:
+- raceplay
+---

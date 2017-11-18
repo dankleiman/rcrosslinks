@@ -1,0 +1,24 @@
+---
+title: AnimalsBeingDerps
+crosslinks:
+- livven
+- aww
+- instant_regret
+- funny
+- uglypuppers
+- StoppedWorking
+- StartledCats
+- teefies
+- rarepuppers
+- cats
+- FullScorpion
+- OutOfTheLoop
+- WhatsWrongWithYourDog
+- geckos
+- youseeingthisshit
+- TheCatTrapIsWorking
+- redpandas
+- gifsthatkeepongiving
+- hmmm
+- animalssmiling
+---

@@ -1,0 +1,24 @@
+---
+title: Spokane
+crosslinks:
+- autotldr
+- techsupport
+- Washington
+- WAlitics
+- movies
+- Atlanta
+- SALEM
+- Denver
+- vexillology
+- Wake_surfing
+- exmotrees
+- spokanetrees
+- motorcycles
+- ClopClop
+- dogpictures
+- niceguys
+- IAmA
+- BoxingStreams
+- Socialism_101
+- askscience
+---

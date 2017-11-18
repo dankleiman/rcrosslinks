@@ -1,0 +1,24 @@
+---
+title: gamernews
+crosslinks:
+- autotldr
+- Gamingcirclejerk
+- pathofexile
+- pcgaming
+- Steam
+- gaming
+- pcmasterrace
+- ps2
+- Games
+- gamingnews
+- SmallYTChannel
+- me_irl
+- nintendo
+- KillersThieves
+- hardwareswap
+- RetroPie
+- lifeisstrange
+- iama
+- xkcd
+- FORTnITE
+---

@@ -1,0 +1,5 @@
+---
+title: JoeyBadass
+crosslinks:
+- KendrickLamar
+---

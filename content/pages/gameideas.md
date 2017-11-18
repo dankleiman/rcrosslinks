@@ -1,0 +1,24 @@
+---
+title: gameideas
+crosslinks:
+- gamedesign
+- MMORPG
+- MuLegend
+- truegaming
+- oculus
+- WritingPrompts
+- titlegore
+- gaming
+- Unity3D
+- armoredwomen
+- iamverysmart
+- ROVEIndustries
+- shortscarystories
+- cellular_automata
+- indiegames
+- pathofexile
+- MLPLounge
+- dishonored
+- 2meirl42meirl4meirl
+- gameDevClassifieds
+---

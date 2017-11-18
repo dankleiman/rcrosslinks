@@ -1,0 +1,5 @@
+---
+title: livemusic
+crosslinks:
+- eurovision
+---

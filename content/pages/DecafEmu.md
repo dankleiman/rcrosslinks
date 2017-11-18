@@ -1,0 +1,5 @@
+---
+title: DecafEmu
+crosslinks:
+- cemu
+---

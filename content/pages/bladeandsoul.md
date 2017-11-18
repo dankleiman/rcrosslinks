@@ -1,0 +1,24 @@
+---
+title: bladeandsoul
+crosslinks:
+- livven
+- BladeAndSoulMods
+- NationalSocialism
+- LivestreamFail
+- 2007scape
+- DFO
+- titlegore
+- monkaS
+- Guildwars2
+- Piracy
+- AVoid5
+- TsundereSharks
+- wowservers
+- '2012'
+- wow
+- personalfinance
+- pcmasterrace
+- Korean
+- AskReddit
+- microsoft
+---

@@ -1,0 +1,5 @@
+---
+title: gamingsetups
+crosslinks:
+- macsetups
+---

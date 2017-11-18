@@ -1,0 +1,24 @@
+---
+title: oblivion
+crosslinks:
+- teslore
+- ElderScrolls
+- skyrimmods
+- Games
+- Serendipity
+- PornComments
+- runescape
+- TheElderGifs
+- funhaus
+- comics
+- watchpeopledie
+- Gamingcirclejerk
+- TheImperialCult
+- xkcd
+- GameDeals
+- elderscrolls
+- 3d6
+- TrueSTL
+- ShowOffYourCharacter
+- skyrim
+---

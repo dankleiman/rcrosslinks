@@ -1,0 +1,24 @@
+---
+title: rpg_gamers
+crosslinks:
+- Games
+- tipofmyjoystick
+- Shadowrun
+- truegaming
+- Morrowind
+- StrategyGames
+- MMORPG
+- 3dshacks
+- skyrimmods
+- Gamingcirclejerk
+- MonsterTamerWorld
+- ElderScrolls
+- projecteternity
+- GameDeals
+- JRPG
+- BladeAndSoulMods
+- lfg
+- elderscrollsonline
+- PS4
+- jrpg
+---

@@ -1,0 +1,24 @@
+---
+title: CasualConversation
+crosslinks:
+- SeriousConversation
+- AskReddit
+- SuicideWatch
+- WritingPrompts
+- muglife
+- alltheleft
+- OutOfTheLoop
+- todayilearned
+- tifu
+- pics
+- getdisciplined
+- Fitness
+- grilledcheese
+- IAmA
+- me_irl
+- videos
+- Art
+- explainlikeimfive
+- nosleep
+- findareddit
+---

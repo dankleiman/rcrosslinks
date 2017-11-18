@@ -1,0 +1,24 @@
+---
+title: namenerds
+crosslinks:
+- confession
+- AskReddit
+- TheBluePill
+- emanface
+- Fantasy
+- Outlander
+- hapas
+- Synesthesia
+- asktransgender
+- teenmom
+- farsi
+- unexpectedhogwarts
+- medicine
+- INeedAName
+- comics
+- Suomi
+- translator
+- me_irl
+- asoiaf
+- OutOfTheLoop
+---

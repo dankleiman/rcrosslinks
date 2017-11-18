@@ -1,0 +1,5 @@
+---
+title: AMDRyzen
+crosslinks:
+- Amd
+---

@@ -1,0 +1,5 @@
+---
+title: Emovinyl
+crosslinks:
+- EmoScreamo
+---

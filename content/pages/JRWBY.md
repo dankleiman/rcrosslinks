@@ -1,0 +1,5 @@
+---
+title: JRWBY
+crosslinks:
+- RWBY
+---

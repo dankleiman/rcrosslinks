@@ -1,0 +1,5 @@
+---
+title: TiraasTGaB
+crosslinks:
+- LightNovels
+---

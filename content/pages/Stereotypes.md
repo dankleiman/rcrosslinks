@@ -1,0 +1,5 @@
+---
+title: Stereotypes
+crosslinks:
+- SampleSize
+---

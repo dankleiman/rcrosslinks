@@ -1,0 +1,5 @@
+---
+title: AussieEconomy
+crosslinks:
+- autotldr
+---

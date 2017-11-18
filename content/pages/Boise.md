@@ -1,0 +1,24 @@
+---
+title: Boise
+crosslinks:
+- autotldr
+- funny
+- videos
+- GrMD
+- Ohio
+- findareddit
+- livven
+- Spokane
+- KeepOurNetFree
+- excgarated
+- TheRedPill
+- facepalm
+- '2013'
+- RedditsMuseumofFilth
+- gifs
+- Shitstatistssay
+- WTF
+- HVAC
+- Idaho
+- exmormon
+---

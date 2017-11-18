@@ -1,0 +1,24 @@
+---
+title: GameStop
+crosslinks:
+- NintendoSwitch
+- TalesFromRetail
+- gamecollecting
+- IAmA
+- livven
+- gaming
+- CompTIA
+- PS4
+- highqualitygifs
+- iphone
+- splatoon
+- Android
+- me_irl
+- PS4Deals
+- gamingsuggestions
+- DestinyTheGame
+- churning
+- autotldr
+- Target
+- KingdomHearts
+---

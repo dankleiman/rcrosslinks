@@ -1,0 +1,5 @@
+---
+title: sevareign
+crosslinks:
+- Sovreignty
+---

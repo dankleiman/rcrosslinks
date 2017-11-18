@@ -1,0 +1,5 @@
+---
+title: auto
+crosslinks:
+- geek
+---

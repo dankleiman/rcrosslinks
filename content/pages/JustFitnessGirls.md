@@ -1,0 +1,24 @@
+---
+title: JustFitnessGirls
+crosslinks:
+- livven
+- anllelasagra
+- asianfitgirls
+- chicks_with_dicks
+- helgalovekaty
+- LaurenDrain
+- leotards
+- fatlogic
+- Death_By_SnuSnu
+- TeenyGinger
+- BlancNoir
+- nsfw
+- SaraJUnderwood
+- SophieMudd
+- juliakelly
+- AllisonParker
+- uncommonposes
+- fitgirls
+- AmandaEliseLee
+- BrasilOnReddit
+---

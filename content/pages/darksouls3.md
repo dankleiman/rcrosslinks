@@ -1,0 +1,24 @@
+---
+title: darksouls3
+crosslinks:
+- pumparum
+- SummonSign
+- shittydarksouls
+- DkS3Builds
+- DarkSouls2
+- darksouls
+- fashionsouls
+- SoulsSliders
+- HoldMyEstus
+- sagesgrandarchives
+- PrequelMemes
+- Overwatch
+- gaming
+- wow
+- xkcd
+- speedrun
+- gatekeeping
+- DarkSouls3JPN
+- darksoulspvp
+- summonsign
+---

@@ -1,0 +1,5 @@
+---
+title: TheNewZ
+crosslinks:
+- playnewz
+---

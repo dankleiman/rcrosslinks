@@ -1,0 +1,24 @@
+---
+title: utdallas
+crosslinks:
+- Enarc
+- Serendipity
+- unt
+- SuggestALaptop
+- Richardson
+- CrappyDesign
+- xkcd
+- metric_units
+- REEEEEEEEEE
+- unixporn
+- livven
+- VoHiYo
+- MRA
+- autotldr
+- gifs
+- unexpectedoverwatch
+- IdiotsFightingThings
+- TAMS
+- The_Donald_Texas
+- Infuriating
+---

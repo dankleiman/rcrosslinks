@@ -1,0 +1,24 @@
+---
+title: ConfusedBoners
+crosslinks:
+- WTF
+- mildlypenis
+- funny
+- mildlyinteresting
+- gifs
+- familyguy
+- gfycat
+- wildlypenis
+- TurnsuON
+- space
+- nsfw_wtf
+- HighMileageHoles
+- whitepeoplegifs
+- worldnews
+- yiff
+- tifu
+- jesuschristreddit
+- qwop
+- teenagers
+- pics
+---

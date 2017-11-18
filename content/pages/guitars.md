@@ -1,0 +1,23 @@
+---
+title: guitars
+crosslinks:
+- Guitar
+- guitarcirclejerk
+- pics
+- rocksmith
+- me_irl
+- Rateme
+- Serendipity
+- diypedals
+- news
+- NorthCarolina
+- BassGuitar
+- guitarpedals
+- offset
+- Stratocaster
+- Unexpected
+- Bass
+- gearforsale
+- guitarporn
+- papa_and_ghouls
+---

@@ -1,0 +1,5 @@
+---
+title: chessvariants
+crosslinks:
+- FourthDimension
+---

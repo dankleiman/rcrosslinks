@@ -1,0 +1,5 @@
+---
+title: MenInPanties
+crosslinks:
+- malepantyselling
+---

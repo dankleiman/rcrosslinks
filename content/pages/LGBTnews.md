@@ -1,0 +1,21 @@
+---
+title: LGBTnews
+crosslinks:
+- HIVnews
+- LGBTaf
+- religion
+- Transnews
+- worldnews
+- legal
+- asktransgender
+- traaaaaaannnnnnnnnns
+- RightwingLGBT
+- politics
+- KnightsOfPineapple
+- netflix
+- ConservativeLGBT
+- exmormon
+- NPR
+- JUSTNOMIL
+- mormon
+---

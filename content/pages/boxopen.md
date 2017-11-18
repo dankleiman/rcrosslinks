@@ -1,0 +1,5 @@
+---
+title: boxopen
+crosslinks:
+- WritingPrompts
+---

@@ -1,0 +1,24 @@
+---
+title: westworld
+crosslinks:
+- xkcd
+- AskReddit
+- funny
+- DestinyTheGame
+- gaming
+- news
+- gameofthrones
+- pics
+- asoiaf
+- explainlikeimfive
+- television
+- ProgrammerHumor
+- lifehacks
+- SongStems
+- PopCornTime
+- movies
+- atheism
+- HighQualityGifs
+- psych
+- Greyhounds
+---

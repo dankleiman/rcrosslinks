@@ -1,0 +1,5 @@
+---
+title: write
+crosslinks:
+- writing
+---

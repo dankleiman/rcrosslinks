@@ -1,0 +1,24 @@
+---
+title: teenmom
+crosslinks:
+- shittyteenmom
+- livven
+- trashy
+- IAmA
+- AskReddit
+- UnresolvedMysteries
+- xkcd
+- TeenMomOGandTeenMom2
+- 2806w3s
+- legaladvice
+- '2013'
+- trees
+- casualiama
+- OutOfTheLoop
+- matt
+- 1198d36
+- LifetimeLittleWomen
+- 2mrxhc0
+- KansasCityChiefs
+- thatHappened
+---

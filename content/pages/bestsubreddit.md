@@ -1,0 +1,5 @@
+---
+title: bestsubreddit
+crosslinks:
+- ayylmao
+---

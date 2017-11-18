@@ -1,0 +1,24 @@
+---
+title: Vaporwave
+crosslinks:
+- makingvaporwave
+- VaporwaveAesthetics
+- futurefunk
+- cassetteculture
+- VaporwaveArt
+- outrun
+- simpsonswave
+- livven
+- DataHoarder
+- 808State
+- VaporwaveMiniDiscs
+- delusionalartists
+- u_ffuentes
+- The_Donald
+- vaporwave2012
+- VaporwaveMusic
+- HailCorporate
+- Serendipity
+- cloudrap
+- autotldr
+---

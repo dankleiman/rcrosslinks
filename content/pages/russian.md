@@ -1,0 +1,24 @@
+---
+title: russian
+crosslinks:
+- languagelearning
+- translator
+- russia
+- Art
+- pics
+- xkcd
+- Android
+- typography
+- autotldr
+- shamanking
+- LearningRussian
+- AskReddit
+- mexico
+- Moscow
+- place
+- Spanish
+- Lettering
+- me_ira
+- LanguageBuds
+- JudgeMyAccent
+---

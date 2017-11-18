@@ -1,0 +1,24 @@
+---
+title: BPD
+crosslinks:
+- sociopath
+- BPDmemes
+- depression
+- Art
+- science
+- BPDirc
+- GetMotivated
+- AskReddit
+- livven
+- BPDrecovery
+- opieandanthony
+- OCD
+- 3amjokes
+- StopSelfHarm
+- Anger
+- origami
+- Demotivational
+- cults
+- ADHD
+- '2013'
+---

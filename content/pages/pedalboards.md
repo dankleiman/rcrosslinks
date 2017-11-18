@@ -1,0 +1,5 @@
+---
+title: pedalboards
+crosslinks:
+- guitarpedals
+---

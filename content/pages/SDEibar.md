@@ -1,0 +1,5 @@
+---
+title: SDEibar
+crosslinks:
+- soccer
+---

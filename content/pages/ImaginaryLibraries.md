@@ -1,0 +1,5 @@
+---
+title: ImaginaryLibraries
+crosslinks:
+- ImaginaryScholars
+---

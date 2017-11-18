@@ -1,0 +1,24 @@
+---
+title: longevity
+crosslinks:
+- autotldr
+- science
+- Nootropics
+- GrassrootsLongevity
+- Futurology
+- Health
+- cryonics
+- Sprouts
+- explainlikeimfive
+- Monero
+- rejuvenation
+- SkincareAddiction
+- singularity
+- nutrition
+- askscience
+- guncontrol
+- caloricrestriction
+- IAmA
+- sens
+- answers
+---

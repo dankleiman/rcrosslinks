@@ -1,0 +1,5 @@
+---
+title: edex
+crosslinks:
+- EliteDangerous
+---

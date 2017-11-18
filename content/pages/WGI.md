@@ -1,0 +1,5 @@
+---
+title: WGI
+crosslinks:
+- Heavymind
+---

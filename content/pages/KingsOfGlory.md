@@ -1,0 +1,5 @@
+---
+title: KingsOfGlory
+crosslinks:
+- KingGloryMOBA
+---

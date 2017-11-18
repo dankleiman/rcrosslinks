@@ -1,0 +1,5 @@
+---
+title: ClimbingPhotography
+crosslinks:
+- CampingandHiking
+---

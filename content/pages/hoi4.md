@@ -1,0 +1,24 @@
+---
+title: hoi4
+crosslinks:
+- paradoxplaza
+- hoi4modding
+- AskHistorians
+- Kaiserreich
+- eu4
+- vexillology
+- livven
+- HOI4Mods
+- xkcd
+- AskReddit
+- DemoHOI4
+- CrusaderKings
+- fingols
+- The_Donald
+- HeartsOfSteel
+- iamverysmart
+- IcelandBestlandFC
+- Assyria
+- CKCrusaders
+- JTA
+---

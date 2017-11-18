@@ -1,0 +1,5 @@
+---
+title: gypsy
+crosslinks:
+- autotldr
+---

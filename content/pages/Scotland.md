@@ -1,0 +1,24 @@
+---
+title: Scotland
+crosslinks:
+- ukpolitics
+- glasgow
+- unitedkingdom
+- OutdoorScotland
+- xkcd
+- ScottishPeopleTwitter
+- europe
+- place
+- ireland
+- worldnews
+- Cupar
+- AskEurope
+- funny
+- ShitAmericansSay
+- pics
+- IncelTears
+- thefinalclean
+- ScottishMusic
+- The_Donald
+- Wales
+---

@@ -1,0 +1,24 @@
+---
+title: weekendgunnit
+crosslinks:
+- guns
+- gundeals
+- ar15
+- livven
+- PETA
+- autotldr
+- The_Donald
+- aww
+- Firearms
+- AskReddit
+- MemeEconomy
+- AskAnAmerican
+- GunPorn
+- hmmm
+- Austin
+- GunsAreCool
+- OldSchoolCool
+- MilitaryPorn
+- FullMetalGunnit
+- interestingasfuck
+---

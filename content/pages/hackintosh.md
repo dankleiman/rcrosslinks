@@ -1,0 +1,24 @@
+---
+title: hackintosh
+crosslinks:
+- hackintosh_ja
+- hardwareswap
+- mac
+- smooze
+- apple
+- thinkpad
+- osx
+- pcmasterrace
+- unixporn
+- autotldr
+- AMDhackintosh
+- unRAID
+- MacOS
+- VintageApple
+- ultrawidemasterrace
+- 2uzedef
+- wallpapers
+- macpro
+- wallpaper
+- overclocking
+---

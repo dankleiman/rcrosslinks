@@ -1,0 +1,5 @@
+---
+title: AustralianCattleDogs
+crosslinks:
+- funny
+---

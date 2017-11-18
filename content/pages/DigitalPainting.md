@@ -1,0 +1,24 @@
+---
+title: DigitalPainting
+crosslinks:
+- livven
+- ArtCrit
+- wacom
+- redditgetsdrawn
+- itookapicture
+- PixelArt
+- IDAP
+- learnart
+- themartian
+- Bossfight
+- iamverysmart
+- ArtFundamentals
+- fanart
+- ArtBuddy
+- Overwatch
+- stylus
+- MattePainting
+- GarterBelts
+- sailormoon
+- alternativeart
+---

@@ -1,0 +1,24 @@
+---
+title: spain
+crosslinks:
+- autotldr
+- podemos
+- Barcelona
+- europe
+- Tarragona
+- catalunya
+- zeronet
+- Madrid
+- de
+- WikiLeaks
+- ShitAmericansSay
+- hapas
+- ireland
+- es
+- explainlikeimfive
+- xkcd
+- catalonia
+- freefolk
+- place
+- portugal
+---

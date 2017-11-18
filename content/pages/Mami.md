@@ -1,0 +1,5 @@
+---
+title: Mami
+crosslinks:
+- newsokunomoral
+---

@@ -1,0 +1,24 @@
+---
+title: drunk
+crosslinks:
+- livven
+- AMAAggregator
+- cripplingalcoholism
+- stopdrinking
+- shitpost
+- xkcd
+- gatekeeping
+- LifeProTips
+- autotldr
+- scifi
+- turkishmidgetgayporn
+- announcements
+- videos
+- cocktails
+- The_Donald
+- me_irl
+- RoastMe
+- gifs
+- cats
+- Guitar
+---

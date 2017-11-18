@@ -1,0 +1,5 @@
+---
+title: gypsyjazz
+crosslinks:
+- jazzguitar
+---

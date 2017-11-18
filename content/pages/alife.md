@@ -1,0 +1,5 @@
+---
+title: alife
+crosslinks:
+- artificial
+---

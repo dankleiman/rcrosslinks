@@ -1,0 +1,24 @@
+---
+title: explainlikeIAmA
+crosslinks:
+- ASOUE
+- AMAAggregator
+- copypasta
+- Stormlight_Archive
+- EverymanHYBRID
+- unexpectedoverwatch
+- AskReddit
+- Regent_of_Stories
+- 40kLore
+- PrequelMemes
+- communism101
+- dailyprogrammer
+- Ooer
+- ExplainLikeImCalvin
+- remindme
+- Byeka
+- titlegore
+- popping
+- WithMyCousinErnesto
+- ethereum
+---

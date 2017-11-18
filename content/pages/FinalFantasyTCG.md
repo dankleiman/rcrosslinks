@@ -1,0 +1,5 @@
+---
+title: FinalFantasyTCG
+crosslinks:
+- FFTCGMarketplace
+---

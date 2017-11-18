@@ -1,0 +1,5 @@
+---
+title: WaxPens
+crosslinks:
+- Waxpen
+---

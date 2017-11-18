@@ -1,0 +1,24 @@
+---
+title: facebookwins
+crosslinks:
+- shitpost
+- funny
+- australia
+- lifeprotip
+- Jokes
+- NotKenM
+- MensRights
+- KarmaCourt
+- UniquePostsOnly
+- DeathtoAmeriKKKa
+- TrashyText
+- Bandnames
+- sadcringe
+- poopstories
+- NotHowDrugsWork
+- suspiciousquotes
+- fidosarchive
+- meirl
+- PrequelMemes
+- houston
+---

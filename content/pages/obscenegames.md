@@ -1,0 +1,5 @@
+---
+title: obscenegames
+crosslinks:
+- EroticGames
+---

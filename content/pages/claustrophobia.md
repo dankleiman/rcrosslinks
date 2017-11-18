@@ -1,0 +1,5 @@
+---
+title: claustrophobia
+crosslinks:
+- geocaching
+---

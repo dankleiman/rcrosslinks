@@ -1,0 +1,5 @@
+---
+title: SenecaLakeNY
+crosslinks:
+- FingerLakes
+---

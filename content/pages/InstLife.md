@@ -1,0 +1,5 @@
+---
+title: InstLife
+crosslinks:
+- AndroidGaming
+---

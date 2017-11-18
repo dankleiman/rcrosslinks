@@ -1,0 +1,5 @@
+---
+title: EroticArt
+crosslinks:
+- nsfw
+---

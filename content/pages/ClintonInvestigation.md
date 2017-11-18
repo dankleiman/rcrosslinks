@@ -1,0 +1,5 @@
+---
+title: ClintonInvestigation
+crosslinks:
+- reddit
+---

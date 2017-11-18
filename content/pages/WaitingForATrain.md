@@ -1,0 +1,5 @@
+---
+title: WaitingForATrain
+crosslinks:
+- lonely
+---

@@ -1,0 +1,24 @@
+---
+title: instantbarbarians
+crosslinks:
+- livven
+- gifs
+- BetterEveryLoop
+- WhyWereTheyFilming
+- killthecameraman
+- videos
+- nevertellmetheodds
+- FitAndNatural
+- funny
+- Broscience
+- sports
+- reddCoin
+- instant_regret
+- theydidntdothemath
+- gatekeeping
+- noisygifs
+- titleporn
+- NegativeWithGold
+- Frisson
+- therewasanattempt
+---

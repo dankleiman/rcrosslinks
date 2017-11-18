@@ -1,0 +1,24 @@
+---
+title: czech
+crosslinks:
+- Prague
+- europe
+- mindcrack
+- place
+- WorldDailyTops
+- cesky
+- texas
+- unitedkingdom
+- autotldr
+- cirkeltrek
+- OutOfTheLoop
+- poland
+- hungary
+- redditrequest
+- interestingasfuck
+- placecz
+- placeAtlas
+- languagelearning
+- nashville
+- Drama
+---

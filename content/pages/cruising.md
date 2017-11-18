@@ -1,0 +1,5 @@
+---
+title: cruising
+crosslinks:
+- Cruise
+---

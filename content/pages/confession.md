@@ -1,0 +1,24 @@
+---
+title: confession
+crosslinks:
+- AskReddit
+- MGTOW
+- Drama
+- IAmA
+- SuicideWatch
+- jesuschristreddit
+- hapas
+- relationships
+- childfree
+- NoFap
+- offmychest
+- legaladvice
+- ShitRedditSays
+- confessions
+- changemyview
+- sex
+- pics
+- AskLEO
+- getdisciplined
+- niceguys
+---

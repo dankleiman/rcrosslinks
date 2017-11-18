@@ -1,0 +1,5 @@
+---
+title: sauron
+crosslinks:
+- xkcd
+---

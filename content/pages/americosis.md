@@ -1,0 +1,5 @@
+---
+title: americosis
+crosslinks:
+- nosleep
+---

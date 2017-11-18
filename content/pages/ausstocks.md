@@ -1,0 +1,5 @@
+---
+title: ausstocks
+crosslinks:
+- ASX
+---

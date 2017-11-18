@@ -1,0 +1,5 @@
+---
+title: CYBERPOWERPC
+crosslinks:
+- mildlyinfuriating
+---

@@ -1,0 +1,21 @@
+---
+title: AmiiboCanada
+crosslinks:
+- NintendoSwitch
+- NintendoSwapCanada
+- nintendo
+- VideoGameDealsCanada
+- AnimeFigures
+- GamePreordersCanada
+- zelda
+- 3DS
+- 2qs2crq
+- Games
+- 3DSdeals
+- OkCupid
+- nesclassicmods
+- gamecollecting
+- NoStupidQuestions
+- hardwareswap
+- nintendocanada
+---

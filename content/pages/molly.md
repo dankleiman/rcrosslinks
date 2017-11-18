@@ -1,0 +1,5 @@
+---
+title: molly
+crosslinks:
+- MDMA
+---

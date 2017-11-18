@@ -1,0 +1,5 @@
+---
+title: ImaginaryOoo
+crosslinks:
+- ImaginaryFallout
+---

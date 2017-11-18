@@ -1,0 +1,5 @@
+---
+title: williamblake
+crosslinks:
+- conspiracy
+---

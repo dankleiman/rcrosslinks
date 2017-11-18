@@ -1,0 +1,5 @@
+---
+title: shnokums
+crosslinks:
+- rant
+---

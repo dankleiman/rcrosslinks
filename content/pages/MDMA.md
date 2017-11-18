@@ -1,0 +1,24 @@
+---
+title: MDMA
+crosslinks:
+- gloving
+- Drugs
+- DrugNerds
+- ReagentTesting
+- Borax
+- livven
+- mdmatherapy
+- LSD
+- DNMUK
+- DrugsOver30
+- DarkNetMarkets
+- drugscirclejerk
+- DrugStashes
+- drugnerds
+- AskReddit
+- Psychonaut
+- Stims
+- microdosing
+- happy
+- aww
+---

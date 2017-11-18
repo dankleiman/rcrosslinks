@@ -1,0 +1,5 @@
+---
+title: DestinyDadJokes
+crosslinks:
+- DestinyTheGame
+---

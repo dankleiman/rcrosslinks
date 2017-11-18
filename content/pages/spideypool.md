@@ -1,0 +1,5 @@
+---
+title: spideypool
+crosslinks:
+- marvelfans
+---

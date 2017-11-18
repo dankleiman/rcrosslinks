@@ -1,0 +1,24 @@
+---
+title: RobinHood
+crosslinks:
+- investing
+- stocks
+- pennystocks
+- personalfinance
+- livven
+- autotldr
+- tradeXIV
+- AMD_Stock
+- MemeEconomy
+- acorns
+- xkcd
+- options
+- churning
+- Ford
+- littlejohn
+- InvestorsHangout
+- financialindependence
+- socks
+- weedstocks
+- SecurityAnalysis
+---

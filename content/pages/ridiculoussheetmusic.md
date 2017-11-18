@@ -1,0 +1,5 @@
+---
+title: ridiculoussheetmusic
+crosslinks:
+- classicalmusic
+---

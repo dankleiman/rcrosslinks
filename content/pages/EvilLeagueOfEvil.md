@@ -1,0 +1,24 @@
+---
+title: EvilLeagueOfEvil
+crosslinks:
+- nfl
+- Patriots
+- GreenBayPackers
+- CoalitionAgainstEvil
+- NYGiants
+- Texans
+- 49ers
+- CHIBears
+- steelers
+- livven
+- oaklandraiders
+- EvilerLeagueOfEvil
+- minnesotavikings
+- CatTeamBrotherhood
+- Jaguars
+- Saints
+- GoodLeagueofGood
+- ungulateteams
+- miamidolphins
+- falcons
+---

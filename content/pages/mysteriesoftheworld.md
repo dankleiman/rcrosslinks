@@ -1,0 +1,5 @@
+---
+title: mysteriesoftheworld
+crosslinks:
+- codes
+---

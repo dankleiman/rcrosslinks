@@ -1,0 +1,5 @@
+---
+title: steeldivision
+crosslinks:
+- wargame
+---

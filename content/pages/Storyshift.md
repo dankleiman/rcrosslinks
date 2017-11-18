@@ -1,0 +1,5 @@
+---
+title: Storyshift
+crosslinks:
+- Undertale
+---

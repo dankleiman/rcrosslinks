@@ -1,0 +1,24 @@
+---
+title: woahdude
+crosslinks:
+- pics
+- marijuanaenthusiasts
+- xkcd
+- nocontext
+- videos
+- AskReddit
+- askscience
+- shitpost
+- NatureIsFuckingLit
+- reallifedoodles
+- Simulated
+- CameraShutterSync
+- 4chan
+- Art
+- LSD
+- funny
+- explainlikeimfive
+- theydidthemath
+- chemicalreactiongifs
+- restofthefuckingowl
+---

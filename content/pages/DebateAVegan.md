@@ -1,0 +1,24 @@
+---
+title: DebateAVegan
+crosslinks:
+- vegan
+- keto
+- askphilosophy
+- vegancirclejerk
+- veganrecipes
+- veganfitness
+- wildanimalsuffering
+- vegetarian
+- Scholar
+- Vulpyne
+- conspiracy
+- antinatalism
+- misanthropy
+- environment
+- CringeAnarchy
+- veganketo
+- nocontext
+- explainlikeimfive
+- food
+- veganscience
+---

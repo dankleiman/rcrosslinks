@@ -1,0 +1,5 @@
+---
+title: cooties
+crosslinks:
+- autotldr
+---

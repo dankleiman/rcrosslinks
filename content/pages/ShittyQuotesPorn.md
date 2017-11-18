@@ -1,0 +1,5 @@
+---
+title: ShittyQuotesPorn
+crosslinks:
+- antinatalism
+---

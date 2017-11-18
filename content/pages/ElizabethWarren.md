@@ -1,0 +1,5 @@
+---
+title: ElizabethWarren
+crosslinks:
+- WayOfTheBern
+---

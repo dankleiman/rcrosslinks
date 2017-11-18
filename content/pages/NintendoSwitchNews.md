@@ -1,0 +1,5 @@
+---
+title: NintendoSwitchNews
+crosslinks:
+- Games
+---

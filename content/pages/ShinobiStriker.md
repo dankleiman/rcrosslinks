@@ -1,0 +1,5 @@
+---
+title: ShinobiStriker
+crosslinks:
+- NarutoNinjaStorm
+---

@@ -1,0 +1,5 @@
+---
+title: Technostism
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: istp
+crosslinks:
+- infp
+- enfj
+- personalfinance
+- financialindependence
+- livven
+- Anarcho_Capitalism
+- infj
+- dadjokes
+- NoFap
+- CanadianForces
+- frisson
+- JungianTypology
+- ENFP
+- gunz
+- IWantToLearn
+- AwesomeCarMods
+- AskMen
+- '2013'
+- intj
+- hsp
+---

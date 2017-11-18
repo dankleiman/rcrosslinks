@@ -1,0 +1,5 @@
+---
+title: OldSkaters
+crosslinks:
+- NewSkaters
+---

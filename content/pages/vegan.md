@@ -1,0 +1,24 @@
+---
+title: vegan
+crosslinks:
+- vegancirclejerk
+- veganfitness
+- veganrecipes
+- PlantBasedDiet
+- autotldr
+- veganketo
+- vegetarian
+- AskReddit
+- videos
+- likeus
+- VeganFoodPorn
+- IAmA
+- aww
+- vegangifrecipes
+- plantstho
+- todayilearned
+- gifs
+- nutrition
+- AskPhilosophyFAQ
+- funny
+---

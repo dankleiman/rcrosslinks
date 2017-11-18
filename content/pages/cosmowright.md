@@ -1,0 +1,5 @@
+---
+title: cosmowright
+crosslinks:
+- SamandTolki
+---

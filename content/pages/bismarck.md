@@ -1,0 +1,5 @@
+---
+title: bismarck
+crosslinks:
+- BismarckMandan
+---

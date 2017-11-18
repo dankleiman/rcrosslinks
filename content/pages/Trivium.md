@@ -1,0 +1,5 @@
+---
+title: Trivium
+crosslinks:
+- avengedsevenfold
+---

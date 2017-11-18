@@ -1,0 +1,5 @@
+---
+title: FreeSteam
+crosslinks:
+- FreeSteamGames
+---

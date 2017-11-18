@@ -1,0 +1,24 @@
+---
+title: CoolGamesInc
+crosslinks:
+- DankMemeArchive
+- gifs
+- PolygonFans
+- livven
+- AskReddit
+- me_irl
+- OutOfTheLoop
+- funny
+- gaming
+- TheAdventureZone
+- The_Lodge
+- KotakuInAction
+- xkcd
+- LifeProTips
+- mildlyinteresting
+- PUBATTLEGROUNDS
+- NintendoSwitch
+- CrazyIdeas
+- VirtualCosplay
+- videos
+---

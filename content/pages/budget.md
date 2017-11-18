@@ -1,0 +1,5 @@
+---
+title: budget
+crosslinks:
+- Frugal
+---

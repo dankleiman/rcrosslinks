@@ -1,0 +1,5 @@
+---
+title: cutit
+crosslinks:
+- gainit
+---

@@ -1,0 +1,5 @@
+---
+title: CringeWorthy
+crosslinks:
+- autotldr
+---

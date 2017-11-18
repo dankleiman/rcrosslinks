@@ -1,0 +1,5 @@
+---
+title: animepantiesIRL
+crosslinks:
+- usedpanties
+---

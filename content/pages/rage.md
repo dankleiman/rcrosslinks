@@ -1,0 +1,24 @@
+---
+title: rage
+crosslinks:
+- videos
+- pics
+- livven
+- JusticeServed
+- technology
+- watchpeopledie
+- movies
+- whatisthisthing
+- vegan
+- 4chan
+- AskReddit
+- DataHoarder
+- WTF
+- autotldr
+- FloridaMan
+- running
+- copypasta
+- oculus
+- politics
+- funny
+---

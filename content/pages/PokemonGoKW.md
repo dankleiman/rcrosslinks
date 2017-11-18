@@ -1,0 +1,5 @@
+---
+title: PokemonGoKW
+crosslinks:
+- TheSilphRoad
+---

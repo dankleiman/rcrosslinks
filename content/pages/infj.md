@@ -1,0 +1,24 @@
+---
+title: infj
+crosslinks:
+- entp
+- intj
+- infp
+- INTP
+- misophonia
+- simpleliving
+- leaves
+- explainlikeimfive
+- hsp
+- Meditation
+- UnresolvedMysteries
+- introvert
+- digitalnomad
+- BDSMcommunity
+- CannotWatchScottsTots
+- ExNoContact
+- HistoryPorn
+- astrology
+- exmuslim
+- enfj
+---

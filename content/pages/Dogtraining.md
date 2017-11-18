@@ -1,0 +1,24 @@
+---
+title: Dogtraining
+crosslinks:
+- puppy101
+- dogs
+- reactivedogs
+- RunningWithDogs
+- AskVet
+- legaladvice
+- Zoomies
+- CBD
+- BelgianMalinois
+- doggos
+- morse
+- rawpetfood
+- shutupandtakemymoney
+- mildlyinfuriating
+- metric_units
+- thisismylifenow
+- GifsofBulldogs
+- Pets
+- pics
+- puppies
+---

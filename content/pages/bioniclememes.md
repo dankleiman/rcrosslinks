@@ -1,0 +1,5 @@
+---
+title: bioniclememes
+crosslinks:
+- DeepFriedMemes
+---

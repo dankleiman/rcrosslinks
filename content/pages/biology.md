@@ -1,0 +1,24 @@
+---
+title: biology
+crosslinks:
+- askscience
+- xkcd
+- science
+- ecology
+- Biochemistry
+- chemistry
+- fieldrecording
+- NatureIsFuckingLit
+- EarthPlanetZero
+- MuseumOfReddit
+- gradadmissions
+- AskDocs
+- gatekeeping
+- AskPhilosophyFAQ
+- nutrition
+- shitredditsays
+- Jokes
+- drugs
+- medicine
+- premed
+---

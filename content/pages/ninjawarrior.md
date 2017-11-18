@@ -1,0 +1,5 @@
+---
+title: ninjawarrior
+crosslinks:
+- autotldr
+---

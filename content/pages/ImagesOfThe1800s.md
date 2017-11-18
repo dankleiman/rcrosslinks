@@ -1,0 +1,24 @@
+---
+title: ImagesOfThe1800s
+crosslinks:
+- OldSchoolCool
+- coins
+- Art
+- imagesofnetwork
+- pics
+- HistoryPorn
+- HistoricFashionPorn
+- u_2BrkOnThru
+- MapPorn
+- Lost_Architecture
+- mildlyinteresting
+- ArtPorn
+- oldmaps
+- Colorization
+- TheWayWeWere
+- papertowns
+- ThylacineScience
+- europe
+- ArtefactPorn
+- CoinEyeCandy
+---

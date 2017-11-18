@@ -1,0 +1,5 @@
+---
+title: JustNews
+crosslinks:
+- autotldr
+---

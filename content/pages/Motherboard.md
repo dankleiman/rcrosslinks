@@ -1,0 +1,5 @@
+---
+title: Motherboard
+crosslinks:
+- autotldr
+---

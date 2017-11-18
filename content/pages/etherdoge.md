@@ -1,0 +1,5 @@
+---
+title: etherdoge
+crosslinks:
+- dogecoin
+---

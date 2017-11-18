@@ -1,0 +1,24 @@
+---
+title: Spanish
+crosslinks:
+- argentina
+- ENGLISH
+- languagelearning
+- language_exchange
+- learnspanish
+- Spanishhelp
+- mexico
+- linguistics
+- SpanishNoSleep
+- Mexican_Spanish
+- ithaca
+- etymology
+- nottheonion
+- grammar
+- Polska
+- espanol
+- AskReddit
+- translator
+- IWantOut
+- Anki
+---

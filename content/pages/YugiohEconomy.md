@@ -1,0 +1,5 @@
+---
+title: YugiohEconomy
+crosslinks:
+- Serendipity
+---

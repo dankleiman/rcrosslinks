@@ -1,0 +1,5 @@
+---
+title: planetaryannihilation
+crosslinks:
+- competitivegaming
+---

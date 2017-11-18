@@ -1,0 +1,24 @@
+---
+title: livesound
+crosslinks:
+- audioengineering
+- techtheatre
+- stagelighting
+- explainlikeimfive
+- mercedes
+- HomeNetworking
+- projectors
+- wearethelightmakers
+- xkcd
+- Music
+- personalfinance
+- guitarpedals
+- VIDEOENGINEERING
+- ProRevenge
+- amateurradio
+- maker
+- RTLSDR
+- metric_units
+- Broadcasting
+- movies
+---

@@ -1,0 +1,5 @@
+---
+title: Ethan
+crosslinks:
+- Ryan
+---

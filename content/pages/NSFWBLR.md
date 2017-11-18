@@ -1,0 +1,5 @@
+---
+title: NSFWBLR
+crosslinks:
+- NSFWFunny
+---

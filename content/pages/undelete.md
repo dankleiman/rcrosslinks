@@ -1,0 +1,24 @@
+---
+title: undelete
+crosslinks:
+- Showerthoughts
+- funny
+- mildlyinteresting
+- LifeProTips
+- gifs
+- todayilearned
+- politics
+- science
+- aww
+- gaming
+- AdviceAnimals
+- BlackPeopleTwitter
+- movies
+- WTF
+- explainlikeimfive
+- pics
+- trees
+- nottheonion
+- OldSchoolCool
+- news
+---

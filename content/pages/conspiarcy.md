@@ -1,0 +1,5 @@
+---
+title: conspiarcy
+crosslinks:
+- PedoGate
+---

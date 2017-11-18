@@ -1,0 +1,24 @@
+---
+title: AfterEffects
+crosslinks:
+- livven
+- animation
+- VideoEditing
+- HighQualityGifs
+- MotionDesign
+- graphic_design
+- Cinema4D
+- self
+- vfx
+- videos
+- Suomi
+- anythingmayhappen
+- motiongraphics
+- cinematography
+- GifTournament
+- VideoGameEditing
+- editors
+- learnprogramming
+- LV426
+- woahdude
+---

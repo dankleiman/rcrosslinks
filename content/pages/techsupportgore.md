@@ -1,0 +1,24 @@
+---
+title: techsupportgore
+crosslinks:
+- xkcd
+- techsupportmacgyver
+- pcmasterrace
+- talesfromtechsupport
+- livven
+- AyyMD
+- electricians
+- OutOfTheLoop
+- softwaregore
+- Skookum
+- techsupport
+- itsaunixsystem
+- DiWHY
+- ShittyTechSupport
+- WTF
+- iiiiiiitttttttttttt
+- AskReddit
+- VXJunkies
+- androidcirclejerk
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: IdiotsFightingThings
+crosslinks:
+- livven
+- WhyWereTheyFilming
+- videos
+- Whatcouldgowrong
+- whitepeoplegifs
+- IdiotsNearlyDying
+- ThingsFightingIdiots
+- noisygifs
+- whatcouldgoright
+- AskReddit
+- gifs
+- funny
+- pettyrevenge
+- BetterEveryLoop
+- WinStupidPrizes
+- xkcd
+- reallifedoodles
+- Altra
+- sports
+- gatekeeping
+---

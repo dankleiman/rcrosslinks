@@ -1,0 +1,5 @@
+---
+title: OREGONIANauto
+crosslinks:
+- Monsanto
+---

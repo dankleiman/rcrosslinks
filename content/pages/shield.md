@@ -1,0 +1,24 @@
+---
+title: shield
+crosslinks:
+- marvelstudios
+- shieldsynopsis
+- livven
+- autotldr
+- arrow
+- IAmA
+- xkcd
+- Marvel
+- movies
+- modnews
+- AskReddit
+- '2013'
+- television
+- FlashTV
+- titlegore
+- TopMindsOfReddit
+- startrek
+- flashtv
+- AskScienceFiction
+- alternativeart
+---

@@ -1,0 +1,5 @@
+---
+title: EntitledToPussy
+crosslinks:
+- Incels
+---

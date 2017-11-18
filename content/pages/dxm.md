@@ -1,0 +1,21 @@
+---
+title: dxm
+crosslinks:
+- Drugs
+- drugscirclejerk
+- Shoplifting
+- Psychonaut
+- kratom
+- deathgrips
+- Serendipity
+- DrugNerds
+- DrugsOver30
+- DPH
+- researchchemicals
+- trees
+- pics
+- DrugArt
+- LSD
+- 80sdesign
+- tooktoomuch
+---

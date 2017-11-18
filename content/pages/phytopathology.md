@@ -1,0 +1,5 @@
+---
+title: phytopathology
+crosslinks:
+- HotPeppers
+---

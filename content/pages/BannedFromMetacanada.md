@@ -1,0 +1,5 @@
+---
+title: BannedFromMetacanada
+crosslinks:
+- metacanada
+---

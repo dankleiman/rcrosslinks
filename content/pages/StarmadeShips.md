@@ -1,0 +1,5 @@
+---
+title: StarmadeShips
+crosslinks:
+- livven
+---

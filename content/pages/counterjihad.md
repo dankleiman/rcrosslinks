@@ -1,0 +1,5 @@
+---
+title: counterjihad
+crosslinks:
+- glasgow
+---

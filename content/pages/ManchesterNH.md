@@ -1,0 +1,5 @@
+---
+title: ManchesterNH
+crosslinks:
+- newhampshire
+---

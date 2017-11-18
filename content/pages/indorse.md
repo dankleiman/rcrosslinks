@@ -1,0 +1,5 @@
+---
+title: indorse
+crosslinks:
+- AMAAggregator
+---

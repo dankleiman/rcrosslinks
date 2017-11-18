@@ -1,0 +1,24 @@
+---
+title: TrueSTL
+crosslinks:
+- teslore
+- skyrim
+- Morrowind
+- ElderScrolls
+- gayfortodd
+- elderscrollsonline
+- shittyTESlore
+- place
+- PraiseAlmsivi
+- nocontext
+- Games
+- Gamingcirclejerk
+- NattyComics
+- infostarwars
+- cummingonfigurines
+- ChargeYourPhone
+- ElderKings
+- REEEEEEEEEE
+- hmmm
+- thespoonyexperiment
+---

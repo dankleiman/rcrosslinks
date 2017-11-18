@@ -1,0 +1,5 @@
+---
+title: Lille
+crosslinks:
+- france
+---

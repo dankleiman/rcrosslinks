@@ -1,0 +1,24 @@
+---
+title: LSD
+crosslinks:
+- livven
+- Drugs
+- DarkNetMarkets
+- Psychonaut
+- microdosing
+- ShrugLifeSyndicate
+- replications
+- drugscirclejerk
+- woahdude
+- Currentlytripping
+- Art
+- autotldr
+- 1P_LSD
+- gratefuldead
+- shrooms
+- DMT
+- place
+- RCSources
+- trees
+- AskReddit
+---

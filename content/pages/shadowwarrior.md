@@ -1,0 +1,5 @@
+---
+title: shadowwarrior
+crosslinks:
+- Piracy
+---

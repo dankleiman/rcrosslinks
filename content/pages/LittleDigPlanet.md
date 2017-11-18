@@ -1,0 +1,5 @@
+---
+title: LittleDigPlanet
+crosslinks:
+- Minecraft
+---

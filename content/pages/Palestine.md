@@ -1,0 +1,24 @@
+---
+title: Palestine
+crosslinks:
+- autotldr
+- IsraelPalestine
+- Israel
+- place
+- ukraine
+- TheFarLeftSide
+- ireland
+- worldnews
+- humanrights
+- placehearts
+- ipcirclejerk
+- conspiracy
+- politics
+- security
+- pics
+- Ramallah
+- Doner
+- kawaii
+- racism
+- canada
+---

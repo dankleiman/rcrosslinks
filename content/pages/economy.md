@@ -1,0 +1,24 @@
+---
+title: economy
+crosslinks:
+- autotldr
+- worldpolitics
+- Missing411
+- Economics
+- Anarcho_Capitalism
+- worldnews
+- politics
+- finance
+- The_Donald
+- xkcd
+- ShitPoliticsSays
+- personalfinance
+- germany
+- EverythingScience
+- environment
+- BrasilOnReddit
+- technology
+- redacted
+- Shitstatistssay
+- france
+---

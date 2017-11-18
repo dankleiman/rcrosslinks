@@ -1,0 +1,5 @@
+---
+title: PureYC
+crosslinks:
+- yiffcomics
+---

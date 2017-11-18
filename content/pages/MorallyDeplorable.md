@@ -1,0 +1,5 @@
+---
+title: MorallyDeplorable
+crosslinks:
+- autotldr
+---

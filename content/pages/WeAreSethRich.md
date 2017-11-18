@@ -1,0 +1,5 @@
+---
+title: WeAreSethRich
+crosslinks:
+- autotldr
+---

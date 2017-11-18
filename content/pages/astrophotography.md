@@ -1,0 +1,24 @@
+---
+title: astrophotography
+crosslinks:
+- livven
+- solareclipse
+- Spaceonly
+- Astronomy
+- LandscapeAstro
+- Alternativefacts
+- space
+- telescopes
+- spaceporn
+- autotldr
+- kpopfap
+- pics
+- tiara
+- UFOs
+- askscience
+- StarTools
+- androidafterlife
+- fujix
+- FTAIP
+- masseffect
+---

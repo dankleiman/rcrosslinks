@@ -1,0 +1,5 @@
+---
+title: quantfinance
+crosslinks:
+- xkcd
+---

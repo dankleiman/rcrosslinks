@@ -1,0 +1,24 @@
+---
+title: adultery
+crosslinks:
+- naughtyfromneglect
+- survivinginfidelity
+- DeadBedrooms
+- R4PWDB
+- Drama
+- gonewildstories
+- sugarlifestyleforum
+- DadsGoneWild
+- xkcd
+- Divorce
+- AdulteryPartners
+- confessions
+- OnlineAffairs
+- metric_units
+- MarriedandDating
+- RandomActsOfMuffDive
+- MGTOW
+- roomyouin
+- gifs
+- AsianMasculinity
+---

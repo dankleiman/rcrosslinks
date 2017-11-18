@@ -1,0 +1,24 @@
+---
+title: Infographics
+crosslinks:
+- coolguides
+- atheism
+- theydidthemath
+- dataisugly
+- PostPoMo
+- xkcd
+- fasting
+- politics
+- pyonyang
+- MapsWithoutNZ
+- conlangs
+- StarWars
+- HailCorporate
+- math
+- content_marketing
+- gonwild
+- thesimpsons
+- Hawaii
+- scienceofdeduction
+- france
+---

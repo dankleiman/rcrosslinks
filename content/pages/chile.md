@@ -1,0 +1,24 @@
+---
+title: chile
+crosslinks:
+- argentina
+- worldnews
+- place
+- AskReddit
+- todayilearned
+- gatekeeping
+- Santiago
+- notArgentina
+- videos
+- BestOfTWT
+- redditores
+- lewronggeneration
+- aww
+- mexico
+- OutOfTheLoop
+- ChileCringe
+- livven
+- askreddit
+- texas
+- Fallout
+---

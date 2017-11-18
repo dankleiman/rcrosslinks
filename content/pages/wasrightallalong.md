@@ -1,0 +1,5 @@
+---
+title: wasrightallalong
+crosslinks:
+- interestingasfuck
+---

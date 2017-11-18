@@ -1,0 +1,24 @@
+---
+title: Fuckthealtright
+crosslinks:
+- The_Donald
+- autotldr
+- politics
+- EnoughTrumpSpam
+- altright
+- ShitPoliticsSays
+- Physical_Removal
+- uncensorednews
+- PoliticalHumor
+- socialism
+- Anarchism
+- WeWuzSuperior
+- conspiracy
+- SocialistRA
+- news
+- onguardforthee
+- livven
+- Drama
+- AsABlackMan
+- CringeAnarchy
+---

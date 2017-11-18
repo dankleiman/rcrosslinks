@@ -1,0 +1,5 @@
+---
+title: typedesign
+crosslinks:
+- typography
+---

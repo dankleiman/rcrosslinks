@@ -1,0 +1,5 @@
+---
+title: CardWarsTCG
+crosslinks:
+- CardWars
+---

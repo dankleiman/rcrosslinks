@@ -1,0 +1,23 @@
+---
+title: GamersBeingBros
+crosslinks:
+- Overwatch
+- livven
+- gaming
+- titanfall
+- Paladins
+- GamersBeingJerks
+- science
+- overwatchcirclejerk
+- PUBATTLEGROUNDS
+- AyyMD
+- Warthunder
+- HeroesandGenerals
+- cemu
+- fakehistoryporn
+- GamerPals
+- niceguys
+- tf2
+- gatekeeping
+- PrequelMemes
+---

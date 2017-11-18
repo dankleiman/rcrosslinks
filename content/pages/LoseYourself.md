@@ -1,0 +1,5 @@
+---
+title: LoseYourself
+crosslinks:
+- watchpeopledie
+---

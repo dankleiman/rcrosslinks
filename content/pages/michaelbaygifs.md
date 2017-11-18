@@ -1,0 +1,24 @@
+---
+title: michaelbaygifs
+crosslinks:
+- livven
+- funny
+- PeopleFuckingDying
+- WTF
+- CatastrophicFailure
+- videos
+- gifextra
+- interestingasfuck
+- xkcd
+- shockwaveporn
+- GreenDawn
+- MyPeopleNeedMe
+- killthecameraman
+- nononoNOOOOOOOOOOOOOO
+- gatekeeping
+- gifs
+- guywithrealfacts
+- theocho
+- holdmycosmo
+- ProCSS
+---

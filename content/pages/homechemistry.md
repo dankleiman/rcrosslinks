@@ -1,0 +1,5 @@
+---
+title: homechemistry
+crosslinks:
+- chemistry
+---

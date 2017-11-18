@@ -1,0 +1,5 @@
+---
+title: TripleScreenPlus
+crosslinks:
+- multiwall
+---

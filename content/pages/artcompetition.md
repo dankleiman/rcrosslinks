@@ -1,0 +1,5 @@
+---
+title: artcompetition
+crosslinks:
+- ContemporaryArt
+---

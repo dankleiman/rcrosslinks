@@ -1,0 +1,24 @@
+---
+title: Lovecraft
+crosslinks:
+- ImaginaryNecronomicon
+- horror
+- AskScienceFiction
+- Cthulhu
+- ImaginaryHorrors
+- RBI
+- EroticLovecraftianArt
+- TsundereSharks
+- xkcd
+- Vive
+- ArtefactPorn
+- writing
+- horrormanga
+- science
+- Archive81
+- vinyl
+- livven
+- gifs
+- HFY
+- nosleep
+---

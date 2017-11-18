@@ -1,0 +1,24 @@
+---
+title: avengedsevenfold
+crosslinks:
+- ShitTheFalseSay
+- Music
+- IAmA
+- Slipknot
+- Serendipity
+- UnpopularOpinions
+- Eminem
+- Dreamtheater
+- TaylorSwift
+- tf2
+- qotsa
+- Metal
+- UnresolvedMysteries
+- SongStems
+- Metallica
+- BetweenTheBuriedAndMe
+- AMA
+- metal
+- reddevils
+- autotldr
+---

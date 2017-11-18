@@ -1,0 +1,5 @@
+---
+title: scistuff
+crosslinks:
+- autotldr
+---

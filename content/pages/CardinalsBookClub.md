@@ -1,0 +1,5 @@
+---
+title: CardinalsBookClub
+crosslinks:
+- soccer
+---

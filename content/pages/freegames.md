@@ -1,0 +1,23 @@
+---
+title: freegames
+crosslinks:
+- gaming
+- AndroidGaming
+- IndieGame
+- autotldr
+- Amd
+- FreeGamesOnSteam
+- Loadout
+- steam_sharing
+- code4you
+- mnl
+- Charity
+- GameAndKeyGiveaways
+- pcmasterrace
+- ColorBlind
+- ProjectReality
+- mentalhealth
+- Unity3D
+- livven
+- GiftofGames
+---

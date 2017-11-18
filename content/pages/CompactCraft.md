@@ -1,0 +1,5 @@
+---
+title: CompactCraft
+crosslinks:
+- Minecraft
+---

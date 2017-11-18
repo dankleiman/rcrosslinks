@@ -1,0 +1,24 @@
+---
+title: wwiipics
+crosslinks:
+- GermanWW2photos
+- DestroyedTanks
+- BrasilOnReddit
+- WarshipPorn
+- WWIIplanes
+- HistoryPorn
+- YouSeeComrade
+- SovietHistory
+- TankPorn
+- HistoricalAircraft
+- SovietWW2Photos
+- WWII
+- translator
+- todayilearned
+- shittyaskhistory
+- notinteresting
+- td_uncensored
+- MapPorn
+- ancientrome
+- BattlePaintings
+---

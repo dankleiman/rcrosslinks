@@ -1,0 +1,24 @@
+---
+title: aves
+crosslinks:
+- electricdaisycarnival
+- BeyondWonderland
+- festivals
+- MDMA
+- EDM
+- electronicmusic
+- HardFestival
+- DrugNerds
+- trap
+- Serendipity
+- ericprydz
+- trance
+- GameTrade
+- UMF
+- nocturnalwonderland
+- EDCTickets
+- edc
+- psytrance
+- k3Jg7p
+- researchchemicals
+---

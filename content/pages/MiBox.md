@@ -1,0 +1,5 @@
+---
+title: MiBox
+crosslinks:
+- AndroidTV
+---

@@ -1,0 +1,24 @@
+---
+title: Aquariums
+crosslinks:
+- JosVermeulen
+- livven
+- PlantedTank
+- Cichlid
+- metric_units
+- Goldfish
+- AquaSwap
+- ReefTank
+- Jarrariums
+- xkcd
+- autotldr
+- shrimptank
+- aquarium
+- Fishing
+- NatureIsFuckingLit
+- AskReddit
+- Crayfish
+- woahdude
+- pics
+- DIY
+---

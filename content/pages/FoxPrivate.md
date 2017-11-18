@@ -1,0 +1,5 @@
+---
+title: FoxPrivate
+crosslinks:
+- CSGOHigh
+---

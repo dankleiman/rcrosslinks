@@ -1,0 +1,5 @@
+---
+title: americanpirateparty
+crosslinks:
+- autotldr
+---

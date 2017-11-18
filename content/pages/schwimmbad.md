@@ -1,0 +1,5 @@
+---
+title: schwimmbad
+crosslinks:
+- de
+---

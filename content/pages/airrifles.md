@@ -1,0 +1,5 @@
+---
+title: airrifles
+crosslinks:
+- airguns
+---

@@ -1,0 +1,5 @@
+---
+title: InfiniteStratos
+crosslinks:
+- Serendipity
+---

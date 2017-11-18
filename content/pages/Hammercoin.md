@@ -1,0 +1,5 @@
+---
+title: Hammercoin
+crosslinks:
+- Bitcoin
+---

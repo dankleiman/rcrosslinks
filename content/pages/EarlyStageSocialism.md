@@ -1,0 +1,5 @@
+---
+title: EarlyStageSocialism
+crosslinks:
+- LateStageCapitalism
+---

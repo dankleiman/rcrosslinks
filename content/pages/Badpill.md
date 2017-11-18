@@ -1,0 +1,5 @@
+---
+title: Badpill
+crosslinks:
+- conspiracy
+---

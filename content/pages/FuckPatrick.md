@@ -1,0 +1,5 @@
+---
+title: FuckPatrick
+crosslinks:
+- livven
+---

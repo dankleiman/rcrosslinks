@@ -1,0 +1,5 @@
+---
+title: FuckNavy
+crosslinks:
+- FuckTammy
+---

@@ -1,0 +1,5 @@
+---
+title: TravelTales
+crosslinks:
+- Egypt
+---

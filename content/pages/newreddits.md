@@ -1,0 +1,24 @@
+---
+title: newreddits
+crosslinks:
+- ShitEvilModsSay
+- newreddits_nsfw
+- CyonakLegion
+- The_Donald_Lol
+- autotldr
+- xkcd
+- INEEEEDIT
+- HateCrimeHoaxes
+- funny
+- Pikmin
+- TodayILuckedUp
+- PornStarletHQ
+- FFNBPS
+- SkyrimSkills_IRL
+- whatsmyimpression
+- AfterTheDoom
+- WritingPrompts
+- anythingmayhappen
+- pics
+- zeropointmodule
+---

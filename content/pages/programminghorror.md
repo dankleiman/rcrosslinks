@@ -1,0 +1,24 @@
+---
+title: programminghorror
+crosslinks:
+- xkcd
+- shittyprogramming
+- ProgrammerHumor
+- assholedesign
+- gamedev
+- softwaregore
+- programmerhumour
+- programming
+- SCP
+- PBSOD
+- cpp_questions
+- copypasta
+- wewanttypes
+- forwardsfromgrandma
+- TalesFromYourServer
+- livven
+- ExplainMyDownvotes
+- startups
+- MaliciousCompliance
+- roguelikedev
+---

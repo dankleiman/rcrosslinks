@@ -1,0 +1,5 @@
+---
+title: MINIXNEO
+crosslinks:
+- MINIXOEM
+---

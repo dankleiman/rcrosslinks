@@ -1,0 +1,24 @@
+---
+title: personalfinance
+crosslinks:
+- financialindependence
+- churning
+- SuicideWatch
+- worldnews
+- legaladvice
+- PersonalFinanceCanada
+- UKPersonalFinance
+- investing
+- EatCheapAndHealthy
+- AskReddit
+- ukpersonalfinance
+- AusFinance
+- askcarsales
+- relationships
+- YouShouldKnow
+- MealPrepSunday
+- Frugal
+- tax
+- Entrepreneur
+- eupersonalfinance
+---

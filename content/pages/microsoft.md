@@ -1,0 +1,24 @@
+---
+title: microsoft
+crosslinks:
+- Surface
+- Windows10
+- pcmasterrace
+- windows
+- mspaint
+- edge
+- '2014'
+- laptops
+- activedirectory
+- VisualStudio
+- MSPaint3D
+- StallmanWasRight
+- apple
+- xkcd
+- msp
+- tronscript
+- windowsphone
+- techsupport
+- tipofmytongue
+- V2X
+---

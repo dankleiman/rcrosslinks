@@ -1,0 +1,24 @@
+---
+title: heroesofthestorm
+crosslinks:
+- Overwatch
+- wow
+- heroesmeta
+- hearthstone
+- leagueoflegends
+- xkcd
+- place
+- starcraft
+- DotA2
+- lookingforheroes
+- HotsUndelete
+- Games
+- iamverysmart
+- modnews
+- dotamasterrace
+- AskReddit
+- pathofexile
+- hots
+- Competitiveoverwatch
+- CompetitiveHotS
+---

@@ -1,0 +1,24 @@
+---
+title: religion
+crosslinks:
+- autotldr
+- TiesThatBind
+- islam
+- Christianity
+- Setianism
+- AskHistorians
+- TMBR
+- exjw
+- OnThisDateInBahai
+- Judaism
+- Buddhism
+- hinduism
+- ShrugLifeSyndicate
+- TheBlackFlame
+- EsotericOccult
+- AMAAggregator
+- AskaJW
+- pagan
+- TrueChristian
+- law
+---

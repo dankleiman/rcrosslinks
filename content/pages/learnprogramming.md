@@ -1,0 +1,24 @@
+---
+title: learnprogramming
+crosslinks:
+- cscareerquestions
+- xkcd
+- programming
+- gamedev
+- dailyprogrammer
+- learnpython
+- Python
+- SuggestALaptop
+- IAmA
+- cpp
+- javahelp
+- codereview
+- javaexamples
+- MachineLearning
+- learnjavascript
+- DataHoarder
+- csharp
+- python
+- artificial
+- rails
+---

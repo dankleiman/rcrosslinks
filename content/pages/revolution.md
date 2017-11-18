@@ -1,0 +1,5 @@
+---
+title: revolution
+crosslinks:
+- yishan
+---

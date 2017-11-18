@@ -1,0 +1,5 @@
+---
+title: MegaMusic
+crosslinks:
+- megalinks
+---

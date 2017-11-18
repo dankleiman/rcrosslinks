@@ -1,0 +1,24 @@
+---
+title: linuxmasterrace
+crosslinks:
+- xkcd
+- unixporn
+- linux
+- linux_gaming
+- VFIO
+- linuxmemes
+- pcmasterrace
+- archlinux
+- linux_cucks
+- ProgrammerHumor
+- autotldr
+- Windows10
+- LinuxCirclejerk
+- techsupport
+- privacy
+- linuxquestions
+- StallmanWasRight
+- 3dshacks
+- interject
+- UnixWallpapers
+---

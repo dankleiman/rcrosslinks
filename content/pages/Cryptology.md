@@ -1,0 +1,5 @@
+---
+title: Cryptology
+crosslinks:
+- codes
+---

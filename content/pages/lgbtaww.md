@@ -1,0 +1,5 @@
+---
+title: lgbtaww
+crosslinks:
+- LGBTWeddings
+---

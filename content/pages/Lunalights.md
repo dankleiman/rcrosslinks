@@ -1,0 +1,5 @@
+---
+title: Lunalights
+crosslinks:
+- yugioh
+---

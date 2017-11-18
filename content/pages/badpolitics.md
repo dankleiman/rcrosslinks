@@ -1,0 +1,24 @@
+---
+title: badpolitics
+crosslinks:
+- The_Donald
+- AskHistorians
+- Indiana
+- news
+- AskReddit
+- Anarchy101
+- politics
+- Conservative
+- Anarcho_Capitalism
+- IAmA
+- Serendipity
+- the_pack
+- communism101
+- AskThe_Donald
+- CatsStandingUp
+- Anarchism
+- madlads
+- Shitstatistssay
+- SargonofAkkad
+- forwardsfromgrandma
+---

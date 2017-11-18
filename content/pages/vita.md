@@ -1,0 +1,24 @@
+---
+title: vita
+crosslinks:
+- GameSale
+- vitahacks
+- Atelier
+- Megaten
+- PS4Deals
+- hardwareswap
+- otomegames
+- NintendoSwitch
+- gamecollecting
+- PS4
+- visualnovels
+- gameswap
+- Falcom
+- limitedrun
+- livven
+- patientgamers
+- playstation
+- ChurchofChie
+- IAmA
+- nintendoswitch
+---

@@ -1,0 +1,5 @@
+---
+title: Speedsouls
+crosslinks:
+- speedrun
+---

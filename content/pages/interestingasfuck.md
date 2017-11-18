@@ -1,0 +1,24 @@
+---
+title: interestingasfuck
+crosslinks:
+- pics
+- gifs
+- AskReddit
+- videos
+- funny
+- todayilearned
+- IAmA
+- oddlysatisfying
+- gifsthatendtoosoon
+- askscience
+- explainlikeimfive
+- metric_units
+- WTF
+- educationalgifs
+- OutOfTheLoop
+- aww
+- UNBGBBIIVCHIDCTIICBG
+- natureismetal
+- NatureIsFuckingLit
+- space
+---

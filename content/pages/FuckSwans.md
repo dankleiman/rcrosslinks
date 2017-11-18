@@ -1,0 +1,5 @@
+---
+title: FuckSwans
+crosslinks:
+- autotldr
+---

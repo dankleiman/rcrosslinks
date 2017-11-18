@@ -1,0 +1,5 @@
+---
+title: maimaiwirtschaft
+crosslinks:
+- de
+---

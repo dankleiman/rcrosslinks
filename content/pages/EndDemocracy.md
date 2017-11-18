@@ -1,0 +1,5 @@
+---
+title: EndDemocracy
+crosslinks:
+- autotldr
+---

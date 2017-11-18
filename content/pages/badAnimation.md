@@ -1,0 +1,5 @@
+---
+title: badAnimation
+crosslinks:
+- evangelion
+---

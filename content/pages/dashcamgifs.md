@@ -1,0 +1,24 @@
+---
+title: dashcamgifs
+crosslinks:
+- reactiongifs
+- livven
+- WTF
+- gifs
+- Whatcouldgowrong
+- nononono
+- nonononoyes
+- motorcycles
+- Roadcam
+- CatastrophicFailure
+- IdiotsInCars
+- Dashcam
+- SweatyPalms
+- Unexpected
+- Wrangler
+- JusticeServed
+- Eesti
+- Suomi
+- Skookum
+- WinStupidPrizes
+---

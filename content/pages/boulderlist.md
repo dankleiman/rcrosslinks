@@ -1,0 +1,5 @@
+---
+title: boulderlist
+crosslinks:
+- denverlist
+---

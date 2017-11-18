@@ -1,0 +1,5 @@
+---
+title: NorthernAuraClan
+crosslinks:
+- ClashRoyale
+---

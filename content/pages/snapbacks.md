@@ -1,0 +1,5 @@
+---
+title: snapbacks
+crosslinks:
+- shutupandtakemymoney
+---

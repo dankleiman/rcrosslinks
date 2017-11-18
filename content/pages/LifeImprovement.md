@@ -1,0 +1,5 @@
+---
+title: LifeImprovement
+crosslinks:
+- Serendipity
+---

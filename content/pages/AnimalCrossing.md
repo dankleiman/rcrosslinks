@@ -1,0 +1,24 @@
+---
+title: AnimalCrossing
+crosslinks:
+- ACTrade
+- ACHacks
+- ACQR
+- acturnips
+- DreamCrossing
+- AdoptMyVillager
+- actrade
+- RateMyMayor
+- LateStageCapitalism
+- 3dshacks
+- BuddyCrossing
+- gaming
+- WTF
+- casualnintendo
+- adoptmyvillager
+- iPhone
+- livven
+- Stellaris
+- gameswap
+- DolphinEmulator
+---

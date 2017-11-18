@@ -1,0 +1,5 @@
+---
+title: CMHoCGlobalAffairs
+crosslinks:
+- cmhoc
+---

@@ -1,0 +1,24 @@
+---
+title: Frat
+crosslinks:
+- fakeid
+- AskReddit
+- Incels
+- autotldr
+- NegativeWithGold
+- ShitRedditSays
+- PennStateUniversity
+- Balls
+- gifs
+- gainit
+- Sororities
+- Negareddit
+- AskHistorians
+- law
+- cripplingalcoholism
+- GoldandBlack
+- NavyBlazer
+- explainlikeimfive
+- OldSchoolCool
+- amiugly
+---

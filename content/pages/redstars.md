@@ -1,0 +1,5 @@
+---
+title: redstars
+crosslinks:
+- NWSL
+---

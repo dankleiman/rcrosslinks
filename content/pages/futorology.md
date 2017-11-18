@@ -1,0 +1,5 @@
+---
+title: futorology
+crosslinks:
+- autotldr
+---

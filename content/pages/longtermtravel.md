@@ -1,0 +1,5 @@
+---
+title: longtermtravel
+crosslinks:
+- Crouton
+---

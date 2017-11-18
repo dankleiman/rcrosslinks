@@ -1,0 +1,24 @@
+---
+title: TrueCrime
+crosslinks:
+- autotldr
+- UnresolvedMysteries
+- TrueCrimeDiscussion
+- serialkillers
+- videos
+- SwordAndScale
+- lylestevik
+- Egypt
+- POLITIC
+- law
+- podcasts
+- florida
+- netflix
+- HateCrimeHoaxes
+- CrimeScene
+- southafrica
+- Documentaries
+- DarkNetMarkets
+- 4chan
+- interrogationvideos
+---

@@ -1,0 +1,23 @@
+---
+title: AskHistory
+crosslinks:
+- AskHistorians
+- HistoryWhatIf
+- history
+- SargonofAkkad
+- vexillology
+- greece
+- OutOfTheLoop
+- UFOs
+- PoliticalDiscussion
+- xkcd
+- translator
+- tinyhouse
+- HistoricalWhatIf
+- todayilearned
+- Reddit_Charity_Gold
+- politics
+- AskLegal
+- historyteachers
+- ix8do3
+---

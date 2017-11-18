@@ -1,0 +1,24 @@
+---
+title: morbidquestions
+crosslinks:
+- SuicideWatch
+- watchpeopledie
+- AskReddit
+- IAmA
+- goodlongposts
+- sociopath
+- jesuschristreddit
+- Paranormal
+- askscience
+- nocontext
+- NoStupidQuestions
+- AMA
+- Drama
+- SanctionedSuicide
+- casualiama
+- Gore
+- WTF
+- legaladvice
+- AskHistorians
+- MuseumOfReddit
+---

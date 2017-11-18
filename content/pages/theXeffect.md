@@ -1,0 +1,22 @@
+---
+title: theXeffect
+crosslinks:
+- getdisciplined
+- GetStudying
+- French
+- intermittentfasting
+- askscience
+- duolingo
+- EOOD
+- stopsmoking
+- pornfree
+- TheRedPill
+- resumes
+- C25K
+- Documentaries
+- soylent
+- ArtFundamentals
+- NoFap
+- StopGaming
+- nosurf
+---

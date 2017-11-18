@@ -1,0 +1,5 @@
+---
+title: CanineMajesty
+crosslinks:
+- aww
+---

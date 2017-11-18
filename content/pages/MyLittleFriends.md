@@ -1,0 +1,5 @@
+---
+title: MyLittleFriends
+crosslinks:
+- MLPLounge
+---

@@ -1,0 +1,5 @@
+---
+title: Frugallearning
+crosslinks:
+- Serendipity
+---

@@ -1,0 +1,5 @@
+---
+title: OldSchoolUnCool
+crosslinks:
+- pics
+---

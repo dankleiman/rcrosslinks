@@ -1,0 +1,5 @@
+---
+title: lifedrawing
+crosslinks:
+- painting
+---

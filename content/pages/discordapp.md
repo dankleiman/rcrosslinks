@@ -1,0 +1,24 @@
+---
+title: discordapp
+crosslinks:
+- xkcd
+- livven
+- me_irl
+- linuxmasterrace
+- linux
+- EliteDangerous
+- place
+- announcements
+- firefox
+- Steam
+- politics
+- Pay_Respects
+- OutOfTheLoop
+- dota2
+- windowsphone
+- Wildlands
+- askreddit
+- leagueoflegends
+- discordsays
+- personalfinance
+---

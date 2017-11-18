@@ -1,0 +1,24 @@
+---
+title: 1200isplenty
+crosslinks:
+- 1200isjerky
+- loseit
+- 1500isplenty
+- intermittentfasting
+- vegan1200isplenty
+- Fitness
+- fasting
+- GifRecipes
+- MealPrepSunday
+- grilledcheese
+- gainit
+- ketorecipes
+- metric_units
+- xxfitness
+- EatCheapAndHealthy
+- 1200isplentyketo
+- leangains
+- OutOfTheLoop
+- omad
+- BingeEatingDisorder
+---

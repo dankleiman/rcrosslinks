@@ -1,0 +1,5 @@
+---
+title: InfrastructureFans
+crosslinks:
+- NoSillySuffix
+---

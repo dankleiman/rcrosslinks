@@ -1,0 +1,5 @@
+---
+title: azarbaycan
+crosslinks:
+- Kavkaz
+---

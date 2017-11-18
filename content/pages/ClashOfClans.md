@@ -1,0 +1,24 @@
+---
+title: ClashOfClans
+crosslinks:
+- livven
+- RedditAllianceClans
+- RedditZuluCOC
+- ClashOfClansRecruit
+- RedditPirates
+- redditclansystem
+- RedditAsylumCoC
+- ClanZen
+- RedditZeroClan
+- dynastyclash
+- ClashRoyale
+- cocredditheroes
+- RedditClansHistory
+- saltminersclash
+- Pay_Respects
+- redditchi
+- RedditClanSystem
+- Enhancement
+- me_irl
+- clashofclansrecruit
+---

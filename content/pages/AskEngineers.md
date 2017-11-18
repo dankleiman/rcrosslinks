@@ -1,0 +1,24 @@
+---
+title: AskEngineers
+crosslinks:
+- engineering
+- xkcd
+- aerospace
+- EngineeringStudents
+- askscience
+- civilengineering
+- IAmA
+- PLC
+- Skookum
+- explainlikeimfive
+- IndustrialDesign
+- ComputerEngineering
+- spacex
+- Physics
+- HomeImprovement
+- computerscience
+- Justrolledintotheshop
+- legaladvice
+- AskReddit
+- Futurology
+---

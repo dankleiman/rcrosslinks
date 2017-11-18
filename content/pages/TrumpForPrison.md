@@ -1,0 +1,24 @@
+---
+title: TrumpForPrison
+crosslinks:
+- autotldr
+- The_Donald
+- opiates
+- EnoughTrumpSpam
+- Trumpgret
+- xkcd
+- unpresidented
+- OutOfTheLoop
+- conspiracy
+- Democrat
+- facepalm
+- HillaryMeltdown
+- thenewcoldwar
+- ShitThe_DonaldSays
+- TheseFuckingAccounts
+- Enhancement
+- AskTrumpSupporters
+- uncensorednews
+- oculus
+- london
+---

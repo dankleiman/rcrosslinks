@@ -1,0 +1,21 @@
+---
+title: placeDE
+crosslinks:
+- place
+- de
+- EuropePlace
+- france
+- Megumin
+- placeAtlas
+- touhou
+- placefrance
+- nyjets
+- germany
+- 4chan
+- placehearts
+- pinkde
+- farmcarrots
+- the_schulz
+- BrasilOnReddit
+- sweden
+---

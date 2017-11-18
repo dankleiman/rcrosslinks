@@ -1,0 +1,5 @@
+---
+title: DiscordKringel
+crosslinks:
+- discordperlen
+---

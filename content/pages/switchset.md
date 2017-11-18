@@ -1,0 +1,5 @@
+---
+title: switchset
+crosslinks:
+- NintendoSwitch
+---

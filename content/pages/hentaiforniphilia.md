@@ -1,0 +1,5 @@
+---
+title: hentaiforniphilia
+crosslinks:
+- HardcoreHentaiBondage
+---

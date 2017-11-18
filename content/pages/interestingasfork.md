@@ -1,0 +1,5 @@
+---
+title: interestingasfork
+crosslinks:
+- interestingasfuck
+---

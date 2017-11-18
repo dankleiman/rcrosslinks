@@ -1,0 +1,24 @@
+---
+title: design_critiques
+crosslinks:
+- graphic_design
+- Design_Critique
+- streetwearstartup
+- TheExpanse
+- dontdeadopeninside
+- AskReddit
+- Illustration
+- chromeos
+- logodesign
+- artcritique
+- Entrepreneur
+- Logo_Critique
+- isometric
+- learndjango
+- logorequests
+- idesignedthis
+- typography
+- Anticonsumption
+- anime
+- UXDesign
+---

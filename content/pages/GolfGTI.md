@@ -1,0 +1,24 @@
+---
+title: GolfGTI
+crosslinks:
+- Volkswagen
+- AutoDetailing
+- Golf_R
+- Stance
+- livven
+- '2013'
+- tdi
+- golf
+- slavs_squatting
+- MINI
+- EarthPorn
+- KnightsOfPineapple
+- nocontext
+- mechanics
+- rawdenim
+- vwgolf
+- Shitty_Car_Mods
+- AwesomeCarMods
+- Jeep
+- Audi
+---

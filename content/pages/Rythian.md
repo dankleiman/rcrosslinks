@@ -1,0 +1,5 @@
+---
+title: Rythian
+crosslinks:
+- lalna
+---

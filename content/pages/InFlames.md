@@ -1,0 +1,5 @@
+---
+title: InFlames
+crosslinks:
+- place
+---

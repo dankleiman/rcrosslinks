@@ -1,0 +1,24 @@
+---
+title: FULLCOMMUNISM
+crosslinks:
+- livven
+- autotldr
+- communism
+- communism101
+- FULLDISCOURSE
+- me_irl
+- socialism
+- Anarcho_Capitalism
+- LateStageCapitalism
+- AskHistorians
+- pics
+- Anarchism
+- xkcd
+- COMPLETEANARCHY
+- TheFarLeftSide
+- JonTron
+- worldnews
+- syriancivilwar
+- azureScapegoat
+- AskReddit
+---

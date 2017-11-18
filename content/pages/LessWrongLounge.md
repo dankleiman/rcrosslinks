@@ -1,0 +1,5 @@
+---
+title: LessWrongLounge
+crosslinks:
+- LessWrong
+---

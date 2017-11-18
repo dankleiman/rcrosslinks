@@ -1,0 +1,24 @@
+---
+title: ghibli
+crosslinks:
+- place
+- Miyazaki
+- livven
+- CrossStitch
+- AnimeDeals
+- QUALITYanime
+- HailCorporate
+- SwedenOnPlace
+- Astroneer
+- Undertale
+- shittykickstarters
+- Ponoc
+- anime
+- tattoos
+- zelda
+- motorcycles
+- movieposterporn
+- mildlyinteresting
+- androidthemes
+- Music
+---

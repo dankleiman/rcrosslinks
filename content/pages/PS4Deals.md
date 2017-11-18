@@ -1,0 +1,24 @@
+---
+title: PS4Deals
+crosslinks:
+- PS4
+- GameSale
+- patientgamers
+- PSVR
+- GameDeals
+- giftcardexchange
+- Games
+- vita
+- Gamingcirclejerk
+- forhonor
+- PUBATTLEGROUNDS
+- playstation
+- yugioh
+- GameStop
+- AskReddit
+- outlast
+- elderscrollsonline
+- residentevil
+- indiegameswap
+- PlayStationPlus
+---

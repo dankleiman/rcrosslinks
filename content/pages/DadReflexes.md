@@ -1,0 +1,24 @@
+---
+title: DadReflexes
+crosslinks:
+- livven
+- shittydadreflexes
+- The_Donald
+- DontTellMom
+- nocontext
+- gifs
+- MomInstincts
+- xkcd
+- woahdude
+- sports
+- WhyWereTheyFilming
+- IWasWrongAllAlong
+- noisygifs
+- AskReddit
+- SummerReddit
+- videos
+- PrequelMemes
+- FullScorpion
+- explainlikeimfive
+- Ooer
+---

@@ -1,0 +1,24 @@
+---
+title: seinfeldgifs
+crosslinks:
+- livven
+- HighQualityGifs
+- videos
+- RedditWritesSeinfeld
+- AliensAmongUs
+- NYYankees
+- BoxingStreams
+- noisygifs
+- FuckJeff
+- metalgear
+- asianamerican
+- WardCannon
+- xkcd
+- ImGoingToHellForThis
+- 30ROCK
+- television
+- defaults
+- Kanye
+- BlackPeopleTwitter
+- seinfeld
+---

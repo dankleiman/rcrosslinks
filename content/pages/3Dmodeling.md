@@ -1,0 +1,24 @@
+---
+title: 3Dmodeling
+crosslinks:
+- pics
+- 3DScanning
+- functionalprint
+- '2013'
+- Maya
+- delusionalartists
+- mildlypenis
+- ArtBuddy
+- gameDevClassifieds
+- oculus_medium
+- computergraphics
+- Houdini
+- 3DMA
+- livven
+- Cinema4D
+- low_poly
+- photogrammetry
+- xdfp
+- Amd
+- unrealengine
+---

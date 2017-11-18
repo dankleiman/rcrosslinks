@@ -1,0 +1,24 @@
+---
+title: onguardforthee
+crosslinks:
+- metacanada
+- canada
+- CanadaPolitics
+- worldnews
+- TorontoAnarchy
+- politics
+- vancouver
+- The_Donald
+- TopMindsOfReddit
+- toronto
+- Winnipeg
+- JordanPeterson
+- TwoXChromosomes
+- EnoughTrumpSpam
+- rcanadacensorship
+- saskatoon
+- askphilosophy
+- ontario
+- Hamilton
+- Fuckthealtright
+---

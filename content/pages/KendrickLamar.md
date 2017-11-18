@@ -1,0 +1,24 @@
+---
+title: KendrickLamar
+crosslinks:
+- Kanye
+- livven
+- hiphopheads
+- FrankOcean
+- hhh
+- AskReddit
+- deathgrips
+- HipHopImages
+- Coachella
+- leakthreads
+- autotldr
+- Eminem
+- lewronggeneration
+- music_survivor
+- JoeyBadass
+- ALBUMREVIEWz
+- DeepFriedMemes
+- Music
+- radiohead
+- conspiracy
+---

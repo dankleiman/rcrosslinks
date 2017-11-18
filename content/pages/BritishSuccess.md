@@ -1,0 +1,23 @@
+---
+title: BritishSuccess
+crosslinks:
+- mildlyinteresting
+- titlegore
+- OutOfTheLoop
+- EmpireDidNothingWrong
+- AskCulinary
+- SweatyPalms
+- doctorwho
+- aww
+- thatHappened
+- xkcd
+- news
+- AskReddit
+- london
+- roger_whittaker
+- Ashens
+- killthosewhodisagree
+- INGLIN
+- ukpolitics
+- assholes
+---

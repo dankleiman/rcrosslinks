@@ -1,0 +1,24 @@
+---
+title: elonmusk
+crosslinks:
+- autotldr
+- spacex
+- SpaceXMasterrace
+- teslamotors
+- EnoughMuskSpam
+- space
+- SpaceXLounge
+- IAmA
+- LateStageCapitalism
+- askadmissions
+- videos
+- PeopleFuckingDying
+- megalinks
+- titlegore
+- outlooker707
+- announcements
+- dgu
+- xkcd
+- livven
+- The_Donald
+---

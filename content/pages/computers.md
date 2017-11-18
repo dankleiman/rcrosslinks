@@ -1,0 +1,24 @@
+---
+title: computers
+crosslinks:
+- techsupport
+- autotldr
+- SuggestALaptop
+- learnprogramming
+- pcmasterrace
+- Dell
+- xkcd
+- laptops
+- LaptopDeals
+- PCMasterRace
+- explainlikeimfive
+- overclocking
+- Twitch
+- hardwareswap
+- VintageApple
+- oddlysatisfying
+- thesims
+- antivirus
+- Amd
+- DevelEire
+---

@@ -1,0 +1,24 @@
+---
+title: BurningMan
+crosslinks:
+- livven
+- 1z6a3aa
+- autotldr
+- furtherfuture
+- festivals
+- seduction
+- Instagram
+- INEEEEDIT
+- NoParticipation
+- Insurance
+- TheRedPill
+- DJs
+- gifs
+- GoT
+- ddlg
+- announcements
+- AskEngineers
+- fyrefestival
+- AntiVegan
+- Tacoma
+---

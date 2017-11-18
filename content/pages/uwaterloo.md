@@ -1,0 +1,24 @@
+---
+title: uwaterloo
+crosslinks:
+- UofT
+- waterloo
+- livven
+- xkcd
+- cscareerquestions
+- autotldr
+- sadcringe
+- modnews
+- todayilearned
+- AskReddit
+- IAmA
+- UBC
+- Animemes
+- actuary
+- canada
+- 2007scape
+- place
+- Incel
+- worldnews
+- dankmemes
+---

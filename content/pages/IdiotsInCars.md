@@ -1,0 +1,24 @@
+---
+title: IdiotsInCars
+crosslinks:
+- Roadcam
+- livven
+- WTF
+- gifs
+- Whatcouldgowrong
+- Dashcam
+- petfree
+- dashcamgifs
+- gatekeeping
+- WinStupidPrizes
+- therewasanattempt
+- GTAorRussia
+- Miata
+- ANormalDayInRussia
+- WhyWereTheyFilming
+- PeopleBeingJerks
+- xkcd
+- AskReddit
+- motorcycles
+- houston
+---

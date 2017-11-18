@@ -1,0 +1,24 @@
+---
+title: BattleRite
+crosslinks:
+- BattleriteFanConcepts
+- livven
+- pcgaming
+- BattleriteLFF
+- waifuism
+- GamingPlays
+- DotA2
+- gifs
+- pcmasterrace
+- REEEEEEEEEE
+- dotamasterrace
+- 2007scape
+- AMAAggregator
+- Overwatch
+- ruingame
+- Games
+- o
+- gadgets
+- wholesomememes
+- tipofmytongue
+---

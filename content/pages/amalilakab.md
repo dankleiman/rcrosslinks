@@ -1,0 +1,5 @@
+---
+title: amalilakab
+crosslinks:
+- PUBG
+---

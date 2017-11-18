@@ -1,0 +1,5 @@
+---
+title: Kvothealar
+crosslinks:
+- railgun
+---

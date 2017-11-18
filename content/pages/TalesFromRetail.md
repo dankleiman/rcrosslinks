@@ -1,0 +1,24 @@
+---
+title: TalesFromRetail
+crosslinks:
+- AskReddit
+- talesfromtechsupport
+- TalesFromTheCustomer
+- TalesFromYourServer
+- aww
+- legaladvice
+- gifs
+- undelete
+- JUSTNOMIL
+- gaming
+- todayilearned
+- IDontWorkHereLady
+- Showerthoughts
+- electronics
+- teenagers
+- ATechsTale
+- tinoesroho
+- de_verstaendlich
+- talesfrommedicine
+- OSHA
+---

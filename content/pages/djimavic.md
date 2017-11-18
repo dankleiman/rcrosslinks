@@ -1,0 +1,23 @@
+---
+title: djimavic
+crosslinks:
+- dji
+- djiphantom
+- livven
+- AskReddit
+- VideoEditing
+- drones
+- nashville
+- aerialphotography
+- Suomi
+- MavicPro
+- DJIUnlocked
+- fpv
+- Multicopter
+- rednecks
+- Edmonton
+- enhance
+- EarthPorn
+- outrun
+- DJIMavicProVideos
+---

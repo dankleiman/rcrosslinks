@@ -1,0 +1,21 @@
+---
+title: KarabakhConflict
+crosslinks:
+- armenia
+- Turkey
+- Israel
+- AskHistorians
+- pa
+- MURICA
+- autotldr
+- worldnews
+- pakistan
+- IAmA
+- catalonia
+- EuropeMeta
+- Barcelona
+- travel
+- europe
+- ModSupport
+- Artsakh
+---

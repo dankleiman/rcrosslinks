@@ -1,0 +1,5 @@
+---
+title: cmSenate
+crosslinks:
+- cmhoc
+---

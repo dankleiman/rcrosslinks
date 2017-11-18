@@ -1,0 +1,5 @@
+---
+title: WritingJobBoard
+crosslinks:
+- freelancewriting
+---

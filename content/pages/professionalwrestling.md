@@ -1,0 +1,5 @@
+---
+title: professionalwrestling
+crosslinks:
+- WrestlingRoleplay
+---

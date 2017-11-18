@@ -1,0 +1,5 @@
+---
+title: LtCorbis
+crosslinks:
+- forgottengold
+---

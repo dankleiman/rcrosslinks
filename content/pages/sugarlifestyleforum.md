@@ -1,0 +1,24 @@
+---
+title: sugarlifestyleforum
+crosslinks:
+- SLFSeeking
+- sex
+- hookertalk2
+- personalfinance
+- SkincareAddiction
+- AskMen
+- creepyPMs
+- Amry
+- TheRedPill
+- Fraudnet2
+- xkcd
+- pharmacy
+- o
+- LSD
+- shittankiessay
+- help
+- sugardaddy
+- adultery
+- R4OlderWomen
+- askscience
+---

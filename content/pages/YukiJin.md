@@ -1,0 +1,5 @@
+---
+title: YukiJin
+crosslinks:
+- JavDownloadCenter
+---

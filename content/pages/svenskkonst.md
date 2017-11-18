@@ -1,0 +1,5 @@
+---
+title: svenskkonst
+crosslinks:
+- sweden
+---

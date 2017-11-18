@@ -1,0 +1,5 @@
+---
+title: HexCorporation
+crosslinks:
+- civclassics
+---

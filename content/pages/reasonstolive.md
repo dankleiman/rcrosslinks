@@ -1,0 +1,5 @@
+---
+title: reasonstolive
+crosslinks:
+- antinatalism
+---

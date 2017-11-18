@@ -1,0 +1,5 @@
+---
+title: CherokeeCountyGA
+crosslinks:
+- Atlanta
+---

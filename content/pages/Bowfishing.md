@@ -1,0 +1,5 @@
+---
+title: Bowfishing
+crosslinks:
+- Serendipity
+---

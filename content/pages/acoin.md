@@ -1,0 +1,5 @@
+---
+title: acoin
+crosslinks:
+- altcoin
+---

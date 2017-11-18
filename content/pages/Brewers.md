@@ -1,0 +1,24 @@
+---
+title: Brewers
+crosslinks:
+- nfl
+- livven
+- '2013'
+- reddit_stream
+- Dodgers
+- Nationals
+- Braves
+- gifs
+- theydidthemath
+- pics
+- KCRoyals
+- Korean
+- orioles
+- toosoon
+- Reds
+- leafs
+- trees
+- redsox
+- NYYankees
+- sports
+---

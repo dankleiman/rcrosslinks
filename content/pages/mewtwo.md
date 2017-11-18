@@ -1,0 +1,5 @@
+---
+title: mewtwo
+crosslinks:
+- pokemon
+---

@@ -1,0 +1,5 @@
+---
+title: VeryBadWizards
+crosslinks:
+- samharris
+---

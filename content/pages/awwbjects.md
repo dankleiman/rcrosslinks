@@ -1,0 +1,5 @@
+---
+title: awwbjects
+crosslinks:
+- mildlyinteresting
+---

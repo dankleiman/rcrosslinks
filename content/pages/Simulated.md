@@ -1,0 +1,24 @@
+---
+title: Simulated
+crosslinks:
+- livven
+- shittysimulated
+- oddlysatisfying
+- xkcd
+- ConfusedBoners
+- woahdude
+- noisygifs
+- mildlypenis
+- gifs
+- oeCake
+- glitch_art
+- AskReddit
+- CFD
+- redditisfun
+- videos
+- SCP
+- OPDelivers
+- Unity3D
+- oddlyterrifying
+- nocontext
+---

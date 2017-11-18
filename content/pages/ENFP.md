@@ -1,0 +1,24 @@
+---
+title: ENFP
+crosslinks:
+- infj
+- ADHD
+- xkcd
+- aww
+- intj
+- INTP
+- WritingPrompts
+- AskReddit
+- entp
+- infp
+- istp
+- '2013'
+- C25K
+- medical
+- motivation
+- anime
+- ESFP
+- DecidingToBeBetter
+- whatisthisthing
+- ENFPMusic
+---

@@ -1,0 +1,5 @@
+---
+title: halfmoonbay
+crosslinks:
+- Coastside
+---

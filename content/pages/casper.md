@@ -1,0 +1,5 @@
+---
+title: casper
+crosslinks:
+- wyoming
+---

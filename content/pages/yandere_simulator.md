@@ -1,0 +1,24 @@
+---
+title: yandere_simulator
+crosslinks:
+- yandere_simulator_
+- spnati
+- danganronpa
+- nocontext
+- yandere
+- livven
+- csshelp
+- outlast
+- restofthefuckingowl
+- Naruto
+- techsupport
+- Undertale
+- place
+- xkcd
+- DotA2
+- coaxedintoasnafu
+- yanderu_assimilator
+- Unity3D
+- trolling
+- rupaulsdragrace
+---

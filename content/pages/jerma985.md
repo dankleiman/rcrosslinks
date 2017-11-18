@@ -1,0 +1,24 @@
+---
+title: jerma985
+crosslinks:
+- place
+- tf2
+- livven
+- JonTron
+- gamingcirclejerk
+- JermaHatHair
+- PlaceThugs
+- gaming
+- ImagesOfMassachusetts
+- reddevils
+- lego
+- ChargeYourPhone
+- TheOfficialPodcast
+- HelloInternet
+- oddlysatisfying
+- wholesomememes
+- 0w0
+- seaofgreed
+- OutOfTheLoop
+- Soundclown
+---

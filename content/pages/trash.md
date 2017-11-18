@@ -1,0 +1,5 @@
+---
+title: trash
+crosslinks:
+- truetrash
+---

@@ -1,0 +1,24 @@
+---
+title: The_Dotard
+crosslinks:
+- The_Donald
+- all
+- politics
+- Drama
+- pics
+- autotldr
+- esist
+- EnoughTrumpSpam
+- xkcd
+- the_meltdown
+- technology
+- CringeAnarchy
+- Pyonyang
+- SandersForPresident
+- DotA2
+- The_D
+- wsgy
+- NeutralPolitics
+- AgainstKarmaWhores
+- BannedFromThe_Dotard
+---

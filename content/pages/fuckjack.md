@@ -1,0 +1,5 @@
+---
+title: fuckjack
+crosslinks:
+- funny
+---

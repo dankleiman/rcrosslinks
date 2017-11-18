@@ -1,0 +1,24 @@
+---
+title: shittyreactiongifs
+crosslinks:
+- livven
+- reactiongifs
+- gifs
+- funny
+- aww
+- xkcd
+- oeCake
+- todayilearned
+- Simulated
+- Whatcouldgowrong
+- nocontext
+- startrekgifs
+- ShitRedditSays
+- UnexpectedHamilton
+- meirl
+- The_Donald
+- UNBGBBIIVCHIDCTIICBG
+- videos
+- IAmA
+- Unexpected
+---

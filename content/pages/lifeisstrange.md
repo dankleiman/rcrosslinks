@@ -1,0 +1,24 @@
+---
+title: lifeisstrange
+crosslinks:
+- livven
+- lifeisstrangeleaks
+- Games
+- Pricefield
+- Rainmeter
+- patientgamers
+- Vampyr
+- CrusaderKings
+- 13ReasonsWhy
+- KarmaCourt
+- telltale
+- AMAAggregator
+- autotldr
+- AskReddit
+- xkcd
+- linux_gaming
+- Firewatch
+- THE_PACK
+- Jewish
+- infj
+---

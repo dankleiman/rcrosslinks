@@ -1,0 +1,5 @@
+---
+title: ConquestResourcepack
+crosslinks:
+- Minecraft
+---

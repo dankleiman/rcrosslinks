@@ -1,0 +1,23 @@
+---
+title: 100yearsago
+crosslinks:
+- BrasilOnReddit
+- AskHistorians
+- Detroit
+- 150YearsAgo
+- kurdistan
+- Suomi
+- lewronggeneration
+- sweden
+- HighQualityGifs
+- wwi
+- Pensacola
+- LateStageCapitalism
+- 200YearsAgo
+- RedditDayOf
+- TheGreatWarChannel
+- ProCSS
+- chicago
+- CasualTodayILearned
+- MilitaryStories
+---

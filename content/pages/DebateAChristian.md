@@ -1,0 +1,24 @@
+---
+title: DebateAChristian
+crosslinks:
+- Christianity
+- AskAChristian
+- Judaism
+- TrueChristian
+- askscience
+- atheism
+- Creation
+- AskReddit
+- TrueAtheism
+- all
+- AskPhilosophyFAQ
+- AskHistorians
+- facepalm
+- ThroughAGlassDarkly
+- videos
+- logic
+- SuicideWatch
+- pcmasterrace
+- judaism
+- Jokes
+---

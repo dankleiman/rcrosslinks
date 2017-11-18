@@ -1,0 +1,5 @@
+---
+title: phillycraftbeer
+crosslinks:
+- philadelphia
+---

@@ -1,0 +1,5 @@
+---
+title: mylegi
+crosslinks:
+- place
+---

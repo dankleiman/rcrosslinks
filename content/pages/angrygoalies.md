@@ -1,0 +1,5 @@
+---
+title: angrygoalies
+crosslinks:
+- hockey
+---

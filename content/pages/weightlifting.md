@@ -1,0 +1,24 @@
+---
+title: weightlifting
+crosslinks:
+- weightroom
+- powerlifting
+- homegym
+- crossfit
+- Fitness
+- o
+- worldnews
+- livven
+- metric_units
+- videos
+- malefashionadvice
+- steroids
+- TheOnion
+- t
+- iamreallysmart
+- dataisugly
+- sex
+- MMA
+- KoreanAdvice
+- tall
+---

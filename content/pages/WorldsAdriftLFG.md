@@ -1,0 +1,5 @@
+---
+title: WorldsAdriftLFG
+crosslinks:
+- WorldsAdrift
+---

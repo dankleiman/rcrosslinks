@@ -1,0 +1,5 @@
+---
+title: DynastyWarriorsMobile
+crosslinks:
+- DWUnleashed
+---

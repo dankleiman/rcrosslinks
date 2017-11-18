@@ -1,0 +1,5 @@
+---
+title: PhysicGarden
+crosslinks:
+- AmericanPlantSwap
+---

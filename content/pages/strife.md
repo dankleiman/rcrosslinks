@@ -1,0 +1,5 @@
+---
+title: strife
+crosslinks:
+- leagueoflegends
+---

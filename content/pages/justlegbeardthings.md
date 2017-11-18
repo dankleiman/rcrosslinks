@@ -1,0 +1,24 @@
+---
+title: justlegbeardthings
+crosslinks:
+- ChoosingBeggars
+- holdmyfries
+- wgtow
+- SwordOrSheath
+- ComedyCemetery
+- ShitRedditSays
+- Nicegirls
+- KotakuInAction
+- MGTOW
+- sjwhate
+- sadcringe
+- KindVoice
+- IAmA
+- Justfuckmyshitup
+- hearthstonecirclejerk
+- PussyPass
+- SignalYourVirtue
+- Adam_fkn_Ellis_again
+- FATOROBOTO
+- nightvale
+---

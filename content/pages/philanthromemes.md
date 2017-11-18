@@ -1,0 +1,5 @@
+---
+title: philanthromemes
+crosslinks:
+- conspiracy
+---

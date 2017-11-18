@@ -1,0 +1,24 @@
+---
+title: factorio
+crosslinks:
+- michael________
+- FactorioBlueprints
+- xkcd
+- livven
+- FactorioMMO
+- dwarffortress
+- dtandersen
+- place
+- FactorioCirclejerk
+- AskReddit
+- RimWorld
+- ProgrammerHumor
+- OutOfTheLoop
+- Eve
+- nocontext
+- Amd
+- SS13
+- autotldr
+- explainlikeimfive
+- VXJunkies
+---

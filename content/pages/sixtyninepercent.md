@@ -1,0 +1,5 @@
+---
+title: sixtyninepercent
+crosslinks:
+- funny
+---

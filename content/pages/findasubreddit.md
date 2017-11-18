@@ -1,0 +1,24 @@
+---
+title: findasubreddit
+crosslinks:
+- The_Donald
+- everymanshouldknow
+- AskGames
+- chinadirect
+- Advice
+- Bumperstickers
+- hmm
+- scamslayers
+- NSFW411
+- Pictures
+- EOOD
+- TelevisionQuotes
+- aww
+- ReallyWackyTicTacs
+- mildlyinfuriating
+- HeistTeams
+- homemade
+- SpecialNeeds
+- nightvale
+- realestateinvesting
+---

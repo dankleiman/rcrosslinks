@@ -1,0 +1,5 @@
+---
+title: UndertaleTheory
+crosslinks:
+- Undertale
+---

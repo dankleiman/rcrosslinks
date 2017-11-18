@@ -1,0 +1,5 @@
+---
+title: Rosario
+crosslinks:
+- argentina
+---

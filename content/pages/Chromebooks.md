@@ -1,0 +1,5 @@
+---
+title: Chromebooks
+crosslinks:
+- chromeos
+---

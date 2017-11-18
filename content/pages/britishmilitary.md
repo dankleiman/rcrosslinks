@@ -1,0 +1,5 @@
+---
+title: britishmilitary
+crosslinks:
+- CasualUK
+---

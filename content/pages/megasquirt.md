@@ -1,0 +1,5 @@
+---
+title: megasquirt
+crosslinks:
+- electronics
+---

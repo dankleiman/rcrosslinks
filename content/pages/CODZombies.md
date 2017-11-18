@@ -1,0 +1,24 @@
+---
+title: CODZombies
+crosslinks:
+- Infinitewarfare
+- CustomPerkMasterList
+- WWII
+- CODModernWarfare
+- codes
+- gaming
+- Gamingcirclejerk
+- BrasilOnReddit
+- creepy
+- AMAAggregator
+- tifu
+- pcmasterrace
+- OutOfTheLoop
+- Pay_Respects
+- AskReddit
+- titlegore
+- mildlyinteresting
+- BF1Platoons
+- nononono
+- chiliadmystery
+---

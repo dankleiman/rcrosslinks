@@ -1,0 +1,5 @@
+---
+title: adtech
+crosslinks:
+- adops
+---

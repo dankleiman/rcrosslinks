@@ -1,0 +1,5 @@
+---
+title: TrumpsGoldenPath
+crosslinks:
+- worldnews
+---

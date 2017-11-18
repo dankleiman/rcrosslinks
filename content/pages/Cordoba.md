@@ -1,0 +1,5 @@
+---
+title: Cordoba
+crosslinks:
+- argentina
+---

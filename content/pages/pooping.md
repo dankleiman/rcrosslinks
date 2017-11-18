@@ -1,0 +1,5 @@
+---
+title: pooping
+crosslinks:
+- poop
+---

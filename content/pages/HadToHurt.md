@@ -1,0 +1,24 @@
+---
+title: HadToHurt
+crosslinks:
+- livven
+- Whatcouldgowrong
+- gifs
+- FullScorpion
+- holdmyfries
+- ChildrenFallingOver
+- funny
+- gifsthatendtoosoon
+- WTF
+- nononono
+- BetterEveryLoop
+- instant_regret
+- Wellthatsucks
+- xkcd
+- OutOfTheLoop
+- IdiotsNearlyDying
+- killthecameraman
+- WinStupidPrizes
+- Documentaries
+- DontTellMom
+---

@@ -1,0 +1,5 @@
+---
+title: Asgardia
+crosslinks:
+- micronations
+---

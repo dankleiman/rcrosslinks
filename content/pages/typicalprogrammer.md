@@ -1,0 +1,5 @@
+---
+title: typicalprogrammer
+crosslinks:
+- digitalnomad
+---

@@ -1,0 +1,5 @@
+---
+title: CeelCee
+crosslinks:
+- Squatfuck
+---

@@ -1,0 +1,5 @@
+---
+title: goidelc
+crosslinks:
+- americangods
+---

@@ -1,0 +1,5 @@
+---
+title: GodSpeedTrading
+crosslinks:
+- mechmarket
+---

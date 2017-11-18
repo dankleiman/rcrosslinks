@@ -1,0 +1,24 @@
+---
+title: sorceryofthespectacle
+crosslinks:
+- ShrugLifeSyndicate
+- autotldr
+- ByTheBookofThySelf
+- askphilosophy
+- funny
+- thelastpsychiatrist
+- CriticalTheory
+- occult
+- ancientfutures
+- Psychonaut
+- C_S_T
+- sots
+- explainlikeimfive
+- Stargnoc
+- DarkEnlightenment
+- criticalactivism
+- ABoringDystopia
+- discordian
+- ShrugLyfeSyndicate
+- Aestimoism
+---

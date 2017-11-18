@@ -1,0 +1,5 @@
+---
+title: LNNA
+crosslinks:
+- place
+---

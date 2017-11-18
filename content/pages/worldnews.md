@@ -1,0 +1,24 @@
+---
+title: worldnews
+crosslinks:
+- help
+- autotldr
+- The_Donald
+- politics
+- xkcd
+- news
+- AskReddit
+- AskHistorians
+- conspiracy
+- EnoughTrumpSpam
+- europe
+- IAmA
+- todayilearned
+- pics
+- syriancivilwar
+- explainlikeimfive
+- unitedkingdom
+- OutOfTheLoop
+- videos
+- technology
+---

@@ -1,0 +1,5 @@
+---
+title: phantomofthekill
+crosslinks:
+- thealchemistcode
+---

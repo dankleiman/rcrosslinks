@@ -1,0 +1,5 @@
+---
+title: AnimeOpenings
+crosslinks:
+- anime
+---

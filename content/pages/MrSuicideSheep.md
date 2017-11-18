@@ -1,0 +1,5 @@
+---
+title: MrSuicideSheep
+crosslinks:
+- Serendipity
+---

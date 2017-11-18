@@ -1,0 +1,5 @@
+---
+title: pharms
+crosslinks:
+- ClinTrials
+---

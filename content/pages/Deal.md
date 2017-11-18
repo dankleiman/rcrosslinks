@@ -1,0 +1,5 @@
+---
+title: Deal
+crosslinks:
+- TheseFuckingAccounts
+---

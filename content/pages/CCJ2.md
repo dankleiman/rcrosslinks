@@ -1,0 +1,24 @@
+---
+title: CCJ2
+crosslinks:
+- China
+- hapas
+- steroids
+- aznidentity
+- martialarts
+- Drama
+- taiwan
+- ChineseLanguage
+- AskWomen
+- aznmasculinity
+- todayilearned
+- TEFL
+- EasternSunRising
+- copypasta
+- Korea
+- Thailand
+- WTF
+- asiantwoX
+- Incels
+- Zhengzhou_china
+---

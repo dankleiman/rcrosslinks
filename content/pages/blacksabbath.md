@@ -1,0 +1,5 @@
+---
+title: blacksabbath
+crosslinks:
+- pinkfloyd
+---

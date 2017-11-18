@@ -1,0 +1,5 @@
+---
+title: brutaldoom
+crosslinks:
+- Doom
+---

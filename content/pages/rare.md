@@ -1,0 +1,5 @@
+---
+title: rare
+crosslinks:
+- crazystairs
+---

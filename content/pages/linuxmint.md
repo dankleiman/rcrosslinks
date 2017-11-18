@@ -1,0 +1,23 @@
+---
+title: linuxmint
+crosslinks:
+- linux
+- kde
+- linuxquestions
+- programming
+- europe
+- leagueoflinux
+- modnews
+- SuggestALaptop
+- Lxle
+- sysadmin
+- solaris
+- linux_gaming
+- firefox
+- TalesFromTechSupport
+- privacy
+- Purism
+- GalliumOS
+- Amd
+- linuxhardware
+---

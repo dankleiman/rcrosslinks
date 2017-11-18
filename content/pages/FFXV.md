@@ -1,0 +1,24 @@
+---
+title: FFXV
+crosslinks:
+- FinalFantasy
+- Gamingcirclejerk
+- Promptography
+- xdfp
+- FFXV_Trades
+- CookingWithIgnis
+- FFRecordKeeper
+- PS4
+- JRPG
+- ffxiv
+- livven
+- funny
+- RocketLeague
+- dissidia
+- cosplay
+- promptography
+- AMAAggregator
+- JRPGs
+- WeWantPlates
+- pcgaming
+---

@@ -1,0 +1,5 @@
+---
+title: IntelligenceQ
+crosslinks:
+- ShitEvilModsSay
+---

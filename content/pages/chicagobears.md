@@ -1,0 +1,5 @@
+---
+title: chicagobears
+crosslinks:
+- CHIBears
+---

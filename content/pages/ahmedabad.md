@@ -1,0 +1,5 @@
+---
+title: ahmedabad
+crosslinks:
+- india
+---

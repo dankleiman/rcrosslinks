@@ -1,0 +1,23 @@
+---
+title: uofm
+crosslinks:
+- place
+- OSU
+- autotldr
+- Finland
+- Fitness
+- TheB1G
+- Michigan
+- IndianaUniversity
+- shittyaskscience
+- mfa_irl
+- DetroitRedWings
+- trackers
+- uofm_irl
+- rit
+- Serendipity
+- factorio
+- tattoos
+- nocontextpics
+- forwardsfromgrandma
+---

@@ -1,0 +1,5 @@
+---
+title: warcraftrogues
+crosslinks:
+- wow
+---

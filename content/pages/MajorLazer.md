@@ -1,0 +1,5 @@
+---
+title: MajorLazer
+crosslinks:
+- trap
+---

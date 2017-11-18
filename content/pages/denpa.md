@@ -1,0 +1,5 @@
+---
+title: denpa
+crosslinks:
+- translator
+---

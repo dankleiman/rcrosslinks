@@ -1,0 +1,24 @@
+---
+title: UnethicalLifeProTips
+crosslinks:
+- ShittyLifeProTips
+- greentext
+- IllegalLifeProTips
+- ActLikeYouBelong
+- Shoplifting
+- LifeProTips
+- AskReddit
+- Frugal_Jerk
+- DeathProTips
+- legaladvice
+- xkcd
+- nocontext
+- therewasanattempt
+- AskAnEscort
+- AntiJoke
+- childfree
+- excgarated
+- lossprevention
+- PissyLifeProTips
+- ABDL
+---

@@ -1,0 +1,5 @@
+---
+title: rhcp
+crosslinks:
+- RedHotChiliPeppers
+---

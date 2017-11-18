@@ -1,0 +1,24 @@
+---
+title: Columbus
+crosslinks:
+- autotldr
+- exmuslim
+- IAmA
+- BlueJackets
+- Ohio
+- dating
+- TheMassive
+- Roadcam
+- OSU
+- The_Donald
+- cincinnati
+- todayilearned
+- funny
+- Frugal
+- FCCincinnati
+- xkcd
+- AskReddit
+- TheChurchOfRogers
+- cults
+- trashy
+---

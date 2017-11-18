@@ -1,0 +1,5 @@
+---
+title: PokemonCardOpenings
+crosslinks:
+- PokemonTCG
+---

@@ -1,0 +1,5 @@
+---
+title: TheMysteryButton
+crosslinks:
+- mildlyinfuriating
+---

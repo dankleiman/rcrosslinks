@@ -1,0 +1,5 @@
+---
+title: FantasyStrike
+crosslinks:
+- Fighters
+---

@@ -1,0 +1,24 @@
+---
+title: OopsDidntMeanTo
+crosslinks:
+- sadcringe
+- ihavesex
+- technology
+- StephanieMichelle
+- funny
+- nothingeverhappens
+- Badfaketexts
+- AskReddit
+- The_Donald
+- cringepics
+- EnoughInternet
+- niceguys
+- furry_irl
+- awfuleverything
+- gifs
+- ChargeYourPhone
+- nocontext
+- excgarated
+- gaming
+- livven
+---

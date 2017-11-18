@@ -1,0 +1,24 @@
+---
+title: vermont
+crosslinks:
+- autotldr
+- trees
+- humanism
+- NOWTTYG
+- NorthernNewEngland
+- Overwatch
+- legaladvice
+- AskReddit
+- IAmA
+- MLS
+- The_Donald
+- livven
+- redditrequest
+- Random_Acts_Of_Pizza
+- xkcd
+- gunpolitics
+- NPR
+- opiates
+- AmericanPlantSwap
+- longtrail
+---

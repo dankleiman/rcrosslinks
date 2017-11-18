@@ -1,0 +1,5 @@
+---
+title: MouseEmotions
+crosslinks:
+- Overwatch
+---

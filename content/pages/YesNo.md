@@ -1,0 +1,5 @@
+---
+title: YesNo
+crosslinks:
+- test
+---

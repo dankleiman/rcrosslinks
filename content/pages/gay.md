@@ -1,0 +1,24 @@
+---
+title: gay
+crosslinks:
+- autotldr
+- GayMen
+- LGBTQnews
+- BrasilOnReddit
+- LGBTnews
+- The_Donald
+- gayr4r
+- gaymers
+- livven
+- self
+- dankmemes
+- transgender
+- 13ReasonsWhy
+- ratemydick
+- rupaulsdragrace
+- interesting
+- politics
+- lovegaymale
+- gaymusic
+- gainit
+---

@@ -1,0 +1,24 @@
+---
+title: shittykickstarters
+crosslinks:
+- kickstarter
+- videos
+- autotldr
+- 3Dprinting
+- gadgets
+- IAmA
+- xkcd
+- titlegore
+- starcitizen
+- Drama
+- shittykickstarter
+- AskReddit
+- delusionalartists
+- Android
+- Electromagnetics
+- nocontext
+- technology
+- gaming
+- Buttcoin
+- Games
+---

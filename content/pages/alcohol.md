@@ -1,0 +1,24 @@
+---
+title: alcohol
+crosslinks:
+- cocktails
+- Drugs
+- wine
+- WritingPrompts
+- Cigarettes
+- whiskey
+- trackandfield
+- vodka
+- AsianBeauty
+- Scotch
+- GifRecipes
+- arduino
+- cripplingalcoholism
+- askscience
+- alcoholism
+- raerth
+- AskReddit
+- PassionFruit
+- firewater
+- Serendipity
+---

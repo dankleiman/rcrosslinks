@@ -1,0 +1,5 @@
+---
+title: LifeRPG
+crosslinks:
+- DoItNowRPG
+---

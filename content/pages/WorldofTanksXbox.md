@@ -1,0 +1,5 @@
+---
+title: WorldofTanksXbox
+crosslinks:
+- WorldofTanksConsole
+---

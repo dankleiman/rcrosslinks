@@ -1,0 +1,24 @@
+---
+title: detroitlions
+crosslinks:
+- nfl
+- livven
+- NFL_Draft
+- NYGiants
+- nflstreams
+- minnesotavikings
+- GreenBayPackers
+- CHIBears
+- Patriots
+- falcons
+- all
+- DetroitRedWings
+- Seahawks
+- Tennesseetitans
+- SuperSaiyanGifs
+- GreenLattice
+- aww
+- Texans
+- lakers
+- sportsjerseys
+---

@@ -1,0 +1,24 @@
+---
+title: Humanoidencounters
+crosslinks:
+- Paranormal
+- worldpolitics
+- Missing411
+- AskReddit
+- CrawlerSightings
+- chicago
+- nosleep
+- conspiracy
+- Thetruthishere
+- metric_units
+- IAmA
+- UFOs
+- SasquatchAttacks
+- MankindUnsolved
+- starseeds
+- glitch_in_the_Matrix
+- paranormal
+- Ghosts
+- reptilians
+- aliens
+---

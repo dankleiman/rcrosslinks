@@ -1,0 +1,24 @@
+---
+title: perfectloops
+crosslinks:
+- livven
+- gifs
+- Cinemagraphs
+- almostperfectloops
+- loadingicon
+- mechanical_gifs
+- woahdude
+- oddlysatisfying
+- funny
+- noisygifs
+- Overwatch
+- hmmmgifs
+- interestingasfuck
+- BetterEveryLoop
+- DestinyTheGame
+- gaming
+- Multicopter
+- HighQualityGifs
+- xkcd
+- underpopular
+---

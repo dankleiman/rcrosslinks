@@ -1,0 +1,5 @@
+---
+title: lolMidLane
+crosslinks:
+- LeBlancMains
+---

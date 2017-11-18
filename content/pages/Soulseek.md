@@ -1,0 +1,5 @@
+---
+title: Soulseek
+crosslinks:
+- xTrill
+---

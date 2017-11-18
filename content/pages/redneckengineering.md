@@ -1,0 +1,24 @@
+---
+title: redneckengineering
+crosslinks:
+- xkcd
+- livven
+- AskReddit
+- videos
+- funny
+- OSHA
+- WTF
+- gatekeeping
+- ANormalDayInRussia
+- TwoRedditorsOneCup
+- Skookum
+- killthecameraman
+- 4x4
+- Whatcouldgowrong
+- noisygifs
+- vandwellers
+- softwaregore
+- edging
+- trashy
+- pinkpistols
+---

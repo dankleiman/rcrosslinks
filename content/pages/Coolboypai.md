@@ -1,0 +1,5 @@
+---
+title: Coolboypai
+crosslinks:
+- customhearthstone
+---

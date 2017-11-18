@@ -1,0 +1,5 @@
+---
+title: csgocritic
+crosslinks:
+- AdoptASilver
+---

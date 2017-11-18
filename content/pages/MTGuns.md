@@ -1,0 +1,5 @@
+---
+title: MTGuns
+crosslinks:
+- MontanaPolitics
+---

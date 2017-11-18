@@ -1,0 +1,5 @@
+---
+title: SwingerCouples
+crosslinks:
+- TexasSwingers
+---

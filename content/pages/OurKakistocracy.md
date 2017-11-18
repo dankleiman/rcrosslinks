@@ -1,0 +1,5 @@
+---
+title: OurKakistocracy
+crosslinks:
+- autotldr
+---

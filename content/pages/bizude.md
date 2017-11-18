@@ -1,0 +1,5 @@
+---
+title: bizude
+crosslinks:
+- Amd
+---

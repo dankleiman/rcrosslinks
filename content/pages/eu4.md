@@ -1,0 +1,24 @@
+---
+title: eu4
+crosslinks:
+- paradoxplaza
+- CrusaderKings
+- xkcd
+- AskHistorians
+- livven
+- europe
+- eu4achievements
+- MapPorn
+- ParadoxExtra
+- MEIOUandTaxes
+- DemocratiaUniversalis
+- ShitCrusaderKingsSay
+- civ
+- PortugalOnReddit
+- nocontext
+- GameDeals
+- Stellaris
+- EU4Multi
+- EuropePlaysParadox
+- DotA2
+---

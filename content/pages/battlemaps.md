@@ -1,0 +1,22 @@
+---
+title: battlemaps
+crosslinks:
+- DnD
+- dndmaps
+- mrvalor
+- rpg
+- EarthPorn
+- mapmaking
+- skyrimmods
+- pics
+- dndnext
+- GameMasterApp
+- VillagePorn
+- VTT
+- numenera
+- wholesomemes
+- totalwar
+- livven
+- Serendipity
+- lfg
+---

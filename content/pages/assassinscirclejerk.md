@@ -1,0 +1,5 @@
+---
+title: assassinscirclejerk
+crosslinks:
+- assassinscreed
+---

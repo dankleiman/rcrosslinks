@@ -1,0 +1,5 @@
+---
+title: HybridHumans
+crosslinks:
+- Foofighters
+---

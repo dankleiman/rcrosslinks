@@ -1,0 +1,23 @@
+---
+title: UCSD
+crosslinks:
+- place
+- livven
+- cscareerquestions
+- autotldr
+- kansas
+- makemychoice
+- getdisciplined
+- churning
+- REEEEEEEEEE
+- freefolk
+- xkcd
+- causeWhyNotMate
+- BestOfReports
+- IAmA
+- EngineeringStudents
+- AskEngineers
+- aerospace
+- thinkpad
+- trackers
+---

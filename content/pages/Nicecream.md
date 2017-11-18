@@ -1,0 +1,5 @@
+---
+title: Nicecream
+crosslinks:
+- vegan
+---

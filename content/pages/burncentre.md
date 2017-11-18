@@ -1,0 +1,5 @@
+---
+title: burncentre
+crosslinks:
+- Tinder
+---

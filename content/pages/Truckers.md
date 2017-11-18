@@ -1,0 +1,24 @@
+---
+title: Truckers
+crosslinks:
+- livven
+- TruckersLounge
+- autotldr
+- Tiresaretheenemy
+- zeronet
+- Trucking
+- Justrolledintotheshop
+- ShittyLifeProTips
+- mildlyinteresting
+- Roadcam
+- Documentaries
+- cocaine
+- pics
+- hedidthemath
+- trucksim
+- WTF
+- Jokes
+- BDSMpersonals
+- tifu
+- OutOfTheLoop
+---

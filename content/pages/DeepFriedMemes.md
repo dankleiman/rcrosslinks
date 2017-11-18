@@ -1,0 +1,24 @@
+---
+title: DeepFriedMemes
+crosslinks:
+- nukedmemes
+- dankmemes
+- ComedyCemetery
+- surrealmemes
+- 4PanelCringe
+- THE_PACK
+- deepfriedwholesomemes
+- livven
+- ReallyWackyTicTacs
+- deepfriedsurrealmemes
+- me_irl
+- KarmaCourt
+- weakmemes
+- sauteedmemes
+- ComedyNecrophilia
+- emojipasta
+- DankMemeArchive
+- AskReddit
+- DIRTYNATIONX
+- gay_irl
+---

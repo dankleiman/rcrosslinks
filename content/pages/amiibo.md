@@ -1,0 +1,24 @@
+---
+title: amiibo
+crosslinks:
+- zelda
+- NintendoSwitch
+- nintendo
+- livven
+- WorldOfNintendo
+- AnimalCrossing
+- gaming
+- Breath_of_the_Wild
+- splatoon
+- titlegore
+- skylanders
+- GameSale
+- FansOfBoxBoy
+- funny
+- megaten
+- PrequelMemes
+- changelog
+- funkopop
+- gamecollecting
+- stevenuniverse
+---

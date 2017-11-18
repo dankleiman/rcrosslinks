@@ -1,0 +1,5 @@
+---
+title: Smoothies
+crosslinks:
+- mealprepsundays
+---

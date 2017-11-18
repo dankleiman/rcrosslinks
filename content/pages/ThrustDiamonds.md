@@ -1,0 +1,5 @@
+---
+title: ThrustDiamonds
+crosslinks:
+- spaceflight
+---

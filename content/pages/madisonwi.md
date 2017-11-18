@@ -1,0 +1,24 @@
+---
+title: madisonwi
+crosslinks:
+- WisconsinGamers
+- MadisonWiPokemonGo
+- Michigan
+- The_Donald
+- wisconsin
+- UWMadison
+- AskReddit
+- vexillologycirclejerk
+- BikingMad
+- IdiotsInCars
+- WTF
+- Serendipity
+- altright
+- autotldr
+- wisconsingamers
+- DIY
+- lastimages
+- Physical_Removal
+- MarchForScience
+- modhelp
+---

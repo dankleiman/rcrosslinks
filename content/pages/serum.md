@@ -1,0 +1,5 @@
+---
+title: serum
+crosslinks:
+- synthrecipes
+---

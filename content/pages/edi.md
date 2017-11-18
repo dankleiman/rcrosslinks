@@ -1,0 +1,5 @@
+---
+title: edi
+crosslinks:
+- learnprogramming
+---

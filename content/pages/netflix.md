@@ -1,0 +1,24 @@
+---
+title: netflix
+crosslinks:
+- autotldr
+- television
+- The_Donald
+- ShitRedditSays
+- xkcd
+- Sense8
+- newzealand
+- TopMindsOfReddit
+- 13ReasonsWhy
+- GooglePixel
+- IAmA
+- cordcutters
+- movies
+- AskReddit
+- Drama
+- marvelstudios
+- Roku
+- htpc
+- verizon
+- gatekeeping
+---

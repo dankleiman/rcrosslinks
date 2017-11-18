@@ -1,0 +1,5 @@
+---
+title: NormieHate
+crosslinks:
+- Megaten
+---

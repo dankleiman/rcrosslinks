@@ -1,0 +1,5 @@
+---
+title: soccernews
+crosslinks:
+- livven
+---

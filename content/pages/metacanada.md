@@ -1,0 +1,24 @@
+---
+title: metacanada
+crosslinks:
+- canada
+- onguardforthee
+- The_Donald
+- CanadaPolitics
+- metametacanada
+- worldnews
+- TorontoAnarchy
+- ontario
+- livven
+- toronto
+- ottawa
+- ShitRedditSays
+- AskReddit
+- worldpolitics
+- russia
+- ShitRConservativeSays
+- multiculturalcancer
+- politics
+- exmuslim
+- Edmonton
+---

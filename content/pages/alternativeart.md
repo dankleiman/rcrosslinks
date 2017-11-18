@@ -1,0 +1,24 @@
+---
+title: alternativeart
+crosslinks:
+- gaming
+- PS4
+- StarWars
+- ImaginaryJedi
+- pokemon
+- howimetyourmother
+- steampunk
+- gameofthrones
+- ImaginaryHogwarts
+- adventuretime
+- NoStupidQuestions
+- livven
+- DarkSouls2
+- Undertale
+- movies
+- zelda
+- marvelstudios
+- akira
+- PixelArt
+- noveltranslations
+---

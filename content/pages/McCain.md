@@ -1,0 +1,5 @@
+---
+title: McCain
+crosslinks:
+- LateStageCapitalism
+---

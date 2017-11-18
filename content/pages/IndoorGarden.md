@@ -1,0 +1,24 @@
+---
+title: IndoorGarden
+crosslinks:
+- succulents
+- orchids
+- houseplants
+- whatsthisplant
+- SavageGarden
+- gardening
+- Bonsai
+- pics
+- PPeperomioides
+- PlantedTank
+- airplants
+- Terrarium
+- Aquariums
+- hydro
+- HandsOnComplexity
+- AmericanPlantSwap
+- aerogarden
+- terrariums
+- livven
+- coffee
+---

@@ -1,0 +1,24 @@
+---
+title: KingkillerChronicle
+crosslinks:
+- Fantasy
+- livven
+- explainlikeimfive
+- xkcd
+- kingkillerchronicles
+- Tak
+- AskScienceFiction
+- UnearthedArcana
+- WritingPrompts
+- OutOfTheLoop
+- Cosmere
+- crochet
+- lost
+- IAmA
+- FanTheories
+- rickandmorty
+- AskReddit
+- RoastMe
+- negativewithgold
+- Art
+---

@@ -1,0 +1,23 @@
+---
+title: tycoon
+crosslinks:
+- pcgaming
+- anno
+- ZooManager
+- InterstellarTransport
+- airportceo
+- rct
+- terroir
+- TavernKeeper
+- RimWorld
+- openttd
+- Overcrowd
+- Banished
+- planetsafari
+- SimAirport
+- gamedev
+- yesyesyesno
+- SimCity
+- PlanetCoaster
+- Serendipity
+---

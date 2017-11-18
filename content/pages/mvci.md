@@ -1,0 +1,23 @@
+---
+title: mvci
+crosslinks:
+- Kappa
+- marvelvscapcom
+- MvC3
+- StreetFighter
+- livven
+- GameDeals
+- MvCinfinite
+- funkopop
+- salty
+- ToiletThoughts
+- videos
+- Skullgirls
+- csshelp
+- SFV
+- DevilMayCry
+- MVCITest
+- kappa
+- UMVC3
+- MonsterHunter
+---

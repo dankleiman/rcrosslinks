@@ -1,0 +1,24 @@
+---
+title: ofcoursethatsathing
+crosslinks:
+- ProductPorn
+- HailCorporate
+- xkcd
+- grilledcheese
+- mildlyinteresting
+- INEEEEDIT
+- pics
+- ConfusedBoners
+- livven
+- google
+- houston
+- theydidthefuckyou
+- funny
+- southafrica
+- nocontext
+- autotldr
+- KarmaConspiracy
+- AskReddit
+- jesuschristreddit
+- excgarated
+---

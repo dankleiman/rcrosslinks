@@ -1,0 +1,5 @@
+---
+title: laos
+crosslinks:
+- ThailandNews
+---

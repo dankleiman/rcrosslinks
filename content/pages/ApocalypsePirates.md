@@ -1,0 +1,5 @@
+---
+title: ApocalypsePirates
+crosslinks:
+- StrawHatRPG
+---

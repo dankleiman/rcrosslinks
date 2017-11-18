@@ -1,0 +1,24 @@
+---
+title: awfuleyebrows
+crosslinks:
+- awfuleverything
+- crappycontouring
+- SwordOrSheath
+- trashy
+- Fiveheads
+- livven
+- Youniqueamua
+- ATBGE
+- awfuleyeliner
+- ayylmao
+- muacirclejerk
+- MakeupAddiction
+- hmmm
+- ShowerOrange
+- TrueAwfulEverything
+- IRLgirls
+- AliensAmongUs
+- mildlyinteresting
+- 13or30
+- RedditsMuseumofFilth
+---

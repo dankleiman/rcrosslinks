@@ -1,0 +1,5 @@
+---
+title: Booksonic
+crosslinks:
+- linuxserver
+---

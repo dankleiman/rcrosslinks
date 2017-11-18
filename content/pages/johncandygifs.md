@@ -1,0 +1,5 @@
+---
+title: johncandygifs
+crosslinks:
+- HighQualityGifs
+---

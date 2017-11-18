@@ -1,0 +1,5 @@
+---
+title: DuluthFC
+crosslinks:
+- duluth
+---

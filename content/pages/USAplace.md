@@ -1,0 +1,5 @@
+---
+title: USAplace
+crosslinks:
+- AmericanFlaginPlace
+---

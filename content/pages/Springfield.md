@@ -1,0 +1,5 @@
+---
+title: Springfield
+crosslinks:
+- massachusetts
+---

@@ -1,0 +1,5 @@
+---
+title: Stereotypemaps
+crosslinks:
+- MapPorn
+---

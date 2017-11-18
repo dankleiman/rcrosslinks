@@ -1,0 +1,5 @@
+---
+title: OutcastswithinAliens
+crosslinks:
+- funny
+---

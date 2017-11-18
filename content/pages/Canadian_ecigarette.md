@@ -1,0 +1,23 @@
+---
+title: Canadian_ecigarette
+crosslinks:
+- electronic_cigarette
+- DIY_eJuice
+- Canadian_EClassifieds
+- Vaping
+- Canadianvapers
+- OpenPV
+- wicked_edge
+- redheads
+- ScienceHumour
+- OpTicGaming
+- livven
+- montreal
+- startrekgifs
+- firstworldanarchists
+- AskReddit
+- tifu
+- shittingadvice
+- vaporjunkie
+- vaporents
+---

@@ -1,0 +1,5 @@
+---
+title: craftingbeauty
+crosslinks:
+- crafting
+---

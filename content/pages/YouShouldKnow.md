@@ -1,0 +1,24 @@
+---
+title: YouShouldKnow
+crosslinks:
+- HailCorporate
+- xkcd
+- IAmA
+- security
+- personalfinance
+- Linky_links
+- AskReddit
+- LifeProTips
+- DataHoarder
+- technology
+- askscience
+- nocontext
+- gainit
+- solareclipse
+- hatchery
+- theydidthemath
+- malefashionadvice
+- ShittyLifeProTips
+- hacking
+- GrassrootsLongevity
+---

@@ -1,0 +1,5 @@
+---
+title: FutureOfToday
+crosslinks:
+- livven
+---

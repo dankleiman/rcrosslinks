@@ -1,0 +1,5 @@
+---
+title: euphonium
+crosslinks:
+- musictheory
+---

@@ -1,0 +1,24 @@
+---
+title: baconreader
+crosslinks:
+- AskReddit
+- livven
+- worldnews
+- pics
+- news
+- todayilearned
+- AdviceAnimals
+- help
+- funny
+- changelog
+- asoiaf
+- aww
+- raerth
+- amazonecho
+- technology
+- privacy
+- linuxmemes
+- etymology
+- explainlikeimfive
+- redditsync
+---

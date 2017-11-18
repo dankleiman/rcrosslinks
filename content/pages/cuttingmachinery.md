@@ -1,0 +1,5 @@
+---
+title: cuttingmachinery
+crosslinks:
+- Meditation
+---

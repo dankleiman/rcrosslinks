@@ -1,0 +1,24 @@
+---
+title: linuxmemes
+crosslinks:
+- xkcd
+- linux
+- linuxmasterrace
+- unixporn
+- livven
+- BashRMS
+- Fuckgnome
+- place
+- LinuxCirclejerk
+- windowsmemes
+- sysadmin
+- ProgrammerHumor
+- iiiiiiitttttttttttt
+- dontdeadopeninside
+- AyyMD
+- emacs
+- Serendipity
+- BirdsBeingDicks
+- theydidthelogic
+- programmingcirclejerk
+---

@@ -1,0 +1,5 @@
+---
+title: worldpolitic
+crosslinks:
+- autotldr
+---

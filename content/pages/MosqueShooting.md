@@ -1,0 +1,5 @@
+---
+title: MosqueShooting
+crosslinks:
+- autotldr
+---

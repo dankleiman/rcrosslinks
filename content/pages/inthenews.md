@@ -1,0 +1,24 @@
+---
+title: inthenews
+crosslinks:
+- news
+- politics
+- The_Donald
+- worldnews
+- ThailandNews
+- lacortenews
+- pics
+- exmuslim
+- explainlikeimfive
+- NeutralPolitics
+- TheRedPill
+- whoadude
+- Serendipity
+- TrumpCriticizesTrump
+- BreakingNews24hr
+- LocalMilkPeople
+- scientology
+- xkcd
+- canada
+- aww
+---

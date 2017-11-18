@@ -1,0 +1,24 @@
+---
+title: WWII
+crosslinks:
+- CODModernWarfare
+- Infinitewarfare
+- CoDCompetitive
+- CallOfDutyWorldWarTwo
+- CodAW
+- CallOfDuty
+- ww2
+- AskHistorians
+- pcmasterrace
+- PS4
+- explainlikeimfive
+- Battalion1944
+- gaming
+- pcgaming
+- gamedev
+- me_irl
+- thatHappened
+- CringeAnarchy
+- OldSchoolCool
+- Battlefield
+---

@@ -1,0 +1,5 @@
+---
+title: FuckBeyonce
+crosslinks:
+- all
+---

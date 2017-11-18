@@ -1,0 +1,24 @@
+---
+title: Supernatural
+crosslinks:
+- fandomnatural
+- livven
+- AskReddit
+- '2013'
+- autotldr
+- MenofLetters
+- FlashTV
+- WritingPrompts
+- gatekeeping
+- xkcd
+- HorrorReviewed
+- me_irl
+- PandR
+- AgainstKarmaWhores
+- alternativeart
+- '5050'
+- movies
+- dresdenfiles
+- TVDetails
+- titlegore
+---

@@ -1,0 +1,5 @@
+---
+title: paint
+crosslinks:
+- CaptainSugar
+---

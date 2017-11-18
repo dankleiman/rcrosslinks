@@ -1,0 +1,24 @@
+---
+title: slatestarcodex
+crosslinks:
+- AskHistorians
+- politics
+- KotakuInAction
+- AskSocialScience
+- discussion
+- TrueReddit
+- science
+- philosophy
+- ChapoTrapHouse
+- socialism
+- Drama
+- The_Donald
+- changemyview
+- Economics
+- AskReddit
+- IAmA
+- worldnews
+- sorceryofthespectacle
+- MarchForScience
+- askphilosophy
+---

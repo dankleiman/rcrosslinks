@@ -1,0 +1,24 @@
+---
+title: Metallica
+crosslinks:
+- pics
+- Megadeth
+- IAmA
+- livven
+- Metal
+- KarmaCourt
+- mildlyinfuriating
+- vinyl
+- Lovecraft
+- place
+- BattleJackets
+- guitarcirclejerk
+- thomasthedankengine
+- loseit
+- unexpectedmetallica
+- NetflixViaVPN
+- weed
+- houston
+- Memeconomy
+- SquaredCircle
+---

@@ -1,0 +1,24 @@
+---
+title: KotakuInAction
+crosslinks:
+- SocialJusticeInAction
+- politics
+- WikiInAction
+- modnews
+- The_Donald
+- announcements
+- vegan
+- Physical_Removal
+- KiAChatroom
+- starcraft
+- help
+- MozillaInAction
+- pussypassdenied
+- ModSupport
+- MensRights
+- science
+- TwoXChromosomes
+- 40kOrkScience
+- ShitGhaziSays
+- GamerGhazi
+---

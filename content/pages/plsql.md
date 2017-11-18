@@ -1,0 +1,5 @@
+---
+title: plsql
+crosslinks:
+- oracle
+---

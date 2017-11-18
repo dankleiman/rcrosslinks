@@ -1,0 +1,5 @@
+---
+title: TheShamans
+crosslinks:
+- delusionalartists
+---

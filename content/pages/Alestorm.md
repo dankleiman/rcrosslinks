@@ -1,0 +1,5 @@
+---
+title: Alestorm
+crosslinks:
+- Metal
+---

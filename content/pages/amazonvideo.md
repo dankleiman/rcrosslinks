@@ -1,0 +1,5 @@
+---
+title: amazonvideo
+crosslinks:
+- autotldr
+---

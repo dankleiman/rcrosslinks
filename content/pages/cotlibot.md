@@ -1,0 +1,5 @@
+---
+title: cotlibot
+crosslinks:
+- lostidols
+---

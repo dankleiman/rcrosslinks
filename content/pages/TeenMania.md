@@ -1,0 +1,5 @@
+---
+title: TeenMania
+crosslinks:
+- livven
+---

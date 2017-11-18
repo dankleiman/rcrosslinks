@@ -1,0 +1,5 @@
+---
+title: CuteButTrashy
+crosslinks:
+- trashy
+---

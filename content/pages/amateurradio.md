@@ -1,0 +1,24 @@
+---
+title: amateurradio
+crosslinks:
+- RTLSDR
+- hamdevs
+- towerporn
+- shortwave
+- xkcd
+- gmrs
+- electronics
+- RadioScanning
+- TropicalWeather
+- HamFest
+- Baofeng
+- livven
+- trees
+- '2013'
+- signalidentification
+- sysadmin
+- TS430s
+- morse
+- dogecoin
+- WTF
+---

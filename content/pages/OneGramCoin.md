@@ -1,0 +1,5 @@
+---
+title: OneGramCoin
+crosslinks:
+- digix
+---

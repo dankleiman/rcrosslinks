@@ -1,0 +1,24 @@
+---
+title: tasker
+crosslinks:
+- Android
+- xkcd
+- GalaxyS6
+- TaskerFiles
+- EarthPorn
+- oneplus
+- statistics
+- ADHD
+- googleplaydeals
+- AndroidQuestions
+- GooglePixel
+- androidthemes
+- Appliances
+- pOOxNL
+- moto360
+- Not_Enough_Tech
+- nexus5x
+- RelayForReddit
+- homeassistant
+- AndroidWear
+---

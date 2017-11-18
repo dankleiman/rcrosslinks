@@ -1,0 +1,5 @@
+---
+title: EquineFuta
+crosslinks:
+- nsfwcyoa
+---

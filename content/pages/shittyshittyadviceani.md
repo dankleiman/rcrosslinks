@@ -1,0 +1,5 @@
+---
+title: shittyshittyadviceani
+crosslinks:
+- AskReddit
+---

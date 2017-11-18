@@ -1,0 +1,5 @@
+---
+title: subredditcopacademy
+crosslinks:
+- firstamendment
+---

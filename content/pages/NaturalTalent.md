@@ -1,0 +1,5 @@
+---
+title: NaturalTalent
+crosslinks:
+- Frisson
+---

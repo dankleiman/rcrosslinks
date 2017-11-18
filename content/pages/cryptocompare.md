@@ -1,0 +1,5 @@
+---
+title: cryptocompare
+crosslinks:
+- autotldr
+---

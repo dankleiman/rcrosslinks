@@ -1,0 +1,24 @@
+---
+title: labrats
+crosslinks:
+- xkcd
+- livven
+- GradSchool
+- autotldr
+- mildlyinteresting
+- news
+- engineering
+- ECE
+- NeutralPolitics
+- medicalschool
+- legaladvice
+- comics
+- pics
+- StormfrontorSJW
+- MGTOW
+- theydidthemath
+- netsec
+- me_irl
+- apple
+- askscience
+---

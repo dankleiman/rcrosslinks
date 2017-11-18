@@ -1,0 +1,5 @@
+---
+title: ForgottenLanguages
+crosslinks:
+- space
+---

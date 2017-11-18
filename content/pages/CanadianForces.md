@@ -1,0 +1,24 @@
+---
+title: CanadianForces
+crosslinks:
+- autotldr
+- livven
+- canada
+- navy
+- AirForce
+- canadaguns
+- AdviceAnimals
+- metacanada
+- reactiongifs
+- AskHistorians
+- technology
+- Drama
+- modhelp
+- keto
+- ExpectationVsReality
+- Military
+- halifax
+- Teleshits
+- OldSchoolCool
+- AskMen
+---

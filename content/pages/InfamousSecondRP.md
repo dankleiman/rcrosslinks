@@ -1,0 +1,5 @@
+---
+title: InfamousSecondRP
+crosslinks:
+- Devilrp
+---

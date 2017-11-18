@@ -1,0 +1,5 @@
+---
+title: Dedsec
+crosslinks:
+- autotldr
+---

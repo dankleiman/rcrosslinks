@@ -1,0 +1,5 @@
+---
+title: emote
+crosslinks:
+- livven
+---

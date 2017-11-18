@@ -1,0 +1,24 @@
+---
+title: ImGoingToHellForThis
+crosslinks:
+- livven
+- jesuschristreddit
+- Drama
+- ShitAmericansSay
+- nocontext
+- theNew_Donald
+- 33nhniv
+- NegativeWithGold
+- worstof
+- The_Donald
+- evenwithcontext
+- titlegore
+- funny
+- exmuslim
+- ComedyCemetery
+- classic4chan
+- iamverysmart
+- SummerReddit
+- RoastMe
+- WTF
+---

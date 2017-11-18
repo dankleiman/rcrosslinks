@@ -1,0 +1,5 @@
+---
+title: RoyaleGamma
+crosslinks:
+- RoyaleRecruit
+---

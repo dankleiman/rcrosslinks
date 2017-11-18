@@ -1,0 +1,24 @@
+---
+title: statistics
+crosslinks:
+- xkcd
+- rstats
+- datascience
+- autotldr
+- science
+- AskStatistics
+- actuary
+- HomeworkHelp
+- DecisionTheory
+- dae
+- dailyprogrammer
+- dataisugly
+- jmp
+- epidemiology
+- starterpacks
+- OMSCS
+- math
+- codetogether
+- MachineLearning
+- stata
+---

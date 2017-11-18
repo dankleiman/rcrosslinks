@@ -1,0 +1,5 @@
+---
+title: Cryptomancer
+crosslinks:
+- Shadowrun
+---

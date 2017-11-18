@@ -1,0 +1,24 @@
+---
+title: spam
+crosslinks:
+- AskReddit
+- aww
+- technology
+- news
+- gaming
+- Health
+- todayilearned
+- pics
+- funny
+- videos
+- leagueoflegends
+- The_Donald
+- Jokes
+- politics
+- Music
+- worldnews
+- Futurology
+- Android
+- gadgets
+- interestingasfuck
+---

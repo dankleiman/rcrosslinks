@@ -1,0 +1,5 @@
+---
+title: pinkpistols
+crosslinks:
+- autotldr
+---

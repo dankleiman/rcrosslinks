@@ -1,0 +1,5 @@
+---
+title: nodentureadventure
+crosslinks:
+- CringeAnarchy
+---

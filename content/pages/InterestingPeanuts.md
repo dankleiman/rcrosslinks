@@ -1,0 +1,5 @@
+---
+title: InterestingPeanuts
+crosslinks:
+- mildlyinteresting
+---

@@ -1,0 +1,5 @@
+---
+title: rubyonrails
+crosslinks:
+- rails
+---

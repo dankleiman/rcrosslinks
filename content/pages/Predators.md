@@ -1,0 +1,24 @@
+---
+title: Predators
+crosslinks:
+- hockey
+- hockeyjerseys
+- place
+- nhl_games
+- hawks
+- AnaheimDucks
+- puckstreams
+- sports
+- LazyMan
+- hockeyplayers
+- RPI
+- NHLstatheads
+- Tennesseetitans
+- livven
+- holdmyneal
+- puppies
+- MkeBucks
+- Birmingham
+- rush
+- CFB
+---

@@ -1,0 +1,24 @@
+---
+title: grandorder
+crosslinks:
+- Pixiv
+- GOtrades
+- fatestaynight
+- FGOfanart
+- anime
+- livven
+- PuzzleAndDragons
+- ffxiv
+- DBZDokkanBattle
+- FateExtra
+- SINoALICE_en
+- EnglishGrandOrder
+- fgoalter
+- programming
+- heavensfeel
+- visualnovels
+- Shadowverse
+- PrequelMemes
+- FFRecordKeeper
+- LearnJapanese
+---

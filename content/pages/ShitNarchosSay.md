@@ -1,0 +1,5 @@
+---
+title: ShitNarchosSay
+crosslinks:
+- Anarchism
+---

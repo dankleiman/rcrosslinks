@@ -1,0 +1,5 @@
+---
+title: Sadists
+crosslinks:
+- offmychest
+---

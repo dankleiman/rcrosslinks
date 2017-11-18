@@ -1,0 +1,5 @@
+---
+title: HearthstoneMath
+crosslinks:
+- hearthstone
+---

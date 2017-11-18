@@ -1,0 +1,5 @@
+---
+title: butthurtrepublicans
+crosslinks:
+- autotldr
+---

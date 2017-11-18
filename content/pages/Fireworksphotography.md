@@ -1,0 +1,5 @@
+---
+title: Fireworksphotography
+crosslinks:
+- timelapse
+---

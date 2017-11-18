@@ -1,0 +1,24 @@
+---
+title: CLG
+crosslinks:
+- leagueoflegends
+- TeamSolomid
+- lol
+- place
+- Cloud9
+- AngryCLGFans
+- Competitiveoverwatch
+- Suffering
+- Team_Liquid
+- minnesotavikings
+- CSeventVODs
+- LoLeventVoDs
+- funny
+- legaladvice
+- livven
+- mylittlepony
+- Humanity
+- nonononoyes
+- DotA2
+- gatekeeping
+---

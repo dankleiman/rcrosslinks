@@ -1,0 +1,5 @@
+---
+title: GirlishNumber
+crosslinks:
+- manga
+---

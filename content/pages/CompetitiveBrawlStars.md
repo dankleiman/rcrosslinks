@@ -1,0 +1,5 @@
+---
+title: CompetitiveBrawlStars
+crosslinks:
+- Brawlstars
+---

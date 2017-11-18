@@ -1,0 +1,5 @@
+---
+title: LucysLounge
+crosslinks:
+- Hotchickswithtattoos
+---

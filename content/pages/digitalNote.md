@@ -1,0 +1,5 @@
+---
+title: digitalNote
+crosslinks:
+- Monero
+---

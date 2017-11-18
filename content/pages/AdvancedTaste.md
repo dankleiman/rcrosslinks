@@ -1,0 +1,5 @@
+---
+title: AdvancedTaste
+crosslinks:
+- minimalism
+---

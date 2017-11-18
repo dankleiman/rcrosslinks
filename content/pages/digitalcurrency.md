@@ -1,0 +1,5 @@
+---
+title: digitalcurrency
+crosslinks:
+- snatcoin
+---

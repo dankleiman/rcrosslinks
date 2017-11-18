@@ -1,0 +1,24 @@
+---
+title: confessions
+crosslinks:
+- childfree
+- traphentai
+- IAmA
+- JUSTNOMIL
+- stopdrinking
+- polyamory
+- OutOfTheLoop
+- atheism
+- relationships
+- AskReddit
+- freeuse
+- confession
+- AskMen
+- gonewild
+- xkcd
+- milliondollarextreme
+- AnimalsBeingHilarious
+- studentloans
+- interracial
+- intrusivethoughts
+---

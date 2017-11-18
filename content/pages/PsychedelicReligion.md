@@ -1,0 +1,5 @@
+---
+title: PsychedelicReligion
+crosslinks:
+- Drugs
+---

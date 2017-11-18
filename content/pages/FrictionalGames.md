@@ -1,0 +1,5 @@
+---
+title: FrictionalGames
+crosslinks:
+- soma
+---

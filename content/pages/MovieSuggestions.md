@@ -1,0 +1,24 @@
+---
+title: MovieSuggestions
+crosslinks:
+- HorrorReviewed
+- movies
+- horror
+- moviescirclejerk
+- NetflixBestOf
+- Suomi
+- tipofmypenis
+- tipofmytongue
+- postrock
+- MoviesNeedingRemakes
+- wincest
+- Glitch_in_the_Matrix
+- Documentaries
+- German
+- fullmoviesonanything
+- me_irl
+- HFY
+- SciFiConcepts
+- AskReddit
+- FanTheories
+---

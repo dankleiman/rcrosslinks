@@ -1,0 +1,24 @@
+---
+title: whatsthisplant
+crosslinks:
+- succulents
+- mycology
+- Bonsai
+- gardening
+- orchids
+- whatisthisthing
+- marijuanaenthusiasts
+- cactus
+- foraging
+- SavageGarden
+- HotPeppers
+- PlantedTank
+- plantclinic
+- mildlyvagina
+- Fern
+- 1zxmczs
+- socalhiking
+- rva
+- BestHall
+- whatsthisfungus
+---

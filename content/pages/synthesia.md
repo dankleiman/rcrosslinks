@@ -1,0 +1,5 @@
+---
+title: synthesia
+crosslinks:
+- Synesthesia
+---

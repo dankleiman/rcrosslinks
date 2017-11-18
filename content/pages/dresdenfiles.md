@@ -1,0 +1,24 @@
+---
+title: dresdenfiles
+crosslinks:
+- WritingPrompts
+- whowouldwin
+- interestingasfuck
+- chicago
+- Fantasy
+- slatestarcodex
+- KingkillerChronicle
+- Duckingugly
+- ImaginaryCharacters
+- Naruto
+- kindle
+- maga
+- copypasta
+- unexpected40k
+- hfy
+- LPT
+- CrazyIdeas
+- mildlyinteresting
+- Shadowrun
+- lfg
+---

@@ -1,0 +1,5 @@
+---
+title: cool
+crosslinks:
+- space
+---

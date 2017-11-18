@@ -1,0 +1,5 @@
+---
+title: SMHauto
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: VaporwaveAesthetics
+crosslinks:
+- livven
+- intothetunnel
+- outrun
+- pics
+- mildlyinteresting
+- EarthPorn
+- VaporwaveArt
+- Art
+- Vaporwave
+- glitch_art
+- IAmA
+- SkyPorn
+- aww
+- vapormeme
+- gatekeeping
+- raining
+- trees
+- Simulated
+- grilledcheese
+- UnexpectedFrankOcean
+---

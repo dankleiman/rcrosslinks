@@ -1,0 +1,5 @@
+---
+title: nanowrimo
+crosslinks:
+- writing
+---

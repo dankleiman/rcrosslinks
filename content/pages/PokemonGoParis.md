@@ -1,0 +1,5 @@
+---
+title: PokemonGoParis
+crosslinks:
+- TheSilphRoad
+---

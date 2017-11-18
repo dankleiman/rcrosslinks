@@ -1,0 +1,5 @@
+---
+title: Copay
+crosslinks:
+- Bitcoin
+---

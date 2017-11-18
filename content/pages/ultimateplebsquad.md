@@ -1,0 +1,5 @@
+---
+title: ultimateplebsquad
+crosslinks:
+- forhonor
+---

@@ -1,0 +1,5 @@
+---
+title: FingerstyleGuitarTabs
+crosslinks:
+- Guitar
+---

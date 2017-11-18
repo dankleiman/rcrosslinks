@@ -1,0 +1,24 @@
+---
+title: badtattoos
+crosslinks:
+- keming
+- tattoos
+- tattoo
+- REEEEEEEEE
+- trashy
+- 2meirl4meirl
+- mildlypenis
+- BadDragon
+- kerning
+- furry_irl
+- shestillsucking
+- KNEX
+- rickandmorty
+- ireddit
+- WackyTicTacs
+- mildyvagina
+- ireland
+- EmpireDidNothingWrong
+- awfuleverything
+- 4q0lqw
+---

@@ -1,0 +1,5 @@
+---
+title: cryptocanada
+crosslinks:
+- BitcoinCA
+---

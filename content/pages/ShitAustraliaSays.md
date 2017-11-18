@@ -1,0 +1,5 @@
+---
+title: ShitAustraliaSays
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: duelcommander
+crosslinks:
+- CompetitiveEDH
+---

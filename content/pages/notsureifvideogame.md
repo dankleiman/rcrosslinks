@@ -1,0 +1,5 @@
+---
+title: notsureifvideogame
+crosslinks:
+- gaming
+---

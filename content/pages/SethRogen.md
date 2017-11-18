@@ -1,0 +1,5 @@
+---
+title: SethRogen
+crosslinks:
+- posterhunt
+---

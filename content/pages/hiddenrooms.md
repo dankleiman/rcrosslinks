@@ -1,0 +1,5 @@
+---
+title: hiddenrooms
+crosslinks:
+- pics
+---

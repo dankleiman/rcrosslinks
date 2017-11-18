@@ -1,0 +1,24 @@
+---
+title: Kaiserreich
+crosslinks:
+- hoi4
+- paradoxplaza
+- PropagandaPosters
+- vexillology
+- JonTron
+- Fuhrerreich
+- IrelandonReddit
+- FULLCOMMUNISM
+- AskHistorians
+- Socialism_101
+- ParadoxExtra
+- CargoShortsSensei
+- AskEurope
+- KarmaCourt
+- Fiveheads
+- EnoughCommieSpam
+- linuxmemes
+- traaaaaaannnnnnnnnns
+- CrusaderKings
+- anarcho_syndicalism
+---

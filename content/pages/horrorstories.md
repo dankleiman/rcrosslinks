@@ -1,0 +1,5 @@
+---
+title: horrorstories
+crosslinks:
+- nosleep
+---

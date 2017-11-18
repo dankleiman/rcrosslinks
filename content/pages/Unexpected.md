@@ -1,0 +1,24 @@
+---
+title: Unexpected
+crosslinks:
+- livven
+- gifs
+- xkcd
+- funny
+- AskReddit
+- WTF
+- videos
+- nocontext
+- pics
+- OutOfTheLoop
+- IAmA
+- gaming
+- reallifedoodles
+- shitpost
+- HailCorporate
+- aww
+- Drama
+- Tinder
+- watchpeopledie
+- interestingasfuck
+---

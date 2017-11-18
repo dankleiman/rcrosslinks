@@ -1,0 +1,22 @@
+---
+title: shittyHDR
+crosslinks:
+- HDR
+- pics
+- mildlyinteresting
+- MilitaryPorn
+- Autos
+- FoodPorn
+- perth
+- UIUC
+- replications
+- tampa
+- excgarated
+- whatisthisthing
+- VaporwaveAesthetics
+- Hatfilms
+- funny
+- KarmaConspiracy
+- DeepFriedMemes
+- france
+---

@@ -1,0 +1,5 @@
+---
+title: titanfallstory
+crosslinks:
+- titanfall
+---

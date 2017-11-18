@@ -1,0 +1,5 @@
+---
+title: KentuckianaGuns
+crosslinks:
+- Louisville
+---

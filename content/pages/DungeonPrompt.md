@@ -1,0 +1,5 @@
+---
+title: DungeonPrompt
+crosslinks:
+- ImaginaryNetwork
+---

@@ -1,0 +1,5 @@
+---
+title: mysteryland
+crosslinks:
+- festivals
+---

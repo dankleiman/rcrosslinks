@@ -1,0 +1,5 @@
+---
+title: DogecoinFundation
+crosslinks:
+- dogecoin
+---

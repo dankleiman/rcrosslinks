@@ -1,0 +1,24 @@
+---
+title: upvotebecauseboy
+crosslinks:
+- aww
+- livven
+- gifs
+- funny
+- videos
+- HumansBeingBros
+- WTF
+- whitepeoplegifs
+- SweatyPalms
+- AnimalsBeingJerks
+- nevertellmetheodds
+- juggling
+- madlads
+- interestingasfuck
+- SquaredCircle
+- meirl
+- gaming
+- oddlysatisfying
+- CatTaps
+- Justfuckmyshitup
+---

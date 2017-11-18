@@ -1,0 +1,5 @@
+---
+title: Yiannopoulos
+crosslinks:
+- AskReddit
+---

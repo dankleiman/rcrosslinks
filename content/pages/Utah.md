@@ -1,0 +1,24 @@
+---
+title: Utah
+crosslinks:
+- autotldr
+- SaltLakeCity
+- exmormon
+- ogden
+- livven
+- polyamory
+- AmericanPlantSwap
+- EndFPTP
+- worldpolitics
+- BrianHeadUT
+- Israel
+- Logan
+- logan
+- Marijuana
+- kratom
+- ExposurePorn
+- changemyview
+- xkcd
+- mcmullin
+- todayilearned
+---

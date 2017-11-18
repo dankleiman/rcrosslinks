@@ -1,0 +1,24 @@
+---
+title: shittyideas
+crosslinks:
+- theocho
+- AskReddit
+- xkcd
+- Jokes
+- Stims
+- drums
+- GeniusIdeas
+- oneplus
+- tifu
+- Frugal_Jerk
+- Cocofleshlights
+- AntiVaccineMemes
+- IAmA
+- paradoxes
+- GoneWildHairy
+- CasualConversation
+- livven
+- me_irl
+- secondshittyideas
+- CrazyIdeas
+---

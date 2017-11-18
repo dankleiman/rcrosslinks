@@ -1,0 +1,5 @@
+---
+title: shittyjudgequestions
+crosslinks:
+- magicTCG
+---

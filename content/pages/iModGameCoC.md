@@ -1,0 +1,5 @@
+---
+title: iModGameCoC
+crosslinks:
+- ClashOfClans
+---

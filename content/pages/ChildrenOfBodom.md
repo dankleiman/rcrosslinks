@@ -1,0 +1,5 @@
+---
+title: ChildrenOfBodom
+crosslinks:
+- melodicdeathmetal
+---

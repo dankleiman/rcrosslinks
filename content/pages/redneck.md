@@ -1,0 +1,5 @@
+---
+title: redneck
+crosslinks:
+- interview
+---

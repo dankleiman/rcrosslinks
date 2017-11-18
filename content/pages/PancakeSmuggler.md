@@ -1,0 +1,5 @@
+---
+title: PancakeSmuggler
+crosslinks:
+- food
+---

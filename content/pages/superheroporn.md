@@ -1,0 +1,5 @@
+---
+title: superheroporn
+crosslinks:
+- Palpz
+---

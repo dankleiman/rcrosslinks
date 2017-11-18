@@ -1,0 +1,21 @@
+---
+title: rojava
+crosslinks:
+- syriancivilwar
+- Communalists
+- autotldr
+- kurdistan
+- socialism
+- TOTALCOMMUNALISM
+- leftvexillology
+- cooperatives
+- FULLCOMMUNISM
+- NationalSocialism
+- Feminism
+- Anarchism
+- Anarchy101
+- TheFarLeftSide
+- RojavaSocietyUK
+- COMPLETEANARCHY
+- insurgency
+---

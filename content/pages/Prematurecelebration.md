@@ -1,0 +1,24 @@
+---
+title: Prematurecelebration
+crosslinks:
+- livven
+- The_Donald
+- phoenix
+- news
+- soccer
+- politics
+- the_meltdown
+- ChargeYourPhone
+- falcons
+- funny
+- ShitAmericansSay
+- penispassdenied
+- HadToHurt
+- KarmaCourt
+- poker
+- lotr
+- Cricket
+- nfl
+- Wellthatsucks
+- videos
+---

@@ -1,0 +1,24 @@
+---
+title: trucksim
+crosslinks:
+- ClassicCore
+- livven
+- Roadcam
+- oculus
+- CitiesSkylines
+- EuroTruck2
+- Minecraft
+- LearnUselessTalents
+- ShadowBanned
+- oddlysatisfying
+- farmingsimulator
+- MaliciousCompliance
+- Suomi
+- oddlyspecific
+- spacex
+- ETS2
+- oklahoma
+- Truckers
+- gifs
+- joeRogan
+---

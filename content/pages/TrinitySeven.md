@@ -1,0 +1,5 @@
+---
+title: TrinitySeven
+crosslinks:
+- anime
+---

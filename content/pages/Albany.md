@@ -1,0 +1,24 @@
+---
+title: Albany
+crosslinks:
+- Troy
+- autotldr
+- HomeImprovement
+- sextoys
+- drunk
+- delusionalcraigslist
+- hawaii
+- MusicInTheMaking
+- googletown
+- livven
+- xkcd
+- Roadcams
+- Hawaii
+- Chattanooga
+- churning
+- InternetIsBeautiful
+- potsdam
+- forwardsfromgrandma
+- nottheonion
+- EarthPorn
+---

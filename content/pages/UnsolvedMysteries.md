@@ -1,0 +1,24 @@
+---
+title: UnsolvedMysteries
+crosslinks:
+- UnresolvedMysteries
+- Missing411
+- autotldr
+- RBI
+- DelphiMurders
+- musicals
+- mauramurray
+- serialkillers
+- CaseyAnthony
+- titlegore
+- AskAnthropology
+- JonBenet
+- codes
+- AskHistorians
+- TrueCrimeDiscussion
+- truecrimereview
+- xkcd
+- MissingPersons
+- whatisthisthing
+- zeropointmodule
+---

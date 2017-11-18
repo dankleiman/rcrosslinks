@@ -1,0 +1,5 @@
+---
+title: bashtips
+crosslinks:
+- linux
+---

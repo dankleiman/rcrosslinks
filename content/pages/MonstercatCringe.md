@@ -1,0 +1,5 @@
+---
+title: MonstercatCringe
+crosslinks:
+- Monstercat
+---

@@ -1,0 +1,24 @@
+---
+title: GameSale
+crosslinks:
+- gameswap
+- mushroomkingdom
+- hardwareswap
+- GCXRep
+- gr3yh47
+- RocketLeagueExchange
+- giftcardexchange
+- NintendoSwitch
+- gamecollecting
+- Persona5
+- UniversalScammerList
+- retrogameswap
+- vita
+- mechmarket
+- WTTNVidia
+- BitMarket
+- RandomKindness
+- wiiu
+- GameTradeRep
+- nes
+---

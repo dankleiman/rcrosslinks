@@ -1,0 +1,24 @@
+---
+title: listentothis
+crosslinks:
+- Linky_links
+- Music
+- outrun
+- hatchery
+- videos
+- LofiHipHop
+- hiphopheads
+- wholesomememes
+- lewronggeneration
+- stonerrock
+- languagelearning
+- xkcd
+- aww
+- Emo
+- futuresynth
+- NewClassicRock
+- doommetal
+- Metal
+- zeropointmodule
+- indieheads
+---

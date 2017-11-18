@@ -1,0 +1,24 @@
+---
+title: slavs_squatting
+crosslinks:
+- livven
+- hatchery
+- croatia
+- MemeEconomy
+- UNBGBBIIVCHIDCTIICBG
+- LinusFaces
+- ysrudlsforfpsJSB
+- ANormalDayInRussia
+- meirl
+- VaporwaveAesthetics
+- excgarated
+- roosterteeth
+- aww
+- westworld
+- AskReddit
+- the_cheeto
+- winemaking
+- evangelion
+- samuraijack
+- AnimalsBeingJerks
+---

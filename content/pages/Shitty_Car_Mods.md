@@ -1,0 +1,24 @@
+---
+title: Shitty_Car_Mods
+crosslinks:
+- ATBGE
+- AwesomeCarMods
+- Battlecars
+- WeirdWheels
+- WTF
+- livven
+- DiWHY
+- delusionalcraigslist
+- trashy
+- dontdeadopeninside
+- Stance
+- mallninjashit
+- shittylimos
+- kachow
+- THE_PACK
+- vandwellers
+- cars
+- Justrolledintotheshop
+- TwoRedditorsOneCup
+- RoastMyCar
+---

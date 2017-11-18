@@ -1,0 +1,5 @@
+---
+title: themagicians
+crosslinks:
+- mildlyinteresting
+---

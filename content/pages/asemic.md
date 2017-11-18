@@ -1,0 +1,5 @@
+---
+title: asemic
+crosslinks:
+- generative
+---

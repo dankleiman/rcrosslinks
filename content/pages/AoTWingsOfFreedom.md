@@ -1,0 +1,5 @@
+---
+title: AoTWingsOfFreedom
+crosslinks:
+- Trophies
+---

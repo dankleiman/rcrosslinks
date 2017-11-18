@@ -1,0 +1,5 @@
+---
+title: Supercuts
+crosslinks:
+- horror
+---

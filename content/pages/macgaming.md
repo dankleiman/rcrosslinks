@@ -1,0 +1,24 @@
+---
+title: macgaming
+crosslinks:
+- Steam
+- apple
+- LiquidSky
+- cloudygamer
+- applehelp
+- GameDeals
+- techsupportmacgyver
+- dayz
+- goygaming
+- wine_gaming
+- Nier_Automata
+- VintageApple
+- microsoftsoftwareswap
+- linux_gaming
+- eGPU
+- PUBATTLEGROUNDS
+- hackintosh
+- Shadowrun
+- mac
+- Piracy
+---

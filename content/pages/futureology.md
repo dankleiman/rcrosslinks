@@ -1,0 +1,5 @@
+---
+title: futureology
+crosslinks:
+- autotldr
+---

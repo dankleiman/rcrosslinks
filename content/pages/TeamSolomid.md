@@ -1,0 +1,24 @@
+---
+title: TeamSolomid
+crosslinks:
+- leagueoflegends
+- Cloud9
+- place
+- vainglorygame
+- lol
+- livven
+- TeamDignitas
+- xkcd
+- fasting
+- LivestreamFail
+- OpTicGaming
+- TeamRedditTeams
+- Overwatch
+- hearthstone
+- CompetitivePUBG
+- Valkrin
+- AMAAggregator
+- WTF
+- BrasilOnReddit
+- Competitiveoverwatch
+---

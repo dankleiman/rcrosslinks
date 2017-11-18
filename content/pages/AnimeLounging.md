@@ -1,0 +1,5 @@
+---
+title: AnimeLounging
+crosslinks:
+- Pixiv
+---

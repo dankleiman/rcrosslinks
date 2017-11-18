@@ -1,0 +1,24 @@
+---
+title: MINI
+crosslinks:
+- MechanicAdvice
+- Justrolledintotheshop
+- Miata
+- metric_units
+- WeirdWheels
+- DiWHY
+- ATBGE
+- overlanding
+- cars
+- personalfinance
+- Suomi
+- pics
+- ifitfits
+- AutoDetailing
+- Cartalk
+- Roadcam
+- MinionHate
+- askcarsales
+- rawdenim
+- plastidip
+---

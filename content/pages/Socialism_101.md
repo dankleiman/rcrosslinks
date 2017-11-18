@@ -1,0 +1,24 @@
+---
+title: Socialism_101
+crosslinks:
+- socialism
+- communism101
+- communism
+- Anarchy101
+- marxism_101
+- CapitalismVSocialism
+- LateStageCapitalism
+- Anarchism
+- AskHistorians
+- shitleftistssay
+- mutualism
+- FULLCOMMUNISM
+- Anarcho_Capitalism
+- RadicalChristianity
+- AskEconomics
+- RevDem
+- WhiteRights
+- programming
+- GoldandBlack
+- spain
+---

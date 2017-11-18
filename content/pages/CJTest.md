@@ -1,0 +1,5 @@
+---
+title: CJTest
+crosslinks:
+- ClashOfClans
+---

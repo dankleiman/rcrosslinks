@@ -1,0 +1,5 @@
+---
+title: Eratoh
+crosslinks:
+- PixelArt
+---

@@ -1,0 +1,5 @@
+---
+title: TheArcanaForge
+crosslinks:
+- UnearthedArcana
+---

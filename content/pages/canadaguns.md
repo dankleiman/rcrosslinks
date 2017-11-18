@@ -1,0 +1,24 @@
+---
+title: canadaguns
+crosslinks:
+- canada
+- canadagunsEE
+- guns
+- weekendgunnit
+- livven
+- CanadaPolitics
+- metacanada
+- Firearms
+- MtF
+- xkcd
+- autotldr
+- MilitaryPorn
+- Drama
+- SuicideWatch
+- Enhancement
+- UFOs
+- SanctionedSuicide
+- CanadaHunting
+- EDC
+- conspiracy
+---

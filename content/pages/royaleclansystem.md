@@ -1,0 +1,5 @@
+---
+title: royaleclansystem
+crosslinks:
+- RoyaleRecruit
+---

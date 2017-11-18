@@ -1,0 +1,5 @@
+---
+title: Ouija
+crosslinks:
+- AskOuija
+---

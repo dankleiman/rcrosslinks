@@ -1,0 +1,24 @@
+---
+title: gameswap
+crosslinks:
+- GameSale
+- mushroomkingdom
+- retrogameswap
+- GameTrade
+- mangaswap
+- gr3yh47
+- RocketLeagueExchange
+- PS4
+- appleswap
+- pkmntcgtrades
+- testimonials
+- GameStop
+- hardwareswap
+- SteamGameSwap
+- MCSRep
+- mechmarket
+- 3dshacks
+- indiegameswap
+- GameDeals
+- legotrade
+---

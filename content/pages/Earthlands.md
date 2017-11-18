@@ -1,0 +1,5 @@
+---
+title: Earthlands
+crosslinks:
+- mcservers
+---

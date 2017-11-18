@@ -1,0 +1,24 @@
+---
+title: GGdiscussion
+crosslinks:
+- KotakuInAction
+- GamerGhazi
+- AgainstGamerGate
+- GGFreeForAll
+- INAT
+- The_Donald
+- MensRights
+- Games
+- kia
+- thesimpsons
+- Pyongyang
+- TheRedPill
+- videos
+- gaming
+- technology
+- TrumpCriticizesTrump
+- news
+- CoolGamesInc
+- uncensorednews
+- Overwatch
+---

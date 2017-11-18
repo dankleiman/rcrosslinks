@@ -1,0 +1,5 @@
+---
+title: MTGZoo
+crosslinks:
+- ModernMagic
+---

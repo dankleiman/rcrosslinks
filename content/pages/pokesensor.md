@@ -1,0 +1,5 @@
+---
+title: pokesensor
+crosslinks:
+- TheSilphRoad
+---

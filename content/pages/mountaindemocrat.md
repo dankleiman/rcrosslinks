@@ -1,0 +1,5 @@
+---
+title: mountaindemocrat
+crosslinks:
+- mcnaughton
+---

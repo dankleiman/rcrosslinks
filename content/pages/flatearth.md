@@ -1,0 +1,24 @@
+---
+title: flatearth
+crosslinks:
+- theworldisflat
+- OurFlatWorld
+- flatearthsociety
+- TopMindsOfReddit
+- space
+- astrophotography
+- livven
+- Flatearther
+- conspiracy
+- askscience
+- Flat_Earth
+- AskHistorians
+- pics
+- Geocentrism
+- flatearthporn
+- TheEarthIsFlat
+- NoStupidQuestions
+- funny
+- AMA
+- chemistry
+---

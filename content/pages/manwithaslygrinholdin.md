@@ -1,0 +1,5 @@
+---
+title: manwithaslygrinholdin
+crosslinks:
+- funny
+---

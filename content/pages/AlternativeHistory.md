@@ -1,0 +1,24 @@
+---
+title: AlternativeHistory
+crosslinks:
+- conspiracy
+- holofractal
+- FringeTheory
+- C_S_T
+- autotldr
+- worldnews
+- HistoricalStreetView
+- Echerdex
+- JoeRogan
+- HistoryRhymes
+- SacredGeometry
+- AskAcademia
+- ConspiracyII
+- mudfossils
+- AlternateHistory
+- AncientGiants
+- AnomaliesUnleashed
+- highersidechats
+- HOLLOWEARTH
+- undelete
+---

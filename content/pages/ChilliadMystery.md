@@ -1,0 +1,5 @@
+---
+title: ChilliadMystery
+crosslinks:
+- chiliadmystery
+---

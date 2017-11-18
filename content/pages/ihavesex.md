@@ -1,0 +1,24 @@
+---
+title: ihavesex
+crosslinks:
+- copypasta
+- oversharing
+- gatekeeping
+- sadcringe
+- trashy
+- xkcd
+- furry_irl
+- thatHappened
+- ChargeYourPhone
+- emojipasta
+- BiggerThanYouThought
+- AdviceAnimals
+- ComedyCemetery
+- ComedyNecrophilia
+- funny
+- NotKenM
+- TrashyText
+- selffuck
+- AskReddit
+- iHaveDinner
+---

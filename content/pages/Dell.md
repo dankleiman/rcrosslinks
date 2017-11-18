@@ -1,0 +1,24 @@
+---
+title: Dell
+crosslinks:
+- SuggestALaptop
+- eGPU
+- razer
+- techsupport
+- Hewlett_Packard
+- laptops
+- thinkpad
+- computing
+- SolusProject
+- linux
+- archlinux
+- autotldr
+- Windows10
+- Fedora
+- hardwareswap
+- Amd
+- apple
+- applecirclejerk
+- Surface
+- nvidia
+---

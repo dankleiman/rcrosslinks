@@ -1,0 +1,5 @@
+---
+title: NewBrunswickCannabis
+crosslinks:
+- autotldr
+---

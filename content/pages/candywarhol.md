@@ -1,0 +1,5 @@
+---
+title: candywarhol
+crosslinks:
+- livven
+---

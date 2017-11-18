@@ -1,0 +1,5 @@
+---
+title: Palermo
+crosslinks:
+- soccer
+---

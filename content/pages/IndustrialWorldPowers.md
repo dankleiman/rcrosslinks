@@ -1,0 +1,5 @@
+---
+title: IndustrialWorldPowers
+crosslinks:
+- IndustrialRevPowers
+---

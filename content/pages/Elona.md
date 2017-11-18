@@ -1,0 +1,5 @@
+---
+title: Elona
+crosslinks:
+- gaming
+---

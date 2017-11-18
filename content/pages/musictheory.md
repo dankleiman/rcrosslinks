@@ -1,0 +1,24 @@
+---
+title: musictheory
+crosslinks:
+- composer
+- WeAreTheMusicMakers
+- kpop
+- Guitar
+- piano
+- todayilearned
+- listentothis
+- classicalmusic
+- guitarlessons
+- Songwriting
+- explainlikeimfive
+- productivity
+- Music
+- askmath
+- jazzguitar
+- composertalk
+- edmproduction
+- IMadeThis
+- gamegrumps
+- gamemusic
+---

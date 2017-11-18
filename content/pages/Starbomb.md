@@ -1,0 +1,5 @@
+---
+title: Starbomb
+crosslinks:
+- rantgrumps
+---

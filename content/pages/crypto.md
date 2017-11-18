@@ -1,0 +1,24 @@
+---
+title: crypto
+crosslinks:
+- autotldr
+- netsec
+- math
+- privacy
+- ethereum
+- technology
+- programming
+- haskell
+- codes
+- PHP
+- tinycode
+- netsecstudents
+- tails
+- TimeLord
+- Cypherpass
+- askscience
+- sysadmin
+- hardware
+- personalfinance
+- encryption
+---

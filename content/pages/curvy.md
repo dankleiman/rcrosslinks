@@ -1,0 +1,24 @@
+---
+title: curvy
+crosslinks:
+- livven
+- sarah_xxx
+- BustyNaturalPornstars
+- MassiveTitsnAss
+- Sexy_curves
+- NaughtyDressGirls
+- JavPreview
+- gonewild30plus
+- stocking_paradise
+- Lucy_Vixen
+- Sexy_Ass_White_Girls
+- BrasilOnReddit
+- iskralawrence
+- lipstickery
+- Momokun_MariahMallad
+- homegrowntits
+- juicyasians
+- BreedingMaterial
+- BustyPetite
+- HighResNSFW
+---

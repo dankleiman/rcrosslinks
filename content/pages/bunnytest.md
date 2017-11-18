@@ -1,0 +1,5 @@
+---
+title: bunnytest
+crosslinks:
+- wholesomememes
+---

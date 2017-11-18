@@ -1,0 +1,5 @@
+---
+title: ModelFRAssemblee
+crosslinks:
+- ModelFRGov
+---

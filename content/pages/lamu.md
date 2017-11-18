@@ -1,0 +1,5 @@
+---
+title: lamu
+crosslinks:
+- italy
+---

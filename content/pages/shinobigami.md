@@ -1,0 +1,5 @@
+---
+title: shinobigami
+crosslinks:
+- rpg
+---

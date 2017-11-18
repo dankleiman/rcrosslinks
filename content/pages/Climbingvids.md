@@ -1,0 +1,5 @@
+---
+title: Climbingvids
+crosslinks:
+- videos
+---

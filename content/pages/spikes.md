@@ -1,0 +1,24 @@
+---
+title: spikes
+crosslinks:
+- magicTCG
+- ModernMagic
+- lrcast
+- magicthecirclejerking
+- FishMTG
+- MTGLegacy
+- TronMTG
+- CompetitiveHS
+- AffinityForArtifacts
+- mtgfrontier
+- modernmagic
+- Scapeshift
+- LavaSpike
+- ModernBUG
+- SkredRed
+- custommagic
+- Drama
+- hearthstone
+- Pauper
+- '2013'
+---

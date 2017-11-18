@@ -1,0 +1,24 @@
+---
+title: borrow
+crosslinks:
+- Assistance
+- Random_Acts_Of_Pizza
+- AskReddit
+- giftcardexchange
+- RandomKindness
+- SLRep
+- Shoplifting
+- GCXRep
+- tifu
+- MyDevelopmentTests
+- aww
+- DotA2
+- Food_Pantry
+- investing
+- trackers
+- Drugs
+- FreeUpVotes
+- electronic_cigarette
+- help
+- DIY_classifieds
+---

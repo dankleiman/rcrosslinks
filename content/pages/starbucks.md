@@ -1,0 +1,24 @@
+---
+title: starbucks
+crosslinks:
+- livven
+- keto
+- SirensGoneWild
+- shittychurning
+- metric_units
+- AMAAggregator
+- UnexpectedHamilton
+- LateStageCapitalism
+- Coffee
+- autotldr
+- gatekeeping
+- HailCorporate
+- funny
+- mildlyinteresting
+- oddlysatisfying
+- NoStupidQuestions
+- Rateme
+- tea
+- PHXList
+- ButtSharpies
+---

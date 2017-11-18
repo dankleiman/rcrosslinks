@@ -1,0 +1,24 @@
+---
+title: Awwducational
+crosslinks:
+- BatFacts
+- livven
+- newsforjenna
+- Ewwducational
+- aww
+- ShittyAnimalFacts
+- todayilearned
+- awwnverts
+- awwwtf
+- TurtleFacts
+- aardvarks
+- nocontext
+- pics
+- ProperAnimalNames
+- IAmA
+- natureismetal
+- exmormon
+- ahhducational
+- GardenWild
+- mildlypenis
+---

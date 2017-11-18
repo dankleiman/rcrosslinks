@@ -1,0 +1,24 @@
+---
+title: COMPLETEANARCHY
+crosslinks:
+- TOTALCOMMUNALISM
+- FULLCOMMUNISM
+- livven
+- Anarchism
+- Ultraleft
+- socialism
+- Anarcho_Capitalism
+- shitleftistssay
+- EnoughBrocialistSpam
+- xkcd
+- The_Donald
+- ANI_COMMUNISM
+- Anarchy101
+- autotldr
+- ChapoTrapHouse
+- Drama
+- FULLDISCOURSE
+- COMPLETEANIMEARCHY
+- pics
+- seddit
+---

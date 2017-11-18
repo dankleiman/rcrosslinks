@@ -1,0 +1,5 @@
+---
+title: GamingMonitorNerds
+crosslinks:
+- YourgamingMonitors
+---

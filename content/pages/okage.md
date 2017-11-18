@@ -1,0 +1,5 @@
+---
+title: okage
+crosslinks:
+- place
+---

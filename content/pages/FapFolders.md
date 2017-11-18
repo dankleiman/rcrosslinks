@@ -1,0 +1,5 @@
+---
+title: FapFolders
+crosslinks:
+- JizzedToThis
+---

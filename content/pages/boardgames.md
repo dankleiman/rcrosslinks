@@ -1,0 +1,24 @@
+---
+title: boardgames
+crosslinks:
+- BoardGameExchange
+- foamcore
+- xkcd
+- Boardgamedeals
+- minipainting
+- Gloomhaven
+- Netrunner
+- rpg
+- 18XX
+- hexandcounter
+- arkhamhorrorlcg
+- DnD
+- ImperialAssaultTMG
+- AgeOfSteam
+- magicTCG
+- AMAAggregator
+- twilightimperium
+- XWingTMG
+- Tak
+- lansing
+---

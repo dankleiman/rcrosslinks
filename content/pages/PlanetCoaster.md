@@ -1,0 +1,24 @@
+---
+title: PlanetCoaster
+crosslinks:
+- livven
+- unitedkingdom
+- PlanetCoasterModding
+- pcmasterrace
+- rollercoasters
+- autotldr
+- wow
+- EiteDagerous
+- shittyplanetcoaster
+- CrackWatch
+- tf2
+- theydidthemath
+- redsox
+- redditposts
+- SFM
+- trains
+- CitiesSkylines
+- tiltshift
+- dirtniggers
+- pcgaming
+---

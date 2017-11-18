@@ -1,0 +1,5 @@
+---
+title: WMOhMyGirl
+crosslinks:
+- kpop
+---

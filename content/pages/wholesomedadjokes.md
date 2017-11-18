@@ -1,0 +1,5 @@
+---
+title: wholesomedadjokes
+crosslinks:
+- wholesomememes
+---

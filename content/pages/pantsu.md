@@ -1,0 +1,23 @@
+---
+title: pantsu
+crosslinks:
+- awwnime
+- KanMusu
+- Animewallpaper
+- kemonomimi
+- Re_Zero
+- WtSSTaDaMiT
+- AnimeFigures
+- shorthairedwaifus
+- anime
+- MyPeopleNeedMe
+- EroticVisualArts
+- luckystar
+- animelegwear
+- livven
+- LearnJapanese
+- 2Booty
+- nocontext
+- OneTrueSaten
+- Upskirt
+---

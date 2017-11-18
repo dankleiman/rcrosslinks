@@ -1,0 +1,5 @@
+---
+title: comicshaven
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: CanyonCrestAcademy
+crosslinks:
+- ApotheosesVainglory
+---

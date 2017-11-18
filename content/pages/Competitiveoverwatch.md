@@ -1,0 +1,24 @@
+---
+title: Competitiveoverwatch
+crosslinks:
+- Overwatch
+- OverwatchUniversity
+- leagueoflegends
+- OverwatchLFT
+- DotA2
+- overwatched
+- starcraft
+- overwatch
+- MouseReview
+- OverwatchCirclejerk
+- OverwatchTMZ
+- OWConsole
+- hearthstone
+- xkcd
+- OverwatchHeroConcepts
+- pcmasterrace
+- livven
+- SymmetraMains
+- truegaming
+- OutOfTheLoop
+---

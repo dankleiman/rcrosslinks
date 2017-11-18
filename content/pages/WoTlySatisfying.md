@@ -1,0 +1,5 @@
+---
+title: WoTlySatisfying
+crosslinks:
+- worldoftanks
+---

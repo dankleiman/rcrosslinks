@@ -1,0 +1,5 @@
+---
+title: BoycottGOP
+crosslinks:
+- AntiTrumpAlliance
+---

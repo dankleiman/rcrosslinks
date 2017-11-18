@@ -1,0 +1,5 @@
+---
+title: DanganRoleplay
+crosslinks:
+- danganronpa
+---

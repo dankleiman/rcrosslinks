@@ -1,0 +1,5 @@
+---
+title: YardBirds
+crosslinks:
+- WTF
+---

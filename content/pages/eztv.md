@@ -1,0 +1,5 @@
+---
+title: eztv
+crosslinks:
+- TorrentSites
+---

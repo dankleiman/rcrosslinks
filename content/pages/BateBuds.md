@@ -1,0 +1,5 @@
+---
+title: BateBuds
+crosslinks:
+- gaypornhunters
+---

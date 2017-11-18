@@ -1,0 +1,5 @@
+---
+title: ImaginaryGotham
+crosslinks:
+- DCcomics
+---

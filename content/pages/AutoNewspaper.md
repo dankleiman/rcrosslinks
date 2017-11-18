@@ -1,0 +1,24 @@
+---
+title: AutoNewspaper
+crosslinks:
+- autotldr
+- me_irl
+- paralympics
+- FrenchWestIndies
+- RalphNortham
+- AMAAggregator
+- fidgetspin
+- raws
+- SethKaperDale
+- modnews
+- programmersnews
+- niceguys
+- Bushpigs
+- conspiracy
+- PuertoRico
+- worldnews
+- HateCrimeHoaxes
+- vaporents
+- aternos
+- worldpolitics
+---

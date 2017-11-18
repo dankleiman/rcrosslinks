@@ -1,0 +1,22 @@
+---
+title: CraftBeer
+crosslinks:
+- StencilTemplates
+- craft
+- shorts
+- frogdogs
+- popcorn
+- tennis
+- livven
+- CanuckEmpire
+- mildyinteresting
+- CatsAreAssholes
+- FoundersAllDayIPA
+- DIY
+- sandiego
+- Whatisthis
+- autotldr
+- mead
+- hops
+- keto
+---

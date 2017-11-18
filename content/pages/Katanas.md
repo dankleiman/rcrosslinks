@@ -1,0 +1,5 @@
+---
+title: Katanas
+crosslinks:
+- SWORDS
+---

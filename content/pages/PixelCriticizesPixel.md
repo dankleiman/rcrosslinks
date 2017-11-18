@@ -1,0 +1,5 @@
+---
+title: PixelCriticizesPixel
+crosslinks:
+- Android
+---

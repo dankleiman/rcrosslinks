@@ -1,0 +1,24 @@
+---
+title: wallpaper
+crosslinks:
+- shittyHDR
+- titlegore
+- pics
+- wallpapers
+- EmpireDidNothingWrong
+- ICanDrawThat
+- polyscapes
+- formula1
+- wallpaperdump
+- HailCorporate
+- malaysia
+- Bonsai
+- VaporwaveArt
+- AccidentalRenaissance
+- multiwall
+- pcgaming
+- outrun
+- DataHoarder
+- firefox
+- StarWars
+---

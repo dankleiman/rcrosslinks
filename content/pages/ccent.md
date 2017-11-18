@@ -1,0 +1,5 @@
+---
+title: ccent
+crosslinks:
+- ccna
+---

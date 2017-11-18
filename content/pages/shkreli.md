@@ -1,0 +1,5 @@
+---
+title: shkreli
+crosslinks:
+- MartinShkreli
+---

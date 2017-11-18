@@ -1,0 +1,5 @@
+---
+title: beerreleases
+crosslinks:
+- Serendipity
+---

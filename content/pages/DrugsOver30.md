@@ -1,0 +1,22 @@
+---
+title: DrugsOver30
+crosslinks:
+- Drugs
+- researchchemicals
+- RCSources
+- plugging
+- MDMA
+- SEXONDRUGS
+- shrooms
+- entheogens
+- DarkNetMarkets
+- samelevel
+- TeenageDrugs
+- drugscirclejerk
+- GetMotivated
+- avesNYC
+- Kava
+- DrugNerds
+- kratom
+- keto
+---

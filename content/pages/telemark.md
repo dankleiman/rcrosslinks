@@ -1,0 +1,5 @@
+---
+title: telemark
+crosslinks:
+- skiing
+---

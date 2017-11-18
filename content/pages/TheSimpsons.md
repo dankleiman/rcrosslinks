@@ -1,0 +1,24 @@
+---
+title: TheSimpsons
+crosslinks:
+- livven
+- simpsonsshitposting
+- HighQualityGifs
+- simpsonsdidit
+- pics
+- autotldr
+- IAmA
+- SimpsonsFaces
+- funny
+- Showerthoughts
+- ireland
+- simpsonsfaces
+- announcements
+- rickandmorty_C137
+- videos
+- simpsonswave
+- spam
+- HailCorporate
+- perfectloops
+- SteamedHams
+---

@@ -1,0 +1,24 @@
+---
+title: INJUSTICE
+crosslinks:
+- livven
+- Kappa
+- respectthreads
+- SuperheroCirclejerk
+- DCcomics
+- arrow
+- NewChallenger
+- gaming
+- rupaulsdragrace
+- FlashTV
+- EarthOneCorps
+- LegendsOfTomorrow
+- Gamingcirclejerk
+- playstation
+- movies
+- NameThatSong
+- furry_irl
+- PrequelMemes
+- Injusticegame
+- mvci
+---

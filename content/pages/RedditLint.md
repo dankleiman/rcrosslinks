@@ -1,0 +1,5 @@
+---
+title: RedditLint
+crosslinks:
+- TargetedEnergyWeapons
+---

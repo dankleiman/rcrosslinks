@@ -1,0 +1,5 @@
+---
+title: fridaynewsdump
+crosslinks:
+- autotldr
+---

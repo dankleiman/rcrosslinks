@@ -1,0 +1,24 @@
+---
+title: Battlecars
+crosslinks:
+- WeirdWheels
+- Shitty_Car_Mods
+- motorcycle
+- 4x4
+- Justrolledintotheshop
+- VEDC
+- WordAvalanches
+- DiWHY
+- Volvo
+- Datsun
+- fordranger
+- lewronggeneration
+- RoastMyCar
+- rally
+- AwesomeCarMods
+- halo
+- LandRover
+- livven
+- overlanding
+- shittytechnicals
+---

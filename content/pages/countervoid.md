@@ -1,0 +1,5 @@
+---
+title: countervoid
+crosslinks:
+- EraseThePlace
+---

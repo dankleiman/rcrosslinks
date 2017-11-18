@@ -1,0 +1,5 @@
+---
+title: FloydFriday
+crosslinks:
+- pinkfloyd
+---

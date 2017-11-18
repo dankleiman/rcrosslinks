@@ -1,0 +1,5 @@
+---
+title: rebus
+crosslinks:
+- puzzles
+---

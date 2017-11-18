@@ -1,0 +1,24 @@
+---
+title: smashbros
+crosslinks:
+- SSBM
+- SSBPM
+- Kappa
+- livven
+- xkcd
+- CrazyHand
+- IAmA
+- wow
+- 20XXstories
+- NintendoSwitch
+- smashgifs
+- OutOfTheLoop
+- legaladvice
+- gaming
+- videos
+- StreetFighter
+- hockey
+- starterpacks
+- starcraft
+- AskReddit
+---

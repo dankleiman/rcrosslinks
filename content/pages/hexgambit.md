@@ -1,0 +1,5 @@
+---
+title: hexgambit
+crosslinks:
+- NintendoSwitch
+---

@@ -1,0 +1,5 @@
+---
+title: PostWhatever
+crosslinks:
+- heyitshorse
+---

@@ -1,0 +1,24 @@
+---
+title: DeadBedrooms
+crosslinks:
+- sex
+- NoFap
+- sexover30
+- adultery
+- BPDlovedones
+- MGTOW
+- xkcd
+- AskReddit
+- asexuality
+- DeadBedroomHookUps
+- karezza
+- science
+- autotldr
+- RPChristians
+- naughtyfromneglect
+- AskMen
+- nofap
+- Asexual
+- pornfree
+- datingoverthirty
+---

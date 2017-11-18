@@ -1,0 +1,5 @@
+---
+title: minimalphonescreens
+crosslinks:
+- iOSthemes
+---

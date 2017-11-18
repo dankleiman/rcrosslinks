@@ -1,0 +1,24 @@
+---
+title: java
+crosslinks:
+- programming
+- learnprogramming
+- Kotlin
+- javahelp
+- learnjava
+- cscareerquestions
+- dailyprogrammer
+- unexpectedfactorial
+- scala
+- AskProgramming
+- Serendipity
+- ProgrammerHumor
+- causeWhyNotMate
+- JavaFX
+- intel
+- Minecraft
+- apple
+- Python
+- androiddev
+- flowchat
+---

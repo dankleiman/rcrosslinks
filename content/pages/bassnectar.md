@@ -1,0 +1,24 @@
+---
+title: bassnectar
+crosslinks:
+- IAmA
+- ElectricForest
+- tippr
+- place
+- TrumpCriticizesTrump
+- hulaween
+- aves
+- HailCorporate
+- gloving
+- EDM
+- livven
+- prettylights
+- OregonEclipse
+- AdvancedProduction
+- livesound
+- BurningMan
+- AllGoodRecords
+- AMAAggregator
+- redditwritessunny
+- traps
+---

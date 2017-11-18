@@ -1,0 +1,5 @@
+---
+title: brikwars
+crosslinks:
+- lego
+---

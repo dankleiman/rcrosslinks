@@ -1,0 +1,24 @@
+---
+title: BleachBraveSouls
+crosslinks:
+- DBZDokkanBattle
+- OnePieceTC
+- BnHASmashTap
+- e
+- livven
+- '2012'
+- MemoryDefrag
+- NarutoBlazing
+- MovieDetails
+- nocontext
+- premed
+- BBSGiveaways
+- Jokes
+- madlads
+- titlegore
+- DuelLinks
+- pokemonduel
+- fairytail
+- AndroidGaming
+- announcements
+---

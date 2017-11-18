@@ -1,0 +1,5 @@
+---
+title: CuriousExpedition
+crosslinks:
+- gamedev
+---

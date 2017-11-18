@@ -1,0 +1,5 @@
+---
+title: AKGaming
+crosslinks:
+- alaska
+---

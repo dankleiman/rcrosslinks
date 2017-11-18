@@ -1,0 +1,24 @@
+---
+title: Homebrewing
+crosslinks:
+- mead
+- prisonhooch
+- TheBrewery
+- metric_units
+- cider
+- firewater
+- HBL
+- TheHopyard
+- winemaking
+- autotldr
+- xkcd
+- AskReddit
+- DIY
+- grainfather
+- pocketsand
+- tifu
+- Flipping
+- wine
+- whatisthisthing
+- Machinists
+---

@@ -1,0 +1,24 @@
+---
+title: quityourbullshit
+crosslinks:
+- AskReddit
+- IAmA
+- pics
+- The_Donald
+- Drama
+- funny
+- OopsDidntMeanTo
+- AsABlackMan
+- nocontext
+- ShitPoliticsSays
+- sadcringe
+- todayilearned
+- nothingeverhappens
+- videos
+- ShitAmericansSay
+- HailCorporate
+- Incels
+- OutOfTheLoop
+- thatHappened
+- gatekeeping
+---

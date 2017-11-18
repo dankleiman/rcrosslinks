@@ -1,0 +1,22 @@
+---
+title: Homesteading
+crosslinks:
+- gardening
+- homestead
+- woodworking
+- SelfSufficiency
+- autotldr
+- TheHopyard
+- energy
+- OffGrid
+- solarpunk
+- Canning
+- PeopleWhoSayHeck
+- Blacksmith
+- aquaponics
+- Beekeeping
+- LifeProTips
+- food
+- pics
+- DIY
+---

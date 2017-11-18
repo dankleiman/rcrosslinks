@@ -1,0 +1,24 @@
+---
+title: CharacterRant
+crosslinks:
+- whowouldwin
+- respectthreads
+- whowouldcirclejerk
+- OnePunchMan
+- Parahumans
+- xkcd
+- suggsverse
+- AskScienceFiction
+- teslore
+- gameofthrones
+- anime
+- IAmA
+- MemeEconomy
+- ElderScrolls
+- mylittlepony
+- StarWarsEU
+- MawInstallation
+- DnD
+- AskReddit
+- asoiaf
+---

@@ -1,0 +1,5 @@
+---
+title: MagicalWhatIf
+crosslinks:
+- HistoryWhatIf
+---

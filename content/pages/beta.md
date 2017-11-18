@@ -1,0 +1,24 @@
+---
+title: beta
+crosslinks:
+- help
+- changelog
+- modnews
+- announcements
+- xkcd
+- ideasfortheadmins
+- woahdude
+- Drama
+- funny
+- Blind
+- friends
+- rexit
+- IASIP
+- OutOfTheLoop
+- RESissues
+- u_yourUserName
+- ProCSS
+- u_woj9000
+- circlejerk
+- u_cyanogen101
+---

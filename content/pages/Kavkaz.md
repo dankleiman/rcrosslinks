@@ -1,0 +1,5 @@
+---
+title: Kavkaz
+crosslinks:
+- armenia
+---

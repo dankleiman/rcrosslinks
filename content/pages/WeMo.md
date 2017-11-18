@@ -1,0 +1,5 @@
+---
+title: WeMo
+crosslinks:
+- amazonecho
+---

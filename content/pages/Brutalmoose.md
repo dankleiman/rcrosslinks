@@ -1,0 +1,5 @@
+---
+title: Brutalmoose
+crosslinks:
+- REEEEEEEEEE
+---

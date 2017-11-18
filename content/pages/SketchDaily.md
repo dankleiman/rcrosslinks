@@ -1,0 +1,24 @@
+---
+title: SketchDaily
+crosslinks:
+- AccidentalWesAnderson
+- redditgetsdrawn
+- Blep
+- ArtFundamentals
+- ICanDrawThat
+- DrawForMe
+- food
+- aww
+- dwarffortress
+- Preimpression
+- sketches
+- VillagePorn
+- EmptyHallways
+- todayilearned
+- SquaredCircle
+- wholesomememes
+- mycology
+- doodles
+- ImaginaryGiants
+- MaliciousCompliance
+---

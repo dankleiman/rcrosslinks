@@ -1,0 +1,5 @@
+---
+title: KinkyLynxy
+crosslinks:
+- AMAAggregator
+---

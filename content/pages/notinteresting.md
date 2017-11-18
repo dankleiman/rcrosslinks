@@ -1,0 +1,24 @@
+---
+title: notinteresting
+crosslinks:
+- livven
+- mildlyinteresting
+- SurrealNSFW
+- slightlyinteresting
+- SUBREDDITNAME
+- unexpectedfactorial
+- underpopular
+- almostinteresting
+- hmmm
+- funny
+- AVoid5
+- firstworldanarchists
+- KarmaConspiracy
+- interestingasfuck
+- mildyinteresting
+- christianityUnchained
+- counting
+- KarmaCourt
+- dataisugly
+- WTF
+---

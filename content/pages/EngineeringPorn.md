@@ -1,0 +1,24 @@
+---
+title: EngineeringPorn
+crosslinks:
+- livven
+- mechanical_gifs
+- interestingasfuck
+- engineering
+- gifs
+- videos
+- oddlysatisfying
+- Skookum
+- autotldr
+- gifsthatendtoosoon
+- VXJunkies
+- Machinists
+- spacex
+- formula1
+- space
+- SweatyPalms
+- xkcd
+- IAmA
+- ArtisanVideos
+- restofthefuckingowl
+---

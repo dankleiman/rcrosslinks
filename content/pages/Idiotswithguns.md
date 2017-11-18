@@ -1,0 +1,5 @@
+---
+title: Idiotswithguns
+crosslinks:
+- livven
+---

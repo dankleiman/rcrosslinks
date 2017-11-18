@@ -1,0 +1,5 @@
+---
+title: monarchist
+crosslinks:
+- LeftCentral
+---

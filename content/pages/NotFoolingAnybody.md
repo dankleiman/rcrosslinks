@@ -1,0 +1,5 @@
+---
+title: NotFoolingAnybody
+crosslinks:
+- mildlyinteresting
+---

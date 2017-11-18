@@ -1,0 +1,5 @@
+---
+title: AllArchaeology
+crosslinks:
+- Archaeology
+---

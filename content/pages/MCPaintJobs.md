@@ -1,0 +1,5 @@
+---
+title: MCPaintJobs
+crosslinks:
+- ATBGE
+---

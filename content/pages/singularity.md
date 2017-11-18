@@ -1,0 +1,24 @@
+---
+title: singularity
+crosslinks:
+- quotes
+- Futurology
+- Shadowrun
+- NewSlangTerms
+- plans
+- Shitstatistssay
+- BasicIncome
+- artificial
+- practicalsingularity
+- xkcd
+- europe
+- neurallace
+- BlackFridaySrike
+- AWLIAS
+- HFY
+- ShitAmericansSay
+- Entomology
+- AskReddit
+- momjacking
+- ethereum
+---

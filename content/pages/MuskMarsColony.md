@@ -1,0 +1,5 @@
+---
+title: MuskMarsColony
+crosslinks:
+- autotldr
+---

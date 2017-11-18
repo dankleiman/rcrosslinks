@@ -1,0 +1,5 @@
+---
+title: SCMPauto
+crosslinks:
+- autotldr
+---

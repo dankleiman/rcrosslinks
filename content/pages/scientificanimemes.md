@@ -1,0 +1,5 @@
+---
+title: scientificanimemes
+crosslinks:
+- Animemes
+---

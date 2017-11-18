@@ -1,0 +1,5 @@
+---
+title: ranma
+crosslinks:
+- OtakuVisualArts
+---

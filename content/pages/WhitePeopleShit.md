@@ -1,0 +1,5 @@
+---
+title: WhitePeopleShit
+crosslinks:
+- WTF
+---

@@ -1,0 +1,5 @@
+---
+title: MonsterHunterMerch
+crosslinks:
+- MonsterHunter
+---

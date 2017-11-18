@@ -1,0 +1,5 @@
+---
+title: GamingMarket
+crosslinks:
+- leagueoflegends
+---

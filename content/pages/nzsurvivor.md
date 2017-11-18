@@ -1,0 +1,5 @@
+---
+title: nzsurvivor
+crosslinks:
+- survivor
+---

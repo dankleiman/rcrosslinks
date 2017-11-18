@@ -1,0 +1,5 @@
+---
+title: tomatoes
+crosslinks:
+- whatsthisplant
+---

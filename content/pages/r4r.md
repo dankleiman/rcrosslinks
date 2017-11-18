@@ -1,0 +1,24 @@
+---
+title: r4r
+crosslinks:
+- r4rtoronto
+- SoCalR4R
+- Rateme
+- dirtyr4r
+- Needafriend
+- PhoenixR4R
+- R4R30Plus
+- xkcd
+- Anxiety
+- CringeAnarchy
+- VirginityExchange
+- RandomActsOfMuffDive
+- Drama
+- CasualConversation
+- NYr4r
+- dragonsfuckingcars
+- gonewildaudio
+- dirtykikpals
+- dirtypenpals
+- AskReddit
+---

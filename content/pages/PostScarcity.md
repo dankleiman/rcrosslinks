@@ -1,0 +1,5 @@
+---
+title: PostScarcity
+crosslinks:
+- autotldr
+---

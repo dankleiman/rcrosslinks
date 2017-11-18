@@ -1,0 +1,5 @@
+---
+title: fossilfighters
+crosslinks:
+- MemeEconomy
+---

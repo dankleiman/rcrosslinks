@@ -1,0 +1,24 @@
+---
+title: Antiques
+crosslinks:
+- translator
+- whatisthisthing
+- castiron
+- translation
+- Translations
+- coins
+- Watches
+- Militariacollecting
+- whatsthisworth
+- Mid_Century
+- Archeology
+- IndianCountry
+- pics
+- Hallmarks
+- DavidBowie
+- swords
+- WhatIsThisPainting
+- vintage
+- spam
+- quilting
+---

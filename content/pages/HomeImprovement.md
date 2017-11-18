@@ -1,0 +1,24 @@
+---
+title: HomeImprovement
+crosslinks:
+- DIY
+- electricians
+- legaladvice
+- AskReddit
+- homeautomation
+- HVAC
+- pics
+- whatisthisthing
+- woodworking
+- homedefense
+- IAmA
+- networking
+- powerwashingporn
+- hometheater
+- lawncare
+- houston
+- Locksmith
+- LifeProTips
+- HomeDepot
+- personalfinance
+---

@@ -1,0 +1,5 @@
+---
+title: ptcgotg
+crosslinks:
+- poketcgonlinetrading
+---

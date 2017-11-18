@@ -1,0 +1,24 @@
+---
+title: HeavySeas
+crosslinks:
+- WarshipPorn
+- livven
+- pics
+- gifs
+- IrelandonReddit
+- CatastrophicFailure
+- warshipsnuffporn
+- Mariners
+- SweatyPalms
+- OSHA
+- WhyWereTheyFilming
+- surfing
+- videos
+- EarthPorn
+- AskHistorians
+- houston
+- FullScorpion
+- SlowMotion
+- WeatherGifs
+- NegativeWithGold
+---

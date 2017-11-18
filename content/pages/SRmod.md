@@ -1,0 +1,5 @@
+---
+title: SRmod
+crosslinks:
+- simplerockets
+---

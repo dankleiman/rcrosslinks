@@ -1,0 +1,5 @@
+---
+title: MyLittlePets
+crosslinks:
+- mylittlepony
+---

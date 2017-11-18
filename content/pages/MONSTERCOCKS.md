@@ -1,0 +1,5 @@
+---
+title: MONSTERCOCKS
+crosslinks:
+- livven
+---

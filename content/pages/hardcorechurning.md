@@ -1,0 +1,5 @@
+---
+title: hardcorechurning
+crosslinks:
+- autotldr
+---

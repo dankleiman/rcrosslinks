@@ -1,0 +1,5 @@
+---
+title: ImaginaryAnime
+crosslinks:
+- ImaginaryColorscapes
+---

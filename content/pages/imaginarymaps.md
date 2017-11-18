@@ -1,0 +1,24 @@
+---
+title: imaginarymaps
+crosslinks:
+- mapmaking
+- AlternateHistoryMaps
+- AlternateHistory
+- MapPorn
+- vexillology
+- xkcd
+- eu4
+- HistoricalWorldPowers
+- paradoxplaza
+- Geosim
+- notcirclejerk
+- DesirePath
+- Suomi
+- geography
+- finlandConspiracy
+- Ronuos
+- conlangs
+- mapporncirclejerk
+- chiliadmystery
+- Romania
+---

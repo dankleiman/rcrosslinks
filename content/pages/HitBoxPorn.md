@@ -1,0 +1,24 @@
+---
+title: HitBoxPorn
+crosslinks:
+- livven
+- gaming
+- Overwatch
+- Warthunder
+- RocketLeague
+- Planetside
+- nonononoyes
+- iRacing
+- PUBATTLEGROUNDS
+- insurgency
+- halo
+- FuckMcCree
+- HeroesandGenerals
+- forhonor
+- rct
+- Tekken
+- DarkSoulsIRL
+- csgo
+- GeneralSam
+- openrct2
+---

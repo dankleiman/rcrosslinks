@@ -1,0 +1,24 @@
+---
+title: Blacksmith
+crosslinks:
+- Bladesmith
+- DIY
+- SWORDS
+- Metalfoundry
+- engineering
+- holdmyvodka
+- metalfoundry
+- ArtisanVideos
+- woodworking
+- mildlypenis
+- knifemaking
+- Welding
+- Machinists
+- electricians
+- wtfdidijustread
+- hammerporn
+- livven
+- ArmsandArmor
+- ShadowBan
+- Bushcraft
+---

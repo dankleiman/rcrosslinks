@@ -1,0 +1,5 @@
+---
+title: mgtowbooks
+crosslinks:
+- MGTOW
+---

@@ -1,0 +1,5 @@
+---
+title: TumblrComedyGold
+crosslinks:
+- TheseFuckingAccounts
+---

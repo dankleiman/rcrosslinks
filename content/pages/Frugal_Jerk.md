@@ -1,0 +1,24 @@
+---
+title: Frugal_Jerk
+crosslinks:
+- livven
+- Frugal
+- AskReddit
+- PFJerk
+- aww
+- IAmA
+- Serendipity
+- excgarated
+- KarmaCourt
+- MapsWithoutNZ
+- CringeAnarchy
+- tifu
+- vegetarian
+- evenwithcontext
+- WTF
+- funny
+- trees
+- frugal
+- Sneakers
+- shittyfoodporn
+---

@@ -1,0 +1,24 @@
+---
+title: Python
+crosslinks:
+- learnpython
+- xkcd
+- programming
+- django
+- learnprogramming
+- datascience
+- functionalprogramming
+- rust
+- nim
+- flask
+- place
+- perl
+- chevres
+- kivy
+- forhire
+- pygame
+- OkCupid
+- datasets
+- me_irl
+- dailyprogrammer
+---

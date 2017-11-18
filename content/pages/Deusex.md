@@ -1,0 +1,24 @@
+---
+title: Deusex
+crosslinks:
+- gmdx
+- Gamingcirclejerk
+- '2013'
+- latestagecapitalism
+- naut
+- patientgamers
+- AskReddit
+- gaming
+- masseffect
+- ItsBeenFun2017
+- neurallace
+- todayilearned
+- livven
+- woahdude
+- childfree
+- pcgaming
+- wine_gaming
+- titlegore
+- autotldr
+- me_irl
+---

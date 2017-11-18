@@ -1,0 +1,21 @@
+---
+title: ultimate
+crosslinks:
+- livven
+- UKUltimate
+- ultimategifs
+- AskReddit
+- iamverysmart
+- sports
+- IAmA
+- e
+- emojipasta
+- nocontext
+- autotldr
+- xkcd
+- fantasyultimate
+- funny
+- SportsTrickShots
+- Fitness
+- highqualitygifs
+---

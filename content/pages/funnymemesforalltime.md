@@ -1,0 +1,5 @@
+---
+title: funnymemesforalltime
+crosslinks:
+- lossedits
+---

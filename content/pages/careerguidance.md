@@ -1,0 +1,24 @@
+---
+title: careerguidance
+crosslinks:
+- cscareerquestions
+- resumes
+- LifeProTips
+- digitalnomad
+- consulting
+- AskReddit
+- ITCareerQuestions
+- AskDocs
+- TEFL
+- AskAcademia
+- skilledtrades
+- ccna
+- writing
+- microgrowery
+- ITCareer
+- Sacramento
+- OnlineEducation
+- VoiceActing
+- Andromeda321
+- personalfinance
+---

@@ -1,0 +1,5 @@
+---
+title: OldSchoolFool
+crosslinks:
+- OldSchoolCool
+---

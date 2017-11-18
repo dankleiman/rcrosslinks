@@ -1,0 +1,22 @@
+---
+title: whatsthatbook
+crosslinks:
+- tipofmytongue
+- ReadeBookOnline
+- gurps
+- nosleep
+- IAmA
+- askphilosophy
+- movies
+- offmychest
+- Fantasy
+- rational
+- Malazan
+- printSF
+- 2nv9ppw
+- scifi
+- confessions
+- csshelp
+- yester
+- titlegore
+---

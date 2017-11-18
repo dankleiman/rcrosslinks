@@ -1,0 +1,5 @@
+---
+title: shoujokakumeiutena
+crosslinks:
+- anime
+---

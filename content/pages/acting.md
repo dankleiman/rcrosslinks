@@ -1,0 +1,24 @@
+---
+title: acting
+crosslinks:
+- AskLosAngeles
+- SAGActorsLosAngeles
+- me_irl
+- Screenwriting
+- OldSchoolCool
+- singing
+- professional
+- RecordThisForFree
+- Documentaries
+- AskTrumpSupporters
+- GetOrganized
+- fu85q8
+- canadaexpressentry
+- learnart
+- CorgiGifs
+- cocktails
+- autotldr
+- asoiaf
+- 2m4y492
+- VoiceActing
+---

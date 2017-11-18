@@ -1,0 +1,5 @@
+---
+title: casio
+crosslinks:
+- funny
+---

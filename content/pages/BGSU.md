@@ -1,0 +1,5 @@
+---
+title: BGSU
+crosslinks:
+- CringeAnarchy
+---

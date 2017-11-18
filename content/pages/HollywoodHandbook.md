@@ -1,0 +1,5 @@
+---
+title: HollywoodHandbook
+crosslinks:
+- Earwolf
+---

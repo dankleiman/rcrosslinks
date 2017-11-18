@@ -1,0 +1,5 @@
+---
+title: SevenToEternity
+crosslinks:
+- ImageComics
+---

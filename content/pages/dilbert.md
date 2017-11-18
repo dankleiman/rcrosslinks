@@ -1,0 +1,5 @@
+---
+title: dilbert
+crosslinks:
+- xkcd
+---

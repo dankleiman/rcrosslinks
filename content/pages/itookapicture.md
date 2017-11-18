@@ -1,0 +1,24 @@
+---
+title: itookapicture
+crosslinks:
+- pics
+- outrun
+- photocritique
+- AccidentalWesAnderson
+- EarthPorn
+- travel
+- VaporwaveAesthetics
+- AccidentalRenaissance
+- HailCorporate
+- analog
+- livven
+- OldSchoolCool
+- IrelandonReddit
+- worldnews
+- Art
+- photoclass2017
+- london
+- CemeteryPorn
+- mildlyinteresting
+- SonyAlpha
+---

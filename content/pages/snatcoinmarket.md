@@ -1,0 +1,5 @@
+---
+title: snatcoinmarket
+crosslinks:
+- snatcoin
+---

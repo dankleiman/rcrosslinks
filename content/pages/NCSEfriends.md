@@ -1,0 +1,5 @@
+---
+title: NCSEfriends
+crosslinks:
+- autotldr
+---

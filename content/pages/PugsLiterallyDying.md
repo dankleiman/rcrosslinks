@@ -1,0 +1,5 @@
+---
+title: PugsLiterallyDying
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: phillies
+crosslinks:
+- letsgofish
+- reddit_stream
+- Braves
+- MLBStreams
+- Nationals
+- Dodgers
+- Mariners
+- hockey
+- livven
+- NewYorkMets
+- aww
+- orioles
+- patientgamers
+- Brewers
+- OutOfTheLoop
+- Padres
+- Flyers
+- philadelphia
+- Reds
+- philliesgifs
+---

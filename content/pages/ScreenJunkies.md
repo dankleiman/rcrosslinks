@@ -1,0 +1,5 @@
+---
+title: ScreenJunkies
+crosslinks:
+- funny
+---

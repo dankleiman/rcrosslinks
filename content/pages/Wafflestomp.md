@@ -1,0 +1,5 @@
+---
+title: Wafflestomp
+crosslinks:
+- mildlyinteresting
+---

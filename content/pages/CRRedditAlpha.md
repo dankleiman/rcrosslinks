@@ -1,0 +1,5 @@
+---
+title: CRRedditAlpha
+crosslinks:
+- ClashRoyale
+---

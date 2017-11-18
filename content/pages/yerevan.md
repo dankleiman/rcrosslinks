@@ -1,0 +1,5 @@
+---
+title: yerevan
+crosslinks:
+- armenia
+---

@@ -1,0 +1,5 @@
+---
+title: evnova
+crosslinks:
+- xkcd
+---

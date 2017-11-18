@@ -1,0 +1,24 @@
+---
+title: CringeAnarchy
+crosslinks:
+- Incels
+- The_Donald
+- Drama
+- LateStageCapitalism
+- AskReddit
+- livven
+- copypasta
+- kangz
+- politics
+- sadcringe
+- jesuschristreddit
+- IAmA
+- KotakuInAction
+- ImGoingToHellForThis
+- funny
+- autotldr
+- OutOfTheLoop
+- vegan
+- Wtfandom
+- pics
+---

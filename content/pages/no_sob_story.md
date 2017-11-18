@@ -1,0 +1,24 @@
+---
+title: no_sob_story
+crosslinks:
+- pics
+- Serendipity
+- UpvotedBecauseGirl
+- happy
+- rva
+- pokemon
+- cats
+- milliondollarextreme
+- gifs
+- funny
+- lego
+- progresspics
+- xkcd
+- gaming
+- OpiatesRecovery
+- aww
+- HumansBeingBros
+- YUROP
+- MarchAgainstTrump
+- livven
+---

@@ -1,0 +1,24 @@
+---
+title: MakeupRehab
+crosslinks:
+- MakeupAddiction
+- PanPorn
+- muacjdiscussion
+- AsianBeauty
+- makeupexchange
+- femalefashionadvice
+- Indiemakeupandmore
+- AustralianMakeup
+- OliveMUA
+- indiemakeupandmore
+- personalfinance
+- BeautyGuruChat
+- BeautyBoxes
+- BeautyGuruChatter
+- HFY
+- declutter
+- muacirclejerk
+- Serendipity
+- DIYBeauty
+- UnexpectedHamilton
+---

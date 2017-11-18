@@ -1,0 +1,23 @@
+---
+title: violinist
+crosslinks:
+- classicalmusic
+- Jazz
+- jazz
+- livven
+- skeptic
+- Gear4Sale
+- MusicEd
+- titlegore
+- Viola
+- CampingandHiking
+- VXJunkies
+- piano
+- MajoringInMusic
+- knitting
+- luthier
+- musictheory
+- lego
+- Fiddle
+- jazzguitar
+---

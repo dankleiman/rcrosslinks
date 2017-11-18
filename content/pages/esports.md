@@ -1,0 +1,24 @@
+---
+title: esports
+crosslinks:
+- leagueoflegends
+- starcraft
+- Competitiveoverwatch
+- DotA2
+- halo
+- CoDCompetitive
+- thisweekinreview
+- autotldr
+- Twitter
+- PUBATTLEGROUNDS
+- DoMyHomework
+- en_US
+- livven
+- LivestreamFail
+- makingmoney
+- GuildWars
+- lol
+- StreetFighter
+- datasets
+- modnews
+---

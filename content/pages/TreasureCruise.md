@@ -1,0 +1,5 @@
+---
+title: TreasureCruise
+crosslinks:
+- OnePieceTC
+---

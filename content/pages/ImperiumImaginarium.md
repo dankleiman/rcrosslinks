@@ -1,0 +1,5 @@
+---
+title: ImperiumImaginarium
+crosslinks:
+- WritingPrompts
+---

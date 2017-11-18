@@ -1,0 +1,24 @@
+---
+title: PHP
+crosslinks:
+- PHPhelp
+- laravel
+- programming
+- ProgrammerHumor
+- phpsec
+- autotldr
+- phphelp
+- learnprogramming
+- node
+- Python
+- linux
+- colinodell
+- tommymuehle
+- lolphp
+- rust
+- Jokes
+- me_irl
+- payum
+- CRM
+- nocontext
+---

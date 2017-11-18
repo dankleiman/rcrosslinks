@@ -1,0 +1,5 @@
+---
+title: YouTubeHaikuClassic
+crosslinks:
+- videos
+---

@@ -1,0 +1,5 @@
+---
+title: ConanExilesXbox
+crosslinks:
+- ConanExiles
+---

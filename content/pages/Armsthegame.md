@@ -1,0 +1,5 @@
+---
+title: Armsthegame
+crosslinks:
+- nintendo
+---

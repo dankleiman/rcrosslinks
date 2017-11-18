@@ -1,0 +1,5 @@
+---
+title: NewAlbums
+crosslinks:
+- FutureMusic
+---

@@ -1,0 +1,24 @@
+---
+title: botsrights
+crosslinks:
+- copypasta
+- Drama
+- CringeAnarchy
+- emojipasta
+- dankmemes
+- AskReddit
+- me_irl
+- worldnews
+- ProgrammerHumor
+- anime_irl
+- OldSchoolCool
+- AyyMD
+- jesuschristreddit
+- wholesomememes
+- ComedyCemetery
+- DarkNetMarkets
+- IAmA
+- mildlyinteresting
+- teenagers
+- rickandmorty
+---

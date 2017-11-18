@@ -1,0 +1,5 @@
+---
+title: mathclubs
+crosslinks:
+- recreationalmath
+---

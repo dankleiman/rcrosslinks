@@ -1,0 +1,24 @@
+---
+title: ElectricSkateboarding
+crosslinks:
+- MellowBoards
+- metric_units
+- kickstarter
+- AskPhysics
+- theydidthemath
+- UnlimitedEngineering
+- 3Dprinting
+- modhelp
+- technology
+- '18650'
+- shittykickstarters
+- redditrequest
+- EBoardMarketplace
+- autotldr
+- electronic_cigarette
+- askscience
+- AMAAggregator
+- videos
+- xkcd
+- needamod
+---

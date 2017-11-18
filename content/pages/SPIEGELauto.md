@@ -1,0 +1,5 @@
+---
+title: SPIEGELauto
+crosslinks:
+- autotldr
+---

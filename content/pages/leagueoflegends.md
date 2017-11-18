@@ -1,0 +1,24 @@
+---
+title: leagueoflegends
+crosslinks:
+- LeagueOfMeta
+- summonerschool
+- DotA2
+- LoLeventVoDs
+- TeamRedditTeams
+- leagueofmeta
+- TeamSolomid
+- LeagueConnect
+- xkcd
+- CLG
+- LeagueOfVideos
+- OutOfTheLoop
+- supportlol
+- Overwatch
+- AskReddit
+- hearthstone
+- LoLVODHighlights
+- UrgotMains
+- copypasta
+- TaliyahMains
+---

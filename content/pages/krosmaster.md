@@ -1,0 +1,5 @@
+---
+title: krosmaster
+crosslinks:
+- foamcore
+---

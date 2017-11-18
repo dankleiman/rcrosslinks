@@ -1,0 +1,5 @@
+---
+title: Phillylist
+crosslinks:
+- Serendipity
+---

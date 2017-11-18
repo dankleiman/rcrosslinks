@@ -1,0 +1,5 @@
+---
+title: SGIcultRecoveryRoom
+crosslinks:
+- japanlife
+---

@@ -1,0 +1,5 @@
+---
+title: DragonProjectGlobal
+crosslinks:
+- KairiSeiMillionArthur
+---

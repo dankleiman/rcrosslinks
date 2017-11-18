@@ -1,0 +1,5 @@
+---
+title: Reicast
+crosslinks:
+- EmulationOnAndroid
+---

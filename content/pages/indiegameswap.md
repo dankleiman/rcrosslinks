@@ -1,0 +1,24 @@
+---
+title: indiegameswap
+crosslinks:
+- IGSRep
+- SteamGameSwap
+- GameTrade
+- enough_____spam
+- GameDeals
+- sgsflair
+- Steam
+- GameTradeRep
+- gametrade
+- igsrep
+- SteamTradingCardSwap
+- GameDealsMeta
+- u_xxstasxx
+- TotalWarArena
+- id
+- FREE
+- duelyst
+- g2a
+- factorio
+- RandomActsOfGaming
+---

@@ -1,0 +1,5 @@
+---
+title: amateurastronomy
+crosslinks:
+- Eclipses
+---

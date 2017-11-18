@@ -1,0 +1,5 @@
+---
+title: ImaginaryPathways
+crosslinks:
+- ImaginaryCentaurs
+---

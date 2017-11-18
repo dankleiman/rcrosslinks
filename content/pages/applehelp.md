@@ -1,0 +1,24 @@
+---
+title: applehelp
+crosslinks:
+- apple
+- mac
+- osx
+- ipad
+- self
+- MacOS
+- hardwareswap
+- AppleWhatShouldIBuy
+- xkcd
+- ITunes
+- techsupport
+- AppleWatch
+- ios
+- AndroidQuestions
+- legaladvice
+- headphones
+- talesfromtechsupport
+- sideloaded
+- Android
+- Dell
+---

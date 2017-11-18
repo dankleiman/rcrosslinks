@@ -1,0 +1,5 @@
+---
+title: WholesomeFanTheories
+crosslinks:
+- wholesomemes
+---

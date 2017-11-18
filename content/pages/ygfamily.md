@@ -1,0 +1,5 @@
+---
+title: ygfamily
+crosslinks:
+- kpop
+---

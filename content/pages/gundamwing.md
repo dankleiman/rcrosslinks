@@ -1,0 +1,5 @@
+---
+title: gundamwing
+crosslinks:
+- Gundam
+---

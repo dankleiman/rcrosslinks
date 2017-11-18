@@ -1,0 +1,5 @@
+---
+title: trumplogic
+crosslinks:
+- autotldr
+---

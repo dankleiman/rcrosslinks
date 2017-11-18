@@ -1,0 +1,5 @@
+---
+title: HockeyAwards
+crosslinks:
+- hockey
+---

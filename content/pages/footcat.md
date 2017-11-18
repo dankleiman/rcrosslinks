@@ -1,0 +1,5 @@
+---
+title: footcat
+crosslinks:
+- pics
+---

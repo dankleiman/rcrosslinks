@@ -1,0 +1,5 @@
+---
+title: kryptowaluty
+crosslinks:
+- NEO
+---

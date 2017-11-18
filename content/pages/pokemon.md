@@ -1,0 +1,24 @@
+---
+title: pokemon
+crosslinks:
+- pokemontrades
+- livven
+- stunfisk
+- ShinyPokemon
+- gaming
+- xkcd
+- Pixiv
+- PokemonROMhacks
+- NintendoSwitch
+- pokemonrng
+- PokeMoonSun
+- 3dshacks
+- nuzlocke
+- BattleFactory
+- TheFestivalPlaza
+- 3DS
+- nintendo
+- SVExchange
+- TPPKappa
+- pokemongo
+---

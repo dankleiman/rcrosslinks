@@ -1,0 +1,5 @@
+---
+title: businessstrategygame
+crosslinks:
+- MBA
+---

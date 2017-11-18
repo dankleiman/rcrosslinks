@@ -1,0 +1,5 @@
+---
+title: eMusicofficial
+crosslinks:
+- modnews
+---

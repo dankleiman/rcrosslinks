@@ -1,0 +1,5 @@
+---
+title: Shittycosplay
+crosslinks:
+- Marvel
+---

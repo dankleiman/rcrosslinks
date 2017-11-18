@@ -1,0 +1,5 @@
+---
+title: Melanoma
+crosslinks:
+- cancer
+---

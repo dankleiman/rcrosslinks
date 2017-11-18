@@ -1,0 +1,5 @@
+---
+title: loosepussy
+crosslinks:
+- cats
+---

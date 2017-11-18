@@ -1,0 +1,5 @@
+---
+title: HotlineMiamiMods
+crosslinks:
+- HotlineMiami
+---

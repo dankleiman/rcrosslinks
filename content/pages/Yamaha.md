@@ -1,0 +1,5 @@
+---
+title: Yamaha
+crosslinks:
+- motorcycles
+---

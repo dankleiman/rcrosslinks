@@ -1,0 +1,24 @@
+---
+title: cordcutters
+crosslinks:
+- autotldr
+- Vue
+- technology
+- AndroidTV
+- ATT
+- Roku
+- HomeNetworking
+- DirecTVNow
+- ZippyTheChicken
+- xkcd
+- Frugal
+- television
+- PleX
+- movies
+- hometheater
+- Muricanized
+- slingtv
+- '2017'
+- verizon
+- netflix
+---

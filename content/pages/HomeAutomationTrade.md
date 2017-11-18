@@ -1,0 +1,5 @@
+---
+title: HomeAutomationTrade
+crosslinks:
+- homeautomation
+---

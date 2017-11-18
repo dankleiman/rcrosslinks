@@ -1,0 +1,5 @@
+---
+title: CrossEyedFap
+crosslinks:
+- virtualreality
+---

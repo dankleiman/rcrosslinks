@@ -1,0 +1,24 @@
+---
+title: dating_advice
+crosslinks:
+- amiugly
+- seduction
+- dating
+- TheRedPill
+- WhereIsPepper
+- relationships
+- AskReddit
+- OkCupid
+- AskMen
+- Rateme
+- ForeverAlone
+- ScienceOfDating
+- askwomenadvice
+- niceguys
+- Tinder
+- me_irl
+- normalnudes
+- MGTOW
+- Incels
+- socialskills
+---

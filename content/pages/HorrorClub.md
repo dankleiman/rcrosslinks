@@ -1,0 +1,5 @@
+---
+title: HorrorClub
+crosslinks:
+- HorrorReviewed
+---

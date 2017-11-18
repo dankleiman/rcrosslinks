@@ -1,0 +1,5 @@
+---
+title: ProjectKanak
+crosslinks:
+- CryptoNote
+---

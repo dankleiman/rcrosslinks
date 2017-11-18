@@ -1,0 +1,5 @@
+---
+title: SneakyBackgroundDogs
+crosslinks:
+- funny
+---

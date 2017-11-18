@@ -1,0 +1,5 @@
+---
+title: DickSlips
+crosslinks:
+- SleepingMen
+---

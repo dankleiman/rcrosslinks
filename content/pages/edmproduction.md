@@ -1,0 +1,24 @@
+---
+title: edmproduction
+crosslinks:
+- WeAreTheMusicMakers
+- edmprodcirclejerk
+- FL_Studio
+- makinghiphop
+- trapproduction
+- EDM
+- musictheory
+- synthesizers
+- Drumkits
+- audioengineering
+- synthrecipes
+- MusicInTheMaking
+- electronicmusic
+- autotldr
+- Beatmatch
+- SongStems
+- MusicBattlestations
+- AdvancedProduction
+- trap
+- Flume
+---

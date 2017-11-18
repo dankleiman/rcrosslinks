@@ -1,0 +1,5 @@
+---
+title: assyrian
+crosslinks:
+- Assyria
+---

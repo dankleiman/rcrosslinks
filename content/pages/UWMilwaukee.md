@@ -1,0 +1,5 @@
+---
+title: UWMilwaukee
+crosslinks:
+- Serendipity
+---

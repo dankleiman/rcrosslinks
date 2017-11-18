@@ -1,0 +1,5 @@
+---
+title: WebAdmin
+crosslinks:
+- Serendipity
+---

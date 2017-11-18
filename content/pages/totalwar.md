@@ -1,0 +1,24 @@
+---
+title: totalwar
+crosslinks:
+- livven
+- historicaltotalwar
+- AskHistorians
+- Warhammer
+- CrusaderKings
+- Gamingcirclejerk
+- GameDeals
+- pcmasterrace
+- Vermintide
+- PrequelMemes
+- eu4
+- ShadowBan
+- ManyATrueNerd
+- patientgamers
+- razer
+- raerth
+- gifs
+- wow
+- REEEEEEEEEE
+- aww
+---

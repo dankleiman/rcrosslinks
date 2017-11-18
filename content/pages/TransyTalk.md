@@ -1,0 +1,23 @@
+---
+title: TransyTalk
+crosslinks:
+- asktransgender
+- traaaaaaannnnnnnnnns
+- MtF
+- transgendercirclejerk
+- GenderCynical
+- meettransgirls
+- GenderCritical
+- Random_Acts_Of_Amazon
+- MadeMeCry
+- xkcd
+- NonBinary
+- LateStageGenderBinary
+- Transgender_Surgeries
+- PS4
+- TransgenderR4R
+- mtf
+- transart
+- transgender_artists
+- q4q
+---

@@ -1,0 +1,5 @@
+---
+title: collingwoodfc
+crosslinks:
+- AFL
+---

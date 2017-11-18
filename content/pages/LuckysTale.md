@@ -1,0 +1,5 @@
+---
+title: LuckysTale
+crosslinks:
+- killingfloor
+---

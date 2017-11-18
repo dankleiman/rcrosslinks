@@ -1,0 +1,5 @@
+---
+title: pyongyamg
+crosslinks:
+- LateStageCapitalism
+---

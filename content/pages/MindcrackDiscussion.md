@@ -1,0 +1,5 @@
+---
+title: MindcrackDiscussion
+crosslinks:
+- mindcrackcirclejerk
+---

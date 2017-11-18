@@ -1,0 +1,5 @@
+---
+title: BeautyMarks
+crosslinks:
+- gonewild
+---

@@ -1,0 +1,5 @@
+---
+title: skyrimrp
+crosslinks:
+- teslore
+---

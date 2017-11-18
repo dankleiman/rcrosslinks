@@ -1,0 +1,24 @@
+---
+title: thepapinis
+crosslinks:
+- Sherri_Papini
+- Redding
+- JanuaryProject
+- MarkMyWords
+- announcements
+- UnresolvedMysteries
+- aves
+- modhelp
+- politics
+- help
+- conspiracy
+- nursing
+- woahdude
+- tall
+- aww
+- IAmA
+- AskReddit
+- ShadowBan
+- trueprivinv
+- Nurses
+---

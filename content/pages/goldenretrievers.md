@@ -1,0 +1,24 @@
+---
+title: goldenretrievers
+crosslinks:
+- livven
+- aww
+- Dogtraining
+- rarepuppers
+- puppy101
+- OldManDog
+- SneakyBackgroundFeet
+- CanineMajesty
+- LifePupperTips
+- FidgetSpinners
+- Serendipity
+- funny
+- Blep
+- woof_irl
+- doggos
+- CozyPlaces
+- askvet
+- dogs
+- Drama
+- greatpyrenees
+---

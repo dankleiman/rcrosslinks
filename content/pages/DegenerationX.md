@@ -1,0 +1,5 @@
+---
+title: DegenerationX
+crosslinks:
+- livven
+---

@@ -1,0 +1,5 @@
+---
+title: BSPN
+crosslinks:
+- autotldr
+---

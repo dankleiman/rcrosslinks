@@ -1,0 +1,5 @@
+---
+title: MilitaryWives
+crosslinks:
+- USMilitarySO
+---

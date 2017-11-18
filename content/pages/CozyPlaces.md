@@ -1,0 +1,24 @@
+---
+title: CozyPlaces
+crosslinks:
+- pics
+- raining
+- livven
+- japanpics
+- RoomPorn
+- AmateurRoomPorn
+- TinyHouses
+- HailCorporate
+- mildlyinteresting
+- toomanypillows
+- norwayonreddit
+- crazystairs
+- vandwellers
+- hmmm
+- HistoryPorn
+- ImaginaryInteriors
+- Cinemagraphs
+- UnexpectedHitler
+- vinyl
+- tiltshift
+---

@@ -1,0 +1,24 @@
+---
+title: Cinemagraphs
+crosslinks:
+- livven
+- perfectloops
+- Plastuer
+- HailCorporate
+- noisygifs
+- Art
+- aww
+- woahdude
+- LivingBackgrounds
+- gifs
+- CozyPlaces
+- WeatherGifs
+- NatureIsFuckingLit
+- Serendipity
+- mildlypenis
+- videos
+- AfterEffects
+- ImaginaryMindscapes
+- movies
+- DIY
+---

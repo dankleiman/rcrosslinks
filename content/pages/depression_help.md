@@ -1,0 +1,21 @@
+---
+title: depression_help
+crosslinks:
+- getdisciplined
+- ADHD
+- me_irl
+- SocialEngineering
+- Needafriend
+- DOTA
+- i_need_help
+- visualsnow
+- r4r
+- amiugly
+- legaladvice
+- IWantOut
+- keto
+- KindVoice
+- depression
+- tifu
+- financialindependence
+---

@@ -1,0 +1,5 @@
+---
+title: Dalhousie
+crosslinks:
+- halifax
+---

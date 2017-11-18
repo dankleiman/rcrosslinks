@@ -1,0 +1,5 @@
+---
+title: ForHonorAcademy
+crosslinks:
+- CompetitiveForHonor
+---

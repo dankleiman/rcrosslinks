@@ -1,0 +1,24 @@
+---
+title: ToolBand
+crosslinks:
+- ToolJerk
+- ToolTickets
+- place
+- livven
+- soundsliketool
+- radiohead
+- placestart
+- ShitTheFalseSay
+- futurama
+- makesyoumoist
+- aperfectcircle
+- Bender
+- IAmA
+- nashville
+- UnresolvedMysteries
+- nin
+- ToolProject
+- vinyl
+- FuckImOld
+- FUCKGARY
+---

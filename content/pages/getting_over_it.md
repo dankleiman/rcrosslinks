@@ -1,0 +1,24 @@
+---
+title: getting_over_it
+crosslinks:
+- SuicideWatch
+- depression
+- AskReddit
+- Existential_crisis
+- Stoicism
+- LifeProTips
+- HappyTrees
+- Logger1234Method
+- wholesomememes
+- dpdr
+- theXeffect
+- Codependency
+- productivity
+- zen
+- marriedredpill
+- getdisciplined
+- CBD
+- NoStupidQuestions
+- DysmorphicDisorder
+- stopdrinking
+---

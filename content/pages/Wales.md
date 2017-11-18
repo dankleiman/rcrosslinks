@@ -1,0 +1,24 @@
+---
+title: Wales
+crosslinks:
+- place
+- learnwelsh
+- livven
+- ukpolitics
+- autotldr
+- unitedkingdom
+- CelticUnion
+- Scotland
+- ireland
+- paradoxplaza
+- papertowns
+- placestart
+- cymru
+- EndFPTP
+- HailCorporate
+- Kaiserreich
+- pics
+- Historians
+- DIY
+- europe
+---

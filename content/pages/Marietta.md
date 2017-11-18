@@ -1,0 +1,5 @@
+---
+title: Marietta
+crosslinks:
+- Atlanta
+---

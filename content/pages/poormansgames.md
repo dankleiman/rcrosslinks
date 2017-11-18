@@ -1,0 +1,5 @@
+---
+title: poormansgames
+crosslinks:
+- freegames
+---

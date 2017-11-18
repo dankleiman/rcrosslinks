@@ -1,0 +1,5 @@
+---
+title: AssHatHackers
+crosslinks:
+- itsaunixsystem
+---

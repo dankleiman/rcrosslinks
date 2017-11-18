@@ -1,0 +1,24 @@
+---
+title: puns
+crosslinks:
+- Jokes
+- funny
+- WorstPuns
+- xkcd
+- pcmasterrace
+- Punny
+- Minecraft
+- pics
+- livven
+- ShittyAnimalFacts
+- dadjokes
+- reactiongifs
+- nocontext
+- television
+- gravityfalls
+- childtheories
+- AntiJoke
+- HostileArchitecture
+- BlackPeopleTwitter
+- musicmemes
+---

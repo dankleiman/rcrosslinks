@@ -1,0 +1,5 @@
+---
+title: NMSFrance
+crosslinks:
+- NoMansSkyTheGame
+---

@@ -1,0 +1,5 @@
+---
+title: allthemods
+crosslinks:
+- Technode
+---

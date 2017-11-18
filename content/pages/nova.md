@@ -1,0 +1,24 @@
+---
+title: nova
+crosslinks:
+- washingtondc
+- autotldr
+- Roadcam
+- VAGuns
+- VirginiaPolitics
+- rva
+- gatekeeping
+- xkcd
+- PFSENSE
+- novacars
+- ShitRedditSays
+- AutoDetailing
+- interestingplates
+- livven
+- Dashcam
+- cars
+- ShadowBan
+- investing
+- jesuschristreddit
+- pics
+---

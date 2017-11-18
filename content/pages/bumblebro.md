@@ -1,0 +1,5 @@
+---
+title: bumblebro
+crosslinks:
+- funny
+---

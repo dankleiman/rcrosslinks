@@ -1,0 +1,24 @@
+---
+title: TinyTrumps
+crosslinks:
+- livven
+- The_Donald
+- EnoughTrumpSpam
+- announcements
+- AskHistorians
+- pics
+- tinytrump
+- OutOfTheLoop
+- cutouts
+- monsterTrumps
+- allowedonpop
+- PrequelMemes
+- thelastpsychiatrist
+- hmmm
+- history
+- TrumpBangsThings
+- teslamotors
+- facepalm
+- modnews
+- canada
+---

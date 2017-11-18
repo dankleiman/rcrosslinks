@@ -1,0 +1,5 @@
+---
+title: MineBlocks
+crosslinks:
+- Serendipity
+---

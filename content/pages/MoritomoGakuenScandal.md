@@ -1,0 +1,5 @@
+---
+title: MoritomoGakuenScandal
+crosslinks:
+- newsokur
+---

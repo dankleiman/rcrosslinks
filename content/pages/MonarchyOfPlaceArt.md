@@ -1,0 +1,5 @@
+---
+title: MonarchyOfPlaceArt
+crosslinks:
+- place
+---

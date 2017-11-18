@@ -1,0 +1,24 @@
+---
+title: sadcringe
+crosslinks:
+- Incels
+- cringepics
+- The_Donald
+- pics
+- CringeAnarchy
+- AskReddit
+- Drama
+- trashy
+- niceguys
+- xkcd
+- EnoughTrumpSpam
+- livven
+- OutOfTheLoop
+- funny
+- uwaterloo
+- politics
+- videos
+- copypasta
+- dankmemes
+- AdviceAnimals
+---

@@ -1,0 +1,5 @@
+---
+title: SWlegion
+crosslinks:
+- ImperialAssaultTMG
+---

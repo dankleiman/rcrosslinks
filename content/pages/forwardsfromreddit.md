@@ -1,0 +1,24 @@
+---
+title: forwardsfromreddit
+crosslinks:
+- ForwardsFromREDACTED
+- gorillaz
+- forwardsfromgrandma
+- copypasta
+- OutOfTheLoop
+- BadSocialScience
+- AskHistorians
+- lewronggeneration
+- BlackPeopleTwitter
+- starterpacks
+- GenderCritical
+- magicskyfairy
+- dankmemes
+- excgarated
+- GenderCynical
+- The_Donald
+- ofl
+- atheism
+- xkcd
+- AskReddit
+---

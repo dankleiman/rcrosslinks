@@ -1,0 +1,24 @@
+---
+title: smoking
+crosslinks:
+- BBQ
+- spicy
+- FoodPorn
+- sousvide
+- grilledcheese
+- food
+- meat
+- livven
+- stopsmoking
+- chimichangas
+- whatisthisthing
+- KarmaCourt
+- causeWhyNotMate
+- snackexchange
+- Traeger
+- VintageMenus
+- askscience
+- HelpMeFind
+- metric_units
+- Breadit
+---

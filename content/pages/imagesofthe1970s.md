@@ -1,0 +1,24 @@
+---
+title: imagesofthe1970s
+crosslinks:
+- OldSchoolCool
+- pics
+- imagesofnetwork
+- HistoryPorn
+- MoviePosterPorn
+- ClassicMarvelCovers
+- TheWayWeWere
+- CineShots
+- carporn
+- mildlyinteresting
+- PropagandaPosters
+- classiccars
+- u_2BrkOnThru
+- Watches
+- ClassicMoviePosters
+- RetroFuturism
+- Art
+- vintageads
+- coins
+- motorcycles
+---

@@ -1,0 +1,24 @@
+---
+title: pics
+crosslinks:
+- funny
+- AskReddit
+- The_Donald
+- aww
+- mildlyinteresting
+- news
+- videos
+- politics
+- gifs
+- livven
+- IAmA
+- todayilearned
+- worldnews
+- WTF
+- EnoughTrumpSpam
+- OldSchoolCool
+- AdviceAnimals
+- AskHistorians
+- interestingasfuck
+- OutOfTheLoop
+---

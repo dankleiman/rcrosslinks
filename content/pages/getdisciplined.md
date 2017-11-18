@@ -1,0 +1,24 @@
+---
+title: getdisciplined
+crosslinks:
+- GetMotivated
+- theXeffect
+- productivity
+- Stoicism
+- StopGaming
+- ADHD
+- DecidingToBeBetter
+- AskReddit
+- Meditation
+- coldshowers
+- nosurf
+- GetMotivatedBuddies
+- selfimprovement
+- LifeProTips
+- science
+- C25K
+- announcements
+- Buddhism
+- Fitness
+- ProcrastinationHacker
+---

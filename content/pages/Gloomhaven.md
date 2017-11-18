@@ -1,0 +1,5 @@
+---
+title: Gloomhaven
+crosslinks:
+- codes
+---

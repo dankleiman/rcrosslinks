@@ -1,0 +1,5 @@
+---
+title: GTATheatre
+crosslinks:
+- RockStarEditor
+---

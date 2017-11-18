@@ -1,0 +1,5 @@
+---
+title: everydayphilosophy
+crosslinks:
+- ProgrammerHumor
+---

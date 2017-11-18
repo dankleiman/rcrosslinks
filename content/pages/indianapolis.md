@@ -1,0 +1,24 @@
+---
+title: indianapolis
+crosslinks:
+- autotldr
+- Indiana
+- personalfinance
+- depression
+- gencon
+- livven
+- swordartonline
+- AskReddit
+- Buddhism
+- Useless_Junk
+- pics
+- starwarscomics
+- Showerthoughts
+- DIY
+- shittyHDR
+- pussypassdenied
+- Dashcam
+- Strippers
+- PrequelMemes
+- videos
+---

@@ -1,0 +1,5 @@
+---
+title: wholesomeprogramming
+crosslinks:
+- wholesomememes
+---

@@ -1,0 +1,24 @@
+---
+title: Everton
+crosslinks:
+- soccer
+- livven
+- soccerstreams
+- swanseacity
+- lcfc
+- LiverpoolFC
+- Gunners
+- safc
+- nffc
+- funny
+- TheEv
+- Stealing
+- reddevils
+- modnews
+- LifeProTips
+- ArtisticScreenshots
+- FantasyPL
+- Hammers
+- running
+- CFB
+---

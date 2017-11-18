@@ -1,0 +1,5 @@
+---
+title: scalegore
+crosslinks:
+- RetroFuturism
+---

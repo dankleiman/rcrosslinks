@@ -1,0 +1,24 @@
+---
+title: Toonami
+crosslinks:
+- autotldr
+- TokyoGhoul
+- anime_irl
+- stevenuniverse
+- HunterXHunter
+- samuraijack
+- modnews
+- PrequelMemes
+- gifs
+- anime
+- Naruto
+- KingdomHearts
+- reactiongifs
+- KnightsOfPineapple
+- skyrim
+- wiiuhacks
+- Twitch
+- swordartonline
+- StardustCrusaders
+- highqualitygifs
+---

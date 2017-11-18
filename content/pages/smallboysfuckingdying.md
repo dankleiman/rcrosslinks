@@ -1,0 +1,5 @@
+---
+title: smallboysfuckingdying
+crosslinks:
+- videos
+---

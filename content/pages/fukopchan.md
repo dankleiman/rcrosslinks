@@ -1,0 +1,5 @@
+---
+title: fukopchan
+crosslinks:
+- livven
+---

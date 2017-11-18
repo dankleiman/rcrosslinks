@@ -1,0 +1,24 @@
+---
+title: LetsTalkMusic
+crosslinks:
+- trap
+- Music
+- classicalmusic
+- outrun
+- hiphopheads
+- Metal
+- ShitTheFalseSay
+- Emo
+- indieheads
+- askphilosophy
+- electronicmusic
+- aves
+- pcmusic
+- musictheory
+- postrock
+- asianamerican
+- listentocurated
+- iamsosmart
+- trees
+- numetal
+---

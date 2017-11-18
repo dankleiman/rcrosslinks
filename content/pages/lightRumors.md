@@ -1,0 +1,5 @@
+---
+title: lightRumors
+crosslinks:
+- photography
+---

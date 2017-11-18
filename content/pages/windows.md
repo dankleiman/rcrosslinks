@@ -1,0 +1,24 @@
+---
+title: windows
+crosslinks:
+- Windows10
+- autotldr
+- techsupport
+- sysadmin
+- Surface
+- netsec
+- nvidia
+- TronScript
+- windowsxp
+- technology
+- xkcd
+- VFIO
+- computerforensics
+- PBSOD
+- firefox
+- PoliticalHumor
+- DataHoarder
+- WindowsMasterRace
+- unixporn
+- Overwatch
+---

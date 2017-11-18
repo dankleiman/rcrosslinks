@@ -1,0 +1,24 @@
+---
+title: Natureisbrutal
+crosslinks:
+- livven
+- natureismetal
+- mildlyinteresting
+- awwwtf
+- NatureIsFuckingLit
+- thisismydeathnow
+- hitmanimals
+- firefly
+- 2edgy4me
+- WeatherGifs
+- KarmaCourt
+- OutOfTheLoop
+- Awwducational
+- UnresolvedMysteries
+- videos
+- lastimages
+- BirdsBeingDicks
+- pokemon
+- awwtf
+- hmmm
+---

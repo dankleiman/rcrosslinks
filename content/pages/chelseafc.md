@@ -1,0 +1,24 @@
+---
+title: chelseafc
+crosslinks:
+- soccer
+- reddevils
+- Gunners
+- NGolo_Kante
+- soccerstreams
+- BrasilOnReddit
+- coys
+- livven
+- panelshow
+- LiverpoolFC
+- FIFA
+- Batshuayi
+- MLS
+- MCFC
+- Everton
+- AjaxAmsterdam
+- place
+- Juve
+- AskReddit
+- modnews
+---

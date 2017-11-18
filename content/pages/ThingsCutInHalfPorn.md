@@ -1,0 +1,24 @@
+---
+title: ThingsCutInHalfPorn
+crosslinks:
+- pics
+- livven
+- drydockporn
+- MachineFans
+- guns
+- xkcd
+- LetsNotMeet
+- evenwithcontext
+- educationalgifs
+- ANormalDayInRussia
+- Cutawayporn
+- engineering
+- conduitporn
+- DesignPorn
+- FoodPorn
+- technology
+- theydidthemath
+- excgarated
+- todayilearned
+- niagara
+---

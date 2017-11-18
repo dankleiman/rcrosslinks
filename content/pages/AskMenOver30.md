@@ -1,0 +1,24 @@
+---
+title: AskMenOver30
+crosslinks:
+- financialindependence
+- AskWomenOver30
+- AskMen
+- OutOfTheLoop
+- AskReddit
+- Fitness
+- YouShouldKnow
+- DIY
+- r4r
+- personalfinance
+- AutoDetailing
+- Canning
+- Fencesitter
+- malefashionadvice
+- sexover30
+- numetal
+- TrueReddit
+- datingoverthirty
+- xkcd
+- videos
+---

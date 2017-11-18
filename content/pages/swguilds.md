@@ -1,0 +1,5 @@
+---
+title: swguilds
+crosslinks:
+- summonerswar
+---

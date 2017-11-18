@@ -1,0 +1,5 @@
+---
+title: cardfightonline
+crosslinks:
+- cardfightvanguard
+---

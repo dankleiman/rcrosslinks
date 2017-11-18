@@ -1,0 +1,24 @@
+---
+title: shittyrobots
+crosslinks:
+- livven
+- xkcd
+- videos
+- gifs
+- funny
+- nocontext
+- shittyoperators
+- DiWHY
+- perfectloops
+- arduino
+- france
+- shittyhumans
+- AgainstKarmaWhores
+- unexpectedjihad
+- shittykickstarters
+- UselessDuckCompany
+- Shitty_Car_Mods
+- shitty
+- AskReddit
+- Skookum
+---

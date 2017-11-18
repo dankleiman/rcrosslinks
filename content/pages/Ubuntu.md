@@ -1,0 +1,24 @@
+---
+title: Ubuntu
+crosslinks:
+- linux
+- unixporn
+- linuxquestions
+- autotldr
+- gnome
+- Yunit
+- xkcd
+- linuxhardware
+- archlinux
+- linuxmasterrace
+- linux_gaming
+- linuxmint
+- Dell
+- privacy
+- Windows10
+- techsupport
+- place
+- LinuxActionShow
+- pcmasterrace
+- SurfaceLinux
+---

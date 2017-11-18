@@ -1,0 +1,5 @@
+---
+title: kingsofwar
+crosslinks:
+- IronwatchMagazine
+---

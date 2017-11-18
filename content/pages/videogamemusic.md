@@ -1,0 +1,5 @@
+---
+title: videogamemusic
+crosslinks:
+- OSTOTD
+---

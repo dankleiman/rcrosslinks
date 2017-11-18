@@ -1,0 +1,5 @@
+---
+title: Zambia
+crosslinks:
+- tippr
+---

@@ -1,0 +1,5 @@
+---
+title: badbadnotgood
+crosslinks:
+- hiphopheads
+---

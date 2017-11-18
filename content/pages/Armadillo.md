@@ -1,0 +1,5 @@
+---
+title: Armadillo
+crosslinks:
+- Awwducational
+---

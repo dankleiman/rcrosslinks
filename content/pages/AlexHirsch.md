@@ -1,0 +1,5 @@
+---
+title: AlexHirsch
+crosslinks:
+- gravityfalls
+---

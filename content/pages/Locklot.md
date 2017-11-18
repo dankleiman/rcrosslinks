@@ -1,0 +1,5 @@
+---
+title: Locklot
+crosslinks:
+- lockpicking
+---

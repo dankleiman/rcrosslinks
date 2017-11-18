@@ -1,0 +1,5 @@
+---
+title: YGOTournaments
+crosslinks:
+- yugioh
+---

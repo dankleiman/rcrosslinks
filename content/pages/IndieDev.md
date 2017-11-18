@@ -1,0 +1,24 @@
+---
+title: IndieDev
+crosslinks:
+- livven
+- gamedev
+- gameDevClassifieds
+- INAT
+- 4Xgaming
+- gamecomposers
+- tic80
+- RocketLeague
+- playtesters
+- requests
+- Farmfolks
+- IndieGaming
+- proceduralgeneration
+- modnews
+- xkcd
+- iosgaming
+- AMAAggregator
+- Etherplay
+- AskComputerScience
+- pakuri
+---

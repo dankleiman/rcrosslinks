@@ -1,0 +1,5 @@
+---
+title: Ardidos
+crosslinks:
+- mexico
+---

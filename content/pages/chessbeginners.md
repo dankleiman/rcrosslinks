@@ -1,0 +1,5 @@
+---
+title: chessbeginners
+crosslinks:
+- chess
+---

@@ -1,0 +1,5 @@
+---
+title: bestlaptopdeals
+crosslinks:
+- OKdeal
+---

@@ -1,0 +1,24 @@
+---
+title: NegaRedditRedux
+crosslinks:
+- SRSsucks
+- Negareddit
+- shittankiessay
+- Anarchism
+- Shitstatistssay
+- collapse
+- Drama
+- redditrequest
+- Physical_Removal
+- PKDefenseForce
+- lsc
+- ProtectAndServe
+- Enough_Sanders_Spam
+- LateStageCapitalism
+- Ultraleft
+- communism101
+- metanegareddit
+- Shoplifting
+- EnoughCommieSpam
+- worldnews
+---

@@ -1,0 +1,5 @@
+---
+title: AmericansInEurope
+crosslinks:
+- expats
+---

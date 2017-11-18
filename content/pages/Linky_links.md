@@ -1,0 +1,24 @@
+---
+title: Linky_links
+crosslinks:
+- AskReddit
+- EarthPorn
+- worldnews
+- OldSchoolCool
+- pics
+- space
+- technology
+- todayilearned
+- politics
+- science
+- news
+- GetMotivated
+- Documentaries
+- Showerthoughts
+- gifs
+- Futurology
+- IAmA
+- travel
+- aww
+- HistoryPorn
+---

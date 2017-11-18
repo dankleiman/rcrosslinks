@@ -1,0 +1,24 @@
+---
+title: AsianMasculinity
+crosslinks:
+- hapas
+- asianamerican
+- EasternSunRising
+- MongoloidSupremacy
+- Tinder
+- aznidentity
+- CIWO
+- autotldr
+- videos
+- misasandry
+- AskMen
+- milliondollarextreme
+- AsianMenCooking
+- ChanWatch
+- josun
+- TheRedPill
+- IWantOut
+- AskReddit
+- iamveryedgy
+- pics
+---

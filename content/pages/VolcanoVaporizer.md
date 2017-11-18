@@ -1,0 +1,5 @@
+---
+title: VolcanoVaporizer
+crosslinks:
+- vaporents
+---

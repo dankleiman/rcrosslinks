@@ -1,0 +1,5 @@
+---
+title: GreenPartyofOntario
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: Adulting
+crosslinks:
+- edc
+---

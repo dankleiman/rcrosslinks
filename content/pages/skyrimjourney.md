@@ -1,0 +1,5 @@
+---
+title: skyrimjourney
+crosslinks:
+- xkcd
+---

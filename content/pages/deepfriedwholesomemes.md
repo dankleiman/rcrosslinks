@@ -1,0 +1,5 @@
+---
+title: deepfriedwholesomemes
+crosslinks:
+- DeepFriedMemes
+---

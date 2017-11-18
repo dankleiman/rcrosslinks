@@ -1,0 +1,24 @@
+---
+title: NewsOfTheStupid
+crosslinks:
+- autotldr
+- facepalm
+- dgu
+- niceguys
+- DarwinAward
+- topnotchshitposting
+- WTF
+- California
+- TheOnion
+- news
+- The_Donald
+- uncensorednews
+- IndianaMan
+- fivehead
+- grilledcheese
+- titleporn
+- ShitJadenSays
+- tifu
+- titlegore
+- sounding
+---

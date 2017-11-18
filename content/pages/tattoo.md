@@ -1,0 +1,21 @@
+---
+title: tattoo
+crosslinks:
+- tattoos
+- livven
+- ArtisanVideos
+- OutOfTheLoop
+- toronto
+- lowpoly
+- sandiego
+- BrasilOnReddit
+- DrawMyTattoo
+- sticknpokes
+- FinalFantasy
+- ThriftStoreHauls
+- asatru
+- science
+- wildlypenis
+- translator
+- trashy
+---

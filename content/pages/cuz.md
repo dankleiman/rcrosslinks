@@ -1,0 +1,5 @@
+---
+title: cuz
+crosslinks:
+- woahwoahwoahhhh
+---

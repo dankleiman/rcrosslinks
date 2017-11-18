@@ -1,0 +1,24 @@
+---
+title: excel
+crosslinks:
+- excelevator
+- personalfinance
+- xkcd
+- IAmA
+- mysql
+- googlesheets
+- gaming
+- raerth
+- SoccerBetting
+- DnDBehindTheScreen
+- MSAccess
+- IsLoneEchoAlive
+- todayilearned
+- InternetIsBeautiful
+- Accounting
+- financialmodelling
+- investing
+- actuary
+- dataisugly
+- Windows10
+---

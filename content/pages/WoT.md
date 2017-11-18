@@ -1,0 +1,24 @@
+---
+title: WoT
+crosslinks:
+- Fantasy
+- respectthreads
+- thelegendarium
+- livven
+- xkcd
+- AskReddit
+- Cosmere
+- WorldofTanks
+- WotmudV
+- natureismetal
+- Stormlight_Archive
+- pics
+- tinder
+- fuckimold
+- wotwomen
+- UnearthedArcana
+- ImGoingToHellForThis
+- DnD
+- WheelOfTimeGame
+- theydidthemath
+---

@@ -1,0 +1,5 @@
+---
+title: mediaquotes
+crosslinks:
+- autotldr
+---

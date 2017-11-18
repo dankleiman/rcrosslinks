@@ -1,0 +1,5 @@
+---
+title: fixedgear
+crosslinks:
+- FixedGearBicycle
+---

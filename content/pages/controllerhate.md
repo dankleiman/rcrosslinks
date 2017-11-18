@@ -1,0 +1,5 @@
+---
+title: controllerhate
+crosslinks:
+- Gamingcirclejerk
+---

@@ -1,0 +1,5 @@
+---
+title: Skullcandy
+crosslinks:
+- headphones
+---

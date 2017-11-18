@@ -1,0 +1,5 @@
+---
+title: ImagineMusicFestival
+crosslinks:
+- ElectricForest
+---

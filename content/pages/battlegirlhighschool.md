@@ -1,0 +1,5 @@
+---
+title: battlegirlhighschool
+crosslinks:
+- Pixiv
+---

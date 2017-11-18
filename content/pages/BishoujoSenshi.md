@@ -1,0 +1,5 @@
+---
+title: BishoujoSenshi
+crosslinks:
+- anime
+---

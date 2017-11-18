@@ -1,0 +1,24 @@
+---
+title: WarshipPorn
+crosslinks:
+- drydockporn
+- MilitaryPorn
+- HistoryPorn
+- CapturedWeapons
+- AskHistorians
+- warshipsnuffporn
+- vexillology
+- Warships
+- 117thOSINT
+- WarplanePorn
+- ImaginaryWarships
+- pics
+- WorldOfWarships
+- translator
+- HeavySeas
+- PropagandaPosters
+- AdviceAnimals
+- PeopleFuckingDying
+- '2017'
+- navy
+---

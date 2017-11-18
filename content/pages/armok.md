@@ -1,0 +1,5 @@
+---
+title: armok
+crosslinks:
+- placeportalpattern
+---

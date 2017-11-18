@@ -1,0 +1,21 @@
+---
+title: leanfire
+crosslinks:
+- financialindependence
+- personalfinance
+- vandwellers
+- churning
+- Frugal
+- fatFIRE
+- todayilearned
+- mycology
+- giftcardexchange
+- UKPersonalFinance
+- EuropeFIRE
+- AskReddit
+- titlegore
+- EatCheapAndHealthy
+- WFH
+- China
+- Anticonsumption
+---

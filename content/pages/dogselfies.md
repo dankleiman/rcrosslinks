@@ -1,0 +1,5 @@
+---
+title: dogselfies
+crosslinks:
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: DaftPunk
+crosslinks:
+- videos
+- todayilearned
+- Kanye
+- moviescirclejerk
+- Music
+- outrun
+- csshelp
+- livven
+- IAmA
+- radiohead
+- FrankOcean
+- HalfLife
+- deathgrips
+- straya
+- TheStrokes
+- LSD
+- GreenLattice
+- place
+- electronicmusic
+- xkcd
+---

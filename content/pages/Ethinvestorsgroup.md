@@ -1,0 +1,5 @@
+---
+title: Ethinvestorsgroup
+crosslinks:
+- AvalonPlatform
+---

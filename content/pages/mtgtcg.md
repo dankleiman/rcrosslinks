@@ -1,0 +1,5 @@
+---
+title: mtgtcg
+crosslinks:
+- ElvesMTG
+---

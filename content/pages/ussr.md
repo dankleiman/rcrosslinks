@@ -1,0 +1,5 @@
+---
+title: ussr
+crosslinks:
+- SovietHistory
+---

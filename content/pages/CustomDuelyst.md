@@ -1,0 +1,5 @@
+---
+title: CustomDuelyst
+crosslinks:
+- duelyst
+---

@@ -1,0 +1,5 @@
+---
+title: Ninja
+crosslinks:
+- livven
+---

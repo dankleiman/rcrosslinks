@@ -1,0 +1,24 @@
+---
+title: Militaryfaq
+crosslinks:
+- army
+- AirForce
+- Military
+- SecurityClearance
+- me_irl
+- Amry
+- PCOS
+- FrenchForeignLegion
+- nursing
+- military
+- mildlyinteresting
+- foreignservice
+- PatrolX
+- AskEngineers
+- loseit
+- IAmA
+- CorpsmanUp
+- uscg
+- gif
+- navyseals
+---

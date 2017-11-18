@@ -1,0 +1,5 @@
+---
+title: narutomissionlist
+crosslinks:
+- TheNarutoWorld
+---

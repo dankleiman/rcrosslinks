@@ -1,0 +1,24 @@
+---
+title: redsox
+crosslinks:
+- NYYankees
+- MLBStreams
+- orioles
+- gifs
+- nfl
+- livven
+- Patriots
+- reddit_stream
+- SFGiants
+- motorcitykitties
+- TheSimpsons
+- NintendoSwitch
+- autotldr
+- sportsjerseys
+- Brewers
+- todayilearned
+- nyyankees
+- modnews
+- CityPorn
+- UnethicalLifeProTips
+---

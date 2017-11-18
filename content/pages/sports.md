@@ -1,0 +1,24 @@
+---
+title: sports
+crosslinks:
+- livven
+- autotldr
+- gifs
+- MMA
+- AskReddit
+- Boxing
+- soccer
+- theocho
+- videos
+- funny
+- xkcd
+- hockey
+- IAmA
+- nfl
+- pics
+- HadToHurt
+- todayilearned
+- news
+- 4chan
+- gifsthatendtoosoon
+---

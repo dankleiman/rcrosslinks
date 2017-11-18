@@ -1,0 +1,5 @@
+---
+title: dyeing
+crosslinks:
+- sewing
+---

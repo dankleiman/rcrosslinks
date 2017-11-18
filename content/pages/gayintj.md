@@ -1,0 +1,5 @@
+---
+title: gayintj
+crosslinks:
+- intj
+---

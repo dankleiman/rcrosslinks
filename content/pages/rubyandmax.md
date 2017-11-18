@@ -1,0 +1,5 @@
+---
+title: rubyandmax
+crosslinks:
+- creepypasta
+---

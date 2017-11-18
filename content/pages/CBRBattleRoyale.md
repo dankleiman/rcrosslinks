@@ -1,0 +1,5 @@
+---
+title: CBRBattleRoyale
+crosslinks:
+- CBRBRFiction
+---

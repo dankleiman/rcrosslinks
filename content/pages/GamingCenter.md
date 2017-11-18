@@ -1,0 +1,5 @@
+---
+title: GamingCenter
+crosslinks:
+- AskReddit
+---

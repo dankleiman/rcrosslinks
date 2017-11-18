@@ -1,0 +1,5 @@
+---
+title: Gmogifs
+crosslinks:
+- livven
+---

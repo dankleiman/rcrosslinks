@@ -1,0 +1,5 @@
+---
+title: simd
+crosslinks:
+- programming
+---

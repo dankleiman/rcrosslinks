@@ -1,0 +1,5 @@
+---
+title: VanguardOfLiberty
+crosslinks:
+- livven
+---

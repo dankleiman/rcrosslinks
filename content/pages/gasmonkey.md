@@ -1,0 +1,5 @@
+---
+title: gasmonkey
+crosslinks:
+- StreetOutlaws
+---

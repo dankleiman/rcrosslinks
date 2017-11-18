@@ -1,0 +1,24 @@
+---
+title: shitneoliberalismsays
+crosslinks:
+- Enough_Sanders_Spam
+- ChapoTrapHouse
+- LeftWithoutEdge
+- news
+- EnoughCommieSpam
+- AustralianPolitics
+- europe
+- Drama
+- democrats
+- PoliticalDiscussion
+- startups
+- communism101
+- ShitCrusaderKingsSay
+- politics
+- Kaiserreich
+- PartyParrot
+- todayilearned
+- AskAnthropology
+- Economics
+- canada
+---

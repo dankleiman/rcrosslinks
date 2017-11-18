@@ -1,0 +1,5 @@
+---
+title: devilsticks
+crosslinks:
+- juggling
+---

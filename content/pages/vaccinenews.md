@@ -1,0 +1,5 @@
+---
+title: vaccinenews
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: westernbulldogs
+crosslinks:
+- AFL
+---

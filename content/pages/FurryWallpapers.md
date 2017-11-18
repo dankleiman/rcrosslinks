@@ -1,0 +1,5 @@
+---
+title: FurryWallpapers
+crosslinks:
+- furry
+---

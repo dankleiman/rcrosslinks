@@ -1,0 +1,5 @@
+---
+title: BurntJoint
+crosslinks:
+- twice
+---

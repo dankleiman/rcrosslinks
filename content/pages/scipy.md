@@ -1,0 +1,5 @@
+---
+title: scipy
+crosslinks:
+- Python
+---

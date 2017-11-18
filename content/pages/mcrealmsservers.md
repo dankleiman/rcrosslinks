@@ -1,0 +1,5 @@
+---
+title: mcrealmsservers
+crosslinks:
+- pics
+---

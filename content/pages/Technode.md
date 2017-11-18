@@ -1,0 +1,5 @@
+---
+title: Technode
+crosslinks:
+- TerraFirmaCraft
+---

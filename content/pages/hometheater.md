@@ -1,0 +1,24 @@
+---
+title: hometheater
+crosslinks:
+- shittyhometheater
+- Zeos
+- audiophile
+- BudgetAudiophile
+- AverageJoeAudiophile
+- networking
+- DIY
+- audio
+- pics
+- Piracy
+- AndroidTV
+- personalfinance
+- homeautomation
+- techsupport
+- df7gx1
+- dvdcollection
+- LifeProTips
+- PS4Pro
+- RetroPie
+- gadgets
+---

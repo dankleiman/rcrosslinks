@@ -1,0 +1,23 @@
+---
+title: Louisiana
+crosslinks:
+- autotldr
+- Acadiana
+- news
+- politics
+- NewOrleans
+- Fishing
+- LateStageCapitalism
+- CajunFrench
+- fakehistoryporn
+- churning
+- zootopia
+- AmericanPlantSwap
+- LSU
+- foodforthought
+- DeepGreenResistance
+- acadiana
+- languagelearning
+- ImGoingToHellForThis
+- SlowTV
+---

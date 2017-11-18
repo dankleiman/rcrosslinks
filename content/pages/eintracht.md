@@ -1,0 +1,5 @@
+---
+title: eintracht
+crosslinks:
+- OutOfTheLoop
+---

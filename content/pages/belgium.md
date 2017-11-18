@@ -1,0 +1,24 @@
+---
+title: belgium
+crosslinks:
+- xkcd
+- AskReddit
+- europe
+- thenetherlands
+- place
+- de
+- The_Oostkamp
+- OutOfTheLoop
+- The_Donald
+- news
+- explainlikeimfive
+- 4chan
+- CrappyDesign
+- Suomi
+- NavySealCopypasta
+- oddlysatisfying
+- copypasta
+- DeStagiair
+- Graspop
+- ireland
+---

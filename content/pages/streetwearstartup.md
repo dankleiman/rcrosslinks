@@ -1,0 +1,24 @@
+---
+title: streetwearstartup
+crosslinks:
+- streetwear
+- delusionalartists
+- Entrepreneur
+- PropagandaPosters
+- ModernStreetwear
+- FashionReps
+- modernstreetwear
+- startups
+- KidCudi
+- AMAAggregator
+- funny
+- design_critiques
+- ShirtRedditSays
+- logodesign
+- Art
+- gatekeeping
+- Entrepreneurs
+- stocks
+- ThePack
+- Piracy
+---

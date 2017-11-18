@@ -1,0 +1,5 @@
+---
+title: fivenightsatfangames
+crosslinks:
+- fivenightsatfreddys
+---

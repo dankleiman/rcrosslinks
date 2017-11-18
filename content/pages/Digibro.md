@@ -1,0 +1,24 @@
+---
+title: Digibro
+crosslinks:
+- anime
+- xkcd
+- sysadmin
+- keto
+- JonTron
+- BokuNoHeroAcademia
+- videoessay
+- iamverystupid
+- WeirdEmoKidStories
+- reccompendium
+- audacity
+- grandorder
+- Animesuggest
+- 4chan
+- yaraon
+- ANI_COMMUNISM
+- AskPhilosophyFAQ
+- AnimeShortFilms
+- television
+- mylittlepony
+---

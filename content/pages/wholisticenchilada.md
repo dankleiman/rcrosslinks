@@ -1,0 +1,5 @@
+---
+title: wholisticenchilada
+crosslinks:
+- xkcd
+---

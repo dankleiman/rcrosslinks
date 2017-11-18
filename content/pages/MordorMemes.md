@@ -1,0 +1,5 @@
+---
+title: MordorMemes
+crosslinks:
+- shadowofmordor
+---

@@ -1,0 +1,5 @@
+---
+title: Libertarismus
+crosslinks:
+- Voluntarismus
+---

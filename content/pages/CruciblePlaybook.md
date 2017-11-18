@@ -1,0 +1,23 @@
+---
+title: CruciblePlaybook
+crosslinks:
+- DestinyTheGame
+- destinythegame
+- Fireteams
+- xkcd
+- PS4
+- Fallout
+- ggggg
+- fireteams
+- DestinyClanFinder
+- DestinySweatyLFG
+- ClansofDestiny
+- destiny2
+- OverwatchUniversity
+- help
+- funny
+- OWConsole
+- RiseOfBacon
+- forhonor
+- sharditkeepit
+---

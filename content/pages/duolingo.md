@@ -1,0 +1,24 @@
+---
+title: duolingo
+crosslinks:
+- IAmA
+- languagelearning
+- shitduolingosays
+- gaeilge
+- German
+- Spanish
+- livven
+- AskReddit
+- Korean
+- getdisciplined
+- de
+- LearnJapanese
+- unexpectedfactorial
+- emojipasta
+- Esperanto
+- assholedesign
+- me_irl
+- Ukrainian
+- tech
+- memrise
+---

@@ -1,0 +1,5 @@
+---
+title: newsoku
+crosslinks:
+- autotldr
+---

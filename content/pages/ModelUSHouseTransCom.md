@@ -1,0 +1,5 @@
+---
+title: ModelUSHouseTransCom
+crosslinks:
+- ModelUSHouse
+---

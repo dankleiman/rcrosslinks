@@ -1,0 +1,5 @@
+---
+title: firekings
+crosslinks:
+- yugioh
+---

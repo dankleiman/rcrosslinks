@@ -1,0 +1,24 @@
+---
+title: ios
+crosslinks:
+- iOSBeta
+- iphone
+- apple
+- ipad
+- privacy
+- iOSProgramming
+- remoteplay
+- Verticalwallpapers
+- sideloaded
+- workflow
+- Swiftkey
+- iOS11
+- getnarwhal
+- Affinity
+- IPhoneApps
+- privacytoolsIO
+- madewithtextmess
+- mac
+- softwaregore
+- ChargeYourPhone
+---

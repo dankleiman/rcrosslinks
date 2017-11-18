@@ -1,0 +1,5 @@
+---
+title: protolanging
+crosslinks:
+- conlangs
+---

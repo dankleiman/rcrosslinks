@@ -1,0 +1,5 @@
+---
+title: eeu
+crosslinks:
+- EurasianEconomicUnion
+---

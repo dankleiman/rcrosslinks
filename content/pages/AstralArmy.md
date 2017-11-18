@@ -1,0 +1,5 @@
+---
+title: AstralArmy
+crosslinks:
+- occult
+---

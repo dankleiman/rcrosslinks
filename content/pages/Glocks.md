@@ -1,0 +1,24 @@
+---
+title: Glocks
+crosslinks:
+- gundeals
+- guns
+- GlockMod
+- CCW
+- Firearms
+- Gunsforsale
+- ar15
+- glock43
+- GunPorn
+- Shotguns
+- EDC
+- ccw
+- weekendgunnit
+- cigars
+- knolling
+- ArcherFX
+- SigSauer
+- thewestwing
+- livven
+- reloading
+---

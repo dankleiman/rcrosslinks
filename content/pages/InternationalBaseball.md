@@ -1,0 +1,5 @@
+---
+title: InternationalBaseball
+crosslinks:
+- Serendipity
+---

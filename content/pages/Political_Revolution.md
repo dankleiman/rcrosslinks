@@ -1,0 +1,24 @@
+---
+title: Political_Revolution
+crosslinks:
+- autotldr
+- SandersForPresident
+- WayOfTheBern
+- politics
+- BlueMidterm2018
+- Kossacks_for_Sanders
+- IAmA
+- socialism
+- technology
+- RandyBryce
+- Strike4Democracy
+- EnoughTrumpSpam
+- Enough_Sanders_Spam
+- justicedemocrats
+- conspiracy
+- tulsi
+- xkcd
+- LateStageCapitalism
+- ProgressiveActivists
+- NeutralPolitics
+---

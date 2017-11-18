@@ -1,0 +1,5 @@
+---
+title: skimboarding
+crosslinks:
+- WastedGifs
+---

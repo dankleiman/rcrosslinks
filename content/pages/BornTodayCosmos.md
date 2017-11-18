@@ -1,0 +1,5 @@
+---
+title: BornTodayCosmos
+crosslinks:
+- SovietHistory
+---

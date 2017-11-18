@@ -1,0 +1,5 @@
+---
+title: LucyHale
+crosslinks:
+- Serendipity
+---

@@ -1,0 +1,24 @@
+---
+title: pharmacy
+crosslinks:
+- autotldr
+- medicine
+- Drugs
+- PharmacyTechnician
+- AMAAggregator
+- TalesFromThePharmacy
+- Serendipity
+- medicalschool
+- Steroidsourcetalk
+- PrePharmacy
+- financialindependence
+- livven
+- news
+- xkcd
+- Indiana
+- PharmacySchool
+- GetMotivated
+- pokemongo
+- studentloandefaulters
+- the_shkreli_evidence
+---

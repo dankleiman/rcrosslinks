@@ -1,0 +1,5 @@
+---
+title: FuturamaPorn
+crosslinks:
+- Palpz
+---

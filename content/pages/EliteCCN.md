@@ -1,0 +1,5 @@
+---
+title: EliteCCN
+crosslinks:
+- EliteDangerous
+---

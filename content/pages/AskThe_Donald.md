@@ -1,0 +1,24 @@
+---
+title: AskThe_Donald
+crosslinks:
+- The_Donald
+- politics
+- pics
+- conspiracy
+- AskReddit
+- NeutralPolitics
+- AskTrumpSupporters
+- KotakuInAction
+- xkcd
+- AskHistorians
+- worldnews
+- OutOfTheLoop
+- IAmA
+- SandersForPresident
+- changemyview
+- uncensorednews
+- TheRightBoycott
+- announcements
+- redacted
+- news
+---

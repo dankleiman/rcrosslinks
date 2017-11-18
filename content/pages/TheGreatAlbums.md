@@ -1,0 +1,5 @@
+---
+title: TheGreatAlbums
+crosslinks:
+- Music
+---

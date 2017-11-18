@@ -1,0 +1,5 @@
+---
+title: littlebusters
+crosslinks:
+- visualnovels
+---

@@ -1,0 +1,5 @@
+---
+title: BitcoinHumor
+crosslinks:
+- Bitcoin
+---

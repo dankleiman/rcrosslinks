@@ -1,0 +1,24 @@
+---
+title: harrypotter
+crosslinks:
+- HPfanfiction
+- FanTheories
+- PottermoreWritings
+- HPRankdown
+- livven
+- hprankdown2
+- Wandsmith
+- AskReddit
+- Pottermore
+- xkcd
+- Dueling
+- lotr
+- funny
+- wow
+- WritingPrompts
+- gatekeeping
+- harrypotterdadjokes
+- HarryandGinny
+- explainlikeimfive
+- autotldr
+---

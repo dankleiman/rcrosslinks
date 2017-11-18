@@ -1,0 +1,5 @@
+---
+title: DailyDouble
+crosslinks:
+- xkcd
+---

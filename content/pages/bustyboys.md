@@ -1,0 +1,5 @@
+---
+title: bustyboys
+crosslinks:
+- Pixiv
+---

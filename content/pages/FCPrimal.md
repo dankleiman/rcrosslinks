@@ -1,0 +1,5 @@
+---
+title: FCPrimal
+crosslinks:
+- rpg
+---

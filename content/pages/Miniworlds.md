@@ -1,0 +1,21 @@
+---
+title: Miniworlds
+crosslinks:
+- mildlyinteresting
+- terrariums
+- MicroscopicMacrocosms
+- PlantedTank
+- INEEEEDIT
+- thingsforants
+- mycology
+- tiltshift
+- geologyporn
+- patientgamers
+- ImaginaryMindscapes
+- dontdeadopeninside
+- pcmasterrace
+- xkcd
+- Art
+- pics
+- ImaginaryInteriors
+---

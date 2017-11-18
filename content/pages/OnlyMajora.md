@@ -1,0 +1,5 @@
+---
+title: OnlyMajora
+crosslinks:
+- rearpussy
+---

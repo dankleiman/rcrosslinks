@@ -1,0 +1,21 @@
+---
+title: Vent
+crosslinks:
+- MaliciousCompliance
+- worldnews
+- Legal_Advice
+- MGTOW
+- WaterGuy12
+- Crushes
+- onionhate
+- facepalm
+- weezer
+- progrockmusic
+- college
+- OldSchoolCool
+- DeadBedrooms
+- childfree
+- TrumpWatch
+- microsoftsoftwareswap
+- relationship_advice
+---

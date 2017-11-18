@@ -1,0 +1,24 @@
+---
+title: weed
+crosslinks:
+- trees
+- livven
+- microgrowery
+- autotldr
+- vaporents
+- leaves
+- StonerEngineering
+- money4weed
+- Drugs
+- saplings
+- sex
+- LSD
+- weareverysmart
+- ArtOfRolling
+- me_irl
+- needamod
+- Psychedelics
+- IAmA
+- IndianEnts
+- MOMpics
+---

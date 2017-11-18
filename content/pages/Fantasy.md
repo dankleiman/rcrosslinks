@@ -1,0 +1,24 @@
+---
+title: Fantasy
+crosslinks:
+- WoT
+- KingkillerChronicle
+- Malazan
+- Stormlight_Archive
+- asoiaf
+- AskHistorians
+- OrganiseFantasy
+- witcher
+- xkcd
+- AskReddit
+- fantasywriters
+- noveltranslations
+- respectthreads
+- WritingPrompts
+- esmereldaweatherwax
+- DnD
+- Parahumans
+- movies
+- cosmere
+- Cosmere
+---

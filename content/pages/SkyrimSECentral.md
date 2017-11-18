@@ -1,0 +1,5 @@
+---
+title: SkyrimSECentral
+crosslinks:
+- ClassicSkyrim
+---

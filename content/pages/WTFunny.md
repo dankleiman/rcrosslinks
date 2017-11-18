@@ -1,0 +1,5 @@
+---
+title: WTFunny
+crosslinks:
+- WTF
+---

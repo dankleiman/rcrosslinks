@@ -1,0 +1,5 @@
+---
+title: syringomyelia
+crosslinks:
+- chiari
+---

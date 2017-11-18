@@ -1,0 +1,5 @@
+---
+title: basslessons
+crosslinks:
+- Bass
+---

@@ -1,0 +1,5 @@
+---
+title: Narnia
+crosslinks:
+- xkcd
+---

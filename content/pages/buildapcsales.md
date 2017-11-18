@@ -1,0 +1,24 @@
+---
+title: buildapcsales
+crosslinks:
+- hardwareswap
+- Amd
+- Monitors
+- ultrawidemasterrace
+- pcmasterrace
+- headphones
+- DataHoarder
+- sffpc
+- hardware
+- BuildAPCSalesMeta
+- nvidia
+- NZXT
+- MouseReview
+- oculus
+- overclocking
+- mechmarket
+- Zeos
+- pcgaming
+- G502MasterRace
+- microsoftsoftwareswap
+---

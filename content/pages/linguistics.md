@@ -1,0 +1,24 @@
+---
+title: linguistics
+crosslinks:
+- explainlikeimfive
+- AskHistorians
+- IAmA
+- conlangs
+- AskReddit
+- MapPorn
+- todayilearned
+- AskAnthropology
+- _and_
+- askscience
+- Esperanto
+- compsci
+- translator
+- geographicaccentguess
+- changemyview
+- argentina
+- MachineLearning
+- OutOfTheLoop
+- pseudoChinese
+- p
+---

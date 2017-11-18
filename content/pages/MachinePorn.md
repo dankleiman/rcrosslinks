@@ -1,0 +1,24 @@
+---
+title: MachinePorn
+crosslinks:
+- PornOverlords
+- livven
+- aviation
+- specializedtools
+- engineteststands
+- steamporn
+- mechanical_gifs
+- cockpits
+- MilitaryPorn
+- xkcd
+- drydockporn
+- IAmA
+- classiccars
+- AskEngineers
+- uncannyvalley
+- defaultgems
+- restofthefuckingowl
+- shittyHDR
+- gatekeeping
+- TinyWhoop
+---

@@ -1,0 +1,5 @@
+---
+title: myparentsarenthome
+crosslinks:
+- ProgrammerHumor
+---

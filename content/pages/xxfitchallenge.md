@@ -1,0 +1,5 @@
+---
+title: xxfitchallenge
+crosslinks:
+- stopsmoking
+---

@@ -1,0 +1,5 @@
+---
+title: panamacitybeach
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: KindergartenMBA
+crosslinks:
+- TEFLSHIT
+---

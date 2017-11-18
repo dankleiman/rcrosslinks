@@ -1,0 +1,24 @@
+---
+title: programming
+crosslinks:
+- autotldr
+- ProgrammerHumor
+- rust
+- cpp
+- programmingcirclejerk
+- haskell
+- linux
+- javascript
+- scala
+- sysadmin
+- cscareerquestions
+- learnprogramming
+- Python
+- golang
+- IAmA
+- technology
+- netsec
+- Futurology
+- java
+- todayilearned
+---

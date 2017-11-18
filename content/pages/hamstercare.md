@@ -1,0 +1,5 @@
+---
+title: hamstercare
+crosslinks:
+- hamsters
+---

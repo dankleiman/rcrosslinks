@@ -1,0 +1,5 @@
+---
+title: OuijaIsFuckingLit
+crosslinks:
+- AskOuija
+---

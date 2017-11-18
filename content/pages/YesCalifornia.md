@@ -1,0 +1,5 @@
+---
+title: YesCalifornia
+crosslinks:
+- PoliticalDiscussion
+---

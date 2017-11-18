@@ -1,0 +1,24 @@
+---
+title: Hoocoodanode
+crosslinks:
+- WayOfTheBern
+- autotldr
+- IBO
+- KotakuInAction
+- Patriots
+- HillaryForPrison
+- fyrefestival
+- changemyview
+- worldnews
+- pcmasterrace
+- AskReddit
+- xkcd
+- todayilearned
+- MGTOW
+- europe
+- The_Donald
+- newhampshire
+- explainlikeimfive
+- OutOfTheLoop
+- justicedemocrats
+---

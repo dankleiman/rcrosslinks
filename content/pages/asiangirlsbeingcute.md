@@ -1,0 +1,24 @@
+---
+title: asiangirlsbeingcute
+crosslinks:
+- livven
+- twice
+- kpics
+- kpopgfys
+- BlackPink
+- SNSD
+- NoSanaNoLife
+- dreamcatcher
+- kpoop
+- BeautyQueens
+- LOONA
+- LittleWitchAcademia
+- cosmicgirls
+- GFRIEND
+- Music
+- videos
+- AnimalsBeingJerks
+- ShadowBan
+- Sojin
+- Shishamo
+---

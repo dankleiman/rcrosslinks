@@ -1,0 +1,5 @@
+---
+title: mindstorms
+crosslinks:
+- legotechnic
+---

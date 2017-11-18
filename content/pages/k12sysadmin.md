@@ -1,0 +1,21 @@
+---
+title: k12sysadmin
+crosslinks:
+- sysadmin
+- PowerShell
+- google
+- edtech
+- SCCM
+- usefulscripts
+- conspiracy
+- wholesomemes
+- chromeapks
+- xkcd
+- PDQDeploy
+- personalfinance
+- nottheonion
+- chromeos
+- itslenny
+- Vive
+- finance
+---

@@ -1,0 +1,24 @@
+---
+title: NoSillySuffix
+crosslinks:
+- EarthFans
+- FoodFans
+- MapFans
+- CarFans
+- MilitaryFans
+- HistoryFans
+- CityFans
+- WarshipFans
+- SkyFans
+- MovieposterFans
+- SpaceFans
+- ArchitectureFans
+- QuotesFans
+- RoomFans
+- AnimalFans
+- RuralFans
+- ExposureFans
+- ArtFans
+- ArtefactFans
+- WaterFans
+---

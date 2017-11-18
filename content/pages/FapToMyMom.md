@@ -1,0 +1,5 @@
+---
+title: FapToMyMom
+crosslinks:
+- PimpYourMomForKarma
+---

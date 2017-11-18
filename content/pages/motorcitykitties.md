@@ -1,0 +1,24 @@
+---
+title: motorcitykitties
+crosslinks:
+- reddit_stream
+- MLBStreams
+- livven
+- detroitlions
+- Mariners
+- whitesox
+- yankees
+- OOTP
+- wahoostipi
+- Donkelly
+- Astros
+- hockey
+- DetroitRedWings
+- shittymorph
+- mets
+- KCRoyals
+- orioles
+- autotldr
+- nfl
+- ShitRedditSays
+---

@@ -1,0 +1,21 @@
+---
+title: Frasier
+crosslinks:
+- autotldr
+- howyoudoin
+- livven
+- DataHoarder
+- todayilearned
+- raiseyourdongers
+- Showerthoughts
+- HIMYM
+- WoT
+- CantWatchScottsTots
+- xkcd
+- Unexpected
+- BestOfReports
+- nononono
+- grilledcheese
+- arresteddevelopment
+- malelivingspace
+---

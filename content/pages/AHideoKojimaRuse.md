@@ -1,0 +1,5 @@
+---
+title: AHideoKojimaRuse
+crosslinks:
+- NeverBeGameOver
+---

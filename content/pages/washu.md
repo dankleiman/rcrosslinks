@@ -1,0 +1,5 @@
+---
+title: washu
+crosslinks:
+- forwardsfromjosh
+---

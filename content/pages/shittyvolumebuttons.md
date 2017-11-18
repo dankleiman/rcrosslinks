@@ -1,0 +1,5 @@
+---
+title: shittyvolumebuttons
+crosslinks:
+- ProgrammerHumor
+---

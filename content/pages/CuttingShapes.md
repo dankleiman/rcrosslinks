@@ -1,0 +1,5 @@
+---
+title: CuttingShapes
+crosslinks:
+- Party
+---

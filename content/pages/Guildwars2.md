@@ -1,0 +1,24 @@
+---
+title: Guildwars2
+crosslinks:
+- guildrecruitment
+- GuildWars
+- TrahearneJokes
+- livven
+- GuildWars2Builds
+- xkcd
+- guildwarsgonewild
+- gw2raiders
+- WoodenPotatoes
+- ffxiv
+- gw2economy
+- CommanderYES
+- AugmentedTyria
+- MMORPG
+- GW2Exchange
+- pcmasterrace
+- gw2devtrack
+- Games
+- wow
+- elderscrollsonline
+---

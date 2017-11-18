@@ -1,0 +1,24 @@
+---
+title: dadjokes
+crosslinks:
+- Jokes
+- Linky_links
+- Unclejokes
+- AntiJokes
+- xkcd
+- WordAvalanches
+- explainlikeimfive
+- IAmA
+- pics
+- puns
+- WorstPuns
+- AskReddit
+- movies
+- CasualUK
+- momjokes
+- ScottishPeopleTwitter
+- todayilearned
+- funny
+- expectedhamilton
+- tifu
+---

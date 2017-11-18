@@ -1,0 +1,24 @@
+---
+title: softwaregore
+crosslinks:
+- livven
+- xkcd
+- assholedesign
+- ProgrammerHumor
+- AskReddit
+- PBSOD
+- pcmasterrace
+- funny
+- titlegore
+- Ooer
+- mildlyinfuriating
+- linuxmasterrace
+- glitch_art
+- MaliciousCompliance
+- nocontext
+- KarmaConspiracy
+- Steam
+- Android
+- engrish
+- CrappyDesign
+---

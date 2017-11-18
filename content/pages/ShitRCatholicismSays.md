@@ -1,0 +1,5 @@
+---
+title: ShitRCatholicismSays
+crosslinks:
+- Catholicism
+---

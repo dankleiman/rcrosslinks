@@ -1,0 +1,5 @@
+---
+title: pokemongoSweden
+crosslinks:
+- pokemongo
+---

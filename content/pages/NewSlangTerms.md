@@ -1,0 +1,5 @@
+---
+title: NewSlangTerms
+crosslinks:
+- xkcd
+---

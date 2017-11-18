@@ -1,0 +1,24 @@
+---
+title: Shadowrun
+crosslinks:
+- SixthWorld
+- autotldr
+- rpg
+- talesfromtechsupport
+- gametales
+- lfg
+- shadownet
+- shadowrunreturns
+- EmeraldGrid
+- AskHistorians
+- rpghorrorstories
+- Pathfinder
+- Economics
+- trains
+- gaming
+- RunByPost
+- WarCollege
+- roll4it
+- audiodrama
+- DIY
+---

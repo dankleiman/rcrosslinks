@@ -1,0 +1,5 @@
+---
+title: dreadnought
+crosslinks:
+- playdreadnought
+---

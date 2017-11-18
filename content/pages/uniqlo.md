@@ -1,0 +1,5 @@
+---
+title: uniqlo
+crosslinks:
+- malefashionadvice
+---

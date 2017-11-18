@@ -1,0 +1,24 @@
+---
+title: tech
+crosslinks:
+- xkcd
+- programming
+- technology
+- homeautomation
+- AskReddit
+- teslamotors
+- StallmanWasRight
+- firefox
+- hyperloop
+- netsec
+- Skookum
+- AskHistorians
+- hometheater
+- linguistics
+- eset
+- TVadvice
+- Nissan
+- space
+- FirefoxCSS
+- programminghorror
+---

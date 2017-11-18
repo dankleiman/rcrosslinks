@@ -1,0 +1,24 @@
+---
+title: aggies
+crosslinks:
+- CFB
+- 12thMan
+- The_Donald
+- place
+- UTAustin
+- livven
+- Atlanta
+- texas
+- Serendipity
+- philosophy
+- PUBATTLEGROUNDS
+- photoclass
+- UIUC
+- EngineeringStudents
+- cscareerquestions
+- nmsu
+- UniversityOfHouston
+- Awww
+- MarchForScience
+- videos
+---

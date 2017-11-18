@@ -1,0 +1,24 @@
+---
+title: ShitRedditSays
+crosslinks:
+- AskReddit
+- news
+- pics
+- worldnews
+- TwoXChromosomes
+- videos
+- todayilearned
+- funny
+- canada
+- The_Donald
+- BlackPeopleTwitter
+- europe
+- gifs
+- AdviceAnimals
+- LivestreamFail
+- WTF
+- television
+- gaming
+- Tinder
+- nottheonion
+---

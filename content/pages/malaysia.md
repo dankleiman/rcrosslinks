@@ -1,0 +1,24 @@
+---
+title: malaysia
+crosslinks:
+- autotldr
+- singapore
+- indonesia
+- AskReddit
+- place
+- worldnews
+- China
+- AskHistorians
+- AMAAggregator
+- pics
+- WorldDailyTops
+- OutOfTheLoop
+- explainlikeimfive
+- movies
+- pcmasterrace
+- Izlam
+- changemyview
+- HelloInternet
+- Futurology
+- xkcd
+---

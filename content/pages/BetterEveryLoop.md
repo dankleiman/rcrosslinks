@@ -1,0 +1,24 @@
+---
+title: BetterEveryLoop
+crosslinks:
+- livven
+- gifs
+- funny
+- Unexpected
+- WhyWereTheyFilming
+- Whatcouldgowrong
+- noisygifs
+- oddlysatisfying
+- aww
+- instant_regret
+- gaming
+- HadToHurt
+- nevertellmetheodds
+- reallifedoodles
+- therewasanattempt
+- perfectloops
+- UNBGBBIIVCHIDCTIICBG
+- videos
+- xkcd
+- sports
+---

@@ -1,0 +1,5 @@
+---
+title: PartyFavors
+crosslinks:
+- ireland
+---

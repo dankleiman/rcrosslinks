@@ -1,0 +1,5 @@
+---
+title: legotechnic
+crosslinks:
+- lego
+---

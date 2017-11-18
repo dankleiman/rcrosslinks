@@ -1,0 +1,5 @@
+---
+title: MoomooFreedom
+crosslinks:
+- moomooio
+---

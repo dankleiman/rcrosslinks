@@ -1,0 +1,5 @@
+---
+title: KissAnimeEssentials
+crosslinks:
+- anime
+---

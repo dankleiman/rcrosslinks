@@ -1,0 +1,5 @@
+---
+title: gnusocial
+crosslinks:
+- linux
+---

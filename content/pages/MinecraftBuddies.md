@@ -1,0 +1,21 @@
+---
+title: MinecraftBuddies
+crosslinks:
+- mcservers
+- MCVanillaServers
+- ParagonRealm
+- AA_Empire
+- Hexagoon
+- kamicraft
+- 24CarrotCraft
+- Foolcraft
+- ContraptionCraft
+- graycrafters
+- asov
+- ProCSS
+- MinecraftSwitch
+- Elementos
+- The_World
+- u_Nothinginator
+- Dragon_Valley
+---

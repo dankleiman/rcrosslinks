@@ -1,0 +1,5 @@
+---
+title: larolin
+crosslinks:
+- Fantasy
+---

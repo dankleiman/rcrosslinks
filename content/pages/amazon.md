@@ -1,0 +1,24 @@
+---
+title: amazon
+crosslinks:
+- FulfillmentByAmazon
+- nintendo
+- 2q87gx0
+- gamecollecting
+- o4u
+- UPS
+- GameTradeRep
+- NintendoSwitch
+- giftcardexchange
+- Amazonians
+- TRADE
+- GoogleWiFi
+- ABoringDystopia
+- AskReddit
+- zelda
+- pcmasterrace
+- BestOfAmazonPrime
+- personalfinance
+- DataHoarder
+- LifeProTips
+---

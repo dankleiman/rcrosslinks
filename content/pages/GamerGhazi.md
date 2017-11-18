@@ -1,0 +1,24 @@
+---
+title: GamerGhazi
+crosslinks:
+- AmalaNetwork
+- KotakuInAction
+- xkcd
+- AskHistorians
+- ChapoTrapHouse
+- ShitRedditSays
+- AskPhilosophyFAQ
+- politics
+- JamesDamore
+- IAmA
+- news
+- TheRedPill
+- OutOfTheLoop
+- TrueReddit
+- The_Donald
+- BestOfOutrageCulture
+- worldnews
+- madlads
+- rickandmorty
+- EnoughTrumpSpam
+---

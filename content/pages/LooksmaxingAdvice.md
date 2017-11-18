@@ -1,0 +1,5 @@
+---
+title: LooksmaxingAdvice
+crosslinks:
+- Incels
+---

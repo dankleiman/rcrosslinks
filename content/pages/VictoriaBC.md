@@ -1,0 +1,24 @@
+---
+title: VictoriaBC
+crosslinks:
+- canada
+- livven
+- PersonalFinanceCanada
+- AskCulinary
+- vancouver
+- woahdude
+- AskReddit
+- CanadaPolitics
+- uvic
+- vic
+- govictoria
+- mexico
+- transvoice
+- legaladvice
+- Landlord
+- RATS
+- MapPorn
+- PokemonGoVictoria
+- skiing
+- EatCheapAndHealthy
+---

@@ -1,0 +1,24 @@
+---
+title: Kappa
+crosslinks:
+- livven
+- StreetFighter
+- salty
+- Tekken
+- xdfp
+- Guiltygear
+- MvC3
+- JavDownloadCenter
+- VoHiYo
+- SF4
+- Fighters
+- autotldr
+- cummingonfigurines
+- CrackWatch
+- mvci
+- kof
+- IAmA
+- leagueoflegends
+- BrasilOnReddit
+- kpopfap
+---

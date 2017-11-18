@@ -1,0 +1,5 @@
+---
+title: CameronDiaz
+crosslinks:
+- MagazineCollection
+---

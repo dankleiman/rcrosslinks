@@ -1,0 +1,24 @@
+---
+title: Gunsforsale
+crosslinks:
+- gundeals
+- ak47
+- VAGuns
+- guns
+- ar15
+- USPmasterrace
+- ARGuns
+- WA_guns
+- GunPorn
+- czscorpion
+- longrange
+- Walther
+- weekendgunnit
+- HoustonClassifieds
+- fakeid
+- reloading
+- austinguns
+- causeWhyNotMate
+- TANFOGLIO
+- saiga
+---

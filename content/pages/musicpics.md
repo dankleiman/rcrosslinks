@@ -1,0 +1,5 @@
+---
+title: musicpics
+crosslinks:
+- Ska
+---

@@ -1,0 +1,24 @@
+---
+title: Scotch
+crosslinks:
+- whiskyeurope
+- whiskey
+- Whiskyporn
+- whiskyinventory
+- ScotchSwap
+- worldwhisky
+- Whiskonsin
+- cocktails
+- MapPorn
+- Antiques
+- ExplainLikeImPHD
+- livven
+- autotldr
+- cognac
+- scotchswapEU
+- PowerShell
+- mechmarket
+- Barreling
+- canadawhisky
+- AskReddit
+---

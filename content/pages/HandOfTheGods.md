@@ -1,0 +1,5 @@
+---
+title: HandOfTheGods
+crosslinks:
+- elderscrollslegends
+---

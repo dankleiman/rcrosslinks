@@ -1,0 +1,5 @@
+---
+title: NASCARshitposts
+crosslinks:
+- BannedFromNASCAR
+---

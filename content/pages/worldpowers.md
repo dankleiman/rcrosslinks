@@ -1,0 +1,21 @@
+---
+title: worldpowers
+crosslinks:
+- fingols
+- ElysianDreams
+- SyrianCirclejerkWar
+- 5thinternational
+- worldpowersBlog
+- imaginarymaps
+- KarmaCourt
+- waspuspowers
+- Suomi
+- pa
+- ModernPowers
+- highqualitygifs
+- modnews
+- ProCSS
+- MapPorn
+- irk
+- AskHistorians
+---

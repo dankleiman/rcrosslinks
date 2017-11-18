@@ -1,0 +1,5 @@
+---
+title: MLBDraft
+crosslinks:
+- whitesox
+---

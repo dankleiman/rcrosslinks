@@ -1,0 +1,5 @@
+---
+title: fivenightsatcandys
+crosslinks:
+- fivenightsatfreddys
+---

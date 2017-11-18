@@ -1,0 +1,5 @@
+---
+title: sagathegame
+crosslinks:
+- minipainting
+---

@@ -1,0 +1,5 @@
+---
+title: youthministry
+crosslinks:
+- Christianity
+---

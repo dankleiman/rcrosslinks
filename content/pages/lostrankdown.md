@@ -1,0 +1,5 @@
+---
+title: lostrankdown
+crosslinks:
+- lost
+---

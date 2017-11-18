@@ -1,0 +1,5 @@
+---
+title: surf
+crosslinks:
+- surfing
+---

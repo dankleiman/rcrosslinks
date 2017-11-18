@@ -1,0 +1,24 @@
+---
+title: Buddhism
+crosslinks:
+- zen
+- DhammaBooks
+- Meditation
+- thaiforest
+- streamentry
+- dhammawheel
+- autotldr
+- vegan
+- TheMindIlluminated
+- vajrayana
+- metta
+- chan
+- Drugs
+- AskReddit
+- Linky_links
+- xkcd
+- ilikedthis
+- askphilosophy
+- MGTOW
+- zens
+---

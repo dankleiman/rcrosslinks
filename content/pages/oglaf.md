@@ -1,0 +1,5 @@
+---
+title: oglaf
+crosslinks:
+- comics
+---

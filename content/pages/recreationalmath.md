@@ -1,0 +1,5 @@
+---
+title: recreationalmath
+crosslinks:
+- mathpuzzles
+---

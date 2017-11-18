@@ -1,0 +1,5 @@
+---
+title: owngoals
+crosslinks:
+- autotldr
+---

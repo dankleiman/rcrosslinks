@@ -1,0 +1,5 @@
+---
+title: chasse
+crosslinks:
+- trailmeals
+---

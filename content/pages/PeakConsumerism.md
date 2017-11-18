@@ -1,0 +1,5 @@
+---
+title: PeakConsumerism
+crosslinks:
+- autotldr
+---

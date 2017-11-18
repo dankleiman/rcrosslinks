@@ -1,0 +1,24 @@
+---
+title: azdiamondbacks
+crosslinks:
+- reddit_stream
+- Dodgers
+- Cardinals
+- SFGiants
+- ColoradoRockies
+- letsgofish
+- Sneks
+- nfl
+- Coyotes
+- AskHistorians
+- pics
+- highqualitygifs
+- noisygifs
+- phillies
+- iasip
+- TheSimpsons
+- CardinalsVexillology
+- unexpectedhogwarts
+- gifs
+- Aces
+---

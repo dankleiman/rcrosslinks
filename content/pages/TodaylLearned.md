@@ -1,0 +1,5 @@
+---
+title: TodaylLearned
+crosslinks:
+- freegold
+---

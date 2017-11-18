@@ -1,0 +1,5 @@
+---
+title: MemeChimera
+crosslinks:
+- hearthstone
+---

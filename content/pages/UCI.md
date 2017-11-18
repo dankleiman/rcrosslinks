@@ -1,0 +1,24 @@
+---
+title: UCI
+crosslinks:
+- livven
+- orangecounty
+- autotldr
+- chanceme
+- ididthemath
+- UCI_FWB
+- careerquestions
+- modnews
+- personalfinance
+- 2007scape
+- Accounting
+- findfashion
+- starterpacks
+- streetwear
+- aww
+- EatCheapAndHealthy
+- counting
+- cscareerquestions
+- scaredshitless
+- NSFW_GIF
+---

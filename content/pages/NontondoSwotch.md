@@ -1,0 +1,5 @@
+---
+title: NontondoSwotch
+crosslinks:
+- NintendoSwitch
+---

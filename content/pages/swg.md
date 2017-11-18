@@ -1,0 +1,5 @@
+---
+title: swg
+crosslinks:
+- swgemu
+---

@@ -1,0 +1,24 @@
+---
+title: beatles
+crosslinks:
+- livven
+- vinyl
+- autotldr
+- titlegore
+- led_zeppelin
+- weezer
+- vexillology
+- TheBeatles
+- Guitar
+- lego
+- Art
+- Documentaries
+- madlads
+- DeepFriedMemes
+- copypasta
+- IAmA
+- ofcoursethatsathing
+- gorillaz
+- KendrickLamar
+- AskHistorians
+---

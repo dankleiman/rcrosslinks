@@ -1,0 +1,5 @@
+---
+title: Newsom
+crosslinks:
+- MedicareForAll
+---

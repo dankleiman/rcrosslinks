@@ -1,0 +1,5 @@
+---
+title: Freenet
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: fistfuck
+crosslinks:
+- AnalFisting
+---

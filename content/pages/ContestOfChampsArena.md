@@ -1,0 +1,5 @@
+---
+title: ContestOfChampsArena
+crosslinks:
+- ContestOfChampions
+---

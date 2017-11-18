@@ -1,0 +1,5 @@
+---
+title: Subliminal
+crosslinks:
+- Serendipity
+---

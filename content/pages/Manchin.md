@@ -1,0 +1,5 @@
+---
+title: Manchin
+crosslinks:
+- WayOfTheBern
+---

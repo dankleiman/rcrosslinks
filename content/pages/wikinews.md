@@ -1,0 +1,5 @@
+---
+title: wikinews
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: militaryfitness
+crosslinks:
+- AthletePerformance
+---

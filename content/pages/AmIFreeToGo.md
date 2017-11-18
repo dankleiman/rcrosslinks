@@ -1,0 +1,24 @@
+---
+title: AmIFreeToGo
+crosslinks:
+- RightToRemainSilent
+- ProtectAndServe
+- legaladvice
+- Bad_Cop_No_Donut
+- news
+- videos
+- Anarchism
+- Roadcam
+- grammar
+- LifeProTips
+- 4000commentkarma
+- CCW
+- C_D_T
+- gatekeeping
+- place
+- Music
+- ReportTheBadModerator
+- motorcycles
+- socialism
+- JusticePorn
+---

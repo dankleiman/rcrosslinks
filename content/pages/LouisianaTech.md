@@ -1,0 +1,5 @@
+---
+title: LouisianaTech
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: youtubeclassic
+crosslinks:
+- TooMeIrlForMeIrl
+---

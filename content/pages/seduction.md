@@ -1,0 +1,24 @@
+---
+title: seduction
+crosslinks:
+- TheRedPill
+- askseddit
+- socialskills
+- NoFap
+- AskReddit
+- OkCupid
+- Rateme
+- sex
+- pickup
+- dating
+- pornfree
+- seddit
+- jesuschristreddit
+- ScienceOfDating
+- AskMen
+- relationships
+- niceguys
+- confidence
+- Nootropics
+- TiADiscussion
+---

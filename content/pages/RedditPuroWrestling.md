@@ -1,0 +1,5 @@
+---
+title: RedditPuroWrestling
+crosslinks:
+- SquaredCircle
+---

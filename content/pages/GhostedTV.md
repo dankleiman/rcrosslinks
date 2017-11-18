@@ -1,0 +1,5 @@
+---
+title: GhostedTV
+crosslinks:
+- television
+---

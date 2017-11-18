@@ -1,0 +1,5 @@
+---
+title: PalletTownTwitter
+crosslinks:
+- pokemon
+---

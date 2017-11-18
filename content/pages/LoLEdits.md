@@ -1,0 +1,5 @@
+---
+title: LoLEdits
+crosslinks:
+- LeagueofFailures
+---

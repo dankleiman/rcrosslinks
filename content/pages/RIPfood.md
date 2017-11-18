@@ -1,0 +1,5 @@
+---
+title: RIPfood
+crosslinks:
+- food
+---

@@ -1,0 +1,5 @@
+---
+title: empathogens
+crosslinks:
+- Drugs
+---

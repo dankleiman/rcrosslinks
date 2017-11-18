@@ -1,0 +1,24 @@
+---
+title: Gundam
+crosslinks:
+- Gunpla
+- livven
+- ThreeTimesFaster
+- anime
+- Pixiv
+- EmpireDidNothingWrong
+- TwoBestFriendsPlay
+- handholding
+- GundamExVs
+- 3dshacks
+- MSGBS
+- rpg
+- Animesuggest
+- OnePunchMan
+- ConfusedBoners
+- flying
+- thesprawl
+- Zoids
+- fuck2017evenmore
+- gunpla
+---

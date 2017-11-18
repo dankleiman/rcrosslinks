@@ -1,0 +1,5 @@
+---
+title: FSpinnerMasterRace
+crosslinks:
+- FidgetSpinners
+---

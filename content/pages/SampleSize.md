@@ -1,0 +1,24 @@
+---
+title: SampleSize
+crosslinks:
+- slatestarcodex
+- xkcd
+- DataVizRequests
+- thesims
+- Serendipity
+- WouldYouRather
+- PollFucking
+- AskReddit
+- FRC
+- GMOMyths
+- Eyeshakers
+- fantasywriters
+- programming
+- math
+- EngineeringStudents
+- Music
+- italy
+- namenerds
+- idaho
+- NuclearPower
+---

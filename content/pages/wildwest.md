@@ -1,0 +1,5 @@
+---
+title: wildwest
+crosslinks:
+- HistoryPorn
+---

@@ -1,0 +1,24 @@
+---
+title: Bonsai
+crosslinks:
+- whatsthisplant
+- marijuanaenthusiasts
+- mildlyinteresting
+- gardening
+- succulents
+- orchids
+- SavageGarden
+- houseplants
+- Roses
+- solesandholes
+- Mycorrhizae
+- FirstNameBasis
+- Throwers
+- mycology
+- mechmarket
+- '2013'
+- plantclinic
+- CeramicPapez
+- plants
+- PlantedTank
+---

@@ -1,0 +1,5 @@
+---
+title: Thinkpads
+crosslinks:
+- thinkpad
+---

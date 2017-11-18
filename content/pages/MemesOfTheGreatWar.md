@@ -1,0 +1,5 @@
+---
+title: MemesOfTheGreatWar
+crosslinks:
+- HistoryMemes
+---

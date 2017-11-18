@@ -1,0 +1,21 @@
+---
+title: just_post
+crosslinks:
+- livven
+- raiseyourdongers
+- xkcd
+- iamveryculinary
+- traaaaaaannnnnnnnnns
+- ShitRedditSays
+- copypasta
+- findareddit
+- isreal
+- Hedgehog
+- dontdeadopeninside
+- Thetruthishere
+- thecatdimension
+- SuicideWatch
+- Esperanto
+- Creeks
+- AskReddit
+---

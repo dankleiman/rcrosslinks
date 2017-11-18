@@ -1,0 +1,5 @@
+---
+title: ThinkLikeAnHistorian
+crosslinks:
+- discordapp
+---

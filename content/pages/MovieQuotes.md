@@ -1,0 +1,5 @@
+---
+title: MovieQuotes
+crosslinks:
+- ScreenCapsForTheSoul
+---

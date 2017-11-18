@@ -1,0 +1,24 @@
+---
+title: MineralPorn
+crosslinks:
+- livven
+- geologyporn
+- BrasilOnReddit
+- stevenuniverse
+- Lapidary
+- rockhounds
+- pics
+- mildlypenis
+- Gregfuckedarock
+- PortugalOnReddit
+- Wellworn
+- WireWrapping
+- interestingasfuck
+- Minecraft
+- popping
+- FossilPorn
+- WhyTheFuck
+- ChargeYourPhone
+- dankmemes
+- excgarated
+---

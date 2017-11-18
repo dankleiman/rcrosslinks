@@ -1,0 +1,24 @@
+---
+title: Lightbulb
+crosslinks:
+- xkcd
+- gameideas
+- ShittyLifeProTips
+- mildlyinteresting
+- PoliticalProposals
+- AskReddit
+- Doppleganger
+- shorthand
+- TitlePapercut
+- IKEA_Hacks
+- JusticeServed
+- AmIFreeToGo
+- musictheory
+- CrazyIdeas
+- POTUSWatch
+- lifelessons
+- worldnews
+- Showerthoughts
+- Cooking
+- conspiracy
+---

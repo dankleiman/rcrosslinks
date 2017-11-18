@@ -1,0 +1,24 @@
+---
+title: Bushcraft
+crosslinks:
+- Survival
+- Axecraft
+- Leathercraft
+- livven
+- ArtisanVideos
+- mallninjashit
+- knives
+- hiking
+- foraging
+- myog
+- trailmeals
+- HailCorporate
+- martialarts
+- NegativeWithGold
+- paleoskills
+- CampfireCooking
+- Glamping
+- CCW
+- Outdoors
+- mycology
+---

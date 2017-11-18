@@ -1,0 +1,22 @@
+---
+title: NarutoBlazing
+crosslinks:
+- DBZDokkanBattle
+- OnePieceTC
+- Naruto
+- me_irl
+- Pay_Respects
+- dankruto
+- BleachBraveSouls
+- naruto_online
+- FFRecordKeeper
+- NarutoSC
+- MemoryDefrag
+- taeyskadiedoaHAV
+- DeepFriedMemes
+- FFBraveExvius
+- im14andthisisfunny
+- pokemonduel
+- JoJoDiamondRecords
+- livven
+---

@@ -1,0 +1,24 @@
+---
+title: Perfectfit
+crosslinks:
+- livven
+- HailCorporate
+- oddlysatisfying
+- KarmaConspiracy
+- mildlyinteresting
+- ShittyLifeProTips
+- SweatyPalms
+- thewitnessirl
+- TheWitness
+- mildyinfuriating
+- perfectloops
+- gundeals
+- RelevantXKCD
+- MildlyUnsatisfying
+- newsokur
+- keming
+- Skookum
+- androidthemes
+- UnexpectedTetris
+- nonononoyes
+---

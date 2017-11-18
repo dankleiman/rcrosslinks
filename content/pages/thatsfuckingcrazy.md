@@ -1,0 +1,5 @@
+---
+title: thatsfuckingcrazy
+crosslinks:
+- mildlyinteresting
+---

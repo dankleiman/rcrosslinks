@@ -1,0 +1,24 @@
+---
+title: samsung
+crosslinks:
+- autotldr
+- GalaxyS8
+- GalaxyS7
+- Android
+- GalaxyGear
+- GalaxyNote8
+- galaxys8
+- SamsungPay
+- android
+- ATT
+- galaxynote4
+- softwaregore
+- S7Edge
+- androidthemes
+- hometheater
+- livven
+- note7
+- hardwareswap
+- technology
+- galaxys5
+---

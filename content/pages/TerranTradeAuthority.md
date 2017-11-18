@@ -1,0 +1,5 @@
+---
+title: TerranTradeAuthority
+crosslinks:
+- naut
+---

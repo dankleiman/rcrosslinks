@@ -1,0 +1,24 @@
+---
+title: BlueJackets
+crosslinks:
+- hockey
+- LazyMan
+- penguins
+- hockeyjerseys
+- puckstreams
+- livven
+- nhl_games
+- hawks
+- hockeycirclejerk
+- Suomi
+- casualiama
+- upvotegifs
+- NHLStreams
+- Predators
+- Bruins
+- wildhockey
+- splatoon
+- GAA
+- lazyman
+- hockeygoalies
+---

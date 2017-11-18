@@ -1,0 +1,5 @@
+---
+title: GraduatedFromTrumpU
+crosslinks:
+- facepalm
+---

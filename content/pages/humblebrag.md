@@ -1,0 +1,24 @@
+---
+title: humblebrag
+crosslinks:
+- iamverysmart
+- gatekeeping
+- niceguys
+- septumchicks
+- CringeAnarchy
+- Military
+- AppleWatch
+- ChargeYourPhone
+- gainit
+- shittyHDR
+- BlackPeopleTwitter
+- masterhacker
+- socialskills
+- ForeverAlone
+- thatHappened
+- Whooosh
+- Incel
+- nottheonion
+- TrumpCriticizesTrump
+- wholesomememes
+---

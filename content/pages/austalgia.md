@@ -1,0 +1,5 @@
+---
+title: austalgia
+crosslinks:
+- australia
+---

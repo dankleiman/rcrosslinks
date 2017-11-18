@@ -1,0 +1,21 @@
+---
+title: CompetitiveHS
+crosslinks:
+- hearthstone
+- wildhearthstone
+- TheHearth
+- HearthstoneMath
+- comphsdeleted
+- customhearthstone
+- GrinningGoat
+- metastats
+- HSCoaching
+- ArenaHS
+- hsreplay
+- HearthDecklists
+- TheseFuckingAccounts
+- Competitiveoverwatch
+- HearthArena
+- '923'
+- JUGPRDT
+---

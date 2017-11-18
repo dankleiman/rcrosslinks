@@ -1,0 +1,5 @@
+---
+title: WildCampingAndHiking
+crosslinks:
+- Ultralight
+---

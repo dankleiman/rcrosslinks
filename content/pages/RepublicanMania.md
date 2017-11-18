@@ -1,0 +1,5 @@
+---
+title: RepublicanMania
+crosslinks:
+- autotldr
+---

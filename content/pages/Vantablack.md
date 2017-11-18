@@ -1,0 +1,5 @@
+---
+title: Vantablack
+crosslinks:
+- gifs
+---

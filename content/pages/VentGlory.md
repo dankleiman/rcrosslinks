@@ -1,0 +1,5 @@
+---
+title: VentGlory
+crosslinks:
+- vainglorygame
+---

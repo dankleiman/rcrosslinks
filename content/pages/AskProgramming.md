@@ -1,0 +1,24 @@
+---
+title: AskProgramming
+crosslinks:
+- learnprogramming
+- xkcd
+- programming
+- compsci
+- cscareerquestions
+- Python
+- ProgrammerHumor
+- 6ahkka
+- gamedev
+- learnpython
+- DSP
+- eyskHd
+- AskComputerScience
+- mysql
+- userexperience
+- javascript
+- askscience
+- SideProject
+- AskElectronics
+- AppIdeas
+---

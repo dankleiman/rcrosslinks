@@ -1,0 +1,5 @@
+---
+title: Glock
+crosslinks:
+- weekendgunnit
+---

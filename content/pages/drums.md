@@ -1,0 +1,24 @@
+---
+title: drums
+crosslinks:
+- Bass
+- pics
+- Guitar
+- livven
+- audioengineering
+- snareporn
+- hockey
+- drumcringepics
+- percussion
+- Metal
+- recordingmusic
+- Serendipity
+- vandwellers
+- HailCorporate
+- drumline
+- jazzdrums
+- puns
+- UNBGBBIIVCHIDCTIICBG
+- whereisthis
+- greenville
+---

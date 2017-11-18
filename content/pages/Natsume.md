@@ -1,0 +1,5 @@
+---
+title: Natsume
+crosslinks:
+- anime
+---

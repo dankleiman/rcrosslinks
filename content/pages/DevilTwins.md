@@ -1,0 +1,5 @@
+---
+title: DevilTwins
+crosslinks:
+- armpithero
+---

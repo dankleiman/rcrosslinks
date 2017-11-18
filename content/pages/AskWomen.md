@@ -1,0 +1,24 @@
+---
+title: AskWomen
+crosslinks:
+- AskReddit
+- IAmA
+- '2013'
+- funny
+- goodlongposts
+- AskMen
+- aww
+- sex
+- SkincareAddiction
+- gifs
+- Fitness
+- malefashionadvice
+- pettyrevenge
+- personalfinance
+- keto
+- LifeProTips
+- Showerthoughts
+- relationships
+- nosleep
+- MakeupAddiction
+---

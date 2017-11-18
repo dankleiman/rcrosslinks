@@ -1,0 +1,21 @@
+---
+title: hotsauce
+crosslinks:
+- spicy
+- HotPeppers
+- ArcherFX
+- arresteddevelopment
+- hotsaucerecipes
+- fermentation
+- redditrequest
+- Sriracha
+- southpark
+- MimicRecipes
+- metric_units
+- interestingasfuck
+- Canning
+- snackexchange
+- tattoo
+- IAmA
+- Portland
+---

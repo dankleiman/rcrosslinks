@@ -1,0 +1,24 @@
+---
+title: travel
+crosslinks:
+- solotravel
+- JapanTravel
+- Thailand
+- Munich
+- pics
+- IAmA
+- london
+- EarthPorn
+- hiking
+- VisitingIceland
+- Flights
+- AskReddit
+- Amsterdam
+- digitalnomad
+- canada
+- mentalhealth
+- AMA
+- AskSF
+- Turkey
+- AskEurope
+---

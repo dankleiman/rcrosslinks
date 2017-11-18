@@ -1,0 +1,5 @@
+---
+title: stata
+crosslinks:
+- AskStatistics
+---

@@ -1,0 +1,5 @@
+---
+title: acornarchimedes
+crosslinks:
+- retrocomputing
+---

@@ -1,0 +1,5 @@
+---
+title: RebelScience
+crosslinks:
+- artificial
+---

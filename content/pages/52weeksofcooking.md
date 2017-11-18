@@ -1,0 +1,22 @@
+---
+title: 52weeksofcooking
+crosslinks:
+- food
+- AskCulinary
+- grilledcheese
+- drunkencookery
+- Pizza
+- BurningMan
+- FoodPorn
+- xkcd
+- ClFvxY3
+- fermentation
+- aww
+- stilltrying
+- recipes
+- WordAvalanches
+- announcements
+- MealPrepSunday
+- Cooking
+- Serendipity
+---

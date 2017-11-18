@@ -1,0 +1,5 @@
+---
+title: PokemonGoAmarillo
+crosslinks:
+- amarillo
+---

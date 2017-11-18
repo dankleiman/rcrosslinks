@@ -1,0 +1,24 @@
+---
+title: rickandmorty
+crosslinks:
+- IAmA
+- livven
+- SzechuanSauceSeekers
+- shitpost
+- xkcd
+- videos
+- c137
+- AskReddit
+- autotldr
+- HailCorporate
+- FuckTammy
+- rickandmorty_C137
+- GunsNRoses
+- funny
+- wallpapers
+- iamverysmart
+- OutOfTheLoop
+- HighQualityGifs
+- creepy
+- dankmemes
+---

@@ -1,0 +1,24 @@
+---
+title: ComedyNecrophilia
+crosslinks:
+- ComedyCemetery
+- comedynecromancy
+- DeepFriedMemes
+- surrealmemes
+- nukedmemes
+- 4PanelCringe
+- comics
+- furry_irl
+- politicalcartoons
+- ExpandDong
+- weirdwikihow
+- ledootgeneration
+- vore_irl
+- The_Donald
+- Adam_fkn_Ellis_again
+- comedycemetry
+- AskOujia
+- comedy
+- 2meirl4meirl
+- coaxedintoasnafu
+---

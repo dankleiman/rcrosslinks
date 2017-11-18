@@ -1,0 +1,24 @@
+---
+title: kancolle
+crosslinks:
+- WorldOfWarships
+- Pixiv
+- KanMusu
+- livven
+- resinkits
+- REEEEEE
+- programming
+- VoHiYo
+- worldnews
+- PrequelMemes
+- Warthunder
+- BestOfReports
+- anime
+- grandorder
+- ShokugekiNoSoma
+- theydidntdothemath
+- Animemes
+- noslep
+- Gunpla
+- wholesomememes
+---

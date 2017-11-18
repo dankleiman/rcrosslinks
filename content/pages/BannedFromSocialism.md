@@ -1,0 +1,5 @@
+---
+title: BannedFromSocialism
+crosslinks:
+- LateStageCapitalism
+---

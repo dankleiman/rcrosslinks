@@ -1,0 +1,5 @@
+---
+title: toiletbrittle
+crosslinks:
+- worldnews
+---

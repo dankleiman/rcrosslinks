@@ -1,0 +1,5 @@
+---
+title: SquaredCirclejerk
+crosslinks:
+- Serendipity
+---

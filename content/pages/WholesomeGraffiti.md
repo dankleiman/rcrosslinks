@@ -1,0 +1,5 @@
+---
+title: WholesomeGraffiti
+crosslinks:
+- GetMotivated
+---

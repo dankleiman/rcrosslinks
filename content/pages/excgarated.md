@@ -1,0 +1,24 @@
+---
+title: excgarated
+crosslinks:
+- AskReddit
+- facepalm
+- keming
+- killthosewhodisagree
+- me_irl
+- LoveTV
+- nocontext
+- NotHowDrugsWork
+- videos
+- BlackPeopleTwitter
+- engrish
+- lewronggeneration
+- creepyPMs
+- CasualConversation
+- titlegore
+- Justrolledintotheshop
+- karmaless3
+- Amd
+- thatHappened
+- Anticonsumption
+---

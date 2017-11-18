@@ -1,0 +1,5 @@
+---
+title: Exonumia
+crosslinks:
+- Serendipity
+---

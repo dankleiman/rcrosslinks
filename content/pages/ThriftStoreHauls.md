@@ -1,0 +1,24 @@
+---
+title: ThriftStoreHauls
+crosslinks:
+- Flipping
+- analog
+- goodyearwelt
+- livven
+- vintageaudio
+- CoolCollections
+- AskReddit
+- aww
+- Watches
+- pics
+- Bowling
+- DIY
+- whatisthisthing
+- streetwear
+- malelivingspace
+- whatsthisrock
+- Mid_Century
+- translator
+- VintageTees
+- youdontsurf
+---

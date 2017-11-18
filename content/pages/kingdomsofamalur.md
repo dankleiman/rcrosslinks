@@ -1,0 +1,5 @@
+---
+title: kingdomsofamalur
+crosslinks:
+- Games
+---

@@ -1,0 +1,5 @@
+---
+title: fries
+crosslinks:
+- FoodPorn
+---

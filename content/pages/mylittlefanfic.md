@@ -1,0 +1,5 @@
+---
+title: mylittlefanfic
+crosslinks:
+- mylittlepony
+---

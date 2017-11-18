@@ -1,0 +1,24 @@
+---
+title: IndiaNonPolitical
+crosslinks:
+- IndiaSpeaks
+- AskReddit
+- india
+- ComedyIndia
+- funny
+- IndiaInvestments
+- asoiaf
+- movies
+- gameofthrones
+- livven
+- Cricket
+- philosophy
+- AMAAggregator
+- IndiaMain
+- worldnews
+- OutOfTheLoop
+- Android
+- indianpeoplequora
+- sahitya
+- me_irl
+---

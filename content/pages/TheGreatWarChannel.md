@@ -1,0 +1,24 @@
+---
+title: TheGreatWarChannel
+crosslinks:
+- AskHistorians
+- HistoryOfAustria
+- ColorizedHistory
+- PORTUGALCARALHO
+- movies
+- autotldr
+- wwi
+- Suomi
+- funny
+- vexillology
+- vexilology
+- TopMindsOfReddit
+- europe
+- HistoryPorn
+- censorship
+- dndhistory
+- ImaginaryWarships
+- videos
+- MapPorn
+- justgirlythings
+---

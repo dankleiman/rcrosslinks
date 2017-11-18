@@ -1,0 +1,24 @@
+---
+title: MensRights
+crosslinks:
+- autotldr
+- Feminism
+- mensrightslinks
+- AskFeminists
+- MGTOW
+- TwoXChromosomes
+- TheRedPill
+- AskReddit
+- foreskin_restoration
+- Foregen
+- pussypassdenied
+- KotakuInAction
+- menkampf
+- PussyPass
+- The_Donald
+- AskMen
+- legaladvice
+- news
+- wtf
+- worldpolitics
+---

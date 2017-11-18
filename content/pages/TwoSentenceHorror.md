@@ -1,0 +1,24 @@
+---
+title: TwoSentenceHorror
+crosslinks:
+- nosleep
+- shortscarystories
+- AskReddit
+- Petrifyingpoetry
+- madlads
+- shittynosleep
+- shortscarystoriesooc
+- ShortSadStories
+- Jokes
+- SCP
+- funny
+- ImaginaryLeviathans
+- Showerthoughts
+- wholesomemes
+- sleepyskeletons
+- TrueScaryStories
+- memes
+- onesentencehorror
+- armenia
+- Wholesomenosleep
+---

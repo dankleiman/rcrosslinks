@@ -1,0 +1,5 @@
+---
+title: FoldedFortunes
+crosslinks:
+- pics
+---

@@ -1,0 +1,5 @@
+---
+title: Sonics
+crosslinks:
+- Serendipity
+---

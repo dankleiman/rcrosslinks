@@ -1,0 +1,24 @@
+---
+title: fixingmovies
+crosslinks:
+- movies
+- RewritingTheDCEU
+- shitty_fixingmovies
+- StarWars
+- onetruegod
+- furry_irl
+- atw9k
+- Screenwriting
+- hapas
+- gatekeeping
+- deathnote
+- TrueFilm
+- roguelikes
+- SAVEBRENDAN
+- AskScienceFiction
+- teslore
+- lotr
+- fo4
+- Naruto
+- PrequelMemes
+---

@@ -1,0 +1,5 @@
+---
+title: EliteWallpapers
+crosslinks:
+- EliteDangerous
+---

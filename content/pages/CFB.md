@@ -1,0 +1,24 @@
+---
+title: CFB
+crosslinks:
+- CFBStreams
+- '2013'
+- nfl
+- reddit_stream
+- rolltide
+- '2016'
+- the_darnold
+- xkcd
+- FloridaGators
+- place
+- Huskers
+- meirl
+- ApplyingToCollege
+- ockytop
+- BigXII
+- AskReddit
+- TheFulmerCup
+- CFBOffTopic
+- IAmA
+- reactiongifs
+---

@@ -1,0 +1,24 @@
+---
+title: cade
+crosslinks:
+- MAME
+- crapmame
+- crtgaming
+- RetroPie
+- gaming
+- arcade
+- tipofmyjoystick
+- AskElectronics
+- emulation
+- GallopingGhostArcade
+- 90sdesign
+- GayButtsOnly
+- INJUSTICE
+- mame
+- HyperSpin
+- PhotoshopRequest
+- Stepmania
+- wikipedia
+- pcgaming
+- autotldr
+---

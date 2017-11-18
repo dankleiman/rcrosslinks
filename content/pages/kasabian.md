@@ -1,0 +1,5 @@
+---
+title: kasabian
+crosslinks:
+- vinyl
+---

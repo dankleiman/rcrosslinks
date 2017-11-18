@@ -1,0 +1,5 @@
+---
+title: isitnormal
+crosslinks:
+- especiallywithcontext
+---

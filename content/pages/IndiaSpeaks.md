@@ -1,0 +1,24 @@
+---
+title: IndiaSpeaks
+crosslinks:
+- india
+- autotldr
+- indiadiscussion
+- IAmA
+- AskReddit
+- Fitness
+- indianews
+- IndiaNonPolitical
+- todayilearned
+- worldnews
+- IndiaInvestments
+- MapPorn
+- videos
+- IndianEnts
+- IndianCJ
+- pakistan
+- Cricket
+- androidapps
+- help
+- cricket
+---

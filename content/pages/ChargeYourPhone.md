@@ -1,0 +1,24 @@
+---
+title: ChargeYourPhone
+crosslinks:
+- fire_snyper
+- dankmemes
+- madlads
+- meirl
+- noshitouija
+- me_irl
+- Tinder
+- ComedyCemetery
+- delusionalcraigslist
+- TitlePapercut
+- GalaxyS8
+- WTF
+- softwaregore
+- ghettoglamourshots
+- xkcd
+- trashy
+- tf2
+- StoppedWorking
+- wallpaper
+- IdleHeroes
+---

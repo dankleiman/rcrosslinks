@@ -1,0 +1,24 @@
+---
+title: accidentalswastika
+crosslinks:
+- livven
+- intentionalswastika
+- pics
+- excgarated
+- CrappyDesign
+- vexillologycirclejerk
+- croatia
+- mildlyswastika
+- autotldr
+- dwarffortress
+- CatsStandingUp
+- evangelionmemes
+- Minecraft
+- engrish
+- untrustworthypoptarts
+- mildlypenis
+- mildlyinteresting
+- Justrolledintotheshop
+- EDC
+- gatekeeping
+---

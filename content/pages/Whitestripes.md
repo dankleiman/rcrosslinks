@@ -1,0 +1,5 @@
+---
+title: Whitestripes
+crosslinks:
+- jackwhite
+---

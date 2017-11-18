@@ -1,0 +1,5 @@
+---
+title: bajiquan
+crosslinks:
+- kungfu
+---

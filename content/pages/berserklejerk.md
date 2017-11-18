@@ -1,0 +1,22 @@
+---
+title: berserklejerk
+crosslinks:
+- livven
+- Berserk
+- GoneWyald
+- sysadmin
+- JonTron
+- OnePiece
+- Justfuckmyshitup
+- movies
+- funny
+- Games
+- wholesomememes
+- me_irl
+- ShitPostCrusaders
+- TwoBestFriendsPlay
+- WhitePeopleTwitter
+- BrasilOnReddit
+- shittydarksouls
+- THE_PACK
+---

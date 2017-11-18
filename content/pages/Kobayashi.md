@@ -1,0 +1,5 @@
+---
+title: Kobayashi
+crosslinks:
+- Pixiv
+---

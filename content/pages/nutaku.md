@@ -1,0 +1,5 @@
+---
+title: nutaku
+crosslinks:
+- kamipro
+---

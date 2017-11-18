@@ -1,0 +1,5 @@
+---
+title: ShittyMealPrepSunday
+crosslinks:
+- shittyfoodporn
+---

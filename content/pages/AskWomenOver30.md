@@ -1,0 +1,24 @@
+---
+title: AskWomenOver30
+crosslinks:
+- MGTOW
+- AskMenOver30
+- childfree
+- knitting
+- DeadBedrooms
+- MensRights
+- stopdrinking
+- ABraThatFits
+- careerguidance
+- xxfitness
+- JUSTNOFAMILY
+- JUSTNOMIL
+- AskReddit
+- WhereAreAllTheGoodMen
+- solotravel
+- loseit
+- NeutralPolitics
+- sexover30
+- optometry
+- personalfinance
+---

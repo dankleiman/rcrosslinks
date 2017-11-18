@@ -1,0 +1,5 @@
+---
+title: FilthyRoyale
+crosslinks:
+- ClashRoyale
+---

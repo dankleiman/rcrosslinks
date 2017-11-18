@@ -1,0 +1,5 @@
+---
+title: TheLeftHandPath
+crosslinks:
+- satanism
+---

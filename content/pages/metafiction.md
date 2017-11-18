@@ -1,0 +1,5 @@
+---
+title: metafiction
+crosslinks:
+- terrapax
+---

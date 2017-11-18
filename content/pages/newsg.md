@@ -1,0 +1,24 @@
+---
+title: newsg
+crosslinks:
+- kokusaijyousei_ja
+- sky_ja
+- GeinouNews
+- newsokuexp
+- religions_ja
+- local_ja
+- petdaisuki
+- privacy_ja
+- newsokur
+- security_ja
+- kokoro
+- Politics_ja
+- sokur2
+- ruins_jp
+- hage
+- newsokunomoral
+- Newsoku_L
+- newsokuMoral
+- highlevelkarma
+- tikagenron
+---

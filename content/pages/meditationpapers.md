@@ -1,0 +1,5 @@
+---
+title: meditationpapers
+crosslinks:
+- Meditation
+---

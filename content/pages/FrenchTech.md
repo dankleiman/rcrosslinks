@@ -1,0 +1,5 @@
+---
+title: FrenchTech
+crosslinks:
+- france
+---

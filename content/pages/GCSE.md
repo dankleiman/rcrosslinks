@@ -1,0 +1,24 @@
+---
+title: GCSE
+crosslinks:
+- 6thForm
+- livven
+- teenagers
+- fountainpens
+- AMAAggregator
+- summonerschool
+- me_irl
+- uplifting
+- Handwriting
+- tea
+- GCSEMaths
+- kpop
+- unexpectedaperture
+- math
+- ComedyCemetery
+- ShittyLifeProTips
+- hhh
+- KarmaConspiracy
+- copypasta
+- hiphopheads
+---

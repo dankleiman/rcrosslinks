@@ -1,0 +1,24 @@
+---
+title: printSF
+crosslinks:
+- TheExpanse
+- TerraIgnota
+- Asimov
+- scifi
+- Fantasy
+- AskReddit
+- AskScienceFiction
+- TheCulture
+- sciencefiction
+- litrpg
+- horrorlit
+- DestructiveReaders
+- firstpage
+- metro2033
+- audiodrama
+- TheHandmaidsTale
+- RomeSweetRome
+- IAmA
+- HFY
+- ihavenomouthandimust
+---

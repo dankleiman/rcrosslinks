@@ -1,0 +1,24 @@
+---
+title: lowlevelaware
+crosslinks:
+- highlevelkarma
+- newsokunomoral
+- newsokur
+- newsokuvip
+- awwnime
+- KemonoFriends
+- kemonomimi
+- otoge
+- Oekaki_ja
+- CadenMoranDiary
+- anime
+- YJSNPI
+- doraiso
+- japancirclejerk
+- okashi_ja
+- RedditsHistory_ja
+- araragigirls
+- cooking_ja
+- Fuee
+- memorandum
+---

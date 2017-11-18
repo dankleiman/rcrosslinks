@@ -1,0 +1,21 @@
+---
+title: QualitySocialism
+crosslinks:
+- socialism
+- autotldr
+- livven
+- LateStageCapitalism
+- Anarcho_Capitalism
+- worldnews
+- FULLCOMMUNISM
+- The_Donald
+- GoldandBlack
+- todayilearned
+- space
+- shitsocialismsays
+- EnoughCommieSpam
+- modnews
+- Connecticut
+- Anarchism
+- EmpireDidNothingWrong
+---

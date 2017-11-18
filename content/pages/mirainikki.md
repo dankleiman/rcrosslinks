@@ -1,0 +1,5 @@
+---
+title: mirainikki
+crosslinks:
+- Serendipity
+---

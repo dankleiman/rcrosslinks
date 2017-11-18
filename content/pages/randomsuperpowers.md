@@ -1,0 +1,5 @@
+---
+title: randomsuperpowers
+crosslinks:
+- Galihan
+---

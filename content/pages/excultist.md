@@ -1,0 +1,5 @@
+---
+title: excultist
+crosslinks:
+- ThoughtfulAtheism
+---

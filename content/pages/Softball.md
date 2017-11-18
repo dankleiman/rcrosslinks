@@ -1,0 +1,5 @@
+---
+title: Softball
+crosslinks:
+- soccer
+---

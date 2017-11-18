@@ -1,0 +1,5 @@
+---
+title: Deliriants
+crosslinks:
+- tooktoomuch
+---

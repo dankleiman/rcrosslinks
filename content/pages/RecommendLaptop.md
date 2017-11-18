@@ -1,0 +1,5 @@
+---
+title: RecommendLaptop
+crosslinks:
+- Dell
+---

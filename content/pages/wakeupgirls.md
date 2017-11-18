@@ -1,0 +1,5 @@
+---
+title: wakeupgirls
+crosslinks:
+- LoveLive
+---

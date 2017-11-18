@@ -1,0 +1,5 @@
+---
+title: QueerNews
+crosslinks:
+- LGBTnews
+---

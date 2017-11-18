@@ -1,0 +1,24 @@
+---
+title: RussiaLago
+crosslinks:
+- autotldr
+- politics
+- OutOfTheLoop
+- The_Donald
+- NeutralPolitics
+- TrumpInvestigation
+- AskReddit
+- MarchAgainstTrump
+- EnoughTrumpSpam
+- all
+- news
+- conspiracy
+- confessions
+- Linky_links
+- SandersForPresident
+- TheRedPill
+- scifi
+- europeannationalism
+- Impeach_Trump
+- NoStupidQuestions
+---

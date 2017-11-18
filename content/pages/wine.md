@@ -1,0 +1,21 @@
+---
+title: wine
+crosslinks:
+- sonameya
+- gofundme
+- food
+- france
+- talesofretail
+- Serendipity
+- pyongyang
+- etymology
+- skiing
+- askreddit
+- oldmaps
+- firewater
+- Tucson
+- winemaking
+- coolguides
+- autotldr
+- pics
+---

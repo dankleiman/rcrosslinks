@@ -1,0 +1,5 @@
+---
+title: RIPhearthstone
+crosslinks:
+- hearthstone
+---

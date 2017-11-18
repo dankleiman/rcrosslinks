@@ -1,0 +1,5 @@
+---
+title: animalalbumcovers
+crosslinks:
+- aww
+---

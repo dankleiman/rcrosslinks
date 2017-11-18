@@ -1,0 +1,24 @@
+---
+title: vfx
+crosslinks:
+- Filmmakers
+- movies
+- livven
+- headphones
+- VFXUnion
+- autotldr
+- MattePainting
+- VideoEditing
+- animation
+- Cinema4D
+- deepdream
+- AfterEffects
+- IAmA
+- PrequelMemes
+- CentOS
+- Houdini
+- d
+- RedshiftRenderer
+- unrealengine
+- graphic_design
+---

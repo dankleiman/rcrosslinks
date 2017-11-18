@@ -1,0 +1,24 @@
+---
+title: TheoryOfReddit
+crosslinks:
+- announcements
+- shills
+- all
+- The_Donald
+- modnews
+- politics
+- OutOfTheLoop
+- AskReddit
+- changelog
+- pics
+- ModSupport
+- TrueReddit
+- pic
+- videos
+- dankmemes
+- IAmA
+- TheseFuckingAccounts
+- conspiracy
+- MarchAgainstTrump
+- undelete
+---

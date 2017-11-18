@@ -1,0 +1,5 @@
+---
+title: Netgate
+crosslinks:
+- PFSENSE
+---

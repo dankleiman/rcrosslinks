@@ -1,0 +1,5 @@
+---
+title: SpiegelOnline
+crosslinks:
+- autotldr
+---

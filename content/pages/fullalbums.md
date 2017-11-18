@@ -1,0 +1,5 @@
+---
+title: fullalbums
+crosslinks:
+- LSD
+---

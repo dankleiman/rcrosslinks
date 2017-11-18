@@ -1,0 +1,5 @@
+---
+title: LIberalCrimeSquad
+crosslinks:
+- gaming
+---

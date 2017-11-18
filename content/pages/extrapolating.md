@@ -1,0 +1,5 @@
+---
+title: extrapolating
+crosslinks:
+- xkcd
+---

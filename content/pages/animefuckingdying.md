@@ -1,0 +1,5 @@
+---
+title: animefuckingdying
+crosslinks:
+- livven
+---

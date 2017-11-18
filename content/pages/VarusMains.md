@@ -1,0 +1,5 @@
+---
+title: VarusMains
+crosslinks:
+- leagueoflegends
+---

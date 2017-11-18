@@ -1,0 +1,5 @@
+---
+title: weirdnews
+crosslinks:
+- autotldr
+---

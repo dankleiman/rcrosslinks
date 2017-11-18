@@ -1,0 +1,24 @@
+---
+title: uspolitics
+crosslinks:
+- autotldr
+- The_Donald
+- politics
+- todayilearned
+- pics
+- Anarchism
+- TrueReddit
+- all
+- starwarsminiatures
+- waist
+- WayOfTheBern
+- askaconservative
+- RadicalFeminism
+- explainlikeimfive
+- TopMindsOfReddit
+- Fuckthealtright
+- theNew_Donald
+- BetoORourke
+- TheseFuckingAccounts
+- news
+---

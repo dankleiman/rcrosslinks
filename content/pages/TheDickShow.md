@@ -1,0 +1,24 @@
+---
+title: TheDickShow
+crosslinks:
+- Destiny
+- MadcastMedia
+- livven
+- asterios
+- autotldr
+- The_Donald
+- xkcd
+- Drama
+- AskReddit
+- Madcucks
+- OutOfTheLoop
+- JamesDamore
+- todayilearned
+- KotakuInAction
+- SargonofAkkad
+- me_irl
+- technology
+- short
+- politics
+- IAmA
+---

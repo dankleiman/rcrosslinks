@@ -1,0 +1,24 @@
+---
+title: creepyasterisks
+crosslinks:
+- furry_irl
+- sadcringe
+- creepyPMs
+- OopsDidntMeanTo
+- cringepics
+- mallninjashit
+- AteThePasta
+- coaxedintoasnafu
+- DeepFriedMemes
+- xkcd
+- Nicegirls
+- Entrepreneur
+- Kappa
+- swoleacceptance
+- pics
+- furry
+- wtfdidijustread
+- hilariouscringe
+- Negareddit
+- niceguys
+---

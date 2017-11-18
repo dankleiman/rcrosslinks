@@ -1,0 +1,24 @@
+---
+title: Schizoid
+crosslinks:
+- Nootropics
+- SchizoidDating
+- schizophrenia
+- aspergers
+- MaladaptiveDreaming
+- depression
+- aspergirls
+- Anxiety
+- childfree
+- Aphantasia
+- sociopath
+- watchpeopledie
+- TheRedPill
+- Bitcoin
+- C_S_T
+- ARG
+- LegalAdviceUK
+- guro
+- NPD
+- dependent
+---

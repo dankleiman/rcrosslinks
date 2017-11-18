@@ -1,0 +1,24 @@
+---
+title: askpsychology
+crosslinks:
+- psychology
+- evopsych
+- Meditation
+- science
+- AcademicPsychology
+- iamsmart
+- mentalhealth
+- TalkTherapy
+- schizophrenia
+- Antipsychiatry
+- AskSocialScience
+- Drugs
+- philosophy
+- mathpsych
+- intj
+- Fantasy
+- Physics
+- Aphantasia
+- paracosms
+- short
+---

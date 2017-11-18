@@ -1,0 +1,5 @@
+---
+title: success
+crosslinks:
+- youtheducation
+---

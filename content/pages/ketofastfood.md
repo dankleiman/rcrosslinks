@@ -1,0 +1,5 @@
+---
+title: ketofastfood
+crosslinks:
+- keto
+---

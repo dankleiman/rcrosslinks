@@ -1,0 +1,5 @@
+---
+title: scribus
+crosslinks:
+- RPGdesign
+---

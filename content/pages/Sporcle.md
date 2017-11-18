@@ -1,0 +1,5 @@
+---
+title: Sporcle
+crosslinks:
+- puzzles
+---

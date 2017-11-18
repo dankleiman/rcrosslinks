@@ -1,0 +1,22 @@
+---
+title: cannabis
+crosslinks:
+- autotldr
+- trees
+- EnoughTrumpSpam
+- kratom
+- Serendipity
+- CBD
+- OrganicMarijuana
+- NoStupidQuestions
+- MMJ
+- Marijuana
+- Drugs
+- noids
+- ShitAmericansSay
+- news
+- Ohio
+- leaves
+- livven
+- NoShitSherlock
+---

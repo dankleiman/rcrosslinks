@@ -1,0 +1,5 @@
+---
+title: CromulentWords
+crosslinks:
+- trashy
+---

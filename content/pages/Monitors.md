@@ -1,0 +1,24 @@
+---
+title: Monitors
+crosslinks:
+- pcmasterrace
+- Amd
+- ultrawidemasterrace
+- nvidia
+- hardwareswap
+- hardware
+- techsupport
+- hfr
+- AMDHelp
+- DrNCX
+- pcgaming
+- DIY
+- '2013'
+- BestMonitors
+- Whooosh
+- YourgamingMonitors
+- PS4Pro
+- computers
+- WidescreenWallpaper
+- Windows10
+---

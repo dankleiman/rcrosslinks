@@ -1,0 +1,5 @@
+---
+title: BitcoinFrance
+crosslinks:
+- france
+---

@@ -1,0 +1,24 @@
+---
+title: NotTimAndEric
+crosslinks:
+- videos
+- shittykickstarters
+- Metal
+- IAmA
+- DankMemeArchive
+- delusionalartists
+- milliondollarextreme
+- cringe
+- theticket
+- ShitAmericansSay
+- GMCFOSHO
+- KitchenConfidential
+- mildlyinteresting
+- Bandnames
+- hottiesfortrump
+- fidgetspin
+- gaming
+- television
+- CringeAnarchy
+- ActLikeYouBelong
+---

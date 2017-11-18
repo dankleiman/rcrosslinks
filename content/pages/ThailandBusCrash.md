@@ -1,0 +1,5 @@
+---
+title: ThailandBusCrash
+crosslinks:
+- autotldr
+---

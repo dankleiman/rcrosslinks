@@ -1,0 +1,24 @@
+---
+title: drawing
+crosslinks:
+- Art
+- livven
+- ArtFundamentals
+- pics
+- delusionalartists
+- redditgetsdrawn
+- learntodraw
+- me_irl
+- Sneks
+- streetwear
+- rapperadayproject
+- learnart
+- doodles
+- gaming
+- h3h3productions
+- RetroFuturism
+- atheism
+- Overwatch
+- ArtCrit
+- videos
+---

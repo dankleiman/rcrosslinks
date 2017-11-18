@@ -1,0 +1,5 @@
+---
+title: Nagato
+crosslinks:
+- Haruhi
+---

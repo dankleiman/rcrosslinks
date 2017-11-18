@@ -1,0 +1,24 @@
+---
+title: brandnew
+crosslinks:
+- IslandParkNY
+- livven
+- PPLMVR
+- zooolanderconspiracy
+- Emo
+- vinyl
+- PogolithEarthSound
+- indieheads
+- unexpectedpawnee
+- Music
+- nosleep
+- Tinder
+- fantanoforever
+- LawSchool
+- radiohead
+- me_irl
+- TheFence
+- TerminalPasswords
+- Toonami
+- PhotoshopRequest
+---

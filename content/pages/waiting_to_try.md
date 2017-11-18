@@ -1,0 +1,24 @@
+---
+title: waiting_to_try
+crosslinks:
+- JUSTNOMIL
+- WTT_graduates
+- crochet
+- xxfitness
+- TFABLinePorn
+- weddingplanning
+- personalfinance
+- predaddit
+- CrossStitch
+- confession
+- skeptic
+- Parenting
+- ttcafterloss
+- personalfinace
+- succulents
+- Fencesitter
+- fitpregnancy
+- justnomil
+- CautiousBB
+- AskWomen
+---

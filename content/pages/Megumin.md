@@ -1,0 +1,24 @@
+---
+title: Megumin
+crosslinks:
+- Pixiv
+- anime
+- place
+- Animemes
+- TheBlueCorner
+- livven
+- nsfwMegumin
+- de
+- ahegao
+- selfies
+- pitchforkemporium
+- Pxlsspace
+- kemonomimi
+- OneTrueRem
+- AquaSama
+- cosplay
+- placeDE
+- animefuckingdying
+- Calgary
+- BlueCorner
+---

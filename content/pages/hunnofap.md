@@ -1,0 +1,5 @@
+---
+title: hunnofap
+crosslinks:
+- NoFap
+---

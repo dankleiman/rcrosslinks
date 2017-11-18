@@ -1,0 +1,24 @@
+---
+title: Currentlytripping
+crosslinks:
+- livven
+- Art
+- FractalGifs
+- pics
+- perfectloops
+- replications
+- interestingasfuck
+- oddlysatisfying
+- LSD
+- woahdude
+- BeAmazed
+- proceduralgeneration
+- space
+- GifSound
+- Simulated
+- NotTimAndEric
+- mildlyvagina
+- KendrickLamar
+- outrun
+- psychedelicrock
+---

@@ -1,0 +1,5 @@
+---
+title: Rumblemains
+crosslinks:
+- leagueoflegends
+---

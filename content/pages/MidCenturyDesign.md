@@ -1,0 +1,5 @@
+---
+title: MidCenturyDesign
+crosslinks:
+- FurnitureMaking
+---

@@ -1,0 +1,5 @@
+---
+title: HottgirlsandFastFood
+crosslinks:
+- BeautyQueens
+---

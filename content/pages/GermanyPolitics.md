@@ -1,0 +1,5 @@
+---
+title: GermanyPolitics
+crosslinks:
+- autotldr
+---

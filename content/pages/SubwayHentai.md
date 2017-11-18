@@ -1,0 +1,5 @@
+---
+title: SubwayHentai
+crosslinks:
+- hentai
+---

@@ -1,0 +1,24 @@
+---
+title: Permaculture
+crosslinks:
+- marijuanaenthusiasts
+- gardening
+- farming
+- PaulWheatonWatch
+- autotldr
+- homestead
+- iamverysmart
+- collapse
+- science
+- whatsthisplant
+- foraging
+- TakeaPlantLeaveaPlant
+- doomsdaycult
+- conspiracy
+- shill
+- MushroomGrowers
+- Permies
+- livven
+- HawaiiGardening
+- Rad_Decentralization
+---

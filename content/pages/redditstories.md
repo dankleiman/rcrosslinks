@@ -1,0 +1,5 @@
+---
+title: redditstories
+crosslinks:
+- write
+---

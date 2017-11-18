@@ -1,0 +1,24 @@
+---
+title: shittymorph
+crosslinks:
+- AskReddit
+- funny
+- livven
+- gifs
+- pics
+- mildlyinteresting
+- aww
+- gaming
+- movies
+- IAmA
+- todayilearned
+- psychology
+- SquaredCircle
+- PoliticalHumor
+- ShittyPoetry
+- innersanctumwow
+- Showerthoughts
+- BatesMotel
+- NoStupidQuestions
+- news
+---

@@ -1,0 +1,5 @@
+---
+title: MySingingMonsters
+crosslinks:
+- MSMfriendcodes
+---

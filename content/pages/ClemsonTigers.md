@@ -1,0 +1,5 @@
+---
+title: ClemsonTigers
+crosslinks:
+- CFB
+---

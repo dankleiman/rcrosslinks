@@ -1,0 +1,5 @@
+---
+title: bannedfeminists
+crosslinks:
+- Feminism
+---

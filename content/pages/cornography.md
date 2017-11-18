@@ -1,0 +1,5 @@
+---
+title: cornography
+crosslinks:
+- mildlyinteresting
+---

@@ -1,0 +1,21 @@
+---
+title: GMOMyths
+crosslinks:
+- glyphosate
+- autotldr
+- mildlyinteresting
+- Documentaries
+- AskWomen
+- IAmA
+- worldnews
+- skeptic
+- conspiracy
+- shill
+- LateStageCapitalism
+- EverythingScience
+- xkcd
+- AskReddit
+- Anarchism
+- GMOfree
+- news
+---

@@ -1,0 +1,5 @@
+---
+title: AJudge
+crosslinks:
+- NYYankees
+---

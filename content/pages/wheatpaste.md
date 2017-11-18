@@ -1,0 +1,5 @@
+---
+title: wheatpaste
+crosslinks:
+- Serendipity
+---

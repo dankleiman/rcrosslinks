@@ -1,0 +1,5 @@
+---
+title: gasmasks
+crosslinks:
+- AskOuija
+---

@@ -1,0 +1,24 @@
+---
+title: yuri
+crosslinks:
+- Pixiv
+- Palpz
+- wholesomeyuri
+- livven
+- shoujoai
+- shrinkingwomen
+- pharmercy
+- PokePorn
+- manga
+- SchoolIdolFestival
+- anime_irl
+- SexyAngels
+- hentai
+- YuriCreativeWriting
+- PrequelMemes
+- araragigirls
+- amv
+- MonsterGirl
+- handholding
+- yaoi
+---

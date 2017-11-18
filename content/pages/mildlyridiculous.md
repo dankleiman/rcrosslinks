@@ -1,0 +1,5 @@
+---
+title: mildlyridiculous
+crosslinks:
+- hellaridiculous
+---

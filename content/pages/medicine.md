@@ -1,0 +1,24 @@
+---
+title: medicine
+crosslinks:
+- medicalschool
+- autotldr
+- xkcd
+- AskReddit
+- AskDocs
+- childfree
+- news
+- worldnews
+- Radiology
+- premed
+- science
+- changemyview
+- pharmacy
+- Drugs
+- nottheonion
+- NeutralPolitics
+- ems
+- todayilearned
+- conspiracy
+- politics
+---

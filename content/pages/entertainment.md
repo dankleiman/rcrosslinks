@@ -1,0 +1,24 @@
+---
+title: entertainment
+crosslinks:
+- movies
+- IAmA
+- OutOfTheLoop
+- funny
+- worldpolitics
+- The_Donald
+- conspiracy
+- television
+- SandersForPresident
+- fyrefestival
+- ShitPoliticsSays
+- Startup_Ideas
+- politics
+- Fantasy
+- Runaways
+- Kelloggs
+- Military
+- pics
+- the_donald
+- ididthemath
+---

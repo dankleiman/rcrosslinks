@@ -1,0 +1,24 @@
+---
+title: CryptoMarkets
+crosslinks:
+- CryptoCurrency
+- ethtrader
+- BitcoinMarkets
+- litecoin
+- Bitcoin
+- autotldr
+- NEO
+- ethereum
+- CryptoSafety
+- KrakenSupport
+- PoloniexForum
+- Monero
+- dogecoin
+- Buttcoin
+- ICONOMI
+- groestlcoin
+- Ripple
+- dashpay
+- AMAAggregator
+- CoinTrading
+---

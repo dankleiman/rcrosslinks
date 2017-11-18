@@ -1,0 +1,5 @@
+---
+title: liveindetroit
+crosslinks:
+- Detroit
+---

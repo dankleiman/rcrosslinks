@@ -1,0 +1,24 @@
+---
+title: bugs
+crosslinks:
+- help
+- changelog
+- announcements
+- all
+- ideasfortheadmins
+- modnews
+- SkincareAddiction
+- OutOfTheLoop
+- atheism
+- Games
+- AskReddit
+- GameDeals
+- ModSupport
+- modhelp
+- gaming
+- TwoXChromosomes
+- nosleep
+- RESissues
+- The_Donald
+- Art
+---

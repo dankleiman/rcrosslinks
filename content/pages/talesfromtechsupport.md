@@ -1,0 +1,24 @@
+---
+title: talesfromtechsupport
+crosslinks:
+- AskReddit
+- techsupportgore
+- ATechsTale
+- tifu
+- patches765
+- CheapOnlineCerts
+- linus140
+- cscareerquestions
+- TalesFromRetail
+- pics
+- techsupport
+- TronScript
+- wordvomit
+- MilitaryStories
+- WritingPrompts
+- todayilearned
+- somethingimade
+- talesfromcallcenters
+- TalesFromAutoRepair
+- funny
+---

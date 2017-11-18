@@ -1,0 +1,5 @@
+---
+title: placealbumcovers
+crosslinks:
+- place
+---

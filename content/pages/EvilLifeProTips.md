@@ -1,0 +1,5 @@
+---
+title: EvilLifeProTips
+crosslinks:
+- LifeProTips
+---

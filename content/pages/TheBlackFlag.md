@@ -1,0 +1,5 @@
+---
+title: TheBlackFlag
+crosslinks:
+- ModelUSPress
+---

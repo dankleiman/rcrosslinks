@@ -1,0 +1,5 @@
+---
+title: contradiction
+crosslinks:
+- Irony
+---

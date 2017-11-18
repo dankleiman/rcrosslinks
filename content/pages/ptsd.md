@@ -1,0 +1,24 @@
+---
+title: ptsd
+crosslinks:
+- SPGBlocks
+- CPTSD
+- Anxiety
+- CBD
+- AskHistorians
+- WarIsKillingMe
+- Blind
+- mdmatherapy
+- Atlanta
+- Documentaries
+- BipolarReddit
+- servicedogs
+- creepy
+- Sociopaths
+- Kikpals
+- rapecounseling
+- TalkTherapy
+- legaladvice
+- kratom
+- todayilearned
+---

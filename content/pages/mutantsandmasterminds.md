@@ -1,0 +1,5 @@
+---
+title: mutantsandmasterminds
+crosslinks:
+- rpg
+---

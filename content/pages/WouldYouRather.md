@@ -1,0 +1,24 @@
+---
+title: WouldYouRather
+crosslinks:
+- titlegore
+- MGTOW
+- nocontext
+- childfree
+- AskReddit
+- TheseFuckingAccounts
+- EmpireDidNothingWrong
+- shittysuperpowers
+- aww
+- WYTTD
+- ClashRoyale
+- LateStageCapitalism
+- Pyongyang
+- IAmA
+- BerensteinConspiracy
+- PrequelMemes
+- 0e
+- sad
+- JohnCena
+- MemeEconomy
+---

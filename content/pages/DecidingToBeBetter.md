@@ -1,0 +1,24 @@
+---
+title: DecidingToBeBetter
+crosslinks:
+- getdisciplined
+- autotldr
+- theXeffect
+- GetMotivated
+- NoFap
+- socialskills
+- PowerDeleteSuite
+- Psychonaut
+- stopdrinking
+- GetOutOfBed
+- konmari
+- Enneagram
+- seduction
+- Incels
+- GetStudying
+- Fitness
+- TwoXChromosomes
+- selfimprovement
+- pornfree
+- UpliftingNews
+---

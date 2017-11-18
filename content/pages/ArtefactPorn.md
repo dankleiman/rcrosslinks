@@ -1,0 +1,24 @@
+---
+title: ArtefactPorn
+crosslinks:
+- PornOverlords
+- dragonutopia
+- AskHistorians
+- HistoricMallNinjaShit
+- CoinEyeCandy
+- SWORDS
+- ancientegypt
+- ANTIQUITIES
+- DestroyedTanks
+- norwayonreddit
+- AncientCoins
+- FearMe
+- IdiotExpert
+- FutureAnthropology
+- creepy
+- Whatisthis
+- xkcd
+- nonononoyes
+- MuseumOfReddit
+- teefies
+---

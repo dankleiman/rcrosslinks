@@ -1,0 +1,5 @@
+---
+title: GeometricDrawing
+crosslinks:
+- oddlysatisfying
+---

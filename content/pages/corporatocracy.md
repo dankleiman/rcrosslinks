@@ -1,0 +1,5 @@
+---
+title: corporatocracy
+crosslinks:
+- autotldr
+---

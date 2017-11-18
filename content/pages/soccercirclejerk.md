@@ -1,0 +1,24 @@
+---
+title: soccercirclejerk
+crosslinks:
+- soccer
+- livven
+- Gunners
+- jesuschristreddit
+- OutOfTheLoop
+- AMAAggregator
+- reddevils
+- Barca
+- LiverpoolFC
+- Aleague
+- MCFC
+- nfl
+- BrasilOnReddit
+- noslep
+- coys
+- MarchAgainstTrump
+- AskOuija
+- liverpoolfc
+- FuckImOld
+- PostAndBecomeAMod
+---

@@ -1,0 +1,5 @@
+---
+title: zenbuddhism
+crosslinks:
+- redditrequest
+---

@@ -1,0 +1,24 @@
+---
+title: longboarding
+crosslinks:
+- livven
+- NewSkaters
+- LSD
+- nameaserver
+- gifs
+- regularcarreviews
+- xkcd
+- gatekeeping
+- solotravel
+- leagueoflegends
+- TrueFilm
+- functionalprint
+- canada
+- magnetfishing
+- Hammocks
+- Art
+- OopsDidntMeanTo
+- Miami
+- fuck2017evenmore
+- todayilearned
+---

@@ -1,0 +1,24 @@
+---
+title: nononono
+crosslinks:
+- livven
+- WTF
+- gifs
+- Whatcouldgowrong
+- videos
+- motorcycles
+- AskReddit
+- IAmA
+- titlegore
+- xkcd
+- OSHA
+- CalamariRaceTeam
+- funny
+- BetterEveryLoop
+- Roadcam
+- Drama
+- PeopleFuckingDying
+- gifsthatendtoosoon
+- WhyWereTheyFilming
+- CatastrophicFailure
+---

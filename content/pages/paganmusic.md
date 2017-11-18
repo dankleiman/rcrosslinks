@@ -1,0 +1,5 @@
+---
+title: paganmusic
+crosslinks:
+- occult
+---

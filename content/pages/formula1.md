@@ -1,0 +1,24 @@
+---
+title: formula1
+crosslinks:
+- motorsportsstreams
+- livven
+- INDYCAR
+- MotorsportsReplays
+- xkcd
+- F1CircleJerk
+- wec
+- F1FeederSeries
+- F1Porn
+- BrasilOnReddit
+- RaceTrackDesigns
+- OldSchoolCool
+- motogp
+- FormulaE
+- NASCAR
+- place
+- autotldr
+- funny
+- AskReddit
+- F1Technical
+---

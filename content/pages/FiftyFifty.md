@@ -1,0 +1,24 @@
+---
+title: FiftyFifty
+crosslinks:
+- WTF
+- todayilearned
+- evenwithcontext
+- tifu
+- Pegging
+- gaming
+- nocontext
+- jesuschristreddit
+- shortscarystories
+- popping
+- OldSchoolCool
+- AskReddit
+- HailCorporate
+- watchpeopledie
+- pegging
+- theratio
+- natureismetal
+- funny
+- MissAlice_18
+- Music
+---

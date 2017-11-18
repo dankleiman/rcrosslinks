@@ -1,0 +1,5 @@
+---
+title: GoodCringe
+crosslinks:
+- CringeAnarchy
+---

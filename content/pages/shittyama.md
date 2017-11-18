@@ -1,0 +1,24 @@
+---
+title: shittyama
+crosslinks:
+- AMAAggregator
+- AutoMauderator
+- AskReddit
+- PostAndBecomeAMod
+- KarmaCourt
+- MrBugleArmy
+- Music
+- 69threich
+- vexillology
+- shittyaskscience
+- Maskese
+- Smite
+- CertainlyNotAliens
+- Ooer
+- casualiama
+- gay
+- fixingmovies
+- REEEEEEEEEE
+- eu4
+- modnews
+---

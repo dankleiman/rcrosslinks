@@ -1,0 +1,24 @@
+---
+title: puzzles
+crosslinks:
+- TheseFuckingAccounts
+- riddles
+- math
+- mechanicalpuzzles
+- CrackTheClue
+- Paladins
+- advertisingREDDIT
+- Wetshaving
+- Jigsawpuzzles
+- livven
+- crossword
+- whoisstraka
+- sports
+- Pathfinder_RPG
+- whatisthisthing
+- mathpuzzles
+- mazes
+- chess
+- PictureGame
+- xkcd
+---

@@ -1,0 +1,24 @@
+---
+title: short
+crosslinks:
+- tall
+- ForeverAlone
+- AskWomen
+- AskReddit
+- Incels
+- livven
+- todayilearned
+- TinyTrumps
+- Tinder
+- MGTOW
+- confession
+- ChoosingBeggars
+- hapas
+- AverageHeight
+- funny
+- foreveralone
+- videos
+- OkCupid
+- incel
+- xkcd
+---

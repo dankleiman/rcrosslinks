@@ -1,0 +1,5 @@
+---
+title: TooExcitedtoStay
+crosslinks:
+- Whatcouldgowrong
+---

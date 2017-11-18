@@ -1,0 +1,24 @@
+---
+title: playstation
+crosslinks:
+- PS4
+- gaming
+- vita
+- PSVR
+- PS4Deals
+- Games
+- assassinscreed
+- livven
+- PS4Pro
+- ps4
+- thelastofus
+- SOCOM
+- patientgamers
+- autotldr
+- PlayStationPlus
+- gravityrush
+- thingsforants
+- GTAV
+- yakuzagames
+- nevertellmetheodds
+---

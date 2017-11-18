@@ -1,0 +1,5 @@
+---
+title: medschool
+crosslinks:
+- AskReddit
+---

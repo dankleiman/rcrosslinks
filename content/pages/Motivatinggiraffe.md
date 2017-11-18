@@ -1,0 +1,5 @@
+---
+title: Motivatinggiraffe
+crosslinks:
+- AskReddit
+---

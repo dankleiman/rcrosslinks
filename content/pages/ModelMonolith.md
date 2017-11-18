@@ -1,0 +1,5 @@
+---
+title: ModelMonolith
+crosslinks:
+- MHOCMeta
+---

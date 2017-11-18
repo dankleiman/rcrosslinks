@@ -1,0 +1,5 @@
+---
+title: ClashofClansFrancaise
+crosslinks:
+- clashofclansfrancais
+---

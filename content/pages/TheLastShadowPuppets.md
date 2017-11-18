@@ -1,0 +1,5 @@
+---
+title: TheLastShadowPuppets
+crosslinks:
+- arcticmonkeys
+---

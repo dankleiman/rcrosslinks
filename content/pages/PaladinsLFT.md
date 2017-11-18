@@ -1,0 +1,5 @@
+---
+title: PaladinsLFT
+crosslinks:
+- PaladinsFrance
+---

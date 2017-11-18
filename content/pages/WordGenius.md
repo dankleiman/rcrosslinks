@@ -1,0 +1,5 @@
+---
+title: WordGenius
+crosslinks:
+- WednesdayWellness
+---

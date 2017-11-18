@@ -1,0 +1,22 @@
+---
+title: fived
+crosslinks:
+- livven
+- timelapse
+- SpiritualPlace
+- CrossView
+- '195'
+- science
+- C_S_T
+- woahdude
+- flatdark
+- BradyHaran
+- gameideas
+- Simulated
+- occult
+- thecatdimension
+- movies
+- Psychonaut
+- Retconned
+- hypershape
+---

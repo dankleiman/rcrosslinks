@@ -1,0 +1,5 @@
+---
+title: midori
+crosslinks:
+- pokemon
+---

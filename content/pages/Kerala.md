@@ -1,0 +1,23 @@
+---
+title: Kerala
+crosslinks:
+- india
+- autotldr
+- livven
+- askreddit
+- indiadiscussion
+- MuseumOfReddit
+- worldnews
+- GrMD
+- italy
+- explainlikeimfive
+- AnimalsBeingJerks
+- Ask_Politics
+- Bitcoin
+- IndiaSpeaks
+- startrek
+- aroor
+- NeutralPolitics
+- communism
+- IndiaNonPolitical
+---

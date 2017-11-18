@@ -1,0 +1,24 @@
+---
+title: googleplaydeals
+crosslinks:
+- androidapps
+- AndroidGaming
+- Android
+- tasker
+- EmulationOnAndroid
+- androidthemes
+- search
+- Frugal_Jerk
+- kustom
+- freegames
+- PrequelMemes
+- BadApps
+- BoostForReddit
+- xkcd
+- lgg5
+- explainlikeimfive
+- frugalcanada
+- art
+- AppHookup
+- GalaxyS7
+---

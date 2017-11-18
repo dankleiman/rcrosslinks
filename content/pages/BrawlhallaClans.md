@@ -1,0 +1,5 @@
+---
+title: BrawlhallaClans
+crosslinks:
+- Brawlhalla
+---

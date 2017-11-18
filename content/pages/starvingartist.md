@@ -1,0 +1,5 @@
+---
+title: starvingartist
+crosslinks:
+- starvingartists
+---

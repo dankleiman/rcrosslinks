@@ -1,0 +1,5 @@
+---
+title: artgallery
+crosslinks:
+- architecture
+---

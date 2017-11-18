@@ -1,0 +1,24 @@
+---
+title: satanism
+crosslinks:
+- religion
+- occult
+- Christianity
+- news
+- pics
+- TMBR
+- EsotericOccult
+- OrderOfPhronesis
+- hygiene
+- mildlypenis
+- unitedkingdom
+- ShrugLifeSyndicate
+- Suomi
+- atheism
+- todayilearned
+- Pareidolia
+- trolling
+- AnglicanOrdinariate
+- Shitstatistssay
+- Unexpected
+---

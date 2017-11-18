@@ -1,0 +1,5 @@
+---
+title: nevadapolitics
+crosslinks:
+- politics
+---

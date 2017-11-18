@@ -1,0 +1,5 @@
+---
+title: ToyControl
+crosslinks:
+- chastity
+---

@@ -1,0 +1,5 @@
+---
+title: postapocalyptic
+crosslinks:
+- scifi
+---

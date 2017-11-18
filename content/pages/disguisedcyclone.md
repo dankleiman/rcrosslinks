@@ -1,0 +1,5 @@
+---
+title: disguisedcyclone
+crosslinks:
+- WritingPrompts
+---

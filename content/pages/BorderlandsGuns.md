@@ -1,0 +1,5 @@
+---
+title: BorderlandsGuns
+crosslinks:
+- Borderlands
+---

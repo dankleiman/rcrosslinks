@@ -1,0 +1,8 @@
+---
+title: IOPsychology
+crosslinks:
+- statistics
+- rstats
+- Serendipity
+- autotldr
+---

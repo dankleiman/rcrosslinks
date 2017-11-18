@@ -1,0 +1,24 @@
+---
+title: node
+crosslinks:
+- javascript
+- programming
+- xkcd
+- TheRedPill
+- Drama
+- isaacs_
+- y44gEB
+- learnjavascript
+- whoahdude
+- Heroku
+- slatestarcodex
+- Buttcoin
+- imagemagick
+- gatekeeping
+- keymetrics
+- KotakuInAction
+- changemyview
+- sanfrancisco
+- '2012'
+- golang
+---

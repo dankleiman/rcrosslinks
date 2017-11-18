@@ -1,0 +1,5 @@
+---
+title: dokkan
+crosslinks:
+- DBZDokkanBattle
+---

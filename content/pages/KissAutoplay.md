@@ -1,0 +1,5 @@
+---
+title: KissAutoplay
+crosslinks:
+- KissAnime
+---

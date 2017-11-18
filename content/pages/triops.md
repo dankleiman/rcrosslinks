@@ -1,0 +1,5 @@
+---
+title: triops
+crosslinks:
+- Aquariums
+---

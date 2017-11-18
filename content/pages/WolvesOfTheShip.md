@@ -1,0 +1,5 @@
+---
+title: WolvesOfTheShip
+crosslinks:
+- HogwartsWerewolves
+---

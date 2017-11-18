@@ -1,0 +1,5 @@
+---
+title: ConsoleKSP
+crosslinks:
+- EliteOne
+---

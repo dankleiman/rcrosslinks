@@ -1,0 +1,24 @@
+---
+title: melbourne
+crosslinks:
+- australia
+- autotldr
+- nottheonion
+- AskReddit
+- livven
+- AFL
+- sydney
+- australianplants
+- IAmA
+- xkcd
+- worldnews
+- india
+- AusFinance
+- funny
+- TheoryOfReddit
+- itslenny
+- explainlikeimfive
+- OutOfTheLoop
+- straya
+- mildlyinteresting
+---

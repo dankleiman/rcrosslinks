@@ -1,0 +1,5 @@
+---
+title: ModelCanaryPublishing
+crosslinks:
+- ModelUSPress
+---

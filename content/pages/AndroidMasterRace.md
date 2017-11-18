@@ -1,0 +1,24 @@
+---
+title: AndroidMasterRace
+crosslinks:
+- androidcirclejerk
+- livven
+- Android
+- applecirclejerk
+- linuxmasterrace
+- greentext
+- androidthemes
+- sirifails
+- AndroidGaming
+- autotldr
+- lifehacks
+- LateStageCapitalism
+- xkcd
+- KotakuInAction
+- hardwareswap
+- GalaxyS7
+- furry_irl
+- emojipasta
+- WatchesCirclejerk
+- hailcorperate
+---

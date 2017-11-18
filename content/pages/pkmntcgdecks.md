@@ -1,0 +1,5 @@
+---
+title: pkmntcgdecks
+crosslinks:
+- pkmntcg
+---

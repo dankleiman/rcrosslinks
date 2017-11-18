@@ -1,0 +1,5 @@
+---
+title: BadPicturesOfTrump
+crosslinks:
+- ImagesOfUSA
+---

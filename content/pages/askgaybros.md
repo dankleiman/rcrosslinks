@@ -1,0 +1,24 @@
+---
+title: askgaybros
+crosslinks:
+- Drama
+- AskReddit
+- gaystoriesgonewild
+- RightwingLGBT
+- gayyoungold
+- politics
+- gay
+- hapas
+- seduction
+- gaymers
+- furry_irl
+- xkcd
+- Fitness
+- gainit
+- AsABlackMan
+- gaysian
+- ShitRedditSays
+- ShitAmericansSay
+- islam
+- gaypornhunters
+---

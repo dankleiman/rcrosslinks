@@ -1,0 +1,5 @@
+---
+title: chinesehoax
+crosslinks:
+- autotldr
+---

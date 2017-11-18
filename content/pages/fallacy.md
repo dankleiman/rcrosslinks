@@ -1,0 +1,5 @@
+---
+title: fallacy
+crosslinks:
+- politics
+---

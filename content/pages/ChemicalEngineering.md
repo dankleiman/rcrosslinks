@@ -1,0 +1,24 @@
+---
+title: ChemicalEngineering
+crosslinks:
+- autotldr
+- LifeProTips
+- videos
+- PLC
+- mead
+- WTF
+- confession
+- GradSchool
+- AskAcademia
+- oil
+- nicesexygirl
+- AutoCAD
+- paralegal
+- uwaterloo
+- academia
+- physicaltherapy
+- AirForce
+- cscareerquestions
+- AskReddit
+- LegalAdviceUK
+---

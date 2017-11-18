@@ -1,0 +1,5 @@
+---
+title: LoLAccountTrading
+crosslinks:
+- GamingMarket
+---

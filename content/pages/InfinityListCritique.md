@@ -1,0 +1,5 @@
+---
+title: InfinityListCritique
+crosslinks:
+- InfinityTheGame
+---

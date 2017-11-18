@@ -1,0 +1,5 @@
+---
+title: StoryIdeas
+crosslinks:
+- writing
+---

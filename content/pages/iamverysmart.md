@@ -1,0 +1,24 @@
+---
+title: iamverysmart
+crosslinks:
+- xkcd
+- copypasta
+- AskReddit
+- gatekeeping
+- lewronggeneration
+- iamverysmarter
+- OutOfTheLoop
+- iamnotverysmart
+- niceguys
+- coaxedintoasnafu
+- iamversmart
+- ShitAmericansSay
+- nocontext
+- thatHappened
+- The_Donald
+- cringepics
+- IAmA
+- sadcringe
+- todayilearned
+- gaming
+---

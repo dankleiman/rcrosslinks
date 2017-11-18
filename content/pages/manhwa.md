@@ -1,0 +1,5 @@
+---
+title: manhwa
+crosslinks:
+- noveltranslations
+---

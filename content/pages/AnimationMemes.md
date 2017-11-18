@@ -1,0 +1,5 @@
+---
+title: AnimationMemes
+crosslinks:
+- REEEEEEEEEE
+---

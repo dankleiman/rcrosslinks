@@ -1,0 +1,5 @@
+---
+title: OutingDominionism
+crosslinks:
+- FreeAtheism
+---

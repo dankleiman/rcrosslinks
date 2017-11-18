@@ -1,0 +1,5 @@
+---
+title: SETLR
+crosslinks:
+- duolingo
+---

@@ -1,0 +1,5 @@
+---
+title: Cogmind
+crosslinks:
+- roguelikes
+---

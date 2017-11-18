@@ -1,0 +1,5 @@
+---
+title: Lookscool
+crosslinks:
+- GeometryIsNeat
+---

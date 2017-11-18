@@ -1,0 +1,24 @@
+---
+title: forwardsfromgrandma
+crosslinks:
+- The_Donald
+- politics
+- Conservative
+- AskHistorians
+- Fuckthealtright
+- funny
+- pics
+- igtmsft
+- ComedyCemetery
+- gatekeeping
+- Anarcho_Capitalism
+- ImGoingToHellForThis
+- science
+- livven
+- wholesomememes
+- CrappyDesign
+- news
+- AskReddit
+- todayilearned
+- altright
+---

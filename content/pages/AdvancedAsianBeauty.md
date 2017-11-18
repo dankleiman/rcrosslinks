@@ -1,0 +1,5 @@
+---
+title: AdvancedAsianBeauty
+crosslinks:
+- AsianBeauty
+---

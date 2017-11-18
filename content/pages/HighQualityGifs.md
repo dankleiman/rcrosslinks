@@ -1,0 +1,24 @@
+---
+title: HighQualityGifs
+crosslinks:
+- GifTournament
+- xkcd
+- TheRedPill
+- The_Donald
+- funny
+- OutOfTheLoop
+- pics
+- TeamGifBattles
+- GifTutorials
+- AskReddit
+- reactiongifs
+- WardCannon
+- hero0fwar
+- announcements
+- GIMP
+- modnews
+- gifs
+- videos
+- politics
+- PrequelMemes
+---

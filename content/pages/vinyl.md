@@ -1,0 +1,24 @@
+---
+title: vinyl
+crosslinks:
+- VinylCollectors
+- audiophile
+- livven
+- vintageaudio
+- VinylReleases
+- Jazz
+- VinylMePlease
+- VinylDeals
+- DIY
+- vinyljerk
+- drunkhifi
+- AverageJoeAudiophile
+- heavyvinyl
+- hiphopvinyl
+- BudgetAudiophile
+- KGATLW
+- autotldr
+- gorillaz
+- AskReddit
+- pics
+---

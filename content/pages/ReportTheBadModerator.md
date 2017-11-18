@@ -1,0 +1,24 @@
+---
+title: ReportTheBadModerator
+crosslinks:
+- GameTrade
+- EliteDangerous
+- guns
+- news
+- pokemon
+- BadMods
+- Oppression
+- hapas
+- redditrequest
+- everquest
+- prosuicide
+- KotakuInAction
+- tifu
+- TinyTrumps
+- Alt_Hapa
+- racism
+- todayilearned
+- BudgetAudiophile
+- pantsu
+- anime
+---

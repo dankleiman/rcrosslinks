@@ -1,0 +1,5 @@
+---
+title: SpatialTheory
+crosslinks:
+- CriticalTheory
+---

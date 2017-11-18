@@ -1,0 +1,22 @@
+---
+title: BirdsBeingDicks
+crosslinks:
+- livven
+- ChildrenFallingOver
+- AnimalsBeingJerks
+- youseeingthisshit
+- HighQualityGifs
+- AskReddit
+- pics
+- titlegore
+- RockPigeon
+- dogs
+- enoughinternet
+- DIY
+- AnimalTextGifs
+- todayilearned
+- Serendipity
+- PeopleFuckingDying
+- RedditLaqueristas
+- funny
+---

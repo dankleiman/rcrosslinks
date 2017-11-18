@@ -1,0 +1,5 @@
+---
+title: empyrion
+crosslinks:
+- DualUniverse
+---

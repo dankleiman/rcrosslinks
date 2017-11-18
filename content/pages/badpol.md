@@ -1,0 +1,5 @@
+---
+title: badpol
+crosslinks:
+- ukpolitics
+---

@@ -1,0 +1,24 @@
+---
+title: BestOfReports
+crosslinks:
+- grilledcheese
+- NegativeWithGold
+- mildlyinteresting
+- pokemon
+- xkcd
+- greentext
+- rule34
+- casualiama
+- AskReddit
+- DnDGreentext
+- AskPhilosophyFAQ
+- paris
+- pics
+- catpranks
+- plantstho
+- television
+- straya
+- gifs
+- videos
+- sports
+---

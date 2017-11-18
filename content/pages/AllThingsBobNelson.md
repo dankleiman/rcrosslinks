@@ -1,0 +1,5 @@
+---
+title: AllThingsBobNelson
+crosslinks:
+- dogpictures
+---

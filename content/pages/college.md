@@ -1,0 +1,24 @@
+---
+title: college
+crosslinks:
+- ApplyingToCollege
+- cscareerquestions
+- trackers
+- AskReddit
+- premed
+- autotldr
+- personalfinance
+- EngineeringStudents
+- Frat
+- laptops
+- Piracy
+- livven
+- resumes
+- Drama
+- ADHD
+- IRstudies
+- Accounting
+- lawschooladmissions
+- essaywritingteam
+- ITCareerQuestions
+---

@@ -1,0 +1,5 @@
+---
+title: PrisonInventions
+crosslinks:
+- mildlyinteresting
+---

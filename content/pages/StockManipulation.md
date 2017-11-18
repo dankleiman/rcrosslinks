@@ -1,0 +1,5 @@
+---
+title: StockManipulation
+crosslinks:
+- HumanTrafficking
+---

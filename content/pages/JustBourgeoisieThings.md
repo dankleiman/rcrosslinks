@@ -1,0 +1,5 @@
+---
+title: JustBourgeoisieThings
+crosslinks:
+- oddlysatisfying
+---

@@ -1,0 +1,5 @@
+---
+title: whitewhale
+crosslinks:
+- GetMotivated
+---

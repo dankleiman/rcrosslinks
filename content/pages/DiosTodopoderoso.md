@@ -1,0 +1,5 @@
+---
+title: DiosTodopoderoso
+crosslinks:
+- NexoCristiano
+---

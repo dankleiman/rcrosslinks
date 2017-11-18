@@ -1,0 +1,24 @@
+---
+title: YUROP
+crosslinks:
+- alleu
+- autotldr
+- livven
+- europe
+- vexillology
+- worldpoliticalhumour
+- EnoughCommieSpam
+- The_Donek
+- place
+- NeutralPolitics
+- PoliticalHumor
+- gifs
+- Nordiccountries
+- EuropeanFederalists
+- tifu
+- INGLIN
+- AntiTrumpAlliance
+- CatsStandingUp
+- LateStageCapitalism
+- worldnews
+---

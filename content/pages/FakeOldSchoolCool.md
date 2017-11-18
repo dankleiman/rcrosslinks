@@ -1,0 +1,5 @@
+---
+title: FakeOldSchoolCool
+crosslinks:
+- VaporwaveAesthetics
+---

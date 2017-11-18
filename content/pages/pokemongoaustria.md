@@ -1,0 +1,5 @@
+---
+title: pokemongoaustria
+crosslinks:
+- pokemongo
+---

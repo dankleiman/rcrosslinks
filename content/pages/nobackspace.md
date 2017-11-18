@@ -1,0 +1,5 @@
+---
+title: nobackspace
+crosslinks:
+- copypasta
+---

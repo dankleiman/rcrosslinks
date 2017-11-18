@@ -1,0 +1,24 @@
+---
+title: PenmanshipPorn
+crosslinks:
+- livven
+- Handwriting
+- fountainpens
+- Calligraphy
+- mildlyinteresting
+- accidentalcalligraphy
+- HailCorporate
+- pics
+- dontdeadopeninside
+- keming
+- conlangs
+- deepdream
+- handwriting
+- PenmanshipGore
+- AVoid5
+- trees
+- unexpecteddnd
+- FoundPaper
+- Marvel
+- AskReddit
+---

@@ -1,0 +1,24 @@
+---
+title: linux
+crosslinks:
+- zeronet
+- autotldr
+- linuxmasterrace
+- linux_gaming
+- unixporn
+- Amd
+- firefox
+- kde
+- linuxquestions
+- archlinux
+- programming
+- LinuxCirclejerk
+- LinuxOnThinkpads
+- linuxhardware
+- sysadmin
+- openSUSE
+- linux_cucks
+- VFIO
+- Fedora
+- linuxadmin
+---

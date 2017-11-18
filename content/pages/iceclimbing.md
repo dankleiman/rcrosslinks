@@ -1,0 +1,5 @@
+---
+title: iceclimbing
+crosslinks:
+- Mountaineering
+---

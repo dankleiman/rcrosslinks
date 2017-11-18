@@ -1,0 +1,5 @@
+---
+title: megatrend
+crosslinks:
+- autotldr
+---

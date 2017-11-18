@@ -1,0 +1,5 @@
+---
+title: SignsOfReality
+crosslinks:
+- gaming
+---

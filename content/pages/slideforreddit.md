@@ -1,0 +1,24 @@
+---
+title: slideforreddit
+crosslinks:
+- Android
+- anime
+- androidapps
+- EarthPorn
+- livven
+- modnews
+- AskReddit
+- help
+- apple
+- pcmasterrace
+- redditdev
+- cssnews
+- Cricket
+- downsyndrome
+- OSHA
+- ProgrammerHumor
+- FrontPage
+- GalaxyS7
+- soccer
+- xkcd
+---

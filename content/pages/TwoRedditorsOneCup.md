@@ -1,0 +1,24 @@
+---
+title: TwoRedditorsOneCup
+crosslinks:
+- funny
+- pics
+- vandwellers
+- gaming
+- Overwatch
+- Tinder
+- motorcycles
+- KarmaConspiracy
+- videos
+- IdiotsInCars
+- Beetlejuice
+- sydney
+- sadcringe
+- nyc
+- therewasanattempt
+- talesfromtechsupport
+- madlads
+- mildlyinteresting
+- aww
+- WTF
+---

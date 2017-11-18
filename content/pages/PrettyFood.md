@@ -1,0 +1,5 @@
+---
+title: PrettyFood
+crosslinks:
+- food
+---

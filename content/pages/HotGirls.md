@@ -1,0 +1,5 @@
+---
+title: HotGirls
+crosslinks:
+- nsfw
+---

@@ -1,0 +1,5 @@
+---
+title: gamecatt
+crosslinks:
+- funny
+---

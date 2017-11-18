@@ -1,0 +1,5 @@
+---
+title: neogeo
+crosslinks:
+- livven
+---

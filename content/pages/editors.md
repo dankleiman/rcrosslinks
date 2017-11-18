@@ -1,0 +1,24 @@
+---
+title: editors
+crosslinks:
+- VideoEditing
+- makethecut25
+- AudioPost
+- premiere
+- autotldr
+- AfterEffects
+- hackintosh
+- videoediting
+- WeAreTheMusicMakers
+- FanFiction
+- audiophile
+- VIDEOENGINEERING
+- thinkpad
+- letsplay
+- SuggestALaptop
+- livven
+- VideoEditors
+- wacom
+- pcmasterrace
+- gamedev
+---

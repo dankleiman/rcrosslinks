@@ -1,0 +1,24 @@
+---
+title: WhitePeopleTwitter
+crosslinks:
+- gatekeeping
+- Drama
+- AskHistorians
+- The_Donald
+- madlasses
+- LateStageCapitalism
+- Enough_Sanders_Spam
+- politics
+- standupshots
+- BlackPeopleTwitter
+- AsABlackMan
+- funny
+- worldnews
+- Twitter
+- NegativeWithGold
+- IAmA
+- xkcd
+- ShitAmericansSay
+- themonstermath
+- gifs
+---

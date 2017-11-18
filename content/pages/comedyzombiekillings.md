@@ -1,0 +1,5 @@
+---
+title: comedyzombiekillings
+crosslinks:
+- comedynecromancy
+---

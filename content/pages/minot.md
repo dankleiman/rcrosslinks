@@ -1,0 +1,5 @@
+---
+title: minot
+crosslinks:
+- northdakota
+---

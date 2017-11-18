@@ -1,0 +1,5 @@
+---
+title: ComedySuicide
+crosslinks:
+- comedyhomicide
+---

@@ -1,0 +1,5 @@
+---
+title: whatthefuck
+crosslinks:
+- autotldr
+---

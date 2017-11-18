@@ -1,0 +1,24 @@
+---
+title: PickUpTorrents
+crosslinks:
+- Gigalinks
+- ShareisLove
+- BestLifeHack
+- pickup
+- DownloadTorrentPlace
+- megalinks
+- seduction
+- FreeDownload2017
+- trackers
+- MixedRacePeople
+- DataHoarder
+- acting
+- TrainYourVertical
+- funny
+- LiveTvLinks
+- BusinessTorrents
+- AlwaysLearningOnline
+- GDriveLinks
+- DeadBedrooms
+- modhelp
+---

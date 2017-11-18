@@ -1,0 +1,22 @@
+---
+title: StillSandersForPres
+crosslinks:
+- autotldr
+- Enough_Sanders_Spam
+- WayOfTheBern
+- Kossacks_for_Sanders
+- Political_Revolution
+- tulsi
+- EnoughTrumpSpam
+- technology
+- notcirclejerk
+- hillaryclinton
+- The_Donald
+- livven
+- ShitPoliticsSays
+- DNCleaks
+- TrumpInvestigation
+- TrumpCriticizesTrump
+- BrasilOnReddit
+- BerniesRevolution
+---

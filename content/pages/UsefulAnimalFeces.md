@@ -1,0 +1,5 @@
+---
+title: UsefulAnimalFeces
+crosslinks:
+- funny
+---

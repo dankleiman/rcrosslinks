@@ -1,0 +1,24 @@
+---
+title: ImagesOfIllinois
+crosslinks:
+- CHIBears
+- pics
+- imagesofnetwork
+- tattoos
+- funkopop
+- hawks
+- whatsthisplant
+- chicago
+- itookapicture
+- OldSchoolCool
+- CityPorn
+- EarthPorn
+- whitesox
+- funny
+- mildlyinteresting
+- Sneakers
+- food
+- whatisthisthing
+- spiders
+- trees
+---

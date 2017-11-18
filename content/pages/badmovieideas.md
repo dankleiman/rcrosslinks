@@ -1,0 +1,5 @@
+---
+title: badmovieideas
+crosslinks:
+- GoodMovieIdeas
+---

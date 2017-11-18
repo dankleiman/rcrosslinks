@@ -1,0 +1,5 @@
+---
+title: BibleOfReddit
+crosslinks:
+- AskReddit
+---

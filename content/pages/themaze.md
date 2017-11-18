@@ -1,0 +1,5 @@
+---
+title: themaze
+crosslinks:
+- freefolk
+---

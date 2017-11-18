@@ -1,0 +1,24 @@
+---
+title: sploot
+crosslinks:
+- aww
+- livven
+- gifs
+- funny
+- foxes
+- hitmanimals
+- SupermodelCats
+- catsvstechnology
+- rarepuppers
+- frogdogs
+- quilting
+- mlem
+- me_irl
+- awwakeup
+- pics
+- Pigtures
+- trashpandas
+- MostInterestingCats
+- mildlyinteresting
+- curledfeetsies
+---

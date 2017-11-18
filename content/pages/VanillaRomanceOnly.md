@@ -1,0 +1,5 @@
+---
+title: VanillaRomanceOnly
+crosslinks:
+- doujinshi
+---

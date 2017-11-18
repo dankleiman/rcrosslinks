@@ -1,0 +1,24 @@
+---
+title: mormon
+crosslinks:
+- exmormon
+- latterdaysaints
+- mormonscholar
+- openmormon
+- Christianity
+- todayilearned
+- AMAAggregator
+- CommunityOfChrist
+- autotldr
+- lds
+- Exmo_Spirituality
+- atheistvids
+- ldssexuality
+- atheism
+- mormondialogue
+- mormonpolitics
+- xkcd
+- OpenChristian
+- funny
+- Brooklyn
+---

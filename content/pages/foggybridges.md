@@ -1,0 +1,5 @@
+---
+title: foggybridges
+crosslinks:
+- pics
+---

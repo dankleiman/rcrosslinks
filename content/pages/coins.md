@@ -1,0 +1,24 @@
+---
+title: coins
+crosslinks:
+- translator
+- translatorBOT
+- CRH
+- AncientCoins
+- whatisthisthing
+- papermoney
+- CoinstarFinds
+- CoinEyeCandy
+- Exonumia
+- pics
+- CoinGirls
+- ThriftStoreHauls
+- zeronet
+- 2lvh1j4
+- occult
+- Random_Acts_Of_Pizza
+- PMsTradingPost
+- Coins4Sale
+- sweden
+- Pmsforsale
+---

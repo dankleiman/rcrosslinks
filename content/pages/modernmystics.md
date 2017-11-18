@@ -1,0 +1,5 @@
+---
+title: modernmystics
+crosslinks:
+- yoga
+---

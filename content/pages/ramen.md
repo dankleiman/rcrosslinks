@@ -1,0 +1,24 @@
+---
+title: ramen
+crosslinks:
+- AskCulinary
+- japancirclejerk
+- ShittyRamen
+- GifRecipes
+- Austin
+- wholesomemes
+- tokyo
+- NPR
+- fetish
+- OopsDidntMeanTo
+- japanpics
+- funny
+- livven
+- sushi
+- translator
+- JapaneseFood
+- Naruto
+- AmateurFoodPorn
+- FoodLosAngeles
+- spicy
+---

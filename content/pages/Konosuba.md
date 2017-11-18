@@ -1,0 +1,24 @@
+---
+title: Konosuba
+crosslinks:
+- anime
+- Megumin
+- LightNovels
+- AquaSama
+- yunyun
+- Lalatina
+- naut
+- livven
+- seiyuu
+- AnimePhoneWallpapers
+- AnimeFaggotGifs
+- copypasta
+- REEEEEEEEEE
+- Re_Zero
+- waifuism
+- Pixiv
+- DarknessKS
+- fatestaynight
+- imagehosting
+- anime_irl
+---

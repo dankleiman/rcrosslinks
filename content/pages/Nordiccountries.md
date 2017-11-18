@@ -1,0 +1,23 @@
+---
+title: Nordiccountries
+crosslinks:
+- autotldr
+- modnews
+- mexico
+- Norway
+- houston
+- iwantout
+- AskHistorians
+- WatchRedditDie
+- AskEurope
+- europe
+- news
+- pinsamt
+- Faroese
+- finlandConspiracy
+- exmuslim
+- sweden
+- foreskin_restoration
+- uncensorednews
+- videos
+---

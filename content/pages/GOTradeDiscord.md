@@ -1,0 +1,5 @@
+---
+title: GOTradeDiscord
+crosslinks:
+- GoTradeAppeals
+---

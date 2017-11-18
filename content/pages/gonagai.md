@@ -1,0 +1,5 @@
+---
+title: gonagai
+crosslinks:
+- KillLaKill
+---

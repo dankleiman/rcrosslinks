@@ -1,0 +1,5 @@
+---
+title: PaintBeingStirred
+crosslinks:
+- oddlysatisfying
+---

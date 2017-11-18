@@ -1,0 +1,5 @@
+---
+title: MindShamble
+crosslinks:
+- math
+---

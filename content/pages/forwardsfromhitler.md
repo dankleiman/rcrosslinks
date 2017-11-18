@@ -1,0 +1,24 @@
+---
+title: forwardsfromhitler
+crosslinks:
+- The_Donald
+- ShitPoliticsSays
+- forwardsfromgrandma
+- lewronggeneration
+- MensRights
+- BrainwashedAmerica
+- FULLCOMMUNISM
+- ImGoingToHellForThis
+- onewordeach
+- pussypassdenied
+- TheSquadOnPoint
+- LateStageCapitalism
+- linux_cucks
+- europeannationalism
+- nazi
+- DarkHumor
+- FULLPOSADISM
+- enoughclassistspam
+- Ghosts
+- PussyPass
+---

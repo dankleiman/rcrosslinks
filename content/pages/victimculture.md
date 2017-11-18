@@ -1,0 +1,5 @@
+---
+title: victimculture
+crosslinks:
+- socialscience
+---

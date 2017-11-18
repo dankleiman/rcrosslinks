@@ -1,0 +1,5 @@
+---
+title: wholesomefloridaman
+crosslinks:
+- pics
+---

@@ -1,0 +1,5 @@
+---
+title: arkfactions
+crosslinks:
+- ArkWakingRealms
+---

@@ -1,0 +1,5 @@
+---
+title: SuperDuperKyle
+crosslinks:
+- Kanye
+---

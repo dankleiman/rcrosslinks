@@ -1,0 +1,5 @@
+---
+title: Germanlearning
+crosslinks:
+- translator
+---

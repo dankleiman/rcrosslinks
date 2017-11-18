@@ -1,0 +1,5 @@
+---
+title: WhyWouldYouFuckThat
+crosslinks:
+- nomorals
+---

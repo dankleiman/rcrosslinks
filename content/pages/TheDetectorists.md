@@ -1,0 +1,5 @@
+---
+title: TheDetectorists
+crosslinks:
+- Detectorists
+---

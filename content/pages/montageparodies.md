@@ -1,0 +1,22 @@
+---
+title: montageparodies
+crosslinks:
+- shitpost
+- Overwatch
+- weekendgunnit
+- raimimemes
+- the_donald_circlejerk
+- cringe
+- PrequelMemes
+- MemeEconomy
+- smashups
+- h3h3productions
+- shooting_stars
+- simpsonswave
+- unexpectedjihad
+- REEEEEEEEEE
+- Serendipity
+- lazytown
+- tennis
+- engineering
+---

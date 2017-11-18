@@ -1,0 +1,5 @@
+---
+title: WhoWouldWinWorkshop
+crosslinks:
+- respectthreads
+---

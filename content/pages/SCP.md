@@ -1,0 +1,24 @@
+---
+title: SCP
+crosslinks:
+- SCPDeclassified
+- livven
+- DankMemesFromSite19
+- 093game
+- creepy
+- xkcd
+- pics
+- Simulated
+- surrealmemes
+- videos
+- nosleep
+- hmmm
+- Vore
+- WTF
+- migster99
+- glitch_art
+- whowouldwin
+- mildlyinteresting
+- WritingPrompts
+- funny
+---

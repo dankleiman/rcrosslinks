@@ -1,0 +1,24 @@
+---
+title: BPDlovedones
+crosslinks:
+- BPD
+- getting_over_it
+- BPDSOFFA
+- Codependency
+- Meditation
+- lawofattraction
+- psychology
+- AskReddit
+- Serendipity
+- creepyPMs
+- SuicideWatch
+- Logger1234Method
+- CPTSD
+- popping
+- KindVoice
+- Herpes
+- relationship_advice
+- Divorce
+- livven
+- DeadBedrooms
+---

@@ -1,0 +1,5 @@
+---
+title: Minimaluminiumalism
+crosslinks:
+- csshelp
+---

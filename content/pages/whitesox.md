@@ -1,0 +1,24 @@
+---
+title: whitesox
+crosslinks:
+- 100yearsago
+- phillies
+- redsox
+- CHIBears
+- Welding
+- YoanMoncada
+- mildlyinteresting
+- motorcitykitties
+- MLBStreams
+- CatsOnPizza
+- sportsreference
+- livven
+- WahoosTipi
+- copypasta
+- Dodgers
+- modnews
+- NYYankees
+- minnesotatwins
+- nfl
+- TropicalWeather
+---

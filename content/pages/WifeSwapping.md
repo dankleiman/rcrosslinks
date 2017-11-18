@@ -1,0 +1,5 @@
+---
+title: WifeSwapping
+crosslinks:
+- wifeshare
+---

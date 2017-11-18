@@ -1,0 +1,24 @@
+---
+title: fastfood
+crosslinks:
+- McDonalds
+- Infographics
+- HailCorporate
+- gifs
+- DeFranco
+- glutenfree
+- IAmA
+- California
+- TheReportOfTheWeek
+- Caniacs
+- ExpectationVsReality
+- AskReddit
+- OutOfTheLoop
+- Winnipeg
+- IN_N_OUTBURGER
+- savedyouaclick
+- junkfood
+- keto
+- answers
+- im14andthisisfunny
+---

@@ -1,0 +1,5 @@
+---
+title: BloomToken
+crosslinks:
+- autotldr
+---

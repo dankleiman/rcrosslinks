@@ -1,0 +1,5 @@
+---
+title: HotPaper
+crosslinks:
+- AMAAggregator
+---

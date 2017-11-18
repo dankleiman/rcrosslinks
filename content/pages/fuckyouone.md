@@ -1,0 +1,5 @@
+---
+title: fuckyouone
+crosslinks:
+- FuckYou
+---

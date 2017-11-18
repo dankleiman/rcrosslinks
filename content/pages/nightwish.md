@@ -1,0 +1,5 @@
+---
+title: nightwish
+crosslinks:
+- symphonicmetal
+---

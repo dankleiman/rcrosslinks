@@ -1,0 +1,24 @@
+---
+title: badcarnism
+crosslinks:
+- vegan
+- AntiVegan
+- AskReddit
+- vegetarian
+- vegancirclejerk
+- JoeRogan
+- Destiny
+- funny
+- samharris
+- changemyview
+- philosophy
+- AMAAggregator
+- nutrition
+- CringeAnarchy
+- Omnivism
+- LACTOOVO
+- worstof
+- SRS
+- avocadosgonewild
+- wholesomememes
+---

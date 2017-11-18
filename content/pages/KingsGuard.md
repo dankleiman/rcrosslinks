@@ -1,0 +1,5 @@
+---
+title: KingsGuard
+crosslinks:
+- TWDRoadToSurvival
+---

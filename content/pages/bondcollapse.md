@@ -1,0 +1,5 @@
+---
+title: bondcollapse
+crosslinks:
+- autotldr
+---

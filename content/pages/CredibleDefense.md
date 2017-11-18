@@ -1,0 +1,24 @@
+---
+title: CredibleDefense
+crosslinks:
+- Metageopolitics
+- autotldr
+- WarCollege
+- HephaestusAetnaean
+- AskHistorians
+- Dragon029
+- IndiaSpeaks
+- geopolitics
+- syriancivilwar
+- spacex
+- aviation
+- news
+- Inventions
+- navy
+- Sino
+- AirForce
+- Military
+- F35Lightning
+- xkcd
+- Geopolitics
+---

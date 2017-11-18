@@ -1,0 +1,24 @@
+---
+title: Chromecast
+crosslinks:
+- AndroidTV
+- PleX
+- TerrariumTV
+- pihole
+- spotify
+- xkcd
+- plex
+- Android
+- google
+- hometheater
+- Chromium
+- tasker
+- Twitch
+- MovieHDLite
+- hailcorporate
+- MaliciousCompliance
+- Terrarium
+- netflix
+- motorsportsstreams
+- chromeos
+---

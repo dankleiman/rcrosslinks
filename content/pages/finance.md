@@ -1,0 +1,24 @@
+---
+title: finance
+crosslinks:
+- NewsFinancial
+- personalfinance
+- investing
+- FinancialCareers
+- ethtrader
+- CFA
+- Entrepreneur
+- AskEconomics
+- StudentLoans
+- algotrading
+- Economics
+- xkcd
+- Bogleheads
+- stocks
+- PersonalFinanceCanada
+- law
+- titlegore
+- Accounting
+- Fitness
+- math
+---

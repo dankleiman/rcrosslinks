@@ -1,0 +1,5 @@
+---
+title: RareWordBot
+crosslinks:
+- test
+---

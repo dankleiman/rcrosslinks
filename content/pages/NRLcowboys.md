@@ -1,0 +1,5 @@
+---
+title: NRLcowboys
+crosslinks:
+- nrl
+---

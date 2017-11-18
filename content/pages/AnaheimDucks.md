@@ -1,0 +1,24 @@
+---
+title: AnaheimDucks
+crosslinks:
+- hockey
+- livven
+- EdmontonOilers
+- CalgaryFlames
+- nhl_games
+- NHLStreams
+- todayilearned
+- Predators
+- nhl
+- puckstreams
+- place
+- happycrowds
+- HighQualityGifs
+- Accounting
+- metric_units
+- OutOfTheLoop
+- infectioussmiles
+- CCJ2
+- templeofthephil
+- highqualitygifs
+---

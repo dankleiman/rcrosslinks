@@ -1,0 +1,24 @@
+---
+title: truezelda
+crosslinks:
+- zelda
+- Breath_of_the_Wild
+- nintendo
+- Henryuuki
+- metalgearsolid
+- Gamingcirclejerk
+- zeldaconspiracies
+- urazelda
+- esist
+- AskReddit
+- NintendoSwitch
+- gaming
+- FFXV
+- askphilosophy
+- HighQualityGifs
+- TrueCoruscant
+- TrueChristian
+- AskScienceFiction
+- whowouldwin
+- nocontext
+---

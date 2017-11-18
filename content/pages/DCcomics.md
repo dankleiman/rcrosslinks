@@ -1,0 +1,24 @@
+---
+title: DCcomics
+crosslinks:
+- autotldr
+- comicreadingorders
+- theflash
+- DC_Cinematic
+- DC_Shazam
+- Marvel
+- SonofBatman
+- respectthreads
+- superman
+- FlashTV
+- Deathstroke
+- WonderWoman
+- livven
+- BookofOA
+- IAmA
+- Gamingcirclejerk
+- movies
+- moviescirclejerk
+- BatmanArkham
+- HailCorporate
+---

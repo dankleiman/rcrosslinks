@@ -1,0 +1,5 @@
+---
+title: MichMeet
+crosslinks:
+- Detroit
+---

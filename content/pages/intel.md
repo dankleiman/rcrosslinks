@@ -1,0 +1,24 @@
+---
+title: intel
+crosslinks:
+- Amd
+- autotldr
+- hardware
+- nvidia
+- AyyMD
+- overclocking
+- pcmasterrace
+- hardwareswap
+- 600x450
+- sffpc
+- AMD_Stock
+- Dell
+- AyyyMD
+- videos
+- Competitiveoverwatch
+- johnyahn
+- Eve
+- firefox
+- Roleplay
+- askscience
+---

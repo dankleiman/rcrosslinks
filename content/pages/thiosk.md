@@ -1,0 +1,5 @@
+---
+title: thiosk
+crosslinks:
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: berkeley
+crosslinks:
+- autotldr
+- EnoughTrumpSpam
+- The_Donald
+- ShitRedditSays
+- Conservative
+- xkcd
+- politics
+- Anarchism
+- ApplyingToCollege
+- news
+- NewYorkMets
+- place
+- DataHoarder
+- ShitPoliticsSays
+- Drama
+- modnews
+- SwedenOnPlace
+- CringeAnarchy
+- KotakuInAction
+- antifa
+---

@@ -1,0 +1,24 @@
+---
+title: watercooling
+crosslinks:
+- hardwareswap
+- pcmasterrace
+- sffpc
+- nvidia
+- pcmods
+- Amd
+- overclocking
+- gamingpc
+- 24cz2f7
+- NZXT
+- HadToHurt
+- simracing
+- livven
+- Serendipity
+- fidgetspin
+- aio
+- gifswithsound
+- PCSleeving
+- HardwareSwapUK
+- LinusTechGore
+---

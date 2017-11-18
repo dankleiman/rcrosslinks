@@ -1,0 +1,24 @@
+---
+title: audiophile
+crosslinks:
+- headphones
+- vinyl
+- BudgetAudiophile
+- audioengineering
+- diysound
+- AverageJoeAudiophile
+- hometheater
+- drunkhifi
+- Zeos
+- foot_fi
+- edmproduction
+- CarAV
+- AVexchange
+- autotldr
+- techsupport
+- Music
+- vintageaudio
+- WeAreTheMusicMakers
+- Serendipity
+- woodworking
+---

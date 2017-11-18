@@ -1,0 +1,5 @@
+---
+title: OpenTTDcomp
+crosslinks:
+- openttd
+---

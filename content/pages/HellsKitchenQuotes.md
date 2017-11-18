@@ -1,0 +1,5 @@
+---
+title: HellsKitchenQuotes
+crosslinks:
+- IAmA
+---

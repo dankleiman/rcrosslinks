@@ -1,0 +1,24 @@
+---
+title: lotr
+crosslinks:
+- tolkienfans
+- place
+- UNBGBBIIVCHIDCTIICBG
+- Catholicism
+- sindarin
+- Fantasy
+- Scams
+- interestingasfuck
+- AskReddit
+- Scotland
+- funny
+- DotA2
+- DarkSouls2
+- lotro
+- HumansBeingBros
+- TheSimpsons
+- letscompareit
+- CrappyDesign
+- lego
+- Breath_of_the_Wild
+---

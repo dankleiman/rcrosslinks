@@ -1,0 +1,24 @@
+---
+title: Stoicism
+crosslinks:
+- Buddhism
+- getdisciplined
+- SuicideWatch
+- howtonotgiveafuck
+- fasting
+- Mindfulness
+- xkcd
+- intermittentfasting
+- MGTOW
+- todayilearned
+- 2meirl4meirl
+- OCD
+- ExNoContact
+- SocialEngineering
+- nihilism
+- nosurf
+- CBT
+- AlanWatts
+- gifs
+- NewsPorn
+---

@@ -1,0 +1,5 @@
+---
+title: biblereading
+crosslinks:
+- Anglicanism
+---

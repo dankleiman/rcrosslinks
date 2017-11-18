@@ -1,0 +1,5 @@
+---
+title: Ratemyfeet
+crosslinks:
+- feet
+---

@@ -1,0 +1,24 @@
+---
+title: danganronpa
+crosslinks:
+- ultimategamer
+- AceAttorney
+- livven
+- ultimateprogrammer
+- teenagers
+- ultimatedetective
+- REEEEEEEEEE
+- 4chan
+- R34danganronpa
+- interestingasfuck
+- drspoilers
+- Pixiv
+- aww
+- OtakuVisualArts
+- LaptopDeals
+- DanganRoleplay
+- asoiaf
+- LearnJapanese
+- DanganronpaNSFW
+- danganronpa4lyfe
+---

@@ -1,0 +1,5 @@
+---
+title: Gryphons
+crosslinks:
+- ImaginaryBeasts
+---

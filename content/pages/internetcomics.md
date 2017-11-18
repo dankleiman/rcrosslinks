@@ -1,0 +1,5 @@
+---
+title: internetcomics
+crosslinks:
+- xkcd
+---

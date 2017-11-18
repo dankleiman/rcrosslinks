@@ -1,0 +1,5 @@
+---
+title: legodeals
+crosslinks:
+- legodeal
+---

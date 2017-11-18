@@ -1,0 +1,5 @@
+---
+title: HentaiManga
+crosslinks:
+- doujinshi
+---

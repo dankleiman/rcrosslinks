@@ -1,0 +1,5 @@
+---
+title: DayOfDefeat
+crosslinks:
+- counterstrike
+---

@@ -1,0 +1,5 @@
+---
+title: WholesomeManga
+crosslinks:
+- manga
+---

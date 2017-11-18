@@ -1,0 +1,24 @@
+---
+title: depression
+crosslinks:
+- SuicideWatch
+- AskReddit
+- getdisciplined
+- SWResources
+- getting_over_it
+- GetMotivated
+- 2meirl4meirl
+- pics
+- NoFap
+- Drugs
+- Blind
+- MaladaptiveDreaming
+- WritingPrompts
+- keto
+- SeriousConversation
+- nosleep
+- Assistance
+- relationships
+- MakeNewFriendsHere
+- ForeverAlone
+---

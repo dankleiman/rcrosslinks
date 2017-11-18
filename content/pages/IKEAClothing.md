@@ -1,0 +1,5 @@
+---
+title: IKEAClothing
+crosslinks:
+- sweden
+---

@@ -1,0 +1,5 @@
+---
+title: vermouth
+crosslinks:
+- cocktails
+---

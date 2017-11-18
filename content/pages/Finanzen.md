@@ -1,0 +1,21 @@
+---
+title: Finanzen
+crosslinks:
+- de
+- eupersonalfinance
+- investing
+- financialindependence
+- de_crypto
+- EuropeFIRE
+- weedstocks
+- SparDirDenKlick
+- churning
+- finance
+- DIE_LINKE
+- personalfinance
+- kraken_traders
+- MealPrepSunday
+- jaxx
+- woweconomy
+- Entrepreneur
+---

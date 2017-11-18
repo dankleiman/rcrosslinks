@@ -1,0 +1,24 @@
+---
+title: firstworldanarchists
+crosslinks:
+- livven
+- funny
+- xkcd
+- pics
+- MaliciousCompliance
+- FirstWorldConformists
+- AskReddit
+- madlads
+- mildlyinteresting
+- me_irl
+- mildlyinfuriating
+- HailCorporate
+- shitpost
+- softwaregore
+- gatekeeping
+- MildlyVandalised
+- cakefails
+- education
+- gifs
+- BoJackHorseman
+---

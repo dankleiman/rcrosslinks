@@ -1,0 +1,5 @@
+---
+title: Farting
+crosslinks:
+- livven
+---

@@ -1,0 +1,5 @@
+---
+title: AnimalLiberationFront
+crosslinks:
+- news
+---

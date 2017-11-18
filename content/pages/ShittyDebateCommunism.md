@@ -1,0 +1,5 @@
+---
+title: ShittyDebateCommunism
+crosslinks:
+- Serendipity
+---

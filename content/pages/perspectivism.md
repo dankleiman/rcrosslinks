@@ -1,0 +1,5 @@
+---
+title: perspectivism
+crosslinks:
+- livven
+---

@@ -1,0 +1,24 @@
+---
+title: MechanicAdvice
+crosslinks:
+- Justrolledintotheshop
+- Cartalk
+- Trucks
+- CarAV
+- AutoDetailing
+- AskMechanics
+- Diesel
+- askscience
+- BMW
+- RIAutoEnthusiasts
+- cars
+- AskReddit
+- Audi
+- AskEngineers
+- fordranger
+- Bandnames
+- TwoRedditorsOneCup
+- namethatcar
+- ToyotaPickup
+- audiophile
+---

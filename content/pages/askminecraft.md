@@ -1,0 +1,5 @@
+---
+title: askminecraft
+crosslinks:
+- Minecraft
+---

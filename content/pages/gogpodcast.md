@@ -1,0 +1,5 @@
+---
+title: gogpodcast
+crosslinks:
+- autotldr
+---

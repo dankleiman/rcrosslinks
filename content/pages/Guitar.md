@@ -1,0 +1,24 @@
+---
+title: Guitar
+crosslinks:
+- musictheory
+- guitarpedals
+- Luthier
+- guitarcirclejerk
+- guitars
+- Leftyguitarists
+- diypedals
+- Bass
+- guitarlessons
+- Gear4Sale
+- rocksmith
+- guitarporn
+- xkcd
+- AskReddit
+- videos
+- metalguitar
+- WeAreTheMusicMakers
+- offset
+- IAmA
+- jazzguitar
+---

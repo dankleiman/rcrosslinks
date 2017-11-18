@@ -1,0 +1,5 @@
+---
+title: smogoncirclejerk
+crosslinks:
+- stunfisk
+---

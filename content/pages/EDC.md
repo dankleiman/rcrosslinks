@@ -1,0 +1,24 @@
+---
+title: EDC
+crosslinks:
+- flashlight
+- Watches
+- CCW
+- fountainpens
+- FidgetSpinners
+- VEDC
+- EDCWhiners
+- dgu
+- AskReddit
+- weekendgunnit
+- guns
+- knives
+- DIY
+- mallninjashit
+- multitools
+- mechmarket
+- pens
+- gundeals
+- casualiama
+- electricdaisycarnival
+---

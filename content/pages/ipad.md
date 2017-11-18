@@ -1,0 +1,24 @@
+---
+title: ipad
+crosslinks:
+- apple
+- iOSBeta
+- iphone
+- livven
+- Surface
+- AppHookup
+- changelog
+- workflow
+- ios
+- iosgaming
+- megalinks
+- AppleWatch
+- MiniMetro
+- Android
+- mac
+- Art
+- headphones
+- ipadmusic
+- Serendipity
+- ImaginaryLandscapes
+---

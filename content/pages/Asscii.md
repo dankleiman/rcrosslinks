@@ -1,0 +1,5 @@
+---
+title: Asscii
+crosslinks:
+- gonewild
+---

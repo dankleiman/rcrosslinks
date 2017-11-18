@@ -1,0 +1,24 @@
+---
+title: ImagesOfThe1930s
+crosslinks:
+- OldSchoolCool
+- HistoryPorn
+- pics
+- TheWayWeWere
+- PropagandaPosters
+- imagesofnetwork
+- Colorization
+- mildlyinteresting
+- coins
+- classiccars
+- Art
+- RetroFuturism
+- ArtDeco
+- MapPorn
+- TankPorn
+- Kaiserreich
+- u_2BrkOnThru
+- carporn
+- Lost_Architecture
+- ukpolitics
+---

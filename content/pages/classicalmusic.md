@@ -1,0 +1,24 @@
+---
+title: classicalmusic
+crosslinks:
+- classicalresources
+- musictheory
+- MonthlyComposition
+- ClassicalMemes
+- ElitistClassical
+- composer
+- videos
+- icm
+- AskHistorians
+- violinist
+- IsLoneEchoAlive
+- opera
+- autotldr
+- Music
+- classical
+- Jazz
+- lewronggeneration
+- headphones
+- contemporary
+- lastimages
+---

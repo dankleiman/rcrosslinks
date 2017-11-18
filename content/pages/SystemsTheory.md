@@ -1,0 +1,5 @@
+---
+title: SystemsTheory
+crosslinks:
+- societalengineering
+---

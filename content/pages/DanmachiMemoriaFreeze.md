@@ -1,0 +1,5 @@
+---
+title: DanmachiMemoriaFreeze
+crosslinks:
+- DanMachi
+---

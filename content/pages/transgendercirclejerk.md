@@ -1,0 +1,24 @@
+---
+title: transgendercirclejerk
+crosslinks:
+- asktransgender
+- meettransgirls
+- MtF
+- traaaaaaannnnnnnnnns
+- GenderCritical
+- ftm
+- GenderCynical
+- AskReddit
+- copypasta
+- socialjustice101
+- Incels
+- MTFSelfieTrain
+- grillsgonewild
+- transpassing
+- news
+- pics
+- COMPLETEANARCHY
+- Unity3D
+- CringeAnarchy
+- mildlypenis
+---

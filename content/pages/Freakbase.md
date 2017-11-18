@@ -1,0 +1,5 @@
+---
+title: Freakbase
+crosslinks:
+- pathofexile
+---

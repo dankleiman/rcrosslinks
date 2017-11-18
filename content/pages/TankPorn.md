@@ -1,0 +1,24 @@
+---
+title: TankPorn
+crosslinks:
+- DestroyedTanks
+- Warthunder
+- livven
+- AskHistorians
+- MilitaryPorn
+- CapturedWeapons
+- HistoryPorn
+- GermanWW2photos
+- SovietHistory
+- WorldofTanks
+- syriancivilwar
+- churchillsgonewild
+- funny
+- Military
+- shittytechnicals
+- The_Donald
+- tanks
+- modelmakers
+- CatastrophicFailure
+- WarplanePorn
+---

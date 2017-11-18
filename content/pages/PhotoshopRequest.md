@@ -1,0 +1,24 @@
+---
+title: PhotoshopRequest
+crosslinks:
+- livven
+- colorizationrequests
+- photoshop
+- pics
+- outrun
+- TextlessPosters
+- PhotoshopTutorials
+- woahdude
+- aww
+- AskReddit
+- DrawForMe
+- identifythisfont
+- logorequests
+- funny
+- Art
+- MaliciousCompliance
+- MensRights
+- DragonBallXenoverse2
+- politics
+- oddlyterrifying
+---

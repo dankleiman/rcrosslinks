@@ -1,0 +1,5 @@
+---
+title: Zoids
+crosslinks:
+- Gunpla
+---

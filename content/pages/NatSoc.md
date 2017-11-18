@@ -1,0 +1,5 @@
+---
+title: NatSoc
+crosslinks:
+- fascist
+---

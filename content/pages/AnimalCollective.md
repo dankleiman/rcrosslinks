@@ -1,0 +1,22 @@
+---
+title: AnimalCollective
+crosslinks:
+- indieheads
+- phish
+- Art
+- titlegore
+- whales
+- Anarchism
+- livven
+- BMSR
+- shitpost
+- gratefuldead
+- music_survivor
+- woahdude
+- nocontext
+- hippos
+- pics
+- noise
+- multiwall
+- surfing
+---

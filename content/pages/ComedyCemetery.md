@@ -1,0 +1,24 @@
+---
+title: ComedyCemetery
+crosslinks:
+- comedynecromancy
+- ComedyNecrophilia
+- DeepFriedMemes
+- surrealmemes
+- killthosewhodisagree
+- dankmemes
+- coaxedintoasnafu
+- funny
+- WackyTicTacs
+- copypasta
+- ReallyWackyTicTacs
+- CringeAnarchy
+- forwardsfromgrandma
+- livven
+- nukedmemes
+- THE_PACK
+- Adam_fkn_Ellis_again
+- PoliticalHumor
+- 4PanelCringe
+- AskReddit
+---

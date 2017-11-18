@@ -1,0 +1,5 @@
+---
+title: historicaltotalwar
+crosslinks:
+- totalwar
+---

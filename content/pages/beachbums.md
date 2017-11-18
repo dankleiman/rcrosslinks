@@ -1,0 +1,5 @@
+---
+title: beachbums
+crosslinks:
+- NSFWfashion
+---

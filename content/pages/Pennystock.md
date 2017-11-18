@@ -1,0 +1,5 @@
+---
+title: Pennystock
+crosslinks:
+- pennystocks
+---

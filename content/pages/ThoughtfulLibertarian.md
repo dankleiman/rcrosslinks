@@ -1,0 +1,5 @@
+---
+title: ThoughtfulLibertarian
+crosslinks:
+- GoldandBlack
+---

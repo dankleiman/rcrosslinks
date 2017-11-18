@@ -1,0 +1,5 @@
+---
+title: Titoism
+crosslinks:
+- communism
+---

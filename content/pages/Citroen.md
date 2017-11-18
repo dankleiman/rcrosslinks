@@ -1,0 +1,5 @@
+---
+title: Citroen
+crosslinks:
+- mildlyinteresting
+---

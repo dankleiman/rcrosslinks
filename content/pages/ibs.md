@@ -1,0 +1,24 @@
+---
+title: ibs
+crosslinks:
+- FODMAPS
+- keto
+- instantpot
+- SuicideWatch
+- science
+- todayilearned
+- AMAAggregator
+- kratom
+- CBD
+- Celiac
+- AMA
+- news
+- AskDocs
+- space
+- Prevent_Suicide
+- cdifficile
+- Fitness
+- livven
+- SoylentMarket
+- ChronicPain
+---

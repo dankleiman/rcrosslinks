@@ -1,0 +1,24 @@
+---
+title: IsItBullshit
+crosslinks:
+- AskReddit
+- IAmA
+- news
+- creepy
+- ThreadKillers
+- xkcd
+- asmr
+- stopsmoking
+- AskSocialScience
+- dogs
+- thinspiration
+- COMPLETEANARCHY
+- organic
+- linguistics
+- askscience
+- NormMacdonald
+- science
+- legaladviceofftopic
+- Art
+- everymanshouldknow
+---

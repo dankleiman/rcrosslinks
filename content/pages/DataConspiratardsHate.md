@@ -1,0 +1,5 @@
+---
+title: DataConspiratardsHate
+crosslinks:
+- FilthyFrank
+---

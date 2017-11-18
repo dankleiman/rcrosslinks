@@ -1,0 +1,24 @@
+---
+title: urbanexploration
+crosslinks:
+- powerwashingporn
+- xkcd
+- SCP
+- ruralexploration
+- me_irl
+- FeelsLikeTheFirstTime
+- ForsakenPlaces
+- shittyHDR
+- mildlyinfuriating
+- WhyICorrectBryanPCox
+- Scalingheights
+- AccidentalWesAnderson
+- windowshots
+- MuseumOfReddit
+- AccidentalRenaissance
+- Helicopters
+- NightscapeLDN
+- Sculpture
+- wholesomemes
+- rustyrails
+---

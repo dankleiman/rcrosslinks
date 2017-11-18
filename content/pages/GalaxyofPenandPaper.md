@@ -1,0 +1,5 @@
+---
+title: GalaxyofPenandPaper
+crosslinks:
+- Knightsofpenandpaper
+---

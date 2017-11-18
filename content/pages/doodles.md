@@ -1,0 +1,24 @@
+---
+title: doodles
+crosslinks:
+- CARTOON
+- ItsADnDMonsterNow
+- SketchDaily
+- Physical_Removal
+- ICanDrawThat
+- HipHopImages
+- xkcd
+- WIP
+- EpicMounts
+- stickers
+- anosmia
+- drugart
+- peterdraws
+- Heavymind
+- learnart
+- Art
+- Sketching
+- livven
+- drawing
+- graphic_design
+---

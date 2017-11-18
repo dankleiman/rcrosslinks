@@ -1,0 +1,24 @@
+---
+title: Madden
+crosslinks:
+- MaddenUltimateTeam
+- livven
+- CFMmadden
+- MaddenGMs
+- NBA2k
+- Patriots
+- MaddenMonarchy
+- MaddenRFL
+- NCAAFBseries
+- AMAAggregator
+- MCSPlaystation
+- MaddenBros
+- CoalitionAgainstEvil
+- MLBTheShow
+- RedditIML
+- MaddenMadness
+- metric_units
+- upvotegifs
+- ColorBlind
+- AskReddit
+---

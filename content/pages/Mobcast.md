@@ -1,0 +1,5 @@
+---
+title: Mobcast
+crosslinks:
+- Mafia
+---

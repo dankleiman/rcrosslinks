@@ -1,0 +1,5 @@
+---
+title: SyracuseU
+crosslinks:
+- startrekgifs
+---

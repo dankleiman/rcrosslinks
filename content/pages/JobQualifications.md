@@ -1,0 +1,5 @@
+---
+title: JobQualifications
+crosslinks:
+- mildlyinfuriating
+---

@@ -1,0 +1,5 @@
+---
+title: IAmVeryTired
+crosslinks:
+- assholedesign
+---

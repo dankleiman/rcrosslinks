@@ -1,0 +1,5 @@
+---
+title: NationStates
+crosslinks:
+- titlegore
+---

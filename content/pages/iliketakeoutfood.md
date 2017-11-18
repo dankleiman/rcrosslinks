@@ -1,0 +1,5 @@
+---
+title: iliketakeoutfood
+crosslinks:
+- gifsthatendtoosoon
+---

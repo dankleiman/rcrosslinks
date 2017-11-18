@@ -1,0 +1,24 @@
+---
+title: supportlol
+crosslinks:
+- TeamRedditTeams
+- summonerschool
+- leagueoflegends
+- AquaDragon
+- ShadowBan
+- SorakaMains
+- NamiMains
+- sonamains
+- taricmains
+- RakanMains
+- AMAAggregator
+- depression
+- zyramains
+- karthusmains
+- Tahmkenchmains
+- Janna
+- care
+- ZileanMains
+- Kaylemains
+- LeonaMains
+---

@@ -1,0 +1,24 @@
+---
+title: TalesFromYourServer
+crosslinks:
+- TalesFromTheFrontDesk
+- MaliciousCompliance
+- TalesFromRetail
+- TalesFromThePizzaGuy
+- TalesFromTheCustomer
+- excgarated
+- ShitAmericansSay
+- AskReddit
+- LosAngeles
+- IDontWorkHereLady
+- worstof
+- Drama
+- noyouarenot
+- fountainpens
+- UnethicalLifeProTips
+- theydidthemath
+- childfree
+- LetsNotMeet
+- mildlyinteresting
+- potatosalad
+---

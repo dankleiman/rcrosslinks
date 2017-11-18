@@ -1,0 +1,24 @@
+---
+title: LeagueOfMeta
+crosslinks:
+- leagueoflegends
+- modnews
+- Overwatch
+- dotamasterrace
+- LeagueOfMemes
+- AhriMains
+- summonerschool
+- changelog
+- Rule34LoL
+- LivestreamFail
+- loltyler1
+- NoStupidQuestions
+- Lizards
+- hearthstone
+- UrgotMains
+- RoastMe
+- worldnews
+- Team_Liquid
+- self
+- FIFA
+---

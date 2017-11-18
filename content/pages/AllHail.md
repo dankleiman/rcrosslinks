@@ -1,0 +1,5 @@
+---
+title: AllHail
+crosslinks:
+- Serendipity
+---

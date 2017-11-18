@@ -1,0 +1,5 @@
+---
+title: morse
+crosslinks:
+- amateurradio
+---

@@ -1,0 +1,24 @@
+---
+title: RandomKindness
+crosslinks:
+- Random_Acts_Of_Pizza
+- Assistance
+- PhotoshopRequest
+- RandomActsofCards
+- MadeMeSmile
+- RandomActsOfPetFood
+- RandomActsOfBras
+- pcmasterrace
+- HelpMeFind
+- redditgetsdrawn
+- Serendipity
+- gardening
+- Markiplier
+- Food_Bank
+- picrequests
+- DIY
+- translator
+- Random_Acts
+- Drugs
+- Advice
+---

@@ -1,0 +1,5 @@
+---
+title: lookgoodinanything
+crosslinks:
+- OldSchoolCool
+---

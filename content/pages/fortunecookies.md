@@ -1,0 +1,5 @@
+---
+title: fortunecookies
+crosslinks:
+- mildlyinteresting
+---

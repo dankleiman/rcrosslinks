@@ -1,0 +1,5 @@
+---
+title: Ayurveda
+crosslinks:
+- india
+---

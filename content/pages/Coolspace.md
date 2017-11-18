@@ -1,0 +1,5 @@
+---
+title: Coolspace
+crosslinks:
+- NoSillySuffix
+---

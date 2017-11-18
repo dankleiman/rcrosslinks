@@ -1,0 +1,24 @@
+---
+title: moviescirclejerk
+crosslinks:
+- movies
+- DC_Cinematic
+- marvelstudios
+- AskReddit
+- MovieDetails
+- REEEEEEEEEE
+- YMS
+- TrueFilm
+- flicks
+- iwatchedanoldmovie
+- SuperheroCirclejerk
+- television
+- StarWars
+- Dunkirk
+- IAmA
+- titlegore
+- interstellar
+- todayilearned
+- raimimemes
+- OutOfTheLoop
+---

@@ -1,0 +1,5 @@
+---
+title: GayClownDonald
+crosslinks:
+- GayClownPence
+---

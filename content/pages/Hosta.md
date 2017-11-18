@@ -1,0 +1,5 @@
+---
+title: Hosta
+crosslinks:
+- gardening
+---

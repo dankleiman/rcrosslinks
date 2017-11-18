@@ -1,0 +1,24 @@
+---
+title: AmericanHorrorStory
+crosslinks:
+- autotldr
+- rupaulsdragrace
+- AHS
+- livven
+- pics
+- The_Donald
+- RPDRDRAMA
+- popping
+- casualiama
+- Feud
+- OutOfTheLoop
+- SLBMLQ
+- Trumpgret
+- mildlyinteresting
+- AnimalCrossing
+- ScreamQueensTV
+- arrow
+- faceoff
+- Michigan
+- PrettyLittleLiars
+---

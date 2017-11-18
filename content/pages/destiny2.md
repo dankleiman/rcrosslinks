@@ -1,0 +1,24 @@
+---
+title: destiny2
+crosslinks:
+- DestinyTheGame
+- Fireteams
+- livven
+- DestinyFashion
+- pcmasterrace
+- Overwatch
+- raidsecrets
+- DestinySherpa
+- DestinyPC
+- Games
+- Destiny
+- PS4
+- Suomi
+- nvidia
+- DestinyLFG
+- interestingasfuck
+- MassEffectAndromeda
+- BlindRaids
+- ultrawidemasterrace
+- fireteams
+---

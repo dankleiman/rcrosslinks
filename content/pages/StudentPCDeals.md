@@ -1,0 +1,5 @@
+---
+title: StudentPCDeals
+crosslinks:
+- OKdeal
+---

@@ -1,0 +1,24 @@
+---
+title: ElectricForest
+crosslinks:
+- livven
+- Drugs
+- festivals
+- EDM
+- considerthesource
+- GanjaWhiteNightMusic
+- electronicmusic
+- trap
+- hulaween
+- videos
+- edmproduction
+- Qv67W
+- announcements
+- funk
+- highqualitygifs
+- MiddleLands
+- NoStupidQuestions
+- Coachella
+- deadmau5
+- '2015'
+---

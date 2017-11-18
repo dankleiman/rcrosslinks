@@ -1,0 +1,5 @@
+---
+title: Minortale
+crosslinks:
+- Undertale
+---

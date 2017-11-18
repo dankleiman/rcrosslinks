@@ -1,0 +1,24 @@
+---
+title: socialism
+crosslinks:
+- autotldr
+- communism
+- LateStageCapitalism
+- Anarchism
+- The_Donald
+- communism101
+- FULLCOMMUNISM
+- AskHistorians
+- Socialism_101
+- worldnews
+- marxism_101
+- news
+- leftcommunism
+- politics
+- EnoughTrumpSpam
+- SandersForPresident
+- Physical_Removal
+- mildlyinfuriating
+- Strike4Democracy
+- xkcd
+---

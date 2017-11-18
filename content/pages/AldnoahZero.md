@@ -1,0 +1,5 @@
+---
+title: AldnoahZero
+crosslinks:
+- anime
+---

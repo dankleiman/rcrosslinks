@@ -1,0 +1,5 @@
+---
+title: ballarat
+crosslinks:
+- australia
+---

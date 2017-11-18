@@ -1,0 +1,24 @@
+---
+title: AceAttorney
+crosslinks:
+- AceAttorneyCirclejerk
+- livven
+- 3dshacks
+- place
+- self
+- nocontext
+- AcquittalGame
+- HailCorporate
+- lego
+- the_paul
+- LearnJapanese
+- danganronpa
+- kotor
+- Games
+- titlegore
+- nintendo
+- xkcd
+- unexpectedjontron
+- homestuck
+- LosAngeles
+---

@@ -1,0 +1,5 @@
+---
+title: metroidcirclejerk
+crosslinks:
+- Metroid
+---

@@ -1,0 +1,24 @@
+---
+title: NFL_Draft
+crosslinks:
+- nfl
+- oaklandraiders
+- Browns
+- CHIBears
+- Chargers
+- Redskins
+- Saints
+- Colts
+- detroitlions
+- Tennesseetitans
+- Texans
+- panthers
+- the_darnold
+- CFB
+- 49ers
+- nyjets
+- FFBstats
+- Patriots
+- NYGiants
+- nflstreams
+---

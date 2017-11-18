@@ -1,0 +1,5 @@
+---
+title: icecoast
+crosslinks:
+- skiing
+---

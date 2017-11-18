@@ -1,0 +1,5 @@
+---
+title: snuff
+crosslinks:
+- nasalsnuff
+---

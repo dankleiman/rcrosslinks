@@ -1,0 +1,24 @@
+---
+title: flightsim
+crosslinks:
+- flying
+- hoggit
+- livven
+- aviation
+- nvidia
+- hotas
+- IAmA
+- xkcd
+- Windows10
+- place
+- firstdayontheinternet
+- DataHoarder
+- funny
+- SuicideWatch
+- panthers
+- AskEngineers
+- rule34
+- pcmasterrace
+- overclocking
+- HardwareSwapUK
+---

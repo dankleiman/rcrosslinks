@@ -1,0 +1,5 @@
+---
+title: constructedlanguages
+crosslinks:
+- conlangs
+---

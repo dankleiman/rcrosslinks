@@ -1,0 +1,5 @@
+---
+title: avr
+crosslinks:
+- hometheater
+---

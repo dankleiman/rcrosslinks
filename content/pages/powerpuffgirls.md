@@ -1,0 +1,5 @@
+---
+title: powerpuffgirls
+crosslinks:
+- mildlyinteresting
+---

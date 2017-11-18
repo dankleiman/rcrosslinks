@@ -1,0 +1,5 @@
+---
+title: SimpsonsDidntDoIt
+crosslinks:
+- simpsonsdidit
+---

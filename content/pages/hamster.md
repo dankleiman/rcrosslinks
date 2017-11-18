@@ -1,0 +1,5 @@
+---
+title: hamster
+crosslinks:
+- Pets
+---

@@ -1,0 +1,5 @@
+---
+title: newsweek
+crosslinks:
+- autotldr
+---

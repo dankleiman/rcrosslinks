@@ -1,0 +1,5 @@
+---
+title: SoundsLikeASchrute
+crosslinks:
+- mildlyinteresting
+---

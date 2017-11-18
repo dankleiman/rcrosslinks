@@ -1,0 +1,5 @@
+---
+title: kissmyasteroid
+crosslinks:
+- BadDragon
+---

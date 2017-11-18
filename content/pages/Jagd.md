@@ -1,0 +1,5 @@
+---
+title: Jagd
+crosslinks:
+- guns
+---

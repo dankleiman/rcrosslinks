@@ -1,0 +1,24 @@
+---
+title: linux4noobs
+crosslinks:
+- linuxquestions
+- unixporn
+- linux
+- xkcd
+- FindMeADistro
+- linuxmint
+- archlinux
+- VFIO
+- linuxmasterrace
+- linux_gaming
+- kde
+- SolusProject
+- pcmasterrace
+- openSUSE
+- techsupport
+- GalliumOS
+- ManjaroLinux
+- Kalilinux
+- nosleep
+- sysadmin
+---

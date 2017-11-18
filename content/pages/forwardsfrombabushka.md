@@ -1,0 +1,5 @@
+---
+title: forwardsfrombabushka
+crosslinks:
+- FULLCOMMUNISM
+---

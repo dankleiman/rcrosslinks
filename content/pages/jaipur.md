@@ -1,0 +1,5 @@
+---
+title: jaipur
+crosslinks:
+- india
+---

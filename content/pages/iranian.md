@@ -1,0 +1,24 @@
+---
+title: iranian
+crosslinks:
+- autotldr
+- syriancivilwar
+- iran
+- OnThisDateInBahai
+- pakistan
+- worldnews
+- kurdistan
+- CoincidenceTheorist
+- Palestine
+- islam
+- AskReddit
+- qatar
+- farsi
+- Trumpgret
+- interestingasfuck
+- ShitAmericansSay
+- evolution
+- aviation
+- UFOs
+- ScottPilgrim
+---

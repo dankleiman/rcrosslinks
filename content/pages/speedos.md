@@ -1,0 +1,5 @@
+---
+title: speedos
+crosslinks:
+- childfree
+---

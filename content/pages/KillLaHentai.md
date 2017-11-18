@@ -1,0 +1,5 @@
+---
+title: KillLaHentai
+crosslinks:
+- Palpz
+---

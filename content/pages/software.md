@@ -1,0 +1,24 @@
+---
+title: software
+crosslinks:
+- autotldr
+- Windows10
+- xkcd
+- techsupport
+- learnprogramming
+- assholedesign
+- sysadmin
+- microsoftsoftwareswap
+- TronScript
+- digitalnomad
+- AutoHotkey
+- ffmpeg
+- DnD
+- tipofmytongue
+- programmingrequests
+- hacking
+- Android
+- cemu
+- Backup
+- productivity
+---

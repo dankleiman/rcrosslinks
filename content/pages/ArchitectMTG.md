@@ -1,0 +1,5 @@
+---
+title: ArchitectMTG
+crosslinks:
+- ModernMagic
+---

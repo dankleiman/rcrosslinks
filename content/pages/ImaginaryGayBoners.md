@@ -1,0 +1,5 @@
+---
+title: ImaginaryGayBoners
+crosslinks:
+- ImaginaryMonsterBoys
+---

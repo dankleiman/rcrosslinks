@@ -1,0 +1,5 @@
+---
+title: BlueCollarWomen
+crosslinks:
+- relationships
+---

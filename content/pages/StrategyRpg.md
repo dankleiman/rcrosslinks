@@ -1,0 +1,5 @@
+---
+title: StrategyRpg
+crosslinks:
+- HoMM
+---

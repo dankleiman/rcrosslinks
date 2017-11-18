@@ -1,0 +1,24 @@
+---
+title: Tennesseetitans
+crosslinks:
+- nfl
+- NFL_Draft
+- nflstreams
+- Texans
+- detroitlions
+- livven
+- EvilLeagueOfEvil
+- cordcutters
+- oaklandraiders
+- Jaguars
+- autotldr
+- Colts
+- reddit_stream
+- WTF
+- eagles
+- nyjets
+- CHIBears
+- 2921ohf
+- Madden
+- CoalitionAgainstEvil
+---

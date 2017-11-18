@@ -1,0 +1,5 @@
+---
+title: tights
+crosslinks:
+- nsfw
+---

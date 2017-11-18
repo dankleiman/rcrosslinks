@@ -1,0 +1,24 @@
+---
+title: Tulpas
+crosslinks:
+- LucidDreaming
+- occult
+- AskReddit
+- Tulpa_Lounge
+- Blind
+- TulpasGoneWild
+- Tulpa
+- killthosewhodisagree
+- metaphysical
+- gaming
+- Advice
+- christianmemes
+- CasualConversation
+- TalesFromRetail
+- conlangs
+- conlangscirclejerk
+- plural
+- fountainpens
+- Drama
+- xkcd
+---

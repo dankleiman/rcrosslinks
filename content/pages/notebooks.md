@@ -1,0 +1,21 @@
+---
+title: notebooks
+crosslinks:
+- fountainpens
+- EDC
+- JournalingIsArt
+- Leathercraft
+- Pen_Swap
+- mcgill
+- '2013'
+- ArtisanVideos
+- Magic
+- Journaling
+- DnD
+- KenM
+- moleskine
+- midori
+- journaling
+- pens
+- OneNote
+---

@@ -1,0 +1,24 @@
+---
+title: 2007scape
+crosslinks:
+- runescape
+- leagueoflegends
+- explainlikeimfive
+- place
+- AskReddit
+- WeDoRaids
+- me_irl
+- CrackTheClue
+- The_Donald
+- ironscape
+- modnews
+- IAmA
+- DivineValor
+- OutOfTheLoop
+- funny
+- videos
+- hearthstone
+- copypasta
+- gaming
+- causeWhyNotMate
+---

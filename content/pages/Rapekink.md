@@ -1,0 +1,24 @@
+---
+title: Rapekink
+crosslinks:
+- rape_roleplay
+- StruggleFucking
+- rapecounseling
+- IAmA
+- zoophilia
+- rape_porn
+- TheBluePill
+- BDSMpersonals
+- SluttyConfessions
+- AriaAlexander
+- russia
+- StrugglePorn
+- indiarose
+- NSFWIAMA
+- consentacles
+- forwardsfromgrandma
+- serialkillers
+- FapDeciders
+- worstof
+- TwoXChromosomes
+---

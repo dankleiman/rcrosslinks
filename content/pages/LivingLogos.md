@@ -1,0 +1,5 @@
+---
+title: LivingLogos
+crosslinks:
+- gifs
+---

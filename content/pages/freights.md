@@ -1,0 +1,5 @@
+---
+title: freights
+crosslinks:
+- rickandmorty
+---

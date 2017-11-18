@@ -1,0 +1,24 @@
+---
+title: thesopranos
+crosslinks:
+- TheWire
+- CirclejerkSopranos
+- Mafia
+- television
+- livven
+- modelmakers
+- legaladviceofftopic
+- opieandanthony
+- twinpeaks
+- TheAmericans
+- DumpsterDiving
+- Frasier
+- RetiredReferences
+- IAmA
+- deadwood
+- AskReddit
+- metric_units
+- Judaism
+- NintendoSwitch
+- nfl
+---

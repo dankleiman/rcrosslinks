@@ -1,0 +1,5 @@
+---
+title: StealthCamping
+crosslinks:
+- vandwellers
+---

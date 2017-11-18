@@ -1,0 +1,24 @@
+---
+title: DiWHY
+crosslinks:
+- DIY
+- ATBGE
+- DiWHYNOT
+- thereifixedit
+- AskReddit
+- Shitty_House_Mods
+- vandwellers
+- delusionalcraigslist
+- lifehacks
+- Battlecars
+- delusionalartists
+- WTF
+- gatekeeping
+- Frugal_Jerk
+- livven
+- HailCorporate
+- PurpleCoco
+- somethingimade
+- noisygifs
+- copypasta
+---

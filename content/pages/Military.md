@@ -1,0 +1,24 @@
+---
+title: Military
+crosslinks:
+- MilitaryStories
+- army
+- livven
+- AirForce
+- Militaryfaq
+- AskHistorians
+- USMC
+- Amry
+- navy
+- Veterans
+- FrenchForeignLegion
+- IAmA
+- syriancivilwar
+- armycirclejerk
+- news
+- CanadianForces
+- Drama
+- politics
+- Conservative
+- OutOfTheLoop
+---

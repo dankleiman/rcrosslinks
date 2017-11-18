@@ -1,0 +1,21 @@
+---
+title: Journaling
+crosslinks:
+- DiaryOfARedditor
+- livven
+- codes
+- Handwriting
+- LifeProTips
+- selfimprovement
+- shorthand
+- journalingisart
+- getdisciplined
+- SuicideWatch
+- productivity
+- cicada
+- JournalingIsArt
+- Pen_Swap
+- Calligraphy
+- JournalTheWorld
+- elianscript
+---

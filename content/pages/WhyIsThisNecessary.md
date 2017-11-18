@@ -1,0 +1,5 @@
+---
+title: WhyIsThisNecessary
+crosslinks:
+- funny
+---

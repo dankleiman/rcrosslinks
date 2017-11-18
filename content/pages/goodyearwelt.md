@@ -1,0 +1,24 @@
+---
+title: goodyearwelt
+crosslinks:
+- malefashionadvice
+- frugalmalefashion
+- Sneakers
+- Watches
+- Leathercraft
+- starterpacks
+- '2012'
+- a
+- todayilearned
+- announcements
+- '2013'
+- TheseFuckingAccounts
+- pics
+- help
+- RedWingShoes
+- Cordwaining
+- search
+- rawdenim
+- TheWayWeWere
+- ImagesOfScotland
+---

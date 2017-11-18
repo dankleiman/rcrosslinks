@@ -1,0 +1,21 @@
+---
+title: ynab
+crosslinks:
+- personalfinance
+- financier
+- churning
+- AMAAggregator
+- personalfiance
+- financialindependence
+- seriouseats
+- friendship
+- PersonalFinanceCanada
+- DontPanic
+- DeadBedrooms
+- xkcd
+- ADHD
+- NonZeroDay
+- AskReddit
+- apple
+- EuropeFIRE
+---

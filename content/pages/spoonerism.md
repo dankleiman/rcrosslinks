@@ -1,0 +1,5 @@
+---
+title: spoonerism
+crosslinks:
+- AskReddit
+---

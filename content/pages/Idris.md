@@ -1,0 +1,5 @@
+---
+title: Idris
+crosslinks:
+- haskell
+---

@@ -1,0 +1,5 @@
+---
+title: badassmugshots
+crosslinks:
+- OldSchoolCool
+---

@@ -1,0 +1,5 @@
+---
+title: Evangelical
+crosslinks:
+- Christianity
+---

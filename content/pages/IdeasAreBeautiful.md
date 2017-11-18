@@ -1,0 +1,5 @@
+---
+title: IdeasAreBeautiful
+crosslinks:
+- autotldr
+---

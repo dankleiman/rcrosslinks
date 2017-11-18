@@ -1,0 +1,24 @@
+---
+title: barstoolsports
+crosslinks:
+- IAmA
+- BarstoolRadio
+- AskReddit
+- PardonMyTake
+- CFB
+- explainlikeimfive
+- WTF
+- legaladvice
+- all
+- hiphopheads
+- place
+- poker
+- TheLeftovers
+- livven
+- copypasta
+- atmidnight
+- hockey
+- cumsluts
+- redsox
+- '1731514'
+---

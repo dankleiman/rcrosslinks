@@ -1,0 +1,5 @@
+---
+title: theravada
+crosslinks:
+- Buddhism
+---

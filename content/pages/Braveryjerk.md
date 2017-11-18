@@ -1,0 +1,24 @@
+---
+title: Braveryjerk
+crosslinks:
+- livven
+- atheism
+- CringeAnarchy
+- elonjerk
+- nsfw
+- teenagers
+- The_Donald
+- SpaceXMasterrace
+- REEEEEEEEEE
+- dankchristianmemes
+- Serendipity
+- dankmemes
+- circlejerk
+- TurtlesAreFood
+- dolan
+- copypasta
+- OutOfTheLoop
+- GetMotivated
+- elonmusk
+- TheWaterLew
+---

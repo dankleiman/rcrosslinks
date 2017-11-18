@@ -1,0 +1,23 @@
+---
+title: ModelUSPress
+crosslinks:
+- ModelEasternState
+- ModelUSGov
+- ModelUSMeta
+- modelthemasses
+- ModelUSAToday
+- modelSupCourt
+- ModelSouthernState
+- ModelCentralState
+- ModelWHPress
+- worldnews
+- modelwsj
+- askleo
+- ModelNYPost
+- Sunrise2016
+- TheNewDeal
+- ModelSeattlePI
+- MHOC
+- MHOCPress
+- TeddysExampleThingy
+---

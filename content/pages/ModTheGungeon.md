@@ -1,0 +1,5 @@
+---
+title: ModTheGungeon
+crosslinks:
+- EnterTheGungeon
+---

@@ -1,0 +1,5 @@
+---
+title: germanpuns
+crosslinks:
+- de
+---

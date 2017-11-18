@@ -1,0 +1,5 @@
+---
+title: IKnowMMA
+crosslinks:
+- mmapredictions
+---

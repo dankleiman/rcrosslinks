@@ -1,0 +1,24 @@
+---
+title: Detroit
+crosslinks:
+- autotldr
+- news
+- Michigan
+- Pictures
+- Portland
+- downriver
+- cincinnati
+- GrossePointe
+- Atlanta
+- socialism
+- nottheonion
+- IAmA
+- Intactivists
+- mildlyinfuriating
+- AskAnAmerican
+- NegativeWithGold
+- roadcam
+- xkcd
+- legaladvice
+- hiphopheads
+---

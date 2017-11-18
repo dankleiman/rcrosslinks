@@ -1,0 +1,24 @@
+---
+title: knives
+crosslinks:
+- EDC
+- knifemaking
+- livven
+- Bladesmith
+- Knife_Swap
+- knifecringe
+- KnifeDeals
+- chineseknives
+- FullMetalGunnit
+- CustomKnifeMakers
+- Wellworn
+- Ultralight
+- SWORDS
+- OldSchoolCool
+- Bushcraft
+- wildwhittlers
+- BrasilOnReddit
+- JusticePorn
+- Fishing_Gear
+- BudgetBlades
+---

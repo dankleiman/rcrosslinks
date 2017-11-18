@@ -1,0 +1,5 @@
+---
+title: graffitti
+crosslinks:
+- pics
+---

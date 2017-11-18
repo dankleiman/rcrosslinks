@@ -1,0 +1,5 @@
+---
+title: fancyfolliclesCJ
+crosslinks:
+- curlyhair
+---

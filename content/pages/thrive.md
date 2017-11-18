@@ -1,0 +1,5 @@
+---
+title: thrive
+crosslinks:
+- dwarffortress
+---

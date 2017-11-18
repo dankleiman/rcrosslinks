@@ -1,0 +1,24 @@
+---
+title: WildernessBackpacking
+crosslinks:
+- Ultralight
+- CampingandHiking
+- trailmeals
+- AdvancedBackpacking
+- Survival
+- hammockcamping
+- Tenkara
+- AskReddit
+- norcalhiking
+- CampingGear
+- SuperiorHikingTrail
+- flashlight
+- JMT
+- packgoats
+- nfl
+- PacificNorthwestTrail
+- pics
+- Montana
+- camping
+- MinnesotaCamping
+---

@@ -1,0 +1,5 @@
+---
+title: FCAugsburg
+crosslinks:
+- Bundesliga
+---

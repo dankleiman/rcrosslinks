@@ -1,0 +1,24 @@
+---
+title: HillaryForPrison
+crosslinks:
+- autotldr
+- The_Donald
+- TopMindsOfReddit
+- conspiracy
+- politics
+- WayOfTheBern
+- Enough_Sanders_Spam
+- WikiLeaks
+- AskThe_Donald
+- xkcd
+- worldnews
+- redacted
+- BrasilOnReddit
+- Entrepreneurs
+- livven
+- Sorosforprison
+- shills
+- BreakingNews24hr
+- BlueMidterm2018
+- technology
+---

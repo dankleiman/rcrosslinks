@@ -1,0 +1,5 @@
+---
+title: blindspot
+crosslinks:
+- twinpeaks
+---

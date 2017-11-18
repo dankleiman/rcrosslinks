@@ -1,0 +1,5 @@
+---
+title: investinginwebsites
+crosslinks:
+- Flippa
+---

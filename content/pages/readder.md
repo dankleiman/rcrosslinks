@@ -1,0 +1,24 @@
+---
+title: readder
+crosslinks:
+- apple
+- YouSeeComrade
+- PS4
+- anime
+- Bitcoin
+- learnpython
+- instantpot
+- HistoryPorn
+- funny
+- Gunners
+- comics
+- formula1
+- BetterEveryLoop
+- app
+- Python
+- BlackPeopleTwitter
+- CSeventVODs
+- CowChop
+- SquaredCircle
+- ios
+---

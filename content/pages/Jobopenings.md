@@ -1,0 +1,5 @@
+---
+title: Jobopenings
+crosslinks:
+- forhire
+---

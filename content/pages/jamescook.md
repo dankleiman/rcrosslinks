@@ -1,0 +1,5 @@
+---
+title: jamescook
+crosslinks:
+- Townsville
+---

@@ -1,0 +1,5 @@
+---
+title: crueltyfree
+crosslinks:
+- SkincareAddiction
+---

@@ -1,0 +1,5 @@
+---
+title: Blacksmithsark
+crosslinks:
+- TheNewBlacksmithsArk
+---

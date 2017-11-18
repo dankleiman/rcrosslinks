@@ -1,0 +1,24 @@
+---
+title: Firearms
+crosslinks:
+- guns
+- autotldr
+- livven
+- gundeals
+- CCW
+- ar15
+- news
+- canadaguns
+- progun
+- gunpolitics
+- weekendgunnit
+- The_Donald
+- Anarchism
+- dgu
+- CAguns
+- xkcd
+- ak47
+- AskHistorians
+- Glocks
+- Drama
+---

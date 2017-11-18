@@ -1,0 +1,5 @@
+---
+title: nomayo
+crosslinks:
+- Drama
+---

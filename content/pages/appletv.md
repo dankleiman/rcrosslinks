@@ -1,0 +1,24 @@
+---
+title: appletv
+crosslinks:
+- sideloaded
+- autotldr
+- cordcutters
+- KodionATV4
+- apple
+- Roku
+- directvnow
+- gamedev
+- appleswap
+- PopCornTime
+- vudu
+- airpods
+- shittyhaikus
+- PleX
+- PlotTwist
+- fireTV
+- ATT
+- livven
+- sodaplayer
+- videos
+---

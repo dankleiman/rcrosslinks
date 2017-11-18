@@ -1,0 +1,24 @@
+---
+title: EarthPorn
+crosslinks:
+- PornOverlords
+- origae6
+- pics
+- ExplorePakistan
+- norwayonreddit
+- BrasilOnReddit
+- starterpacks
+- hatchery
+- whatsthisplant
+- travel
+- ConsulttheTarot
+- picsofwaterandthesky
+- me_irl
+- mildlyinteresting
+- livven
+- CityPorn
+- xkcd
+- gaming
+- ruralporn
+- AskReddit
+---

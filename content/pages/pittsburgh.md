@@ -1,0 +1,24 @@
+---
+title: pittsburgh
+crosslinks:
+- autotldr
+- penguins
+- The_Donald
+- politics
+- COMPLETEANARCHY
+- philadelphia
+- xkcd
+- Pennsylvania
+- AskReddit
+- gatekeeping
+- UnresolvedMysteries
+- grilledcheese
+- thenext
+- GateKeepers
+- Bad_Cop_No_Donut
+- NHLStreams
+- personalfinance
+- livven
+- melts
+- Sikh
+---

@@ -1,0 +1,24 @@
+---
+title: 13ReasonsWhy
+crosslinks:
+- SuicideWatch
+- science
+- livven
+- autotldr
+- arrow
+- 2meirl4meirl
+- television
+- 13reasonswhyhate
+- netflix
+- lifeisstrange
+- SWResources
+- septumchicks
+- FlashTV
+- moviescirclejerk
+- confessions
+- LateStageCapitalism
+- TownofSalemgame
+- ShitRedditSays
+- gatekeeping
+- legaladvice
+---

@@ -1,0 +1,5 @@
+---
+title: dualpointinteractive
+crosslinks:
+- ApocalypseRising
+---

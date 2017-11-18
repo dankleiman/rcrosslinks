@@ -1,0 +1,5 @@
+---
+title: FakeAmas
+crosslinks:
+- titlegore
+---

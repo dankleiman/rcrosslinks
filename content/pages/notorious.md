@@ -1,0 +1,5 @@
+---
+title: notorious
+crosslinks:
+- personalfinance
+---

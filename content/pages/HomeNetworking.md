@@ -1,0 +1,24 @@
+---
+title: HomeNetworking
+crosslinks:
+- networking
+- PFSENSE
+- techsupport
+- pihole
+- DataHoarder
+- sysadmin
+- Comcast
+- DDWRT
+- Fios
+- linuxquestions
+- PleX
+- xkcd
+- v
+- ccna
+- openwrt
+- linux
+- sophos
+- frontierfios
+- privacy
+- legaladvice
+---

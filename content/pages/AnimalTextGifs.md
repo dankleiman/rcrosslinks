@@ -1,0 +1,24 @@
+---
+title: AnimalTextGifs
+crosslinks:
+- livven
+- aww
+- gifs
+- rarepuppers
+- funny
+- HighQualityGifs
+- WTF
+- likeus
+- AnimalsBeingJerks
+- instant_regret
+- Zoomies
+- youseeingthisshit
+- PeopleFuckingDying
+- pics
+- BetterEveryLoop
+- CatsStandingUp
+- NotKenM
+- Awwducational
+- HumansBeingBros
+- ShittyAnimalFacts
+---

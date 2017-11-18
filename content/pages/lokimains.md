@@ -1,0 +1,5 @@
+---
+title: lokimains
+crosslinks:
+- Smite
+---

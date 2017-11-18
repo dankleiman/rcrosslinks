@@ -1,0 +1,5 @@
+---
+title: scottishrite
+crosslinks:
+- freemasonry
+---

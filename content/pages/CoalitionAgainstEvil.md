@@ -1,0 +1,24 @@
+---
+title: CoalitionAgainstEvil
+crosslinks:
+- EvilLeagueOfEvil
+- nfl
+- Evilluminati
+- steelers
+- ungulateteams
+- Patriots
+- Browns
+- minnesotavikings
+- livven
+- BIRDTEAMS
+- EvilerLeagueOfEvil
+- NYGiants
+- CoalitionForPrison
+- Seahawks
+- Colts
+- theplunderhood
+- GreenBayPackers
+- HornBros
+- Saints
+- oaklandraiders
+---

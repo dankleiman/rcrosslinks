@@ -1,0 +1,24 @@
+---
+title: TwoXChromosomes
+crosslinks:
+- legaladvice
+- AskReddit
+- childfree
+- personalfinance
+- Assistance
+- news
+- IAmA
+- OutOfTheLoop
+- AskWomen
+- asktransgender
+- clothpads
+- explainlikeimfive
+- help
+- sex
+- Endo
+- TrollXChromosomes
+- menstrualcups
+- '2013'
+- femalefashionadvice
+- science
+---

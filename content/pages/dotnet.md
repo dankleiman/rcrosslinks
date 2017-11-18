@@ -1,0 +1,24 @@
+---
+title: dotnet
+crosslinks:
+- csharp
+- programming
+- microsoft
+- techsupport
+- nativescript
+- IAmA
+- spam
+- ConTalks
+- linux
+- DevConferences
+- KotakuInAction
+- restofthefuckingowl
+- netsec
+- javascript
+- aws
+- fsharp
+- programmingtools
+- VisualStudio
+- xkcd
+- learnprogramming
+---

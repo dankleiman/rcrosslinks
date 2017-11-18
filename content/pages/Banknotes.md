@@ -1,0 +1,5 @@
+---
+title: Banknotes
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: MountainWisdom
+crosslinks:
+- KenM
+---

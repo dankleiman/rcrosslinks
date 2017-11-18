@@ -1,0 +1,24 @@
+---
+title: AmItheAsshole
+crosslinks:
+- JUSTNOMIL
+- Drama
+- AskReddit
+- offmychest
+- MildRedditDrama
+- JusticeServed
+- Volvo
+- creepyPMs
+- autotldr
+- Art
+- NegativeWithGold
+- greentext
+- changemyview
+- self
+- NoStupidQuestions
+- saplings
+- Tinder
+- apple
+- amiugly
+- Advice
+---

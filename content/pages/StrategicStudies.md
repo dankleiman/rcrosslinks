@@ -1,0 +1,5 @@
+---
+title: StrategicStudies
+crosslinks:
+- geopolitics
+---

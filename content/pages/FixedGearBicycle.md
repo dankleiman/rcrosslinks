@@ -1,0 +1,24 @@
+---
+title: FixedGearBicycle
+crosslinks:
+- BicyclingCirclejerk
+- Velo
+- fixedgear
+- cyclocross
+- singlespeed
+- EDC
+- gatekeeping
+- livven
+- 2yovjhg
+- MTB
+- AliensAmongUs
+- UNBGBBIIVCHIDCTIICBG
+- AskReddit
+- xkcd
+- hedidthemath
+- Velodrome
+- thesimpsons
+- RoastMyCar
+- FGFS
+- Bikeporn
+---

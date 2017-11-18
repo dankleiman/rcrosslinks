@@ -1,0 +1,5 @@
+---
+title: NewKoreCoin
+crosslinks:
+- CryptoCurrency
+---

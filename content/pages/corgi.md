@@ -1,0 +1,24 @@
+---
+title: corgi
+crosslinks:
+- livven
+- PuppySmiles
+- dogs
+- sploot
+- aww
+- rarepuppers
+- dogtraining
+- tippytaps
+- AirSwimming
+- Serendipity
+- Dogtraining
+- Blep
+- Incorgnito
+- AskReddit
+- xkcd
+- corgis
+- CorgiGifs
+- animalssmiling
+- papapls
+- rescuedogs
+---

@@ -1,0 +1,23 @@
+---
+title: VirginiaTech
+crosslinks:
+- livven
+- politics
+- xkcd
+- fakeid
+- swva
+- google
+- rva
+- hokies
+- SoSE
+- Clemson
+- jmu
+- tippr
+- titanfall
+- roanoke
+- DataHoarder
+- IAmA
+- titlegore
+- thinkpad
+- uwaterloo
+---

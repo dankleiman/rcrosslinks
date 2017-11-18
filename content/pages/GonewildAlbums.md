@@ -1,0 +1,5 @@
+---
+title: GonewildAlbums
+crosslinks:
+- gonewildprofiles
+---

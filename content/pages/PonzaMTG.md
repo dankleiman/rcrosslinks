@@ -1,0 +1,5 @@
+---
+title: PonzaMTG
+crosslinks:
+- ModernMagic
+---

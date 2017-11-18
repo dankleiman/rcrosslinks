@@ -1,0 +1,24 @@
+---
+title: Wellthatsucks
+crosslinks:
+- livven
+- WhyWereTheyFilming
+- gifs
+- xkcd
+- killthecameraman
+- Whatcouldgowrong
+- funny
+- Unexpected
+- noisygifs
+- pics
+- HadToHurt
+- BetterEveryLoop
+- therewasanattempt
+- nononono
+- gifsthatendtoosoon
+- nocontext
+- WTF
+- WinStupidPrizes
+- mildlyinteresting
+- WeWantPlates
+---

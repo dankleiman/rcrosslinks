@@ -1,0 +1,5 @@
+---
+title: antiimperialism
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: Itasha
+crosslinks:
+- anime
+---

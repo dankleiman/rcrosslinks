@@ -1,0 +1,24 @@
+---
+title: Ask_Politics
+crosslinks:
+- politics
+- AskHistorians
+- PoliticalDiscussion
+- NeutralPolitics
+- worldnews
+- Political_Revolution
+- AskTrumpSupporters
+- geopolitics
+- BlueMidterm2018
+- OutOfTheLoop
+- explainlikeimfive
+- EnoughTrumpSpam
+- answers
+- The_Donald
+- SandersForPresident
+- news
+- democrats
+- Pyongyang
+- askaconservative
+- '2017'
+---

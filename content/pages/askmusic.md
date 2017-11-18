@@ -1,0 +1,5 @@
+---
+title: askmusic
+crosslinks:
+- NameThatSong
+---

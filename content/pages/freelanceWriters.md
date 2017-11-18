@@ -1,0 +1,24 @@
+---
+title: freelanceWriters
+crosslinks:
+- forhire
+- freelance
+- HireaWriter
+- PaperMarket
+- internetparents
+- juststart
+- csgo
+- kratom
+- writersforhire
+- Permaculture
+- writing
+- xkcd
+- AMAAggregator
+- WorkOnline
+- games_journalism
+- contentgather
+- Journalism
+- digitalnomad
+- eroticauthors
+- Entrepreneur
+---

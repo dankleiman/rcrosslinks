@@ -1,0 +1,5 @@
+---
+title: VsauceMusic
+crosslinks:
+- IAmA
+---

@@ -1,0 +1,5 @@
+---
+title: TrollXComics
+crosslinks:
+- DCcomics
+---

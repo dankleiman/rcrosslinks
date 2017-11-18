@@ -1,0 +1,5 @@
+---
+title: eden
+crosslinks:
+- MrSuicideSheep
+---

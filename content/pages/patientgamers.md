@@ -1,0 +1,24 @@
+---
+title: patientgamers
+crosslinks:
+- Gamingcirclejerk
+- Games
+- GameDeals
+- gaming
+- gamingsuggestions
+- PS3
+- skyrimmods
+- xkcd
+- AskReddit
+- WhatItDoesWell
+- lowendgaming
+- pcmasterrace
+- kotor
+- 3dshacks
+- FalloutMods
+- 3DS
+- ftlgame
+- indiegameswap
+- darksouls
+- lifeisstrange
+---

@@ -1,0 +1,5 @@
+---
+title: TDHungerGames
+crosslinks:
+- tomorrow
+---

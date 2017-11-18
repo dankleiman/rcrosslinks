@@ -1,0 +1,24 @@
+---
+title: HillaryMeltdown
+crosslinks:
+- The_Donald
+- autotldr
+- politics
+- AskReddit
+- all
+- HillaryForPrison
+- politicalhumor
+- NeutralPolitics
+- the_schulz
+- metacanada
+- SargonofAkkad
+- REEEEEEEEEE
+- livven
+- enoughtrumpspam
+- gatekeeping
+- killthosewhodisagree
+- worldnews
+- the_meltdown
+- changemyview
+- forwardsfromgrandma
+---

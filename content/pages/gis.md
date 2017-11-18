@@ -1,0 +1,24 @@
+---
+title: gis
+crosslinks:
+- MapPorn
+- CrappyDesign
+- Surveying
+- Linky_links
+- LiDAR
+- QGIS
+- learnpython
+- autotldr
+- excel
+- rstats
+- nyc
+- savedyouaclick
+- apple
+- golang
+- programming
+- openstreetmap
+- Packt
+- geography
+- CasualUK
+- MapsWithoutNZ
+---

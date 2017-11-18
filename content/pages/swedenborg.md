@@ -1,0 +1,5 @@
+---
+title: swedenborg
+crosslinks:
+- Antipsychiatry
+---

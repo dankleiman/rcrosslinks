@@ -1,0 +1,5 @@
+---
+title: KritikaOnline
+crosslinks:
+- kritika
+---

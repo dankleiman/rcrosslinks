@@ -1,0 +1,5 @@
+---
+title: TinyCastles
+crosslinks:
+- castles
+---

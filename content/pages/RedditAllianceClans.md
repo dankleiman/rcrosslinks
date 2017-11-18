@@ -1,0 +1,5 @@
+---
+title: RedditAllianceClans
+crosslinks:
+- ClashOfClansRecruit
+---

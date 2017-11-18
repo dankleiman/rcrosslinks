@@ -1,0 +1,5 @@
+---
+title: PokemonGOBoulder
+crosslinks:
+- PokemonGoDenver
+---

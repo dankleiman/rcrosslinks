@@ -1,0 +1,24 @@
+---
+title: painting
+crosslinks:
+- Art
+- HappyTrees
+- WhatIsThisPainting
+- ArtCrit
+- artstore
+- pics
+- redditgetsdrawn
+- portraits
+- artcrit
+- schizophrenia
+- Scientits
+- gonewild
+- horizon
+- Enough_Sanders_Spam
+- xkcd
+- TheDepthsBelow
+- timelapse
+- Soundgarden
+- DIY
+- creativecreature
+---

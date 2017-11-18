@@ -1,0 +1,24 @@
+---
+title: blogsnark
+crosslinks:
+- weddingplanning
+- relationships
+- AskReddit
+- IAmA
+- namenerds
+- modnews
+- TalesFromYourServer
+- politics
+- getdisciplined
+- loseit
+- autotldr
+- exmormon
+- Drama
+- xxfitness
+- OutOfTheLoop
+- JUSTNOMIL
+- LateStageCapitalism
+- Swimming
+- worldnews
+- myfavoritemurder
+---

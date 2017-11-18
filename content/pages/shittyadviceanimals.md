@@ -1,0 +1,24 @@
+---
+title: shittyadviceanimals
+crosslinks:
+- AdviceAnimals
+- livven
+- rickandmorty
+- ScottishPeopleTwitter
+- shittyshittyadviceani
+- WTF
+- wholesomememes
+- me_irl
+- coaxedintoasnafu
+- AskReddit
+- DeFranco
+- Music
+- JeepMemes
+- gifs
+- MenNipples
+- movies
+- IgnorantImgur
+- DnD
+- gaming
+- anime_irl
+---

@@ -1,0 +1,5 @@
+---
+title: Techlogical
+crosslinks:
+- autotldr
+---

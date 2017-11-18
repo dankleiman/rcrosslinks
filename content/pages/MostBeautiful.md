@@ -1,0 +1,24 @@
+---
+title: MostBeautiful
+crosslinks:
+- pics
+- EarthPorn
+- europe
+- Axecraft
+- picsofwaterandthesky
+- india
+- travel
+- JapanTravel
+- livven
+- StartledCats
+- japanpics
+- mildlyinteresting
+- churchporn
+- islam
+- NatureIsFuckingLit
+- SweatyPalms
+- DirectSunlight
+- CemeteryPorn
+- UnexpectedWoT
+- Bandnames
+---

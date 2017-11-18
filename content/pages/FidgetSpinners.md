@@ -1,0 +1,24 @@
+---
+title: FidgetSpinners
+crosslinks:
+- livven
+- fidgettoys
+- flyawaytoys
+- EDC
+- FidgetSpinnersMarket
+- interestingasfuck
+- AskReddit
+- autotldr
+- electronic_cigarette
+- HailCorporate
+- CNC
+- pcmasterrace
+- AMAAggregator
+- Android
+- dankmemes
+- tifu
+- funny
+- GrandTheftAutoV
+- Music
+- modnews
+---

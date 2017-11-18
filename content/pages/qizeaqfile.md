@@ -1,0 +1,5 @@
+---
+title: qizeaqfile
+crosslinks:
+- darksouls
+---

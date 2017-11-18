@@ -1,0 +1,24 @@
+---
+title: morbidlybeautiful
+crosslinks:
+- natureismetal
+- pics
+- NotKenM
+- AskOuija
+- wildlifephotography
+- toronto
+- FullScorpion
+- hitmanimals
+- livven
+- WTF
+- selfharmpics
+- Enhancement
+- watchpeopledie
+- AccidentalRenaissance
+- gifs
+- indonesia
+- Entomology
+- dogpictures
+- ShittyAnimalFacts
+- riskyclicks
+---

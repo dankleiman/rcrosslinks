@@ -1,0 +1,5 @@
+---
+title: lgbtqgamingalliance
+crosslinks:
+- LGBTGaming
+---

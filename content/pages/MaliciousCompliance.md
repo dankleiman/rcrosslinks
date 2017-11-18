@@ -1,0 +1,24 @@
+---
+title: MaliciousCompliance
+crosslinks:
+- deliciouscompliance
+- xkcd
+- lists
+- AskReddit
+- talesfromtechsupport
+- JUSTNOMIL
+- gatekeeping
+- WhyWereTheyFilming
+- grilledcheese
+- pettyrevenge
+- funny
+- unexpectedhogwarts
+- livven
+- LateStageCapitalism
+- Jokes
+- todayilearned
+- nocontext
+- legaladvice
+- WTF
+- IDontWorkHereLady
+---

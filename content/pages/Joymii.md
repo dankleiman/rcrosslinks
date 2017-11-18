@@ -1,0 +1,5 @@
+---
+title: Joymii
+crosslinks:
+- nsfw
+---

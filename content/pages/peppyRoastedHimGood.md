@@ -1,0 +1,5 @@
+---
+title: peppyRoastedHimGood
+crosslinks:
+- osugame
+---

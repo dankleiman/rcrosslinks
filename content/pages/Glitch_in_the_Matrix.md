@@ -1,0 +1,24 @@
+---
+title: Glitch_in_the_Matrix
+crosslinks:
+- AskReddit
+- DimensionalJumping
+- Paranormal
+- MandelaEffect
+- Retconned
+- Dreams
+- nosleep
+- Thetruthishere
+- GlitchInTheMatrix
+- legaladvice
+- C_S_T
+- conspiracy
+- holofractal
+- DeadRedditors
+- occult
+- explainlikeimfive
+- tipofmytongue
+- AWLIAS
+- lawofattraction
+- Mandela_Effect
+---

@@ -1,0 +1,5 @@
+---
+title: Spurdo
+crosslinks:
+- shitpost
+---

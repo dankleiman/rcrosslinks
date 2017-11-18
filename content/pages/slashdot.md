@@ -1,0 +1,5 @@
+---
+title: slashdot
+crosslinks:
+- autotldr
+---

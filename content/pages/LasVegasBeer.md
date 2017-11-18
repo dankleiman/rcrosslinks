@@ -1,0 +1,5 @@
+---
+title: LasVegasBeer
+crosslinks:
+- vegas
+---

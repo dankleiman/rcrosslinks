@@ -1,0 +1,5 @@
+---
+title: FakeNames
+crosslinks:
+- LongmontPotionCastle
+---

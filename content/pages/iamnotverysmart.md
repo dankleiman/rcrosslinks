@@ -1,0 +1,5 @@
+---
+title: iamnotverysmart
+crosslinks:
+- xkcd
+---

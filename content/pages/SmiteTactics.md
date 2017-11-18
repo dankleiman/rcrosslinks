@@ -1,0 +1,5 @@
+---
+title: SmiteTactics
+crosslinks:
+- Smite
+---

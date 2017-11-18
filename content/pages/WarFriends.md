@@ -1,0 +1,5 @@
+---
+title: WarFriends
+crosslinks:
+- WarFriendsOfficial
+---

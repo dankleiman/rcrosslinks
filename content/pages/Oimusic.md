@@ -1,0 +1,5 @@
+---
+title: Oimusic
+crosslinks:
+- SmashtheReds
+---

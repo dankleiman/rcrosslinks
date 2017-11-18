@@ -1,0 +1,5 @@
+---
+title: goodideas
+crosslinks:
+- INTP
+---

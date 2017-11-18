@@ -1,0 +1,5 @@
+---
+title: GenesisMiningCodes
+crosslinks:
+- GenesisMining
+---

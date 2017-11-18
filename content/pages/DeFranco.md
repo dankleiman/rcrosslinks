@@ -1,0 +1,24 @@
+---
+title: DeFranco
+crosslinks:
+- autotldr
+- videos
+- news
+- livven
+- The_Donald
+- SquaredCircle
+- OutOfTheLoop
+- technology
+- hindsightIn2020
+- xkcd
+- KotakuInAction
+- IAmA
+- ImGoingToHellForThis
+- socialism
+- evergreen
+- worldnews
+- politics
+- unitedkingdom
+- conspiracy
+- NeutralPolitics
+---

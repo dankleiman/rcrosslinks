@@ -1,0 +1,5 @@
+---
+title: Blotterporn
+crosslinks:
+- LSD
+---

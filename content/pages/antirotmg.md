@@ -1,0 +1,5 @@
+---
+title: antirotmg
+crosslinks:
+- RotMG
+---

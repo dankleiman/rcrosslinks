@@ -1,0 +1,5 @@
+---
+title: CemuSpecs
+crosslinks:
+- cemu
+---

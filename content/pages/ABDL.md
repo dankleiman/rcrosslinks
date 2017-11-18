@@ -1,0 +1,24 @@
+---
+title: ABDL
+crosslinks:
+- ABDLPersonals
+- livven
+- AskReddit
+- littlespace
+- LITTLEPERSONALS
+- shittyfoodporn
+- Instagram
+- BDSMcommunity
+- xkcd
+- Teen_ABDL
+- Sexsells
+- theydidthemath
+- cringepics
+- DiaperedRoleplay
+- FloridaMan
+- NoFap
+- cars
+- EroticHypnosis
+- diaperpics
+- todayilearned
+---

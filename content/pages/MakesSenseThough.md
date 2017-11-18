@@ -1,0 +1,5 @@
+---
+title: MakesSenseThough
+crosslinks:
+- Showerthoughts
+---

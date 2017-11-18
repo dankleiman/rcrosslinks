@@ -1,0 +1,5 @@
+---
+title: GenderComical
+crosslinks:
+- autotldr
+---

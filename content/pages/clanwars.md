@@ -1,0 +1,5 @@
+---
+title: clanwars
+crosslinks:
+- ClashOfClans
+---

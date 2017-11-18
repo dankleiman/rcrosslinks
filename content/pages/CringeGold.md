@@ -1,0 +1,5 @@
+---
+title: CringeGold
+crosslinks:
+- sadcringe
+---

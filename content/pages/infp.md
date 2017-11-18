@@ -1,0 +1,24 @@
+---
+title: infp
+crosslinks:
+- INTP
+- INFPmusic
+- AskReddit
+- livven
+- hsp
+- aromantic
+- shittyMBTI
+- ENFP
+- infj
+- Anxiety
+- GetMotivated
+- ADHD
+- entp
+- rarepuppers
+- wholesomememes
+- Nootropics
+- LifeProTips
+- xkcd
+- lawofattraction
+- notcirclejerk
+---

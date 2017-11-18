@@ -1,0 +1,5 @@
+---
+title: Offworld
+crosslinks:
+- Stardock
+---

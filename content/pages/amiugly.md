@@ -1,0 +1,24 @@
+---
+title: amiugly
+crosslinks:
+- malefashionadvice
+- malehairadvice
+- SkincareAddiction
+- Incels
+- Fitness
+- AmISexy
+- Rateme
+- femalefashionadvice
+- RoastMe
+- rateme
+- TeenAmIUgly
+- gainit
+- MakeupAddiction
+- uglyduckling
+- loseit
+- pics
+- niceguys
+- metric_units
+- FierceFlow
+- me_irl
+---

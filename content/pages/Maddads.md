@@ -1,0 +1,5 @@
+---
+title: Maddads
+crosslinks:
+- madlads
+---

@@ -1,0 +1,5 @@
+---
+title: globalnewschinese
+crosslinks:
+- ChineseReddit
+---

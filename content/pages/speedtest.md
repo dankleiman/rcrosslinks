@@ -1,0 +1,5 @@
+---
+title: speedtest
+crosslinks:
+- HomeNetworking
+---

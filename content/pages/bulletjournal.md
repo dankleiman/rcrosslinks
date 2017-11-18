@@ -1,0 +1,24 @@
+---
+title: bulletjournal
+crosslinks:
+- fountainpens
+- ADHD
+- sailormoon
+- EDC
+- teaching
+- RATS
+- Handwriting
+- mechanicalpencils
+- ComedyCemetery
+- SimpleBulletJournals
+- DnD
+- WiggleButts
+- StardewValley
+- loseit
+- C25K
+- 1200isplenty
+- randomactsofamazon
+- penmanship
+- WaltDisneyWorld
+- Journal
+---

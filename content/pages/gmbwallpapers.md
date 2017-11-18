@@ -1,0 +1,5 @@
+---
+title: gmbwallpapers
+crosslinks:
+- BeautyQueens
+---

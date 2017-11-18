@@ -1,0 +1,5 @@
+---
+title: Chikara
+crosslinks:
+- SquaredCircle
+---

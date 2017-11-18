@@ -1,0 +1,5 @@
+---
+title: pocketrumble
+crosslinks:
+- Undertale
+---

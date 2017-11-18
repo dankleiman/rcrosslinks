@@ -1,0 +1,5 @@
+---
+title: DoppelFrankers
+crosslinks:
+- notreallyfamous
+---

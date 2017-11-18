@@ -1,0 +1,5 @@
+---
+title: cortana
+crosslinks:
+- amazonecho
+---

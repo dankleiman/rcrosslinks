@@ -1,0 +1,5 @@
+---
+title: FinnishGenderCritical
+crosslinks:
+- GenderCritical
+---

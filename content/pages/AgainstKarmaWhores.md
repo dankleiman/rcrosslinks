@@ -1,0 +1,24 @@
+---
+title: AgainstKarmaWhores
+crosslinks:
+- pics
+- HighQualityGifs
+- funny
+- gifs
+- aww
+- shitpost
+- Music
+- AskReddit
+- comics
+- KarmaCourt
+- UpvotedBecauseGirl
+- KarmaConspiracy
+- zelda
+- interestingasfuck
+- IAmA
+- rickandmorty
+- spaceengine
+- Ice_Poseidon
+- The_Donald
+- Marriage
+---

@@ -1,0 +1,24 @@
+---
+title: Breath_of_the_Wild
+crosslinks:
+- zelda
+- livven
+- NintendoSwitch
+- truezelda
+- zelfies
+- nintendo
+- wiiu
+- gaming
+- cemu
+- xkcd
+- PrequelMemes
+- WiiUHacks
+- speedrun
+- funny
+- witcher
+- Yahaha_IRL
+- pics
+- EarthPorn
+- Pixiv
+- Gamingcirclejerk
+---

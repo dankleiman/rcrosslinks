@@ -1,0 +1,24 @@
+---
+title: AskAnAmerican
+crosslinks:
+- AskEurope
+- ShitAmericansSay
+- AskReddit
+- xkcd
+- explainlikeimfive
+- AskHistorians
+- europe
+- vexillology
+- politics
+- IWantOut
+- todayilearned
+- videos
+- NoStupidQuestions
+- Scotland
+- NeutralPolitics
+- AskNYC
+- AskUK
+- ShitEuropeansSay
+- changemyview
+- gatekeeping
+---

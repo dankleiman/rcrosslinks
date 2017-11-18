@@ -1,0 +1,5 @@
+---
+title: SubstratumNetwork
+crosslinks:
+- icocrypto
+---

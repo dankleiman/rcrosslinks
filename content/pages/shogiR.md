@@ -1,0 +1,5 @@
+---
+title: shogiR
+crosslinks:
+- newsokur
+---

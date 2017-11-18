@@ -1,0 +1,24 @@
+---
+title: AskNYC
+crosslinks:
+- nyc
+- NYCapartments
+- nycmeetups
+- NYList
+- cscareerquestions
+- legaladvice
+- astoria
+- IAmA
+- AskCulinary
+- malefashionadvice
+- thatHappened
+- personalfinance
+- AskReddit
+- NYC_Resistance
+- learnprogramming
+- tokyo
+- AskSF
+- WWE
+- Frugal
+- losangeles
+---

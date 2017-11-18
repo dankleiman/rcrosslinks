@@ -1,0 +1,5 @@
+---
+title: Dolls
+crosslinks:
+- AnimeFigures
+---

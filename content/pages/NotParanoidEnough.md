@@ -1,0 +1,5 @@
+---
+title: NotParanoidEnough
+crosslinks:
+- archlinux
+---

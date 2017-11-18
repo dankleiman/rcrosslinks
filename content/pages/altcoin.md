@@ -1,0 +1,24 @@
+---
+title: altcoin
+crosslinks:
+- CryptoCurrency
+- Maecenas
+- ethtrader
+- ethereum
+- vertcoin
+- Travelcoin_ICO
+- ethereumfraud
+- ByteBall
+- BytecoinBCN
+- CryptoSafety
+- AMAAggregator
+- dogecoin
+- Adel
+- officialpesetacoin
+- CryptoMarkets
+- Signatum
+- AirToken
+- elixirtoken
+- autotldr
+- KingsDS
+---

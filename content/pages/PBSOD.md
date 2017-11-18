@@ -1,0 +1,24 @@
+---
+title: PBSOD
+crosslinks:
+- softwaregore
+- pics
+- itrunsdoom
+- pcmasterrace
+- france
+- unexpectedaperture
+- techsupportgore
+- fire_snyper
+- keming
+- mildlyinteresting
+- sanfrancisco
+- AyyyMD
+- Windows10
+- livven
+- itsaunixsystem
+- ooerintensifies
+- lego
+- TwoRedditorsOneCup
+- vizrt
+- glitch_art
+---

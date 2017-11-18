@@ -1,0 +1,24 @@
+---
+title: PFSENSE
+crosslinks:
+- HomeNetworking
+- networking
+- elasticsearch
+- sysadmin
+- xkcd
+- lanparty
+- Netgate
+- pelletgrills
+- NetflixByProxy
+- Assistance
+- technology
+- macsysadmin
+- linux
+- shittykickstarters
+- madlad
+- talesfromtechsupport
+- IAmA
+- privacy
+- perktv
+- livven
+---

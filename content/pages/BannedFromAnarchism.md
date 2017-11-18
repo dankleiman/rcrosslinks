@@ -1,0 +1,5 @@
+---
+title: BannedFromAnarchism
+crosslinks:
+- CapitalismVSocialism
+---

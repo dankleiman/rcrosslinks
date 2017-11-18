@@ -1,0 +1,5 @@
+---
+title: pokemongoyeg
+crosslinks:
+- TheSilphRoad
+---

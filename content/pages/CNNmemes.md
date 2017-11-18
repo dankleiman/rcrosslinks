@@ -1,0 +1,24 @@
+---
+title: CNNmemes
+crosslinks:
+- livven
+- The_Donald
+- REEEEEEEEEE
+- ShitPoliticsSays
+- EnoughTrumpSpam
+- legaladvice
+- coaxedintoasnafu
+- PoliticalHumor
+- conspiracy
+- TheMemeWars
+- WayOfTheBern
+- politics
+- TopMindsOfReddit
+- TheNewRight
+- uncensorednews
+- circlejerk
+- dankmemes
+- wtfstockphotos
+- restorethefourth
+- pics
+---

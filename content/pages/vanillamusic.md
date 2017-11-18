@@ -1,0 +1,5 @@
+---
+title: vanillamusic
+crosslinks:
+- xkcd
+---

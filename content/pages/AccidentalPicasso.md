@@ -1,0 +1,5 @@
+---
+title: AccidentalPicasso
+crosslinks:
+- delusionalartists
+---

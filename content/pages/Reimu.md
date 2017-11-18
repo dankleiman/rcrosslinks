@@ -1,0 +1,5 @@
+---
+title: Reimu
+crosslinks:
+- Pixiv
+---

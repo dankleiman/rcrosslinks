@@ -1,0 +1,24 @@
+---
+title: SonyAlpha
+crosslinks:
+- photography
+- photomarket
+- videography
+- livven
+- analog
+- itookapicture
+- Cameras
+- postprocessing
+- photoclass2017
+- colorists
+- photocritique
+- cinematography
+- minolta
+- pics
+- shittyHDR
+- modnews
+- gopro
+- VideoEditing
+- RealEstatePhotography
+- 24hoursupport
+---

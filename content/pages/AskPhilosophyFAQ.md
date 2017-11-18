@@ -1,0 +1,5 @@
+---
+title: AskPhilosophyFAQ
+crosslinks:
+- JordanPeterson
+---

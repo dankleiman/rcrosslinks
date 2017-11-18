@@ -1,0 +1,24 @@
+---
+title: stopsmoking
+crosslinks:
+- C25K
+- getdisciplined
+- leaves
+- electronic_cigarette
+- livven
+- AgainstKarmaWhores
+- Vaping101
+- Cigarettes
+- stopdrinking
+- AMAAggregator
+- ShadowBan
+- unpopularopinion
+- askashittydoctor
+- stop
+- Drama
+- Christianity
+- Piracy
+- Bacon
+- Paleo
+- motivation
+---

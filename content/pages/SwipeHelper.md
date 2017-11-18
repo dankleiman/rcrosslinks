@@ -1,0 +1,5 @@
+---
+title: SwipeHelper
+crosslinks:
+- Tinder
+---

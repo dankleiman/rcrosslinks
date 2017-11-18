@@ -1,0 +1,24 @@
+---
+title: webdev
+crosslinks:
+- xkcd
+- javascript
+- programming
+- autotldr
+- groupdeals
+- learnprogramming
+- sysadmin
+- ProgrammerHumor
+- cscareerquestions
+- forhire
+- GravCMS
+- node
+- technology
+- privacy
+- lolphp
+- videos
+- PHP
+- IAmA
+- reactjs
+- Frontend
+---

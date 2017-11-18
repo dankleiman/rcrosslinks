@@ -1,0 +1,5 @@
+---
+title: wargamebootcamp
+crosslinks:
+- wargame
+---

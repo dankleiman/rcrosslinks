@@ -1,0 +1,24 @@
+---
+title: EmeraldPS2
+crosslinks:
+- Planetside
+- MillerPlanetside
+- planetside
+- Battlefield
+- ps2ragetells
+- Connery
+- REEEEEEEEEE
+- tifu
+- Emerald
+- ButtSharpies
+- videos
+- Briggs
+- planetsidearmor
+- AskHistorians
+- WTF
+- Planetmens
+- GoneWildTrans
+- AskReddit
+- fakehistoryporn
+- gamingsuggestions
+---

@@ -1,0 +1,5 @@
+---
+title: Miitomo
+crosslinks:
+- zelda
+---

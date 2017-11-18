@@ -1,0 +1,24 @@
+---
+title: montreal
+crosslinks:
+- canada
+- nyc
+- vancouver
+- Enhancement
+- ShadowBan
+- TrueOffMyChest
+- DIY
+- French
+- CEH
+- ROBORACE
+- explainlikeimfive
+- instantkarma
+- OutOfTheLoop
+- MontrealCycling
+- pics
+- videos
+- Seattle
+- '2013'
+- AskMontreal
+- glasgow
+---

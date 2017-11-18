@@ -1,0 +1,5 @@
+---
+title: gstrings
+crosslinks:
+- AssholeBehindThong
+---

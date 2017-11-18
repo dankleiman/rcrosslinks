@@ -1,0 +1,5 @@
+---
+title: EroGazo
+crosslinks:
+- newsokur
+---

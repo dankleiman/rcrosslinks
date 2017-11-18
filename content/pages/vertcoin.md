@@ -1,0 +1,24 @@
+---
+title: vertcoin
+crosslinks:
+- vtctip
+- CryptoCurrency
+- litecoin
+- Bitcoin
+- EtherMining
+- livven
+- Verttrader
+- reddCoin
+- tippr
+- BNBTrader
+- Monero
+- AMAAggregator
+- autotldr
+- Bitcoincash
+- digix
+- LitecoinMarkets
+- deedlefake
+- ArkEcosystem
+- ethereum
+- myriadcoin
+---

@@ -1,0 +1,5 @@
+---
+title: buffalojobs
+crosslinks:
+- Buffalo
+---

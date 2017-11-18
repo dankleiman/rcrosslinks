@@ -1,0 +1,5 @@
+---
+title: CryptoAnarchy
+crosslinks:
+- fakeid
+---

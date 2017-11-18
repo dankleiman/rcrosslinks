@@ -1,0 +1,5 @@
+---
+title: jstrydor
+crosslinks:
+- mildlyinteresting
+---

@@ -1,0 +1,5 @@
+---
+title: msfbs
+crosslinks:
+- Fuckthealtright
+---

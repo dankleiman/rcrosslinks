@@ -1,0 +1,5 @@
+---
+title: gentlemensociety
+crosslinks:
+- livven
+---

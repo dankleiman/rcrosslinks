@@ -1,0 +1,5 @@
+---
+title: CataloniaPics
+crosslinks:
+- Barcelona
+---

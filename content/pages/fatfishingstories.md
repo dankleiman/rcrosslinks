@@ -1,0 +1,5 @@
+---
+title: fatfishingstories
+crosslinks:
+- fatpeoplestories
+---

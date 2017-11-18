@@ -1,0 +1,5 @@
+---
+title: goodbyedepression
+crosslinks:
+- psychology
+---

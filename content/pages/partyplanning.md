@@ -1,0 +1,5 @@
+---
+title: partyplanning
+crosslinks:
+- CraftingCreativily
+---

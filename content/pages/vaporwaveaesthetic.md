@@ -1,0 +1,5 @@
+---
+title: vaporwaveaesthetic
+crosslinks:
+- raining
+---

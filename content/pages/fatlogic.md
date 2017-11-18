@@ -1,0 +1,24 @@
+---
+title: fatlogic
+crosslinks:
+- loseit
+- Fitness
+- livven
+- askscience
+- 4chan
+- thatHappened
+- AskReddit
+- askfatlogic
+- VisualKcal
+- EatCheapAndHealthy
+- vegan1200isplenty
+- RagenChastain
+- reactiongifs
+- learndota2
+- announcements
+- GettingShredded
+- WTF
+- AsianBeauty
+- thesimpsons
+- raerth
+---

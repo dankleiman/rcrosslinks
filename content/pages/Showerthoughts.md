@@ -1,0 +1,24 @@
+---
+title: Showerthoughts
+crosslinks:
+- AskReddit
+- funny
+- WritingPrompts
+- todayilearned
+- IAmA
+- Jokes
+- pics
+- explainlikeimfive
+- mildlyinteresting
+- askscience
+- videos
+- LifeProTips
+- gifs
+- aww
+- tifu
+- gaming
+- OutOfTheLoop
+- NoStupidQuestions
+- WTF
+- technology
+---

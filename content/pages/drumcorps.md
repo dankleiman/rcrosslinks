@@ -1,0 +1,22 @@
+---
+title: drumcorps
+crosslinks:
+- drumcorpscirclejerk
+- livven
+- xkcd
+- me_irl
+- Damnthatsinteresting
+- todayilearned
+- place
+- Atlanta
+- redsox
+- techsupportgore
+- rust
+- WGI
+- THE_PACK
+- Kanye
+- dci
+- vexillology
+- WTF
+- TooMeIrlForMeIrl
+---

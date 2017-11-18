@@ -1,0 +1,24 @@
+---
+title: ExpectationVsReality
+crosslinks:
+- HailCorporate
+- funny
+- KarmaConspiracy
+- WeWantPlates
+- pics
+- AskReddit
+- shittyfoodporn
+- LateStageCapitalism
+- xkcd
+- ShadowBan
+- france
+- expectationsvsreality
+- MildRedditDrama
+- thingsforants
+- Alot
+- EpicDisappointment
+- mildlypenis
+- ATBGE
+- MaliciousCompliance
+- AskOuija
+---

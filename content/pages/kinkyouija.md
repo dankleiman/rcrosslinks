@@ -1,0 +1,5 @@
+---
+title: kinkyouija
+crosslinks:
+- AskOuija
+---

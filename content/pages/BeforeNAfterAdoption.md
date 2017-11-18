@@ -1,0 +1,24 @@
+---
+title: BeforeNAfterAdoption
+crosslinks:
+- aww
+- OldManDog
+- teefies
+- PuppySmiles
+- sploot
+- cats
+- HumansBeingBros
+- rarepuppers
+- Chihuahua
+- AskReddit
+- pics
+- toofers
+- ferrets
+- awwakeup
+- sodypup
+- DoggyDNA
+- dogs
+- hitmanimals
+- Zoomies
+- AgainstKarmaWhores
+---

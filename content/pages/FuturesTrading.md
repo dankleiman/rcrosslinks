@@ -1,0 +1,5 @@
+---
+title: FuturesTrading
+crosslinks:
+- farming
+---

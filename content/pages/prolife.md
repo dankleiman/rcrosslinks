@@ -1,0 +1,24 @@
+---
+title: prolife
+crosslinks:
+- autotldr
+- prochoice
+- TwoXChromosomes
+- pics
+- worldnews
+- AltRightChristian
+- politics
+- Christianity
+- Catholicism
+- TrollXChromosomes
+- offmychest
+- redacted
+- plxx
+- askphilosophy
+- policeuk
+- SecularProlife
+- nazi
+- television
+- truechristian
+- Futurology
+---

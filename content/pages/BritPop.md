@@ -1,0 +1,5 @@
+---
+title: BritPop
+crosslinks:
+- ManicStreetMania
+---

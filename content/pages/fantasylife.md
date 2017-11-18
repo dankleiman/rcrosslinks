@@ -1,0 +1,5 @@
+---
+title: fantasylife
+crosslinks:
+- LearnJapanese
+---

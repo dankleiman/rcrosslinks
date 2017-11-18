@@ -1,0 +1,24 @@
+---
+title: pcmasterrace
+crosslinks:
+- xkcd
+- autotldr
+- SuggestALaptop
+- microsoftsoftwareswap
+- overclocking
+- G502MasterRace
+- hardwareswap
+- techsupport
+- ultrawidemasterrace
+- gifs
+- '2013'
+- headphones
+- TronScript
+- emulation
+- Rainmeter
+- place
+- linuxmasterrace
+- patientgamers
+- PcMasterRaceBuilds
+- Guildwars2
+---

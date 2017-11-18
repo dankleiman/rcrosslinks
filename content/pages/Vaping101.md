@@ -1,0 +1,24 @@
+---
+title: Vaping101
+crosslinks:
+- electronic_cigarette
+- Vaping
+- ECR_UK
+- DIY_eJuice
+- vaporents
+- ecigclassifieds
+- aussievapers
+- juul
+- DIY_classifieds
+- Canadian_ecigarette
+- vapeheads
+- RBA
+- ejuice
+- Squonk_Life
+- PodMods
+- CoilGore
+- vaping
+- sounding
+- FreeorCheapEJuice
+- vapeitforward
+---

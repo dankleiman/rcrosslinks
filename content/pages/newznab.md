@@ -1,0 +1,5 @@
+---
+title: newznab
+crosslinks:
+- radarr
+---

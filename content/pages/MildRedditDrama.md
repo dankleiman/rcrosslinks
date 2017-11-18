@@ -1,0 +1,24 @@
+---
+title: MildRedditDrama
+crosslinks:
+- AskReddit
+- WeWantPlates
+- Whatcouldgowrong
+- rage
+- dogs
+- nottheonion
+- nonononoyes
+- sydney
+- LateStageCapitalism
+- cringe
+- OldSchoolCool
+- Documentaries
+- ExpectationVsReality
+- Showerthoughts
+- news
+- OutOfTheLoop
+- IAmA
+- todayilearned
+- offmychest
+- australia
+---

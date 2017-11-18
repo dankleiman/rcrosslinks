@@ -1,0 +1,5 @@
+---
+title: NonPartisanMemes
+crosslinks:
+- seinfeldgifs
+---

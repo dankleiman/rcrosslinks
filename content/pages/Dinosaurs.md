@@ -1,0 +1,24 @@
+---
+title: Dinosaurs
+crosslinks:
+- autotldr
+- science
+- Paleontology
+- CoolDinosaurPictures
+- Runaways
+- AnimalTextGifs
+- tipofmyjoystick
+- tipofmypenis
+- grammar
+- imaginarydinosaurs
+- trexgonewild
+- magicTCG
+- xkcd
+- gaming
+- mildlypenis
+- CrappyDesign
+- jurassicworldevo
+- Denver
+- askscience
+- JurassicPark
+---

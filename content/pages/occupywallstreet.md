@@ -1,0 +1,24 @@
+---
+title: occupywallstreet
+crosslinks:
+- autotldr
+- EnoughTrumpSpam
+- worldpolitics
+- Anarchism
+- politics
+- LateStageCapitalism
+- Missing411
+- lostgeneration
+- ConcentrationOfWealth
+- DeepGreenResistance
+- privacy
+- AMAAggregator
+- BasicIncome
+- LeftWithoutEdge
+- MarchAgainstTrump
+- titlegore
+- socialism
+- TrueReddit
+- AskHistorians
+- conspiracy
+---

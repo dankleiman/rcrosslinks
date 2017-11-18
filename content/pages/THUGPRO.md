@@ -1,0 +1,5 @@
+---
+title: THUGPRO
+crosslinks:
+- nvidia
+---

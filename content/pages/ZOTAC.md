@@ -1,0 +1,5 @@
+---
+title: ZOTAC
+crosslinks:
+- htpc
+---

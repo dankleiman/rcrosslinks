@@ -1,0 +1,5 @@
+---
+title: Beaverknight
+crosslinks:
+- Serendipity
+---

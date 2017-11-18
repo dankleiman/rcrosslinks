@@ -1,0 +1,5 @@
+---
+title: ImaginarySamurai
+crosslinks:
+- Art
+---

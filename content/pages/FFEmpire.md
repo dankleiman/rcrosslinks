@@ -1,0 +1,5 @@
+---
+title: FFEmpire
+crosslinks:
+- FFXVANE
+---

@@ -1,0 +1,5 @@
+---
+title: MHGen
+crosslinks:
+- MonsterHunter
+---

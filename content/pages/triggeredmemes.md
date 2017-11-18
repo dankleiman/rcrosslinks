@@ -1,0 +1,5 @@
+---
+title: triggeredmemes
+crosslinks:
+- Diepio
+---

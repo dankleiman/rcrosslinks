@@ -1,0 +1,5 @@
+---
+title: hmanga
+crosslinks:
+- manga
+---

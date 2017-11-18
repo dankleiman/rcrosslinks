@@ -1,0 +1,5 @@
+---
+title: IIFYM
+crosslinks:
+- askscience
+---

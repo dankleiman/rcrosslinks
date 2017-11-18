@@ -1,0 +1,5 @@
+---
+title: PoELFG
+crosslinks:
+- pathofexile
+---

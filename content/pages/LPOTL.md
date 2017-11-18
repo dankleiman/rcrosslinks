@@ -1,0 +1,24 @@
+---
+title: LPOTL
+crosslinks:
+- serialkillers
+- IAmA
+- UnresolvedMysteries
+- TrueCrimeDiscussion
+- incels
+- CrimeScene
+- Bizarre_States
+- livven
+- ShitAmericansSay
+- me_irl
+- WTF
+- truecrimereview
+- cavecomedyradio
+- ConfusedBoners
+- DeathmatchWrestling
+- occult
+- trashy
+- samespecies
+- BlackMetal
+- movies
+---

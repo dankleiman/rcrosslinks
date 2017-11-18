@@ -1,0 +1,5 @@
+---
+title: quityourrepost
+crosslinks:
+- funny
+---

@@ -1,0 +1,5 @@
+---
+title: ffxivdrama
+crosslinks:
+- ffxiv
+---

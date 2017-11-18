@@ -1,0 +1,5 @@
+---
+title: PokemonBlow
+crosslinks:
+- pokemongo
+---

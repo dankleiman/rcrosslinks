@@ -1,0 +1,24 @@
+---
+title: Kanye
+crosslinks:
+- livven
+- hiphopheads
+- FrankOcean
+- KanyeLeaks
+- place
+- KendrickLamar
+- AskReddit
+- radiohead
+- lewronggeneration
+- hhh
+- pics
+- BlackPeopleTwitter
+- streetwear
+- Sneakers
+- donaldglover
+- TaylorSwift
+- Repsneakers
+- funny
+- FashionReps
+- HipHopImages
+---

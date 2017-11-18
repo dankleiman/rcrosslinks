@@ -1,0 +1,5 @@
+---
+title: bestofislam
+crosslinks:
+- history
+---

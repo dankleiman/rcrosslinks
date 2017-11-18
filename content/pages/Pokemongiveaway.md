@@ -1,0 +1,24 @@
+---
+title: Pokemongiveaway
+crosslinks:
+- pokemontrades
+- ShinyPokemon
+- pokemon
+- 3dshacks
+- BreedingDittos
+- PokemonPlaza
+- stunfisk
+- powersaves3ds
+- PokeMoonSun
+- PkmnGiveawayRefs
+- CasualPokemonTrades
+- PokemonCreate
+- BankBallExchange
+- FestivalPlaza
+- ShittyAnimalFacts
+- PokemonSunMoon
+- 3DS
+- HFY
+- awesome_animals
+- cute_animals
+---

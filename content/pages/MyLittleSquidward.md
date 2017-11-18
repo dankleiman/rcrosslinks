@@ -1,0 +1,5 @@
+---
+title: MyLittleSquidward
+crosslinks:
+- onguardforthee
+---

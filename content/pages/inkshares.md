@@ -1,0 +1,5 @@
+---
+title: inkshares
+crosslinks:
+- WritersOfHorror
+---

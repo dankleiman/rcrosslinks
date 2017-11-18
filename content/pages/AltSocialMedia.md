@@ -1,0 +1,5 @@
+---
+title: AltSocialMedia
+crosslinks:
+- autotldr
+---

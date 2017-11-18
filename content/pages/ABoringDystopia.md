@@ -1,0 +1,24 @@
+---
+title: ABoringDystopia
+crosslinks:
+- autotldr
+- LateStageCapitalism
+- mildlyinteresting
+- news
+- pcmasterrace
+- xkcd
+- nottheonion
+- HailCorporate
+- Anarchism
+- sports
+- FULLCOMMUNISM
+- MovieDetails
+- livven
+- linuxmint
+- theinternetofshit
+- Windows10Sucks
+- Shaneisms
+- privacy
+- Communalists
+- UnexpectedSCP
+---

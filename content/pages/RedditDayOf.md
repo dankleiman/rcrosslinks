@@ -1,0 +1,24 @@
+---
+title: RedditDayOf
+crosslinks:
+- livven
+- xkcd
+- autotldr
+- MapPorn
+- VintageMenus
+- videos
+- funny
+- RetroFuturism
+- HistoryPorn
+- science
+- Sneks
+- coins
+- whatisthisthing
+- news
+- theocho
+- LearnUselessTalents
+- titlegore
+- weddingplanning
+- AskHistorians
+- woahdude
+---

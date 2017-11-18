@@ -1,0 +1,5 @@
+---
+title: afrikaans
+crosslinks:
+- Serendipity
+---

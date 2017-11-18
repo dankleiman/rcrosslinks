@@ -1,0 +1,5 @@
+---
+title: ebookdeals
+crosslinks:
+- literature
+---

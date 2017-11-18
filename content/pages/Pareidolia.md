@@ -1,0 +1,24 @@
+---
+title: Pareidolia
+crosslinks:
+- mildlyinteresting
+- livven
+- pics
+- funny
+- xkcd
+- xdfp
+- oddlysatisfying
+- RoastMe
+- wildlypenis
+- mildlypenis
+- HailCorporate
+- argentina
+- WTF
+- keming
+- techsupportgore
+- nevertellmetheodds
+- thingsforants
+- KarmaConspiracy
+- pepperfaces
+- AskReddit
+---

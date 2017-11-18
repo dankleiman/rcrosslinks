@@ -1,0 +1,5 @@
+---
+title: LakeFrontProperty
+crosslinks:
+- funny
+---

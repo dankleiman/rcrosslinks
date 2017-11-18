@@ -1,0 +1,24 @@
+---
+title: thedonald
+crosslinks:
+- autotldr
+- The_Donald
+- livven
+- REEEEEEEEEE
+- facepalm
+- EnoughTrumpSpam
+- worldpolitics
+- DrainTheSwamp
+- AskThe_Donald
+- Tajikistan
+- joinordietrump
+- Trumpeach
+- trump
+- SmallBusinessCanada
+- law
+- politics
+- TopMindsOfReddit
+- MarchAgainstTrump
+- xkcd
+- BannedFromThe_Donald
+---

@@ -1,0 +1,24 @@
+---
+title: NatureIsFuckingLit
+crosslinks:
+- livven
+- gifs
+- pics
+- AskReddit
+- nocontext
+- WTF
+- interestingasfuck
+- videos
+- xkcd
+- mildlyinteresting
+- funny
+- aww
+- askscience
+- autotldr
+- IAmA
+- todayilearned
+- hatchery
+- awwnverts
+- unexpectedhogwarts
+- science
+---

@@ -1,0 +1,5 @@
+---
+title: rotbot
+crosslinks:
+- xkcd
+---

@@ -1,0 +1,5 @@
+---
+title: Civilizedasfuck
+crosslinks:
+- interestingasfuck
+---

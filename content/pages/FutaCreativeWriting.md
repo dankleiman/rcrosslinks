@@ -1,0 +1,5 @@
+---
+title: FutaCreativeWriting
+crosslinks:
+- futanari
+---

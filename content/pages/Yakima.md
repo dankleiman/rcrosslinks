@@ -1,0 +1,5 @@
+---
+title: Yakima
+crosslinks:
+- Bowling
+---

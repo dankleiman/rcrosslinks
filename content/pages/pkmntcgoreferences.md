@@ -1,0 +1,5 @@
+---
+title: pkmntcgoreferences
+crosslinks:
+- pkmntcgreferences
+---

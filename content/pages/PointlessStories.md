@@ -1,0 +1,24 @@
+---
+title: PointlessStories
+crosslinks:
+- grilledcheese
+- legaladvice
+- LetsTalkMusic
+- REEEEEEEEEE
+- TalesFromClassrooms
+- Dreams
+- Bandnames
+- drawing
+- itslenny
+- thisdreamihad
+- stopdrinking
+- fffffffuuuuuuuuuuuu
+- meme
+- ActLikeYouBelong
+- unexpectedhogwarts
+- me_irl
+- whatisthisthing
+- SeriousConversation
+- aliensamongus
+- Sneks
+---

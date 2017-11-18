@@ -1,0 +1,24 @@
+---
+title: surfing
+crosslinks:
+- livven
+- videos
+- autotldr
+- pics
+- BetterEveryLoop
+- 1sided
+- waterporn
+- vegan
+- sports
+- news
+- Fishing
+- The_Donald
+- 2lcw57d
+- funfacts
+- csshelp
+- gatekeeping
+- Pareidolia
+- onewheel
+- DestinyTheGame
+- GirlSurfers
+---

@@ -1,0 +1,5 @@
+---
+title: shittyMBTI
+crosslinks:
+- intj
+---

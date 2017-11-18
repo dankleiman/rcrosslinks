@@ -1,0 +1,5 @@
+---
+title: ShitUltraLeftistsSay
+crosslinks:
+- shittankiessay
+---

@@ -1,0 +1,5 @@
+---
+title: FFGtrade
+crosslinks:
+- swdestiny
+---

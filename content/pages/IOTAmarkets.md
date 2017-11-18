@@ -1,0 +1,22 @@
+---
+title: IOTAmarkets
+crosslinks:
+- Iota
+- CryptoCurrency
+- ethtrader
+- autotldr
+- Bitcoin
+- NoFap
+- litecoin
+- TenX
+- CryptoMarkets
+- NEO
+- AMA
+- BitcoinMarkets
+- ethereum
+- xkcd
+- conlangs
+- IOTAFaucet
+- GolemProject
+- centra_tech
+---

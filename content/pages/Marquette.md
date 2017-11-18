@@ -1,0 +1,5 @@
+---
+title: Marquette
+crosslinks:
+- yooper
+---

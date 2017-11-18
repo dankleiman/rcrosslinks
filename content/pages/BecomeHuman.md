@@ -1,0 +1,5 @@
+---
+title: BecomeHuman
+crosslinks:
+- DetroitBecomeHuman
+---

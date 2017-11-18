@@ -1,0 +1,5 @@
+---
+title: inkmasteronspike
+crosslinks:
+- Inkmaster
+---

@@ -1,0 +1,5 @@
+---
+title: wholesometinder
+crosslinks:
+- Tinder
+---

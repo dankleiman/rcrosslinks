@@ -1,0 +1,5 @@
+---
+title: AdorableCompliance
+crosslinks:
+- MaliciousCompliance
+---

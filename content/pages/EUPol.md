@@ -1,0 +1,5 @@
+---
+title: EUPol
+crosslinks:
+- europe
+---

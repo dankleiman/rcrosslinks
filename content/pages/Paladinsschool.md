@@ -1,0 +1,5 @@
+---
+title: Paladinsschool
+crosslinks:
+- Paladins
+---

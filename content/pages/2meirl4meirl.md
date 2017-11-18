@@ -1,0 +1,24 @@
+---
+title: 2meirl4meirl
+crosslinks:
+- 2meirl42meirl4meirl
+- livven
+- AskReddit
+- me_irl
+- xkcd
+- definitelynotmeirl
+- SanctionedSuicide
+- wholesomememes
+- gatekeeping
+- funny
+- DeepFriedMemes
+- furry_irl
+- meirl
+- anime_irl
+- MadeOfStyrofoam
+- 3meirl5meirl
+- LateStageCapitalism
+- DankMemeArchive
+- depression
+- dontdeadopeninside
+---

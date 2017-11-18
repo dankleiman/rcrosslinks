@@ -1,0 +1,5 @@
+---
+title: wholesome
+crosslinks:
+- autotldr
+---

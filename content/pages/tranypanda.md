@@ -1,0 +1,5 @@
+---
+title: tranypanda
+crosslinks:
+- NoNewsMMA
+---

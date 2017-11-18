@@ -1,0 +1,5 @@
+---
+title: eastereggs
+crosslinks:
+- readyplayerone
+---

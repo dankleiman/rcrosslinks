@@ -1,0 +1,5 @@
+---
+title: shroomsarewards
+crosslinks:
+- leagueoflegends
+---

@@ -1,0 +1,24 @@
+---
+title: perth
+crosslinks:
+- australia
+- autotldr
+- circlejerkaustralia
+- straya
+- ShitAmericansSay
+- funny
+- auslaw
+- newzealand
+- MapPorn
+- lockpicking
+- GenderComical
+- AusFinance
+- TheRedPill
+- Bullion
+- killthosewhodisagree
+- AustralianMilitary
+- Showerthoughts
+- Drama
+- AdviceAnimals
+- PussyPass
+---

@@ -1,0 +1,5 @@
+---
+title: GayNSFWFunny
+crosslinks:
+- livven
+---

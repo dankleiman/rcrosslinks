@@ -1,0 +1,5 @@
+---
+title: mavic
+crosslinks:
+- videos
+---

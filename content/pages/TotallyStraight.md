@@ -1,0 +1,24 @@
+---
+title: TotallyStraight
+crosslinks:
+- livven
+- gaypornhunters
+- MensHighJinx
+- MassiveCock
+- funhaus
+- NSFW_GAY
+- GuysInHighSocks
+- menslegs
+- gaystoriesgonewild
+- GayGifs
+- gaycruising
+- BurningMan
+- Str8GuysFromBehind
+- Precum
+- catfish
+- FMN
+- lolgrindr
+- GuysFromBehind
+- jacking
+- HelixStudios
+---

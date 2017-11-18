@@ -1,0 +1,5 @@
+---
+title: thievescant
+crosslinks:
+- DungeonsAndDragons
+---

@@ -1,0 +1,5 @@
+---
+title: prolog
+crosslinks:
+- lisp
+---

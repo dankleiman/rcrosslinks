@@ -1,0 +1,5 @@
+---
+title: fabrication
+crosslinks:
+- Welding
+---

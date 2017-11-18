@@ -1,0 +1,5 @@
+---
+title: hentaicharts
+crosslinks:
+- Futadomworld
+---

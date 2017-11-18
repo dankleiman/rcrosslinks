@@ -1,0 +1,5 @@
+---
+title: AnalToying
+crosslinks:
+- MenWithToys
+---

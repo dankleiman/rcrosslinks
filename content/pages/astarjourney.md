@@ -1,0 +1,5 @@
+---
+title: astarjourney
+crosslinks:
+- Nootropics
+---

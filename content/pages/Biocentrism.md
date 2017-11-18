@@ -1,0 +1,5 @@
+---
+title: Biocentrism
+crosslinks:
+- explainlikeimfive
+---

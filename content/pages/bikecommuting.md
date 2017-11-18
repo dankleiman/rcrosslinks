@@ -1,0 +1,24 @@
+---
+title: bikecommuting
+crosslinks:
+- BicyclingCirclejerk
+- cycling
+- EveryDayRide
+- BicycleGear
+- FixedGearBicycle
+- autotldr
+- myog
+- Serendipity
+- Velo
+- MTB
+- videos
+- xkcd
+- Roadcam
+- running
+- houston
+- Seattle
+- personalfinance
+- Bikeporn
+- regularcarreviews
+- pics
+---

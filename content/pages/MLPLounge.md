@@ -1,0 +1,24 @@
+---
+title: MLPLounge
+crosslinks:
+- mylittlepony
+- livven
+- xkcd
+- AMAAggregator
+- MLPdrawingschool
+- AskReddit
+- ponk
+- mylittleandysonic1
+- place
+- Metal
+- Pony_irl
+- MyLittleSupportGroup
+- ScenesFromAHat
+- metric_units
+- SWResources
+- StardustCrusaders
+- illumineighti
+- MLPAnalysis
+- Games
+- falloutequestria
+---

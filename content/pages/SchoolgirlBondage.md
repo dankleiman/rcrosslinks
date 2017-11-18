@@ -1,0 +1,5 @@
+---
+title: SchoolgirlBondage
+crosslinks:
+- Bondage
+---

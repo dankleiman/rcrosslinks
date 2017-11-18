@@ -1,0 +1,5 @@
+---
+title: FascismForever
+crosslinks:
+- autotldr
+---

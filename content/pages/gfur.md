@@ -1,0 +1,22 @@
+---
+title: gfur
+crosslinks:
+- livven
+- Drawn_Horsecock
+- FurryArtSchool
+- autofellatio
+- Dat_Knot
+- furrypasta
+- furry_irl
+- awwnverts
+- PureYC
+- rc
+- FeralPokePorn
+- femyiff
+- picsofcaninedicks
+- yiffplus
+- gaycumsluts
+- Furry_Backsack
+- jockstraps
+- yiff
+---

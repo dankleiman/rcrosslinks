@@ -1,0 +1,24 @@
+---
+title: startups
+crosslinks:
+- Entrepreneur
+- SideProject
+- xkcd
+- news
+- artificial
+- academia
+- forhire
+- Fitness
+- shamelessplug
+- software
+- learnpython
+- Landlord
+- CorporateFacepalm
+- explainlikeimfive
+- FulfillmentByAmazon
+- redditmarketing
+- nonprofit
+- SaltLakeCity
+- chrome
+- Futurology
+---

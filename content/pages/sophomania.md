@@ -1,0 +1,5 @@
+---
+title: sophomania
+crosslinks:
+- solipsism
+---

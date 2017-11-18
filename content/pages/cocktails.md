@@ -1,0 +1,24 @@
+---
+title: cocktails
+crosslinks:
+- Tiki
+- devoz
+- Gin
+- Zerosuminfinity
+- rum
+- livven
+- SouthBayLA
+- FictionalVittles
+- alcohol
+- FrenchWestIndies
+- me_irl
+- gameofthrones
+- restofthefuckingowl
+- softwaregore
+- comedy
+- BarBattlestations
+- Coffee
+- whiskey
+- videos
+- interestingasfuck
+---

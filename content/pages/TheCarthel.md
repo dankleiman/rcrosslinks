@@ -1,0 +1,5 @@
+---
+title: TheCarthel
+crosslinks:
+- StrawHatRPG
+---

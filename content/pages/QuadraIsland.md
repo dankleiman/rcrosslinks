@@ -1,0 +1,5 @@
+---
+title: QuadraIsland
+crosslinks:
+- VancouverIsland
+---

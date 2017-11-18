@@ -1,0 +1,23 @@
+---
+title: Huskers
+crosslinks:
+- CFB
+- place
+- UNL
+- livven
+- sooners
+- TheSimpsons
+- ducks
+- CFBUploads
+- UIUC
+- CFBStreams
+- houston
+- aggies
+- UniversityOfHouston
+- Omaha
+- UNLincoln
+- placeAtlas
+- ronpaulshops
+- NewAmericanVision
+- NLSSCircleJerk
+---

@@ -1,0 +1,5 @@
+---
+title: Skinpicking
+crosslinks:
+- SkincareAddiction
+---

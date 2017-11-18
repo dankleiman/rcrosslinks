@@ -1,0 +1,5 @@
+---
+title: foucault
+crosslinks:
+- sorceryofthespectacle
+---

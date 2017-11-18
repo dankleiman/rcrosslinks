@@ -1,0 +1,24 @@
+---
+title: megalinks
+crosslinks:
+- got7x4leaked
+- Piracy
+- freefolk
+- opendirectories
+- DataHoarder
+- PleX
+- megarequests
+- GDriveLinks
+- got7x6leaked
+- gifs
+- ProtonVPN
+- notapanelshow
+- datahoarders
+- MEGAnice
+- xkcd
+- VPN
+- NoNewsMMA
+- torrents
+- ZippyShare
+- fullmoviesonanything
+---

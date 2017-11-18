@@ -1,0 +1,24 @@
+---
+title: salty
+crosslinks:
+- Kappa
+- livven
+- VoHiYo
+- StreetFighter
+- Tekken
+- Guiltygear
+- cringe
+- mvci
+- ForeverAloneDating
+- sadcringe
+- Pixiv
+- killerinstinct
+- ExsqueezeMe
+- SF4
+- ayylmao
+- gamedev
+- Animesuggest
+- fightcade
+- Tgirls
+- NSFW_Korea
+---

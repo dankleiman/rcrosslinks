@@ -1,0 +1,24 @@
+---
+title: pyrocynical
+crosslinks:
+- livven
+- montageparodies
+- Zaptie
+- dankmemes
+- KingdomHearts
+- jerma985
+- jesuschristreddit
+- uwotm8
+- pyroframes
+- ChargeYourPhone
+- fidgetspin
+- politics
+- news
+- DeepFriedMemes
+- magicthecirclejerking
+- me_irl
+- im14andthisisfunny
+- aww
+- furry_irl
+- LeafyIsHere
+---

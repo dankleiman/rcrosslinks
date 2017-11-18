@@ -1,0 +1,24 @@
+---
+title: HorriblyDepressing
+crosslinks:
+- autotldr
+- toosoon
+- confession
+- AdviceAnimals
+- news
+- waifuism
+- AskReddit
+- teenagers
+- Serendipity
+- ShrugLifeSyndicate
+- relationships_advice
+- killthosewhodisagree
+- Incels
+- Jokes
+- mildlydepressing
+- selfharm
+- sadcomics
+- Firearms
+- pics
+- getdisciplined
+---

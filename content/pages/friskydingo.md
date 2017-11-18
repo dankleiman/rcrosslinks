@@ -1,0 +1,5 @@
+---
+title: friskydingo
+crosslinks:
+- Serendipity
+---

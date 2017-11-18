@@ -1,0 +1,5 @@
+---
+title: funtoo
+crosslinks:
+- all
+---

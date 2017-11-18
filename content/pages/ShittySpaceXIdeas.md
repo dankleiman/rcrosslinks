@@ -1,0 +1,5 @@
+---
+title: ShittySpaceXIdeas
+crosslinks:
+- SpaceXLounge
+---

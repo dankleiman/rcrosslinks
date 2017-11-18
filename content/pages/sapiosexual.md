@@ -1,0 +1,5 @@
+---
+title: sapiosexual
+crosslinks:
+- indianpeoplequora
+---

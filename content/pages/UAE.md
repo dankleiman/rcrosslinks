@@ -1,0 +1,5 @@
+---
+title: UAE
+crosslinks:
+- Israel
+---

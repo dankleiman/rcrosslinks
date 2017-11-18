@@ -1,0 +1,5 @@
+---
+title: MtvStranded
+crosslinks:
+- thesims
+---

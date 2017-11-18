@@ -1,0 +1,5 @@
+---
+title: Goon
+crosslinks:
+- FrenchWestIndies
+---

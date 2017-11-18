@@ -1,0 +1,24 @@
+---
+title: anime_irl
+crosslinks:
+- livven
+- wholesomeanimemes
+- hentai_irl
+- anime
+- Animemes
+- traaaaaaannnnnnnnnns
+- xkcd
+- handholding
+- 2anime_irl4anime_irl
+- doujinshi
+- araragi
+- ShakuSwag
+- manga
+- AskReddit
+- AnimemeEconomy
+- nocontext
+- thighdeology
+- awwnime
+- headpats
+- animenocontext
+---

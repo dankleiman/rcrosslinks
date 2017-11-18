@@ -1,0 +1,24 @@
+---
+title: webcomics
+crosslinks:
+- comics
+- sadcomics
+- ComedyCemetery
+- livven
+- omaketheater
+- xkcd
+- 4amShower
+- FlashTV
+- CapitalismVSocialism
+- funny
+- rickandmorty
+- ForeverAlone
+- gatekeeping
+- indianpeoplereddit
+- comedynecromancy
+- treecomics
+- panelomatic
+- childfree
+- see
+- me_irl
+---

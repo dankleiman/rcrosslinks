@@ -1,0 +1,5 @@
+---
+title: MassiveDarkness
+crosslinks:
+- minipainting
+---

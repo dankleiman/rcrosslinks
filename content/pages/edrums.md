@@ -1,0 +1,5 @@
+---
+title: edrums
+crosslinks:
+- drums
+---

@@ -1,0 +1,24 @@
+---
+title: AskReddit
+crosslinks:
+- IAmA
+- tifu
+- funny
+- pics
+- todayilearned
+- nosleep
+- videos
+- OutOfTheLoop
+- explainlikeimfive
+- AskHistorians
+- WTF
+- gifs
+- Jokes
+- WritingPrompts
+- gaming
+- legaladvice
+- worldnews
+- Showerthoughts
+- politics
+- aww
+---

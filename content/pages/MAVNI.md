@@ -1,0 +1,5 @@
+---
+title: MAVNI
+crosslinks:
+- army
+---

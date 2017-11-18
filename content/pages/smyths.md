@@ -1,0 +1,5 @@
+---
+title: smyths
+crosslinks:
+- IAmA
+---

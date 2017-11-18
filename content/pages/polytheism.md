@@ -1,0 +1,5 @@
+---
+title: polytheism
+crosslinks:
+- coolguides
+---

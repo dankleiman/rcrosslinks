@@ -1,0 +1,5 @@
+---
+title: tokiohotel
+crosslinks:
+- discordservers
+---

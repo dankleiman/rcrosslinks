@@ -1,0 +1,24 @@
+---
+title: nrl
+crosslinks:
+- AFL
+- australia
+- Cricket
+- KarmaCourt
+- ARL
+- DarryB
+- AskReddit
+- livven
+- '2013'
+- GoldCoastTitans
+- straya
+- sports
+- RosieVan
+- videos
+- superleague
+- AttackClown
+- NegativeWithGold
+- nfl
+- NRLPremium
+- l
+---

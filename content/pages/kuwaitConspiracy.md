@@ -1,0 +1,5 @@
+---
+title: kuwaitConspiracy
+crosslinks:
+- newreddit
+---

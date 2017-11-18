@@ -1,0 +1,5 @@
+---
+title: justnoMLM
+crosslinks:
+- Scams
+---

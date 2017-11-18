@@ -1,0 +1,5 @@
+---
+title: PoliceSquad
+crosslinks:
+- autotldr
+---

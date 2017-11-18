@@ -1,0 +1,5 @@
+---
+title: LGBTForeverAlone
+crosslinks:
+- RightwingLGBT
+---

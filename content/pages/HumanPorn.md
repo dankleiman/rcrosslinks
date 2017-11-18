@@ -1,0 +1,24 @@
+---
+title: HumanPorn
+crosslinks:
+- PornOverlords
+- pics
+- FreeCompliments
+- EarthlingPorn
+- mildlyinteresting
+- Documentaries
+- Oceania
+- LifeProTips
+- hiphopheads
+- ExplorePakistan
+- PictureChallenge
+- HistoryPorn
+- history
+- MadMudmen
+- MapsWithoutNZ
+- funny
+- marijuanaenthusiasts
+- EnoughTrumpSpam
+- TwoXChromosomes
+- starterpacks
+---

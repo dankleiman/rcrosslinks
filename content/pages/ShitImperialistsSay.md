@@ -1,0 +1,5 @@
+---
+title: ShitImperialistsSay
+crosslinks:
+- FULLCOMMUNISM
+---

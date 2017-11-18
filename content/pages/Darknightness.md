@@ -1,0 +1,5 @@
+---
+title: Darknightness
+crosslinks:
+- needamod
+---

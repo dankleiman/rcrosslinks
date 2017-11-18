@@ -1,0 +1,24 @@
+---
+title: disney
+crosslinks:
+- autotldr
+- WaltDisneyWorld
+- Disneyland
+- modnews
+- dvdcollection
+- Frozen
+- AdviceAnimals
+- movies
+- place
+- moana
+- lego
+- TsumTsum
+- crochet
+- zootopia
+- IAmA
+- HighQualityGifs
+- pics
+- livven
+- alternativeart
+- KarmaConspiracy
+---

@@ -1,0 +1,5 @@
+---
+title: theGreatMemeWar
+crosslinks:
+- conspiracy
+---

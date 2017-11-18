@@ -1,0 +1,5 @@
+---
+title: airbrush
+crosslinks:
+- Calligraphy
+---

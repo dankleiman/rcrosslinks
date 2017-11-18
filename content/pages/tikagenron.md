@@ -1,0 +1,24 @@
+---
+title: tikagenron
+crosslinks:
+- newsokur
+- newsokurMod
+- KIBEN
+- highlevelkarma
+- newsokuexp
+- tiraura
+- NewsSokuhou_R
+- hage
+- newsokuvip
+- KAEUTA
+- NewsokurMailOpener
+- religions_ja
+- TUSOSS
+- lowlevelaware
+- JfoamGITS
+- 420_JP
+- BakaNewsJP
+- rakugakicho
+- tora_no_ana
+- Newsoku_L
+---

@@ -1,0 +1,5 @@
+---
+title: RealIndigenous
+crosslinks:
+- MongoloidSupremacy
+---

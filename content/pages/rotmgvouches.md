@@ -1,0 +1,5 @@
+---
+title: rotmgvouches
+crosslinks:
+- rotmgtradingpost
+---

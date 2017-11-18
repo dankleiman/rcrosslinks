@@ -1,0 +1,24 @@
+---
+title: AmISexy
+crosslinks:
+- amiugly
+- Rateme
+- AmISexyisCREEPY
+- GoneMild
+- Serendipity
+- curlyhair
+- Drama
+- niceguys
+- legaladviceofftopic
+- hotandhorny
+- FreeCompliments
+- gatekeeping
+- amifat
+- NoFap
+- sugarfreemua
+- ImpregPersonals
+- RoastMe
+- transpassing
+- TellMeImPretty
+- os4j2f
+---

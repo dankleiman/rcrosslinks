@@ -1,0 +1,24 @@
+---
+title: DimensionalJumping
+crosslinks:
+- Oneirosophy
+- Glitch_in_the_Matrix
+- MandelaEffect
+- lawofattraction
+- fived
+- occult
+- deadchildren
+- DimensionalJumping2
+- LucidDreaming
+- Retconned
+- weirdway
+- DMT
+- Salvia
+- holofractal
+- conspiracy
+- sounding
+- todayilearned
+- Cogsuite
+- nosleep
+- thecatdimension
+---

@@ -1,0 +1,24 @@
+---
+title: starcraft
+crosslinks:
+- allthingsprotoss
+- allthingszerg
+- AllThingsTerran
+- livven
+- StarcraftCirclejerk
+- dedgaem
+- DotA2
+- xkcd
+- starcraft2
+- LivestreamFail
+- heroesofthestorm
+- place
+- leagueoflegends
+- Overwatch
+- autotldr
+- Destiny
+- Games
+- Guildwars2
+- iamverysmart
+- Competitiveoverwatch
+---

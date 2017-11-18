@@ -1,0 +1,5 @@
+---
+title: ShittyInputs
+crosslinks:
+- livven
+---

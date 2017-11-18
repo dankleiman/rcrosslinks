@@ -1,0 +1,5 @@
+---
+title: TitanfallFanArt
+crosslinks:
+- titanfall
+---

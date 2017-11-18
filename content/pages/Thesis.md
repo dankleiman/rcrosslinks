@@ -1,0 +1,5 @@
+---
+title: Thesis
+crosslinks:
+- Academicreadwrite
+---

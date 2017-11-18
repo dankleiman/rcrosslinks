@@ -1,0 +1,24 @@
+---
+title: nihilism
+crosslinks:
+- Existentialism
+- misanthropy
+- antinatalism
+- Pessimism
+- xkcd
+- Polycentric_Law
+- Fichte
+- askscience
+- Christianity
+- nihilistmemes
+- soccer
+- u_Hmz_786
+- childfree
+- Mindfulness
+- positivenihilism
+- sociopath
+- islam
+- anarchy
+- nomorals
+- friendlynihilism
+---

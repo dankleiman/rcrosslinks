@@ -1,0 +1,5 @@
+---
+title: hotsconcepts
+crosslinks:
+- heroesofthestorm
+---

@@ -1,0 +1,5 @@
+---
+title: scammers
+crosslinks:
+- UniversalScammerList
+---

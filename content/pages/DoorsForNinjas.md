@@ -1,0 +1,5 @@
+---
+title: DoorsForNinjas
+crosslinks:
+- CrappyDesign
+---

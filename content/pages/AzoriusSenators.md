@@ -1,0 +1,5 @@
+---
+title: AzoriusSenators
+crosslinks:
+- SWGalaxyOfHeroes
+---

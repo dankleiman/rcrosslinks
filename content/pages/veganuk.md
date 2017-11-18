@@ -1,0 +1,5 @@
+---
+title: veganuk
+crosslinks:
+- vegan
+---

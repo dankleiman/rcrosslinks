@@ -1,0 +1,5 @@
+---
+title: VeryGoodJokes
+crosslinks:
+- TrueVeryGoodJokes
+---

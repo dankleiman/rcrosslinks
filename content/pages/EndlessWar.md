@@ -1,0 +1,24 @@
+---
+title: EndlessWar
+crosslinks:
+- autotldr
+- antiwar
+- conspiracy
+- WayOfTheBern
+- worldpolitics
+- TrueReddit
+- GreenTea_Party
+- syriancivilwar
+- QualitySocialism
+- trumpregret
+- pics
+- POLITIC
+- politics
+- DeclineofUS
+- Anarchism
+- medicine
+- snowden
+- worldnews
+- AntiMSM
+- Political_Revolution
+---

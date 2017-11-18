@@ -1,0 +1,21 @@
+---
+title: PlaceCurators
+crosslinks:
+- place
+- TheBlueCorner
+- GrowTheTree
+- hungary
+- starryknights
+- anime_irl
+- thefinalclean
+- mylittlepony
+- RocketLeague
+- portugal
+- Anarchism
+- osugame
+- touhou
+- imaginedragons
+- foxes
+- skyrim
+- He_Man_Place
+---

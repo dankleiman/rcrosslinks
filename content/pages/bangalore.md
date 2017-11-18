@@ -1,0 +1,24 @@
+---
+title: bangalore
+crosslinks:
+- india
+- nyc
+- autotldr
+- kannada
+- Blogging
+- tressless
+- PokemonGoIndia
+- iamverysmart
+- IndiaNonPolitical
+- IndiaSpeaks
+- LGBTindia
+- ethtrader
+- funny
+- xkcd
+- icm
+- pune
+- CGPGrey
+- Chennai
+- ethereum
+- Jokes
+---

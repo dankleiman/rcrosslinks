@@ -1,0 +1,5 @@
+---
+title: KawaiiMetal
+crosslinks:
+- NECRONOMIDOL
+---

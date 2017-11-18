@@ -1,0 +1,5 @@
+---
+title: TrueOS
+crosslinks:
+- linux
+---

@@ -1,0 +1,5 @@
+---
+title: germanshepard
+crosslinks:
+- BelgianMalinois
+---

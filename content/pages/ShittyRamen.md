@@ -1,0 +1,5 @@
+---
+title: ShittyRamen
+crosslinks:
+- shittyfoodporn
+---

@@ -1,0 +1,5 @@
+---
+title: WindandSolar
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: Slovenia
+crosslinks:
+- place
+- croatia
+- WorldDailyTops
+- Slovenija
+- europe
+- RotMG
+- sevnica
+- CoinBase
+- AskEurope
+- autotldr
+- argentina
+- todayilearned
+- Yugoslavia
+- Egypt
+- Divaca
+- ethereum
+- travel
+- Austria
+- amiugly
+- UpliftingNews
+---

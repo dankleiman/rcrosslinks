@@ -1,0 +1,24 @@
+---
+title: LawSchool
+crosslinks:
+- lawschooladmissions
+- livven
+- LawSchoolOutlines
+- autotldr
+- IAmA
+- law
+- Anki
+- thelawschool
+- AMAAggregator
+- The_Donald
+- uwotm8
+- laptops
+- patentlaw
+- FuckChuck
+- AskHistorians
+- muacjdiscussion
+- Drama
+- SuggestALaptop
+- Marriage
+- thinkpad
+---

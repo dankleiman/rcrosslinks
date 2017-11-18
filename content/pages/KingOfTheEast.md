@@ -1,0 +1,5 @@
+---
+title: KingOfTheEast
+crosslinks:
+- NFCEast
+---

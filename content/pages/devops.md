@@ -1,0 +1,21 @@
+---
+title: devops
+crosslinks:
+- sysadmin
+- golang
+- programming
+- docker
+- xkcd
+- microsoft
+- Python
+- linuxadmin
+- aws
+- CoinBase
+- devopscomic
+- plaintext
+- Twitch
+- causeWhyNotMate
+- explainlikeimfive
+- chriswastaken
+- jenkins
+---

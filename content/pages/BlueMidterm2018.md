@@ -1,0 +1,24 @@
+---
+title: BlueMidterm2018
+crosslinks:
+- autotldr
+- Political_Revolution
+- Enough_Sanders_Spam
+- RalphNortham
+- politics
+- esist
+- justicedemocrats
+- SandersForPresident
+- EnoughTrumpSpam
+- PoliticalDiscussion
+- AMAAggregator
+- AntiTrumpAlliance
+- democrats
+- xkcd
+- BetoORourke
+- WayOfTheBern
+- IAmA
+- The_Donald
+- BlueBridge
+- kamala_for_president
+---

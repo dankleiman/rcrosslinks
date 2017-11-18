@@ -1,0 +1,5 @@
+---
+title: AskRedditCringe
+crosslinks:
+- CringeAnarchy
+---

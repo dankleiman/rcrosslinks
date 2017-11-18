@@ -1,0 +1,24 @@
+---
+title: coloringcorruptions
+crosslinks:
+- furry_irl
+- xkcd
+- law13
+- simps
+- HomestarRunner
+- Teleshits
+- NotHowDrugsWork
+- Kanye
+- WtSSTaDaMiT
+- replications
+- dankchristianmemes
+- Coloring
+- happy
+- zeronet
+- Vore
+- childfree
+- AskOuija
+- MGTOW
+- HighQualityGifs
+- unexpectedjihad
+---

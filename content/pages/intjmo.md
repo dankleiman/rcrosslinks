@@ -1,0 +1,5 @@
+---
+title: intjmo
+crosslinks:
+- intj
+---

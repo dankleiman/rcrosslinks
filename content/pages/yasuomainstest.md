@@ -1,0 +1,5 @@
+---
+title: yasuomainstest
+crosslinks:
+- YasuoMains
+---

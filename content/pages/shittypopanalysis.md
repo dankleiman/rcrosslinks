@@ -1,0 +1,5 @@
+---
+title: shittypopanalysis
+crosslinks:
+- Kanye
+---

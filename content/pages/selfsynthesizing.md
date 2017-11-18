@@ -1,0 +1,5 @@
+---
+title: selfsynthesizing
+crosslinks:
+- microgrowery
+---

@@ -1,0 +1,24 @@
+---
+title: mac
+crosslinks:
+- apple
+- applehelp
+- autotldr
+- hackintosh
+- osx
+- hardwareswap
+- MacOS
+- eGPU
+- xkcd
+- macapps
+- technology
+- livven
+- applecirclejerk
+- outrun
+- macpro
+- Windows10
+- Twitch
+- OSXBeta
+- HighQualityGifs
+- dcss
+---

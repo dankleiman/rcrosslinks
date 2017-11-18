@@ -1,0 +1,22 @@
+---
+title: AskGameMasters
+crosslinks:
+- rpg
+- DnDBehindTheScreen
+- DnD
+- DMAcademy
+- DnDGreentext
+- dndnext
+- dndgreentext
+- UnearthedArcana
+- KULTrpg
+- DMToolkit
+- lfg
+- gaming
+- mattcolville
+- mapmaking
+- RPGdesign
+- anima
+- exalted
+- wargaming
+---

@@ -1,0 +1,5 @@
+---
+title: Zersetzung
+crosslinks:
+- neuro
+---

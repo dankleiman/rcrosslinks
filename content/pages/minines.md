@@ -1,0 +1,21 @@
+---
+title: minines
+crosslinks:
+- nesclassicmods
+- nintendo
+- Whatcouldgowrong
+- NintendoSwitch
+- miniSNES
+- apple
+- 2rhs7ix
+- Switch
+- livven
+- nes
+- technology
+- AskReddit
+- OkCupid
+- RetroPie
+- snesclassicedition
+- autotldr
+- Bitcoin
+---

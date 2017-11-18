@@ -1,0 +1,5 @@
+---
+title: Sapienism
+crosslinks:
+- autotldr
+---

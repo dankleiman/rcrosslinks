@@ -1,0 +1,24 @@
+---
+title: verizon
+crosslinks:
+- VerizonUDP
+- Sprint
+- autotldr
+- ATT
+- Fios
+- NoContract
+- apple
+- GooglePixel
+- technology
+- HomeNetworking
+- googlepixel
+- ImGoingToHellForThis
+- GalaxyS7
+- carriers
+- help
+- Android
+- nexus6p
+- S7Edge
+- personalfinance
+- Moto_Z
+---

@@ -1,0 +1,5 @@
+---
+title: explainlikeimapeasant
+crosslinks:
+- AskReddit
+---

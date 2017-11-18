@@ -1,0 +1,24 @@
+---
+title: POLITIC
+crosslinks:
+- autotldr
+- conspiracy
+- postnationalist
+- WhereIsAssange
+- AnythingGoesNews
+- The_Donald
+- shills
+- worldpolitics
+- news
+- politics
+- Ask_Politics
+- livven
+- WikiLeaks
+- me_irl
+- worldnews
+- JulianAssangeIsDead
+- causeWhyNotMate
+- Political_Revolution
+- AdviceAnimals
+- WayOfTheBern
+---

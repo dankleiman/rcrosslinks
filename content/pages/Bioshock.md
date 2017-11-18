@@ -1,0 +1,24 @@
+---
+title: Bioshock
+crosslinks:
+- gaming
+- HalfLife
+- Aquariums
+- xkcd
+- iamversmart
+- cosplay
+- Serendipity
+- livven
+- whatever
+- AskReddit
+- cosplaygirls
+- GreenLattice
+- dontdeadopeninside
+- mallninjashit
+- FrontPage
+- IAmA
+- AsABlackMan
+- GamingDetails
+- witcher
+- worldnews
+---

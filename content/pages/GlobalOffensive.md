@@ -1,0 +1,24 @@
+---
+title: GlobalOffensive
+crosslinks:
+- NoParticipation
+- headphones
+- livven
+- DotA2
+- RecruitCS
+- Steam
+- leagueoflegends
+- gaming
+- FACEITcom
+- CSeventVODs
+- BrasilOnReddit
+- pcmasterrace
+- OpTicGaming
+- xkcd
+- Windows10
+- csmapmakers
+- titlegore
+- LivestreamFail
+- Overwatch
+- AskReddit
+---

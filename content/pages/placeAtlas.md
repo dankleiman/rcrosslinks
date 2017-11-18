@@ -1,0 +1,24 @@
+---
+title: placeAtlas
+crosslinks:
+- place
+- thefinalclean
+- northernlion
+- Tetris
+- Wales
+- redditores
+- placeportalpattern
+- jeuxvideo
+- CelticFC
+- '1825'
+- SiliconValleyHBO
+- xkcd
+- runescape
+- pace
+- spacex
+- WorldofTanks
+- FlashTV
+- linuxmasterrace
+- PurplePixels
+- Israel
+---

@@ -1,0 +1,5 @@
+---
+title: GreenSquad
+crosslinks:
+- Wildlands
+---

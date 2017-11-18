@@ -1,0 +1,5 @@
+---
+title: SamuraiJackMemes
+crosslinks:
+- livven
+---

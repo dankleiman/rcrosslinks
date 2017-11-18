@@ -1,0 +1,24 @@
+---
+title: whiteknighting
+crosslinks:
+- niceguys
+- CringeAnarchy
+- IAmA
+- OkCupid
+- gatekeeping
+- pussypassdenied
+- legaladvice
+- AskReddit
+- SignalYourVirtue
+- whowouldwin
+- DeepFriedMemes
+- LiveFromNewYork
+- KarmaConspiracy
+- thatHappened
+- creepyPMs
+- TrollXChromosomes
+- TiADiscussion
+- sjwhate
+- swordorsheath
+- Feminism
+---

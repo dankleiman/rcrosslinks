@@ -1,0 +1,5 @@
+---
+title: TwoDeeArt
+crosslinks:
+- Pixiv
+---

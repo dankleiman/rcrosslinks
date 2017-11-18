@@ -1,0 +1,5 @@
+---
+title: fuuny
+crosslinks:
+- livven
+---

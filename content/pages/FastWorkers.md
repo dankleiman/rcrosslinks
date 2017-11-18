@@ -1,0 +1,24 @@
+---
+title: FastWorkers
+crosslinks:
+- videos
+- gifs
+- livven
+- oddlysatisfying
+- Serendipity
+- grilledcheese
+- mildlysatisfying
+- interestingasfuck
+- perfectloops
+- TheSimpsons
+- KnightsOfPineapple
+- spotthevegan
+- UNBGBBIIVCHIDCTIICBG
+- unexpectedhogwarts
+- asianeats
+- SwordOrSheath
+- asianpeoplegifs
+- jesuschristreddit
+- ArtisanVideos
+- Frugal_Jerk
+---

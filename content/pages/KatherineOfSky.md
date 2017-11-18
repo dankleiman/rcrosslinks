@@ -1,0 +1,5 @@
+---
+title: KatherineOfSky
+crosslinks:
+- factorio
+---

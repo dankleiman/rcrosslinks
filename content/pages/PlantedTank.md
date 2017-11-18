@@ -1,0 +1,24 @@
+---
+title: PlantedTank
+crosslinks:
+- Aquariums
+- AquaSwap
+- livven
+- Jarrariums
+- shrimptank
+- aquaswap
+- whatsthisplant
+- plantedtanks
+- plantedtankchampions
+- ecology
+- interestingasfuck
+- Aquascape
+- xkcd
+- Portland
+- aquariums
+- JosVermeulen
+- uglyduckling
+- Pyongyang
+- AquaticSnails
+- 2007scape
+---

@@ -1,0 +1,5 @@
+---
+title: ESObuilds
+crosslinks:
+- elderscrollsonline
+---

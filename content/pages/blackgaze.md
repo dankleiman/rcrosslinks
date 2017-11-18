@@ -1,0 +1,5 @@
+---
+title: blackgaze
+crosslinks:
+- Whitemorgue
+---

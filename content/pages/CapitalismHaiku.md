@@ -1,0 +1,5 @@
+---
+title: CapitalismHaiku
+crosslinks:
+- LateStageCapitalism
+---

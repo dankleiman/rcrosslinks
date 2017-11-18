@@ -1,0 +1,5 @@
+---
+title: sodaboy
+crosslinks:
+- myfavoritefriends
+---

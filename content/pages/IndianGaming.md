@@ -1,0 +1,24 @@
+---
+title: IndianGaming
+crosslinks:
+- Steam
+- pcmasterrace
+- india
+- Amd
+- GameDeals
+- nvidia
+- microsoftsoftwareswap
+- linux_gaming
+- G502MasterRace
+- PS4Deals
+- Overwatch
+- SuggestALaptop
+- IGSRep
+- patientgamers
+- pcgaming
+- MouseReview
+- firetvstick
+- Warthunder
+- PS4
+- Monitors
+---

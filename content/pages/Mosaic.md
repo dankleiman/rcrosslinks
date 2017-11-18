@@ -1,0 +1,5 @@
+---
+title: Mosaic
+crosslinks:
+- WhatIsThisPainting
+---

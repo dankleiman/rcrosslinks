@@ -1,0 +1,5 @@
+---
+title: thecoldwar
+crosslinks:
+- autotldr
+---

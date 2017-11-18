@@ -1,0 +1,5 @@
+---
+title: Buddism
+crosslinks:
+- Buddhism
+---

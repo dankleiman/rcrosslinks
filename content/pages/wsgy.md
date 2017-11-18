@@ -1,0 +1,24 @@
+---
+title: wsgy
+crosslinks:
+- 4chan
+- CadenMoranDairy
+- AskReddit
+- taylorswiftarmpit
+- The_Donald
+- Jokes
+- Drama
+- TheRedPill
+- politics
+- TrueReddit
+- ImGoingToHellForThis
+- london
+- pxifrm
+- explainlikeimfive
+- TheWaterLew
+- todayilearned
+- 4ChanMeta
+- Anti4chan
+- altright
+- Chiafriend12Dairy
+---

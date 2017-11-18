@@ -1,0 +1,5 @@
+---
+title: toiletsofeurope
+crosslinks:
+- funny
+---

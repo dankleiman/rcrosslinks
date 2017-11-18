@@ -1,0 +1,24 @@
+---
+title: UBC
+crosslinks:
+- vancouver
+- place
+- livven
+- xkcd
+- canada
+- uwaterloo
+- AskReddit
+- science
+- ShadowBan
+- UofT
+- metaUBC
+- GetMotivated
+- simonfraser
+- Israel
+- uCinci
+- Pyongyang
+- EatCheapAndHealthy
+- ethtrader
+- premed
+- chelseafc
+---

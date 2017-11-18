@@ -1,0 +1,5 @@
+---
+title: KanMusuNights
+crosslinks:
+- pantsu
+---

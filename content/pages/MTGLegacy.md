@@ -1,0 +1,22 @@
+---
+title: MTGLegacy
+crosslinks:
+- magicTCG
+- magicthecirclejerking
+- nicfitmtg
+- mtgfinance
+- MTGO
+- Pauper
+- casual
+- pathofexile
+- CasualMTG
+- CompetitiveHS
+- autotldr
+- mtgalters
+- EDH
+- MTGDredge
+- AskReddit
+- PhotoshopRequest
+- modernmtg
+- iowagamers
+---

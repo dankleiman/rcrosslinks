@@ -1,0 +1,5 @@
+---
+title: KBO
+crosslinks:
+- korea
+---

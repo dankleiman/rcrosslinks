@@ -1,0 +1,5 @@
+---
+title: Subguns
+crosslinks:
+- all
+---

@@ -1,0 +1,24 @@
+---
+title: BadSocialScience
+crosslinks:
+- videos
+- xkcd
+- AskEconomics
+- AskAnthropology
+- IAmA
+- samharris
+- pics
+- Drama
+- againstmensrights
+- Anarcho_Capitalism
+- AgainstTheChimpire
+- AskFeminists
+- Economics
+- Incels
+- TiADiscussion
+- Documentaries
+- WhiteRights
+- MensRights
+- AskSocialScience
+- COMPLETEANARCHY
+---

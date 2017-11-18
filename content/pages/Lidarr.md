@@ -1,0 +1,5 @@
+---
+title: Lidarr
+crosslinks:
+- Comandarr
+---

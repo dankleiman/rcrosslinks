@@ -1,0 +1,21 @@
+---
+title: askseddit
+crosslinks:
+- seduction
+- relationship_advice
+- niceguys
+- suicidewatch
+- amiugly
+- TheRedPill
+- AskReddit
+- howtonotgiveafuck
+- ExplainMyDownvotes
+- careerguidance
+- getdisciplined
+- AskMen
+- Tinder
+- Anxiety
+- PickUpTorrents
+- asktrp
+- dating_advice
+---

@@ -1,0 +1,24 @@
+---
+title: awesome
+crosslinks:
+- pics
+- gifs
+- interestingasfuck
+- funny
+- videos
+- autotldr
+- mildlyinteresting
+- aww
+- nevertellmetheodds
+- IAmA
+- likeus
+- '2013'
+- Frisson
+- Unexpected
+- UpvotedBecauseGirl
+- ysrudlsforfpsJSB
+- hapas
+- HighQualityGifs
+- coaxedintoasnafu
+- geek
+---

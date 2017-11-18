@@ -1,0 +1,5 @@
+---
+title: EthnicRedPill
+crosslinks:
+- TheBluePill
+---

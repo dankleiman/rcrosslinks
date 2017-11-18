@@ -1,0 +1,24 @@
+---
+title: CadenMoranDiary
+crosslinks:
+- RoastMe
+- AskReddit
+- funny
+- electronicmusic
+- EnoughTrumpSpam
+- 1200isplenty
+- Jelqing
+- tha_pit
+- hapas
+- lowlevelaware
+- Incels
+- hmmm
+- heresy
+- conspiracy
+- cringe
+- skyrim
+- atheism
+- pointofview
+- electricvehicles
+- PamtriTheory
+---

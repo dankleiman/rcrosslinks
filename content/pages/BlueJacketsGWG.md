@@ -1,0 +1,5 @@
+---
+title: BlueJacketsGWG
+crosslinks:
+- BlueJackets
+---

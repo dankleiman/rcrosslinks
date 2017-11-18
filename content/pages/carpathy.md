@@ -1,0 +1,5 @@
+---
+title: carpathy
+crosslinks:
+- cars
+---

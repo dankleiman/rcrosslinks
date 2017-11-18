@@ -1,0 +1,5 @@
+---
+title: USArugby
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: navynursing
+crosslinks:
+- autotldr
+---

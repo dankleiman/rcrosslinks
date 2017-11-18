@@ -1,0 +1,5 @@
+---
+title: WarMetal
+crosslinks:
+- Metal
+---

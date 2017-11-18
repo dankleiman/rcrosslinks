@@ -1,0 +1,5 @@
+---
+title: RICE
+crosslinks:
+- japan
+---

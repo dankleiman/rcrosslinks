@@ -1,0 +1,5 @@
+---
+title: Utilitarianism
+crosslinks:
+- philosophy
+---

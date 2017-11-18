@@ -1,0 +1,24 @@
+---
+title: mexico
+crosslinks:
+- autotldr
+- TechoBlanco
+- Ardidos
+- place
+- worldnews
+- livven
+- NopalTech
+- Monterrey
+- MilitaryPorn
+- LatinoPeopleTwitter
+- xkcd
+- AskHistorians
+- AskReddit
+- soymuyinteligente
+- tijuana
+- mexicocriollo
+- The_Donald
+- MapPorn
+- MexicoCity
+- pics
+---

@@ -1,0 +1,5 @@
+---
+title: dlang
+crosslinks:
+- programming
+---

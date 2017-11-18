@@ -1,0 +1,5 @@
+---
+title: EmilyVanCamp
+crosslinks:
+- ladiesofthemcu
+---

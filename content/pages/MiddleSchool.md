@@ -1,0 +1,5 @@
+---
+title: MiddleSchool
+crosslinks:
+- titlegore
+---

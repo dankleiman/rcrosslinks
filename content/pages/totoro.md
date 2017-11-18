@@ -1,0 +1,5 @@
+---
+title: totoro
+crosslinks:
+- place
+---

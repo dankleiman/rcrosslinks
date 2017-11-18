@@ -1,0 +1,5 @@
+---
+title: GosuMicro
+crosslinks:
+- starcraft
+---

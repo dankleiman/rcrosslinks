@@ -1,0 +1,5 @@
+---
+title: BloodGulchRP
+crosslinks:
+- vegasquadrantrp
+---

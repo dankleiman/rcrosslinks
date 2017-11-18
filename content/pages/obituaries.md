@@ -1,0 +1,5 @@
+---
+title: obituaries
+crosslinks:
+- autotldr
+---

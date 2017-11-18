@@ -1,0 +1,5 @@
+---
+title: hacks
+crosslinks:
+- hacking
+---

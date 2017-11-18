@@ -1,0 +1,5 @@
+---
+title: ShittyPhilosophy
+crosslinks:
+- Serendipity
+---

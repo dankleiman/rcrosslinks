@@ -1,0 +1,5 @@
+---
+title: Asheboro
+crosslinks:
+- NorthCarolina
+---

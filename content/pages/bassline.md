@@ -1,0 +1,5 @@
+---
+title: bassline
+crosslinks:
+- synthrecipes
+---

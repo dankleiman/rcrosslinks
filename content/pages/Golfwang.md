@@ -1,0 +1,5 @@
+---
+title: Golfwang
+crosslinks:
+- tylerthecreator
+---

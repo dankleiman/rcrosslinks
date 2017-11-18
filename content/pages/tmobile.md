@@ -1,0 +1,24 @@
+---
+title: tmobile
+crosslinks:
+- verizon
+- GalaxyS8
+- Sprint
+- GCXRep
+- Android
+- autotldr
+- GooglePixel
+- ProjectFi
+- legaladvice
+- ATT
+- carriers
+- GalaxyNote8
+- NoContract
+- Nexus6P
+- iphone
+- xkcd
+- GalaxyS7
+- AppleWatch
+- BurningMan
+- apple
+---

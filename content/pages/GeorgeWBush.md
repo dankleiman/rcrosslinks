@@ -1,0 +1,5 @@
+---
+title: GeorgeWBush
+crosslinks:
+- WatchRedditDie
+---

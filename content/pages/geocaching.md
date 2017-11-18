@@ -1,0 +1,22 @@
+---
+title: geocaching
+crosslinks:
+- geocachingpuzzles
+- geocache
+- xkcd
+- mildlyinteresting
+- Serendipity
+- autotldr
+- AskReddit
+- unexpectedrunescape
+- HelpMeFind
+- Suomi
+- TeenDeveloper
+- modnews
+- Winnipeg
+- motherofallpuzzles
+- gps
+- creepy
+- Wrangler
+- mildlypenis
+---

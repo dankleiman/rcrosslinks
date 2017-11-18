@@ -1,0 +1,5 @@
+---
+title: KindMovieCritic
+crosslinks:
+- horror
+---

@@ -1,0 +1,5 @@
+---
+title: LongitudeLatitude
+crosslinks:
+- politics
+---

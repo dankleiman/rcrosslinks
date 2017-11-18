@@ -1,0 +1,24 @@
+---
+title: overclocking
+crosslinks:
+- Amd
+- nvidia
+- pcmasterrace
+- intel
+- hardwareswap
+- pcgaming
+- Battlefield
+- AyyMD
+- cemu
+- hackintosh
+- TheoryOfReddit
+- NZXT
+- litecoinmining
+- Corsair
+- radeon
+- Overwatch
+- iamsosmart
+- Planetside
+- funny
+- me_irl
+---

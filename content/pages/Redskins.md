@@ -1,0 +1,24 @@
+---
+title: Redskins
+crosslinks:
+- nfl
+- livven
+- NFL_Draft
+- highqualitygifs
+- nflstreams
+- StLouisRams
+- reddit_stream
+- caps
+- 49ers
+- politics
+- washingtonwizards
+- nflcirclejerk
+- whitepeoplegifs
+- sports
+- FrenchWestIndies
+- videos
+- KirkCousins
+- eagles
+- DenverBroncos
+- SandersForPresident
+---

@@ -1,0 +1,5 @@
+---
+title: Dimethyltryptamine
+crosslinks:
+- DMT
+---

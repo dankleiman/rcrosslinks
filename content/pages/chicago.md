@@ -1,0 +1,24 @@
+---
+title: chicago
+crosslinks:
+- autotldr
+- ChicagoNWside
+- The_Donald
+- IAmA
+- livven
+- OutOfTheLoop
+- greatNWside
+- AskReddit
+- chicagofood
+- chicagohelicopters
+- ChicagoCirclejerk
+- pics
+- LateStageCapitalism
+- illinois
+- nyc
+- food
+- NegativeWithGold
+- Shitstatistssay
+- travel
+- videos
+---

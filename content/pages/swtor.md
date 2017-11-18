@@ -1,0 +1,24 @@
+---
+title: swtor
+crosslinks:
+- SWTORGuilds
+- elderscrollsonline
+- livven
+- EmpireDidNothingWrong
+- hearthstone
+- IAmA
+- ffxiv
+- StarWars
+- MMORPG
+- 2007scape
+- Serendipity
+- Gamingcirclejerk
+- help
+- swtor_trade
+- Eve
+- me_irl
+- Enhancement
+- StarWarsLeaks
+- PCMasterRace
+- microsoftsoftwareswap
+---

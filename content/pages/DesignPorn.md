@@ -1,0 +1,24 @@
+---
+title: DesignPorn
+crosslinks:
+- PornOverlords
+- ProductPorn
+- pics
+- livven
+- mildlyinteresting
+- woodworking
+- ATBGE
+- chicago
+- shittykickstarters
+- HailCorporate
+- ArchitecturePorn
+- stevenuniverse
+- ShitAmericansSay
+- francophonie
+- announcements
+- graphic_design
+- crazystairs
+- architectureporn
+- explainlikeimfive
+- kitchens
+---

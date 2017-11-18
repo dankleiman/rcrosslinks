@@ -1,0 +1,5 @@
+---
+title: customyugioh
+crosslinks:
+- yugioh
+---

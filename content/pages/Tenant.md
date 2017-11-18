@@ -1,0 +1,5 @@
+---
+title: Tenant
+crosslinks:
+- legal
+---

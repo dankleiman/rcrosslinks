@@ -1,0 +1,5 @@
+---
+title: couples
+crosslinks:
+- funny
+---

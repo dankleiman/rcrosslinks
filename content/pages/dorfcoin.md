@@ -1,0 +1,5 @@
+---
+title: dorfcoin
+crosslinks:
+- dwarffortress
+---

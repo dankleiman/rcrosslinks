@@ -1,0 +1,5 @@
+---
+title: Traeger
+crosslinks:
+- smoking
+---

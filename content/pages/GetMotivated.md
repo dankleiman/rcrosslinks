@@ -1,0 +1,24 @@
+---
+title: GetMotivated
+crosslinks:
+- getdisciplined
+- xkcd
+- IAmA
+- AskReddit
+- gaming
+- '2013'
+- mildlyinteresting
+- videos
+- The_Donald
+- Assistance
+- ShitAmericansSay
+- hatchery
+- Drugs
+- casualiama
+- aww
+- theXeffect
+- getdemotivated
+- NonZeroDay
+- HailCorporate
+- funny
+---

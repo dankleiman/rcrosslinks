@@ -1,0 +1,5 @@
+---
+title: smarter
+crosslinks:
+- undelete
+---

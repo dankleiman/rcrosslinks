@@ -1,0 +1,5 @@
+---
+title: LesPaul
+crosslinks:
+- Guitar
+---

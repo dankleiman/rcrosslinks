@@ -1,0 +1,24 @@
+---
+title: The_Donald_CA
+crosslinks:
+- The_Donald
+- autotldr
+- AskThe_Donald
+- Sacramentopede
+- all
+- SethRich
+- AskTrumpSupporters
+- tucker_carlson
+- ShitEvilModsSay
+- worldnews
+- antifa
+- The_Donald_META
+- conservatives
+- movies
+- Physical_Removal
+- livven
+- The_Donald_BayArea
+- uncensorednews
+- Bitcoin
+- EnoughTrumpSpam
+---

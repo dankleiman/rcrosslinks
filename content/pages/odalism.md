@@ -1,0 +1,5 @@
+---
+title: odalism
+crosslinks:
+- asatru
+---

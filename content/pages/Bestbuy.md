@@ -1,0 +1,24 @@
+---
+title: Bestbuy
+crosslinks:
+- Shoplifting
+- IDontWorkHereLady
+- legaladvice
+- pcmasterrace
+- technology
+- verizon
+- Target
+- iamverysmart
+- lossprevention
+- pics
+- videos
+- livven
+- Surface
+- UnethicalLifeProTips
+- offmychest
+- LifeProTips
+- GeekSquad
+- Dell
+- autotldr
+- homeautomation
+---

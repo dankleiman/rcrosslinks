@@ -1,0 +1,5 @@
+---
+title: AnkiRu
+crosslinks:
+- Anki
+---

@@ -1,0 +1,21 @@
+---
+title: mildlyamusing
+crosslinks:
+- autotldr
+- mildyinfuriating
+- livven
+- canada
+- AlGore
+- answers
+- OutOfTheLoop
+- keming
+- Drama
+- HailCorporate
+- The_Donald
+- iamverysmart
+- javacentral
+- accidentalswastika
+- consulting
+- mildlyinfuriating
+- juxtaposition
+---

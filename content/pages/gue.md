@@ -1,0 +1,5 @@
+---
+title: gue
+crosslinks:
+- atheism
+---

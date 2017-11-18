@@ -1,0 +1,5 @@
+---
+title: learnSQL
+crosslinks:
+- SQL
+---

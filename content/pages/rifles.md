@@ -1,0 +1,5 @@
+---
+title: rifles
+crosslinks:
+- Hunting
+---

@@ -1,0 +1,5 @@
+---
+title: pokemonribbons
+crosslinks:
+- pokemontrades
+---

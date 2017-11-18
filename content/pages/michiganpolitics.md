@@ -1,0 +1,5 @@
+---
+title: michiganpolitics
+crosslinks:
+- Michigan
+---

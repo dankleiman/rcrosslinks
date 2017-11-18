@@ -1,0 +1,24 @@
+---
+title: haskell
+crosslinks:
+- programming
+- NixOS
+- rust
+- haskellquestions
+- agda
+- haskelltil
+- reflexfrp
+- ocaml
+- haskell_jp
+- learnpython
+- haskellgamedev
+- KamenRider
+- purescript
+- virtualreality_linux
+- haskell_proposals
+- apple
+- haskcll
+- openstreetmap
+- xkcd
+- netsec
+---

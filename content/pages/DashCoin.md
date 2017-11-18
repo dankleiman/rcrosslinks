@@ -1,0 +1,5 @@
+---
+title: DashCoin
+crosslinks:
+- dashpay
+---

@@ -1,0 +1,5 @@
+---
+title: kfunny
+crosslinks:
+- livven
+---

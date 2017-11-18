@@ -1,0 +1,24 @@
+---
+title: CrossStitch
+crosslinks:
+- placecanada
+- place
+- serialkillers
+- OutOfTheLoop
+- gaming
+- ICanDrawThat
+- howyoudoin
+- crochet
+- grilledcheese
+- livven
+- twioat
+- london
+- rarepuppers
+- wildlypenis
+- StarWars
+- OFWGKTA
+- crafts
+- mapmaking
+- MapsWithoutNZ
+- craftexchange
+---

@@ -1,0 +1,24 @@
+---
+title: manchester
+crosslinks:
+- autotldr
+- cyclemcr
+- CasualUK
+- AccidentalRacism
+- unitedkingdom
+- gifs
+- MechanicAdvice
+- lfg
+- AskElectronics
+- ManchesterPhotography
+- tattoos
+- superleague
+- TopMindsOfReddit
+- london
+- '611'
+- ATBGE
+- ShitAmericansSay
+- PictureChallenge
+- LateStageCapitalism
+- AskUK
+---

@@ -1,0 +1,24 @@
+---
+title: freefolk
+crosslinks:
+- asoiaf
+- gameofthrones
+- livven
+- asoiafcirclejerk
+- GoTlinks
+- megalinks
+- autotldr
+- Weirwood_net
+- IAmA
+- got4spoilswar
+- MaestersoftheFreefolk
+- Dreadfort
+- REEEEEEEEEE
+- NegativeWithGold
+- zeronet
+- funny
+- fuckolly
+- AskReddit
+- gifs
+- whinyfolk
+---

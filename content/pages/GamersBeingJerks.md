@@ -1,0 +1,5 @@
+---
+title: GamersBeingJerks
+crosslinks:
+- titanfall
+---

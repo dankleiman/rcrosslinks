@@ -1,0 +1,5 @@
+---
+title: strips
+crosslinks:
+- thenetherlands
+---

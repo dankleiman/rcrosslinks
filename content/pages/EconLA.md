@@ -1,0 +1,5 @@
+---
+title: EconLA
+crosslinks:
+- autotldr
+---

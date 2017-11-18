@@ -1,0 +1,24 @@
+---
+title: marvelstudios
+crosslinks:
+- moviescirclejerk
+- DC_Cinematic
+- autotldr
+- Defenders
+- shield
+- SuperheroCirclejerk
+- livven
+- movies
+- Marvel
+- FlashTV
+- raimimemes
+- arrow
+- xkcd
+- Spiderman
+- IAmA
+- MarvelatFox
+- MovieDetails
+- AskScienceFiction
+- respectthreads
+- Earth199999
+---

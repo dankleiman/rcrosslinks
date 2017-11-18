@@ -1,0 +1,5 @@
+---
+title: GothamXXX
+crosslinks:
+- Palpz
+---

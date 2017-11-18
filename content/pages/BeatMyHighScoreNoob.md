@@ -1,0 +1,5 @@
+---
+title: BeatMyHighScoreNoob
+crosslinks:
+- Beatmatch
+---

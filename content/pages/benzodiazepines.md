@@ -1,0 +1,22 @@
+---
+title: benzodiazepines
+crosslinks:
+- researchchemicals
+- Drugs
+- opiates
+- drugscirclejerk
+- DarkNetMarkets
+- DrugStashes
+- Nootropics
+- AskReddit
+- pics
+- VHS
+- RCSources
+- Badpill
+- darknetmarkets
+- BartardStories
+- pillhead
+- ResearchChemBarter
+- DNMUK
+- NovelDissos
+---

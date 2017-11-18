@@ -1,0 +1,5 @@
+---
+title: mylittlescience
+crosslinks:
+- mylittlepony
+---

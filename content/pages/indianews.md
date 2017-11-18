@@ -1,0 +1,24 @@
+---
+title: indianews
+crosslinks:
+- autotldr
+- india
+- indiaundelete
+- IndiaSpeaks
+- indiadiscussion
+- hinduism
+- The_Donald
+- KotakuInAction
+- exmuslim
+- Uttarakhand
+- atheism
+- livven
+- worldnews
+- Nepal
+- geopolitics
+- merica
+- kuttichevuru
+- ABCDesis
+- BrasilOnReddit
+- Android
+---

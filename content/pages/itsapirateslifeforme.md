@@ -1,0 +1,5 @@
+---
+title: itsapirateslifeforme
+crosslinks:
+- kol
+---

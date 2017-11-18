@@ -1,0 +1,5 @@
+---
+title: shitire
+crosslinks:
+- ComedyCemetery
+---

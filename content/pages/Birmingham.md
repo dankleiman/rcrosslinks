@@ -1,0 +1,24 @@
+---
+title: Birmingham
+crosslinks:
+- autotldr
+- imaginarymaps
+- AskReddit
+- livven
+- NeutralPolitics
+- MLS
+- ShitPoliticsSays
+- Cumtown
+- Atlanta
+- WholesomeBirmingham
+- AskLEO
+- news
+- Chattanooga
+- atlanta
+- Bandnames
+- mycology
+- asheville
+- mash
+- recipes
+- KarmaConspiracy
+---

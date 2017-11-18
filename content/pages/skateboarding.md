@@ -1,0 +1,24 @@
+---
+title: skateboarding
+crosslinks:
+- livven
+- NewSkaters
+- projectsession
+- gatekeeping
+- newskaters
+- WTF
+- sanfrancisco
+- PanoGifs
+- BrasilOnReddit
+- copypasta
+- Drama
+- interestingasfuck
+- OldSkaters
+- AskDocs
+- momsspaghetti
+- LSD
+- BollywoodRealism
+- commentgore
+- itookapicture
+- nononono
+---

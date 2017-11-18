@@ -1,0 +1,24 @@
+---
+title: thatHappened
+crosslinks:
+- nothingeverhappens
+- AskReddit
+- nocontext
+- funny
+- xkcd
+- OutOfTheLoop
+- causeWhyNotMate
+- iamverysmart
+- tifu
+- pics
+- woooosh
+- todayilearned
+- OopsDidntMeanTo
+- Jokes
+- IAmA
+- Incels
+- nosleep
+- '2013'
+- livven
+- ComedyCemetery
+---

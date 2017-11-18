@@ -1,0 +1,24 @@
+---
+title: NFA
+crosslinks:
+- guns
+- gundeals
+- ar15
+- Glocks
+- Gunsforsale
+- AR10
+- silencers
+- GunPorn
+- progun
+- machining
+- gifs
+- iamverysmart
+- MPX
+- MOGuns
+- weekendgunnit
+- funny
+- shittyHDR
+- houston
+- 300BLK
+- OldSchoolCool
+---

@@ -1,0 +1,24 @@
+---
+title: shortscarystories
+crosslinks:
+- Painshifter
+- nosleep
+- ShortScaryStoriesOOC
+- DoverHawk
+- DarkTales
+- AlexUrwin
+- SignalHorrorFiction
+- TwoSentenceHorror
+- sleepyskeletons
+- Zchxz
+- TheAngsthaseAnthology
+- SA_Newman
+- WritingPrompts
+- Tensingstories
+- ShortSadStories
+- Wholesomenosleep
+- MikeyKnutson
+- FuckTammy
+- Handsomedevl
+- HayongNoSleep
+---

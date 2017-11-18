@@ -1,0 +1,23 @@
+---
+title: ShittyGifRecipes
+crosslinks:
+- GifRecipes
+- livven
+- ketchuphate
+- thisiswhyyourefat
+- PutAnEggOnIt
+- nocontext
+- avocadosgonewild
+- lolwat
+- AskReddit
+- memefood
+- mildlyinteresting
+- grilledcheese
+- shittyfoodporn
+- TitlePapercut
+- TheRedPill
+- pcmasterrace
+- WeWantPlates
+- StupidFood
+- france
+---

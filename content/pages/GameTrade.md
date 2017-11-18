@@ -1,0 +1,24 @@
+---
+title: GameTrade
+crosslinks:
+- indiegameswap
+- SteamGameSwap
+- IGSRep
+- GameTradeRep
+- sgsflair
+- GameSale
+- GCXRep
+- mushroomkingdom
+- WTTNVidia
+- UniversalScammerList
+- gameswap
+- RandomActsOfGaming
+- dogemarket
+- giftcardexchange
+- hardwareswap
+- ffxiv
+- gamecollecting
+- steamcoupons
+- Pins4Skins
+- gwent
+---

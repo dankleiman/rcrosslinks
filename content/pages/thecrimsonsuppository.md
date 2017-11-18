@@ -1,0 +1,5 @@
+---
+title: thecrimsonsuppository
+crosslinks:
+- TheRedPill
+---

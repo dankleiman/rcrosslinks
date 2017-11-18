@@ -1,0 +1,5 @@
+---
+title: countfaster
+crosslinks:
+- counting
+---

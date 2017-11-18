@@ -1,0 +1,24 @@
+---
+title: OSHA
+crosslinks:
+- WTF
+- xkcd
+- pics
+- watchpeopledie
+- funny
+- gifs
+- mildlyinteresting
+- Justrolledintotheshop
+- CrappyDesign
+- IAmA
+- AskReddit
+- theydidthemath
+- nocontext
+- zeronet
+- todayilearned
+- tifu
+- explainlikeimfive
+- SweatyPalms
+- ANormalDayInRussia
+- argentina
+---

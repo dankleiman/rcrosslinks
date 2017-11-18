@@ -1,0 +1,5 @@
+---
+title: FanFicCrits
+crosslinks:
+- FanFiction
+---

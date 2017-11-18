@@ -1,0 +1,5 @@
+---
+title: PandemicPolitics
+crosslinks:
+- autotldr
+---

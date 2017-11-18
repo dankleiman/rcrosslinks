@@ -1,0 +1,24 @@
+---
+title: weddingplanning
+crosslinks:
+- JUSTNOMIL
+- JustEngaged
+- wedding
+- AlternativeWeddings
+- weddingswap
+- Weddingsunder10k
+- MakeupAddiction
+- ABraThatFits
+- jewelry
+- personalfinance
+- femalefashionadvice
+- WedditNYC
+- EngagementRings
+- relationships
+- malefashionadvice
+- NewEnglandWedding
+- SkincareAddiction
+- weddingdress
+- DIY
+- Catholicism
+---

@@ -1,0 +1,24 @@
+---
+title: Egypt
+crosslinks:
+- autotldr
+- islam
+- AskReddit
+- pics
+- ancientegypt
+- ExCopticOrthodox
+- REEEEEE
+- the
+- Turkey
+- soccer
+- Psychonaut
+- Izlam
+- worldpolitics
+- TurkicHistory
+- NetflixViaVPN
+- Drama
+- patientgamers
+- FULLCOMMUNISM
+- PiratedGames
+- Anxiety
+---

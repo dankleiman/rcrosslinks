@@ -1,0 +1,5 @@
+---
+title: unexpectededucation
+crosslinks:
+- mildlyinteresting
+---

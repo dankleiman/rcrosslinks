@@ -1,0 +1,24 @@
+---
+title: datasets
+crosslinks:
+- flairer
+- place
+- xkcd
+- theydidthemath
+- datascience
+- wow
+- chess
+- SampleSize
+- AskStatistics
+- InternetIsBeautiful
+- AskReddit
+- foodscience
+- scifi
+- DataVizRequests
+- ForeverAlone
+- autotldr
+- australia
+- CFBAnalysis
+- changelog
+- BitcoinMarkets
+---

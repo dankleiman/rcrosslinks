@@ -1,0 +1,5 @@
+---
+title: PamtriTheory
+crosslinks:
+- UnexpectedHomestuck
+---

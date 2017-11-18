@@ -1,0 +1,5 @@
+---
+title: GayClownPutin
+crosslinks:
+- tifu
+---

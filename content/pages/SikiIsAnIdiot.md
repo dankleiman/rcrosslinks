@@ -1,0 +1,5 @@
+---
+title: SikiIsAnIdiot
+crosslinks:
+- REEEEEEEEEE
+---

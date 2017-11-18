@@ -1,0 +1,24 @@
+---
+title: ColinsLastStand
+crosslinks:
+- autotldr
+- kindafunny
+- KotakuInAction
+- FULLCOMMUNISM
+- EnoughTrumpSpam
+- AskHistorians
+- help
+- politics
+- TwoXChromosomes
+- EndFPTP
+- xkcd
+- Enhancement
+- PS4
+- AMAAggregator
+- samharris
+- thatwillhappen
+- changemyview
+- iamsmart
+- videos
+- thedavidpakmanshow
+---

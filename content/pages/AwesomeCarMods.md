@@ -1,0 +1,24 @@
+---
+title: AwesomeCarMods
+crosslinks:
+- ATBGE
+- UglyCarPictures
+- Shitty_Car_Mods
+- Battlecars
+- livven
+- vandwellers
+- delusionalcraigslist
+- cars
+- furry
+- RatRod
+- gatekeeping
+- ColoradoSprings
+- Corvette
+- Hookit
+- pics
+- gaming
+- HelpMeFind
+- redneckengineering
+- heep
+- WeirdWheels
+---

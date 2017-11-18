@@ -1,0 +1,5 @@
+---
+title: canoecamping
+crosslinks:
+- HikingStories
+---

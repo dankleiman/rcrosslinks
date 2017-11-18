@@ -1,0 +1,5 @@
+---
+title: PaladinsLore
+crosslinks:
+- Paladins
+---

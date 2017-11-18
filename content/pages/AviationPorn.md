@@ -1,0 +1,5 @@
+---
+title: AviationPorn
+crosslinks:
+- WarshipPorn
+---

@@ -1,0 +1,24 @@
+---
+title: SuggestALaptop
+crosslinks:
+- laptops
+- LaptopDeals
+- Lenovo
+- Dell
+- thinkpad
+- laptopama
+- techsupport
+- MSILaptops
+- hardwareswap
+- ASUS
+- stylus
+- Hewlett_Packard
+- pcmasterrace
+- Laptop
+- razer
+- UltraBooks
+- AcerAspireLaptops
+- Surface
+- eGPU
+- suggestapc
+---

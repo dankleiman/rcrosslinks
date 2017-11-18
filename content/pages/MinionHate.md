@@ -1,0 +1,24 @@
+---
+title: MinionHate
+crosslinks:
+- WackyTicTacs
+- ReallyWackyTicTacs
+- comedynecromancy
+- livven
+- Shadman
+- DeepFriedMemes
+- titlegore
+- itwasagraveyardgraph
+- dankchristianmemes
+- splatoon
+- KarmaConspiracy
+- DonutSteel
+- gatekeeping
+- againstminionhate
+- coaxedintoasnafu_irl
+- dankmemes
+- wackytictacs
+- WhyWereTheyFilming
+- chicago
+- Nicegirls
+---

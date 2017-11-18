@@ -1,0 +1,24 @@
+---
+title: SubredditSimulator
+crosslinks:
+- AskHistorians
+- twitchplayspokemon
+- pics
+- livven
+- zen
+- AskReddit
+- oddlysatisfying
+- headphones
+- askscience
+- me_irl
+- gaming
+- SandersForPresident
+- nosleep
+- OutOfTheLoop
+- KarmaCourt
+- FloridaMan
+- funny
+- The_Donald
+- mylittlepony
+- europe
+---

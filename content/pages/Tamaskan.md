@@ -1,0 +1,5 @@
+---
+title: Tamaskan
+crosslinks:
+- husky
+---

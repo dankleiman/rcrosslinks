@@ -1,0 +1,24 @@
+---
+title: communism101
+crosslinks:
+- communism
+- socialism
+- FULLCOMMUNISM
+- AskHistorians
+- SovietHistory
+- LateStageCapitalism
+- Socialism_101
+- FULLDISCOURSE
+- CapitalismFacts
+- askphilosophy
+- HailCorporate
+- RevDem
+- Rad_Decentralization
+- FindAParty
+- socialism_101
+- AskAnthropology
+- socialjustice101
+- Socialistmusic
+- MaoSpontex
+- Maoist
+---

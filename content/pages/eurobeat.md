@@ -1,0 +1,5 @@
+---
+title: eurobeat
+crosslinks:
+- OtakuVisualArts
+---

@@ -1,0 +1,24 @@
+---
+title: valve
+crosslinks:
+- HalfLife
+- DotA2
+- Portal
+- Steam
+- livven
+- Games
+- killthosewhodisagree
+- reddit_silver
+- IAmA
+- KotakuInAction
+- DataHoarder
+- taeyskadiedoaHAV
+- Serendipity
+- autotldr
+- gamedetectives
+- Physical_Removal
+- Artifact_Game
+- AMAAggregator
+- gaming
+- NECA
+---

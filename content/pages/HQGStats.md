@@ -1,0 +1,5 @@
+---
+title: HQGStats
+crosslinks:
+- HighQualityGifs
+---

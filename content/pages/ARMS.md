@@ -1,0 +1,24 @@
+---
+title: ARMS
+crosslinks:
+- NintendoSwitch
+- MasterMummyMasterRace
+- nintendo
+- livven
+- splatoon
+- Vive
+- whatisthisthing
+- Kappa
+- excgarated
+- gaming
+- anime_irl
+- OctopathTraveller
+- ARMSNSFW
+- translator
+- TwintelleMains
+- letsplay
+- AMAAggregator
+- nintendoswitch
+- WholesomePeople
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: ancientfutures
+crosslinks:
+- ByTheBookofThySelf
+---

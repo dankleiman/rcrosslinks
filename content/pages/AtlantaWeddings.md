@@ -1,0 +1,5 @@
+---
+title: AtlantaWeddings
+crosslinks:
+- Atlanta
+---

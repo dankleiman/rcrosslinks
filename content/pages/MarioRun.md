@@ -1,0 +1,5 @@
+---
+title: MarioRun
+crosslinks:
+- LineageOS
+---

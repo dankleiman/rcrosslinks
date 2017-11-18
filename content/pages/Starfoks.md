@@ -1,0 +1,5 @@
+---
+title: Starfoks
+crosslinks:
+- asstastic
+---

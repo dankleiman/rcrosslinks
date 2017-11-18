@@ -1,0 +1,5 @@
+---
+title: scrapy
+crosslinks:
+- france
+---

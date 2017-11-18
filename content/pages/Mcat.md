@@ -1,0 +1,24 @@
+---
+title: Mcat
+crosslinks:
+- premed
+- livven
+- MCATforsale
+- Anki
+- medicalschool
+- AMAAggregator
+- medicine
+- 2007scape
+- fountainpens
+- OutOfTheLoop
+- study
+- lakers
+- WTF
+- premedpirates
+- ronpaulshops
+- loseit
+- mildlyinteresting
+- LinkinPark
+- iamverysmart
+- xkcd
+---

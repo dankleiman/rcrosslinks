@@ -1,0 +1,5 @@
+---
+title: MorecambeFC
+crosslinks:
+- soccer
+---

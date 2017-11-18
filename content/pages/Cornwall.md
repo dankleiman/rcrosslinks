@@ -1,0 +1,5 @@
+---
+title: Cornwall
+crosslinks:
+- ukpolitics
+---

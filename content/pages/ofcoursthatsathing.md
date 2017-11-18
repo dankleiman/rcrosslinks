@@ -1,0 +1,5 @@
+---
+title: ofcoursthatsathing
+crosslinks:
+- ofcoursethatsathing
+---

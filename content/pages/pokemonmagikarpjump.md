@@ -1,0 +1,5 @@
+---
+title: pokemonmagikarpjump
+crosslinks:
+- MagikarpJump
+---

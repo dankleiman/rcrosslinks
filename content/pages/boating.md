@@ -1,0 +1,24 @@
+---
+title: boating
+crosslinks:
+- livven
+- BurningMan
+- metric_units
+- PrimitiveTechnology
+- LoZ
+- BlockIsland
+- HighQualityGifs
+- pics
+- Nautical
+- CalamariRaceTeam
+- Wake
+- drones
+- Justrolledintotheshop
+- sailing
+- Fishing
+- NameThatSong
+- ThingsCutInHalfPorn
+- gifs
+- ShittyLifeProTips
+- Serendipity
+---

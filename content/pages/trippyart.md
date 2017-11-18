@@ -1,0 +1,5 @@
+---
+title: trippyart
+crosslinks:
+- creepy
+---

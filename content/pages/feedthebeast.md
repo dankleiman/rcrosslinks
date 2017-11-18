@@ -1,0 +1,24 @@
+---
+title: feedthebeast
+crosslinks:
+- Minecraft
+- 1710forlife
+- xkcd
+- FeedTheBeastCrashes
+- livven
+- psispellcompendium
+- allthemods
+- factorio
+- TestPackPleaseIgnore
+- CraftOfTheTitans
+- technicalminecraft
+- SkyFactory
+- minecraftsuggestions
+- openterraingen
+- pathofexile
+- ModdingMC
+- Technode
+- excgarated
+- supercircuitmaker
+- pics
+---

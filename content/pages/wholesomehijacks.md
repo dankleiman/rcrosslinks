@@ -1,0 +1,5 @@
+---
+title: wholesomehijacks
+crosslinks:
+- funny
+---

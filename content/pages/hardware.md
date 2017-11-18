@@ -1,0 +1,24 @@
+---
+title: hardware
+crosslinks:
+- Amd
+- pcmasterrace
+- nvidia
+- intel
+- pcgaming
+- overclocking
+- 600x450
+- AMD_Stock
+- EtherMining
+- Windows10
+- oculus
+- technology
+- askscience
+- apple
+- programming
+- HomeNetworking
+- sffpc
+- Vive
+- GetMotivated
+- SuggestALaptop
+---

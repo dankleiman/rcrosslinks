@@ -1,0 +1,24 @@
+---
+title: absolutelynotmeirl
+crosslinks:
+- livven
+- AskReddit
+- meirl
+- coaxedintoasnafu
+- casualiama
+- gay_irl
+- DankMemeArchive
+- anime_irl
+- NSFW_Japan
+- theydidthemath
+- jesuschristreddit
+- continuityporn
+- DarkNetMarkets
+- GoodFakeTexts
+- 2me4meirl
+- AlphaTheA
+- Frugal_Jerk
+- memeeconomy
+- IceTSeentSomeShit
+- outrun
+---

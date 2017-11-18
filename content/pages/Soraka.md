@@ -1,0 +1,5 @@
+---
+title: Soraka
+crosslinks:
+- Pixiv
+---

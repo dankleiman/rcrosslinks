@@ -1,0 +1,5 @@
+---
+title: PMDCommunityProjects
+crosslinks:
+- MysteryDungeon
+---

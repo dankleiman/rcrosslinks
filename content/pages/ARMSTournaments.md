@@ -1,0 +1,5 @@
+---
+title: ARMSTournaments
+crosslinks:
+- ARMS
+---

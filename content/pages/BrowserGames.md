@@ -1,0 +1,5 @@
+---
+title: BrowserGames
+crosslinks:
+- playmygame
+---

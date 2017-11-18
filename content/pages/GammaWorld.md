@@ -1,0 +1,5 @@
+---
+title: GammaWorld
+crosslinks:
+- rpg
+---

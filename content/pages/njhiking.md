@@ -1,0 +1,5 @@
+---
+title: njhiking
+crosslinks:
+- nosleep
+---

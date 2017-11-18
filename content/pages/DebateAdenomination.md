@@ -1,0 +1,5 @@
+---
+title: DebateAdenomination
+crosslinks:
+- ChristianCoffeeTime
+---

@@ -1,0 +1,24 @@
+---
+title: SwordOrSheath
+crosslinks:
+- Androgynoushotties
+- roastme
+- RoastMe
+- MylifeSuxNow
+- twinks
+- Justfuckmyshitup
+- VXJunkies
+- DarkAngels
+- UnexpectedHamilton
+- nocontext
+- StardustCrusaders
+- surrealmemes
+- uglyduckling
+- funny
+- juxtaposition
+- FierceFlow
+- OnePunchMan
+- livven
+- traps
+- FinalFantasy
+---

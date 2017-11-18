@@ -1,0 +1,5 @@
+---
+title: AsahiMizuno
+crosslinks:
+- JavDownloadCenter
+---

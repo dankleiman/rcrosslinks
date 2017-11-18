@@ -1,0 +1,5 @@
+---
+title: Trueobjectivism
+crosslinks:
+- IAmA
+---

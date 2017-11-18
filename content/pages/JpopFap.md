@@ -1,0 +1,5 @@
+---
+title: JpopFap
+crosslinks:
+- Serendipity
+---

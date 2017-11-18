@@ -1,0 +1,5 @@
+---
+title: Spontaneanation
+crosslinks:
+- Earwolf
+---

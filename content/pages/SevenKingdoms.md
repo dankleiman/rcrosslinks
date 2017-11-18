@@ -1,0 +1,5 @@
+---
+title: SevenKingdoms
+crosslinks:
+- IronThronePowers
+---

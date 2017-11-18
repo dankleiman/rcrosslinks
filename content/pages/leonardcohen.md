@@ -1,0 +1,5 @@
+---
+title: leonardcohen
+crosslinks:
+- DavidBowie
+---

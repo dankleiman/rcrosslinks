@@ -1,0 +1,5 @@
+---
+title: Incorporated
+crosslinks:
+- colony
+---

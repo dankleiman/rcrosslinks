@@ -1,0 +1,24 @@
+---
+title: Shoplifting
+crosslinks:
+- RedditAlternatives
+- Stealing
+- livven
+- lossprevention
+- fakeid
+- videos
+- Flipping
+- AskReddit
+- Fraudnet2
+- Piracy
+- hardwareswap
+- The_Donald
+- RoastMe
+- turdavalanches
+- IAmA
+- ImGoingToHellForThis
+- legaladvice
+- trashy
+- AsianBeauty
+- unethicallifehacks
+---

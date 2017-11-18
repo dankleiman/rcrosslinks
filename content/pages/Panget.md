@@ -1,0 +1,5 @@
+---
+title: Panget
+crosslinks:
+- m
+---

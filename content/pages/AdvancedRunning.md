@@ -1,0 +1,24 @@
+---
+title: AdvancedRunning
+crosslinks:
+- running
+- artc
+- xkcd
+- funny
+- TaylorSwift
+- trailrunning
+- '2013'
+- me_irl
+- Fitness
+- shittylpt
+- todayilearned
+- AskReddit
+- HSTrack
+- runnersinchicago
+- dogecoin
+- arkhamhorrorlcg
+- PlantedTank
+- RunningCirclejerk
+- WAYWT
+- amileaday
+---

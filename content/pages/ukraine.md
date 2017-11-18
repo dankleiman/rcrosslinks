@@ -1,0 +1,24 @@
+---
+title: ukraine
+crosslinks:
+- autotldr
+- ukraina
+- europe
+- languagelearning
+- TurkicHistory
+- Palestine
+- place
+- TheFarLeftSide
+- Lviv
+- europeanunion
+- russia
+- ukrainian_flag
+- Ukrainian
+- AskReddit
+- changemyview
+- UkrainianConflict
+- ukrainianconflict
+- Serendipity
+- Ukie
+- imaginarymaps
+---

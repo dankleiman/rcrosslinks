@@ -1,0 +1,24 @@
+---
+title: MMORPG
+crosslinks:
+- Guildwars2
+- Games
+- WildStar
+- ffxiv
+- SecretWorldLegends
+- elderscrollsonline
+- wowservers
+- archeage
+- gamedesign
+- runescape
+- AshesofCreation
+- pathofexile
+- Eve
+- ffxi
+- 2007scape
+- gaming
+- lotro
+- crowfall
+- wow
+- Lineage2Revolution
+---

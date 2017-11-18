@@ -1,0 +1,5 @@
+---
+title: housingmarketlinks
+crosslinks:
+- artificial
+---

@@ -1,0 +1,24 @@
+---
+title: TranscribersOfReddit
+crosslinks:
+- ToR_Archive
+- ScottishPeopleTwitter
+- meirl
+- facepalm
+- HFY
+- BestOfReports
+- videos
+- funny
+- ihavesex
+- gaming
+- AskReddit
+- woahdude
+- gametales
+- kierra
+- 4chan
+- pics
+- catpictures
+- GetMotivated
+- TheoryOfReddit
+- confession
+---

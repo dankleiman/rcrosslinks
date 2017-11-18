@@ -1,0 +1,24 @@
+---
+title: OCPoetry
+crosslinks:
+- Poetry
+- EnglishHaiku
+- fifthworldpoetry
+- SimplePrompts
+- languagelearning
+- AskReddit
+- Art
+- shortstories
+- help
+- Poems
+- TheHaiku
+- ShittyPoetry
+- RoastMe
+- NormMacdonald
+- CascadaStyleSheet
+- SuicideWatch
+- WritingPrompts
+- raerth
+- SHFTZ
+- poetry_critics
+---

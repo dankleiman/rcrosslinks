@@ -1,0 +1,5 @@
+---
+title: slackerrecipes
+crosslinks:
+- spam
+---

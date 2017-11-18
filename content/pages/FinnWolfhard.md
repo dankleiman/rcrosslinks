@@ -1,0 +1,5 @@
+---
+title: FinnWolfhard
+crosslinks:
+- ItTheMovie
+---

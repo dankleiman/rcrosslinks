@@ -1,0 +1,5 @@
+---
+title: DeadGames
+crosslinks:
+- accursedfarms
+---

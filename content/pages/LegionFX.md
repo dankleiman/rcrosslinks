@@ -1,0 +1,24 @@
+---
+title: LegionFX
+crosslinks:
+- livven
+- autotldr
+- arrow
+- FlashTV
+- identifythisfont
+- television
+- tipofmytongue
+- ShittyLifeProTips
+- UnexpectedRT
+- PrequelMemes
+- IAmA
+- televisioncirclejerk
+- MarvelatFox
+- help
+- LegendsOfTomorrow
+- HighQualityGifs
+- shield
+- moviescirclejerk
+- Marvel
+- DDDJDD
+---

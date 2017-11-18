@@ -1,0 +1,5 @@
+---
+title: DeliberateBaroque
+crosslinks:
+- AccidentalRenaissance
+---

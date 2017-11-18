@@ -1,0 +1,21 @@
+---
+title: torrentrequests
+crosslinks:
+- ShareisLove
+- Gigalinks
+- FreeDownload2017
+- megalinks
+- BusinessTorrents
+- AlwaysLearningOnline
+- FreeDownload686
+- AllCanDownload
+- dndnext
+- BestLifeHack
+- Downarchive6969
+- totalwar
+- CrackWatch
+- torrentlinks
+- Piracy
+- NitroflareShare
+- torrents
+---

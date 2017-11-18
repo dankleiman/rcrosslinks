@@ -1,0 +1,5 @@
+---
+title: shittywitcher
+crosslinks:
+- witcher
+---

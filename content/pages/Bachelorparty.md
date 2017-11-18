@@ -1,0 +1,5 @@
+---
+title: Bachelorparty
+crosslinks:
+- tijuana
+---

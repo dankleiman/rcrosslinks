@@ -1,0 +1,5 @@
+---
+title: PlentyofFish
+crosslinks:
+- cringe
+---

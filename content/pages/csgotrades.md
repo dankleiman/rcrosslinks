@@ -1,0 +1,5 @@
+---
+title: csgotrades
+crosslinks:
+- csgotrade
+---

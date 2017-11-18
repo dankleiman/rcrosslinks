@@ -1,0 +1,5 @@
+---
+title: SikhSangat
+crosslinks:
+- SikhiDiscussion
+---

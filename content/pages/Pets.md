@@ -1,0 +1,24 @@
+---
+title: Pets
+crosslinks:
+- AskVet
+- dogs
+- IAmA
+- autotldr
+- puppy101
+- aww
+- personalfinance
+- Jarrariums
+- rescuedogs
+- askvet
+- RATS
+- JUSTNOMIL
+- circumcision
+- cats
+- LosAngeles
+- hapas
+- husky
+- Aquariums
+- rawpetfood
+- Goldfish
+---

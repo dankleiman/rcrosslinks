@@ -1,0 +1,24 @@
+---
+title: frugalmalefashion
+crosslinks:
+- malefashionadvice
+- goodyearwelt
+- rawdenim
+- Watches
+- FashionReps
+- search
+- Sneakers
+- metric_units
+- streetwear
+- mfa_irl
+- churning
+- BuyItForLife
+- todayilearned
+- Leathercraft
+- FrugalFemaleFashion
+- FrugalMaleFashionCDN
+- Pomade
+- ThriftStoreHauls
+- highqualitygifs
+- HighQualityGifs
+---

@@ -1,0 +1,5 @@
+---
+title: instantrage
+crosslinks:
+- Drama
+---

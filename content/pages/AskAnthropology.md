@@ -1,0 +1,24 @@
+---
+title: AskAnthropology
+crosslinks:
+- AskHistorians
+- AskAnAmerican
+- linguistics
+- askscience
+- hapas
+- history
+- etymology
+- todayilearned
+- xkcd
+- Buddhism
+- Judaism
+- science
+- AskEurope
+- Psychedelics
+- translator
+- SargonofAkkad
+- AskReddit
+- askphilosophy
+- AskScienceDiscussion
+- Brasil_reflexivo
+---

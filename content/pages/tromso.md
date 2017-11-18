@@ -1,0 +1,5 @@
+---
+title: tromso
+crosslinks:
+- norge
+---

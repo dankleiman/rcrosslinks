@@ -1,0 +1,24 @@
+---
+title: smallbusiness
+crosslinks:
+- Entrepreneur
+- startups
+- churning
+- LateStageCapitalism
+- excel
+- forhire
+- AskReddit
+- icocrypto
+- Tsiom
+- Construction
+- shittykickstarters
+- IAmA
+- EntrepreneurRideAlong
+- hotsauce
+- hackernews
+- BuyMyBusiness
+- vandwellers
+- marketing
+- Random_Acts_Of_Amazon
+- tifu
+---

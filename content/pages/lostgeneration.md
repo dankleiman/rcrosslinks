@@ -1,0 +1,24 @@
+---
+title: lostgeneration
+crosslinks:
+- LateStageCapitalism
+- BasicIncome
+- UpcomingWW3
+- studentloandefaulters
+- childfree
+- collapse
+- Economics
+- financialindependence
+- leanfire
+- magnora7
+- LosAngeles
+- Anarcho_Capitalism
+- TEFL
+- antinatalism
+- DarkFuturology
+- thorium
+- science
+- cscareerquestions
+- xkcd
+- communism101
+---

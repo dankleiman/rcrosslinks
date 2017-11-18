@@ -1,0 +1,5 @@
+---
+title: UnexpectedSCP
+crosslinks:
+- gaming
+---

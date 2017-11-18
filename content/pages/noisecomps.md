@@ -1,0 +1,5 @@
+---
+title: noisecomps
+crosslinks:
+- noisemusic
+---

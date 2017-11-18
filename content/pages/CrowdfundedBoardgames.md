@@ -1,0 +1,5 @@
+---
+title: CrowdfundedBoardgames
+crosslinks:
+- kickstarter
+---

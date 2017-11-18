@@ -1,0 +1,24 @@
+---
+title: malegrooming
+crosslinks:
+- malehairadvice
+- wicked_edge
+- Wetshaving
+- opieandanthony
+- AskDocs
+- FierceFlow
+- tressless
+- Justfuckmyshitup
+- DIYBeauty
+- Moustache
+- curlyhair
+- malefashionadvice
+- korea
+- ToupeeOrNotToupee
+- analleakage
+- MakeupAddiction
+- getdisciplined
+- EatCheapAndHealthy
+- Shave_Bazaar
+- Watches
+---

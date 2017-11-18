@@ -1,0 +1,24 @@
+---
+title: news
+crosslinks:
+- The_Donald
+- politics
+- worldnews
+- AskReddit
+- videos
+- IAmA
+- pics
+- todayilearned
+- AskHistorians
+- conspiracy
+- socialism
+- technology
+- science
+- EnoughTrumpSpam
+- explainlikeimfive
+- UpliftingNews
+- legaladvice
+- funny
+- OutOfTheLoop
+- nottheonion
+---

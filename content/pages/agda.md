@@ -1,0 +1,5 @@
+---
+title: agda
+crosslinks:
+- haskell
+---

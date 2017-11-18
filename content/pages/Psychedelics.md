@@ -1,0 +1,24 @@
+---
+title: Psychedelics
+crosslinks:
+- LSD
+- Drugs
+- mycology
+- druggardening
+- LSA
+- DMT
+- law
+- weed
+- Suomi
+- tommytext
+- place
+- 5MeODMT
+- researchchemicals
+- Psychonaut
+- darknetmarkets
+- IAmA
+- drunk
+- zyzz
+- Kava
+- AskScienceDiscussion
+---

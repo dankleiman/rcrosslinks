@@ -1,0 +1,5 @@
+---
+title: NanaMaruSanBatsu
+crosslinks:
+- manga
+---

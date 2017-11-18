@@ -1,0 +1,24 @@
+---
+title: Portland
+crosslinks:
+- askportland
+- CascadianPreppers
+- The_Donald
+- xkcd
+- oregon
+- IAmA
+- MapPorn
+- fidelitypdx
+- livven
+- AskReddit
+- circlejerkpdx
+- BatFacts
+- pdxgunnuts
+- news
+- altright
+- OutOfTheLoop
+- legaladvice
+- Awwducational
+- The_Donald_PDX
+- personalfinance
+---

@@ -1,0 +1,5 @@
+---
+title: PunkRecords
+crosslinks:
+- vinyl
+---

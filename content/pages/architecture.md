@@ -1,0 +1,24 @@
+---
+title: architecture
+crosslinks:
+- autotldr
+- ArchitectureVids
+- GeometryIsNeat
+- pics
+- Lost_Architecture
+- hometours
+- ArchitecturePorn
+- ImaginaryCityscapes
+- ScottishHistory
+- ottawa
+- MapPorn
+- whatstheword
+- rocketpunk
+- UKhistory
+- StLouis
+- LosAngeles
+- PenmanshipPorn
+- oddlysatisfying
+- IWantOut
+- VillagePorn
+---

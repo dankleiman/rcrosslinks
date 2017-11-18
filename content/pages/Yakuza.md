@@ -1,0 +1,5 @@
+---
+title: Yakuza
+crosslinks:
+- yakuzagames
+---

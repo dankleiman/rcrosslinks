@@ -1,0 +1,24 @@
+---
+title: photocritique
+crosslinks:
+- postprocessing
+- Colorado
+- itookapicture
+- photography
+- BeginnerPhotoCritique
+- photoclass2017
+- analog
+- streetphotography
+- LandscapeAstro
+- Austin
+- toronto
+- gaming
+- EarthPorn
+- aww
+- outrun
+- ExposurePorn
+- pics
+- washingtondc
+- minimalist_art
+- shittyHDR
+---

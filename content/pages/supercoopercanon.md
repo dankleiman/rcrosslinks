@@ -1,0 +1,5 @@
+---
+title: supercoopercanon
+crosslinks:
+- nosleep
+---

@@ -1,0 +1,5 @@
+---
+title: flatcore
+crosslinks:
+- corenet
+---

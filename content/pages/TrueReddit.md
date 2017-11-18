@@ -1,0 +1,24 @@
+---
+title: TrueReddit
+crosslinks:
+- autotldr
+- goodlongposts
+- ConcentrationOfWealth
+- politics
+- news
+- AskHistorians
+- worldnews
+- Drama
+- The_Donald
+- ShitAmericansSay
+- shills
+- xkcd
+- self
+- modded
+- LateStageCapitalism
+- ShitRedditSays
+- conspiracy
+- HowHumanBeingsWork
+- IAmA
+- AskReddit
+---

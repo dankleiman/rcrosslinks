@@ -1,0 +1,5 @@
+---
+title: kingdomsponge
+crosslinks:
+- KingdomHearts
+---

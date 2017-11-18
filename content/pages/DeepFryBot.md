@@ -1,0 +1,5 @@
+---
+title: DeepFryBot
+crosslinks:
+- dankmemes
+---

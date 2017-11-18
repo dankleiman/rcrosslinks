@@ -1,0 +1,5 @@
+---
+title: teenphotography
+crosslinks:
+- teenagers
+---

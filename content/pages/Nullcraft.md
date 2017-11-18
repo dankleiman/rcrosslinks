@@ -1,0 +1,5 @@
+---
+title: Nullcraft
+crosslinks:
+- Minecraft
+---

@@ -1,0 +1,24 @@
+---
+title: TinySubredditoftheDay
+crosslinks:
+- shitguncontrollerssay
+- GunsAreCool
+- metacanada
+- onguardforthee
+- TheTardoGang
+- geekheads
+- PaperAirplanes
+- vintageviral
+- metametacanada
+- someonegotfired
+- SkylerTravels
+- EasternSunRising
+- dysgraphia
+- emojis_irl
+- Investments
+- pluto
+- funwithwords
+- CinematicTrauma
+- the_macron
+- ZeroPhone
+---

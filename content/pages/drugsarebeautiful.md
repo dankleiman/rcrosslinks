@@ -1,0 +1,24 @@
+---
+title: drugsarebeautiful
+crosslinks:
+- Drugs
+- DrugStashes
+- cocaine
+- druggardening
+- trees
+- researchchemicals
+- DarkNetMarkets
+- drugs
+- Stims
+- Psychedelics
+- WEEDS
+- tooktoomuch
+- DMT
+- dxm
+- CBD
+- mallninjashit
+- livven
+- MDMA
+- drugscirclejerk
+- mildlyvagina
+---

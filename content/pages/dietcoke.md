@@ -1,0 +1,5 @@
+---
+title: dietcoke
+crosslinks:
+- cocacola
+---

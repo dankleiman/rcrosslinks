@@ -1,0 +1,5 @@
+---
+title: NamasteVapes
+crosslinks:
+- karmawhore
+---

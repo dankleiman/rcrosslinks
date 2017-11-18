@@ -1,0 +1,5 @@
+---
+title: CargoNews
+crosslinks:
+- worldnews
+---

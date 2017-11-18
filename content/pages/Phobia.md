@@ -1,0 +1,5 @@
+---
+title: Phobia
+crosslinks:
+- xkcd
+---

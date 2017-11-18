@@ -1,0 +1,24 @@
+---
+title: SargonofAkkad
+crosslinks:
+- autotldr
+- KotakuInAction
+- The_Donald
+- ukpolitics
+- worldnews
+- GamerGhazi
+- cancercollated
+- syriancivilwar
+- AskEconomics
+- JonTron
+- askphilosophy
+- tytsucks
+- ShitPoliticsSays
+- russia
+- JordanPeterson
+- Economics
+- h3h3productions
+- europe
+- LateStageCapitalism
+- theredpillright
+---

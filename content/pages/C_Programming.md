@@ -1,0 +1,24 @@
+---
+title: C_Programming
+crosslinks:
+- programming
+- learnprogramming
+- cpp
+- cpp_questions
+- dailyprogrammer
+- Cplusplus
+- macprogramming
+- autotldr
+- opengl
+- linux
+- xkcd
+- math
+- programmingcirclejerk
+- ucf
+- unrealengine
+- haskell
+- IAmA
+- coding
+- c_language
+- Cprog
+---

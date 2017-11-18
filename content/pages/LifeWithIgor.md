@@ -1,0 +1,5 @@
+---
+title: LifeWithIgor
+crosslinks:
+- zen
+---

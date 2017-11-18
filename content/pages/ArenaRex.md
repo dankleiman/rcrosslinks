@@ -1,0 +1,5 @@
+---
+title: ArenaRex
+crosslinks:
+- minipainting
+---

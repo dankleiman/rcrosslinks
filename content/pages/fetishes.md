@@ -1,0 +1,5 @@
+---
+title: fetishes
+crosslinks:
+- fetish
+---

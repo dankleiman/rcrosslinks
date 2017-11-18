@@ -1,0 +1,23 @@
+---
+title: propaganda
+crosslinks:
+- autotldr
+- ActiveMeasures
+- worldpolitics
+- legaladviceofftopic
+- Serendipity
+- WayOfTheBern
+- AskThe_Donald
+- Sino
+- societalengineering
+- ArmsControl
+- RedditAlternatives
+- latestagecapitalism
+- undelete
+- syriancivilwar
+- southafrica
+- lostgeneration
+- conspiracy
+- evolutionReddit
+- skeptic
+---

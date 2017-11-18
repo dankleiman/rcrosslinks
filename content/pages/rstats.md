@@ -1,0 +1,21 @@
+---
+title: rstats
+crosslinks:
+- RStudio
+- statistics
+- datascience
+- dae
+- Rlanguage
+- functionalprogramming
+- askscience
+- xkcd
+- rstatsmemes
+- MapPorn
+- '2013'
+- rlanguage
+- programming
+- freesoftware
+- dropdowns
+- faq
+- AskStatistics
+---

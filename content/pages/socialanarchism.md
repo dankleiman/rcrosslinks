@@ -1,0 +1,5 @@
+---
+title: socialanarchism
+crosslinks:
+- Anarchism
+---

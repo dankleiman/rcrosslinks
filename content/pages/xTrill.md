@@ -1,0 +1,24 @@
+---
+title: xTrill
+crosslinks:
+- trap
+- Flume
+- feedme
+- skrillex
+- electronicmusic
+- madeon
+- gorillaz
+- trapproduction
+- Odesza
+- grynpyret
+- 23rd_prodigy
+- Drumkits
+- Kanye
+- matzo
+- NeedVocals
+- Armanipradagucci
+- 2j1ndxe
+- lorde
+- KendrickLamar
+- Pendulum
+---

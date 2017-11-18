@@ -1,0 +1,5 @@
+---
+title: sakurasou
+crosslinks:
+- toradora
+---

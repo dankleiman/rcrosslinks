@@ -1,0 +1,5 @@
+---
+title: Eredivisie
+crosslinks:
+- vitessearnhem
+---

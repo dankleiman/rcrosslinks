@@ -1,0 +1,24 @@
+---
+title: INTP
+crosslinks:
+- intj
+- infp
+- xkcd
+- entp
+- AskReddit
+- infj
+- gatekeeping
+- TheImperialCult
+- istp
+- getdisciplined
+- 2X__INTP
+- entj
+- livven
+- IDGF
+- atheism
+- TheRedPill
+- INTPmusic
+- autotldr
+- psychology
+- TrueOffMyChest
+---

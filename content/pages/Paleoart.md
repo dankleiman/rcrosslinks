@@ -1,0 +1,5 @@
+---
+title: Paleoart
+crosslinks:
+- Illustration
+---

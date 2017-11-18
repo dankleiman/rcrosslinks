@@ -1,0 +1,23 @@
+---
+title: gameDevClassifieds
+crosslinks:
+- INAT
+- gameideas
+- livven
+- PixelBlacksmith
+- gamedev
+- Anger
+- TrailOfSamsara
+- PixelArt
+- vndevs
+- pcmasterrace
+- gaming
+- unitystation
+- duesseldorf
+- forhire
+- Games
+- LateStageCapitalism
+- gameassets
+- unity_tutorials
+- outrun
+---

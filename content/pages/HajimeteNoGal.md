@@ -1,0 +1,5 @@
+---
+title: HajimeteNoGal
+crosslinks:
+- kancolle
+---

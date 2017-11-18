@@ -1,0 +1,5 @@
+---
+title: unexpectedmetallica
+crosslinks:
+- memes
+---

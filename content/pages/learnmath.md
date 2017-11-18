@@ -1,0 +1,24 @@
+---
+title: learnmath
+crosslinks:
+- math
+- cheatatmathhomework
+- askscience
+- mentalmath
+- askmath
+- AskEconomics
+- learnprogramming
+- AskPhysics
+- HomeworkHelp
+- mathtricks
+- Jokes
+- compsci
+- German
+- matheducation
+- CasualMath
+- GRE
+- EngineeringStudents
+- GetMotivated
+- personalfinance
+- calculus
+---

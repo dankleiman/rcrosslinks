@@ -1,0 +1,5 @@
+---
+title: HerMajesty
+crosslinks:
+- BeautyQueens
+---

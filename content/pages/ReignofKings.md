@@ -1,0 +1,5 @@
+---
+title: ReignofKings
+crosslinks:
+- reignofkingsgame
+---

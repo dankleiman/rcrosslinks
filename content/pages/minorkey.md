@@ -1,0 +1,5 @@
+---
+title: minorkey
+crosslinks:
+- coversongs
+---

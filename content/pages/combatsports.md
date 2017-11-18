@@ -1,0 +1,5 @@
+---
+title: combatsports
+crosslinks:
+- NoNewsMMA
+---

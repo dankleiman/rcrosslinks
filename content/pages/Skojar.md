@@ -1,0 +1,5 @@
+---
+title: Skojar
+crosslinks:
+- autotldr
+---

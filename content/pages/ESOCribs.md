@@ -1,0 +1,5 @@
+---
+title: ESOCribs
+crosslinks:
+- elderscrollsonline
+---

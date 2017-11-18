@@ -1,0 +1,5 @@
+---
+title: footballcards
+crosslinks:
+- hockeycards
+---

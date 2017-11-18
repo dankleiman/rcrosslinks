@@ -1,0 +1,24 @@
+---
+title: indianpeoplequora
+crosslinks:
+- IndiaHumor
+- india
+- thatHappened
+- AskReddit
+- Incels
+- KenM
+- NoStupidQuestions
+- GifIndex
+- LateStageCapitalism
+- funny
+- wokekids
+- Drama
+- spacex
+- announcements
+- starterpacks
+- space
+- completeanarchy
+- theunkillnetwork
+- xkcd
+- China
+---

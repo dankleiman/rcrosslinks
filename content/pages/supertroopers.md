@@ -1,0 +1,5 @@
+---
+title: supertroopers
+crosslinks:
+- redditrequest
+---

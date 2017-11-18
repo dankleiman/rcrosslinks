@@ -1,0 +1,5 @@
+---
+title: frugalbeauty
+crosslinks:
+- SkincareAddiction
+---

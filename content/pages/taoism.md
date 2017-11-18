@@ -1,0 +1,24 @@
+---
+title: taoism
+crosslinks:
+- Buddhism
+- zen
+- askphilosophy
+- TaoistAnarchists
+- Anarchism
+- kungfu
+- philosophy
+- occult
+- pics
+- RedditForGrownups
+- religion
+- ShrugLifeSyndicate
+- nocontext
+- mildlyinteresting
+- Linky_links
+- Suomi
+- ByTheBookofThySelf
+- Meditation
+- cogsci
+- AskReddit
+---

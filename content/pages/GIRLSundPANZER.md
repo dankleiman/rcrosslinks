@@ -1,0 +1,23 @@
+---
+title: GIRLSundPANZER
+crosslinks:
+- Pixiv
+- AskHistorians
+- anime
+- livven
+- YukariAkiyama
+- TankPorn
+- translator
+- OutOfTheLoop
+- tanks
+- SCP
+- WorldofTanks
+- ProCSS
+- autotldr
+- aww
+- modelmakers
+- announcements
+- csshelp
+- REKIJOundPANZER
+- yaraon
+---

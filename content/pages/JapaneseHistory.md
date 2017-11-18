@@ -1,0 +1,5 @@
+---
+title: JapaneseHistory
+crosslinks:
+- Genealogy
+---

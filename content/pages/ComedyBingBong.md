@@ -1,0 +1,5 @@
+---
+title: ComedyBingBong
+crosslinks:
+- earwolf
+---

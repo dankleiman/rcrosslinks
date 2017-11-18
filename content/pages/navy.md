@@ -1,0 +1,24 @@
+---
+title: navy
+crosslinks:
+- newtothenavy
+- autotldr
+- Military
+- WarshipPorn
+- Amry
+- news
+- army
+- AirForce
+- PennStateUniversity
+- navyreserve
+- talesfromtechsupport
+- espionage
+- SilentService
+- DarkNetMarkets
+- xkcd
+- pics
+- USMC
+- '2013'
+- AskReddit
+- AskHistorians
+---

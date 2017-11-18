@@ -1,0 +1,5 @@
+---
+title: SYO
+crosslinks:
+- JordanPeterson
+---

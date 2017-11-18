@@ -1,0 +1,24 @@
+---
+title: GameDealsMeta
+crosslinks:
+- GameDeals
+- Games
+- Steam
+- FreeGameFindings
+- pcmasterrace
+- PS4
+- gaming
+- assholedesign
+- personalfinance
+- pcgamesales
+- PaidForWinRAR
+- GreenManGaming
+- gamedeals
+- pcgaming
+- AndroidGaming
+- paradoxplaza
+- patientgamers
+- FreeGamesOnSteam
+- SteamGameSwap
+- BundleDeals
+---

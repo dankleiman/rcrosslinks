@@ -1,0 +1,5 @@
+---
+title: LambofGod
+crosslinks:
+- Slayer
+---

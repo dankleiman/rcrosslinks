@@ -1,0 +1,24 @@
+---
+title: DMT
+crosslinks:
+- Drugs
+- Psychonaut
+- DrugsOver30
+- LSD
+- livven
+- drugscirclejerk
+- replications
+- Damokian
+- RationalPsychonaut
+- DrugNerds
+- DarkNetMarkets
+- Waxpen
+- ReagentTesting
+- Heavymind
+- holofractal
+- electronic_cigarette
+- dmtguide
+- 5MeODMT
+- TopMindsOfReddit
+- Saionara
+---

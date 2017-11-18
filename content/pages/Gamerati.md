@@ -1,0 +1,5 @@
+---
+title: Gamerati
+crosslinks:
+- autotldr
+---

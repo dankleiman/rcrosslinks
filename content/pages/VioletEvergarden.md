@@ -1,0 +1,5 @@
+---
+title: VioletEvergarden
+crosslinks:
+- anime
+---

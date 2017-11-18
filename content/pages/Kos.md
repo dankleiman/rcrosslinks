@@ -1,0 +1,5 @@
+---
+title: Kos
+crosslinks:
+- xkcd
+---

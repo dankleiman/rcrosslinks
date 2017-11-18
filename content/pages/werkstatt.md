@@ -1,0 +1,5 @@
+---
+title: werkstatt
+crosslinks:
+- synthesizers
+---

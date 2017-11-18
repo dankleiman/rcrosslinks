@@ -1,0 +1,5 @@
+---
+title: RandomMail
+crosslinks:
+- RandomActsofCards
+---

@@ -1,0 +1,24 @@
+---
+title: climbing
+crosslinks:
+- livven
+- xkcd
+- pics
+- videos
+- metric_units
+- autotldr
+- AskReddit
+- loseit
+- travel
+- adrenaline
+- AdviceAnimals
+- SweatyPalms
+- shooting_stars
+- Mountaineering
+- GripTraining
+- Fitness
+- modnews
+- AskPhysics
+- ShittyLifeProTips
+- whiskey
+---

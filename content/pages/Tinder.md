@@ -1,0 +1,24 @@
+---
+title: Tinder
+crosslinks:
+- AskReddit
+- xkcd
+- ShitRedditSays
+- IAmA
+- funny
+- seduction
+- Drama
+- Jokes
+- livven
+- jesuschristreddit
+- me_irl
+- RoastMe
+- milliondollarextreme
+- pics
+- OutOfTheLoop
+- copypasta
+- shitpost
+- vegan
+- short
+- TrollXChromosomes
+---

@@ -1,0 +1,5 @@
+---
+title: HardcoreSMP
+crosslinks:
+- Ironstone
+---

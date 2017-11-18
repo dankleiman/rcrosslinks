@@ -1,0 +1,5 @@
+---
+title: geocache
+crosslinks:
+- hiking
+---

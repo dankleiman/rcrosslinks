@@ -1,0 +1,24 @@
+---
+title: woof_irl
+crosslinks:
+- livven
+- i_irl
+- rarepuppers
+- aww
+- gifsthatendtoosoon
+- DankMemeArchive
+- Notakeonlythrow
+- Zoomies
+- Dogtraining
+- wholesome
+- askscience
+- gifs
+- dogs
+- furry_irl
+- DoingTheMost
+- 30tjn2c
+- shittydarksouls
+- childfree
+- dogsonroofs
+- dogsfakeswim
+---

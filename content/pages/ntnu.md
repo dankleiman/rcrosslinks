@@ -1,0 +1,5 @@
+---
+title: ntnu
+crosslinks:
+- ShitAmericansSay
+---

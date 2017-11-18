@@ -1,0 +1,5 @@
+---
+title: arsmagica
+crosslinks:
+- lfg
+---

@@ -1,0 +1,5 @@
+---
+title: EveryDayRide
+crosslinks:
+- BicyclingCirclejerk
+---

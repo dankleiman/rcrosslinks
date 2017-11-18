@@ -1,0 +1,5 @@
+---
+title: hockeytradeproposals
+crosslinks:
+- penguins
+---

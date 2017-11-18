@@ -1,0 +1,5 @@
+---
+title: Jcore
+crosslinks:
+- Artcore
+---

@@ -1,0 +1,24 @@
+---
+title: INDYCAR
+crosslinks:
+- formula1
+- motorsportsstreams
+- NASCAR
+- BackofthePackRacing
+- racecrashes
+- wec
+- autotldr
+- IAmA
+- interestingasfuck
+- cars
+- RaceTrackDesigns
+- ShitPoliticsSays
+- thingsforants
+- xkcd
+- livven
+- Watches
+- USCR
+- nascar
+- trees
+- F1FeederSeries
+---

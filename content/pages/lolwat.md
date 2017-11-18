@@ -1,0 +1,24 @@
+---
+title: lolwat
+crosslinks:
+- gifs
+- theocho
+- BetterEveryLoop
+- ButtSharpies
+- grandpajoehate
+- trashy
+- Fiveheads
+- simulated
+- guns
+- surrealmemes
+- shestillsucking
+- fakehistoryporn
+- dragonsfuckingcars
+- xkcd
+- whitepeoplegifs
+- mallninjashit
+- whitetrash
+- Zoomies
+- Awwducational
+- redpandas
+---

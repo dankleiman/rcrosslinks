@@ -1,0 +1,5 @@
+---
+title: thedash
+crosslinks:
+- findareddit
+---

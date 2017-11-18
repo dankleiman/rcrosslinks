@@ -1,0 +1,5 @@
+---
+title: Whatevez
+crosslinks:
+- xkcd
+---

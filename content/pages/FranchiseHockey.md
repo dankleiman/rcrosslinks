@@ -1,0 +1,5 @@
+---
+title: FranchiseHockey
+crosslinks:
+- OOTP
+---

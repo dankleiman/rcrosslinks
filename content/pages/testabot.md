@@ -1,0 +1,5 @@
+---
+title: testabot
+crosslinks:
+- test
+---

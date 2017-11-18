@@ -1,0 +1,24 @@
+---
+title: AntiTrumpAlliance
+crosslinks:
+- autotldr
+- EnoughTrumpSpam
+- all
+- BannedFromThe_Donald
+- politics
+- livven
+- BlueMidterm2018
+- esist
+- The_Donald
+- WayOfTheBern
+- milliondollarextreme
+- xkcd
+- Economics
+- The_Duped
+- MarchAgainstTrump
+- pics
+- 4chan
+- GayLunarCommune
+- popular
+- conservative
+---

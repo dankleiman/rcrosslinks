@@ -1,0 +1,5 @@
+---
+title: macmini
+crosslinks:
+- mac
+---

@@ -1,0 +1,5 @@
+---
+title: Redesigns
+crosslinks:
+- alternativeart
+---

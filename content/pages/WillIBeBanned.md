@@ -1,0 +1,5 @@
+---
+title: WillIBeBanned
+crosslinks:
+- politics
+---

@@ -1,0 +1,5 @@
+---
+title: wantsource
+crosslinks:
+- Whatcouldgowrong
+---

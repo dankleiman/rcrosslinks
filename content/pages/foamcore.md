@@ -1,0 +1,5 @@
+---
+title: foamcore
+crosslinks:
+- arkhamhorrorlcg
+---

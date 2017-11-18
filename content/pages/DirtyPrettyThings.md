@@ -1,0 +1,5 @@
+---
+title: DirtyPrettyThings
+crosslinks:
+- gonewildaudio
+---

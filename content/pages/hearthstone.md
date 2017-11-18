@@ -1,0 +1,24 @@
+---
+title: hearthstone
+crosslinks:
+- CompetitiveHS
+- customhearthstone
+- hearthstonecirclejerk
+- wildhearthstone
+- GrinningGoat
+- KFTPRDT
+- xkcd
+- IAmA
+- JUGPRDT
+- Overwatch
+- ArenaHS
+- gwent
+- wow
+- leagueoflegends
+- AskReddit
+- heroesofthestorm
+- Shadowverse
+- magicTCG
+- DotA2
+- EternalCardGame
+---

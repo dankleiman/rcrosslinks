@@ -1,0 +1,5 @@
+---
+title: nomoralup
+crosslinks:
+- newsokunomoral
+---

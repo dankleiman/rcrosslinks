@@ -1,0 +1,24 @@
+---
+title: subaru
+crosslinks:
+- XVcrosstrek
+- AutoDetailing
+- livven
+- WRX
+- ft86
+- Shitty_Car_Mods
+- Stance
+- metric_units
+- funny
+- Roadcam
+- ATBGE
+- childfree
+- RoastMyCar
+- Autos
+- WTF
+- askcarsales
+- KarmaConspiracy
+- AdviceAnimals
+- plastidip
+- gifs
+---

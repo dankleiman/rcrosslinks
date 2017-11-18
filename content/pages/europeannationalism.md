@@ -1,0 +1,24 @@
+---
+title: europeannationalism
+crosslinks:
+- autotldr
+- PussyPass
+- The_Donald
+- C_S_T
+- WhiteRights
+- IAmA
+- OutOfTheLoop
+- interestingasfuck
+- chinesepolitics
+- livven
+- PoliticalVideo
+- conspiracy
+- asatru
+- kangz
+- Drama
+- TruthLeaks
+- acloudrift
+- modnews
+- redditrequest
+- europe
+---

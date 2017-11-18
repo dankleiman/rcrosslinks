@@ -1,0 +1,5 @@
+---
+title: armchairphilosophy
+crosslinks:
+- askphilosophy
+---

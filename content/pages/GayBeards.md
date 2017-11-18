@@ -1,0 +1,5 @@
+---
+title: GayBeards
+crosslinks:
+- SmallYTChannel
+---

@@ -1,0 +1,24 @@
+---
+title: falcons
+crosslinks:
+- nfl
+- livven
+- Patriots
+- detroitlions
+- Atlanta
+- AtlantaHawks
+- Saints
+- GreenBayPackers
+- Seahawks
+- place
+- seahawks
+- CHIBears
+- nflstreams
+- minnesotavikings
+- 49ers
+- Braves
+- OutOfTheLoop
+- DenverBroncos
+- metric_units
+- BIRDTEAMS
+---

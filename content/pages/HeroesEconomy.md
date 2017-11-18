@@ -1,0 +1,5 @@
+---
+title: HeroesEconomy
+crosslinks:
+- heroesofthestorm
+---

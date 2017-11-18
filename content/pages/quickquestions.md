@@ -1,0 +1,5 @@
+---
+title: quickquestions
+crosslinks:
+- whatstheword
+---

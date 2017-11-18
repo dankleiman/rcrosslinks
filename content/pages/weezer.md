@@ -1,0 +1,24 @@
+---
+title: weezer
+crosslinks:
+- shyvanamains
+- radiohead
+- livven
+- WeezerCircleJerk
+- indieheads
+- surrealmemes
+- gatekeeping
+- JonTron
+- Kanye
+- IAmA
+- greenday
+- tf2
+- starterpacks
+- me_irl
+- DeepFriedMemes
+- Baditude
+- pics
+- Nirvana
+- contentawarescale
+- placestart
+---

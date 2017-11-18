@@ -1,0 +1,24 @@
+---
+title: PS4
+crosslinks:
+- PS4Deals
+- gaming
+- horizon
+- DestinyTheGame
+- Gamingcirclejerk
+- Games
+- PSVR
+- livven
+- PS4Pro
+- RedditAlternatives
+- PlayStationPlus
+- EliteDangerous
+- forhonor
+- NoMansSkyTheGame
+- titanfall
+- Overwatch
+- witcher
+- masseffect
+- PSW
+- Nioh
+---

@@ -1,0 +1,5 @@
+---
+title: ltc
+crosslinks:
+- litecoin
+---

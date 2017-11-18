@@ -1,0 +1,5 @@
+---
+title: aerialphotography
+crosslinks:
+- japanpics
+---

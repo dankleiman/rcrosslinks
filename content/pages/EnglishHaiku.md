@@ -1,0 +1,5 @@
+---
+title: EnglishHaiku
+crosslinks:
+- SimplePrompts
+---

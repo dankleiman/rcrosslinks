@@ -1,0 +1,24 @@
+---
+title: teslamotors
+crosslinks:
+- autotldr
+- xkcd
+- HighStakesTeslaMotors
+- electricvehicles
+- spacex
+- cars
+- Roadcam
+- IAmA
+- SpaceXMasterrace
+- RealTesla
+- naut
+- personalfinance
+- videos
+- place
+- metric_units
+- BoringCompany
+- livven
+- elonmusk
+- NegativeWithGold
+- leaf
+---

@@ -1,0 +1,5 @@
+---
+title: intensifies
+crosslinks:
+- ProgrammerHumor
+---

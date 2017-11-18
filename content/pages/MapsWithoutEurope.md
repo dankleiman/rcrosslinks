@@ -1,0 +1,5 @@
+---
+title: MapsWithoutEurope
+crosslinks:
+- ShittyMapPorn
+---

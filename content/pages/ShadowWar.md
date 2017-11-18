@@ -1,0 +1,5 @@
+---
+title: ShadowWar
+crosslinks:
+- OutOfTheLoop
+---

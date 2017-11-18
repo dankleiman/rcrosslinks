@@ -1,0 +1,21 @@
+---
+title: againstmensrights
+crosslinks:
+- MensRights
+- GenderCritical
+- GamerGhazi
+- australia
+- IAmA
+- MRMorWhiteRights
+- Intactivists
+- AskFeminists
+- Feminism
+- unpopularopinion
+- upliftingnewsforwomen
+- nottheonion
+- MGTOW
+- The_Donald
+- TheRealMisandry
+- TheRedPill
+- AsABlackMan
+---

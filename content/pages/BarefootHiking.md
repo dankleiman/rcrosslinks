@@ -1,0 +1,5 @@
+---
+title: BarefootHiking
+crosslinks:
+- BarefootRunning
+---

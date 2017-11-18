@@ -1,0 +1,5 @@
+---
+title: badreligion
+crosslinks:
+- chomsky
+---

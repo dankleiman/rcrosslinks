@@ -1,0 +1,5 @@
+---
+title: PlannedMemeEconomy
+crosslinks:
+- FULLCOMMUNISM
+---

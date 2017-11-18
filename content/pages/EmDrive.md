@@ -1,0 +1,22 @@
+---
+title: EmDrive
+crosslinks:
+- Physics_AWT
+- autotldr
+- Physics
+- askscience
+- xkcd
+- curiosityrover
+- holofractal
+- science
+- TheExpanse
+- qthruster
+- UFOs
+- space
+- Redskins
+- AskReddit
+- awwwtf
+- LENR
+- worldnews
+- QThruster
+---

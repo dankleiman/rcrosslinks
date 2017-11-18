@@ -1,0 +1,5 @@
+---
+title: lawfail
+crosslinks:
+- autotldr
+---

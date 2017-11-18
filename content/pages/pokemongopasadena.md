@@ -1,0 +1,5 @@
+---
+title: pokemongopasadena
+crosslinks:
+- pokemongola
+---

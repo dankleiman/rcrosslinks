@@ -1,0 +1,24 @@
+---
+title: HowToHack
+crosslinks:
+- hacking
+- netsec
+- LiveOverflow
+- xkcd
+- learnpython
+- OpenToAllCTFteam
+- AskNetsec
+- FindMeADistro
+- privacy
+- Malware
+- tecknowledge
+- AskReddit
+- PokemonROMhacks
+- romhacking
+- learnprogramming
+- CrazyIdeas
+- masterhacker
+- asknetsec
+- RBI
+- SurfaceLinux
+---

@@ -1,0 +1,24 @@
+---
+title: NEET
+crosslinks:
+- AskReddit
+- Fraudnet2
+- NEETByChoice
+- autotldr
+- LateStageCapitalism
+- freelanceWriters
+- ShrugLifeSyndicate
+- amiugly
+- xkcd
+- economicCollapse
+- casualiama
+- flipping
+- childfree
+- nosleep
+- unpopularopinion
+- mexico
+- SuicideWatch
+- digitalnomad
+- getdisciplined
+- depression
+---

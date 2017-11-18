@@ -1,0 +1,5 @@
+---
+title: OKState
+crosslinks:
+- laptops
+---

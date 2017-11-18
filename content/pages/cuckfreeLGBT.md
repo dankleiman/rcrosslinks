@@ -1,0 +1,5 @@
+---
+title: cuckfreeLGBT
+crosslinks:
+- autotldr
+---

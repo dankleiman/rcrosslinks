@@ -1,0 +1,5 @@
+---
+title: pokemongocos
+crosslinks:
+- TheSilphRoad
+---

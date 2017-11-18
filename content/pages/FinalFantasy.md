@@ -1,0 +1,24 @@
+---
+title: FinalFantasy
+crosslinks:
+- FFXV
+- ffxiv
+- dissidia
+- ffxi
+- FFRecordKeeper
+- FinalFantasyXII
+- livven
+- france
+- Gamingcirclejerk
+- KingdomHearts
+- OtakuVisualArts
+- xdfp
+- place
+- Games
+- FFXII
+- JRPG
+- ProCSS
+- ChronoCross
+- modnews
+- Pixiv
+---

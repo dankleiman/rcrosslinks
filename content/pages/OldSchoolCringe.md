@@ -1,0 +1,5 @@
+---
+title: OldSchoolCringe
+crosslinks:
+- OldSchoolCool
+---

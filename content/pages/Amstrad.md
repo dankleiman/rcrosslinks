@@ -1,0 +1,5 @@
+---
+title: Amstrad
+crosslinks:
+- retrocomputing
+---

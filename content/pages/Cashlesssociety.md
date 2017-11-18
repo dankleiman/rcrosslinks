@@ -1,0 +1,5 @@
+---
+title: Cashlesssociety
+crosslinks:
+- autotldr
+---

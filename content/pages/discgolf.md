@@ -1,0 +1,24 @@
+---
+title: discgolf
+crosslinks:
+- livven
+- discexchange
+- discdyeing
+- ATLdiscgolf
+- discgolfcirclejerk
+- funny
+- metric_units
+- EnoughTrumpSpam
+- interestingasfuck
+- ultimate
+- gifs
+- ApostrophePatrol
+- theocho
+- newzealand
+- videography
+- seattlediscgolf
+- unexpectedfactorial
+- hmmm
+- fountainpens
+- modnews
+---

@@ -1,0 +1,5 @@
+---
+title: FULLDOGCOMMUNISM
+crosslinks:
+- FULLCOMMUNISM
+---

@@ -1,0 +1,5 @@
+---
+title: heraldrycirclejerk
+crosslinks:
+- PropagandaPosters
+---

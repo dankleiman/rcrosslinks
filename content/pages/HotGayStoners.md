@@ -1,0 +1,5 @@
+---
+title: HotGayStoners
+crosslinks:
+- LGBTrees
+---

@@ -1,0 +1,5 @@
+---
+title: Protectorate
+crosslinks:
+- Warmachine
+---

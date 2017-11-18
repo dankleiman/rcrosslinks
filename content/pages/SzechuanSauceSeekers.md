@@ -1,0 +1,24 @@
+---
+title: SzechuanSauceSeekers
+crosslinks:
+- rickandmorty
+- autotldr
+- HailCorporate
+- Harmontown
+- KeepOurNetFree
+- LosAngeles
+- videos
+- europeannationalism
+- tifu
+- teentitans
+- OutOfTheLoop
+- technology
+- trees
+- atmidnight
+- announcements
+- AskReddit
+- ShitPoliticsSays
+- Against_Astroturfing
+- nintendo
+- politics
+---

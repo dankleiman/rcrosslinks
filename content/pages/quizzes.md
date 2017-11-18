@@ -1,0 +1,5 @@
+---
+title: quizzes
+crosslinks:
+- Badquizzes
+---

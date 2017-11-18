@@ -1,0 +1,24 @@
+---
+title: de_IAmA
+crosslinks:
+- de
+- Serendipity
+- Finanzen
+- Exmormonen
+- BOS_de
+- IAmA
+- the_schulz
+- TopMindsOfReddit
+- Die_Alternative
+- casualiama
+- Incels
+- asexuality
+- exzj
+- BMW
+- FrenchForeignLegion
+- announcements
+- edefreiheit
+- Austria
+- Fitness
+- iamverysmart
+---

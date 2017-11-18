@@ -1,0 +1,5 @@
+---
+title: GuroSougou
+crosslinks:
+- livven
+---

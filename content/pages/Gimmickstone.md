@@ -1,0 +1,5 @@
+---
+title: Gimmickstone
+crosslinks:
+- hearthstone
+---

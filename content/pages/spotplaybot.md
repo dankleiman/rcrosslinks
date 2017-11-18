@@ -1,0 +1,5 @@
+---
+title: spotplaybot
+crosslinks:
+- electronicmusic
+---

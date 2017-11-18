@@ -1,0 +1,5 @@
+---
+title: Szaszism
+crosslinks:
+- Antipsychiatry
+---

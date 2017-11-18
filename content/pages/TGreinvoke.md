@@ -1,0 +1,5 @@
+---
+title: TGreinvoke
+crosslinks:
+- TokyoGhoulGames
+---

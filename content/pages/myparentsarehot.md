@@ -1,0 +1,5 @@
+---
+title: myparentsarehot
+crosslinks:
+- OldSchoolCool
+---

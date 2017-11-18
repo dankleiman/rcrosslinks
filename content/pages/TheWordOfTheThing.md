@@ -1,0 +1,5 @@
+---
+title: TheWordOfTheThing
+crosslinks:
+- comics
+---

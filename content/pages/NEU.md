@@ -1,0 +1,24 @@
+---
+title: NEU
+crosslinks:
+- BostonU
+- Huskers
+- sooners
+- Thicc
+- place
+- ApplyingToCollege
+- placeAtlas
+- LateStageCapitalism
+- trees
+- vim
+- nexus6
+- livven
+- AskReddit
+- movies
+- pcmasterrace
+- autotldr
+- redditrequest
+- userexperience
+- KState
+- TexasTech
+---

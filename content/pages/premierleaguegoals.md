@@ -1,0 +1,5 @@
+---
+title: premierleaguegoals
+crosslinks:
+- TVGolo
+---

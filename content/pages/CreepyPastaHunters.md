@@ -1,0 +1,5 @@
+---
+title: CreepyPastaHunters
+crosslinks:
+- nosleep
+---

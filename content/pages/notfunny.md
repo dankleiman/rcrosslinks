@@ -1,0 +1,5 @@
+---
+title: notfunny
+crosslinks:
+- livven
+---

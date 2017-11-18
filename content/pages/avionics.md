@@ -1,0 +1,5 @@
+---
+title: avionics
+crosslinks:
+- flying
+---

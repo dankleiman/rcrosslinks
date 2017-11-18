@@ -1,0 +1,24 @@
+---
+title: psychology
+crosslinks:
+- autotldr
+- science
+- neuro
+- politics
+- conspiracy
+- askscience
+- standupshots
+- AskSocialScience
+- Psychiatry
+- askpsychology
+- JordanPeterson
+- childfree
+- xkcd
+- LifeAfterNarcissism
+- LifeProTips
+- microdosing
+- Assistance
+- AskReddit
+- SargonofAkkad
+- mildlyinteresting
+---

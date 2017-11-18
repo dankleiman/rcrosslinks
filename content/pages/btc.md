@@ -1,0 +1,24 @@
+---
+title: btc
+crosslinks:
+- Bitcoin
+- tippr
+- autotldr
+- Buttcoin
+- BitcoinMarkets
+- ethereum
+- litecoin
+- Bitcoin_Exposed
+- Bitcoincash
+- ethtrader
+- Monero
+- CryptoCurrency
+- BitcoinCashLol
+- Blockstreams
+- BCore
+- BitcoinABC
+- ethereumfraud
+- livven
+- xkcd
+- dashpay
+---

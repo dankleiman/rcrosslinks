@@ -1,0 +1,5 @@
+---
+title: ANormalDayInBrazil
+crosslinks:
+- WTF
+---

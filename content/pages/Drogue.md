@@ -1,0 +1,5 @@
+---
+title: Drogue
+crosslinks:
+- france
+---

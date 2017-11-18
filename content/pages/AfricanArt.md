@@ -1,0 +1,5 @@
+---
+title: AfricanArt
+crosslinks:
+- whatisthisthing
+---

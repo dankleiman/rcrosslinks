@@ -1,0 +1,5 @@
+---
+title: daria
+crosslinks:
+- SickSadWorld
+---

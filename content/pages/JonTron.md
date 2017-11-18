@@ -1,0 +1,24 @@
+---
+title: JonTron
+crosslinks:
+- The_Donald
+- livven
+- KotakuInAction
+- ShitAmericansSay
+- politics
+- ConspiracyGrumps
+- OutOfTheLoop
+- xkcd
+- Kanye
+- ECHi
+- AskReddit
+- PrequelMemes
+- AsABlackMan
+- GamerGhazi
+- Destiny
+- Kaiserreich
+- FULLCOMMUNISM
+- h3h3productions
+- KarmaCourt
+- videogamedunkey
+---

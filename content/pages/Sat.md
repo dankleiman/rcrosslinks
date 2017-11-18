@@ -1,0 +1,22 @@
+---
+title: Sat
+crosslinks:
+- ApplyingToCollege
+- ACT
+- OutOfTheLoop
+- me_irl
+- livven
+- IBO
+- grammar
+- funny
+- iamverysmart
+- collegeresults
+- unexpectedfactorial
+- AskReddit
+- teenagers
+- FashionReps
+- psat
+- SATStudyBuddyGroup
+- AMAAggregator
+- APStudents
+---

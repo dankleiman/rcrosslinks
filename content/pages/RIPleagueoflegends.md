@@ -1,0 +1,5 @@
+---
+title: RIPleagueoflegends
+crosslinks:
+- leagueoflegends
+---

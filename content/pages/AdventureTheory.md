@@ -1,0 +1,5 @@
+---
+title: AdventureTheory
+crosslinks:
+- adventuretime
+---

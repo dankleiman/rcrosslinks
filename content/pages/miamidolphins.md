@@ -1,0 +1,24 @@
+---
+title: miamidolphins
+crosslinks:
+- nfl
+- place
+- livven
+- NFL_Draft
+- reddit_stream
+- CoalitionAgainstEvil
+- detroitlions
+- steelers
+- nflstreams
+- ungulateteams
+- LosAngelesRams
+- masseffect
+- Patriots
+- EvilLeagueOfEvil
+- reactiongifs
+- Saints
+- Miami
+- xkcd
+- WiiUHacks
+- placestart
+---

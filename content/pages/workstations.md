@@ -1,0 +1,5 @@
+---
+title: workstations
+crosslinks:
+- macsetups
+---

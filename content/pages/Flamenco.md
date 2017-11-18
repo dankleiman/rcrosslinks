@@ -1,0 +1,5 @@
+---
+title: Flamenco
+crosslinks:
+- pics
+---

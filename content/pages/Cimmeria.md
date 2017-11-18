@@ -1,0 +1,5 @@
+---
+title: Cimmeria
+crosslinks:
+- Lovecraft
+---

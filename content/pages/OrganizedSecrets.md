@@ -1,0 +1,5 @@
+---
+title: OrganizedSecrets
+crosslinks:
+- nosleep
+---

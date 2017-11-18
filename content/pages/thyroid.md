@@ -1,0 +1,5 @@
+---
+title: thyroid
+crosslinks:
+- Hypothyroidism
+---

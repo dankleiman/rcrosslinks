@@ -1,0 +1,5 @@
+---
+title: gachimuchi
+crosslinks:
+- forsen
+---

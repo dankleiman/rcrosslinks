@@ -1,0 +1,5 @@
+---
+title: LatexLucy
+crosslinks:
+- livven
+---

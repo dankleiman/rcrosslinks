@@ -1,0 +1,5 @@
+---
+title: dictionary
+crosslinks:
+- learnprogramming
+---

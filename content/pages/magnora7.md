@@ -1,0 +1,21 @@
+---
+title: magnora7
+crosslinks:
+- conspiracy
+- C_S_T
+- collapse
+- lostgeneration
+- undelete
+- whatisthisthing
+- GoldandBlack
+- Political_Revolution
+- ConspiracyII
+- ShrugLifeSyndicate
+- New_Movement
+- CryptoCurrency
+- autotldr
+- c_s_t
+- science
+- worldpolitics
+- kotakuinaction
+---

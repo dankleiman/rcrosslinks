@@ -1,0 +1,5 @@
+---
+title: CrucibleSherpa
+crosslinks:
+- Fireteams
+---

@@ -1,0 +1,5 @@
+---
+title: canwc
+crosslinks:
+- homestuck
+---

@@ -1,0 +1,5 @@
+---
+title: midquelmemes
+crosslinks:
+- InterquelMemes
+---

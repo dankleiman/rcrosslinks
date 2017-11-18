@@ -1,0 +1,24 @@
+---
+title: SocialEngineering
+crosslinks:
+- autotldr
+- ActLikeYouBelong
+- videos
+- hiphopheads
+- societalengineering
+- Advice
+- espionage
+- StopGaming
+- microdosing
+- pawns
+- VXJunkies
+- shills
+- nihilism
+- xkcd
+- toronto
+- sociopath
+- SpaceXMasterrace
+- artificial
+- howtonotgiveafuck
+- conspiracy
+---

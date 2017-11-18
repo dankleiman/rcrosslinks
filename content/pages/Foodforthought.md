@@ -1,0 +1,24 @@
+---
+title: Foodforthought
+crosslinks:
+- worldpolitics
+- LateStageCapitalism
+- Missing411
+- AskSocialScience
+- science
+- likeus
+- IAmA
+- todayilearned
+- BasicIncome
+- news
+- linguistics
+- The_Donald
+- magicskyfairy
+- SanctionedSuicide
+- foodforthough
+- BuyItForLife
+- TheoryOfReddit
+- changemyview
+- veganfitness
+- mississippi
+---

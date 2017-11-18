@@ -1,0 +1,24 @@
+---
+title: ABCDesis
+crosslinks:
+- pics
+- india
+- islam
+- pakistan
+- Brampton
+- The_Donald
+- changemyview
+- collapse
+- explainlikeimfive
+- news
+- yoga
+- tax
+- Drama
+- RealEstate
+- ComedyIndia
+- Political_Revolution
+- C25K
+- IndiaSpeaks
+- funny
+- houston
+---

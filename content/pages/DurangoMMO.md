@@ -1,0 +1,5 @@
+---
+title: DurangoMMO
+crosslinks:
+- DurangoWildLands
+---

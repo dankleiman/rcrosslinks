@@ -1,0 +1,5 @@
+---
+title: STOGround
+crosslinks:
+- sto
+---

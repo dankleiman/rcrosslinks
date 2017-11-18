@@ -1,0 +1,24 @@
+---
+title: democrats
+crosslinks:
+- help
+- BlueMidterm2018
+- politics
+- WayOfTheBern
+- Political_Revolution
+- Enough_Sanders_Spam
+- PoliticsReport
+- hillaryclinton
+- The_Donald
+- AutoNewspaper
+- CringeAnarchy
+- ResistEveryDay
+- Democrats2020
+- justicedemocrats
+- MarchForScience
+- dirtypenpals
+- BernieSanders
+- usmc
+- Trump_Martial_Law
+- '2012'
+---

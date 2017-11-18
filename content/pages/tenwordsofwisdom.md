@@ -1,0 +1,5 @@
+---
+title: tenwordsofwisdom
+crosslinks:
+- xkcd
+---

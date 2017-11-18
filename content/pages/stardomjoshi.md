@@ -1,0 +1,5 @@
+---
+title: stardomjoshi
+crosslinks:
+- SquaredCircle
+---

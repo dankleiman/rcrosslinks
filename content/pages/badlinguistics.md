@@ -1,0 +1,24 @@
+---
+title: badlinguistics
+crosslinks:
+- AskReddit
+- linguistics
+- languagelearning
+- conlangs
+- todayilearned
+- LearnJapanese
+- europe
+- Showerthoughts
+- BlackPeopleTwitter
+- BadEverything
+- ShitAmericansSay
+- history
+- ChineseLanguage
+- gameofthrones
+- Foodforthought
+- iamverysmart
+- changemyview
+- French
+- classicalmusic
+- CringeAnarchy
+---

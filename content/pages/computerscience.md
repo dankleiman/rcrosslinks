@@ -1,0 +1,24 @@
+---
+title: computerscience
+crosslinks:
+- learnprogramming
+- autotldr
+- cscareerquestions
+- SuggestALaptop
+- programming
+- dailyprogrammer
+- xkcd
+- hackintosh
+- MLQuestions
+- tiwikwis
+- AskProgramming
+- APStudents
+- selfhosted
+- VirginiaTech
+- EngineeringStudents
+- theydidthemath
+- explainlikeimfive
+- programminghomework
+- dailyprogrammer_ideas
+- learnpython
+---

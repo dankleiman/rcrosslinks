@@ -1,0 +1,5 @@
+---
+title: CantUnseeIt
+crosslinks:
+- funny
+---

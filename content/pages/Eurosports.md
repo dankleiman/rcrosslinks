@@ -1,0 +1,5 @@
+---
+title: Eurosports
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: Latino
+crosslinks:
+- autotldr
+---

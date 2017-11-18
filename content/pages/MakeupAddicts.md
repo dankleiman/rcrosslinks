@@ -1,0 +1,5 @@
+---
+title: MakeupAddicts
+crosslinks:
+- MakeupAddiction
+---

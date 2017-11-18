@@ -1,0 +1,5 @@
+---
+title: fastlinkstest
+crosslinks:
+- aww
+---

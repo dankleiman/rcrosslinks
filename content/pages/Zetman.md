@@ -1,0 +1,5 @@
+---
+title: Zetman
+crosslinks:
+- manga
+---

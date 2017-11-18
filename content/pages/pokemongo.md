@@ -1,0 +1,24 @@
+---
+title: pokemongo
+crosslinks:
+- TheSilphRoad
+- pokemongodev
+- Ingress
+- pokemongocirclejerk
+- PokemonGOIVs
+- PokemonGoSnap
+- pokemon
+- GoIV
+- thesilphroad
+- GoPlus
+- pokemongoLondon
+- autotldr
+- gaming
+- AskReddit
+- xkcd
+- PokemonGoAnywhere
+- PKGOAtlanta
+- PokemonGoPositive
+- PokemonGOToronto
+- funny
+---

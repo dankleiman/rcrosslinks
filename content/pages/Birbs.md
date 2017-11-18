@@ -1,0 +1,24 @@
+---
+title: Birbs
+crosslinks:
+- livven
+- parrots
+- pics
+- gifs
+- PartyParrot
+- AnimalSounds
+- OutOfTheLoop
+- NatureIsFuckingLit
+- hmmm
+- dicks
+- PetDoves
+- cockatiel
+- poultry
+- wikiwhat
+- PeopleFuckingDying
+- mildlyinteresting
+- howtonotgiveafuck
+- metalgearsolid
+- MonsterHunter
+- fuckop
+---

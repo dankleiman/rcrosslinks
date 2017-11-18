@@ -1,0 +1,24 @@
+---
+title: mtgfinance
+crosslinks:
+- magicTCG
+- spikes
+- EDH
+- magicthecirclejerking
+- CompetitiveEDH
+- mtgmarketwatch
+- PucaTrade
+- oldschoolmtg
+- cardsphere
+- ModernMagic
+- MagicCardPulls
+- Serendipity
+- Drama
+- livven
+- derp
+- magictcg
+- ScryGlass
+- leaves
+- personalfinance
+- legaladvice
+---

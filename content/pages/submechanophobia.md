@@ -1,0 +1,24 @@
+---
+title: submechanophobia
+crosslinks:
+- livven
+- interestingasfuck
+- HeavySeas
+- WarshipPorn
+- SweatyPalms
+- MilitaryPorn
+- WTF
+- IdiotsNearlyDying
+- tiltshift
+- pics
+- propellerporn
+- gifs
+- CatastrophicFailure
+- findareddit
+- gifsthatendtoosoon
+- EngineeringPorn
+- DeepFriedMemes
+- TheDepthsBelow
+- popping
+- RoomPorn
+---

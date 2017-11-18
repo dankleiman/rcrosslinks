@@ -1,0 +1,5 @@
+---
+title: MyHeroAcademia
+crosslinks:
+- BokuNoHeroAcademia
+---

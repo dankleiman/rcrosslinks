@@ -1,0 +1,24 @@
+---
+title: weightroom
+crosslinks:
+- Fitness
+- powerlifting
+- weightroomcontests
+- Strongman
+- gzcl
+- nSuns
+- xxfitness
+- fitness
+- AdvancedFitness
+- homegym
+- gainit
+- TheDollop
+- nattyorjuice
+- Weakpots
+- crossfit
+- weightlifting
+- necromancers
+- judo
+- swoleacceptance
+- fatness
+---

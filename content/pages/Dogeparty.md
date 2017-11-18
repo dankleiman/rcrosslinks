@@ -1,0 +1,5 @@
+---
+title: Dogeparty
+crosslinks:
+- xdp
+---

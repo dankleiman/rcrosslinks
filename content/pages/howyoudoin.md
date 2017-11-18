@@ -1,0 +1,24 @@
+---
+title: howyoudoin
+crosslinks:
+- pics
+- livven
+- me_irl
+- JoeRogan
+- HIMYM
+- whitepeoplegifs
+- minimalism
+- ProgrammerHumor
+- videos
+- gifs
+- aww
+- funny
+- todayilearned
+- minorkey
+- changemyview
+- hiphopheads
+- FUCK_United_Airlines
+- maryland
+- Episodes
+- FanTheories
+---

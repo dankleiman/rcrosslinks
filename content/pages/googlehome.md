@@ -1,0 +1,24 @@
+---
+title: googlehome
+crosslinks:
+- homeautomation
+- tasker
+- amazonecho
+- autotldr
+- homeassistant
+- Chromecast
+- Android
+- xkcd
+- india
+- ActionsOnGoogle
+- gpmdp
+- metric_units
+- Hue
+- google_home
+- nodered
+- google
+- StarWars
+- googlehomede
+- swzre0
+- nest
+---

@@ -1,0 +1,24 @@
+---
+title: AnimalsBeingJerks
+crosslinks:
+- gifs
+- NSFWFunny
+- xkcd
+- PeopleFuckingDying
+- aww
+- funny
+- AskReddit
+- AnimalTextGifs
+- videos
+- UpvotedBecauseGirl
+- PartyParrot
+- cars
+- cats
+- BetterEveryLoop
+- explainlikeimfive
+- ChildrenFallingOver
+- WTF
+- pics
+- OutOfTheLoop
+- nocontext
+---

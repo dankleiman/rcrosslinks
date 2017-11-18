@@ -1,0 +1,5 @@
+---
+title: TheSocialistLeague
+crosslinks:
+- RadicalFeminism
+---

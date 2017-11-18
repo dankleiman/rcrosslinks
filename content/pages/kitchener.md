@@ -1,0 +1,21 @@
+---
+title: kitchener
+crosslinks:
+- waterloo
+- uwaterloo
+- Fitness
+- LawCanada
+- im14andthisisedgy
+- Dashcam
+- n64
+- DesirePaths
+- powerlifting
+- uoguelph
+- canadacordcutters
+- homegym
+- Conestoga
+- ImagesOfNewYork
+- canada
+- Roadcam
+- MMAStreams
+---

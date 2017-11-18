@@ -1,0 +1,5 @@
+---
+title: mopeioIDEAAndDESIGNS
+crosslinks:
+- mopeioideas
+---

@@ -1,0 +1,5 @@
+---
+title: WarriorsOfLux
+crosslinks:
+- KingdomHearts
+---

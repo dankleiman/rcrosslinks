@@ -1,0 +1,24 @@
+---
+title: tea
+crosslinks:
+- teasales
+- teaexchange
+- treas
+- livven
+- tea_irl
+- puer
+- translator
+- askscience
+- muglife
+- TeaPorn
+- CupOnMe
+- HailCorporate
+- xkcd
+- TeaPictures
+- Kava
+- ThriftStoreHauls
+- autotldr
+- nocontext
+- GongFuTea
+- Bandnames
+---

@@ -1,0 +1,5 @@
+---
+title: chinafuturism
+crosslinks:
+- ImaginaryFuturism
+---

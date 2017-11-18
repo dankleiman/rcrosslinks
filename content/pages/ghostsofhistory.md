@@ -1,0 +1,5 @@
+---
+title: ghostsofhistory
+crosslinks:
+- halifax
+---

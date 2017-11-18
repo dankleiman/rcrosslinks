@@ -1,0 +1,24 @@
+---
+title: laptops
+crosslinks:
+- SuggestALaptop
+- Dell
+- thinkpad
+- Hewlett_Packard
+- Lenovo
+- LaptopDeals
+- techsupport
+- razer
+- hardwareswap
+- Laptop
+- ASUS
+- technology
+- techsupportmacgyver
+- me_irl
+- Surface
+- Amd
+- MSILaptops
+- autotldr
+- eGPU
+- chromeos
+---

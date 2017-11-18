@@ -1,0 +1,5 @@
+---
+title: asianart
+crosslinks:
+- japanart
+---

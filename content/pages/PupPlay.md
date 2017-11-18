@@ -1,0 +1,5 @@
+---
+title: PupPlay
+crosslinks:
+- Serendipity
+---

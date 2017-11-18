@@ -1,0 +1,5 @@
+---
+title: Freezerburners
+crosslinks:
+- RWBY
+---

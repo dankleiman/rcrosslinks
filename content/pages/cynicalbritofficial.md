@@ -1,0 +1,24 @@
+---
+title: cynicalbritofficial
+crosslinks:
+- Games
+- patientgamers
+- JimSterling
+- Xcom
+- xkcd
+- IAmA
+- pcmasterrace
+- aww
+- naut
+- roguelikes
+- PrettyGirls
+- GameDeals
+- WorldofTanks
+- KotakuInAction
+- GameDealsMeta
+- GamerGhazi
+- starcraft
+- pcgaming
+- gaming
+- lego
+---

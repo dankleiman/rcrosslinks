@@ -1,0 +1,5 @@
+---
+title: FuckAquamarine
+crosslinks:
+- stevenuniverse
+---

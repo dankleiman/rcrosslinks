@@ -1,0 +1,5 @@
+---
+title: LidlUS
+crosslinks:
+- aldi
+---

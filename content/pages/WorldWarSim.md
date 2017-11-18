@@ -1,0 +1,5 @@
+---
+title: WorldWarSim
+crosslinks:
+- xPowers
+---

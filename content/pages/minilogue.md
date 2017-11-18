@@ -1,0 +1,5 @@
+---
+title: minilogue
+crosslinks:
+- synthesizers
+---

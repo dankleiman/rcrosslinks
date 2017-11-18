@@ -1,0 +1,5 @@
+---
+title: cockwombles
+crosslinks:
+- Thinking
+---

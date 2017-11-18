@@ -1,0 +1,24 @@
+---
+title: trippinthroughtime
+crosslinks:
+- trippingthroughtime
+- Incels
+- AskReddit
+- AskHistorians
+- gatekeeping
+- hijackers
+- strippinthroughtime
+- FuckTammy
+- hatchery
+- livven
+- lifehacks
+- ComedyCemetery
+- museum
+- TooMeIrlForMeIrl
+- WordAvalanches
+- sweden
+- aww
+- hmmm
+- EnoughInternet
+- wince
+---

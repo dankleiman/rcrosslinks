@@ -1,0 +1,5 @@
+---
+title: osmium
+crosslinks:
+- Eve
+---

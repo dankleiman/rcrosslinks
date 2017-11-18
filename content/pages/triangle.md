@@ -1,0 +1,24 @@
+---
+title: triangle
+crosslinks:
+- raleigh
+- motoswap
+- NorthCarolina
+- ClaytonNC
+- trianglefood
+- autotldr
+- childfree
+- metric_units
+- gifs
+- todayilearned
+- Advice
+- science
+- BlueMidterm2018
+- canes
+- keming
+- SkyPorn
+- AskReddit
+- homestead
+- TropicalWeather
+- Winterwx
+---

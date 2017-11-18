@@ -1,0 +1,5 @@
+---
+title: thewalkingdeadcomic
+crosslinks:
+- theroamingdead
+---

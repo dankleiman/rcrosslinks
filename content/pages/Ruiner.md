@@ -1,0 +1,5 @@
+---
+title: Ruiner
+crosslinks:
+- gaming
+---

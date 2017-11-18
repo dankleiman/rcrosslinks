@@ -1,0 +1,24 @@
+---
+title: fffffffuuuuuuuuuuuu
+crosslinks:
+- hatchery
+- The_Donald
+- creepy
+- all
+- Showerthoughts
+- pcmasterrace
+- FiveYearsAgoOnReddit
+- DiWHY
+- woahdude
+- LifeProTips
+- tall
+- Drama
+- AgainstKarmaWhores
+- titlegore
+- im14andthisisdeep
+- videos
+- Astronomy
+- AskReddit
+- mildlyinfuriating
+- gaming
+---

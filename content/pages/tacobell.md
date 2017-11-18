@@ -1,0 +1,24 @@
+---
+title: tacobell
+crosslinks:
+- livven
+- autotldr
+- xkcd
+- KarmaConspiracy
+- RandomActsOfTacoBell
+- The_Dennis
+- OutOfTheLoop
+- drunkorakid
+- teenagers
+- tifu
+- Shoplifting
+- titlegore
+- churning
+- Keto_Food
+- fastfood
+- funny
+- AMAAggregator
+- jukmifgguggh
+- Whatisthis
+- AEBGT
+---

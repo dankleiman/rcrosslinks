@@ -1,0 +1,24 @@
+---
+title: Cartalk
+crosslinks:
+- AutoDetailing
+- MechanicAdvice
+- Justrolledintotheshop
+- Miata
+- oap
+- cars
+- FordFocus
+- plastidip
+- livven
+- projectcar
+- advice
+- VXJunkies
+- Hyundai
+- pics
+- unexpectedhogwarts
+- AskEngineers
+- Jeep
+- excgarated
+- autodetailing
+- BMW
+---

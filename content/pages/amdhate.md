@@ -1,0 +1,5 @@
+---
+title: amdhate
+crosslinks:
+- computers
+---

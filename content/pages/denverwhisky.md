@@ -1,0 +1,5 @@
+---
+title: denverwhisky
+crosslinks:
+- whiskyinventory
+---

@@ -1,0 +1,24 @@
+---
+title: skyrim
+crosslinks:
+- skyrimmods
+- livven
+- teslore
+- Gamingcirclejerk
+- SkyrimPorn
+- gaming
+- ElderScrolls
+- xkcd
+- shitpost
+- nocontext
+- TheElderMemesV
+- pcmasterrace
+- tf2
+- MoxdogTheWriter
+- WritingPrompts
+- skyrimrequiem
+- me_irl
+- titlegore
+- enderal
+- translator
+---

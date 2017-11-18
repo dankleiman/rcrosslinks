@@ -1,0 +1,5 @@
+---
+title: ExPentecostal
+crosslinks:
+- exmormon
+---

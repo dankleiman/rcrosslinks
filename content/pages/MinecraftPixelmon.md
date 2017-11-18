@@ -1,0 +1,5 @@
+---
+title: MinecraftPixelmon
+crosslinks:
+- Minecraft
+---

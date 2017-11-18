@@ -1,0 +1,5 @@
+---
+title: LogresGlobal
+crosslinks:
+- BattleChamps
+---

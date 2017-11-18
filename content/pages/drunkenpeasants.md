@@ -1,0 +1,24 @@
+---
+title: drunkenpeasants
+crosslinks:
+- autotldr
+- OfficialDP
+- The_Donald
+- livven
+- SargonofAkkad
+- DrunkenPeasantsDP
+- 1T6O
+- IAmA
+- Drama
+- samharris
+- creepy
+- videos
+- TAAOfficial
+- jfg
+- Economics
+- GamerGhazi
+- AskHistorians
+- KotakuInAction
+- JonTron
+- OutOfTheLoop
+---

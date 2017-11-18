@@ -1,0 +1,21 @@
+---
+title: TheRightBoycott
+crosslinks:
+- The_Donald
+- ShitThe_DonaldSays
+- KotakuInAction
+- kodi
+- ShitRedditSays
+- The_Doghouse
+- TheRightPurchase
+- grilledcheese
+- Gamingcirclejerk
+- TopMindsOfReddit
+- LivestreamFail
+- EnoughTrumpSpam
+- Trumpgret
+- xkcd
+- Addons4Kodi
+- tattoos
+- pornfree
+---

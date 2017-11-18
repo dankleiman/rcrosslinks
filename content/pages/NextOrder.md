@@ -1,0 +1,5 @@
+---
+title: NextOrder
+crosslinks:
+- digimon
+---

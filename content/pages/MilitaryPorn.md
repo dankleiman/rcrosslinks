@@ -1,0 +1,24 @@
+---
+title: MilitaryPorn
+crosslinks:
+- PornOverlords
+- eurofighterworld
+- WarshipPorn
+- rafale
+- AskHistorians
+- aviation
+- DestroyedTanks
+- syriancivilwar
+- WarplanePorn
+- pics
+- HistoryPorn
+- guns
+- MilitaryGfys
+- todayilearned
+- Military
+- navyseals
+- geopolitics
+- NoSillySuffix
+- gifs
+- WTF
+---

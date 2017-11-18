@@ -1,0 +1,24 @@
+---
+title: freelance
+crosslinks:
+- forhire
+- Entrepreneur
+- digitalnomad
+- legaladvice
+- xkcd
+- sales
+- recruitinghell
+- personalfinance
+- freelanceuk
+- games_journalism
+- design_critiques
+- Wordpress
+- Accounting
+- LegalAdviceUK
+- sysadmin
+- legal
+- freelanceWriters
+- freelancewriting
+- TranslationStudies
+- freelanceoverflow
+---

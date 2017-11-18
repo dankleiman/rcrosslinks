@@ -1,0 +1,5 @@
+---
+title: GayBroTeens
+crosslinks:
+- Serendipity
+---

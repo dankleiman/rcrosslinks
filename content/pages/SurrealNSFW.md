@@ -1,0 +1,5 @@
+---
+title: SurrealNSFW
+crosslinks:
+- mildlyinteresting
+---

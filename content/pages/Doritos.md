@@ -1,0 +1,5 @@
+---
+title: Doritos
+crosslinks:
+- snackexchange
+---

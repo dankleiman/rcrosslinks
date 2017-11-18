@@ -1,0 +1,24 @@
+---
+title: Eugene
+crosslinks:
+- QwertyandBrgrssKith
+- Portland
+- salem
+- SpringfieldOR
+- ADSB
+- xkcd
+- livven
+- GenderCritical
+- oregon
+- askcarsales
+- stopdrinking
+- autotldr
+- sex
+- legaladvice
+- ipadmusic
+- science
+- todayilearned
+- grilledcheese
+- EugenePokemonGo
+- AskOuija
+---

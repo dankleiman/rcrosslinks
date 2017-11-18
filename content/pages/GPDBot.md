@@ -1,0 +1,5 @@
+---
+title: GPDBot
+crosslinks:
+- googleplaydeals
+---

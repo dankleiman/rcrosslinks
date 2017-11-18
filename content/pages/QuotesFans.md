@@ -1,0 +1,5 @@
+---
+title: QuotesFans
+crosslinks:
+- NoSillySuffix
+---

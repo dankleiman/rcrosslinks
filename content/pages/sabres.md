@@ -1,0 +1,24 @@
+---
+title: sabres
+crosslinks:
+- hockey
+- livven
+- leafs
+- canes
+- Buffalo
+- puckstreams
+- NewYorkIslanders
+- DetroitRedWings
+- Coyotes
+- MLS
+- hockeyjerseys
+- metric_units
+- wildhockey
+- The_Cardale
+- BlueJackets
+- anarchocapitalism
+- homegym
+- autotldr
+- NHLStreams
+- devils
+---

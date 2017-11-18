@@ -1,0 +1,24 @@
+---
+title: Jazz
+crosslinks:
+- jazzcirclejerk
+- SnarkyPuppy
+- piano
+- freejazz
+- japanesejazz
+- zappafied
+- jazzguitar
+- jazznoir
+- darkjazz
+- drums
+- trumpet
+- musictheory
+- VinylCollectors
+- Serendipity
+- classicalmusic
+- phish
+- chiptunes
+- titlegore
+- saxophone
+- citypop
+---

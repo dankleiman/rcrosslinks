@@ -1,0 +1,5 @@
+---
+title: digitalccg
+crosslinks:
+- MagicArena
+---

@@ -1,0 +1,24 @@
+---
+title: Nationals
+crosslinks:
+- justFPthings
+- Braves
+- NationalsGIFs
+- livven
+- MLBStreams
+- washingtondc
+- danielmurphygifs
+- '2013'
+- NewYorkMets
+- Redskins
+- Reds
+- modnews
+- TheSimpsons
+- phillies
+- OutOfTheLoop
+- nocontext
+- reddit_stream
+- nfl
+- OnTheFarm
+- SultansOfStats
+---

@@ -1,0 +1,24 @@
+---
+title: PoliticalVideo
+crosslinks:
+- The_Donald
+- videos
+- politics
+- conspiracy
+- worldnews
+- PoliticalVideos
+- socialism
+- news
+- Documentaries
+- ShitPoliticsSays
+- EnoughTrumpSpam
+- WayOfTheBern
+- POLITIC
+- ShitAmericansSay
+- SandersForPresident
+- Conservative
+- AskReddit
+- Shitstatistssay
+- altright
+- television
+---

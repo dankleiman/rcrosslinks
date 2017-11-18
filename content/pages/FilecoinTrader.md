@@ -1,0 +1,5 @@
+---
+title: FilecoinTrader
+crosslinks:
+- ethereum
+---

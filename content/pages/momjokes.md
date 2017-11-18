@@ -1,0 +1,5 @@
+---
+title: momjokes
+crosslinks:
+- Jokes
+---

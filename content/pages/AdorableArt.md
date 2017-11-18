@@ -1,0 +1,5 @@
+---
+title: AdorableArt
+crosslinks:
+- Serendipity
+---

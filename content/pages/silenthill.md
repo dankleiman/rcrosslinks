@@ -1,0 +1,22 @@
+---
+title: silenthill
+crosslinks:
+- DeathStranding
+- livven
+- AlanWake
+- TheLaLiLuLeLo
+- lossedits
+- movies
+- SilentHillPorn
+- NeverBeGameOver
+- HailCorporate
+- NoStupidQuestions
+- unpopularopinion
+- nosleep
+- us
+- emulation
+- oddlyweird
+- Metroid
+- starcraft
+- residentevil
+---

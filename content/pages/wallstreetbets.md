@@ -1,0 +1,24 @@
+---
+title: wallstreetbets
+crosslinks:
+- livven
+- investing
+- stocks
+- LateStageCapitalism
+- personalfinance
+- The_Donald
+- AMD_Stock
+- Amd
+- xkcd
+- options
+- REEEEEEEEEE
+- pics
+- fscomeau
+- AskReddit
+- Drama
+- zeronet
+- weedstocks
+- tradeXIV
+- AMAAggregator
+- Stock_Picks
+---

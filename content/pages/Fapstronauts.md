@@ -1,0 +1,5 @@
+---
+title: Fapstronauts
+crosslinks:
+- NoFap
+---

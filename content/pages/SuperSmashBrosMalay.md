@@ -1,0 +1,5 @@
+---
+title: SuperSmashBrosMalay
+crosslinks:
+- xkcd
+---

@@ -1,0 +1,5 @@
+---
+title: birdplops
+crosslinks:
+- oddlysatisfying
+---

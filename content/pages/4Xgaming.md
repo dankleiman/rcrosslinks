@@ -1,0 +1,24 @@
+---
+title: 4Xgaming
+crosslinks:
+- Stellaris
+- paradoxplaza
+- GameDeals
+- masteroforion
+- rotp
+- aurora
+- printSF
+- EndlessSpace
+- spaceempires
+- DistantWorlds
+- AndroidGaming
+- CK2GameOfthrones
+- SoSE
+- twilightstruggle
+- GalCiv
+- Snoo
+- incremental_games
+- WarsimRpg
+- stellaris
+- civ
+---

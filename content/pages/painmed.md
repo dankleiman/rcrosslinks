@@ -1,0 +1,5 @@
+---
+title: painmed
+crosslinks:
+- autotldr
+---

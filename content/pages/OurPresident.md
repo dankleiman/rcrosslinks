@@ -1,0 +1,24 @@
+---
+title: OurPresident
+crosslinks:
+- autotldr
+- The_Donald
+- politics
+- Enough_Sanders_Spam
+- SandersForPresident
+- zeronet
+- conspiracy
+- worldnews
+- socialism
+- xkcd
+- AskReddit
+- WayOfTheBern
+- ShitPoliticsSays
+- Political_Revolution
+- HillaryForPrison
+- PoliticalDiscussion
+- justicedemocrats
+- Drama
+- livven
+- NeutralPolitics
+---

@@ -1,0 +1,24 @@
+---
+title: wayhome
+crosslinks:
+- FrankOcean
+- ElectricForest
+- pearljam
+- festivals
+- WayhomeTickets
+- toronto
+- fieldtripfestival
+- Coachella
+- DrugNerds
+- Sasquatch
+- hh
+- fyrefestival
+- Muse
+- x0wt9f
+- popheads
+- homestead
+- OutsideLands
+- CarSeatHR
+- Lollapalooza
+- LouFest
+---

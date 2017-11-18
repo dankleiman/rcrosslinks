@@ -1,0 +1,5 @@
+---
+title: NintendoSwitchDesigns
+crosslinks:
+- NintendoSwitch
+---

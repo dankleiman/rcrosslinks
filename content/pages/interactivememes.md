@@ -1,0 +1,5 @@
+---
+title: interactivememes
+crosslinks:
+- meme
+---

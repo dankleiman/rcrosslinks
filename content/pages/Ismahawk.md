@@ -1,0 +1,5 @@
+---
+title: Ismahawk
+crosslinks:
+- DCcomics
+---

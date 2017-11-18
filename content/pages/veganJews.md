@@ -1,0 +1,5 @@
+---
+title: veganJews
+crosslinks:
+- israel
+---

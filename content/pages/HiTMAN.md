@@ -1,0 +1,24 @@
+---
+title: HiTMAN
+crosslinks:
+- livven
+- HITMANCONTRACTHUB
+- autotldr
+- Games
+- CrackWatch
+- respectthreads
+- truegaming
+- AskReddit
+- GiftofGames
+- gamingsuggestions
+- ImagesOfColorado
+- samuraijack
+- PrequelMemes
+- SquaredCircle
+- StyxGame
+- iamverysmart
+- NoStupidQuestions
+- SteamArtworkProfiles
+- JonTron
+- THE_PACK
+---

@@ -1,0 +1,24 @@
+---
+title: popheads
+crosslinks:
+- geekheads
+- popheadscirclejerk
+- hiphopheads
+- IAmA
+- Music
+- TaylorSwift
+- indieheads
+- AskReddit
+- ListeningHeads
+- The_Donald
+- lorde
+- EmotionDeluxe
+- Kanye
+- kpop
+- popheadssing
+- worldnews
+- BlackPeopleTwitter
+- all
+- FrankOcean
+- modnews
+---

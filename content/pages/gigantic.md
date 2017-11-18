@@ -1,0 +1,24 @@
+---
+title: gigantic
+crosslinks:
+- gaming
+- giganticheroconcepts
+- livven
+- heroesofthestorm
+- Paladins
+- giganticesports
+- Kappa
+- Overwatch
+- me_irl
+- im14andthisisdeep
+- '2013'
+- GiganticLFT
+- Ooer
+- survivetheculling
+- FreeGameFindings
+- iamverysmart
+- OutOfTheLoop
+- HFY
+- gatekeeping
+- dawngate
+---

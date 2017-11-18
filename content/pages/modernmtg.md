@@ -1,0 +1,5 @@
+---
+title: modernmtg
+crosslinks:
+- ModernMagic
+---

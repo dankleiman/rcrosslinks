@@ -1,0 +1,24 @@
+---
+title: ANI_COMMUNISM
+crosslinks:
+- FULLCOMMUNISM
+- COMPLETEANARCHY
+- EnoughBrocialistSpam
+- traaaaaaannnnnnnnnns
+- COMPLETEANIMEARCHY
+- livven
+- Gunime
+- socialism
+- TwoBestFriendsPlay
+- emojipasta
+- EDC
+- anime_irl
+- socialism2
+- evangelion
+- touhou
+- deepfriedmemes
+- Ultraleft
+- LateStageCapitalism
+- LateStageGenderBinary
+- 4chan
+---

@@ -1,0 +1,24 @@
+---
+title: eroticauthors
+crosslinks:
+- romanceauthors
+- sexystories
+- nsfwforhire
+- AskReddit
+- Fantasy
+- IAmA
+- HireaWriter
+- ehlersdanlos
+- Romanticon
+- AMA
+- freeuse
+- DirtyWritingPrompts
+- KUerotica
+- ketorecipes
+- eroticliterature
+- writing
+- human_resources
+- financialindependence
+- MealPrepSunday
+- WritingPrompts
+---

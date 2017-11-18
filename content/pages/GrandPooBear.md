@@ -1,0 +1,5 @@
+---
+title: GrandPooBear
+crosslinks:
+- nintendo
+---

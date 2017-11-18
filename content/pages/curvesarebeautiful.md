@@ -1,0 +1,5 @@
+---
+title: curvesarebeautiful
+crosslinks:
+- ThickThighs
+---

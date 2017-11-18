@@ -1,0 +1,5 @@
+---
+title: visualnovelsuggest
+crosslinks:
+- fatestaynight
+---

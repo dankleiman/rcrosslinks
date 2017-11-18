@@ -1,0 +1,5 @@
+---
+title: FunkoPopDeals
+crosslinks:
+- funkopops
+---

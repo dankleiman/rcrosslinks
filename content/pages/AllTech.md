@@ -1,0 +1,5 @@
+---
+title: AllTech
+crosslinks:
+- autotldr
+---

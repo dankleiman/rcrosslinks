@@ -1,0 +1,5 @@
+---
+title: upholstery
+crosslinks:
+- ThriftStoreHauls
+---

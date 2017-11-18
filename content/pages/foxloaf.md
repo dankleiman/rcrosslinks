@@ -1,0 +1,5 @@
+---
+title: foxloaf
+crosslinks:
+- foxes
+---

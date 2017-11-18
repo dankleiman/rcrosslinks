@@ -1,0 +1,5 @@
+---
+title: Syncthing
+crosslinks:
+- LinuxActionShow
+---

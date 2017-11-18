@@ -1,0 +1,5 @@
+---
+title: VocabAssistant
+crosslinks:
+- Eloquent
+---

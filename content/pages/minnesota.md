@@ -1,0 +1,24 @@
+---
+title: minnesota
+crosslinks:
+- autotldr
+- Minneapolis
+- The_Donald
+- ShitPoliticsSays
+- TwinCities
+- AskReddit
+- HateCrimeHoaxes
+- FargoMoorhead
+- xkcd
+- NorthShoreMN
+- livven
+- wildhockey
+- wisconsin
+- politics
+- AMAAggregator
+- news
+- ForsakenPlaces
+- NeutralPolitics
+- duluth
+- BWCA
+---

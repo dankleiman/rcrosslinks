@@ -1,0 +1,5 @@
+---
+title: TPTIT
+crosslinks:
+- funny
+---

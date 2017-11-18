@@ -1,0 +1,5 @@
+---
+title: somesortoftests
+crosslinks:
+- catsandrandomstuff
+---

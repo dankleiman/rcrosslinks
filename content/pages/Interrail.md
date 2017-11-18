@@ -1,0 +1,5 @@
+---
+title: Interrail
+crosslinks:
+- askswitzerland
+---

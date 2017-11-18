@@ -1,0 +1,24 @@
+---
+title: sociopath
+crosslinks:
+- Drugs
+- AskReddit
+- The48LawsOfPower
+- gifs
+- Tulpas
+- confession
+- TheRedPill
+- Documentaries
+- watchpeopledie
+- drugscirclejerk
+- Nootropics
+- explainlikeIAmA
+- 2meirl4meirl
+- 4chan
+- guro
+- iamverysmart
+- explainlikeimfive
+- DarkNetMarkets
+- xkcd
+- LouisTheroux
+---

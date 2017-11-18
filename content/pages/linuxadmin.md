@@ -1,0 +1,21 @@
+---
+title: linuxadmin
+crosslinks:
+- sysadmin
+- linux
+- xkcd
+- netsec
+- autotldr
+- PHP
+- linuxquestions
+- fXOgL5
+- linuxserver
+- postfix
+- archlinux
+- devops
+- jwilder
+- opensource
+- financialindependence
+- learnprogramming
+- microsoft
+---

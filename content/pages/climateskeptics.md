@@ -1,0 +1,24 @@
+---
+title: climateskeptics
+crosslinks:
+- autotldr
+- climatechange
+- shitdenierssay
+- science
+- skeptic
+- climate
+- canada
+- xkcd
+- news
+- askscience
+- MarchForScience
+- collapse
+- kurdistan
+- DeadBedrooms
+- worldnews
+- OVER30REDDIT
+- climate_science
+- 911truth
+- h3h3productions
+- moderatepolitics
+---

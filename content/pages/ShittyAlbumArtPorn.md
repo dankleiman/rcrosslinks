@@ -1,0 +1,5 @@
+---
+title: ShittyAlbumArtPorn
+crosslinks:
+- shittyporn
+---

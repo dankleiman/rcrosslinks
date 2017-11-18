@@ -1,0 +1,24 @@
+---
+title: NSFWFunny
+crosslinks:
+- JavPreview
+- tipofmypenis
+- AskReddit
+- IAmA
+- funny
+- JavDownloadCenter
+- livven
+- WTF
+- whynotasource
+- NSFW411
+- todayilearned
+- meetpornstar
+- Ellie_Silk
+- porn_irl
+- facepalm
+- MiaBeaton
+- RepressedGoneWild
+- NSFW_GIF
+- gonewidl
+- freeuse
+---

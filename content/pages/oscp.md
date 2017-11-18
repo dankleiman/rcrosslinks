@@ -1,0 +1,5 @@
+---
+title: oscp
+crosslinks:
+- AskNetsec
+---

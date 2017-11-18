@@ -1,0 +1,24 @@
+---
+title: Emo
+crosslinks:
+- poppunkers
+- Emojerk
+- twinkledaddies
+- indieheads
+- EmoScreamo
+- emoscreamo
+- Screamo
+- zeropointmodule
+- sparklepunk
+- undelete
+- guitarpedals
+- Advice
+- mathrock
+- listentothis
+- LateStageCapitalism
+- Connecticut
+- FrenchWestIndies
+- modernrockrevival
+- indie_rock
+- livven
+---

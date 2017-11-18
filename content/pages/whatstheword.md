@@ -1,0 +1,24 @@
+---
+title: whatstheword
+crosslinks:
+- xkcd
+- AskReddit
+- Portmanteau
+- Documentaries
+- staircasewit
+- math
+- Fantasy
+- popping
+- ChekhovsDitch
+- politics
+- MaliciousCompliance
+- me_irl
+- writing
+- plans
+- AskEconomics
+- GifIndex
+- neology
+- todayilearned
+- DoesNotTranslate
+- fffffffuuuuuuuuuuuu
+---

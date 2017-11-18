@@ -1,0 +1,24 @@
+---
+title: humblebundles
+crosslinks:
+- indiegameswap
+- IGSRep
+- GameDeals
+- GameTrade
+- RandomActsOfGaming
+- SteamGameSwap
+- GameDealsMeta
+- Steam
+- rpg
+- patientgamers
+- circlejerk
+- Copoka
+- Games
+- sgsflair
+- GiftofGames
+- Vermintide
+- gamedev
+- learnprogramming
+- ETCshow
+- steam_giveaway
+---

@@ -1,0 +1,5 @@
+---
+title: cgi
+crosslinks:
+- vfx
+---

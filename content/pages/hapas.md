@@ -1,0 +1,24 @@
+---
+title: hapas
+crosslinks:
+- asianamerican
+- aznidentity
+- asiantwoX
+- EasternSunRising
+- AskReddit
+- CCJ2
+- Drama
+- WMAF
+- China
+- The_Donald
+- autotldr
+- TrueReddit
+- singapore
+- HalfBlack
+- josun
+- AsianMasculinity
+- AsianParentStories
+- Incels
+- sociology
+- GreenTea_Party
+---

@@ -1,0 +1,5 @@
+---
+title: PhotoshopTutorials
+crosslinks:
+- FrankOcean
+---

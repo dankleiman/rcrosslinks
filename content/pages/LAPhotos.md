@@ -1,0 +1,5 @@
+---
+title: LAPhotos
+crosslinks:
+- LosAngeles
+---

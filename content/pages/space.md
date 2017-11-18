@@ -1,0 +1,24 @@
+---
+title: space
+crosslinks:
+- spacex
+- askscience
+- astrophotography
+- livven
+- IAmA
+- pics
+- Astronomy
+- AskReddit
+- Colonizemars
+- WritingPrompts
+- ISRO
+- flatearth
+- nasa
+- todayilearned
+- explainlikeimfive
+- theworldisflat
+- nosleep
+- telescopes
+- spaceporn
+- Futurology
+---

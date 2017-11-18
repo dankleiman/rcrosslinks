@@ -1,0 +1,5 @@
+---
+title: wildanimalsuffering
+crosslinks:
+- askphilosophy
+---

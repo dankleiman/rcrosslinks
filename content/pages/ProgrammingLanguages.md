@@ -1,0 +1,21 @@
+---
+title: ProgrammingLanguages
+crosslinks:
+- programming
+- oilshell
+- learnprogramming
+- perl
+- concatenative
+- parsing
+- haskell
+- Python
+- ShadowBan
+- AskProgrammers
+- compsci
+- technology
+- AskProgramming
+- openlang
+- cscareerquestions
+- types
+- pygame
+---

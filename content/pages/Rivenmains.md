@@ -1,0 +1,24 @@
+---
+title: Rivenmains
+crosslinks:
+- leagueoflegends
+- summonerschool
+- gangplankmains
+- YasuoMains
+- livven
+- osugame
+- vaynemains
+- AMAAggregator
+- Draven
+- IreliaMains
+- GarenMains
+- place
+- Rule34LoL
+- KoreanAdvice
+- gatekeeping
+- riven
+- AskReddit
+- Kennenmains
+- trolling
+- TeamRedditTeams
+---

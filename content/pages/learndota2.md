@@ -1,0 +1,24 @@
+---
+title: learndota2
+crosslinks:
+- DotA2
+- TrueDoTA2
+- dota2tutor
+- StopNoDont
+- HeroBuilds
+- DOTA
+- dota2rant
+- compDota2
+- captainsmode
+- BecomeTheGamer
+- DotaVods
+- Dota2Trade
+- iamverygood
+- ld2
+- analysemydota2
+- science
+- dota2circlejerk
+- learndota
+- conspiracy
+- copypasta
+---

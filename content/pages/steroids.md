@@ -1,0 +1,24 @@
+---
+title: steroids
+crosslinks:
+- Testosterone
+- PEDs
+- Fitness
+- Nootropics
+- DrugNerds
+- eldertrees
+- weightroom
+- AdvancedFitness
+- nattyorjuice
+- leangains
+- marriedredpill
+- testosterone
+- AskReddit
+- funny
+- MMA
+- science
+- Aquariums
+- Bitcoin
+- BiggerStrongerTaller
+- powerlifting
+---

@@ -1,0 +1,5 @@
+---
+title: Absurdism
+crosslinks:
+- ProcrastinationHacker
+---

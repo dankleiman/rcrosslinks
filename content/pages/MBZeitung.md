@@ -1,0 +1,5 @@
+---
+title: MBZeitung
+crosslinks:
+- luegenpresse
+---

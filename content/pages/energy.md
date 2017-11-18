@@ -1,0 +1,24 @@
+---
+title: energy
+crosslinks:
+- OutingNuclearShills
+- xkcd
+- teslamotors
+- askastronomy
+- Futurology
+- electricvehicles
+- askscience
+- politics
+- Clarity
+- environment
+- collapse
+- technology
+- lolspacedashspace
+- solar
+- DeepGreenResistance
+- CommercialSolarGuy
+- science
+- HailCorporate
+- Mirai
+- ZeroWaste
+---

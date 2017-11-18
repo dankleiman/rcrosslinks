@@ -1,0 +1,24 @@
+---
+title: Cyberpunk
+crosslinks:
+- autotldr
+- livven
+- pics
+- outrun
+- interestingasfuck
+- Futurology
+- wallpapers
+- gifs
+- LateStageCapitalism
+- iWallpaper
+- japancirclejerk
+- mildlyinteresting
+- Bitcoin
+- Ghost_in_the_Shell
+- xkcd
+- CityPorn
+- ABoringDystopia
+- glitch_art
+- worldnews
+- StallmanWasRight
+---

@@ -1,0 +1,5 @@
+---
+title: MoxdogTheWriter
+crosslinks:
+- SkyrimTavern
+---

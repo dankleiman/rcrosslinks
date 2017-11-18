@@ -1,0 +1,5 @@
+---
+title: OnyxPathRPG
+crosslinks:
+- WhiteWolfRPG
+---

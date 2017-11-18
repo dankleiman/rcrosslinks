@@ -1,0 +1,5 @@
+---
+title: diysynth
+crosslinks:
+- AskElectronics
+---

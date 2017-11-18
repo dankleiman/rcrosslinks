@@ -1,0 +1,24 @@
+---
+title: hardwareswap
+crosslinks:
+- GameSale
+- appleswap
+- gameswap
+- mechmarket
+- Amd
+- pcmasterrace
+- AVexchange
+- razer
+- watercooling
+- nvidia
+- 3dshacks
+- CanadianHardwareSwap
+- photomarket
+- Android
+- UniversalScammerList
+- Gear4Sale
+- DFWClassifieds
+- sffpc
+- EtherMining
+- apple
+---

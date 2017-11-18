@@ -1,0 +1,5 @@
+---
+title: Riga
+crosslinks:
+- latvia
+---

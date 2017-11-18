@@ -1,0 +1,5 @@
+---
+title: KyouMado
+crosslinks:
+- Pixiv
+---

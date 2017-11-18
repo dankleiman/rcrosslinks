@@ -1,0 +1,5 @@
+---
+title: LocationBot
+crosslinks:
+- legaladvice
+---

@@ -1,0 +1,5 @@
+---
+title: ParagonLFG
+crosslinks:
+- paragon
+---

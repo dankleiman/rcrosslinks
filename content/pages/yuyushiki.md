@@ -1,0 +1,5 @@
+---
+title: yuyushiki
+crosslinks:
+- Pixiv
+---

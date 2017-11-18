@@ -1,0 +1,5 @@
+---
+title: Frikandel
+crosslinks:
+- cirkeltrek
+---

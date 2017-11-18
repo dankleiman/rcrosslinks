@@ -1,0 +1,24 @@
+---
+title: Iceland
+crosslinks:
+- autotldr
+- europe
+- france
+- asatru
+- australia
+- place
+- visitingiceland
+- Drugs
+- AdviceAnimals
+- Games
+- wholesomememes
+- palmar
+- LifeProTips
+- worldpolitics
+- unitedkingdom
+- WeWantPlates
+- AMAAggregator
+- MandelaEffect
+- OldSchoolCool
+- FaroeIslands
+---

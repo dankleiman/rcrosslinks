@@ -1,0 +1,24 @@
+---
+title: AVoid5
+crosslinks:
+- Jokes
+- AskReddit
+- CatsStandingUp
+- AvoidAvoid5
+- ProCSS
+- xkcd
+- EschewE
+- outside
+- eatingsandwiches
+- seinfeld
+- howto
+- pics
+- FuckTammy
+- askreddit
+- thesimpsons
+- yuruyuri
+- aww
+- Undertale
+- jok
+- everyone
+---

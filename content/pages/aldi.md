@@ -1,0 +1,5 @@
+---
+title: aldi
+crosslinks:
+- DumpsterDiving
+---

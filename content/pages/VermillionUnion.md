@@ -1,0 +1,5 @@
+---
+title: VermillionUnion
+crosslinks:
+- EmeraldFederation
+---

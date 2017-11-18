@@ -1,0 +1,5 @@
+---
+title: princesslink
+crosslinks:
+- gaming
+---

@@ -1,0 +1,24 @@
+---
+title: beards
+crosslinks:
+- livven
+- BeardPorn
+- FierceFlow
+- casualiama
+- xkcd
+- DIY
+- loseit
+- malefashionadvice
+- funny
+- BeardAdvice
+- malehairadvice
+- pics
+- OopsDidntMeanTo
+- gainit
+- HighQualityGifs
+- LadyBoners
+- IAmA
+- BeardsCirclejerk
+- DetroitRedWings
+- NoFap
+---

@@ -1,0 +1,21 @@
+---
+title: AnimeFigures
+crosslinks:
+- gameswap
+- grandorder
+- anime
+- Gunpla
+- SinonAssOnline
+- LoveLive
+- raerth
+- Dakimakuras
+- Animewallpaper
+- xkcd
+- HonkaiImpact
+- Overwatch
+- IgnorantImgur
+- ffxiv
+- '2012'
+- ActionFigures
+- resinkits
+---

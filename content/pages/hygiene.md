@@ -1,0 +1,5 @@
+---
+title: hygiene
+crosslinks:
+- TheRedPill
+---

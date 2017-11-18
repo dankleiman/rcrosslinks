@@ -1,0 +1,21 @@
+---
+title: AlternativeAmazonVGF
+crosslinks:
+- 4kTV
+- StreetFighter
+- copypasta
+- help
+- videos
+- vinyl
+- lakers
+- farcry
+- StardewValley
+- Disgaea
+- houston
+- Games
+- PS4
+- depechemode
+- adventuretime
+- AmazonVGF
+- tifu
+---

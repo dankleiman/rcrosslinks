@@ -1,0 +1,24 @@
+---
+title: ShitTheFalseSay
+crosslinks:
+- Metal
+- Music
+- AskReddit
+- gatekeeping
+- BABYMETAL
+- Metalcore
+- Drama
+- BlackMetal
+- progmetal
+- metaljerk
+- starterpacks
+- metaljerkcopypasta
+- Deathcore
+- avengedsevenfold
+- pics
+- videos
+- BlackPeopleTwitter
+- todayilearned
+- pcmasterrace
+- Anarchism
+---

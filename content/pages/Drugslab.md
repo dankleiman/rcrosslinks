@@ -1,0 +1,5 @@
+---
+title: Drugslab
+crosslinks:
+- kratom
+---

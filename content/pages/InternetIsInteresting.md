@@ -1,0 +1,5 @@
+---
+title: InternetIsInteresting
+crosslinks:
+- place
+---

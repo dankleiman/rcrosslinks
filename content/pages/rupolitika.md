@@ -1,0 +1,5 @@
+---
+title: rupolitika
+crosslinks:
+- ru
+---

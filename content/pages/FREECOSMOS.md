@@ -1,0 +1,5 @@
+---
+title: FREECOSMOS
+crosslinks:
+- EnoughCommieSpam
+---

@@ -1,0 +1,5 @@
+---
+title: AmazingTechnology
+crosslinks:
+- Serendipity
+---

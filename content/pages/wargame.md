@@ -1,0 +1,24 @@
+---
+title: wargame
+crosslinks:
+- Steel_Division
+- livven
+- MemeEconomy
+- gaming
+- Warthunder
+- OutOfTheLoop
+- TankPorn
+- PrequelMemes
+- shittankiessay
+- pcmasterrace
+- specializedtools
+- joinsquad
+- MilitaryPorn
+- filthyfrank
+- warcollege
+- mildlyinteresting
+- tankporn
+- madlads
+- modhelp
+- dankmemes
+---

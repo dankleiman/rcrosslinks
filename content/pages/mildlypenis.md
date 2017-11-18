@@ -1,0 +1,24 @@
+---
+title: mildlypenis
+crosslinks:
+- wildlypenis
+- livven
+- CrappyDesign
+- funny
+- intentionallypenis
+- mildlyinteresting
+- mildlyvagina
+- pics
+- penis
+- titleporn
+- aww
+- notathing
+- hmmm
+- totallypenis
+- tifu
+- cats
+- verypenis
+- KarmaConspiracy
+- gaming
+- Bandnames
+---

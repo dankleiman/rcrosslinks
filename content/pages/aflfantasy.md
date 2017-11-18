@@ -1,0 +1,5 @@
+---
+title: aflfantasy
+crosslinks:
+- AFL
+---

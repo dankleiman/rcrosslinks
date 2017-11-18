@@ -1,0 +1,5 @@
+---
+title: IdeasForCC
+crosslinks:
+- CasualConversation
+---

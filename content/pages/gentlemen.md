@@ -1,0 +1,5 @@
+---
+title: gentlemen
+crosslinks:
+- malefashionadvice
+---

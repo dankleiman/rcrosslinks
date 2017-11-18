@@ -1,0 +1,5 @@
+---
+title: NintendoGIFs
+crosslinks:
+- livven
+---

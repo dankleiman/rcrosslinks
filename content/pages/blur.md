@@ -1,0 +1,5 @@
+---
+title: blur
+crosslinks:
+- oasis
+---

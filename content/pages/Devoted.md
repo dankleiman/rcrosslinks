@@ -1,0 +1,24 @@
+---
+title: Devoted
+crosslinks:
+- Civcraft
+- MtAugusta
+- devotedmap
+- mtaugustajustice
+- CivEx
+- CraftiaEmpire
+- CivAquila
+- place
+- livven
+- Minecraft
+- DevAthos
+- CivCityofHayek
+- circlejerkcopypasta
+- TheRealmsMC
+- UFederation
+- McDonalds
+- Irongrad
+- '2008'
+- Leningrad
+- TheDyingOfTheLight
+---

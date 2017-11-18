@@ -1,0 +1,5 @@
+---
+title: Fraternity
+crosslinks:
+- Frat
+---

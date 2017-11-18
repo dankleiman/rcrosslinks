@@ -1,0 +1,5 @@
+---
+title: AsianBloc
+crosslinks:
+- MongoloidSupremacy
+---

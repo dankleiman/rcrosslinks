@@ -1,0 +1,5 @@
+---
+title: SalmonBarracks
+crosslinks:
+- NoFap
+---

@@ -1,0 +1,24 @@
+---
+title: coolguides
+crosslinks:
+- gatekeeping
+- xkcd
+- churning
+- Fitness
+- science
+- Infographics
+- The_Donald
+- gaming
+- nocontext
+- lockpicking
+- restofthefuckingowl
+- dataisugly
+- personalfinance
+- OnionLovers
+- ShitPoliticsSays
+- LearnUselessTalents
+- shittycoolguides
+- food
+- europe
+- marijuanaenthusiasts
+---

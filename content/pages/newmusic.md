@@ -1,0 +1,5 @@
+---
+title: newmusic
+crosslinks:
+- sad
+---

@@ -1,0 +1,24 @@
+---
+title: Warthunder
+crosslinks:
+- livven
+- DestroyedTanks
+- GaijinPlease
+- AskHistorians
+- TankPorn
+- warthundermemes
+- WWIIplanes
+- REEEEEEEEEE
+- HistoryPorn
+- copypasta
+- wargame
+- WorldOfWarships
+- pics
+- videos
+- 4chan
+- interestingasfuck
+- xkcd
+- PrequelMemes
+- Warplanesnuffporn
+- gaming
+---

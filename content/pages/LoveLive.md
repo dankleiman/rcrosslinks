@@ -1,0 +1,24 @@
+---
+title: LoveLive
+crosslinks:
+- Pixiv
+- SchoolIdolFestival
+- anime
+- LoveLiveTweets
+- cardcaptorsakura
+- MoleIsMoney
+- modnews
+- Otonokizaka
+- TheRiceGoddess
+- PrequelMemes
+- Yousoro
+- hockey
+- shorthairedwaifus
+- LewdLive
+- livven
+- SakurauchiRiko
+- AnimeProduction
+- awwnime
+- KanMusu
+- BakaChika
+---

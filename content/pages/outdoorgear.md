@@ -1,0 +1,5 @@
+---
+title: outdoorgear
+crosslinks:
+- mallninjashit
+---

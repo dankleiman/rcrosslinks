@@ -1,0 +1,5 @@
+---
+title: UoP
+crosslinks:
+- college
+---

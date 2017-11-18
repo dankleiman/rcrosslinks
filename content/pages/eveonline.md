@@ -1,0 +1,5 @@
+---
+title: eveonline
+crosslinks:
+- Eve
+---

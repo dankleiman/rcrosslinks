@@ -1,0 +1,24 @@
+---
+title: serbia
+crosslinks:
+- croatia
+- europe
+- pics
+- xkcd
+- AskEurope
+- Fitness
+- AskReddit
+- AskHistorians
+- learnprogramming
+- iamverysmart
+- Xiaomi
+- Piracy
+- dankmemes
+- autotldr
+- ShadowBan
+- Slovenia
+- modnews
+- Balkans
+- Romania
+- france
+---

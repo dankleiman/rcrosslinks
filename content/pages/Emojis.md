@@ -1,0 +1,5 @@
+---
+title: Emojis
+crosslinks:
+- EmojiDomains
+---

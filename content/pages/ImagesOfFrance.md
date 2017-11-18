@@ -1,0 +1,24 @@
+---
+title: ImagesOfFrance
+crosslinks:
+- france
+- pics
+- imagesofnetwork
+- OldSchoolCool
+- europe
+- EarthPorn
+- castles
+- itookapicture
+- CityPorn
+- travel
+- HistoryPorn
+- mildlyinteresting
+- funny
+- paris
+- ArchitecturePorn
+- VillagePorn
+- analog
+- MapPorn
+- place
+- architecture
+---

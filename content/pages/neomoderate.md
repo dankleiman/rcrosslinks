@@ -1,0 +1,5 @@
+---
+title: neomoderate
+crosslinks:
+- centrist
+---

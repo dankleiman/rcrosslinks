@@ -1,0 +1,5 @@
+---
+title: WhaleSharks
+crosslinks:
+- modnews
+---

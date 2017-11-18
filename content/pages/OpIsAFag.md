@@ -1,0 +1,5 @@
+---
+title: OpIsAFag
+crosslinks:
+- Serendipity
+---

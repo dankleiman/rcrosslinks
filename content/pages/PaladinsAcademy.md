@@ -1,0 +1,5 @@
+---
+title: PaladinsAcademy
+crosslinks:
+- Paladins
+---

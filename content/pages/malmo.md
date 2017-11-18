@@ -1,0 +1,5 @@
+---
+title: malmo
+crosslinks:
+- Malmoe
+---

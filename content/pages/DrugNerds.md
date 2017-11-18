@@ -1,0 +1,24 @@
+---
+title: DrugNerds
+crosslinks:
+- Nootropics
+- Drugs
+- Stims
+- drugscirclejerk
+- researchchemicals
+- chemistry
+- SelfExperiment
+- TheeHive
+- pillhead
+- MDMA
+- perth
+- adderall
+- AskDrugNerds
+- '2015'
+- Psychedelics
+- askdrugs
+- keto
+- Supplements
+- Serendipity
+- ADHD
+---

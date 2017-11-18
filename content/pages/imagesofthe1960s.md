@@ -1,0 +1,24 @@
+---
+title: imagesofthe1960s
+crosslinks:
+- OldSchoolCool
+- pics
+- HistoryPorn
+- TheWayWeWere
+- imagesofnetwork
+- carporn
+- classiccars
+- RetroFuturism
+- mildlyinteresting
+- Watches
+- PropagandaPosters
+- ClassicMarvelCovers
+- CineShots
+- MoviePosterPorn
+- Colorization
+- Lost_Architecture
+- u_2BrkOnThru
+- Watchexchange
+- coins
+- vintageads
+---

@@ -1,0 +1,5 @@
+---
+title: fatchihuahuas
+crosslinks:
+- Chihuahua
+---

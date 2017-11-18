@@ -1,0 +1,5 @@
+---
+title: Selfpromote
+crosslinks:
+- SmallYTChannel
+---

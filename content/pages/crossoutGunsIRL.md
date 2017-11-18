@@ -1,0 +1,5 @@
+---
+title: crossoutGunsIRL
+crosslinks:
+- Crossout
+---

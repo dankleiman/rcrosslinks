@@ -1,0 +1,5 @@
+---
+title: gabagoodness
+crosslinks:
+- Stims
+---

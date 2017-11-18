@@ -1,0 +1,5 @@
+---
+title: GnuCash
+crosslinks:
+- sysadmin
+---

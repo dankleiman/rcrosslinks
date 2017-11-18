@@ -1,0 +1,5 @@
+---
+title: LoveLiveFanart
+crosslinks:
+- Pixiv
+---

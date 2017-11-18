@@ -1,0 +1,5 @@
+---
+title: GermanicConlangs
+crosslinks:
+- conlangs
+---

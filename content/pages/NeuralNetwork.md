@@ -1,0 +1,5 @@
+---
+title: NeuralNetwork
+crosslinks:
+- philosophy
+---

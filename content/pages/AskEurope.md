@@ -1,0 +1,24 @@
+---
+title: AskEurope
+crosslinks:
+- europe
+- ShitAmericansSay
+- ShitEuropeansSay
+- AskAnAmerican
+- germany
+- MapPorn
+- france
+- AskHistorians
+- ireland
+- de
+- food
+- thenetherlands
+- AskUK
+- AskReddit
+- xkcd
+- italy
+- russian
+- Romania
+- IWantOut
+- unitedkingdom
+---

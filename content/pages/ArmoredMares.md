@@ -1,0 +1,5 @@
+---
+title: ArmoredMares
+crosslinks:
+- celestia
+---

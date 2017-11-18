@@ -1,0 +1,5 @@
+---
+title: Thicc
+crosslinks:
+- sooners
+---

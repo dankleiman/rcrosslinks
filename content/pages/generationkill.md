@@ -1,0 +1,5 @@
+---
+title: generationkill
+crosslinks:
+- autotldr
+---

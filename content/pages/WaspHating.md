@@ -1,0 +1,5 @@
+---
+title: WaspHating
+crosslinks:
+- modhelp
+---

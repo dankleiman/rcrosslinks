@@ -1,0 +1,24 @@
+---
+title: sixers
+crosslinks:
+- lakers
+- livven
+- Kanye
+- eagles
+- RedditAlternatives
+- MkeBucks
+- place
+- funny
+- Accounting
+- AMAAggregator
+- Mavericks
+- marvelstudios
+- '2013'
+- phillies
+- '2014'
+- BGMLL
+- AskReddit
+- onetruegod
+- help
+- Flyers
+---

@@ -1,0 +1,24 @@
+---
+title: compsci
+crosslinks:
+- xkcd
+- math
+- cscareerquestions
+- autotldr
+- programming
+- learnprogramming
+- rust
+- functionalprogramming
+- askphilosophy
+- softwaregore
+- datascience
+- Clojure
+- AskComputerScience
+- uwaterloo
+- Stoicism
+- shittypolitics
+- oilshell
+- genetic_algorithms
+- teduh_links
+- puzzles
+---

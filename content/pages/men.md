@@ -1,0 +1,5 @@
+---
+title: men
+crosslinks:
+- mgtow
+---

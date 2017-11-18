@@ -1,0 +1,5 @@
+---
+title: BadSubHub
+crosslinks:
+- all
+---

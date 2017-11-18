@@ -1,0 +1,5 @@
+---
+title: snatcoin
+crosslinks:
+- Buttcoin
+---

@@ -1,0 +1,24 @@
+---
+title: shorthairedwaifus
+crosslinks:
+- YukariAkiyama
+- awwnime
+- LoveLive
+- pantsu
+- wholesomeyuri
+- livven
+- anime_irl
+- GIRLSundPANZER
+- Megumin
+- ZettaiRyouiki
+- KillLaKill
+- animemaids
+- BakaChika
+- SchoolIdolFestival
+- SinonAssOnline
+- csshelp
+- Animewallpaper
+- Animemes
+- paisuragirls
+- onetrueidol
+---

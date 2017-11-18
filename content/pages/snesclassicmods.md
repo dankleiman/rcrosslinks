@@ -1,0 +1,5 @@
+---
+title: snesclassicmods
+crosslinks:
+- miniSNESmods
+---

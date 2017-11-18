@@ -1,0 +1,5 @@
+---
+title: TodayIWore
+crosslinks:
+- Serendipity
+---

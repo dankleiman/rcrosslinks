@@ -1,0 +1,5 @@
+---
+title: MagicUsers
+crosslinks:
+- occult
+---

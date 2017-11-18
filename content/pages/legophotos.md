@@ -1,0 +1,5 @@
+---
+title: legophotos
+crosslinks:
+- lego
+---

@@ -1,0 +1,5 @@
+---
+title: hurd
+crosslinks:
+- autotldr
+---

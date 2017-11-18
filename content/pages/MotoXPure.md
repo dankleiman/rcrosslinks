@@ -1,0 +1,5 @@
+---
+title: MotoXPure
+crosslinks:
+- MotoX
+---

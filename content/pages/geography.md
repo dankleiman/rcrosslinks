@@ -1,0 +1,24 @@
+---
+title: geography
+crosslinks:
+- autotldr
+- MapPorn
+- xkcd
+- IslandRulers
+- Linky_links
+- mapporncirclejerk
+- toosoon
+- czech
+- todayilearned
+- simpleliving
+- conspiracies
+- SampleSize
+- RedactedCharts
+- Portland
+- AskHistorians
+- geology
+- spaceporn
+- vexillology
+- NoStupidQuestions
+- politics
+---

@@ -1,0 +1,5 @@
+---
+title: zweiteliga
+crosslinks:
+- Arminia
+---

@@ -1,0 +1,24 @@
+---
+title: AskAcademia
+crosslinks:
+- education
+- GradSchool
+- xkcd
+- gradadmissions
+- Scholar
+- math
+- Professors
+- AskSocialScience
+- chemistry
+- Economics
+- Futurology
+- MuseumPros
+- im14andthisisdeep
+- AskLiteraryStudies
+- college
+- linguistics
+- Drama
+- Kinesiology
+- theydidthefuckyou
+- ApplyingToCollege
+---

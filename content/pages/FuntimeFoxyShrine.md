@@ -1,0 +1,5 @@
+---
+title: FuntimeFoxyShrine
+crosslinks:
+- fivenightsatfreddys
+---

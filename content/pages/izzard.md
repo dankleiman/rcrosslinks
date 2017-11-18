@@ -1,0 +1,5 @@
+---
+title: izzard
+crosslinks:
+- StandUpComedy
+---

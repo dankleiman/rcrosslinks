@@ -1,0 +1,5 @@
+---
+title: subgenreid
+crosslinks:
+- Serendipity
+---

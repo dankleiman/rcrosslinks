@@ -1,0 +1,24 @@
+---
+title: incremental_games
+crosslinks:
+- starcommanderonline
+- AlmostAHero
+- idlemageattack
+- TapTitans2
+- EggsInc
+- telemmo
+- swarmsim
+- CrankGame
+- DawnOfCrafting
+- learnpython
+- CityInc
+- kittensgame
+- PocketFarmery
+- meta_incremental
+- NLSSCircleJerk
+- gameideas
+- SandcastleBuilder
+- gamedev
+- PokeClicker
+- EpicMiner
+---

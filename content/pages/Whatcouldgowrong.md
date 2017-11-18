@@ -1,0 +1,24 @@
+---
+title: Whatcouldgowrong
+crosslinks:
+- livven
+- AskReddit
+- gifs
+- xkcd
+- WTF
+- watchpeopledie
+- IAmA
+- therewasanattempt
+- JusticeServed
+- videos
+- BetterEveryLoop
+- funny
+- gifsthatendtoosoon
+- Roadcam
+- OutOfTheLoop
+- instant_regret
+- whatcouldgoright
+- ProRevenge
+- metric_units
+- instantkarma
+---

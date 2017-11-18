@@ -1,0 +1,24 @@
+---
+title: kodi
+crosslinks:
+- Addons4Kodi
+- AndroidTV
+- KodionATV4
+- fireTV
+- PleX
+- RetroPie
+- im14andthisisedgy
+- graphic_design
+- alexa
+- DHExchange
+- OSMC
+- Kodivpn
+- autotldr
+- explainlikeimfive
+- networking
+- addons4kodi
+- linux
+- television
+- ShieldAndroidTV
+- chromeos
+---

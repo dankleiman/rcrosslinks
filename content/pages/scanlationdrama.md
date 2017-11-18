@@ -1,0 +1,5 @@
+---
+title: scanlationdrama
+crosslinks:
+- manga
+---

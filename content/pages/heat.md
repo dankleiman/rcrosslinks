@@ -1,0 +1,24 @@
+---
+title: heat
+crosslinks:
+- HeatNews
+- torontoraptors
+- AtlantaHawks
+- livven
+- miamidolphins
+- rockets
+- GoNets
+- WholesomeTeams
+- washingtonwizards
+- NBA2k
+- CringeAnarchy
+- wildcats
+- detroitlions
+- SeattleWA
+- sports
+- YouShouldKnow
+- todayilearned
+- LAClippers
+- warriors
+- UtahJazz
+---

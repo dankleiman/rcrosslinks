@@ -1,0 +1,5 @@
+---
+title: BrainwashedAmerica
+crosslinks:
+- autotldr
+---

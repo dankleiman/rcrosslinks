@@ -1,0 +1,5 @@
+---
+title: RIPcringepics
+crosslinks:
+- cringepics
+---

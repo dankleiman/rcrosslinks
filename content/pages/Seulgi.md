@@ -1,0 +1,5 @@
+---
+title: Seulgi
+crosslinks:
+- kpop
+---

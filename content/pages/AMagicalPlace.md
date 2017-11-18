@@ -1,0 +1,5 @@
+---
+title: AMagicalPlace
+crosslinks:
+- IAmA
+---

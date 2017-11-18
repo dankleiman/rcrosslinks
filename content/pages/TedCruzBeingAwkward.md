@@ -1,0 +1,5 @@
+---
+title: TedCruzBeingAwkward
+crosslinks:
+- EnoughTrumpSpam
+---

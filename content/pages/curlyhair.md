@@ -1,0 +1,24 @@
+---
+title: curlyhair
+crosslinks:
+- HaircareScience
+- NoPoo
+- FancyFollicles
+- Naturalhair
+- livven
+- haircareexchange
+- FierceFlow
+- redditrequest
+- RoastMe
+- Serendipity
+- FrenchWestIndies
+- ABraThatFits
+- dreadlocks
+- cosplayers
+- 264ltvk
+- MakeupAddiction
+- CrohnsDisease
+- BrasilOnReddit
+- r4r
+- femalehairadvice
+---

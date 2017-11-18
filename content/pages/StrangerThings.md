@@ -1,0 +1,24 @@
+---
+title: StrangerThings
+crosslinks:
+- autotldr
+- pics
+- thewalkingdead
+- xkcd
+- HailCorporate
+- dvdcollection
+- DaystromInstitute
+- deadpoolshould
+- tiger
+- ChargeYourPhone
+- TextlessPosters
+- Psychopathy
+- WTF
+- progmetal
+- synthesizers
+- dontdeadopeninside
+- ConfusedBoners
+- lootcratespoilers
+- NintendoSwitch
+- Screenwriting
+---

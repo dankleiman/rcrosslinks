@@ -1,0 +1,24 @@
+---
+title: gifs
+crosslinks:
+- funny
+- aww
+- AskReddit
+- videos
+- pics
+- gifsthatendtoosoon
+- IAmA
+- todayilearned
+- The_Donald
+- interestingasfuck
+- UNBGBBIIVCHIDCTIICBG
+- BetterEveryLoop
+- oddlysatisfying
+- WTF
+- Whatcouldgowrong
+- gaming
+- woahdude
+- mildlyinteresting
+- OutOfTheLoop
+- Unexpected
+---

@@ -1,0 +1,24 @@
+---
+title: ShittyMapPorn
+crosslinks:
+- MapsWithoutNZ
+- MapPorn
+- mapporncirclejerk
+- finlandConspiracy
+- dataisugly
+- BrasilOnReddit
+- xkcd
+- me_ira
+- facepalm
+- Serendipity
+- MapsWithoutTasmania
+- finlandconspiracy
+- human
+- potatosalad
+- geography
+- CrappyDesign
+- PropagandaPosters
+- livven
+- UnexpectedHamilton
+- cirkeltrek
+---

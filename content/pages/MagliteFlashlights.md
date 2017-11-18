@@ -1,0 +1,5 @@
+---
+title: MagliteFlashlights
+crosslinks:
+- flashlight
+---

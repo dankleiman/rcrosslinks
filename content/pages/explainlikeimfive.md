@@ -1,0 +1,24 @@
+---
+title: explainlikeimfive
+crosslinks:
+- askscience
+- announcements
+- AskHistorians
+- OutOfTheLoop
+- NoStupidQuestions
+- AskReddit
+- todayilearned
+- IAmA
+- pics
+- videos
+- news
+- worldnews
+- interestingasfuck
+- science
+- changemyview
+- funny
+- space
+- linux
+- WTF
+- mildlyinteresting
+---

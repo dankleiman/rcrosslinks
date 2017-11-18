@@ -1,0 +1,5 @@
+---
+title: elgranada
+crosslinks:
+- Coastside
+---

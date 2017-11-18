@@ -1,0 +1,5 @@
+---
+title: ObjectivelyFantastic
+crosslinks:
+- CrappyDesign
+---

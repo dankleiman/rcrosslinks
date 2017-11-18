@@ -1,0 +1,5 @@
+---
+title: securityfuckup
+crosslinks:
+- ProgrammerHumor
+---

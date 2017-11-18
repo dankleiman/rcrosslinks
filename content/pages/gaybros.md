@@ -1,0 +1,24 @@
+---
+title: gaybros
+crosslinks:
+- autotldr
+- RightwingLGBT
+- livven
+- gay
+- funny
+- gay_irl
+- xkcd
+- The_Donald
+- politics
+- AskReddit
+- exmormon
+- AskHistorians
+- TotallyStraight
+- news
+- gaymers
+- ConservativeLGBT
+- HillaryForAmerica
+- Fitness
+- rupaulsdragrace
+- HighQualityGifs
+---

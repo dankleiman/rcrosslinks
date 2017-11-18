@@ -1,0 +1,5 @@
+---
+title: Logan
+crosslinks:
+- Serendipity
+---

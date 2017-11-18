@@ -1,0 +1,5 @@
+---
+title: Yishun
+crosslinks:
+- autotldr
+---

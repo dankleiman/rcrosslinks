@@ -1,0 +1,24 @@
+---
+title: Justfuckmyshitup
+crosslinks:
+- ATBGE
+- pics
+- livven
+- SwordOrSheath
+- WTF
+- fakehistoryporn
+- ear_ased
+- titlegore
+- me_irl
+- tifu
+- dankmemes
+- KnightsOfPineapple
+- titleporn
+- RoastMe
+- ANormalDayInRussia
+- funny
+- Fiveheads
+- IAmA
+- awfuleverything
+- BestOfReports
+---

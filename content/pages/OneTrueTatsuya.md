@@ -1,0 +1,5 @@
+---
+title: OneTrueTatsuya
+crosslinks:
+- Mahouka
+---

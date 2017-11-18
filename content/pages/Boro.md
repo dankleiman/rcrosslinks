@@ -1,0 +1,5 @@
+---
+title: Boro
+crosslinks:
+- soccer
+---

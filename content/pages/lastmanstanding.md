@@ -1,0 +1,5 @@
+---
+title: lastmanstanding
+crosslinks:
+- autotldr
+---

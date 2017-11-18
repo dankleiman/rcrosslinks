@@ -1,0 +1,5 @@
+---
+title: DryAgedBeef
+crosslinks:
+- sousvide
+---

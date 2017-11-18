@@ -1,0 +1,5 @@
+---
+title: Earbuds
+crosslinks:
+- shutupandtakemymoney
+---

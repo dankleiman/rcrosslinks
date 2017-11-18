@@ -1,0 +1,5 @@
+---
+title: kfan
+crosslinks:
+- minnesotavikings
+---

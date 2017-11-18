@@ -1,0 +1,24 @@
+---
+title: earthbound
+crosslinks:
+- placestart
+- mother4
+- TheBlueCorner
+- 3dshacks
+- place
+- Serendipity
+- livven
+- nocontext
+- indieheads
+- LofiHipHop
+- fivenightsatfreddys
+- csshelp
+- titlegore
+- FuckShawn
+- kindcupman
+- OutOfTheLoop
+- gamedev
+- vintageviral
+- houston
+- Shittygamecollecting
+---

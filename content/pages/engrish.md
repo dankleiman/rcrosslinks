@@ -1,0 +1,24 @@
+---
+title: engrish
+crosslinks:
+- softwaregore
+- CrappyDesign
+- xkcd
+- keming
+- funny
+- ShittyPhrasing
+- surrealmemes
+- WTF
+- drumcorpscirclejerk
+- europe
+- The_Donald
+- JonTron
+- hmmm
+- savedyouaclick
+- LatvianJokes
+- ChargeYourPhone
+- spellinggore
+- suspiciousquotes
+- singapore
+- vexillologycirclejerk
+---

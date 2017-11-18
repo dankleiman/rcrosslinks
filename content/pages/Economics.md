@@ -1,0 +1,24 @@
+---
+title: Economics
+crosslinks:
+- autotldr
+- zeronet
+- Shitstatistssay
+- BasicIncome
+- AskEconomics
+- Futurology
+- LateStageCapitalism
+- ethereumfraud
+- changemyview
+- xkcd
+- worldpolitics
+- lostgeneration
+- ConcentrationOfWealth
+- Anarcho_Capitalism
+- worldnews
+- ShitAmericansSay
+- Econ
+- science
+- ethereum
+- collapse
+---

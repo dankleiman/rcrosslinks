@@ -1,0 +1,24 @@
+---
+title: rugbyunion
+crosslinks:
+- livven
+- JusticeForKeith
+- leicester_tigers
+- Cricket
+- sports
+- ireland
+- '2013'
+- funny
+- TheRefWasBiased
+- IrelandonReddit
+- nrl
+- newzealand
+- PerCapitaBragging
+- soccer
+- PhotoshopRequest
+- highqualitygifs
+- science
+- autotldr
+- Accounting
+- mangapond
+---

@@ -1,0 +1,24 @@
+---
+title: pinkfloyd
+crosslinks:
+- PinkFloydCircleJerk
+- vinyl
+- place
+- lewronggeneration
+- AskReddit
+- Serendipity
+- RogerWaters
+- pics
+- FloydVsVoid
+- Romania
+- engineering
+- findfashion
+- freefolk
+- misophonia
+- gatekeeping
+- HolyRogerWaters
+- KarmaCourt
+- FansOfLunaLee
+- Animemes
+- fender
+---

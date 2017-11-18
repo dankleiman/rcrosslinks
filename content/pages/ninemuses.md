@@ -1,0 +1,5 @@
+---
+title: ninemuses
+crosslinks:
+- kpop
+---

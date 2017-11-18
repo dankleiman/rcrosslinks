@@ -1,0 +1,5 @@
+---
+title: disgusting
+crosslinks:
+- army
+---

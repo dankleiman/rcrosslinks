@@ -1,0 +1,24 @@
+---
+title: Wishlist
+crosslinks:
+- Random_Acts_Of_Amazon
+- mashgifs
+- TheSilphRoad
+- AskReddit
+- pics
+- thesilphroad
+- TeacherExchange
+- gifs
+- CrossStitch
+- '2013'
+- todayilearned
+- wholesomememes
+- funny
+- crikey
+- RandomActsofCards
+- California
+- childfree
+- defaults
+- self
+- veganrecipes
+---

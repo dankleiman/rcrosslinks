@@ -1,0 +1,24 @@
+---
+title: ideasfortheadmins
+crosslinks:
+- announcements
+- modnews
+- help
+- changelog
+- csshelp
+- all
+- xkcd
+- The_Donald
+- Fitness
+- TheoryOfReddit
+- CGPGrey
+- ModSupport
+- friends
+- Enhancement
+- BestRedditDesign
+- test
+- OutOfTheLoop
+- AskModerators
+- tippr
+- spam
+---

@@ -1,0 +1,5 @@
+---
+title: onecoin
+crosslinks:
+- autotldr
+---

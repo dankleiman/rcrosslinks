@@ -1,0 +1,5 @@
+---
+title: mildlyweird
+crosslinks:
+- OldSchoolCool
+---

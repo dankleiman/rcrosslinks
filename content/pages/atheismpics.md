@@ -1,0 +1,5 @@
+---
+title: atheismpics
+crosslinks:
+- atheism
+---

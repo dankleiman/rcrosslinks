@@ -1,0 +1,5 @@
+---
+title: makhaevism
+crosslinks:
+- CriticalTheory
+---

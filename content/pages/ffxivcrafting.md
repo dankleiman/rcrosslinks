@@ -1,0 +1,5 @@
+---
+title: ffxivcrafting
+crosslinks:
+- ffxiv
+---

@@ -1,0 +1,5 @@
+---
+title: EdgyMemes
+crosslinks:
+- wtfdidijustread
+---

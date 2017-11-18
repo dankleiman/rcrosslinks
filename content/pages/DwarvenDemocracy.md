@@ -1,0 +1,5 @@
+---
+title: DwarvenDemocracy
+crosslinks:
+- DemocratiaUniversalis
+---

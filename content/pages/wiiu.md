@@ -1,0 +1,24 @@
+---
+title: wiiu
+crosslinks:
+- WiiUHacks
+- NintendoSwitch
+- zelda
+- nintendo
+- devils_third
+- wiiuhacks
+- Games
+- splatoon
+- MarioMaker
+- gamecollecting
+- GameSale
+- nintendoswitch
+- patientgamers
+- arresteddevelopment
+- WiiHacks
+- TraditionalMarioMaker
+- xkcd
+- livven
+- AMAAggregator
+- PS4
+---

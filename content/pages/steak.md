@@ -1,0 +1,24 @@
+---
+title: steak
+crosslinks:
+- livven
+- PutAnEggOnIt
+- meat
+- sousvide
+- FoodPorn
+- castiron
+- wine
+- gifs
+- AskReddit
+- Venison
+- sanfrancisco
+- WeWantPlates
+- Pizza
+- BBQ
+- food
+- GifRecipes
+- Austin
+- aww
+- The_Donald
+- tacos
+---

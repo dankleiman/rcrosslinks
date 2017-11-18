@@ -1,0 +1,24 @@
+---
+title: Gaming4Gamers
+crosslinks:
+- Games
+- gaming
+- patientgamers
+- autotldr
+- pcmasterrace
+- EmulationOnAndroid
+- gamemaker
+- truegaming
+- IAmA
+- pcgaming
+- ZadocPaet
+- emulation
+- Steam
+- livven
+- metroidvania
+- JRPG
+- pics
+- podcasts
+- NintendoSwitch
+- gameswap
+---

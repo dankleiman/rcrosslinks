@@ -1,0 +1,5 @@
+---
+title: nicegals
+crosslinks:
+- pics
+---

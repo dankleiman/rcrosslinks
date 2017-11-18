@@ -1,0 +1,24 @@
+---
+title: MonsterMusume
+crosslinks:
+- livven
+- anime
+- KissAnime
+- Pixiv
+- Animemes
+- TwoBestFriendsPlay
+- DragonMaid
+- xkcd
+- UnexpectedRT
+- thighdeology
+- BrasilOnReddit
+- OnePiece
+- RimWorld
+- marijuanaenthusiasts
+- MemeEconomy
+- MonsterGirl
+- AskReddit
+- opieandanthony
+- Gunpla
+- theydidthemath
+---

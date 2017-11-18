@@ -1,0 +1,23 @@
+---
+title: kurzgesagt
+crosslinks:
+- zeronet
+- space
+- multiwall
+- ConcentrationOfWealth
+- autotldr
+- Design
+- titlegore
+- ethereum
+- flatdesign
+- xkcd
+- modnews
+- ProCSS
+- askscience
+- iWallpaper
+- sugarfree
+- mealtimevideos
+- mildlyinfuriating
+- FlashTV
+- Jokes
+---

@@ -1,0 +1,5 @@
+---
+title: RainbowSocks
+crosslinks:
+- nsfwoutfits
+---

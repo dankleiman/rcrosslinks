@@ -1,0 +1,24 @@
+---
+title: CatGifs
+crosslinks:
+- aww
+- gifs
+- StartledCats
+- Thisismylifemeow
+- CatsAreAssholes
+- cats
+- hitanimals
+- CatTaps
+- StoppedWorking
+- funny
+- mildlyinfuriating
+- perfectloops
+- StuffOnCats
+- AnimalsBeingDerps
+- catpranks
+- Raccoons
+- unexpectedmetallica
+- gifsthatkeepongiving
+- MisleadingTitles
+- youseeingthisshit
+---

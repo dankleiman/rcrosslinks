@@ -1,0 +1,5 @@
+---
+title: MutualYuri
+crosslinks:
+- Palpz
+---

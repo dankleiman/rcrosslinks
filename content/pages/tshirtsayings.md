@@ -1,0 +1,5 @@
+---
+title: tshirtsayings
+crosslinks:
+- horizon
+---

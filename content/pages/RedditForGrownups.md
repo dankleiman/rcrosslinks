@@ -1,0 +1,24 @@
+---
+title: RedditForGrownups
+crosslinks:
+- AskMenOver30
+- autotldr
+- xkcd
+- marriedredpill
+- AskOldPeople
+- findareddit
+- synthesizers
+- CPTSD
+- 2meirl4meirl
+- teenagers
+- worldnews
+- RedditorsOver40
+- BuyItForLife
+- Bass
+- TenYearsAgoOnReddit
+- gifs
+- WayOfTheBern
+- Adoption
+- BreakUps
+- personalfinance
+---

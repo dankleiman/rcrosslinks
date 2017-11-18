@@ -1,0 +1,5 @@
+---
+title: fpldraft
+crosslinks:
+- FantasyPL
+---

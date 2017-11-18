@@ -1,0 +1,5 @@
+---
+title: ConsciousFuturist
+crosslinks:
+- conspiracy
+---

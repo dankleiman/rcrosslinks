@@ -1,0 +1,5 @@
+---
+title: CustomLegends
+crosslinks:
+- elderscrollslegends
+---

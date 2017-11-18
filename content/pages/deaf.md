@@ -1,0 +1,23 @@
+---
+title: deaf
+crosslinks:
+- asl
+- autotldr
+- xkcd
+- KingOfTheHill
+- Blind
+- videos
+- prisonreform
+- Madden
+- Filmmakers
+- science
+- DeafSkype
+- wow
+- livven
+- relationships
+- matt
+- Military
+- CodeGeass
+- antinatalism
+- technology
+---

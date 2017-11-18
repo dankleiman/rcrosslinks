@@ -1,0 +1,5 @@
+---
+title: FUTINVESTMENTS
+crosslinks:
+- FIFA
+---

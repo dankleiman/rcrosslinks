@@ -1,0 +1,5 @@
+---
+title: SunglassesEmoji
+crosslinks:
+- FellowKids
+---

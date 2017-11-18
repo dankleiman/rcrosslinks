@@ -1,0 +1,24 @@
+---
+title: uofmn
+crosslinks:
+- TheB1G
+- place
+- uofm
+- google
+- Frat
+- UWMadison
+- vzla
+- SuggestALaptop
+- cscareerquestions
+- Minneapolis
+- argentina
+- Surface
+- actuary
+- Serendipity
+- cats
+- Finland
+- LSU
+- OSU
+- IndianaUniversity
+- TwinCities
+---

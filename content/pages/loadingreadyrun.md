@@ -1,0 +1,5 @@
+---
+title: loadingreadyrun
+crosslinks:
+- magicTCG
+---

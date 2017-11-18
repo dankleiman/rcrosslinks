@@ -1,0 +1,5 @@
+---
+title: SCFreiburg
+crosslinks:
+- Bundesliga
+---

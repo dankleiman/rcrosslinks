@@ -1,0 +1,5 @@
+---
+title: AnimolPoetry
+crosslinks:
+- MadeMeSmile
+---

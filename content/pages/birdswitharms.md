@@ -1,0 +1,24 @@
+---
+title: birdswitharms
+crosslinks:
+- ArmedBirds
+- pics
+- livven
+- natureismetal
+- KarmaCourt
+- FuckTammy
+- saiyanpeopletwitter
+- Cinemagraphs
+- wow
+- StoppedWorking
+- Shurima
+- ofcoursethatsathong
+- weekendgunnit
+- aww
+- enlightenedclockmen
+- BirdsWithDicks
+- stevenuniverse
+- EnoughInternet
+- everything
+- funny
+---

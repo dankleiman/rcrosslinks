@@ -1,0 +1,5 @@
+---
+title: primes
+crosslinks:
+- shareafap
+---

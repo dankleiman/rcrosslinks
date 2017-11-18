@@ -1,0 +1,5 @@
+---
+title: VeganPanama
+crosslinks:
+- Panama
+---

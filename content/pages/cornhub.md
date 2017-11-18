@@ -1,0 +1,5 @@
+---
+title: cornhub
+crosslinks:
+- funny
+---

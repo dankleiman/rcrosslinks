@@ -1,0 +1,24 @@
+---
+title: kickstarter
+crosslinks:
+- shittykickstarters
+- Games
+- AMAAggregator
+- Watches
+- Entrepreneur
+- Serendipity
+- gamedev
+- daddit
+- AshesofCreation
+- 90sdesign
+- puns
+- IsItBullshit
+- arduino
+- DontFundMe
+- explainlikeimfive
+- asmr
+- SonsOfTheVoid
+- homeautomation
+- autotldr
+- Rotoscope
+---

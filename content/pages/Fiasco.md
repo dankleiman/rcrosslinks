@@ -1,0 +1,5 @@
+---
+title: Fiasco
+crosslinks:
+- rpg
+---

@@ -1,0 +1,21 @@
+---
+title: instantpot
+crosslinks:
+- PressureCooking
+- slowcooking
+- instantpotsmart
+- xUXFHdl
+- Sourdough
+- MealPrepSunday
+- EatCheapAndHealthy
+- 0dswtBS
+- GifRecipes
+- Breadit
+- 3nkQVaG
+- castiron
+- ICyFfLg
+- OL8m0ie
+- ecLApZH
+- gXLXKW5
+- JapaneseFood
+---

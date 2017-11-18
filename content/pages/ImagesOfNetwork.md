@@ -1,0 +1,5 @@
+---
+title: ImagesOfNetwork
+crosslinks:
+- funny
+---

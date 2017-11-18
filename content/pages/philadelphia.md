@@ -1,0 +1,24 @@
+---
+title: philadelphia
+crosslinks:
+- autotldr
+- The_Donald
+- philly
+- livven
+- pics
+- xkcd
+- Drama
+- news
+- Shitstatistssay
+- politics
+- Political_Revolution
+- titlegore
+- AskReddit
+- washingtondc
+- Enough_Sanders_Spam
+- IASIP
+- Phillylist
+- sysadmin
+- keming
+- OutOfTheLoop
+---

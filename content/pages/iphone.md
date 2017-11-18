@@ -1,0 +1,24 @@
+---
+title: iphone
+crosslinks:
+- apple
+- iOSBeta
+- Android
+- ios
+- SiriFail
+- applehelp
+- ipad
+- ATT
+- iWallpaper
+- AskReddit
+- xkcd
+- AndroidMasterRace
+- iphonehelp
+- Sprint
+- livven
+- funny
+- sideloaded
+- The_Donald
+- android
+- NoContract
+---

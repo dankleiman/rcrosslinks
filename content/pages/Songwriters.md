@@ -1,0 +1,24 @@
+---
+title: Songwriters
+crosslinks:
+- Songwriting
+- MusicInTheMaking
+- MusicCritique
+- getdisciplined
+- indie_uk
+- deadline_writers
+- musicmakers
+- GetMotivated
+- lyrics
+- CoverMySong
+- atlantamusic
+- CageTheElephant
+- ThisIsOurMusic
+- singing
+- selfmusic
+- WeAreTheMusicMakers
+- songwriterscircle
+- SongwritingPrompts
+- songaweek
+- OCPoetry
+---

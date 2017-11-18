@@ -1,0 +1,24 @@
+---
+title: MensLib
+crosslinks:
+- AskFeminists
+- malefashionadvice
+- MensRights
+- Feminism
+- exredpill
+- seduction
+- Intactivists
+- worldnews
+- TrollXChromosomes
+- onguardforthee
+- FemmeThoughts
+- science
+- europe
+- AskMen
+- ReclaimingCivics
+- socialjustice101
+- foreskin_restoration
+- Stoicism
+- politics
+- askscience
+---

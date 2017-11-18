@@ -1,0 +1,5 @@
+---
+title: SocialismVSocialism
+crosslinks:
+- Drama
+---

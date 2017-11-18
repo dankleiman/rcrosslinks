@@ -1,0 +1,24 @@
+---
+title: CPTSD
+crosslinks:
+- survivinginfidelity
+- SuicideWatch
+- Codependency
+- BPD
+- internetparents
+- ExNoContact
+- Anne
+- 2lliqyx
+- LifeAfterNarcissism
+- SurvivingToThriving
+- CatTraining
+- infj
+- CBD
+- PTSDParents
+- aspergers
+- comics
+- Drugs
+- AskNetsec
+- getdisciplined
+- AlAnon
+---

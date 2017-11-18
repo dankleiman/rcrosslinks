@@ -1,0 +1,24 @@
+---
+title: Pathfinder_RPG
+crosslinks:
+- DnD
+- Pathfinder
+- rpg
+- DnDBehindTheScreen
+- DnDGreentext
+- dndnext
+- lfg
+- reincarnate
+- regenerate
+- TheGlassCannonPodcast
+- starfinder_rpg
+- characterdrawing
+- Ichthus95
+- gametales
+- DMDadJokes
+- livven
+- resurrection
+- xkcd
+- savageworlds
+- 3d6
+---

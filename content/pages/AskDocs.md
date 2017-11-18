@@ -1,0 +1,24 @@
+---
+title: AskDocs
+crosslinks:
+- optometry
+- medical
+- popping
+- SkincareAddiction
+- Dermatology
+- WTF
+- Dentistry
+- keto
+- AskDoctorSmeeee
+- ImagesOfUSA
+- Anxiety
+- TMJ
+- mentalhealth
+- xkcd
+- Herpes
+- santaclaritadiet
+- physicaltherapy
+- Podiatry
+- self
+- intermittentfasting
+---

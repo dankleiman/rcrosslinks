@@ -1,0 +1,24 @@
+---
+title: OnePunchMan
+crosslinks:
+- onepunch_man
+- respectthreads
+- xkcd
+- manga
+- anime
+- theydidthemath
+- nocontext
+- AskReddit
+- whowouldwin
+- OnePiece
+- BokuNoHeroAcademia
+- announcements
+- askscience
+- hearthstone
+- explainlikeimfive
+- CharacterRant
+- funny
+- ShingekiNoKyojin
+- 4chan
+- USC
+---

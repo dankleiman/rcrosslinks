@@ -1,0 +1,5 @@
+---
+title: Cockatrice
+crosslinks:
+- custommagic
+---

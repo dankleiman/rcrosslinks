@@ -1,0 +1,5 @@
+---
+title: Dredmor
+crosslinks:
+- AMAAggregator
+---

@@ -1,0 +1,5 @@
+---
+title: ESOXBOX
+crosslinks:
+- elderscrollslegends
+---

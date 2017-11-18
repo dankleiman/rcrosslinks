@@ -1,0 +1,5 @@
+---
+title: ModelLeMonde
+crosslinks:
+- ModelPresse
+---

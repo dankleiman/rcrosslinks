@@ -1,0 +1,5 @@
+---
+title: CryptoTrade
+crosslinks:
+- BitMarket
+---

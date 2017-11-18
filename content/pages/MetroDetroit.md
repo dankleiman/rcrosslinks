@@ -1,0 +1,5 @@
+---
+title: MetroDetroit
+crosslinks:
+- PlymouthMI
+---

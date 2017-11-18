@@ -1,0 +1,24 @@
+---
+title: rapbattles
+crosslinks:
+- livven
+- hiphopheads
+- RapWars
+- FinancialAdvice
+- shittyHDR
+- cringe
+- IAmA
+- LivestreamFail
+- AskOuija
+- grime
+- Daylyt
+- NintendoSwitch
+- Music
+- ScottishPeopleTwitter
+- rap
+- conspiracy
+- traps
+- mallninjashit
+- ScenesFromAHat
+- 1zgxqva
+---

@@ -1,0 +1,5 @@
+---
+title: LLB
+crosslinks:
+- uklaw
+---

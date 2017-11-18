@@ -1,0 +1,5 @@
+---
+title: RocketLeagueAnalysis
+crosslinks:
+- RocketLeague
+---

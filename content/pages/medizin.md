@@ -1,0 +1,5 @@
+---
+title: medizin
+crosslinks:
+- de
+---

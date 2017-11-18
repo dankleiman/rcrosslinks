@@ -1,0 +1,5 @@
+---
+title: infinitode
+crosslinks:
+- codes
+---

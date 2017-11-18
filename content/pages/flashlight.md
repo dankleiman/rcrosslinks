@@ -1,0 +1,24 @@
+---
+title: flashlight
+crosslinks:
+- 18650masterrace
+- xkcd
+- electronic_cigarette
+- EDCexchange
+- livven
+- preppers
+- EDC
+- pics
+- zak
+- AskElectronics
+- gardening
+- whatisthisthing
+- edc_raffle
+- TitaniumEDC
+- BurningMan
+- homedefense
+- Watches
+- SexToys
+- ToyotaTacoma
+- videos
+---

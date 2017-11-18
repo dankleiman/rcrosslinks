@@ -1,0 +1,24 @@
+---
+title: fakehistoryporn
+crosslinks:
+- livven
+- Chinese_Bootleg_Memes
+- The_Donald
+- gonewilder
+- pics
+- dankmemes
+- funny
+- EnoughTrumpSpam
+- interestingasfuck
+- h3h3productions
+- Drama
+- OldSchoolCool
+- gatekeeping
+- AskReddit
+- socialism
+- MemeEconomy
+- arresteddevelopment
+- dankchristianmemes
+- Warthunder
+- PrequelMemes
+---

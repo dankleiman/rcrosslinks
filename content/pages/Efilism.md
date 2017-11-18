@@ -1,0 +1,5 @@
+---
+title: Efilism
+crosslinks:
+- wildanimalsuffering
+---

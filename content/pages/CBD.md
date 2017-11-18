@@ -1,0 +1,24 @@
+---
+title: CBD
+crosslinks:
+- Waxpen
+- kratom
+- electronic_cigarette
+- CanadianMOMs
+- trees
+- Nootropics
+- DIY_eJuice
+- ChronicPain
+- canadients
+- hemp
+- leaves
+- science
+- Kava
+- vaporents
+- Drugs
+- LegalAdviceUK
+- uktrees
+- MMA
+- Supplements
+- DrugNerds
+---

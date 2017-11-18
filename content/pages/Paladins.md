@@ -1,0 +1,24 @@
+---
+title: Paladins
+crosslinks:
+- DrYoshiyahu
+- livven
+- Smite
+- PaladinsLore
+- Overwatch
+- Rule34Paladins
+- spsa
+- gaming
+- place
+- Pay_Respects
+- PaladinsAcademy
+- OverwatchCirclejerk
+- PaladinsLFT
+- Gamingcirclejerk
+- tf2
+- leagueoflegends
+- lowspecgamer
+- titlegore
+- FlashTV
+- SUBREDDITNAME
+---

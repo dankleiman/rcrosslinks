@@ -1,0 +1,24 @@
+---
+title: microdosing
+crosslinks:
+- Drugs
+- LSD
+- Nootropics
+- autotldr
+- MDMA
+- Stims
+- RCSources
+- researchchemicals
+- livven
+- Psychonaut
+- Borax
+- DarkNetMarkets
+- AlphaBayMarket
+- Music
+- KratomKorner
+- ADHD
+- IAmA
+- EOOD
+- schizophrenia
+- Meditation
+---

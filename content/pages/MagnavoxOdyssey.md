@@ -1,0 +1,5 @@
+---
+title: MagnavoxOdyssey
+crosslinks:
+- argentina
+---

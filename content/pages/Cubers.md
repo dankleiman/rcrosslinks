@@ -1,0 +1,24 @@
+---
+title: Cubers
+crosslinks:
+- BigfootTouchedMe
+- livven
+- xkcd
+- tippr
+- AskReddit
+- all
+- intj
+- place
+- topppits
+- unexpectedfactorial
+- tifu
+- Enhancement
+- Peeler
+- OutOfTheLoop
+- gatekeeping
+- Jokes
+- UtahJazz
+- Throwers
+- theydidntdothemath
+- Yau
+---

@@ -1,0 +1,5 @@
+---
+title: coestar
+crosslinks:
+- Minecraft
+---

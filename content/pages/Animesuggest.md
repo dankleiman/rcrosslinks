@@ -1,0 +1,24 @@
+---
+title: Animesuggest
+crosslinks:
+- anime
+- araragi
+- manga
+- fatestaynight
+- Naruto
+- AnimeShortFilms
+- anime_irl
+- TWGOK
+- TrueAnime
+- HentaiSuggest
+- Suomi
+- doujinshi
+- noveltranslations
+- Rivenmains
+- random
+- Tokusatsu
+- makemecry
+- DanMachi
+- katawashoujo
+- titlegore
+---

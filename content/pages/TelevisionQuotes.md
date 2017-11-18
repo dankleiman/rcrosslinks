@@ -1,0 +1,5 @@
+---
+title: TelevisionQuotes
+crosslinks:
+- Serendipity
+---

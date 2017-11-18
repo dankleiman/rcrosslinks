@@ -1,0 +1,21 @@
+---
+title: PiratedGames
+crosslinks:
+- CrackWatch
+- Piracy
+- cemu
+- CrackStatus
+- techsupport
+- windows
+- technology
+- Massgate
+- FancyFollicles
+- CrackSupport
+- pcmasterrace
+- Games
+- FreeGamesOnSteam
+- HollowKnight
+- HateCrimeHoaxes
+- CrusaderKings
+- crackwatch
+---

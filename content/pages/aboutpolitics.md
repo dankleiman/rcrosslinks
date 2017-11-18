@@ -1,0 +1,5 @@
+---
+title: aboutpolitics
+crosslinks:
+- autotldr
+---

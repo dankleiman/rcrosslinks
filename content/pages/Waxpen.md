@@ -1,0 +1,24 @@
+---
+title: Waxpen
+crosslinks:
+- Saionara
+- SOURCEvapes
+- WAXRDA
+- vaporents
+- electronic_cigarette
+- oilpen
+- UpTech
+- rosin
+- EntExchange
+- livven
+- CBD
+- WaxRDA
+- vapeheads
+- Pyongyang
+- OutOfTheLoop
+- DIY_eJuice
+- Canadian_ecigarette
+- cedarpoint
+- IgnorantImgur
+- ShatterDeals
+---

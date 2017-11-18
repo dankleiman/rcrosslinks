@@ -1,0 +1,5 @@
+---
+title: poweredparagliding
+crosslinks:
+- paramotor
+---

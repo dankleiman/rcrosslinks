@@ -1,0 +1,5 @@
+---
+title: EconJobMarket
+crosslinks:
+- autotldr
+---

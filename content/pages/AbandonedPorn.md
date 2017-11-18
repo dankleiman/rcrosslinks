@@ -1,0 +1,24 @@
+---
+title: AbandonedPorn
+crosslinks:
+- PornOverlords
+- rustyrails
+- nosleep
+- pics
+- shittyHDR
+- creepy
+- AskReddit
+- ThePicturesofTacHam
+- Birmingham
+- metro2033
+- BrasilOnReddit
+- architecture
+- gatekeeping
+- CrappyDesign
+- excgarated
+- Pennsylvania
+- OldPhotosInRealLife
+- AccidentalWesAnderson
+- MostBeautiful
+- mildlyinteresting
+---

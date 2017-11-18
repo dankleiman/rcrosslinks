@@ -1,0 +1,5 @@
+---
+title: Shinto
+crosslinks:
+- japan
+---

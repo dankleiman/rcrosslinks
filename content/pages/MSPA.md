@@ -1,0 +1,5 @@
+---
+title: MSPA
+crosslinks:
+- homestuck
+---

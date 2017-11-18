@@ -1,0 +1,5 @@
+---
+title: AskOujia
+crosslinks:
+- AskOuija
+---

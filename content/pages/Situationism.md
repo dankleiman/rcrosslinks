@@ -1,0 +1,5 @@
+---
+title: Situationism
+crosslinks:
+- GetMotivated
+---

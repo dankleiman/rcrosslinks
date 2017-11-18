@@ -1,0 +1,5 @@
+---
+title: wmmercenaries
+crosslinks:
+- Warmachine
+---

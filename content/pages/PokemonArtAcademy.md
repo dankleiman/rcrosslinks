@@ -1,0 +1,5 @@
+---
+title: PokemonArtAcademy
+crosslinks:
+- PokemonFartAcademy
+---

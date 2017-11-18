@@ -1,0 +1,5 @@
+---
+title: VintageSmut
+crosslinks:
+- shittyaskmath
+---

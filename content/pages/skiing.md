@@ -1,0 +1,24 @@
+---
+title: skiing
+crosslinks:
+- livven
+- Backcountry
+- icecoast
+- videos
+- tahoe
+- The_Donald
+- AskReddit
+- JerryOfTheDay
+- evenwithcontext
+- announcements
+- nonononoyes
+- Wellthatsucks
+- momentskis
+- Cinemagraphs
+- autotldr
+- ThingsCutInHalfPorn
+- funny
+- Slackline
+- Gnar
+- nocontext
+---

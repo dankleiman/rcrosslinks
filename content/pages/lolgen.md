@@ -1,0 +1,5 @@
+---
+title: lolgen
+crosslinks:
+- autotldr
+---

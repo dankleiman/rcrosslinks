@@ -1,0 +1,5 @@
+---
+title: ShittyForHonor
+crosslinks:
+- shittydarksouls
+---

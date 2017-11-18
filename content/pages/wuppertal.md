@@ -1,0 +1,5 @@
+---
+title: wuppertal
+crosslinks:
+- duesseldorf
+---

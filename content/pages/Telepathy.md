@@ -1,0 +1,5 @@
+---
+title: Telepathy
+crosslinks:
+- telepathic
+---

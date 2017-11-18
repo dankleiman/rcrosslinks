@@ -1,0 +1,5 @@
+---
+title: RTHKauto
+crosslinks:
+- autotldr
+---

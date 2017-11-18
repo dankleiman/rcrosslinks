@@ -1,0 +1,5 @@
+---
+title: biblestudy
+crosslinks:
+- pics
+---

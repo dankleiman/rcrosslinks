@@ -1,0 +1,5 @@
+---
+title: animewasamistake
+crosslinks:
+- dankmemes
+---

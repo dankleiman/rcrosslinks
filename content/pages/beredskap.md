@@ -1,0 +1,5 @@
+---
+title: beredskap
+crosslinks:
+- europe
+---

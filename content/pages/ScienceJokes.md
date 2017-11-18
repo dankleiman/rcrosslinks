@@ -1,0 +1,5 @@
+---
+title: ScienceJokes
+crosslinks:
+- ImGoingToHellForThis
+---

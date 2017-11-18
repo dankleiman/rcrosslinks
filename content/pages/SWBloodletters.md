@@ -1,0 +1,5 @@
+---
+title: SWBloodletters
+crosslinks:
+- SWGalaxyOfHeroes
+---

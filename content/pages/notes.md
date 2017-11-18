@@ -1,0 +1,5 @@
+---
+title: notes
+crosslinks:
+- zelda
+---

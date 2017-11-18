@@ -1,0 +1,5 @@
+---
+title: PlatinumGamesInc
+crosslinks:
+- Games
+---

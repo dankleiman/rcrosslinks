@@ -1,0 +1,24 @@
+---
+title: mildlyinteresting
+crosslinks:
+- pics
+- livven
+- funny
+- HailCorporate
+- xkcd
+- AskReddit
+- KarmaConspiracy
+- shitpost
+- aww
+- interestingasfuck
+- mildlyinfuriating
+- oddlysatisfying
+- nocontext
+- WTF
+- untrustworthypoptarts
+- todayilearned
+- autotldr
+- Pareidolia
+- mildlypenis
+- gifs
+---

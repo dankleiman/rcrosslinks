@@ -1,0 +1,5 @@
+---
+title: Farside
+crosslinks:
+- tattoos
+---

@@ -1,0 +1,24 @@
+---
+title: UkrainianConflict
+crosslinks:
+- autotldr
+- syriancivilwar
+- europe
+- russia
+- worldnews
+- RussianUkrainianWar
+- ukraina
+- MilitaryPorn
+- vexillology
+- AsianMasculinity
+- hapas
+- Suomi
+- Futurology
+- MapPorn
+- nottheonion
+- iamverysmart
+- ukraine
+- ActiveMeasures
+- Drama
+- RussiaDenies
+---

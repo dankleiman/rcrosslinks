@@ -1,0 +1,24 @@
+---
+title: IncelTears
+crosslinks:
+- Incels
+- REEEEEEEEEE
+- SkincareAddiction
+- ForeverAlone
+- IncelReddit
+- AskWomen
+- TheRedPill
+- IncelsWithoutHate
+- RealIncel
+- funny
+- AskReddit
+- Rateme
+- Drama
+- truerateme
+- PlasticSurgery
+- TheBluePill
+- CringeAnarchy
+- todayilearned
+- sugarlifestyleforum
+- explainlikeimfive
+---

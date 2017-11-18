@@ -1,0 +1,5 @@
+---
+title: INFPbannertest
+crosslinks:
+- infp
+---

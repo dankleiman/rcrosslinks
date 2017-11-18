@@ -1,0 +1,5 @@
+---
+title: tofu
+crosslinks:
+- tifu
+---

@@ -1,0 +1,5 @@
+---
+title: beerisahellofadrug
+crosslinks:
+- ANormalDayInRussia
+---

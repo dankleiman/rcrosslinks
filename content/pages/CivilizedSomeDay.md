@@ -1,0 +1,5 @@
+---
+title: CivilizedSomeDay
+crosslinks:
+- explainlikeimfive
+---

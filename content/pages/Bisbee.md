@@ -1,0 +1,5 @@
+---
+title: Bisbee
+crosslinks:
+- arizona
+---

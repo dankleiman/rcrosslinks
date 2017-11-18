@@ -1,0 +1,5 @@
+---
+title: EMInstruments
+crosslinks:
+- synthesizers
+---

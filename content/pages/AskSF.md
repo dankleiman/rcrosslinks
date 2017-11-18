@@ -1,0 +1,24 @@
+---
+title: AskSF
+crosslinks:
+- sanfrancisco
+- California
+- cscareerquestions
+- travel
+- Roadcam
+- xkcd
+- SFGiants
+- GoodValue
+- siliconvalley
+- movies
+- paris
+- datascientists
+- SFCA
+- whatisthisthing
+- napavalley
+- InternetIsBeautiful
+- GalaxyS8
+- FancyFollicles
+- Frugal
+- clapdances
+---

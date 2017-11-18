@@ -1,0 +1,24 @@
+---
+title: crossfit
+crosslinks:
+- Fitness
+- homegym
+- livven
+- weightlifting
+- gifs
+- IAmA
+- xxfitness
+- weightroom
+- Testosterone
+- Showerthoughts
+- loseit
+- encouragement
+- relationship_advice
+- NameThatSong
+- e
+- mildlyinfuriating
+- nostalgia
+- photography
+- GripTraining
+- AdvancedFitness
+---

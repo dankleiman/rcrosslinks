@@ -1,0 +1,24 @@
+---
+title: delusionalartists
+crosslinks:
+- AskReddit
+- ChoosingBeggars
+- crappymusic
+- NotTimAndEric
+- gatekeeping
+- lewronggeneration
+- Justfuckmyshitup
+- surrealmemes
+- 4chan
+- G59
+- learnart
+- mildlyinteresting
+- Art
+- movies
+- Drama
+- oops
+- MurderedByWords
+- PretentiousArtists
+- experimentalmusic
+- delusionalcraigslist
+---

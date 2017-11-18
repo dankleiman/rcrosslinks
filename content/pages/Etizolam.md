@@ -1,0 +1,24 @@
+---
+title: Etizolam
+crosslinks:
+- RCSources
+- Drugs
+- kratom
+- researchchemicals
+- ResearchMarkets
+- ResearchChemBarter
+- DarkNetMarkets
+- safeorscamvendors
+- ResearchChemSource
+- RCVendors
+- Enhanciosa
+- RCsource
+- addiction
+- rcsources
+- EU_RCSources
+- drugscirclejerk
+- malehairadvice
+- ShulginMedal
+- ResearchSource
+- metric_units
+---

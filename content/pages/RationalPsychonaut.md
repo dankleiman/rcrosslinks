@@ -1,0 +1,24 @@
+---
+title: RationalPsychonaut
+crosslinks:
+- Psychonaut
+- C_S_T
+- DMT
+- DrugNerds
+- getdisciplined
+- samharris
+- LSD
+- science
+- ShrugLifeSyndicate
+- researchchemicals
+- Transhuman
+- neuro
+- Drugs
+- knitting
+- PsychedelicStudies
+- awakened
+- Stoicism
+- shrooms
+- MachineLearning
+- AskMen
+---

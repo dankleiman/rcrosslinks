@@ -1,0 +1,24 @@
+---
+title: homegym
+crosslinks:
+- Fitness
+- weightroom
+- crossfit
+- weightlifting
+- livven
+- delusionalcraigslist
+- f
+- HomeImprovement
+- ANW
+- StartingStrength
+- maille
+- metric_units
+- martialarts
+- powerlifting
+- SeanConnery
+- '4'
+- GripTraining
+- Serendipity
+- HIMYM
+- nSuns
+---

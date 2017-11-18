@@ -1,0 +1,5 @@
+---
+title: anticapitalism
+crosslinks:
+- LateStageCapitalism
+---

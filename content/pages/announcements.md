@@ -1,0 +1,24 @@
+---
+title: announcements
+crosslinks:
+- The_Donald
+- modnews
+- politics
+- changelog
+- altright
+- all
+- place
+- EnoughTrumpSpam
+- pics
+- TopMindsOfReddit
+- popular
+- DickThePlace
+- Physical_Removal
+- uncensorednews
+- AskReddit
+- OutOfTheLoop
+- xkcd
+- help
+- TwoXChromosomes
+- worldnews
+---

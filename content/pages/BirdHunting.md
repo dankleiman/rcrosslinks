@@ -1,0 +1,5 @@
+---
+title: BirdHunting
+crosslinks:
+- Hunting
+---

@@ -1,0 +1,5 @@
+---
+title: forJamaica
+crosslinks:
+- Futurology
+---

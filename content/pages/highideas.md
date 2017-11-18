@@ -1,0 +1,5 @@
+---
+title: highideas
+crosslinks:
+- StrangerThings
+---

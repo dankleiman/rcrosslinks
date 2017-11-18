@@ -1,0 +1,24 @@
+---
+title: synology
+crosslinks:
+- DataHoarder
+- linuxserver
+- haugene
+- sysadmin
+- cromigon
+- sonarr
+- Xpenology
+- PleX
+- diginc
+- xkcd
+- couchpotato
+- resilio
+- sykuang
+- microsoft
+- Batch
+- ECE
+- patientgamers
+- somethingimade
+- techsupport
+- rickscherer
+---

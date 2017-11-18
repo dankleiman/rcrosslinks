@@ -1,0 +1,5 @@
+---
+title: Woodshed
+crosslinks:
+- Bass
+---

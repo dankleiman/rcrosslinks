@@ -1,0 +1,5 @@
+---
+title: MemeWizard
+crosslinks:
+- RotMG
+---

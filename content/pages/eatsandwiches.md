@@ -1,0 +1,24 @@
+---
+title: eatsandwiches
+crosslinks:
+- grilledcheese
+- eatwraps
+- food
+- iamveryculinary
+- shittyfoodporn
+- livven
+- ketchuphate
+- FoodPorn
+- smoking
+- deliciouscompliance
+- steak
+- u_dogsnsandwiches
+- ketorecipes
+- funny
+- 52weeksofcooking
+- shittyHDR
+- Doner
+- hot_dog
+- AskReddit
+- drunk
+---

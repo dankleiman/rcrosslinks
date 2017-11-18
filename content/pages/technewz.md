@@ -1,0 +1,5 @@
+---
+title: technewz
+crosslinks:
+- autotldr
+---

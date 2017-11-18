@@ -1,0 +1,5 @@
+---
+title: vulvodynia
+crosslinks:
+- vaginismus
+---

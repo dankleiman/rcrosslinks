@@ -1,0 +1,5 @@
+---
+title: AirsoftCykaJerk
+crosslinks:
+- airsoft
+---

@@ -1,0 +1,24 @@
+---
+title: Stims
+crosslinks:
+- Drugs
+- livven
+- Nootropics
+- researchchemicals
+- DarkNetMarkets
+- DrugNerds
+- NoFap
+- drugscirclejerk
+- FuckingTweakers
+- ADHD
+- opiates
+- RCSources
+- RCVendors
+- kratom
+- autotldr
+- trashy
+- steroids
+- selffuck
+- Dentistry
+- Boofit
+---

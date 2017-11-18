@@ -1,0 +1,5 @@
+---
+title: ArnoldSchwarzenegger
+crosslinks:
+- IAmA
+---

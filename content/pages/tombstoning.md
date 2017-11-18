@@ -1,0 +1,24 @@
+---
+title: tombstoning
+crosslinks:
+- juxtaposition
+- CrappyDesign
+- titleporn
+- AccidentalRacism
+- funny
+- nocontext
+- shitduolingosays
+- sports
+- 2007scape
+- skyrim
+- tf2
+- nevertellmetheodds
+- tall
+- toosoon
+- ironicsigns
+- AskReddit
+- OldSchoolCool
+- keming
+- sydney
+- videos
+---

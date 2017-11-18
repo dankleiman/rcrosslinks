@@ -1,0 +1,5 @@
+---
+title: BEERtoken
+crosslinks:
+- FuckToken
+---

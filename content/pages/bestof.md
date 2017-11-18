@@ -1,0 +1,24 @@
+---
+title: bestof
+crosslinks:
+- politics
+- IAmA
+- AskReddit
+- The_Donald
+- worldnews
+- videos
+- pics
+- news
+- todayilearned
+- technology
+- gifs
+- explainlikeimfive
+- AskHistorians
+- legaladvice
+- DIY
+- funny
+- WTF
+- AdviceAnimals
+- changemyview
+- movies
+---

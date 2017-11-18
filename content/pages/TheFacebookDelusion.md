@@ -1,0 +1,24 @@
+---
+title: TheFacebookDelusion
+crosslinks:
+- unexpectedhogwarts
+- xkcd
+- facepalm
+- MapPorn
+- unexpectedlotr
+- killthosewhodisagree
+- flatearth
+- gatekeeping
+- WeAreTeenagers
+- atheism
+- AskReddit
+- onetruegod
+- Geocentrism
+- TrashyText
+- childfree
+- socialism
+- space
+- dankchristianmemes
+- forwardsfromgrandma
+- suspiciousquotes
+---

@@ -1,0 +1,5 @@
+---
+title: realbeermoney
+crosslinks:
+- anothersideoflife
+---

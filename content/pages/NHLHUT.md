@@ -1,0 +1,24 @@
+---
+title: NHLHUT
+crosslinks:
+- HUTrep
+- livven
+- hutcoinsales
+- EASPORTS_NHL
+- FIFA
+- PS4
+- hockey
+- EA_NHL
+- '2013'
+- funny
+- hawks
+- canucks
+- hutrep
+- AskReddit
+- OttawaSenators
+- puckstreams
+- raerth
+- EASHL
+- 2rm8v7s
+- MaddenUltimateTeam
+---

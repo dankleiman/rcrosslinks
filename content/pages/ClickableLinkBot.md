@@ -1,0 +1,5 @@
+---
+title: ClickableLinkBot
+crosslinks:
+- CFB
+---

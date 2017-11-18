@@ -1,0 +1,5 @@
+---
+title: badcomputerscience
+crosslinks:
+- iiiiiiitttttttttttt
+---

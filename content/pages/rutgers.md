@@ -1,0 +1,24 @@
+---
+title: rutgers
+crosslinks:
+- place
+- cscareerquestions
+- TheB1G
+- RutgersNewark
+- Piracy
+- college
+- trackers
+- newjersey
+- learnprogramming
+- MachineLearning
+- userexperience
+- Big4
+- uofm
+- 2007scape
+- AteThePasta
+- engineering
+- Frugal
+- xkcd
+- BostonU
+- Scholar
+---

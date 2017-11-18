@@ -1,0 +1,24 @@
+---
+title: TheGirlSurvivalGuide
+crosslinks:
+- ABraThatFits
+- AskDocs
+- SkincareAddiction
+- sex
+- AsianBeauty
+- weddingplanning
+- curlyhair
+- BusinessFashion
+- StrongCurves
+- Endo
+- femalefashionadvice
+- menstrualcups
+- ShadowBan
+- FancyFollicles
+- MakeupAddiction
+- Herpes
+- JUSTNOMIL
+- AskWomen
+- RedditLaqueristas
+- LifeProTips
+---

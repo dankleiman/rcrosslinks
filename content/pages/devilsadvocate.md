@@ -1,0 +1,5 @@
+---
+title: devilsadvocate
+crosslinks:
+- CaseyAnthony
+---

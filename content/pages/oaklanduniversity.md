@@ -1,0 +1,5 @@
+---
+title: oaklanduniversity
+crosslinks:
+- windsorontario
+---

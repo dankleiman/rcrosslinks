@@ -1,0 +1,24 @@
+---
+title: tattoos
+crosslinks:
+- livven
+- DrawMyTattoo
+- IASIP
+- AskReddit
+- tattoo
+- exmormon
+- traditionaltattoos
+- Naruto
+- videos
+- lotr
+- thrice
+- Art
+- uwaterloo
+- hipsterracism
+- StarWars
+- DinosaurDrawings
+- adam
+- x6laih
+- translator
+- loseit
+---

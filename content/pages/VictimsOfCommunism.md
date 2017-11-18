@@ -1,0 +1,5 @@
+---
+title: VictimsOfCommunism
+crosslinks:
+- CapitalismVSocialism
+---

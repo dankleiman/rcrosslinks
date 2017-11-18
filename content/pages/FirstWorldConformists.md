@@ -1,0 +1,21 @@
+---
+title: FirstWorldConformists
+crosslinks:
+- MaliciousCompliance
+- comics
+- funny
+- mildlyinteresting
+- SonOfAShepherd
+- Irony
+- SUBREDDITNAME
+- OldSchoolCoolNSFW
+- suspiciousquotes
+- taeyskadiedoaHAV
+- engrish
+- dankruto
+- firstworldanarchists
+- xkcd
+- MildlyRacist
+- pcmasterrace
+- WhyWereTheyFilming
+---

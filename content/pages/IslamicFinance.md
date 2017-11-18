@@ -1,0 +1,5 @@
+---
+title: IslamicFinance
+crosslinks:
+- autotldr
+---

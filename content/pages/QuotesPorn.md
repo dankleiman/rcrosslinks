@@ -1,0 +1,24 @@
+---
+title: QuotesPorn
+crosslinks:
+- PornOverlords
+- AskHistorians
+- politics
+- EnoughTrumpSpam
+- LiveToWin
+- The_Donald
+- altright
+- EarthPorn
+- im14andthisisdeep
+- quotes
+- Drama
+- conspiracy
+- Enough_Sanders_Spam
+- MarchAgainstTrump
+- TrueReddit
+- todayilearned
+- Linky_links
+- vegan
+- dontdeadopeninside
+- theNew_Donald
+---

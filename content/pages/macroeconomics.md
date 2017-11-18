@@ -1,0 +1,5 @@
+---
+title: macroeconomics
+crosslinks:
+- Economics
+---

@@ -1,0 +1,5 @@
+---
+title: ymsb
+crosslinks:
+- Bluegrass
+---

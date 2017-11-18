@@ -1,0 +1,5 @@
+---
+title: SensibleCanada
+crosslinks:
+- weedstocks
+---

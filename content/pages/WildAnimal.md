@@ -1,0 +1,5 @@
+---
+title: WildAnimal
+crosslinks:
+- titlegore
+---

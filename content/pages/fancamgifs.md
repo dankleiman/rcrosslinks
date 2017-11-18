@@ -1,0 +1,5 @@
+---
+title: fancamgifs
+crosslinks:
+- funny
+---

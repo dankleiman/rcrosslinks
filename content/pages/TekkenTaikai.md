@@ -1,0 +1,5 @@
+---
+title: TekkenTaikai
+crosslinks:
+- Tekken
+---

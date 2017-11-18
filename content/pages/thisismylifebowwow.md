@@ -1,0 +1,5 @@
+---
+title: thisismylifebowwow
+crosslinks:
+- aww
+---

@@ -1,0 +1,5 @@
+---
+title: hypersexuality
+crosslinks:
+- NoFap
+---

@@ -1,0 +1,5 @@
+---
+title: EndDuopoly
+crosslinks:
+- autotldr
+---

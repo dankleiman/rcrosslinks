@@ -1,0 +1,5 @@
+---
+title: privatestudyrooms
+crosslinks:
+- BeAmazed
+---

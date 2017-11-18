@@ -1,0 +1,5 @@
+---
+title: SpaceIsFuckingLit
+crosslinks:
+- NatureIsFuckingLit
+---

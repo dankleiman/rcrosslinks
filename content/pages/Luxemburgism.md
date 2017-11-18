@@ -1,0 +1,5 @@
+---
+title: Luxemburgism
+crosslinks:
+- azureScapegoat
+---

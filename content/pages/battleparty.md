@@ -1,0 +1,5 @@
+---
+title: battleparty
+crosslinks:
+- UnnyWorld
+---

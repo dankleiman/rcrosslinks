@@ -1,0 +1,5 @@
+---
+title: Baroque
+crosslinks:
+- classicalmusic
+---

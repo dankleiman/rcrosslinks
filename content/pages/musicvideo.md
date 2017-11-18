@@ -1,0 +1,5 @@
+---
+title: musicvideo
+crosslinks:
+- MusicVideos
+---

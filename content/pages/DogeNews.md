@@ -1,0 +1,5 @@
+---
+title: DogeNews
+crosslinks:
+- dogecoin
+---

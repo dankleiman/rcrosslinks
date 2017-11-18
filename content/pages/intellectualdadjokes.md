@@ -1,0 +1,5 @@
+---
+title: intellectualdadjokes
+crosslinks:
+- sixwordstories
+---

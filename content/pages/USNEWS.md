@@ -1,0 +1,23 @@
+---
+title: USNEWS
+crosslinks:
+- autotldr
+- politics
+- The_Donald
+- Salted_Crime
+- madoffraud
+- news
+- Internet
+- GunsAreCool
+- DeFranco
+- PoliticalMemes
+- personalfinance
+- videos
+- xkcd
+- PuertoRico
+- redditdev
+- illinois
+- JusticeServed
+- UnresolvedMysteries
+- all
+---

@@ -1,0 +1,5 @@
+---
+title: duelofchampions
+crosslinks:
+- MMShowdown
+---

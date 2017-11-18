@@ -1,0 +1,5 @@
+---
+title: Cocainestocks
+crosslinks:
+- crackrockstocks
+---

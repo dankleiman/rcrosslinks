@@ -1,0 +1,5 @@
+---
+title: ShitTheUniverseSays
+crosslinks:
+- SquaredCircle
+---

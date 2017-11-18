@@ -1,0 +1,5 @@
+---
+title: artofconquestgame
+crosslinks:
+- ArtOfConquest
+---

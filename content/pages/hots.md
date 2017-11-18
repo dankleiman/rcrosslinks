@@ -1,0 +1,5 @@
+---
+title: hots
+crosslinks:
+- heroesofthestorm
+---

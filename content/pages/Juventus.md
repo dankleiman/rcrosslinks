@@ -1,0 +1,5 @@
+---
+title: Juventus
+crosslinks:
+- soccer
+---

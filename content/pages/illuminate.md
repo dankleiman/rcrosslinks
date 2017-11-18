@@ -1,0 +1,5 @@
+---
+title: illuminate
+crosslinks:
+- illuminati
+---

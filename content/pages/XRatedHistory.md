@@ -1,0 +1,5 @@
+---
+title: XRatedHistory
+crosslinks:
+- askreddit
+---

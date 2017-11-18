@@ -1,0 +1,24 @@
+---
+title: hentai_irl
+crosslinks:
+- doujinshi
+- livven
+- anime_irl
+- AskReddit
+- hentai
+- animearmpits
+- MonsterGirl
+- xkcd
+- sex
+- Diepio
+- wholesomeanimemes
+- fatestaynight
+- Touhou_NSFW
+- dwarffortress
+- funny
+- Animemes
+- infectioussmiles
+- AnimemeEconomy
+- commentgore
+- Incel
+---

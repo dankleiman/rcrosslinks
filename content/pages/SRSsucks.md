@@ -1,0 +1,24 @@
+---
+title: SRSsucks
+crosslinks:
+- Negareddit
+- ShitRedditSays
+- GamerGhazi
+- Anarchism
+- TrollXChromosomes
+- news
+- politics
+- SRSDiscussion
+- socialjustice101
+- worldnews
+- shitredditsays
+- socialism
+- againstmensrights
+- AskFeminists
+- FemmeThoughts
+- The_Donald
+- TwoXChromosomes
+- australia
+- LateStageCapitalism
+- TheBluePill
+---

@@ -1,0 +1,5 @@
+---
+title: MiniPCs
+crosslinks:
+- ShieldAndroidTV
+---

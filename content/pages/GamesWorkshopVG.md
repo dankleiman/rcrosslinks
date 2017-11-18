@@ -1,0 +1,5 @@
+---
+title: GamesWorkshopVG
+crosslinks:
+- Warhammer
+---

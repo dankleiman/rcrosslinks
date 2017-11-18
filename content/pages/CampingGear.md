@@ -1,0 +1,24 @@
+---
+title: CampingGear
+crosslinks:
+- Ultralight
+- CampingandHiking
+- flashlight
+- hammockcamping
+- GearTrade
+- trailmeals
+- ultralight
+- camping
+- searchandrescue
+- Bushcraft
+- WildernessBackpacking
+- GoRVing
+- TinyHouses
+- dehydrating
+- DealsReddit
+- CherokeeXJ
+- frugalmalefashion
+- BWCA
+- Survival
+- PacificCrestTrail
+---

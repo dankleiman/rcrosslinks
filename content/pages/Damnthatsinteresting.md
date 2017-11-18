@@ -1,0 +1,24 @@
+---
+title: Damnthatsinteresting
+crosslinks:
+- livven
+- gifs
+- pics
+- interestingasfuck
+- NatureIsFuckingLit
+- HailCorporate
+- xkcd
+- woahdude
+- videos
+- UNBGBBIIVCHIDCTIICBG
+- nocontext
+- AskReddit
+- stevenuniverse
+- ShitAmericansSay
+- ItsADnDMonsterNow
+- restofthefuckingowl
+- titlegore
+- zeronet
+- mildlyinteresting
+- funny
+---

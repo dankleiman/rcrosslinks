@@ -1,0 +1,5 @@
+---
+title: shittyactionfigures
+crosslinks:
+- gaming
+---

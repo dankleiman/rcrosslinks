@@ -1,0 +1,24 @@
+---
+title: ChoosingBeggars
+crosslinks:
+- AskReddit
+- vegan
+- KitchenConfidential
+- worldnews
+- xkcd
+- psychology
+- rickandmorty
+- jesuschristreddit
+- narcissism
+- facepalm
+- politics
+- findom
+- fatlogic
+- asktrp
+- sadcringe
+- rage
+- WTF
+- woooosh
+- todayilearned
+- juggalo
+---

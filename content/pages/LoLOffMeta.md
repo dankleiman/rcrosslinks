@@ -1,0 +1,5 @@
+---
+title: LoLOffMeta
+crosslinks:
+- xkcd
+---

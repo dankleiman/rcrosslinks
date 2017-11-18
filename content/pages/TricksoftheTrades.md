@@ -1,0 +1,5 @@
+---
+title: TricksoftheTrades
+crosslinks:
+- weedstocks
+---

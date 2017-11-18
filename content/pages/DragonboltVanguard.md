@@ -1,0 +1,5 @@
+---
+title: DragonboltVanguard
+crosslinks:
+- Overwatch
+---

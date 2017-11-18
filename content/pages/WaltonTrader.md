@@ -1,0 +1,5 @@
+---
+title: WaltonTrader
+crosslinks:
+- CryptoCurrency
+---

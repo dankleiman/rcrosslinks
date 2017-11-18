@@ -1,0 +1,5 @@
+---
+title: FactorioBlueprints
+crosslinks:
+- factorio
+---

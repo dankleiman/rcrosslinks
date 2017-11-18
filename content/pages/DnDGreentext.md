@@ -1,0 +1,24 @@
+---
+title: DnDGreentext
+crosslinks:
+- DnD
+- gametales
+- MostlyWrites
+- xkcd
+- DnDBehindTheScreen
+- Pathfinder_RPG
+- Shadowrun
+- lfg
+- DMDadJokes
+- WritingPrompts
+- UnearthedArcana
+- anime_irl
+- 40kLore
+- gaming
+- rpg
+- UnexpectedJoJo
+- Serendipity
+- HFY
+- whowouldwin
+- rpghorrorstories
+---

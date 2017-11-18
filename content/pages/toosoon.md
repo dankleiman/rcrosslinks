@@ -1,0 +1,24 @@
+---
+title: toosoon
+crosslinks:
+- autotldr
+- The_Donald
+- livven
+- toolate
+- pics
+- EnoughTrumpSpam
+- ShitPoliticsSays
+- dankmemes
+- politics
+- Shitstatistssay
+- ComedyCemetery
+- Jokes
+- DarwinAwards
+- todayilearned
+- OutOfTheLoop
+- me_ira
+- UnexpectedMulaney
+- jesuschristreddit
+- videos
+- '2010'
+---

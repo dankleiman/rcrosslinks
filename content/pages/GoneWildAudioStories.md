@@ -1,0 +1,5 @@
+---
+title: GoneWildAudioStories
+crosslinks:
+- gonewildstories
+---

@@ -1,0 +1,24 @@
+---
+title: TexasRangers
+crosslinks:
+- '2013'
+- gallofaces
+- nfl
+- AskReddit
+- surrealmemes
+- TxRangersExperience
+- Astros
+- xkcd
+- NYYankees
+- gameflysocial
+- WahoosTipi
+- programming
+- mildlyinteresting
+- EvilLeagueOfEvil
+- todayilearned
+- letsgofish
+- cscareerquestions
+- Brewers
+- Pyongyang
+- sysadmin
+---

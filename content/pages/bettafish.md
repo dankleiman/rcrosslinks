@@ -1,0 +1,23 @@
+---
+title: bettafish
+crosslinks:
+- Aquariums
+- livven
+- AquaSwap
+- PlantedTank
+- aww
+- metric_units
+- JosVermeulen
+- me_irl
+- Nightcrawler
+- Goldfish
+- aquariums
+- BeforeNAfterAdoption
+- AquariumMemes
+- CrappyDesign
+- AquaticSnails
+- firstworldanarchists
+- 3Dprinting
+- Serendipity
+- shrimptank
+---

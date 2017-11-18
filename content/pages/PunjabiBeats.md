@@ -1,0 +1,5 @@
+---
+title: PunjabiBeats
+crosslinks:
+- allSongsLyrics
+---

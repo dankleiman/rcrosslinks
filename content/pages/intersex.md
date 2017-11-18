@@ -1,0 +1,5 @@
+---
+title: intersex
+crosslinks:
+- ftm
+---

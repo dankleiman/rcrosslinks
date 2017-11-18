@@ -1,0 +1,5 @@
+---
+title: FishingForBeginners
+crosslinks:
+- Fishing
+---

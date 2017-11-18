@@ -1,0 +1,5 @@
+---
+title: MandelaEffectBenefits
+crosslinks:
+- autotldr
+---

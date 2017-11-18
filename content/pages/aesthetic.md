@@ -1,0 +1,5 @@
+---
+title: aesthetic
+crosslinks:
+- pics
+---

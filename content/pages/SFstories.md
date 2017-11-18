@@ -1,0 +1,5 @@
+---
+title: SFstories
+crosslinks:
+- fantasywriters
+---

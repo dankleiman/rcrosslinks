@@ -1,0 +1,5 @@
+---
+title: GfycatBot
+crosslinks:
+- gfycat
+---

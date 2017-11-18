@@ -1,0 +1,24 @@
+---
+title: specializedtools
+crosslinks:
+- livven
+- ProductPorn
+- EngineeringPorn
+- oddlysatisfying
+- videos
+- Skookum
+- whatisthisthing
+- OddlyArousing
+- mallninjashit
+- killthosewhodisagree
+- mildlypenis
+- INEEEEDIT
+- happycowgifs
+- pics
+- reversegif
+- xkcd
+- golf
+- IAmA
+- CopyPastas
+- farming
+---

@@ -1,0 +1,5 @@
+---
+title: AliceIsMyWaifu
+crosslinks:
+- Pixiv
+---

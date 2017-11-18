@@ -1,0 +1,24 @@
+---
+title: ItalyInformatica
+crosslinks:
+- italy
+- autotldr
+- linux
+- italygames
+- xkcd
+- programming
+- politicaITA
+- unixporn
+- AMAAggregator
+- Dell
+- freelance
+- Jokes
+- videos
+- datascience
+- Monero
+- Python
+- ItaliaPersonalFinance
+- announcements
+- AnnePro
+- findareddit
+---

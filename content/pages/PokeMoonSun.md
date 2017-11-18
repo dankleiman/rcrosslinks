@@ -1,0 +1,24 @@
+---
+title: PokeMoonSun
+crosslinks:
+- pokemon
+- pokemontrades
+- powersaves3ds
+- PokemonPlaza
+- CasualPokemonTrades
+- Pokemongiveaway
+- stunfisk
+- PokemonCreate
+- FestivalPlaza
+- easymons
+- BreedingDittos
+- SVExchange
+- ShinyPokemon
+- 3DS
+- 3dshacks
+- PokemonLeague3DS
+- livven
+- letsplay
+- PokemonQRCodes
+- PokemonBattleTree
+---

@@ -1,0 +1,5 @@
+---
+title: NeedsMoreJPEG
+crosslinks:
+- funny
+---

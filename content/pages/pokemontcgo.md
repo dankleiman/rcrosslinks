@@ -1,0 +1,5 @@
+---
+title: pokemontcgo
+crosslinks:
+- ptcgo
+---

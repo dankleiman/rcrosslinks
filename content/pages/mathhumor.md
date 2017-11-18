@@ -1,0 +1,5 @@
+---
+title: mathhumor
+crosslinks:
+- softwaregore
+---

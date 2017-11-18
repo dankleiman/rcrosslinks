@@ -1,0 +1,24 @@
+---
+title: cemu
+crosslinks:
+- CEMUcaches
+- emulation
+- Amd
+- CemuGraphicPacks
+- NintendoSwitch
+- pcmasterrace
+- SteamController
+- CemuMarioMaker
+- Breath_of_the_Wild
+- cemucaches
+- WiiUHacks
+- xkcd
+- oculus
+- DolphinEmulator
+- nvidia
+- cemumariomaker
+- hardwareswap
+- pcgaming
+- Games
+- DecafEmu
+---

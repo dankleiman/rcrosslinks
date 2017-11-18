@@ -1,0 +1,5 @@
+---
+title: WrittenWyrm
+crosslinks:
+- WritingPrompts
+---

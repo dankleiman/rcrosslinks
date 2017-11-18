@@ -1,0 +1,22 @@
+---
+title: CoinBase
+crosslinks:
+- Bitcoin
+- Buttcoin
+- ethtrader
+- ethereum
+- Etoro
+- CryptoSafety
+- CryptoCurrency
+- Serendipity
+- Iota
+- BitcoinAll
+- TenX
+- GolemProject
+- SorryForYourLoss
+- ledgerwallet
+- ETHHOLDER
+- BitcoinMarkets
+- KrakenSupport
+- BitcoinBeginners
+---

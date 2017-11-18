@@ -1,0 +1,24 @@
+---
+title: programmingcirclejerk
+crosslinks:
+- programming
+- golang
+- rust
+- ProgrammerHumor
+- cscareerquestions
+- linux
+- pcjcopypasta
+- node
+- IAmA
+- javascript
+- Python
+- archlinux
+- nvidia
+- funny
+- recruitinghell
+- learnprogramming
+- ethtrader
+- FellowKids
+- offmychest
+- ethereum
+---

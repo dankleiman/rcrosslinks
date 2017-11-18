@@ -1,0 +1,5 @@
+---
+title: KRISS
+crosslinks:
+- CompetitionShooting
+---

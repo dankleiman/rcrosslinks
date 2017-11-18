@@ -1,0 +1,24 @@
+---
+title: roosterteeth
+crosslinks:
+- funhaus
+- livven
+- RWBY
+- CowChop
+- TheCreatures
+- OutOfTheLoop
+- IAmA
+- gaming
+- SoPosts
+- SugarPine7
+- TipOfMyRooster
+- xkcd
+- RTX
+- AMAAggregator
+- announcements
+- videos
+- Internet_Box
+- AskReddit
+- RTConspiracies
+- place
+---

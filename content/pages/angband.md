@@ -1,0 +1,5 @@
+---
+title: angband
+crosslinks:
+- roguelikes
+---

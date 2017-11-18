@@ -1,0 +1,5 @@
+---
+title: AmericanStudies
+crosslinks:
+- history
+---

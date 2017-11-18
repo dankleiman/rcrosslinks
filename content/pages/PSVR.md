@@ -1,0 +1,24 @@
+---
+title: PSVR
+crosslinks:
+- Vive
+- oculus
+- WerewolvesWithin
+- PS4
+- RIGSMCL
+- PSVRHack
+- PS4Pro
+- dirtgame
+- livven
+- BridgeCrew
+- virtualreality
+- TrinusVR
+- PSVRnews
+- Battlezone_PSVR
+- NintendoSwitch
+- NoMansSkyTheGame
+- simracing
+- AskReddit
+- hotas
+- PS4Deals
+---

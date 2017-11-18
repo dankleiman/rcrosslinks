@@ -1,0 +1,5 @@
+---
+title: virtualdesign
+crosslinks:
+- GameDevTalks
+---

@@ -1,0 +1,24 @@
+---
+title: survivor
+crosslinks:
+- livven
+- IAmA
+- survivorcirclejerk
+- BigBrother
+- nzsurvivor
+- survivorrankdownIII
+- Edgic
+- SurvivorRankdown
+- SpoiledSurvivor
+- todayilearned
+- survivorau
+- nocontext
+- TheGenius
+- SurvivorRankdownIV
+- OutOfTheLoop
+- '2014'
+- FrankOcean
+- ProCSS
+- me_irl
+- movies
+---

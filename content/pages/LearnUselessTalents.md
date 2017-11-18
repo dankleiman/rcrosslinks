@@ -1,0 +1,24 @@
+---
+title: LearnUselessTalents
+crosslinks:
+- livven
+- restofthefuckingowl
+- xkcd
+- DiWHY
+- Shoplifting
+- origami
+- videos
+- nocontext
+- WritingPrompts
+- Overwatch_Memes
+- penspinning
+- lockpicking
+- motorcycles
+- killthosewhodisagree
+- Frugal_Jerk
+- oddlysatisfying
+- WTF
+- interestingasfuck
+- funny
+- SCP
+---

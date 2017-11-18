@@ -1,0 +1,5 @@
+---
+title: systemshock
+crosslinks:
+- IAmA
+---

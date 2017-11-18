@@ -1,0 +1,24 @@
+---
+title: SocialJusticeInAction
+crosslinks:
+- autotldr
+- worldnews
+- Drama
+- GamerGhazi
+- Anarchism
+- sjwhate
+- xkcd
+- The_Donald
+- southafrica
+- CanadaPolitics
+- Documentaries
+- evergreen
+- SargonofAkkad
+- KotakuInAction
+- livven
+- ShitEvilModsSay
+- atheism
+- firstworldanarchists
+- LifeProTips
+- ThePussyPass
+---

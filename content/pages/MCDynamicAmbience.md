@@ -1,0 +1,5 @@
+---
+title: MCDynamicAmbience
+crosslinks:
+- Minecraft
+---

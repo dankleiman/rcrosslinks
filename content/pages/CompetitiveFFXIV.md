@@ -1,0 +1,5 @@
+---
+title: CompetitiveFFXIV
+crosslinks:
+- Pixiv
+---

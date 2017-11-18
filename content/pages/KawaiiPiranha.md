@@ -1,0 +1,5 @@
+---
+title: KawaiiPiranha
+crosslinks:
+- NintendoSwitch
+---

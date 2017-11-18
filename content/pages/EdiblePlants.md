@@ -1,0 +1,5 @@
+---
+title: EdiblePlants
+crosslinks:
+- whatsthisplant
+---

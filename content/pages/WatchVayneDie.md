@@ -1,0 +1,5 @@
+---
+title: WatchVayneDie
+crosslinks:
+- WatchRivenDie
+---

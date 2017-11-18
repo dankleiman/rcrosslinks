@@ -1,0 +1,5 @@
+---
+title: coin
+crosslinks:
+- coincollecting
+---

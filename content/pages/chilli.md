@@ -1,0 +1,5 @@
+---
+title: chilli
+crosslinks:
+- HotPeppers
+---

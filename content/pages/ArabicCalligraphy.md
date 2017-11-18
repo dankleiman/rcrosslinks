@@ -1,0 +1,5 @@
+---
+title: ArabicCalligraphy
+crosslinks:
+- all
+---

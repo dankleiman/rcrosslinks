@@ -1,0 +1,5 @@
+---
+title: TarotReading
+crosslinks:
+- freereadings
+---

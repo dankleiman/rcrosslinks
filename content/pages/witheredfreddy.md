@@ -1,0 +1,5 @@
+---
+title: witheredfreddy
+crosslinks:
+- toyfreddy
+---

@@ -1,0 +1,5 @@
+---
+title: postgres
+crosslinks:
+- AMAAggregator
+---

@@ -1,0 +1,5 @@
+---
+title: Pills
+crosslinks:
+- Drugs
+---

@@ -1,0 +1,24 @@
+---
+title: ColorizedHistory
+crosslinks:
+- AskHistorians
+- communism
+- todayilearned
+- history
+- EnoughCommieSpam
+- mildlyinteresting
+- zeropointmodule
+- NotKenM
+- analog
+- india
+- Drama
+- HistoryPorn
+- Suomi
+- conspiracy
+- shittankiessay
+- finlandConspiracy
+- shittyaskscience
+- pics
+- titlegore
+- WhiteRights
+---

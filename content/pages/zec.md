@@ -1,0 +1,21 @@
+---
+title: zec
+crosslinks:
+- EtherMining
+- CryptoCurrency
+- siacoin
+- pcmasterrace
+- ethereum
+- gpumining
+- KrakenSupport
+- DataHoarder
+- LPT
+- BitcoinMarkets
+- Bitcoin
+- autotldr
+- Monero
+- Antshares
+- nvezos
+- ethtrader
+- DarkNetMarkets
+---

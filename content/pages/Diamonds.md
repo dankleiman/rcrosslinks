@@ -1,0 +1,5 @@
+---
+title: Diamonds
+crosslinks:
+- Diamond
+---

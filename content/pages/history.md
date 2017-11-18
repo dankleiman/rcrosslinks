@@ -1,0 +1,24 @@
+---
+title: history
+crosslinks:
+- AskHistorians
+- todayilearned
+- AskReddit
+- IAmA
+- HistoryAnecdotes
+- Anthropology
+- MapPorn
+- explainlikeimfive
+- pics
+- unitedkingdom
+- askscience
+- tifu
+- rpg
+- conspiracy
+- IndianCountry
+- ThisDayInHistory
+- geopolitics
+- tanks
+- changemyview
+- historyteachers
+---

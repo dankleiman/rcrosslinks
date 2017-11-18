@@ -1,0 +1,14 @@
+---
+title: femalehairadvice
+crosslinks:
+- curlyhair
+- FancyFollicles
+- HaircareScience
+- livven
+- Allthingshair
+- TheGirlSurvivalGuide
+- shorthairedhotties
+- eu32c5
+- malehairadvice
+- 3022rf7
+---

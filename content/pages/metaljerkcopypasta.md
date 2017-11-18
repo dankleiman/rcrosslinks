@@ -1,0 +1,5 @@
+---
+title: metaljerkcopypasta
+crosslinks:
+- Metal
+---

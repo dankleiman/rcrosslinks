@@ -1,0 +1,5 @@
+---
+title: FFVIIRemake
+crosslinks:
+- FinalFantasy
+---

@@ -1,0 +1,5 @@
+---
+title: headaches
+crosslinks:
+- headache
+---

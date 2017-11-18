@@ -1,0 +1,5 @@
+---
+title: modernquilts
+crosslinks:
+- quilting
+---

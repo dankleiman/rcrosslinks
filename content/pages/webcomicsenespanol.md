@@ -1,0 +1,5 @@
+---
+title: webcomicsenespanol
+crosslinks:
+- xkcd
+---

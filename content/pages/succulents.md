@@ -1,0 +1,24 @@
+---
+title: succulents
+crosslinks:
+- cactus
+- whatsthisplant
+- Bonsai
+- gardening
+- SavageGarden
+- orchids
+- Aquariums
+- parrots
+- stopdrinking
+- plants
+- pics
+- me_irl
+- mycology
+- thingsforants
+- AgaveAndAloe
+- nocontext
+- metric_units
+- Art
+- Eve
+- plantclinic
+---

@@ -1,0 +1,5 @@
+---
+title: DemocraticMurder
+crosslinks:
+- PloungeMafia
+---

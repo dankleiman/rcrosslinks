@@ -1,0 +1,5 @@
+---
+title: GLOBEauto
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: sweden
+crosslinks:
+- SwedenOnPlace
+- kundtjanst
+- livven
+- skitswedditsager
+- svenskpolitik
+- The_Donald
+- Denmark
+- europe
+- TillSverige
+- AskHistorians
+- Svenska
+- AskReddit
+- worldnews
+- cykel
+- norge
+- OutOfTheLoop
+- autotldr
+- iksdagen
+- IAmA
+- stockholm
+---

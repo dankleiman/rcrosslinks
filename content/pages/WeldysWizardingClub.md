@@ -1,0 +1,5 @@
+---
+title: WeldysWizardingClub
+crosslinks:
+- raerth
+---

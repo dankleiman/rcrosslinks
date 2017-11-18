@@ -1,0 +1,5 @@
+---
+title: Chobits
+crosslinks:
+- AnimeFigures
+---

@@ -1,0 +1,5 @@
+---
+title: Goldsmithing
+crosslinks:
+- jewelrymaking
+---

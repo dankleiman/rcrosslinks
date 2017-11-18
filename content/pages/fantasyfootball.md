@@ -1,0 +1,24 @@
+---
+title: fantasyfootball
+crosslinks:
+- nfl
+- DynastyFF
+- findaleague
+- IAmA
+- FFCommish
+- CHIBears
+- Patriots
+- AskReddit
+- '2013'
+- dfsports
+- all
+- funny
+- KansasCityChiefs
+- lmnote
+- JoshGordon
+- FTAFFL
+- The_Donald
+- '2016'
+- nyjets
+- askscience
+---

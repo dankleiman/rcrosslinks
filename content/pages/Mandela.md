@@ -1,0 +1,5 @@
+---
+title: Mandela
+crosslinks:
+- MandelaEffect
+---

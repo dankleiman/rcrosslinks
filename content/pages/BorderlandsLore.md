@@ -1,0 +1,5 @@
+---
+title: BorderlandsLore
+crosslinks:
+- Borderlands
+---

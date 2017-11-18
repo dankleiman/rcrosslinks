@@ -1,0 +1,5 @@
+---
+title: bossanova
+crosslinks:
+- japanesemusic
+---

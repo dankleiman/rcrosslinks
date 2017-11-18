@@ -1,0 +1,24 @@
+---
+title: u_washingtonpost
+crosslinks:
+- announcements
+- conspiracy
+- politics
+- IAmA
+- The_Donald
+- AMAAggregator
+- technology
+- PoliticalHumor
+- all
+- autotldr
+- The_Mueller
+- Ask_Politics
+- keming
+- TrumpCriticizesTrump
+- PuertoRico
+- ShitPoliticsSays
+- TinyTrumps
+- democrats
+- the_meltdown
+- weather
+---

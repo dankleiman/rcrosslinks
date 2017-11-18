@@ -1,0 +1,24 @@
+---
+title: TheNewRight
+crosslinks:
+- autotldr
+- The_Donald
+- TopMindsOfReddit
+- EnoughTrumpSpam
+- CringeAnarchy
+- the_donald_local
+- POTUSWatch
+- conspiracy
+- u_RightSideNews
+- REEEEEEEEEE
+- AskThe_Donald
+- rutgers_the_state_university
+- antifa
+- worldnews
+- science
+- RedditCensors
+- drawmuhammad
+- pics
+- BannedFromThe_Donald
+- usanews
+---

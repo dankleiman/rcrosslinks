@@ -1,0 +1,5 @@
+---
+title: Horrorart
+crosslinks:
+- pics
+---

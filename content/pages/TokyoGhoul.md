@@ -1,0 +1,24 @@
+---
+title: TokyoGhoul
+crosslinks:
+- tokyo_ghoulre
+- manga
+- soledsnak
+- livven
+- HunterXHunter
+- marvelstudios
+- Pixiv
+- iamverysmart
+- OnePunchMan
+- anime
+- one_shot
+- MAGAjuana
+- modnews
+- im14andthisisdeep
+- BokuNoHeroAcademia
+- PrequelMemes
+- japancirclejerk
+- wow
+- Instantregret
+- tgrp
+---

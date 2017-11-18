@@ -1,0 +1,5 @@
+---
+title: Paranoia
+crosslinks:
+- Anxiety
+---

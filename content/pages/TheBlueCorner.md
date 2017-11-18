@@ -1,0 +1,24 @@
+---
+title: TheBlueCorner
+crosslinks:
+- place
+- placestart
+- BlueCorner
+- RocketLeague
+- furry
+- EnterTheGungeon
+- placehearts
+- GreenLattice
+- livven
+- StarVStheForcesofEvil
+- KrasnayaArmiya
+- FRC
+- XerathMains
+- SEGA
+- playrust
+- MonochromeAlliance
+- india
+- theredcorner
+- farmcarrots
+- coaxedintoasnafu_irl
+---

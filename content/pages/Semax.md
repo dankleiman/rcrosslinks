@@ -1,0 +1,5 @@
+---
+title: Semax
+crosslinks:
+- Nootropics
+---

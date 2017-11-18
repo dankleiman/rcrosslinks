@@ -1,0 +1,5 @@
+---
+title: grandpajoelove
+crosslinks:
+- grandpajoehate
+---

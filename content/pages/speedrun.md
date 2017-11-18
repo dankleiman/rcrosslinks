@@ -1,0 +1,24 @@
+---
+title: speedrun
+crosslinks:
+- SamandTolki
+- LivestreamFail
+- AMAAggregator
+- Twitch
+- xkcd
+- Games
+- gamesdonequick
+- livven
+- asktransgender
+- gaming
+- Breath_of_the_Wild
+- zelda
+- SequenceBreak
+- darksouls3
+- TAS
+- gatekeeping
+- Drama
+- unexpectedfactorial
+- FinalFantasy
+- politics
+---

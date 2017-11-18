@@ -1,0 +1,24 @@
+---
+title: Nootropics
+crosslinks:
+- StackAdvice
+- microdosing
+- DrugNerds
+- depressionregimens
+- Drugs
+- researchchemicals
+- Ceretropic
+- RCSources
+- steroids
+- kratom
+- Meditation
+- CBD
+- Kava
+- Supplements
+- Tianeptine
+- IAmA
+- ADHD
+- Stims
+- Paleo
+- afinil
+---

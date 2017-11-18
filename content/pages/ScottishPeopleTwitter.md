@@ -1,0 +1,24 @@
+---
+title: ScottishPeopleTwitter
+crosslinks:
+- ShitAmericansSay
+- Scotland
+- me_ira
+- uwotm8
+- GoodFakeTexts
+- Drama
+- ShitPoliticsSays
+- Fiveheads
+- NotKenM
+- ireland
+- vexillology
+- retiredjpg
+- gatekeeping
+- IAmA
+- glasgow
+- UnexpectedHamilton
+- The_Donald
+- xkcd
+- todayilearned
+- everyfuckingthread
+---

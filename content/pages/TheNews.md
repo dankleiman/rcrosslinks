@@ -1,0 +1,5 @@
+---
+title: TheNews
+crosslinks:
+- modnews
+---

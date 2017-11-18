@@ -1,0 +1,24 @@
+---
+title: emulation
+crosslinks:
+- cemu
+- Games
+- EmulationOnAndroid
+- pcmasterrace
+- EmuDev
+- autotldr
+- programming
+- CEMUcaches
+- Citra
+- RetroArch
+- xenia
+- personalfinance
+- Amd
+- SteamController
+- pokemon
+- Steam
+- MAME
+- patientgamers
+- Purei
+- GARNER2015
+---

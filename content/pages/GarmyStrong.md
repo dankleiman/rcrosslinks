@@ -1,0 +1,5 @@
+---
+title: GarmyStrong
+crosslinks:
+- Serendipity
+---

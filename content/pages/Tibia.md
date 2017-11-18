@@ -1,0 +1,5 @@
+---
+title: Tibia
+crosslinks:
+- MediviaMMO
+---

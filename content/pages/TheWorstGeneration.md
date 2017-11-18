@@ -1,0 +1,5 @@
+---
+title: TheWorstGeneration
+crosslinks:
+- lewronggeneration
+---

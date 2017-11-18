@@ -1,0 +1,5 @@
+---
+title: bulletforce
+crosslinks:
+- latterdaysaints
+---

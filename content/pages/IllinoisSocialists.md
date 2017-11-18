@@ -1,0 +1,5 @@
+---
+title: IllinoisSocialists
+crosslinks:
+- ModelUSGov
+---

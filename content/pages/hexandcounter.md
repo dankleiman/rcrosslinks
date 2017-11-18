@@ -1,0 +1,5 @@
+---
+title: hexandcounter
+crosslinks:
+- wargames
+---

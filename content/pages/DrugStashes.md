@@ -1,0 +1,21 @@
+---
+title: DrugStashes
+crosslinks:
+- Drugs
+- researchchemicals
+- LSD
+- drugscirclejerk
+- DrugArt
+- Xanaxcartel
+- ReagentTesting
+- EDC
+- MDMA
+- Serendipity
+- huffing
+- druggardening
+- tripreports
+- DMT
+- DNMAvengers
+- trashy
+- emojipasta
+---

@@ -1,0 +1,5 @@
+---
+title: ToiletThoughts
+crosslinks:
+- poop
+---

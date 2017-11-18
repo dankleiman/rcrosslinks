@@ -1,0 +1,5 @@
+---
+title: VariantCovers
+crosslinks:
+- Marvel
+---

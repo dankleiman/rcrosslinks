@@ -1,0 +1,5 @@
+---
+title: Gemsona
+crosslinks:
+- stevenuniverse
+---

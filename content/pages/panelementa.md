@@ -1,0 +1,5 @@
+---
+title: panelementa
+crosslinks:
+- gaming
+---

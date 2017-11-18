@@ -1,0 +1,5 @@
+---
+title: HeatNews
+crosslinks:
+- heat
+---

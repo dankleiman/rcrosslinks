@@ -1,0 +1,5 @@
+---
+title: redditcasual
+crosslinks:
+- Serendipity
+---

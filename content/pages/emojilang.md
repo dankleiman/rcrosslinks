@@ -1,0 +1,5 @@
+---
+title: emojilang
+crosslinks:
+- conlangs
+---

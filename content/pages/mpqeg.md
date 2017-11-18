@@ -1,0 +1,5 @@
+---
+title: mpqeg
+crosslinks:
+- mildlyinteresting
+---

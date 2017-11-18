@@ -1,0 +1,24 @@
+---
+title: htpc
+crosslinks:
+- PleX
+- intelnuc
+- Amd
+- metric_units
+- audiophile
+- SharePLEX
+- EOOD
+- sickrage
+- kodi
+- hometheater
+- homeserver
+- PCMasterRace
+- organizr
+- IPTV
+- unRAID
+- PseudoTV
+- customization
+- sonarr
+- linuxquestions
+- AndroidTV
+---

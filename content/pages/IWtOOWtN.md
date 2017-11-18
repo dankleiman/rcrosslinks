@@ -1,0 +1,5 @@
+---
+title: IWtOOWtN
+crosslinks:
+- PeopleFuckingDying
+---

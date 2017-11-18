@@ -1,0 +1,5 @@
+---
+title: HistoryPornStache
+crosslinks:
+- OldSchoolCool
+---

@@ -1,0 +1,5 @@
+---
+title: LegitCheck
+crosslinks:
+- sneakermarket
+---

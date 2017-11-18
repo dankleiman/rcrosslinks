@@ -1,0 +1,5 @@
+---
+title: newwarriors
+crosslinks:
+- autotldr
+---

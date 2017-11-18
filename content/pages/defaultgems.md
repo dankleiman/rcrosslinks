@@ -1,0 +1,21 @@
+---
+title: defaultgems
+crosslinks:
+- AskReddit
+- askreddit
+- JusticeServed
+- RedditWritesSeinfeld
+- leagueoflegends
+- goodlongposts
+- todayilearned
+- mildlyinteresting
+- history
+- titlegore
+- nostalgia
+- gaming
+- MilitaryStories
+- AMAAggregator
+- xkcd
+- TheoryOfReddit
+- jesuschristreddit
+---

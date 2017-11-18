@@ -1,0 +1,24 @@
+---
+title: Weakpots
+crosslinks:
+- Fitness
+- powerlifting
+- weightroom
+- weakfags
+- fitnesscirclejerk
+- weakpotsdrama
+- personalfinance
+- 4chan
+- AskReddit
+- ItsADnDMonsterNow
+- rickandmorty
+- DataHoarder
+- Thrusthamster69
+- Testosterone
+- '2014'
+- weakpots30plus
+- fitness70plus
+- shittyfoodporn
+- steroids
+- WWE
+---

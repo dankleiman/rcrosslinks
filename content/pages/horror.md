@@ -1,0 +1,24 @@
+---
+title: horror
+crosslinks:
+- HorrorReviewed
+- horrorlit
+- SawSomethingScary
+- nosleep
+- movies
+- IAmA
+- moviescirclejerk
+- truehorror
+- Screenwriting
+- Lovecraft
+- stephenking
+- gatekeeping
+- NetflixViaVPN
+- HorrorTrailerPark
+- horrormoviechallenge
+- shorthorror
+- LetsNotMeet
+- horrorreviewed
+- shortscarystories
+- dvdcollection
+---

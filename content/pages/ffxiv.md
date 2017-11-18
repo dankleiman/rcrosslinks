@@ -1,0 +1,24 @@
+---
+title: ffxiv
+crosslinks:
+- FFXIVRECRUITMENT
+- livven
+- FFXIVGlamours
+- ACTOverlayPlugin
+- ffxivraf
+- FFXIVhousingmarket
+- xkcd
+- FFXIVDadjokes
+- ShitpostXIV
+- wow
+- modnews
+- ffxivart
+- ModSupport
+- ffxi
+- PS4
+- Guildwars2
+- pcmasterrace
+- ffxivhomeandgarden
+- RetardsInXIV
+- Overwatch
+---

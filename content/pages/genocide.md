@@ -1,0 +1,5 @@
+---
+title: genocide
+crosslinks:
+- armenia
+---

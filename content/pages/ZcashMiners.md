@@ -1,0 +1,5 @@
+---
+title: ZcashMiners
+crosslinks:
+- Monero
+---

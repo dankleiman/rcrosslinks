@@ -1,0 +1,5 @@
+---
+title: thoseconspiracyguys
+crosslinks:
+- OldSchoolCool
+---

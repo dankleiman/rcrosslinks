@@ -1,0 +1,5 @@
+---
+title: discussislam
+crosslinks:
+- exmuslim
+---

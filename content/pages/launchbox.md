@@ -1,0 +1,5 @@
+---
+title: launchbox
+crosslinks:
+- steamgrid
+---

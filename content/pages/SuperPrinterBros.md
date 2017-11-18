@@ -1,0 +1,5 @@
+---
+title: SuperPrinterBros
+crosslinks:
+- fakeid
+---

@@ -1,0 +1,5 @@
+---
+title: psychedelicrap
+crosslinks:
+- hiphop
+---

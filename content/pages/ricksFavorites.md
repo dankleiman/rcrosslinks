@@ -1,0 +1,5 @@
+---
+title: ricksFavorites
+crosslinks:
+- livven
+---

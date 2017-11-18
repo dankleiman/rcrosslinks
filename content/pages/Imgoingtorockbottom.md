@@ -1,0 +1,5 @@
+---
+title: Imgoingtorockbottom
+crosslinks:
+- Negareddit
+---

@@ -1,0 +1,5 @@
+---
+title: SoundDesignTheory
+crosslinks:
+- askscience
+---

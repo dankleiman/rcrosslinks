@@ -1,0 +1,24 @@
+---
+title: Teachers
+crosslinks:
+- teaching
+- SuicideWatch
+- TEFL
+- privacy
+- specialed
+- ELATeachers
+- furry_irl
+- instructionaldesign
+- personalfinance
+- matheducation
+- xkcd
+- ukvisa
+- autotldr
+- AskReddit
+- statistics
+- CSEducation
+- AskHistorians
+- politics
+- mentalhealth
+- misophonia
+---

@@ -1,0 +1,24 @@
+---
+title: oldpeoplefacebook
+crosslinks:
+- WackyTicTacs
+- forwardsfromgrandma
+- Ooer
+- excgarated
+- AskReddit
+- xkcd
+- surrealmemes
+- ComedyCemetery
+- nocontext
+- KarmaCourt
+- ReallyWackyTicTacs
+- funny
+- lewronggeneration
+- whitewater
+- cringepics
+- DeepFriedMemes
+- IsThisADonkey
+- Drama
+- furry_irl
+- gatekeeping
+---

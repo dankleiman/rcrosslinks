@@ -1,0 +1,5 @@
+---
+title: LocalGuides
+crosslinks:
+- xkcd
+---

@@ -1,0 +1,24 @@
+---
+title: GODZILLA
+crosslinks:
+- livven
+- autotldr
+- Monsterverse
+- whowouldwin
+- modnews
+- resinkits
+- goji
+- Mothra
+- CLOUDS
+- Pixiv
+- LV426
+- samuraijack
+- geek
+- KongzillaRex
+- animenews
+- kaiju
+- movies
+- opieandanthony
+- CharacterRant
+- '2013'
+---

@@ -1,0 +1,5 @@
+---
+title: GodEaterDen
+crosslinks:
+- vitahacks
+---

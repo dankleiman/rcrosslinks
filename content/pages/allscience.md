@@ -1,0 +1,5 @@
+---
+title: allscience
+crosslinks:
+- autotldr
+---

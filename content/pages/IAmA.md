@@ -1,0 +1,24 @@
+---
+title: IAmA
+crosslinks:
+- AskReddit
+- pics
+- OutOfTheLoop
+- videos
+- The_Donald
+- funny
+- casualiama
+- pcmasterrace
+- todayilearned
+- gifs
+- hearthstone
+- AskHistorians
+- Skookum
+- politics
+- worldnews
+- askscience
+- personalfinance
+- explainlikeimfive
+- WTF
+- WhereIsAssange
+---

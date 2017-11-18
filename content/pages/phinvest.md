@@ -1,0 +1,5 @@
+---
+title: phinvest
+crosslinks:
+- financialindependence
+---

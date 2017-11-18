@@ -1,0 +1,5 @@
+---
+title: goosebuds
+crosslinks:
+- aww
+---

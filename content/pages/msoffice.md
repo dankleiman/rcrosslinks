@@ -1,0 +1,5 @@
+---
+title: msoffice
+crosslinks:
+- autotldr
+---

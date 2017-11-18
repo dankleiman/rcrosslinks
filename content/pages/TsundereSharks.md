@@ -1,0 +1,24 @@
+---
+title: TsundereSharks
+crosslinks:
+- place
+- ziaplace
+- PartyParrot
+- livven
+- Art
+- furry_irl
+- pics
+- Sharktits
+- KamenRider
+- OneTrueTohsaka
+- anime_irl
+- mildlypenis
+- disneyvacation
+- rarepuppers
+- aww
+- Pixiv
+- vexillologycirclejerk
+- wholesomememes
+- husky
+- carsfuckingdragons
+---

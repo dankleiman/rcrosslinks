@@ -1,0 +1,24 @@
+---
+title: BoJackHorseman
+crosslinks:
+- furry_irl
+- AskReddit
+- autotldr
+- rickandmorty
+- TVDetails
+- television
+- IAmA
+- tennis
+- iamverysmart
+- xkcd
+- Showerthoughts
+- lipsum
+- KarmaConspiracy
+- reddCoin
+- ShitRedditSays
+- dontdeadopeninside
+- OutOfTheLoop
+- nottheonion
+- shitpost
+- SadHorseShow
+---

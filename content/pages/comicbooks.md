@@ -1,0 +1,24 @@
+---
+title: comicbooks
+crosslinks:
+- Marvel
+- DCcomics
+- autotldr
+- comicswap
+- valiant
+- xmen
+- Runaways
+- ImageComics
+- marvelstudios
+- comicreadingorders
+- livven
+- movies
+- whowouldwin
+- comics
+- gatekeeping
+- indonesia
+- DC_Cinematic
+- DC_Shazam
+- comiccodes
+- arrow
+---

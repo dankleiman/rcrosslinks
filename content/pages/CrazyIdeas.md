@@ -1,0 +1,24 @@
+---
+title: CrazyIdeas
+crosslinks:
+- insaneideas
+- AskReddit
+- The_Donald
+- WritingPrompts
+- politics
+- nocontext
+- greatideas
+- OutOfTheLoop
+- goodideas
+- Crazy
+- crazyidea
+- all
+- WordAvalanches
+- theydidthemath
+- Jokes
+- shittyideas
+- Bandnames
+- stanisms
+- itwasagraveyardgraph
+- todayilearned
+---

@@ -1,0 +1,5 @@
+---
+title: puyopop
+crosslinks:
+- NintendoSwitch
+---

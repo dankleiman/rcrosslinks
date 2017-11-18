@@ -1,0 +1,24 @@
+---
+title: Marvel
+crosslinks:
+- marvelstudios
+- autotldr
+- xmen
+- livven
+- Runaways
+- Spiderman
+- movies
+- indonesia
+- whowouldwin
+- respectthreads
+- DCcomics
+- moviescirclejerk
+- IAmA
+- SuperheroCirclejerk
+- pics
+- WatchRedditDie
+- comicreadingorders
+- UnexpectedHamilton
+- lego
+- MarvelUnlimited
+---

@@ -1,0 +1,5 @@
+---
+title: ParagonEncyclopedia
+crosslinks:
+- paragon
+---

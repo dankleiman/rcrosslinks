@@ -1,0 +1,5 @@
+---
+title: Promptography
+crosslinks:
+- gaming
+---

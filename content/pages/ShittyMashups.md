@@ -1,0 +1,5 @@
+---
+title: ShittyMashups
+crosslinks:
+- Serendipity
+---

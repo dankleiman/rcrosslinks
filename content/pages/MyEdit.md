@@ -1,0 +1,5 @@
+---
+title: MyEdit
+crosslinks:
+- Art
+---

@@ -1,0 +1,5 @@
+---
+title: MySchizophreniaIsReal
+crosslinks:
+- multidimensionality
+---

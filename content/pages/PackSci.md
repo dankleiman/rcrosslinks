@@ -1,0 +1,22 @@
+---
+title: PackSci
+crosslinks:
+- mildlyinteresting
+- pics
+- mechanical_gifs
+- funny
+- nostalgia
+- whatisthisthing
+- CrappyDesign
+- todayilearned
+- Damnthatsinteresting
+- NewsOfTheStupid
+- science
+- UpliftingNews
+- Sneakers
+- livven
+- 3Dprinting
+- interestingasfuck
+- mildlyinfuriating
+- techsupportgore
+---

@@ -1,0 +1,5 @@
+---
+title: ncpolitics
+crosslinks:
+- autotldr
+---

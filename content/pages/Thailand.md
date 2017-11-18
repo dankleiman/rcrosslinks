@@ -1,0 +1,24 @@
+---
+title: Thailand
+crosslinks:
+- ThailandTourism
+- Bangkok
+- UofT
+- '5555555'
+- mildlyinteresting
+- nothingeverhappens
+- WritingPrompts
+- AdviceAnimals
+- TEFL
+- AlphaBay
+- worldnews
+- facepalm
+- Watchexchange
+- WTF
+- keto
+- ireland
+- stopsmoking
+- trashy
+- UBC
+- nyc
+---

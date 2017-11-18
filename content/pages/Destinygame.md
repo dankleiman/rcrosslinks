@@ -1,0 +1,5 @@
+---
+title: Destinygame
+crosslinks:
+- Serendipity
+---

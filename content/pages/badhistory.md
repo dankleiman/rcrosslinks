@@ -1,0 +1,24 @@
+---
+title: badhistory
+crosslinks:
+- AskHistorians
+- AskReddit
+- todayilearned
+- history
+- europe
+- xkcd
+- TrueReddit
+- The_Donald
+- uncensorednews
+- pics
+- IRstudies
+- explainlikeimfive
+- NoStupidQuestions
+- WarCollege
+- OldSchoolCool
+- CrusaderKings
+- KingofKingsRPG
+- changemyview
+- worldnews
+- writing
+---

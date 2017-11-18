@@ -1,0 +1,5 @@
+---
+title: legalizepokefloats
+crosslinks:
+- modnews
+---

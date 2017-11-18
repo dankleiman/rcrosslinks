@@ -1,0 +1,5 @@
+---
+title: AnarchoGaming
+crosslinks:
+- COMPLETEANARCHY
+---

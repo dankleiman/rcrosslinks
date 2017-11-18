@@ -1,0 +1,24 @@
+---
+title: Granblue_en
+crosslinks:
+- livven
+- PokemonGoSpoofing
+- Pixiv
+- kancolle
+- Shadowverse
+- anime
+- pokemon
+- HailCorporate
+- dota2
+- resinkits
+- Games
+- FFRecordKeeper
+- magiarecord
+- grandorder
+- PokeMoonSun
+- NoStupidQuestions
+- magicTCG
+- news
+- highqualitygifs
+- Vania
+---

@@ -1,0 +1,24 @@
+---
+title: Destiny
+crosslinks:
+- DestinyTheGame
+- Ice_Poseidon
+- TheDickShow
+- autotldr
+- IAmA
+- LivestreamFail
+- starcraft
+- KotakuInAction
+- Drama
+- askphilosophy
+- xkcd
+- AskPhilosophyFAQ
+- jfg
+- vegan
+- videos
+- unitedkingdom
+- JonTron
+- Anarcho_Capitalism
+- politics
+- GamerGhazi
+---

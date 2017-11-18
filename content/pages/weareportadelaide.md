@@ -1,0 +1,5 @@
+---
+title: weareportadelaide
+crosslinks:
+- AFL
+---

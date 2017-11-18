@@ -1,0 +1,5 @@
+---
+title: WhereDidTheSiloGo
+crosslinks:
+- InsaneCameramen
+---

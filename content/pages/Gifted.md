@@ -1,0 +1,5 @@
+---
+title: Gifted
+crosslinks:
+- autotldr
+---

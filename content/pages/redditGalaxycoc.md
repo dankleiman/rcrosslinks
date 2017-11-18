@@ -1,0 +1,5 @@
+---
+title: redditGalaxycoc
+crosslinks:
+- ClashOfClans
+---

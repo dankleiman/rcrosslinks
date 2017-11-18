@@ -1,0 +1,5 @@
+---
+title: Interpol
+crosslinks:
+- Music
+---

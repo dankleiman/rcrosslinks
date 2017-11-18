@@ -1,0 +1,24 @@
+---
+title: fixit
+crosslinks:
+- DIY
+- TVRepair
+- AskElectronics
+- thereifixedit
+- electricians
+- appliancerepair
+- hackedgadgets
+- howto
+- Tools
+- diwhy
+- xkcd
+- HomeRepair
+- accessdoors
+- SodaStream
+- diyaudio
+- fixxit
+- NewAgain
+- poolsandspas
+- LifeProTips
+- Cartalk
+---

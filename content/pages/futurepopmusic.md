@@ -1,0 +1,5 @@
+---
+title: futurepopmusic
+crosslinks:
+- Electropop
+---

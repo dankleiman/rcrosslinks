@@ -1,0 +1,5 @@
+---
+title: JoeDucie
+crosslinks:
+- HPfanfiction
+---

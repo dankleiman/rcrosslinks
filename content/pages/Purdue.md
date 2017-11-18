@@ -1,0 +1,24 @@
+---
+title: Purdue
+crosslinks:
+- Boilermakers
+- Fitness
+- funny
+- normalnudes
+- theydidthemath
+- titlegore
+- IndianaUniversity
+- analog
+- cs50
+- EngineeringStudents
+- news
+- MomForAMinute
+- Flights
+- Physics
+- SuicideWatch
+- UIUC
+- lafayette
+- Anarchism
+- compsci
+- Jeopardy
+---

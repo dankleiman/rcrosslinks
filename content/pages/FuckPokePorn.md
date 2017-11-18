@@ -1,0 +1,5 @@
+---
+title: FuckPokePorn
+crosslinks:
+- REEEEEEEEEE
+---

@@ -1,0 +1,23 @@
+---
+title: RPI
+crosslinks:
+- Troy
+- place
+- intrologRPI
+- EnoughTrumpSpam
+- xkcd
+- WPI
+- Predators
+- trackers
+- all
+- autotldr
+- '2011'
+- UCONN
+- marijuanaenthusiasts
+- askscience
+- GreenLattice
+- LifeProTips
+- YouShouldKnow
+- philosophy
+- The_Donald
+---

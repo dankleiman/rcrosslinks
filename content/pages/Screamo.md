@@ -1,0 +1,5 @@
+---
+title: Screamo
+crosslinks:
+- EmoScreamo
+---

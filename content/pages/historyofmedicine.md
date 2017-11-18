@@ -1,0 +1,5 @@
+---
+title: historyofmedicine
+crosslinks:
+- Militariacollecting
+---

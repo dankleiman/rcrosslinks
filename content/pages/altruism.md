@@ -1,0 +1,5 @@
+---
+title: altruism
+crosslinks:
+- Astronomy
+---

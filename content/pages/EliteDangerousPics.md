@@ -1,0 +1,5 @@
+---
+title: EliteDangerousPics
+crosslinks:
+- EliteDangerous
+---

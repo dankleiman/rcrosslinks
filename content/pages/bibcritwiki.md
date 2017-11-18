@@ -1,0 +1,5 @@
+---
+title: bibcritwiki
+crosslinks:
+- AskHistorians
+---

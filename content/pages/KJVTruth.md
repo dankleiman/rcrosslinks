@@ -1,0 +1,5 @@
+---
+title: KJVTruth
+crosslinks:
+- TrueChristian
+---

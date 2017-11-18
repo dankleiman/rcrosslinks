@@ -1,0 +1,21 @@
+---
+title: im14andthisisfunny
+crosslinks:
+- DankMemeArchive
+- me_irl
+- autotldr
+- lewronggeneration
+- funny
+- outside
+- Im14andthisisWTF
+- im14andthisismeta
+- dankmemes
+- wildlypenis
+- iFunny
+- pics
+- livven
+- AskReddit
+- nincirclejerk
+- igtmsft
+- hearthstone
+---

@@ -1,0 +1,5 @@
+---
+title: Anumodana
+crosslinks:
+- Buddhism
+---

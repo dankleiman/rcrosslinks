@@ -1,0 +1,24 @@
+---
+title: pihole
+crosslinks:
+- diginc
+- TomatoFTW
+- PFSENSE
+- uBlockOrigin
+- uverse
+- AskReddit
+- xkcd
+- sysadmin
+- LogitechG
+- hardware
+- Amd
+- Bitcoin
+- autotldr
+- DDWRT
+- dankmemes
+- privacy
+- PoliticalHumor
+- chrome
+- tasker
+- me_irl
+---

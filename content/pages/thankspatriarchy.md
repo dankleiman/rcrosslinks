@@ -1,0 +1,5 @@
+---
+title: thankspatriarchy
+crosslinks:
+- livven
+---

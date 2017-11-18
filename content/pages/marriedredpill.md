@@ -1,0 +1,24 @@
+---
+title: marriedredpill
+crosslinks:
+- askMRP
+- TheRedPill
+- TheBluePill
+- asktrp
+- RedPillWomen
+- relationships
+- AskReddit
+- keto
+- RedPillWorkplace
+- RPChristians
+- DesiWeddings
+- OpiatesRecovery
+- steroids
+- exredpill
+- Fitness
+- TrueChristian
+- adultery
+- BDSMcommunity
+- AskHistorians
+- ImGoingToHellForThis
+---

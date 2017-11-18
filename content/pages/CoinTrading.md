@@ -1,0 +1,5 @@
+---
+title: CoinTrading
+crosslinks:
+- CryptoCurrency
+---

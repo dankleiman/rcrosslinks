@@ -1,0 +1,5 @@
+---
+title: djangolearning
+crosslinks:
+- django
+---

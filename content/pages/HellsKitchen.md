@@ -1,0 +1,5 @@
+---
+title: HellsKitchen
+crosslinks:
+- Serendipity
+---

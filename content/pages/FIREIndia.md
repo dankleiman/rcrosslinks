@@ -1,0 +1,5 @@
+---
+title: FIREIndia
+crosslinks:
+- IndiaInvestments
+---

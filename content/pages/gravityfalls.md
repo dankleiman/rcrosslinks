@@ -1,0 +1,24 @@
+---
+title: gravityfalls
+crosslinks:
+- livven
+- StarVStheForcesofEvil
+- Dipcifica
+- stevenuniverse
+- KarmaCourt
+- StevenFallsOverTime
+- continuityporn
+- funkopop
+- casualiama
+- homestuck
+- DoctorWhumour
+- rickandmorty
+- halloween
+- LakeFrontProperty
+- explainthisscreen
+- coaxedintoasnafu
+- doctorwho
+- titlegore
+- EchoCreek
+- gonwild
+---

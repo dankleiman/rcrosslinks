@@ -1,0 +1,24 @@
+---
+title: homelab
+crosslinks:
+- DataHoarder
+- PFSENSE
+- sysadmin
+- linuxadmin
+- PleX
+- networking
+- xkcd
+- vmware
+- HomeNetworking
+- Amd
+- selfhosted
+- freenas
+- HomeServer
+- talesfromtechsupport
+- autotldr
+- hardwareswap
+- linuxserver
+- pcmasterrace
+- VFIO
+- OPNscam
+---

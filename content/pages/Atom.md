@@ -1,0 +1,5 @@
+---
+title: Atom
+crosslinks:
+- node
+---

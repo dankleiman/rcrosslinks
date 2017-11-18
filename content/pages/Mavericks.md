@@ -1,0 +1,21 @@
+---
+title: Mavericks
+crosslinks:
+- Dallas
+- rockets
+- '2013'
+- knicks
+- NBA2k
+- causeWhyNotMate
+- NYKnicks
+- Repsneakers
+- todayilearned
+- ufc
+- Thunder
+- OFWGKTA
+- sydney
+- GoNets
+- HighQualityGifs
+- randlju01
+- shitpost
+---

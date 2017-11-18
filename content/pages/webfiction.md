@@ -1,0 +1,5 @@
+---
+title: webfiction
+crosslinks:
+- WanderingInn
+---

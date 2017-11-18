@@ -1,0 +1,5 @@
+---
+title: easymoneyforteens
+crosslinks:
+- forhire
+---

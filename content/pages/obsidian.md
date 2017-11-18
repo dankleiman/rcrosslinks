@@ -1,0 +1,5 @@
+---
+title: obsidian
+crosslinks:
+- Games
+---

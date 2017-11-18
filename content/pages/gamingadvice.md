@@ -1,0 +1,5 @@
+---
+title: gamingadvice
+crosslinks:
+- MMORPG
+---

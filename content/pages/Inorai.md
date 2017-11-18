@@ -1,0 +1,5 @@
+---
+title: Inorai
+crosslinks:
+- WritingPrompts
+---

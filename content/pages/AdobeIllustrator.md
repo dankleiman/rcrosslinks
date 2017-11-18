@@ -1,0 +1,24 @@
+---
+title: AdobeIllustrator
+crosslinks:
+- mapmaking
+- xkcd
+- low_poly
+- Affinity
+- picrequests
+- doodles
+- logodesign
+- graphic_design
+- AfterEffects
+- Art
+- Inkscape
+- forhire
+- redditgetsdrawn
+- livven
+- VaporwaveArt
+- SCREENPRINTING
+- modnews
+- ArcherFX
+- learnjavascript
+- design_critiques
+---

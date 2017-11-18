@@ -1,0 +1,5 @@
+---
+title: AnimeSuicide
+crosslinks:
+- livven
+---

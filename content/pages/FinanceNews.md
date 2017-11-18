@@ -1,0 +1,5 @@
+---
+title: FinanceNews
+crosslinks:
+- autotldr
+---

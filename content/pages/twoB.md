@@ -1,0 +1,5 @@
+---
+title: twoB
+crosslinks:
+- Pixiv
+---

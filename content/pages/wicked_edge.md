@@ -1,0 +1,24 @@
+---
+title: wicked_edge
+crosslinks:
+- Shave_Bazaar
+- Wetshaving
+- Wet_Shavers
+- Skincare_Addiction
+- fragsplits
+- ladyshavers
+- wetshaving
+- flashlight
+- fountainpens
+- BuyItForLife
+- livven
+- fragrance
+- SkincareAddiction
+- ShitAmericansSay
+- Pomade
+- AskReddit
+- Frugal_Jerk
+- StonerEngineering
+- funny
+- DiWHY
+---

@@ -1,0 +1,5 @@
+---
+title: ShitGhaziSays
+crosslinks:
+- GamerGhazi
+---

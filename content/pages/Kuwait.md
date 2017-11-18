@@ -1,0 +1,21 @@
+---
+title: Kuwait
+crosslinks:
+- WorldDailyTops
+- funny
+- Advice
+- autotldr
+- Bahrain
+- Serendipity
+- AntiSemitismWatch
+- explainlikeimfive
+- place
+- indiansinkuwait
+- Watches
+- OutOfTheLoop
+- Fitness
+- worldnews
+- magicskyfairy
+- IAmA
+- pics
+---

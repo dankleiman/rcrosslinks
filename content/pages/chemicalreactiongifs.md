@@ -1,0 +1,24 @@
+---
+title: chemicalreactiongifs
+crosslinks:
+- livven
+- xkcd
+- gifs
+- physicsgifs
+- OutOfTheLoop
+- underpopular
+- videos
+- unexpectedhogwarts
+- ConfusedBoners
+- mycology
+- awwwtf
+- AskReddit
+- gatekeeping
+- iamversmart
+- mildlypenis
+- EnoughInternet
+- roosterteeth
+- oddlysatisfying
+- cassetteculture
+- interestingasfuck
+---

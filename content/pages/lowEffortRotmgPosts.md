@@ -1,0 +1,5 @@
+---
+title: lowEffortRotmgPosts
+crosslinks:
+- RotMG
+---

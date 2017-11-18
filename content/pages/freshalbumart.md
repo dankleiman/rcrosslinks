@@ -1,0 +1,24 @@
+---
+title: freshalbumart
+crosslinks:
+- FrankOcean
+- KendrickLamar
+- Kanye
+- gorillaz
+- livven
+- FilthyFrank
+- OFWGKTA
+- Art
+- hiphopwallpapers
+- lanadelrey
+- pics
+- hiphopheads
+- AnimalCollective
+- analog
+- vexillology
+- h3h3productions
+- macdemarco
+- ChanceTheRapper
+- PinkOmega
+- stevelacy
+---

@@ -1,0 +1,5 @@
+---
+title: Industrialtechno
+crosslinks:
+- oldtechno
+---

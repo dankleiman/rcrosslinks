@@ -1,0 +1,5 @@
+---
+title: ArtOfWarSunTzu
+crosslinks:
+- AMADisasters
+---

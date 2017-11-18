@@ -1,0 +1,5 @@
+---
+title: Monarchy
+crosslinks:
+- ShitEvilModsSay
+---

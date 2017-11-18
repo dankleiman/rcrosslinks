@@ -1,0 +1,5 @@
+---
+title: InvisiBall
+crosslinks:
+- AccidentalRenaissance
+---

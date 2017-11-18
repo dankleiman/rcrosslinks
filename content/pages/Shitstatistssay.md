@@ -1,0 +1,24 @@
+---
+title: Shitstatistssay
+crosslinks:
+- LateStageCapitalism
+- Physical_Removal
+- news
+- CapitalismVSocialism
+- zeronet
+- worldnews
+- Anarcho_Capitalism
+- technology
+- AskReddit
+- pics
+- Futurology
+- AnCapCopyPasta
+- GoldandBlack
+- politics
+- canada
+- Anarchism
+- socialism
+- todayilearned
+- europe
+- PoliticalHumor
+---

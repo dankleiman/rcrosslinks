@@ -1,0 +1,5 @@
+---
+title: brigador
+crosslinks:
+- Xcom
+---

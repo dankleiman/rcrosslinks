@@ -1,0 +1,24 @@
+---
+title: hitmanimals
+crosslinks:
+- livven
+- gifs
+- CatSlaps
+- aww
+- funny
+- CatTaps
+- StartledCats
+- AnimalsBeingJerks
+- thecatdimension
+- CatsAreAssholes
+- Thisismylifemeow
+- AnimalTextGifs
+- trashpandas
+- pics
+- teefies
+- PeopleFuckingDying
+- Getdownmrpresident
+- therewasanattempt
+- Multicopter
+- ChildrenFallingOver
+---

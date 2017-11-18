@@ -1,0 +1,5 @@
+---
+title: WorldOfDarkness
+crosslinks:
+- DungeonWorld
+---

@@ -1,0 +1,5 @@
+---
+title: HorrorGameVideos
+crosslinks:
+- videogames
+---

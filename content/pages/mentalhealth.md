@@ -1,0 +1,24 @@
+---
+title: mentalhealth
+crosslinks:
+- autotldr
+- BPD
+- Anger
+- SWResources
+- AMAAggregator
+- Incels
+- dpdr
+- depression
+- feelgood
+- SuicideWatch
+- relationship_advice
+- Anxiety
+- CBT
+- AskReddit
+- hrtformentalhealth
+- ImpeeriumPeerNetwork
+- hardshipmates
+- todayilearned
+- EatingDisorders
+- HailCorporate
+---

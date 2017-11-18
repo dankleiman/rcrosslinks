@@ -1,0 +1,5 @@
+---
+title: KoitoUso
+crosslinks:
+- manga
+---

@@ -1,0 +1,5 @@
+---
+title: PokemonGoAdelaide
+crosslinks:
+- pokemongo
+---

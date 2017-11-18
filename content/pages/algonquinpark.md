@@ -1,0 +1,5 @@
+---
+title: algonquinpark
+crosslinks:
+- Ultralight
+---

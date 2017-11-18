@@ -1,0 +1,24 @@
+---
+title: rollercoasters
+crosslinks:
+- RMCMeanStreak
+- livven
+- rollercoasterjerk
+- CoasterDraft
+- Themepark
+- place
+- metric_units
+- CanadaCoasterFan
+- coasterporn
+- gifs
+- washingtondc
+- gif
+- autotldr
+- nocontext
+- ReallyWackyTicTacs
+- PlanetCoaster
+- AskReddit
+- NoLimitsCoaster
+- tiltshift
+- comics
+---

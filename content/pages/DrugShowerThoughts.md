@@ -1,0 +1,5 @@
+---
+title: DrugShowerThoughts
+crosslinks:
+- Whatcouldgowrong
+---

@@ -1,0 +1,5 @@
+---
+title: photoit
+crosslinks:
+- educationalgifs
+---

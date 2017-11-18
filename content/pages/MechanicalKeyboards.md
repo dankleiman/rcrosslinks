@@ -1,0 +1,24 @@
+---
+title: MechanicalKeyboards
+crosslinks:
+- mechmarket
+- AnnePro
+- pcmasterrace
+- FashionReps
+- mechanicalheadpens
+- keycapdesigners
+- MouseReview
+- pics
+- ArtisanMacro
+- TheBoard
+- LogitechG
+- AskReddit
+- tifu
+- coolermaster
+- aww
+- Corsair
+- fountainpens
+- ergodox
+- funny
+- outrun
+---

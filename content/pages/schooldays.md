@@ -1,0 +1,5 @@
+---
+title: schooldays
+crosslinks:
+- anime
+---

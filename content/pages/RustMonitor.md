@@ -1,0 +1,5 @@
+---
+title: RustMonitor
+crosslinks:
+- playrust
+---

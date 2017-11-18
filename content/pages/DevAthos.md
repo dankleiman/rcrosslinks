@@ -1,0 +1,5 @@
+---
+title: DevAthos
+crosslinks:
+- Devoted
+---

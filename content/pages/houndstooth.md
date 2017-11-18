@@ -1,0 +1,5 @@
+---
+title: houndstooth
+crosslinks:
+- place
+---

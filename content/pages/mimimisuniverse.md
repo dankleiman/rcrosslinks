@@ -1,0 +1,5 @@
+---
+title: mimimisuniverse
+crosslinks:
+- Farminguniverse
+---

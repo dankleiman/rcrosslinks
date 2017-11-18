@@ -1,0 +1,5 @@
+---
+title: purevoidrises
+crosslinks:
+- place
+---

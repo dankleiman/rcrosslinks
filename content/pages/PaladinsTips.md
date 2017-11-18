@@ -1,0 +1,5 @@
+---
+title: PaladinsTips
+crosslinks:
+- ChampionsoftheRealm
+---

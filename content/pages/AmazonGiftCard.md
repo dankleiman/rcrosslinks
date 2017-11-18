@@ -1,0 +1,5 @@
+---
+title: AmazonGiftCard
+crosslinks:
+- UniversalScammerList
+---

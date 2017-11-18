@@ -1,0 +1,5 @@
+---
+title: longearth
+crosslinks:
+- lego
+---

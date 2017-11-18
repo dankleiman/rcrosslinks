@@ -1,0 +1,21 @@
+---
+title: Scrubs
+crosslinks:
+- xkcd
+- SAVEBRENDAN
+- WotmudV
+- DataHoarder
+- crafts
+- AgainstKarmaWhores
+- The_Donald
+- europe
+- infp
+- wallpapers
+- Showerthoughts
+- SarahChalke
+- Rainmeter
+- Alexinc
+- datahoarders
+- IAmA
+- howyoudoin
+---

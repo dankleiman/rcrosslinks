@@ -1,0 +1,24 @@
+---
+title: fairytail
+crosslinks:
+- fairy_tail
+- manga
+- anime
+- livven
+- CharacterRant
+- eye
+- HighschoolDxD
+- BS_Machiavellianism
+- OnePieceCircleJerk
+- dragonsfuckingcars
+- OnePiece
+- Naruto
+- whowouldwin
+- Fairy
+- FairyTailPlot
+- Dakimakuras
+- Fairytail_hentai
+- StardustCrusaders
+- onepunch_man
+- animeplot
+---

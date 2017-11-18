@@ -1,0 +1,5 @@
+---
+title: cashtipperbot
+crosslinks:
+- tipnyan
+---

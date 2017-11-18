@@ -1,0 +1,24 @@
+---
+title: bloodborne
+crosslinks:
+- darksouls3
+- gaming
+- darksouls
+- PS4
+- hwfc
+- metric_units
+- Nioh
+- nocontext
+- csshelp
+- facepalm
+- consolerepair
+- me_irl
+- funny
+- AskReddit
+- Art
+- QUALITYanime
+- dadsouls
+- VirtualCosplay
+- AMAAggregator
+- patientgamers
+---

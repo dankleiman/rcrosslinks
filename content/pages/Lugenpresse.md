@@ -1,0 +1,5 @@
+---
+title: Lugenpresse
+crosslinks:
+- ShitEvilModsSay
+---

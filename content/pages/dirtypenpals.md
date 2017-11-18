@@ -1,0 +1,24 @@
+---
+title: dirtypenpals
+crosslinks:
+- DPPprofiles
+- RoamingTypist
+- gonewildaudio
+- changelog
+- DPPTinkering
+- dirtykikpals
+- eroticliterature
+- dirtyr4r
+- DirtyWritingPrompts
+- dirtystorywriting
+- announcements
+- sexystories
+- AskReddit
+- Roleplay
+- F_Stop_Fitzgerald
+- nsfwcyoa
+- KristaNSFW
+- workoutgirls
+- Jokes
+- JustFitnessGirls
+---

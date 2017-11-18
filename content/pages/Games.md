@@ -1,0 +1,24 @@
+---
+title: Games
+crosslinks:
+- NintendoSwitch
+- gaming
+- pcgaming
+- speedrun
+- emulation
+- masseffect
+- DestinyTheGame
+- IAmA
+- PS4
+- PUBATTLEGROUNDS
+- DotA2
+- pcmasterrace
+- starcitizen
+- nintendo
+- CrackStatus
+- Overwatch
+- GameDeals
+- Steam
+- truegaming
+- leagueoflegends
+---

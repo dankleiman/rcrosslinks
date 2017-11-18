@@ -1,0 +1,5 @@
+---
+title: VintageSports
+crosslinks:
+- Cardinals
+---

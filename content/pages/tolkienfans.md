@@ -1,0 +1,21 @@
+---
+title: tolkienfans
+crosslinks:
+- lotr
+- Fantasy
+- tolkienrp
+- lordoftherings
+- FanTheories
+- theology
+- sindarin
+- xkcd
+- gaming
+- shadowofmordor
+- AskReddit
+- TheSilmarillion
+- ImaginaryMiddleEarth
+- lordoftheringsrp
+- Headcanon
+- AskHistorians
+- acloudrift
+---

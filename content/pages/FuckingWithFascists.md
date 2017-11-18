@@ -1,0 +1,5 @@
+---
+title: FuckingWithFascists
+crosslinks:
+- EnoughTrumpSpam
+---

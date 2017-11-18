@@ -1,0 +1,5 @@
+---
+title: bigbangedmemes
+crosslinks:
+- deletedmemes
+---

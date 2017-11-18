@@ -1,0 +1,24 @@
+---
+title: nosurf
+crosslinks:
+- getdisciplined
+- simpleliving
+- pluckeye
+- penpals
+- pornfree
+- phoneaddiction
+- StopGaming
+- BLOCK
+- privacy
+- all
+- Bodyweight
+- u_Martin_Boeddeker
+- stopreddit
+- alcoholism
+- theXeffect
+- videos
+- iphone
+- todayilearned
+- RedditorsInRecovery
+- alcoholicsanonymous
+---

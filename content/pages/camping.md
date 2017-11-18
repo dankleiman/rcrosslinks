@@ -1,0 +1,24 @@
+---
+title: camping
+crosslinks:
+- CampingandHiking
+- California
+- Ultralight
+- WildernessBackpacking
+- myog
+- pics
+- nosleep
+- livven
+- CampingGear
+- politics
+- vandwellers
+- HailCorporate
+- GearTrade
+- orlando
+- 4x4
+- saskatoon
+- AskReddit
+- AskUK
+- Adirondacks
+- phoenix
+---

@@ -1,0 +1,5 @@
+---
+title: AustraliaSimSenate
+crosslinks:
+- AustraliaSim
+---

@@ -1,0 +1,24 @@
+---
+title: wikipedia
+crosslinks:
+- xkcd
+- autotldr
+- UnresolvedMysteries
+- changemyview
+- HitlerSpam
+- australia
+- AskHistorians
+- Drama
+- CasualJiggle
+- AskEurope
+- AdviceAnimals
+- The_Donald
+- Futurology
+- ThePeoplesBard
+- 4chan
+- shitpost
+- UrinalGirls
+- KenM
+- PoliticalHumor
+- China
+---

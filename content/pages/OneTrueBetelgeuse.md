@@ -1,0 +1,5 @@
+---
+title: OneTrueBetelgeuse
+crosslinks:
+- livven
+---

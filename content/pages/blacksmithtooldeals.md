@@ -1,0 +1,5 @@
+---
+title: blacksmithtooldeals
+crosslinks:
+- Bladesmith
+---

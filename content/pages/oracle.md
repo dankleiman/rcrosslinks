@@ -1,0 +1,5 @@
+---
+title: oracle
+crosslinks:
+- DBA
+---

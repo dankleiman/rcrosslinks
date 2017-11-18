@@ -1,0 +1,5 @@
+---
+title: RIPGames
+crosslinks:
+- Games
+---

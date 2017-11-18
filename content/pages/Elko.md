@@ -1,0 +1,5 @@
+---
+title: Elko
+crosslinks:
+- Nevada
+---

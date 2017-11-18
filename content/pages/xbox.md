@@ -1,0 +1,23 @@
+---
+title: xbox
+crosslinks:
+- gaming
+- gamingnews
+- DestinyTheGame
+- WTF
+- Windows
+- CallOfDuty
+- shadowrunfps
+- assassinscreed
+- MCPE
+- consoledeals
+- shitpost
+- Overwatch
+- autotldr
+- Gamingcirclejerk
+- anything
+- patientgamers
+- Windows10
+- PoliticalHumor
+- INeedAName
+---

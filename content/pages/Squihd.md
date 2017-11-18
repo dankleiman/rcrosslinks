@@ -1,0 +1,5 @@
+---
+title: Squihd
+crosslinks:
+- livven
+---

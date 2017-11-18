@@ -1,0 +1,5 @@
+---
+title: ChromaProfiles
+crosslinks:
+- outside
+---

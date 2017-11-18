@@ -1,0 +1,5 @@
+---
+title: EliteLore
+crosslinks:
+- EliteDangerous
+---

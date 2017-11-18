@@ -1,0 +1,5 @@
+---
+title: JimmyEatWorld
+crosslinks:
+- HighQualityGifs
+---

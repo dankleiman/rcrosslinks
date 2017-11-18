@@ -1,0 +1,5 @@
+---
+title: CaptainTsubasaDT
+crosslinks:
+- BleachBraveSouls
+---

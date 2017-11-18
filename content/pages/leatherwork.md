@@ -1,0 +1,5 @@
+---
+title: leatherwork
+crosslinks:
+- Leathercraft
+---

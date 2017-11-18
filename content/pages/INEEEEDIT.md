@@ -1,0 +1,24 @@
+---
+title: INEEEEDIT
+crosslinks:
+- livven
+- oddlysatisfying
+- gifs
+- interestingasfuck
+- gatekeeping
+- AdviceAnimals
+- watercooling
+- mildlyinteresting
+- mallninjashit
+- gaming
+- physicsgifs
+- nvidia
+- metric_units
+- unexpectedhogwarts
+- HailCorporate
+- geek
+- mechanical_gifs
+- shittykickstarters
+- woodworking
+- lasercutting
+---

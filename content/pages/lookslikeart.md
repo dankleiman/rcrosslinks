@@ -1,0 +1,5 @@
+---
+title: lookslikeart
+crosslinks:
+- mildlyinteresting
+---

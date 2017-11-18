@@ -1,0 +1,24 @@
+---
+title: u_kn0thing
+crosslinks:
+- announcements
+- AskReddit
+- IAmA
+- pics
+- Sneks
+- tacos
+- stopsmoking
+- todayilearned
+- Random_Acts_Of_Pizza
+- croatia
+- aww
+- weddingplanning
+- PoliticalVideo
+- TheseFuckingAccounts
+- television
+- tifu
+- UsernamesIllustrated
+- RedLetterMedia
+- me_irl
+- gildedawards
+---

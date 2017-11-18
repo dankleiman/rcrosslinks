@@ -1,0 +1,24 @@
+---
+title: GoodFakeTexts
+crosslinks:
+- DeepFriedMemes
+- Badfaketexts
+- nukedmemes
+- texts
+- furry_irl
+- Tinder
+- hmm
+- BetterEveryLoop
+- askouija
+- Ooer
+- copypasta
+- MaliciousCompliance
+- FriendsofthePod
+- meirl
+- me_irl
+- 2me4meirl
+- coaxedintoasnafu
+- FakeTexts
+- teenagers
+- riskyclick
+---

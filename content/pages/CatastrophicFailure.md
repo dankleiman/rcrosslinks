@@ -1,0 +1,24 @@
+---
+title: CatastrophicFailure
+crosslinks:
+- livven
+- watchpeopledie
+- pics
+- WTF
+- gifs
+- videos
+- xkcd
+- catastrophicsuccess
+- nononono
+- MyPeopleNeedMe
+- WhyWereTheyFilming
+- BrasilOnReddit
+- drunk
+- aviation
+- IdiotsNearlyDying
+- OSHA
+- shockwaveporn
+- SweatyPalms
+- ThisIsChina
+- DestructionPorn
+---

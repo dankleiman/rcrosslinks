@@ -1,0 +1,24 @@
+---
+title: StallmanWasRight
+crosslinks:
+- autotldr
+- privacy
+- xkcd
+- linuxmasterrace
+- technology
+- theinternetofshit
+- COMPLETEANARCHY
+- darknetplan
+- linux
+- CrackWatch
+- milliondollarextreme
+- selfhosted
+- ShitAmericansSay
+- tech
+- TheoryOfReddit
+- razer
+- KarmaCourt
+- JoeRogan
+- NoCorporations
+- Piracy
+---

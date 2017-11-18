@@ -1,0 +1,24 @@
+---
+title: RedPillWomen
+crosslinks:
+- TheRedPill
+- RPChristians
+- AskWomen
+- relationship_advice
+- progresspics
+- askMRP
+- curlyhair
+- AsianBeauty
+- StrongCurves
+- asktrp
+- ketogains
+- nursing
+- niceguys
+- AskMen
+- Incels
+- hoarding
+- OutOfTheLoop
+- FeminineNotFeminist
+- Documentaries
+- SkincareAddiction
+---

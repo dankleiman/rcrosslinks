@@ -1,0 +1,24 @@
+---
+title: AyyMD
+crosslinks:
+- Amd
+- livven
+- pcmasterrace
+- nvidia
+- intel
+- nvidiots
+- intelmr
+- autotldr
+- fire_snyper
+- linuxmasterrace
+- Windows1984
+- place
+- xkcd
+- Inteyyl
+- contentawarescale
+- amd
+- androidcirclejerk
+- pics
+- theydidthemeth
+- HeyNvidiaFuckYou
+---

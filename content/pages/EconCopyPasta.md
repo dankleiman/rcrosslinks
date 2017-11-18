@@ -1,0 +1,5 @@
+---
+title: EconCopyPasta
+crosslinks:
+- Economics
+---

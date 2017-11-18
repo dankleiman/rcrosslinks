@@ -1,0 +1,5 @@
+---
+title: imaginarystatblocks
+crosslinks:
+- ImaginaryMonsters
+---

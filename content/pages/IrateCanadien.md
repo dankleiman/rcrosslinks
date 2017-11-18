@@ -1,0 +1,5 @@
+---
+title: IrateCanadien
+crosslinks:
+- WritingPrompts
+---

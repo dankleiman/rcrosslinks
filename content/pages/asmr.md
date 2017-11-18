@@ -1,0 +1,24 @@
+---
+title: asmr
+crosslinks:
+- AskReddit
+- ArtisanVideos
+- nsfwasmr
+- videos
+- leagueoflegends
+- Frisson
+- AccidentalComedy
+- WTF
+- thingsforants
+- nocontext
+- neutralpolitics
+- Serendipity
+- ASMRotica
+- Documentaries
+- linguistics
+- WooASMR
+- Simulated
+- unintentionalASMR
+- TestFlight
+- CatGifs
+---

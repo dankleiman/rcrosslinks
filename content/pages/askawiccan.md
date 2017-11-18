@@ -1,0 +1,5 @@
+---
+title: askawiccan
+crosslinks:
+- Wicca
+---

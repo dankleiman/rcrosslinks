@@ -1,0 +1,5 @@
+---
+title: NZOutdoors
+crosslinks:
+- newzealand
+---

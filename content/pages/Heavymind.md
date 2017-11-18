@@ -1,0 +1,24 @@
+---
+title: Heavymind
+crosslinks:
+- Art
+- livven
+- Perceptions
+- doodles
+- interestingasfuck
+- woahdude
+- creepy
+- sjwhate
+- ICanDrawThat
+- creativecreature
+- titlegore
+- learnart
+- worstof
+- LateStageCapitalism
+- deepdream
+- pics
+- tattoos
+- unstirredpaint
+- changemyview
+- TID
+---

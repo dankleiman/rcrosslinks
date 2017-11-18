@@ -1,0 +1,24 @@
+---
+title: guitarpedals
+crosslinks:
+- diypedals
+- letstradepedals
+- guitarpedalsjerk
+- Guitar
+- offset
+- goodgeardemos
+- GuitarAmps
+- synthesizers
+- guitaramps
+- guitars
+- AskReddit
+- indieheads
+- '2011'
+- TheCure
+- csshelp
+- legaladvice
+- woodworking
+- rickandmorty
+- Gear4Sale
+- luthier
+---

@@ -1,0 +1,5 @@
+---
+title: historyofcomputers
+crosslinks:
+- mainframe
+---

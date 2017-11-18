@@ -1,0 +1,5 @@
+---
+title: Chaincoin
+crosslinks:
+- CryptoCurrency
+---

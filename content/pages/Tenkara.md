@@ -1,0 +1,5 @@
+---
+title: Tenkara
+crosslinks:
+- flyfishing
+---

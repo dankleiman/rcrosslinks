@@ -1,0 +1,5 @@
+---
+title: Camels
+crosslinks:
+- OldSchoolCool
+---

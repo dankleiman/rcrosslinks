@@ -1,0 +1,5 @@
+---
+title: Farcraft
+crosslinks:
+- TRADEMARK
+---

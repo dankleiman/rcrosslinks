@@ -1,0 +1,5 @@
+---
+title: boisebike
+crosslinks:
+- Boise
+---

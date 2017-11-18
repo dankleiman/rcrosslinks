@@ -1,0 +1,5 @@
+---
+title: luddite
+crosslinks:
+- DeepGreenResistance
+---

@@ -1,0 +1,5 @@
+---
+title: MUBookClub
+crosslinks:
+- rickandmorty
+---

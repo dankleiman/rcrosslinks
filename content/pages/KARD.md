@@ -1,0 +1,5 @@
+---
+title: KARD
+crosslinks:
+- kpop
+---

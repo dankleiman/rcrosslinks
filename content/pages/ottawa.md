@@ -1,0 +1,24 @@
+---
+title: ottawa
+crosslinks:
+- canada
+- autotldr
+- LoudNoisesOttawa
+- OandD
+- AskReddit
+- livven
+- OttawaMusic
+- OttawaFishing
+- LifeProTips
+- canadients
+- metacanada
+- pics
+- onguardforthee
+- 99rideau
+- PersonalFinanceCanada
+- videos
+- xkcd
+- OutOfTheLoop
+- CanadianHardwareSwap
+- Android
+---

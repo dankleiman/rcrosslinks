@@ -1,0 +1,24 @@
+---
+title: StardustCrusaders
+crosslinks:
+- nocontext
+- place
+- anime
+- CharacterRant
+- LoveLive
+- JoJoDiamondRecords
+- AnimeFigures
+- WorldofTanks
+- TwoBestFriendsPlay
+- doujinshi
+- leagueoflegends
+- pokemon
+- OldSchoolCool
+- read
+- fightcade
+- awwnime
+- tf2
+- shockwaveporn
+- DBZDokkanBattle
+- manga
+---

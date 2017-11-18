@@ -1,0 +1,5 @@
+---
+title: phototechnique
+crosslinks:
+- photography
+---

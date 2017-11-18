@@ -1,0 +1,5 @@
+---
+title: Rhoenrad
+crosslinks:
+- interestingasfuck
+---

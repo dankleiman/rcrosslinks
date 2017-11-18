@@ -1,0 +1,5 @@
+---
+title: splatooncirclejerk
+crosslinks:
+- splatoon
+---

@@ -1,0 +1,5 @@
+---
+title: brilliantidiots
+crosslinks:
+- redditrequest
+---

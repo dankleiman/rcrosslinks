@@ -1,0 +1,24 @@
+---
+title: kindafunny
+crosslinks:
+- ColinsLastStand
+- livven
+- CoolGamesInc
+- hotones
+- OutOfTheLoop
+- KotakuInAction
+- LivestreamFail
+- funhaus
+- Rickyisms
+- JoeRogan
+- im12andthisisfunny
+- ConspiracyGrumps
+- FORTnITE
+- movies
+- '2012'
+- estoration
+- PrequelMemes
+- NintendoSwitch
+- StreetFighter
+- EnoughTrumpSpam
+---

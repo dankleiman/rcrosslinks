@@ -1,0 +1,5 @@
+---
+title: nassimtaleb
+crosslinks:
+- autotldr
+---

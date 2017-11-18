@@ -1,0 +1,5 @@
+---
+title: KirkCousins
+crosslinks:
+- BlackPeopleTwitter
+---

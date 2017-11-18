@@ -1,0 +1,5 @@
+---
+title: ModFighters
+crosslinks:
+- StreetFighter
+---

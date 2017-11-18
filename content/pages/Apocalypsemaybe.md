@@ -1,0 +1,5 @@
+---
+title: Apocalypsemaybe
+crosslinks:
+- conspiracy
+---

@@ -1,0 +1,24 @@
+---
+title: Connecticut
+crosslinks:
+- autotldr
+- newhaven
+- livven
+- cordcutters
+- funny
+- videos
+- titlegore
+- The_Donald
+- MarchForScience
+- philly
+- NewCanaan
+- Damnthatsinteresting
+- CalamariRaceTeam
+- MMAStreams
+- CTents
+- '2013'
+- Frugal
+- MapPorn
+- cycling
+- news
+---

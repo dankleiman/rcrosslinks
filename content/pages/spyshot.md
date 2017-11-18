@@ -1,0 +1,5 @@
+---
+title: spyshot
+crosslinks:
+- cars
+---

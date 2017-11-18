@@ -1,0 +1,5 @@
+---
+title: Partytricks
+crosslinks:
+- livven
+---

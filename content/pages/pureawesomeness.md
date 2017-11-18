@@ -1,0 +1,5 @@
+---
+title: pureawesomeness
+crosslinks:
+- Serendipity
+---

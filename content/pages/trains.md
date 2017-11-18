@@ -1,0 +1,24 @@
+---
+title: trains
+crosslinks:
+- livven
+- norwayonreddit
+- CringeAnarchy
+- TrainPorn
+- IdiotsInCars
+- InfrastructurePorn
+- WaitingForATrain
+- interestingasfuck
+- 'null'
+- Argentinados
+- WWII
+- Breadit
+- Amtrak
+- autotldr
+- chemistry
+- shittyHDR
+- OSHA
+- Montana
+- transit
+- Train_Service
+---

@@ -1,0 +1,24 @@
+---
+title: WorldOfWarships
+crosslinks:
+- livven
+- WarshipPorn
+- WorldofTanks
+- modnews
+- AskHistorians
+- kancolle
+- xkcd
+- pics
+- modelmakers
+- Warthunder
+- announcements
+- gifs
+- nocontext
+- explainlikeimfive
+- titlegore
+- hearthstone
+- askscience
+- interestingasfuck
+- WTF
+- anime
+---

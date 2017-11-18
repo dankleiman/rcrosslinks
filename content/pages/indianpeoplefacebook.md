@@ -1,0 +1,24 @@
+---
+title: indianpeoplefacebook
+crosslinks:
+- ComedyCemetery
+- india
+- BollywoodRealism
+- news
+- sadcringe
+- ShitAmericansSay
+- indianpeoplereddit
+- CringeAnarchy
+- Badfaketexts
+- wincest
+- Sneks
+- KarmaConspiracy
+- livven
+- surrealmemes
+- KarmaCourt
+- ATBGE
+- Art
+- cringepics
+- funny
+- copypasta
+---

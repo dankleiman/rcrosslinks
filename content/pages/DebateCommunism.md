@@ -1,0 +1,24 @@
+---
+title: DebateCommunism
+crosslinks:
+- communism101
+- communism
+- LateStageCapitalism
+- Anarchy101
+- Shitstatistssay
+- socialism
+- marxism_101
+- AskHistorians
+- FULLCOMMUNISM
+- CapitalismVSocialism
+- Anarcho_Capitalism
+- shitleftistssay
+- Anarchism
+- Socialism_101
+- EnoughCommieSpam
+- offmychest
+- MEIOUandTaxes
+- US_Strasserism
+- nihilistcommunism
+- IAmA
+---

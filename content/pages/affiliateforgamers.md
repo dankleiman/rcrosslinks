@@ -1,0 +1,5 @@
+---
+title: affiliateforgamers
+crosslinks:
+- SuggestALaptop
+---

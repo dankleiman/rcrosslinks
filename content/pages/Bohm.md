@@ -1,0 +1,5 @@
+---
+title: Bohm
+crosslinks:
+- PhilosophyofScience
+---

@@ -1,0 +1,5 @@
+---
+title: onepagerpgs
+crosslinks:
+- rpg
+---

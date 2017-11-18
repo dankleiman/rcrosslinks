@@ -1,0 +1,5 @@
+---
+title: GameInfoBot
+crosslinks:
+- FORTnITE
+---

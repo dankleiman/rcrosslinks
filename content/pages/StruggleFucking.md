@@ -1,0 +1,24 @@
+---
+title: StruggleFucking
+crosslinks:
+- livven
+- Pain
+- tipofmypenis
+- rape_porn
+- IAmA
+- painal
+- JavDownloadCenter
+- FMRP
+- IncestPorn
+- AMAAggregator
+- Sexfight
+- SurpriseDP
+- nsfw411
+- xxxcaptions
+- talkedintoit
+- cuckquean
+- Blackmailed
+- kinkycaps
+- Taxpayers
+- Throatfucking
+---

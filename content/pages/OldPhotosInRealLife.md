@@ -1,0 +1,5 @@
+---
+title: OldPhotosInRealLife
+crosslinks:
+- PastAndPresentPics
+---

@@ -1,0 +1,24 @@
+---
+title: imagesofthe1980s
+crosslinks:
+- OldSchoolCool
+- pics
+- imagesofnetwork
+- MoviePosterPorn
+- ClassicMarvelCovers
+- mildlyinteresting
+- HistoryPorn
+- CineShots
+- nostalgia
+- funny
+- Art
+- ThriftStoreHauls
+- carporn
+- HorrorFilmPosters
+- motorcycles
+- PropagandaPosters
+- ClassicMoviePosters
+- movies
+- u_2BrkOnThru
+- coins
+---

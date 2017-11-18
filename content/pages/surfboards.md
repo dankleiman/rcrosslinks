@@ -1,0 +1,5 @@
+---
+title: surfboards
+crosslinks:
+- surfing
+---

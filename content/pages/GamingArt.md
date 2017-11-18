@@ -1,0 +1,5 @@
+---
+title: GamingArt
+crosslinks:
+- gaming
+---

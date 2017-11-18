@@ -1,0 +1,5 @@
+---
+title: InfoSecEu
+crosslinks:
+- sysadmin
+---

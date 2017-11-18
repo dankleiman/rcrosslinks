@@ -1,0 +1,5 @@
+---
+title: EliteCQC
+crosslinks:
+- EliteDangerous
+---

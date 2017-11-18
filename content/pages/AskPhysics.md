@@ -1,0 +1,24 @@
+---
+title: AskPhysics
+crosslinks:
+- askscience
+- space
+- Physics
+- xkcd
+- explainlikeimfive
+- PhilosophyofScience
+- askphilosophy
+- altright
+- learnmath
+- Serendipity
+- ExplainBecauseIAmFive
+- ParticlePhysics
+- whatisthisthing
+- WhiteRights
+- chicago
+- coins
+- eli5
+- Amd
+- HFY
+- gifs
+---

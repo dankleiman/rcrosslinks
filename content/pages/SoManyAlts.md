@@ -1,0 +1,5 @@
+---
+title: SoManyAlts
+crosslinks:
+- spam
+---

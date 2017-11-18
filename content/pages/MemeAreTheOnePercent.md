@@ -1,0 +1,5 @@
+---
+title: MemeAreTheOnePercent
+crosslinks:
+- GoldmemeSachs
+---

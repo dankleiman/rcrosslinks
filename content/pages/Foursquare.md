@@ -1,0 +1,5 @@
+---
+title: Foursquare
+crosslinks:
+- Serendipity
+---

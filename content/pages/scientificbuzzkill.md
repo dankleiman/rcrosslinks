@@ -1,0 +1,5 @@
+---
+title: scientificbuzzkill
+crosslinks:
+- science
+---

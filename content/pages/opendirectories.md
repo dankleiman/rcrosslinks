@@ -1,0 +1,24 @@
+---
+title: opendirectories
+crosslinks:
+- DataHoarder
+- megalinks
+- Archiveteam
+- freefolk
+- DHExchange
+- Piracy
+- preppers
+- retrocomputing
+- Payphone
+- ImaginaryMonsters
+- datahoarders
+- sonicyouth
+- PrettyGirls
+- glitch_art
+- MEGA
+- matt
+- l0de
+- Shitstatistssay
+- savedForMS
+- musichoarder
+---

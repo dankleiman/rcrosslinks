@@ -1,0 +1,5 @@
+---
+title: wsbk
+crosslinks:
+- motogp
+---

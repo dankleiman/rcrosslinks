@@ -1,0 +1,5 @@
+---
+title: SickSadWorld
+crosslinks:
+- autotldr
+---

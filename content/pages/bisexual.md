@@ -1,0 +1,24 @@
+---
+title: bisexual
+crosslinks:
+- polyamory
+- livven
+- RoleReversal
+- AskReddit
+- OkCupid
+- crossdressing
+- BiMeetup
+- place
+- sex
+- vexillology
+- furry_irl
+- OCPoetry
+- Suomi
+- indieheads
+- aneros
+- asktransgender
+- NPR
+- sadcringe
+- pansexual
+- SampleSize
+---

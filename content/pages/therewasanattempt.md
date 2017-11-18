@@ -1,0 +1,24 @@
+---
+title: therewasanattempt
+crosslinks:
+- livven
+- gifs
+- funny
+- WhyWereTheyFilming
+- AskReddit
+- holdmyfries
+- Whatcouldgowrong
+- BetterEveryLoop
+- AccidentalRenaissance
+- WTF
+- vegan
+- xkcd
+- nononono
+- MaliciousCompliance
+- FullScorpion
+- JusticeServed
+- mildlyinteresting
+- gaming
+- PeopleFuckingDying
+- Wellthatsucks
+---

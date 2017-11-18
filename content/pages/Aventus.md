@@ -1,0 +1,5 @@
+---
+title: Aventus
+crosslinks:
+- icocrypto
+---

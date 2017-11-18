@@ -1,0 +1,5 @@
+---
+title: AndroidPay
+crosslinks:
+- Android
+---

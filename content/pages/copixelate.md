@@ -1,0 +1,5 @@
+---
+title: copixelate
+crosslinks:
+- place
+---

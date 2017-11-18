@@ -1,0 +1,5 @@
+---
+title: saneorpsycho
+crosslinks:
+- ExNoContact
+---

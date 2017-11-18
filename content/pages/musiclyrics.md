@@ -1,0 +1,5 @@
+---
+title: musiclyrics
+crosslinks:
+- lyrics
+---

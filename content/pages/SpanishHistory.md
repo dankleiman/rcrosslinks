@@ -1,0 +1,5 @@
+---
+title: SpanishHistory
+crosslinks:
+- Serendipity
+---

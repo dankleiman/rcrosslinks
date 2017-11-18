@@ -1,0 +1,5 @@
+---
+title: volumecontrolsfuckery
+crosslinks:
+- ProgrammerHumor
+---

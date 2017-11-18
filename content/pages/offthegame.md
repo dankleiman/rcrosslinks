@@ -1,0 +1,5 @@
+---
+title: offthegame
+crosslinks:
+- Undertale
+---

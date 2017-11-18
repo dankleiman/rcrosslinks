@@ -1,0 +1,24 @@
+---
+title: csgo
+crosslinks:
+- livven
+- RecruitCS
+- Steam
+- me_irl
+- gaming
+- csgoscammers
+- eu4
+- vegas
+- askscience
+- csmapmakers
+- pcmasterrace
+- counterstrike
+- help
+- recruitcs
+- VAC_Porn
+- leagueoflegends
+- RimWorld
+- '2013'
+- darksouls
+- Overwatch
+---

@@ -1,0 +1,5 @@
+---
+title: scots
+crosslinks:
+- glasgow
+---

@@ -1,0 +1,5 @@
+---
+title: BasicIncomeUSA
+crosslinks:
+- autotldr
+---

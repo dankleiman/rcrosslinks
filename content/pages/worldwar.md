@@ -1,0 +1,5 @@
+---
+title: worldwar
+crosslinks:
+- autotldr
+---

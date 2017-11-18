@@ -1,0 +1,5 @@
+---
+title: hitler
+crosslinks:
+- sjwhate
+---

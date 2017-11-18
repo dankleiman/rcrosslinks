@@ -1,0 +1,5 @@
+---
+title: Xenolo
+crosslinks:
+- HogwartsWerewolves
+---

@@ -1,0 +1,5 @@
+---
+title: WatchHanzoDie
+crosslinks:
+- Overwatch
+---

@@ -1,0 +1,5 @@
+---
+title: SkyrimNSFW
+crosslinks:
+- Palpz
+---

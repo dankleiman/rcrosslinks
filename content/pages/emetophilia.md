@@ -1,0 +1,5 @@
+---
+title: emetophilia
+crosslinks:
+- Emetophillia
+---

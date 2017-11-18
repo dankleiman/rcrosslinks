@@ -1,0 +1,5 @@
+---
+title: Kompromat
+crosslinks:
+- autotldr
+---

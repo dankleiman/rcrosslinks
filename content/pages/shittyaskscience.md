@@ -1,0 +1,24 @@
+---
+title: shittyaskscience
+crosslinks:
+- livven
+- xkcd
+- pics
+- AskReddit
+- autotldr
+- funny
+- gifs
+- theydidthemath
+- askscience
+- tifu
+- Jokes
+- mildlyinteresting
+- Showerthoughts
+- jesuschristreddit
+- nocontext
+- WritingPrompts
+- explainlikeimfive
+- videos
+- interestingasfuck
+- dankmemes
+---

@@ -1,0 +1,24 @@
+---
+title: northernireland
+crosslinks:
+- ireland
+- autotldr
+- unitedkingdom
+- Scotland
+- ukpolitics
+- me_ira
+- CelticUnion
+- vexillology
+- mensa
+- livven
+- MapPorn
+- UlsterHistory
+- AskHistorians
+- CasualUK
+- Anarchism
+- SausageRollsGonewild
+- Donegal
+- Irishmusic
+- me_irl
+- OutOfTheLoop
+---

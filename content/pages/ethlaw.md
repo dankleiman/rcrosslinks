@@ -1,0 +1,5 @@
+---
+title: ethlaw
+crosslinks:
+- ethereum
+---

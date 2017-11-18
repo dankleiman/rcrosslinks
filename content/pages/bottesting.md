@@ -1,0 +1,24 @@
+---
+title: bottesting
+crosslinks:
+- UMukhasimAutoNews
+- AskReddit
+- HOTandTRENDING
+- EcoInternet
+- BitcoinAll
+- TheColorIsRed
+- TheColorIsBlue
+- EarthFans
+- AppNana
+- SteamTradingCards
+- worldnews
+- Ice_Poseidon
+- underpopular
+- teenagers
+- Nudelete
+- SteamKiwi
+- BreakingNews24hr
+- PoliticalVideos
+- sports_undelete
+- NoFilterNews
+---

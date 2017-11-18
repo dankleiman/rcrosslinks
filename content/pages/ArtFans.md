@@ -1,0 +1,5 @@
+---
+title: ArtFans
+crosslinks:
+- NoSillySuffix
+---

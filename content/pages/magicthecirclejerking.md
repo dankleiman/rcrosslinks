@@ -1,0 +1,24 @@
+---
+title: magicthecirclejerking
+crosslinks:
+- magicTCG
+- Cooldownguy
+- custommagic
+- ModernMagic
+- BestOfMTCJ
+- mtgfinance
+- EDH
+- shittyjudgequestions
+- ReportTheBadModerator
+- PrequelMemes
+- spikes
+- BestOfReports
+- Pauper
+- hearthstonecirclejerk
+- mtgvorthos
+- DeathsShadow
+- mtggore
+- MTCJcopypasta
+- gaming
+- metaMTCJ
+---

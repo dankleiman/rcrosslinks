@@ -1,0 +1,5 @@
+---
+title: stupidfuckingcup
+crosslinks:
+- BirdsBeingDicks
+---

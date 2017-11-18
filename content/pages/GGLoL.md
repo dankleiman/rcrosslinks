@@ -1,0 +1,5 @@
+---
+title: GGLoL
+crosslinks:
+- leagueoflegends
+---

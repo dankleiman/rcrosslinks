@@ -1,0 +1,5 @@
+---
+title: GothamShield
+crosslinks:
+- autotldr
+---

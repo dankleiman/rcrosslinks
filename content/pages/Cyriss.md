@@ -1,0 +1,5 @@
+---
+title: Cyriss
+crosslinks:
+- Warmachine
+---

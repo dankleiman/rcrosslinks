@@ -1,0 +1,5 @@
+---
+title: bugoutvehicles
+crosslinks:
+- preppers
+---

@@ -1,0 +1,24 @@
+---
+title: ColoradoSprings
+crosslinks:
+- movies
+- weightlifting
+- colorador4r
+- UCCS
+- me_irl
+- Anticonsumption
+- AskVet
+- Rochester
+- MMAStreams
+- BlueMidterm2018
+- pics
+- The_Donald
+- vandwellermarketplace
+- Colorado
+- keming
+- TuxedoCats
+- cohiphop
+- AskReddit
+- COBike
+- autotldr
+---

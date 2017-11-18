@@ -1,0 +1,24 @@
+---
+title: progressive
+crosslinks:
+- politics
+- Shitstatistssay
+- AskHistorians
+- occupywallstreet
+- ShitPoliticsSays
+- privacytoolsIO
+- IAmA
+- TheSimpsons
+- OutOfTheLoop
+- The_Donald
+- POLITIC
+- OpenChristian
+- TheRedPill
+- Keithellison
+- lectures
+- allpolitics
+- AmIFreeToGo
+- EnoughTwoPartySpam
+- Conservative
+- KotakuInAction
+---

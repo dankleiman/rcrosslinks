@@ -1,0 +1,24 @@
+---
+title: torrents
+crosslinks:
+- trackers
+- kickasstorrents
+- Piracy
+- IAmA
+- Chromecast
+- sonarr
+- VPNTorrents
+- utorrent
+- TOR
+- autotldr
+- linux
+- OpenSignups
+- opentrackerproject
+- shaw
+- redditrequest
+- freenas
+- explainlikeimfive
+- netsec
+- VPN
+- IPTV
+---

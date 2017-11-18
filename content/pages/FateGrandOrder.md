@@ -1,0 +1,5 @@
+---
+title: FateGrandOrder
+crosslinks:
+- grandorder
+---

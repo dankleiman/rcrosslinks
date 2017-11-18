@@ -1,0 +1,24 @@
+---
+title: meirl
+crosslinks:
+- livven
+- me_irl
+- funny
+- xkcd
+- AskReddit
+- 2meirl4meirl
+- comics
+- coaxedintoasnafu
+- dankmemes
+- teenagers
+- PrequelMemes
+- todayilearned
+- tifu
+- pics
+- wholesomememes
+- ProgrammerHumor
+- anime_irl
+- toomeirlformeirl
+- Tinder
+- ShittyLifeProTips
+---

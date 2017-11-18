@@ -1,0 +1,24 @@
+---
+title: DetroitRedWings
+crosslinks:
+- hockey
+- place
+- NHLStreams
+- Detroit
+- livven
+- LazyMan
+- Kanye
+- lazyman
+- leafs
+- OriginalSix_Place
+- DetroitRedWingsTest
+- Mariners
+- nhl_games
+- hawks
+- TransFlagPlace
+- CalgaryFlames
+- detroitlions
+- OutOfTheLoop
+- EDC
+- DetroitSportsTalk
+---

@@ -1,0 +1,24 @@
+---
+title: custommagic
+crosslinks:
+- magicTCG
+- ArtificeMTG
+- magicthecirclejerking
+- EDH
+- ImaginaryMonsters
+- xkcd
+- MapPorn
+- CustomEDH
+- MTGLegacy
+- createthisworld
+- Serendipity
+- avatars
+- anime
+- PrequelMemes
+- MTGDesign
+- askscience
+- spikes
+- ModernMagic
+- TooMeIrlForMeIrl
+- commentgore
+---

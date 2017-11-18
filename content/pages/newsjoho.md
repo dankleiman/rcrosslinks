@@ -1,0 +1,5 @@
+---
+title: newsjoho
+crosslinks:
+- newsokur
+---

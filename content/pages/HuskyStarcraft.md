@@ -1,0 +1,5 @@
+---
+title: HuskyStarcraft
+crosslinks:
+- videos
+---

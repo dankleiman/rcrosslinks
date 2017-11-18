@@ -1,0 +1,24 @@
+---
+title: thalassophobia
+crosslinks:
+- livven
+- pics
+- gifs
+- WTF
+- interestingasfuck
+- TheDepthsBelow
+- AskReddit
+- ImaginaryLeviathans
+- creepy
+- videos
+- HeavySeas
+- itookapicture
+- SCP
+- TsundereSharks
+- SweatyPalms
+- MostBeautiful
+- Spearfishing
+- gopro
+- EarthPorn
+- NatureIsFuckingLit
+---

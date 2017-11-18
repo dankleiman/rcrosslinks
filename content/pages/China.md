@@ -1,0 +1,24 @@
+---
+title: China
+crosslinks:
+- worldnews
+- CCJ2
+- AskReddit
+- videos
+- shanghai
+- chinalife
+- IAmA
+- geopolitics
+- China2020
+- aznidentity
+- Chinavisa
+- ChineseReddit
+- HongKong
+- korea
+- TEFLSHIT
+- funny
+- AskHistorians
+- chinafuturism
+- sino
+- Bitcoin
+---

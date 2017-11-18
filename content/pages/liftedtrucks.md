@@ -1,0 +1,5 @@
+---
+title: liftedtrucks
+crosslinks:
+- Trucks
+---

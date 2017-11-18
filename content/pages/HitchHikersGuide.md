@@ -1,0 +1,5 @@
+---
+title: HitchHikersGuide
+crosslinks:
+- shittyaskscience
+---

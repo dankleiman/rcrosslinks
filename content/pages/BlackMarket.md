@@ -1,0 +1,5 @@
+---
+title: BlackMarket
+crosslinks:
+- Shoplifting
+---

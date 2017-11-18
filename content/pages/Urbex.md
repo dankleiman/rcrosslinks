@@ -1,0 +1,5 @@
+---
+title: Urbex
+crosslinks:
+- AskPhotography
+---

@@ -1,0 +1,24 @@
+---
+title: codes
+crosslinks:
+- ARG
+- twinpeaks
+- crypto
+- ciphers
+- programming
+- conspiracy
+- cicada
+- CracktheCode
+- Oppression
+- coding
+- karmacourt
+- fivenightsatfreddys
+- Steganography
+- gunters_lounge
+- SEELE
+- raidsecrets
+- nosleep
+- amateurradio
+- KarmaCourt
+- thenext
+---

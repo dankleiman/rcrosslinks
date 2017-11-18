@@ -1,0 +1,5 @@
+---
+title: PeopleOnTheSubway
+crosslinks:
+- normaldayinjapan
+---

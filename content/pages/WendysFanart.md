@@ -1,0 +1,5 @@
+---
+title: WendysFanart
+crosslinks:
+- nsfwcosplay
+---

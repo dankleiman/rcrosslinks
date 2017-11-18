@@ -1,0 +1,5 @@
+---
+title: BritneySpears
+crosslinks:
+- Serendipity
+---

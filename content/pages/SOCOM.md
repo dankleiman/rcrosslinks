@@ -1,0 +1,5 @@
+---
+title: SOCOM
+crosslinks:
+- insurgency
+---

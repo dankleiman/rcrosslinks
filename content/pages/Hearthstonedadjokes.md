@@ -1,0 +1,5 @@
+---
+title: Hearthstonedadjokes
+crosslinks:
+- hearthstone
+---

@@ -1,0 +1,24 @@
+---
+title: criterion
+crosslinks:
+- dvdcollection
+- TrueFilm
+- movies
+- CriterionCovers
+- twinpeaks
+- Screenwriting
+- hometheater
+- FrenchWestIndies
+- LaserDisc
+- dontdeadopeninside
+- commentgore
+- silentcinema
+- CriterionMemes
+- csshelp
+- autotldr
+- MoviePosterPorn
+- gatekeeping
+- rpg
+- 4B
+- glitch_art
+---

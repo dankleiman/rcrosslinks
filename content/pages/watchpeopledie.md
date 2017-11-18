@@ -1,0 +1,24 @@
+---
+title: watchpeopledie
+crosslinks:
+- livven
+- jesuschristreddit
+- WTF
+- videos
+- DankPuns
+- ShitAmericansSay
+- AskReddit
+- titlegore
+- explainlikeimfive
+- gifs
+- syriancivilwar
+- news
+- NegativeWithGold
+- ShadowBan
+- worldnews
+- AskHistorians
+- Roadcam
+- TheBullWins
+- CatastrophicFailure
+- IAmA
+---

@@ -1,0 +1,24 @@
+---
+title: linuxhardware
+crosslinks:
+- LinuxOnThinkpads
+- linux
+- linux_gaming
+- thinkpad
+- Amd
+- DistroHopping
+- Dell
+- headphones
+- chromeos
+- SuggestALaptop
+- linuxmint
+- hardware
+- archlinux
+- ASUS
+- Gentoo
+- ProCSS
+- linuxquestions
+- pine64
+- EOMA68
+- nosleep
+---

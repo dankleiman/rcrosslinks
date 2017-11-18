@@ -1,0 +1,5 @@
+---
+title: SuperMarioGamesSwitch
+crosslinks:
+- SuperMarioOdyssey
+---

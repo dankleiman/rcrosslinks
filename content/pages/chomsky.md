@@ -1,0 +1,24 @@
+---
+title: chomsky
+crosslinks:
+- Anarchism
+- autotldr
+- askphilosophy
+- AnarchismOnline
+- lectures
+- media_criticism
+- WikiLeaks
+- Anarchy101
+- shills
+- askscience
+- AskPhilosophyFAQ
+- slatestarcodex
+- PropagandaPosters
+- LateStageCapitalism
+- IAmA
+- atheism
+- The_Donald
+- ChapoTrapHouse
+- me_irl
+- AskHistorians
+---

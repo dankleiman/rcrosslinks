@@ -1,0 +1,24 @@
+---
+title: SSBPM
+crosslinks:
+- livven
+- SSBM
+- customsmash
+- smashgifs
+- HighQualityGifs
+- NewPMDT
+- Games
+- BRSTM
+- SuggestALaptop
+- evangelion
+- madlad
+- replayhut
+- india
+- OverwatchUniversity
+- smashart
+- PCMasterRace
+- BABYMETAL
+- Drama
+- The_Donald
+- PrequelMemes
+---

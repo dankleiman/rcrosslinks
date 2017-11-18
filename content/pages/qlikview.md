@@ -1,0 +1,5 @@
+---
+title: qlikview
+crosslinks:
+- BusinessIntelligence
+---

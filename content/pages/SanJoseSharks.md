@@ -1,0 +1,24 @@
+---
+title: SanJoseSharks
+crosslinks:
+- hockey
+- hockeyjerseys
+- livven
+- canucks
+- LazyMan
+- BeauregardTheFloofy
+- devils
+- nhl_games
+- place
+- reddit_stream
+- EdmontonOilers
+- pics
+- NHLstatheads
+- eagles
+- AnaheimDucks
+- SanJose
+- hawwkey
+- 49ers
+- xkcd
+- Coyotes
+---

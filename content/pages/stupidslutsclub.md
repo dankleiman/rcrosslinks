@@ -1,0 +1,24 @@
+---
+title: stupidslutsclub
+crosslinks:
+- Rapekink
+- SluttyConfessions
+- VirginityExchange
+- dirtyr4r
+- NSFWIAMA
+- Hotwife
+- Drama
+- gonewildstories
+- gonewild
+- hotpast
+- Cuckold
+- SexLists
+- Incels
+- FapDeciders
+- eroticauthors
+- orgasmcontrol
+- survivinginfidelity
+- AskRedditAfterDark
+- gonewildaudio
+- dontdeadopeninside
+---

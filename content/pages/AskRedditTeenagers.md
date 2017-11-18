@@ -1,0 +1,5 @@
+---
+title: AskRedditTeenagers
+crosslinks:
+- titlegore
+---

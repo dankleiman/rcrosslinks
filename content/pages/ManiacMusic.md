@@ -1,0 +1,5 @@
+---
+title: ManiacMusic
+crosslinks:
+- Musicthemetime
+---

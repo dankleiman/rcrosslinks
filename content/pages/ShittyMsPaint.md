@@ -1,0 +1,5 @@
+---
+title: ShittyMsPaint
+crosslinks:
+- AskReddit
+---

@@ -1,0 +1,5 @@
+---
+title: Synthesizer
+crosslinks:
+- synthesizers
+---

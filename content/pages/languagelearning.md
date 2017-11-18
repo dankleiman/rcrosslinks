@@ -1,0 +1,24 @@
+---
+title: languagelearning
+crosslinks:
+- LearnJapanese
+- linguistics
+- translator
+- Korean
+- russian
+- languages
+- French
+- duolingo
+- German
+- Portuguese
+- language_exchange
+- autotldr
+- translatorBOT
+- gaeilge
+- learnwelsh
+- Spanish
+- ChineseLanguage
+- italianlearning
+- GREEK
+- europe
+---

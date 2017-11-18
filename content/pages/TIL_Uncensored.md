@@ -1,0 +1,24 @@
+---
+title: TIL_Uncensored
+crosslinks:
+- undelete
+- The_Donald
+- PussyPass
+- Linky_links
+- AskReddit
+- AskHistorians
+- Weirdaf
+- communists
+- OutOfTheLoop
+- DAEhateTrump
+- ShittyTodayILearned
+- space
+- kangz
+- warlizard
+- theydidthefuckyou
+- legaladvice
+- daddit
+- politics
+- socialism
+- HailCorporate
+---

@@ -1,0 +1,5 @@
+---
+title: musiccognition
+crosslinks:
+- musictheory
+---

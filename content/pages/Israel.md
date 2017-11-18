@@ -1,0 +1,24 @@
+---
+title: Israel
+crosslinks:
+- autotldr
+- Palestine
+- place
+- europe
+- Judaism
+- palestine
+- AskHistorians
+- india
+- Kuwait
+- iranian
+- AskReddit
+- syriancivilwar
+- IsraelPalestine
+- AskAcademia
+- xkcd
+- vexillology
+- AccidentalRenaissance
+- MilitaryPorn
+- vegan
+- worldnews
+---

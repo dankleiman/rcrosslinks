@@ -1,0 +1,5 @@
+---
+title: BlackBible
+crosslinks:
+- WikiLeaks
+---

@@ -1,0 +1,24 @@
+---
+title: hoggit
+crosslinks:
+- hotas
+- livven
+- flightsim
+- aviation
+- arma
+- oculus
+- xkcd
+- starcitizen
+- splashone
+- movies
+- AirForce
+- The_Donald
+- MilitaryGfys
+- modelmakers
+- funny
+- flying
+- SierraHotel
+- 4chan
+- F35Lightning
+- Vive
+---

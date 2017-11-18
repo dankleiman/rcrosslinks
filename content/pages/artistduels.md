@@ -1,0 +1,5 @@
+---
+title: artistduels
+crosslinks:
+- AskReddit
+---

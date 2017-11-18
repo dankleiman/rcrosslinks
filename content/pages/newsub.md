@@ -1,0 +1,5 @@
+---
+title: newsub
+crosslinks:
+- promotereddit
+---

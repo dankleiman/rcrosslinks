@@ -1,0 +1,24 @@
+---
+title: Construction
+crosslinks:
+- accessdoors
+- Concrete
+- DIY
+- redditrequest
+- OSHA
+- autotldr
+- BuildingCodes
+- AskEngineers
+- Futurology
+- civilengineering
+- woodworking
+- skookum
+- BlueCollarWomen
+- dating
+- architecture
+- livven
+- interestingasfuck
+- videos
+- sales
+- Revu
+---

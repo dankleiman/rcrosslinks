@@ -1,0 +1,5 @@
+---
+title: civsmut
+crosslinks:
+- civ
+---

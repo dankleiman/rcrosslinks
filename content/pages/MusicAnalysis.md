@@ -1,0 +1,5 @@
+---
+title: MusicAnalysis
+crosslinks:
+- Music
+---

@@ -1,0 +1,5 @@
+---
+title: zerotoheroes
+crosslinks:
+- hearthstone
+---

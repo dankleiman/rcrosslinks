@@ -1,0 +1,5 @@
+---
+title: GamersRevenge
+crosslinks:
+- stirthatshit
+---

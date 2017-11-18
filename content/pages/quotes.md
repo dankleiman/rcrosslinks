@@ -1,0 +1,24 @@
+---
+title: quotes
+crosslinks:
+- NewSlangTerms
+- politics
+- DecidingToBeBetter
+- iamverysmart
+- The_Donald
+- Stoicism
+- exmormon
+- AskReddit
+- AdviceAnimals
+- carsfuckingdragons
+- Christianity
+- HistoryAnecdotes
+- PhonesAreBad
+- niceguys
+- stanisms
+- ShitPoliticsSays
+- toosoon
+- linguistics
+- changemyview
+- tilwtf
+---

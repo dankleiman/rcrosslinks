@@ -1,0 +1,5 @@
+---
+title: boottobig
+crosslinks:
+- funny
+---

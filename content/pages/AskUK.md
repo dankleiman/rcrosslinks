@@ -1,0 +1,24 @@
+---
+title: AskUK
+crosslinks:
+- london
+- unitedkingdom
+- UKPersonalFinance
+- LegalAdviceUK
+- CasualUK
+- policeuk
+- AskAnAmerican
+- AskReddit
+- food
+- videos
+- ukpolitics
+- travel
+- SuicideWatch
+- loseit
+- AskHistorians
+- BritishSuccess
+- Scotland
+- answers
+- Fitness
+- europe
+---

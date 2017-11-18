@@ -1,0 +1,5 @@
+---
+title: ExplainLikeImPHD
+crosslinks:
+- xkcd
+---

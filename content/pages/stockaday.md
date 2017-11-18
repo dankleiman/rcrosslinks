@@ -1,0 +1,5 @@
+---
+title: stockaday
+crosslinks:
+- investing
+---

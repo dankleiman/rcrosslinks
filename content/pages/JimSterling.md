@@ -1,0 +1,24 @@
+---
+title: JimSterling
+crosslinks:
+- NintendoSwitch
+- gaming
+- Gamingcirclejerk
+- Games
+- Steam
+- KotakuInAction
+- SidAlpha
+- pcmasterrace
+- DotA2
+- IAmA
+- shittykickstarters
+- WorldofTanks
+- copypasta
+- skyrimmods
+- xkcd
+- ExplainMyDownvotes
+- gamedev
+- modpiracy
+- GamerGhazi
+- stanisms
+---

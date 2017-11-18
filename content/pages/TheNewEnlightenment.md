@@ -1,0 +1,5 @@
+---
+title: TheNewEnlightenment
+crosslinks:
+- MadMudmen
+---

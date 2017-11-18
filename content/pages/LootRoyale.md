@@ -1,0 +1,5 @@
+---
+title: LootRoyale
+crosslinks:
+- ClashRoyale
+---

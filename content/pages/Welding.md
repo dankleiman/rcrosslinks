@@ -1,0 +1,22 @@
+---
+title: Welding
+crosslinks:
+- livven
+- spam
+- Skookum
+- WTF
+- arduino
+- BadWelding
+- motorcycles
+- trashy
+- australia
+- pipefitter
+- NSFW_GIF
+- electronics
+- Jokes
+- Damnthatsinteresting
+- OldSchoolCool
+- Justrolledintotheshop
+- metric_units
+- metalworking
+---

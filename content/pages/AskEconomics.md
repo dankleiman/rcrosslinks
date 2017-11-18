@@ -1,0 +1,24 @@
+---
+title: AskEconomics
+crosslinks:
+- Economics
+- AskSocialScience
+- GoodEconomics
+- IAmA
+- explainlikeimfive
+- NeutralPolitics
+- changemyview
+- AskReddit
+- BasicIncome
+- austrian_economics
+- ukpolitics
+- FrenchWestIndies
+- LosAngeles
+- personalfinance
+- gamedev
+- USNEWS
+- AskProgrammers
+- AMAAggregator
+- Washington
+- georgism
+---

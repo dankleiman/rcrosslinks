@@ -1,0 +1,23 @@
+---
+title: homedefense
+crosslinks:
+- videosurveillance
+- legaladvice
+- guns
+- autotldr
+- Dashcam
+- SpyGadgets
+- SecurityCamera
+- homeautomation
+- redditmarketing
+- nashville
+- tasker
+- livven
+- netsec
+- HomeServer
+- saplings
+- HomeNetworking
+- privacy
+- DannyBrown
+- AskReddit
+---

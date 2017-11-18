@@ -1,0 +1,5 @@
+---
+title: Ghostery
+crosslinks:
+- autotldr
+---

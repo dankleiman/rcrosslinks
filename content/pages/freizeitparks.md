@@ -1,0 +1,5 @@
+---
+title: freizeitparks
+crosslinks:
+- de
+---

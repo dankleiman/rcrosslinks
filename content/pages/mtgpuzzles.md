@@ -1,0 +1,5 @@
+---
+title: mtgpuzzles
+crosslinks:
+- magicTCG
+---

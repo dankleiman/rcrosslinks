@@ -1,0 +1,24 @@
+---
+title: Veterans
+crosslinks:
+- army
+- Military
+- discgolf
+- PoliticalHumor
+- kratom
+- StudentVets
+- NegativeWithGold
+- RandomKindness
+- malefashionadvice
+- TalesFromTheFrontDesk
+- securityguards
+- AMA
+- ProtectAndServe
+- memphis
+- Parkinsons
+- USMC
+- navy
+- worldpolitics
+- The_Donald
+- getdisciplined
+---

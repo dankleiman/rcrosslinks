@@ -1,0 +1,24 @@
+---
+title: RealEstate
+crosslinks:
+- legaladvice
+- Landlord
+- realestateinvesting
+- realtors
+- LosAngeles
+- personalfinance
+- Mortgages
+- HomeImprovement
+- xkcd
+- RidiculousRealEstate
+- DIY
+- houston
+- newzealand
+- homeowners
+- SeattleWA
+- titlegore
+- lostgeneration
+- FortWorth
+- Calgary
+- MaliciousCompliance
+---

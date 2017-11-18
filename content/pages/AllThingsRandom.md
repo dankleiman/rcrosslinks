@@ -1,0 +1,5 @@
+---
+title: AllThingsRandom
+crosslinks:
+- AllThingsTerran
+---

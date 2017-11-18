@@ -1,0 +1,5 @@
+---
+title: MasterYiMains
+crosslinks:
+- leagueoflegends
+---

@@ -1,0 +1,5 @@
+---
+title: stormlightarchive
+crosslinks:
+- Fantasy
+---

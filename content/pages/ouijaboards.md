@@ -1,0 +1,5 @@
+---
+title: ouijaboards
+crosslinks:
+- occult
+---

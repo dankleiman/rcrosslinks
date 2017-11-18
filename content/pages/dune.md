@@ -1,0 +1,23 @@
+---
+title: dune
+crosslinks:
+- TrueFilm
+- unexpecteddune
+- dunememes
+- pics
+- scifi
+- livven
+- nuDune
+- Serendipity
+- Awwducational
+- AskHistorians
+- StuffOnCats
+- asoiaf
+- AMAAggregator
+- woodworking
+- startrek
+- freemasons
+- PrequelMemes
+- autotldr
+- Fantasy
+---

@@ -1,0 +1,5 @@
+---
+title: fairhopeAlabama
+crosslinks:
+- BaldwincountyAL
+---

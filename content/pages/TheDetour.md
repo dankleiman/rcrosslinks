@@ -1,0 +1,5 @@
+---
+title: TheDetour
+crosslinks:
+- autotldr
+---

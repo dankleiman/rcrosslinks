@@ -1,0 +1,24 @@
+---
+title: simpleliving
+crosslinks:
+- minimalism
+- financialindependence
+- AskReddit
+- autotldr
+- nosurf
+- WWOOF
+- videos
+- HailCorporate
+- collapse
+- ZeroWaste
+- Ultralight
+- Jokes
+- CollapseDoc
+- stopreddit
+- Serendipity
+- science
+- cordcutters
+- TheRedPill
+- depression
+- Addons4Kodi
+---

@@ -1,0 +1,24 @@
+---
+title: spotify
+crosslinks:
+- MetalPlaylists
+- Music
+- truespotify
+- Chromecast
+- xkcd
+- deezer
+- googleplaymusic
+- halloween
+- tasker
+- AskReddit
+- listentothis
+- autotldr
+- lastfm
+- lgg5
+- EDM
+- kia
+- outrun
+- unfilter
+- mildlyinfuriating
+- Android
+---

@@ -1,0 +1,5 @@
+---
+title: paleporn
+crosslinks:
+- nsfw
+---

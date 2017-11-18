@@ -1,0 +1,24 @@
+---
+title: Georgia
+crosslinks:
+- autotldr
+- Atlanta
+- Sakartvelo
+- askeconomists
+- 4chan
+- macon
+- AskHistorians
+- AtlantaGraffiti
+- shittyHDR
+- politics
+- texas
+- changemyview
+- Athens
+- ShitAmericansSay
+- BlueMidterm2018
+- PoliticalDiscussion
+- StormComing
+- AmericanPlantSwap
+- gapol
+- GAPol
+---

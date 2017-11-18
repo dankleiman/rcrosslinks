@@ -1,0 +1,5 @@
+---
+title: SwitzerlandFirst
+crosslinks:
+- europe
+---

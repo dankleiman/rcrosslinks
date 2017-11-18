@@ -1,0 +1,5 @@
+---
+title: GSMNP
+crosslinks:
+- Ultralight
+---

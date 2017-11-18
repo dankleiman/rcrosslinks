@@ -1,0 +1,5 @@
+---
+title: MoonlightBladeonline
+crosslinks:
+- gamernews
+---

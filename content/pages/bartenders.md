@@ -1,0 +1,24 @@
+---
+title: bartenders
+crosslinks:
+- cocktails
+- KitchenConfidential
+- seduction
+- legaladvice
+- videos
+- Portland
+- GifRecipes
+- UWMadison
+- todayilearned
+- asktrp
+- ofcoursethatsathing
+- Charlotte
+- BarBattlestations
+- childfree
+- DadReflexes
+- reddevils
+- NewOrleans
+- IAmA
+- TalesFromYourServer
+- me_irl
+---

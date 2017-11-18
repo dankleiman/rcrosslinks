@@ -1,0 +1,5 @@
+---
+title: MusicForYouTube
+crosslinks:
+- NoCopyrightMusic
+---

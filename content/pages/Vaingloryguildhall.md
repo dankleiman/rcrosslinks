@@ -1,0 +1,5 @@
+---
+title: Vaingloryguildhall
+crosslinks:
+- vainglorygame
+---

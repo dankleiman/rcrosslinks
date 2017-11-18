@@ -1,0 +1,5 @@
+---
+title: AbyssRP
+crosslinks:
+- wowservers
+---

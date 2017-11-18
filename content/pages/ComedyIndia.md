@@ -1,0 +1,5 @@
+---
+title: ComedyIndia
+crosslinks:
+- IndianStandUpComedy
+---

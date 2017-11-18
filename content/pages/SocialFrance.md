@@ -1,0 +1,5 @@
+---
+title: SocialFrance
+crosslinks:
+- france
+---

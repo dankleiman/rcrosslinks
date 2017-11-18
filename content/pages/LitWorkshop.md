@@ -1,0 +1,5 @@
+---
+title: LitWorkshop
+crosslinks:
+- europe
+---

@@ -1,0 +1,5 @@
+---
+title: openmailbox
+crosslinks:
+- linux
+---

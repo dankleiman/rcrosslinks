@@ -1,0 +1,5 @@
+---
+title: doujin
+crosslinks:
+- doujinshi
+---

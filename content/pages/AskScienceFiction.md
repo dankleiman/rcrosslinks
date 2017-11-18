@@ -1,0 +1,24 @@
+---
+title: AskScienceFiction
+crosslinks:
+- whowouldwin
+- respectthreads
+- FanTheories
+- EmpireDidNothingWrong
+- AskHistorians
+- xkcd
+- 40kLore
+- HFY
+- CharacterRant
+- MawInstallation
+- DaystromInstitute
+- PrequelMemes
+- tolkienfans
+- WritingPrompts
+- startrek
+- nocontext
+- marvelstudios
+- theydidthemath
+- askscience
+- DnD
+---

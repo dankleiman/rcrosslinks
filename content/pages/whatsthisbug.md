@@ -1,0 +1,24 @@
+---
+title: whatsthisbug
+crosslinks:
+- spiders
+- livven
+- whatsthisplant
+- whatisthisthing
+- awwnverts
+- Entomology
+- mothNSFW
+- pics
+- Whatisthis
+- gifs
+- insects
+- mycology
+- JumpingKaren
+- SVExchange
+- gardening
+- mildlyinteresting
+- ants
+- tinyanimalsonfingers
+- donttouchthat
+- interestingasfuck
+---

@@ -1,0 +1,5 @@
+---
+title: SeriesFr
+crosslinks:
+- france
+---

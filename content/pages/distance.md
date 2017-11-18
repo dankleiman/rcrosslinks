@@ -1,0 +1,5 @@
+---
+title: distance
+crosslinks:
+- Serendipity
+---

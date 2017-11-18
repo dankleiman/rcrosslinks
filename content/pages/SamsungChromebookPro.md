@@ -1,0 +1,5 @@
+---
+title: SamsungChromebookPro
+crosslinks:
+- chromeos
+---

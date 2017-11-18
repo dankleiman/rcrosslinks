@@ -1,0 +1,5 @@
+---
+title: StickYourDick
+crosslinks:
+- oddlyterrifying
+---

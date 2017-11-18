@@ -1,0 +1,5 @@
+---
+title: atarimae
+crosslinks:
+- anime
+---

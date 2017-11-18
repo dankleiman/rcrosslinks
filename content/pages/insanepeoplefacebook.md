@@ -1,0 +1,24 @@
+---
+title: insanepeoplefacebook
+crosslinks:
+- xkcd
+- thisguyagain
+- Incels
+- Drama
+- facepalm
+- TrashyText
+- trashy
+- AskReddit
+- niceguys
+- nocontext
+- conspiracy
+- TopMindsOfReddit
+- CringeAnarchy
+- ShitPoliticsSays
+- sex
+- cringepics
+- The_Donald
+- tifu
+- sadcringe
+- vegan
+---

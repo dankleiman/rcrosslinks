@@ -1,0 +1,5 @@
+---
+title: UpTech
+crosslinks:
+- Waxpen
+---

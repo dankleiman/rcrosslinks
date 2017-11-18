@@ -1,0 +1,5 @@
+---
+title: knownspace
+crosslinks:
+- RingWorld
+---

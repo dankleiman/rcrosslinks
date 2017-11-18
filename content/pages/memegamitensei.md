@@ -1,0 +1,5 @@
+---
+title: memegamitensei
+crosslinks:
+- Megaten
+---

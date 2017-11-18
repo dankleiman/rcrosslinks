@@ -1,0 +1,5 @@
+---
+title: SquirrelsStandingUp
+crosslinks:
+- WritingPrompts
+---

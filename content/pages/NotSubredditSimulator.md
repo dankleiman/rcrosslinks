@@ -1,0 +1,5 @@
+---
+title: NotSubredditSimulator
+crosslinks:
+- AMAAggregator
+---

@@ -1,0 +1,5 @@
+---
+title: DegenerateMoney
+crosslinks:
+- autotldr
+---

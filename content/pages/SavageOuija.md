@@ -1,0 +1,5 @@
+---
+title: SavageOuija
+crosslinks:
+- AskOuija
+---

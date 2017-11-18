@@ -1,0 +1,24 @@
+---
+title: CorporateFacepalm
+crosslinks:
+- videos
+- autotldr
+- LateStageCapitalism
+- assholedesign
+- australia
+- softwaregore
+- funny
+- nocontext
+- AccidentalRacism
+- FellowKids
+- keming
+- amateurradio
+- facepalm
+- xkcd
+- AskReddit
+- rage
+- politics
+- HailCorporate
+- Supreme
+- gatekeeping
+---

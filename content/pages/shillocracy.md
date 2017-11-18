@@ -1,0 +1,5 @@
+---
+title: shillocracy
+crosslinks:
+- autotldr
+---

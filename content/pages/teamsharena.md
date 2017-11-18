@@ -1,0 +1,5 @@
+---
+title: teamsharena
+crosslinks:
+- Pixiv
+---

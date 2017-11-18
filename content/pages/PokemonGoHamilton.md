@@ -1,0 +1,5 @@
+---
+title: PokemonGoHamilton
+crosslinks:
+- firstdayontheinternet
+---

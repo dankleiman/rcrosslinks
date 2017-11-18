@@ -1,0 +1,5 @@
+---
+title: GiantPussies
+crosslinks:
+- MadeMeSmile
+---

@@ -1,0 +1,5 @@
+---
+title: LighterPack
+crosslinks:
+- Ultralight
+---

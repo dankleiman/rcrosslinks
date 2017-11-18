@@ -1,0 +1,5 @@
+---
+title: GMOBrigade
+crosslinks:
+- conspiracy
+---

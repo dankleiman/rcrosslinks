@@ -1,0 +1,5 @@
+---
+title: ShitDudesSay
+crosslinks:
+- autotldr
+---

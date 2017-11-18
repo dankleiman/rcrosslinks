@@ -1,0 +1,5 @@
+---
+title: wikileak
+crosslinks:
+- autotldr
+---

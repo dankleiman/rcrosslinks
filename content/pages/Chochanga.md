@@ -1,0 +1,5 @@
+---
+title: Chochanga
+crosslinks:
+- HogwartsWerewolves
+---

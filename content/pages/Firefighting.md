@@ -1,0 +1,24 @@
+---
+title: Firefighting
+crosslinks:
+- autotldr
+- Wildfire
+- ems
+- rfaf
+- ProtectAndServe
+- TEMS
+- promptcritical
+- LookImAFirefighter
+- Leathercraft
+- WritingPrompts
+- redditgetsdrawn
+- '2014'
+- lookimafirefighter
+- redding
+- pics
+- explainlikeimfive
+- Jeep
+- HighQualityGifs
+- patchtrading
+- '2013'
+---

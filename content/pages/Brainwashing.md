@@ -1,0 +1,5 @@
+---
+title: Brainwashing
+crosslinks:
+- societalengineering
+---

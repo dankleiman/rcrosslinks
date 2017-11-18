@@ -1,0 +1,5 @@
+---
+title: Island
+crosslinks:
+- Serendipity
+---

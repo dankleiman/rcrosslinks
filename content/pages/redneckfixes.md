@@ -1,0 +1,5 @@
+---
+title: redneckfixes
+crosslinks:
+- mildlyinteresting
+---

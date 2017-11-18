@@ -1,0 +1,24 @@
+---
+title: teslore
+crosslinks:
+- GodheadModel
+- skyrim
+- elderscrollsonline
+- myrrlyn
+- ElderScrolls
+- respectthreads
+- Morrowind
+- nirnpowers
+- askscience
+- AskHistorians
+- TrueSTL
+- explainlikeimfive
+- Battlespire
+- nextelderscrolls
+- askhistorians
+- WritingPrompts
+- xkcd
+- skyrimrequiem
+- teslore2
+- '2009'
+---

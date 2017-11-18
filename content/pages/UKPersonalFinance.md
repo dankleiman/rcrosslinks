@@ -1,0 +1,24 @@
+---
+title: UKPersonalFinance
+crosslinks:
+- personalfinance
+- unitedkingdom
+- UKInvesting
+- cars
+- AskUK
+- FIREUK
+- AskReddit
+- LegalAdviceUK
+- financialindependence
+- Bitcoin
+- ethtrader
+- ukinvesting
+- leanfire
+- glasgow
+- casualiama
+- eupersonalfinance
+- Upwork
+- WeAreTheMusicMakers
+- ukpolitics
+- cscareerquestionsEU
+---

@@ -1,0 +1,5 @@
+---
+title: WesAndersonGifs
+crosslinks:
+- HighQualityGifs
+---

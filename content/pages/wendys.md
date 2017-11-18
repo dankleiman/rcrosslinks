@@ -1,0 +1,5 @@
+---
+title: wendys
+crosslinks:
+- intrusivethoughts
+---

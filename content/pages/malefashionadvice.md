@@ -1,0 +1,24 @@
+---
+title: malefashionadvice
+crosslinks:
+- goodyearwelt
+- frugalmalefashion
+- streetwear
+- rawdenim
+- malefashion
+- Watches
+- femalefashionadvice
+- NavyBlazer
+- search
+- AskReddit
+- SkincareAddiction
+- Fitness
+- japanesestreetwear
+- Sneakers
+- BuyItForLife
+- mfacirclejerk
+- autotldr
+- malehairadvice
+- todayilearned
+- reactiongifs
+---

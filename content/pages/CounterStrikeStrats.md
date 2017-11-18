@@ -1,0 +1,5 @@
+---
+title: CounterStrikeStrats
+crosslinks:
+- CSeventVODs
+---

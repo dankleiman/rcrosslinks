@@ -1,0 +1,5 @@
+---
+title: scumbagapps
+crosslinks:
+- Android
+---

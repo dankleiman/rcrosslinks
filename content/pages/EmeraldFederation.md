@@ -1,0 +1,5 @@
+---
+title: EmeraldFederation
+crosslinks:
+- FieldOfKarmicGlory
+---

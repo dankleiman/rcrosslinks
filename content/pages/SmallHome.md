@@ -1,0 +1,5 @@
+---
+title: SmallHome
+crosslinks:
+- architecture
+---

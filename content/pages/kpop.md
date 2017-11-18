@@ -1,0 +1,24 @@
+---
+title: kpop
+crosslinks:
+- Broduce101
+- kpophelp
+- koreanvariety
+- twice
+- a1st
+- SNSD
+- NCT
+- kpopgfys
+- LOONA
+- ASTRO_KPOP
+- OwlOfJune
+- exo
+- gifs
+- korea
+- videos
+- hi5hlight
+- BlackPink
+- YGWINNER
+- Pristin
+- popheads
+---

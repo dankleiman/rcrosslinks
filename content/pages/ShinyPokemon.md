@@ -1,0 +1,24 @@
+---
+title: ShinyPokemon
+crosslinks:
+- pokemon
+- pokemontrades
+- friendsafari
+- livven
+- pokemonrng
+- stunfisk
+- Pokemongiveaway
+- BreedingDittos
+- SVExchange
+- PokeMoonSun
+- CasualPokemonTrades
+- PokemonParty
+- out_of_the_loop
+- xkcd
+- flashcarts
+- TheSilphRoad
+- FestivalPlaza
+- all
+- unexpectedfactorial
+- StartledCats
+---

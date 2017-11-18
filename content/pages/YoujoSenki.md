@@ -1,0 +1,5 @@
+---
+title: YoujoSenki
+crosslinks:
+- redditrequest
+---

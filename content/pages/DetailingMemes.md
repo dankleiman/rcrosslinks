@@ -1,0 +1,5 @@
+---
+title: DetailingMemes
+crosslinks:
+- AutoDetailing
+---

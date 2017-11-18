@@ -1,0 +1,5 @@
+---
+title: convenient
+crosslinks:
+- interestingasfuck
+---

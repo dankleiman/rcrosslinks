@@ -1,0 +1,5 @@
+---
+title: ypsi
+crosslinks:
+- Michigan
+---

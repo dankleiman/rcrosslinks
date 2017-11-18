@@ -1,0 +1,5 @@
+---
+title: HistoricalAircraft
+crosslinks:
+- fuckingmanly
+---

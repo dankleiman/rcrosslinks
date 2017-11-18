@@ -1,0 +1,5 @@
+---
+title: MiniTip
+crosslinks:
+- changetip
+---

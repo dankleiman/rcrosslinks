@@ -1,0 +1,24 @@
+---
+title: gwent
+crosslinks:
+- hearthstone
+- livven
+- witcher
+- Competitive_Gwent
+- gwentcirclejerk
+- Gamingcirclejerk
+- wine_gaming
+- Shadowverse
+- CompetitiveHS
+- DotA2
+- gatekeeping
+- magicTCG
+- hearthstonecirclejerk
+- test
+- Games
+- xkcd
+- Overwatch
+- gaming
+- modnews
+- leagueoflegends
+---

@@ -1,0 +1,24 @@
+---
+title: firefox
+crosslinks:
+- autotldr
+- FirefoxCSS
+- uBlockOrigin
+- rust
+- linux
+- zeronet
+- waterfox
+- livven
+- chrome
+- programming
+- Enhancement
+- privacytoolsIO
+- imagus
+- xkcd
+- RESAnnouncements
+- RESissues
+- Windows10
+- modnews
+- linux_gaming
+- startpages
+---

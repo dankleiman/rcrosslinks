@@ -1,0 +1,5 @@
+---
+title: TorontoSafeSpace
+crosslinks:
+- toronto
+---

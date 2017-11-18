@@ -1,0 +1,5 @@
+---
+title: ArmadaFC
+crosslinks:
+- NASLSoccer
+---

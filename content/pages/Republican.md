@@ -1,0 +1,24 @@
+---
+title: Republican
+crosslinks:
+- autotldr
+- PoliticalDiscussion
+- Conservative
+- politics
+- NeutralPolitics
+- The_Donald
+- democrats
+- askaconservative
+- hindsightIn2020
+- news
+- AirForce
+- DeFranco
+- AskTrumpSupporters
+- conservative
+- worldnews
+- ShitPoliticsSays
+- conservatives
+- BlueMidterm2018
+- ProtectAndServe
+- Physical_Removal
+---

@@ -1,0 +1,24 @@
+---
+title: solotravel
+crosslinks:
+- travel
+- JapanTravel
+- digitalnomad
+- travelpartners
+- churning
+- vandwellers
+- ShitAmericansSay
+- couchsurfing
+- IAmA
+- italy
+- montreal
+- personalfinance
+- pics
+- Barcelona
+- SocialParis
+- toronto
+- solareclipse
+- korea
+- ActLikeYouBelong
+- xkcd
+---

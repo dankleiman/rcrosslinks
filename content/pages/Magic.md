@@ -1,0 +1,22 @@
+---
+title: Magic
+crosslinks:
+- cardistry
+- pennandteller
+- IAmA
+- magicTCG
+- cardmagic
+- EDC
+- comics
+- 2meirl4meirl
+- autotldr
+- funny
+- '2013'
+- keming
+- agt
+- skeptic
+- television
+- psychology
+- Magicalsecrets
+- Serendipity
+---

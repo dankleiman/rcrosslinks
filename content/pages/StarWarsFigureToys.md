@@ -1,0 +1,5 @@
+---
+title: StarWarsFigureToys
+crosslinks:
+- ActionFigures
+---

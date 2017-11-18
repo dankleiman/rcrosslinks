@@ -1,0 +1,5 @@
+---
+title: Banananannananananaa
+crosslinks:
+- funny
+---

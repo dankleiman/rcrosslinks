@@ -1,0 +1,5 @@
+---
+title: JesusChristGoneWild
+crosslinks:
+- dankchristianmemes
+---

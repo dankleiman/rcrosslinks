@@ -1,0 +1,24 @@
+---
+title: ShittyAnimalFacts
+crosslinks:
+- livven
+- ShittierAnimalFacts
+- pics
+- aww
+- hardcoreaww
+- RealLifePokemon
+- TreesSuckingAtThings
+- walrus
+- gifs
+- various_extinctions
+- sloths
+- thecatdimension
+- panda
+- woahdude
+- excgarated
+- hyenas
+- fakehistoryporn
+- camping
+- WordAvalanches
+- StoppedWorking
+---

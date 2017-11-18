@@ -1,0 +1,22 @@
+---
+title: drydockporn
+crosslinks:
+- PornOverlords
+- WarshipPorn
+- propellerporn
+- Oceanlinerporn
+- WorkCrews
+- warshipsnuffporn
+- RaIn
+- keming
+- HistoryPorn
+- Warships
+- mildlypenis
+- pics
+- HumanForScale
+- powerwashingporn
+- reallifedoodles
+- xkcd
+- Suomi
+- BrasilOnReddit
+---

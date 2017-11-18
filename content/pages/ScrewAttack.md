@@ -1,0 +1,5 @@
+---
+title: ScrewAttack
+crosslinks:
+- pokemon
+---

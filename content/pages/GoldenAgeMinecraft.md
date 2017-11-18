@@ -1,0 +1,5 @@
+---
+title: GoldenAgeMinecraft
+crosslinks:
+- Minecraft
+---

@@ -1,0 +1,5 @@
+---
+title: ThemsFightinHerds
+crosslinks:
+- Skullgirls
+---

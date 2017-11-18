@@ -1,0 +1,24 @@
+---
+title: shittyaskreddit
+crosslinks:
+- AskReddit
+- sompthing_else
+- Thighsexual
+- nocontext
+- Advice
+- explainlikeimfive
+- AdviceAnimals
+- AMAAggregator
+- ABraThatFits
+- theydidthefuckyou
+- shittingadvice
+- AntiJokes
+- incest
+- SUBREDDITNAME
+- you
+- Christianity
+- shittytheydidthemath
+- shittyaskscience
+- ShittyTodayILearned
+- shittytheology
+---

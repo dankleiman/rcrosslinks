@@ -1,0 +1,5 @@
+---
+title: SpeedDrawing
+crosslinks:
+- sketches
+---

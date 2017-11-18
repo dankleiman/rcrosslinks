@@ -1,0 +1,24 @@
+---
+title: TooAfraidToAsk
+crosslinks:
+- AskReddit
+- hapas
+- askscience
+- mylittlepony
+- vegan
+- IAmA
+- MuseumOfReddit
+- help
+- LifeProTips
+- germany
+- EOOD
+- dirtyr4r
+- xxfitness
+- AskRedditAfterDark
+- asktransgender
+- Prevent_Suicide
+- usedsocks
+- Asexual
+- TrueOffMyChest
+- xkcd
+---

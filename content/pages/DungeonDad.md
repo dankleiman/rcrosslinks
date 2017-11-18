@@ -1,0 +1,5 @@
+---
+title: DungeonDad
+crosslinks:
+- ImaginaryNetwork
+---

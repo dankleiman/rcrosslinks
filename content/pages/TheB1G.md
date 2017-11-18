@@ -1,0 +1,21 @@
+---
+title: TheB1G
+crosslinks:
+- place
+- IndianaUniversity
+- CFB
+- Huskers
+- uofmn
+- NEU
+- UIUC
+- thefinalclean
+- msu
+- UWMadison
+- Temple
+- rutgers
+- PlaceTwo
+- placestart
+- uofm
+- LSU
+- UMD
+---

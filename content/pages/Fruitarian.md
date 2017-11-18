@@ -1,0 +1,5 @@
+---
+title: Fruitarian
+crosslinks:
+- fasting
+---

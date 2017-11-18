@@ -1,0 +1,5 @@
+---
+title: DieKarrotte
+crosslinks:
+- WritingPrompts
+---

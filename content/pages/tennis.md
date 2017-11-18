@@ -1,0 +1,24 @@
+---
+title: tennis
+crosslinks:
+- livven
+- reddit_stream
+- tennisstreams
+- Cricket
+- '1277397'
+- funny
+- IAmA
+- autotldr
+- sports
+- frenchopen2017
+- todayilearned
+- soccer
+- SuicideWatch
+- titlegore
+- AskReddit
+- xkcd
+- lovingplace
+- gaming
+- Pay_Respects
+- federer
+---

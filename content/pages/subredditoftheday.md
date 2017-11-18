@@ -1,0 +1,24 @@
+---
+title: subredditoftheday
+crosslinks:
+- freefolk
+- Physical_Removal
+- Drama
+- PussyPass
+- Anarchism
+- LateStageCapitalism
+- TopMindsOfReddit
+- socialism
+- EnoughCommieSpam
+- pathofexile
+- The_Donald
+- exmormon
+- Impeach_Trump
+- GoldandBlack
+- Anarcho_Capitalism
+- PeopleFuckingDying
+- Shitstatistssay
+- ModelUSGov
+- LeftWithoutEdge
+- asoiaf
+---

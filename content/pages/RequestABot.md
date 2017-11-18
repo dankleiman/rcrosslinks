@@ -1,0 +1,24 @@
+---
+title: RequestABot
+crosslinks:
+- findareddit
+- learnpython
+- test
+- GoldTesting
+- alcohol
+- spam
+- xkcd
+- redditdev
+- EndlessFrontier
+- modhelp
+- csshelp
+- paris
+- all
+- promotereddit
+- watchpeopledie
+- YOURSUBREDDIT
+- SargonofAkkad
+- POTUSWatch
+- idm
+- chess
+---

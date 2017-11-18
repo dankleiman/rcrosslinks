@@ -1,0 +1,24 @@
+---
+title: JusticeServed
+crosslinks:
+- autotldr
+- Roadcam
+- livven
+- pussypassdenied
+- videos
+- IAmA
+- The_Donald
+- Drama
+- ShitRedditSays
+- ShitAmericansSay
+- Whatcouldgowrong
+- news
+- PussyPass
+- OutOfTheLoop
+- motorcycles
+- Shoplifting
+- politics
+- OffDutyBrazilianCop
+- legaladvice
+- killthosewhodisagree
+---

@@ -1,0 +1,24 @@
+---
+title: cowboys
+crosslinks:
+- nfl
+- eagles
+- NFL_Draft
+- nflstreams
+- AskReddit
+- EvilLeagueOfEvil
+- CoalitionAgainstEvil
+- GreenBayPackers
+- NYGiants
+- DenverBroncos
+- Redskins
+- Patriots
+- TheseFuckingAccounts
+- place
+- AtlantaHawks
+- notreallyfamous
+- EaglesTrophyCase
+- sportsjerseys
+- xkcd
+- NFCEast
+---

@@ -1,0 +1,5 @@
+---
+title: TedDanzig
+crosslinks:
+- fakeid
+---

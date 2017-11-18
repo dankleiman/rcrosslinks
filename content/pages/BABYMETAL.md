@@ -1,0 +1,24 @@
+---
+title: BABYMETAL
+crosslinks:
+- SakuraGakuin
+- BABYMETALMemes
+- place
+- ShitTheFalseSay
+- BABYMETALReactVideos
+- YUIMETAL
+- videos
+- BABYMETALEspanol
+- Korn
+- Music
+- BABYMETALJapanese
+- BandMaid
+- OutOfTheLoop
+- BABYMETAL_japan
+- announcements
+- pics
+- LearnJapanese
+- ukplace
+- livven
+- comiccon
+---

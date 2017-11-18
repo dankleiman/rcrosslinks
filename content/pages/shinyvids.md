@@ -1,0 +1,5 @@
+---
+title: shinyvids
+crosslinks:
+- ShinyPorn
+---

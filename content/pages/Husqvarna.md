@@ -1,0 +1,5 @@
+---
+title: Husqvarna
+crosslinks:
+- Dualsport
+---

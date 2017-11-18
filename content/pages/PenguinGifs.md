@@ -1,0 +1,5 @@
+---
+title: PenguinGifs
+crosslinks:
+- Penguifs
+---

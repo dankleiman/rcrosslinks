@@ -1,0 +1,5 @@
+---
+title: ffbe
+crosslinks:
+- FFBraveExvius
+---

@@ -1,0 +1,5 @@
+---
+title: memeanimals
+crosslinks:
+- Serendipity
+---

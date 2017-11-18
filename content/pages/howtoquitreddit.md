@@ -1,0 +1,5 @@
+---
+title: howtoquitreddit
+crosslinks:
+- politics
+---

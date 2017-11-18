@@ -1,0 +1,5 @@
+---
+title: aikatsu
+crosslinks:
+- StarlightStage
+---

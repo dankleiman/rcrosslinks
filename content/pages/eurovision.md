@@ -1,0 +1,24 @@
+---
+title: eurovision
+crosslinks:
+- livven
+- esctournament
+- italy
+- worldnews
+- portugal
+- Eder
+- lewronggeneration
+- videos
+- ukraina
+- europe
+- AntiAntiJokes
+- PortugalOnReddit
+- The_Donald
+- unexpectedoverwatch
+- linguistics
+- xkcd
+- gatekeeping
+- vinyl
+- australia
+- musicanova
+---

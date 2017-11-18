@@ -1,0 +1,5 @@
+---
+title: NewsPrime
+crosslinks:
+- autotldr
+---

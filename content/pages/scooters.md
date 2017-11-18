@@ -1,0 +1,22 @@
+---
+title: scooters
+crosslinks:
+- motorcycles
+- metric_units
+- moped
+- MaliciousCompliance
+- hooters
+- vandwellers
+- Goped
+- manners
+- Roadcam
+- scooter
+- VintageScooters
+- California
+- Scootering
+- ufl
+- Wellthatsucks
+- Trucks
+- ElectricKickScooters
+- motola
+---

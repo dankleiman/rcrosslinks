@@ -1,0 +1,24 @@
+---
+title: HFY
+crosslinks:
+- WritingPrompts
+- xkcd
+- REDCOSMOS
+- TheCryopodToHell
+- LeVentNoir
+- AskReddit
+- M59Gar
+- rational
+- TheSnakeReport
+- Stellaris
+- ANormalDayInRussia
+- askscience
+- HPMOR
+- space
+- nocontext
+- todayilearned
+- '2013'
+- Showerthoughts
+- raerth
+- Frisson
+---

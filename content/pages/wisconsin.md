@@ -1,0 +1,24 @@
+---
+title: wisconsin
+crosslinks:
+- autotldr
+- madisonwi
+- milwaukee
+- Economics
+- The_Donald
+- WisconsinMan
+- wisconsin_writers
+- Middle_Ground
+- Political_Revolution
+- gratefuldoe
+- RanktheVote
+- xkcd
+- IAmA
+- funny
+- news
+- politics
+- PoliticalDiscussion
+- worldpolitics
+- CityPorn
+- place
+---

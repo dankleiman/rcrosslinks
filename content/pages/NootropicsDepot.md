@@ -1,0 +1,5 @@
+---
+title: NootropicsDepot
+crosslinks:
+- Nootropics
+---

@@ -1,0 +1,5 @@
+---
+title: ffxivhomeandgarden
+crosslinks:
+- ffxiv
+---

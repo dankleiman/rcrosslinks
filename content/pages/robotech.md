@@ -1,0 +1,5 @@
+---
+title: robotech
+crosslinks:
+- letsplay
+---

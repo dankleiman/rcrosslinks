@@ -1,0 +1,5 @@
+---
+title: MessiahComplex
+crosslinks:
+- sorceryofthespectacle
+---

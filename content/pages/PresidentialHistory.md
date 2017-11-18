@@ -1,0 +1,5 @@
+---
+title: PresidentialHistory
+crosslinks:
+- OldSchoolCool
+---

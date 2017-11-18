@@ -1,0 +1,5 @@
+---
+title: CrimsonCorner
+crosslinks:
+- TheFarLeftSide
+---

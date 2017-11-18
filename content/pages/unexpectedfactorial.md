@@ -1,0 +1,24 @@
+---
+title: unexpectedfactorial
+crosslinks:
+- expectedfactorial
+- softwaregore
+- keming
+- ImagesOfOhio
+- interestingasfuck
+- ididthemonstermath
+- stopdrinking
+- Givingup
+- PenmanshipPorn
+- unexpectednotequalssign
+- SiriFail
+- talesfromtechsupport
+- Irony
+- PeopleFuckingDying
+- THE_PACK
+- hedidthemath
+- sadcringe
+- mcmodfinder
+- Suomi
+- xkcd
+---

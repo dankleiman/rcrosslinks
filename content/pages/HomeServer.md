@@ -1,0 +1,24 @@
+---
+title: HomeServer
+crosslinks:
+- PleX
+- DataHoarder
+- JDM_WAAAT
+- xkcd
+- linuxadmin
+- synology
+- PFSENSE
+- usenet
+- pcmasterrace
+- linuxserver
+- zfs
+- kindle
+- linux
+- LXD
+- freenas
+- selfhosted
+- virtualization
+- dperson
+- unRAID
+- answers
+---

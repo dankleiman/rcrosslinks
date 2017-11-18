@@ -1,0 +1,5 @@
+---
+title: askanatheist
+crosslinks:
+- atheism
+---

@@ -1,0 +1,5 @@
+---
+title: afrobeat
+crosslinks:
+- Music
+---

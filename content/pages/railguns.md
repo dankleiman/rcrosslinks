@@ -1,0 +1,5 @@
+---
+title: railguns
+crosslinks:
+- HephaestusAetnaean
+---

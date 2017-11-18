@@ -1,0 +1,5 @@
+---
+title: umaru
+crosslinks:
+- anime
+---

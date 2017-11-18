@@ -1,0 +1,5 @@
+---
+title: GoingOnPatrol
+crosslinks:
+- DeepFriedMemes
+---

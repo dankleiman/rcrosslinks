@@ -1,0 +1,5 @@
+---
+title: permanentchastity
+crosslinks:
+- chastity
+---

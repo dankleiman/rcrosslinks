@@ -1,0 +1,24 @@
+---
+title: ems
+crosslinks:
+- livven
+- Firefighting
+- ProtectAndServe
+- nursing
+- medicine
+- pics
+- autotldr
+- medicalschool
+- nottheonion
+- EKGs
+- exmormon
+- nocontext
+- explainlikeimfive
+- videos
+- NewToEMS
+- xkcd
+- Epilepsy
+- news
+- Serendipity
+- gifs
+---

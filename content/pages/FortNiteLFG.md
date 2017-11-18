@@ -1,0 +1,5 @@
+---
+title: FortNiteLFG
+crosslinks:
+- FORTnITE
+---

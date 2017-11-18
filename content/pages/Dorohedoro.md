@@ -1,0 +1,5 @@
+---
+title: Dorohedoro
+crosslinks:
+- manga
+---

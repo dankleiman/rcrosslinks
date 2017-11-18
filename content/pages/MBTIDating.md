@@ -1,0 +1,5 @@
+---
+title: MBTIDating
+crosslinks:
+- infjpenpals
+---

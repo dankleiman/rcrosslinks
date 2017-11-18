@@ -1,0 +1,5 @@
+---
+title: MilTechNews
+crosslinks:
+- autotldr
+---

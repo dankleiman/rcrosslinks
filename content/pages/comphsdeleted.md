@@ -1,0 +1,5 @@
+---
+title: comphsdeleted
+crosslinks:
+- CompetitiveHS
+---

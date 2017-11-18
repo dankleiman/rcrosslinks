@@ -1,0 +1,24 @@
+---
+title: evangelion
+crosslinks:
+- anime
+- ReiAyanami
+- IAmA
+- explainlikeimfive
+- TrueFilm
+- homestuck
+- livven
+- MadokaMagica
+- mildlyevangelion
+- cosplaygirls
+- 3Drequests
+- Animesuggest
+- dankchristianmemes
+- pic
+- SuicideWatch
+- movies
+- ThreadKillers
+- JonTron
+- NeonGenesisEvangelion
+- mathpics
+---

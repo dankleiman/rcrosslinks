@@ -1,0 +1,5 @@
+---
+title: forwardsfromallen
+crosslinks:
+- xkcd
+---

@@ -1,0 +1,5 @@
+---
+title: BattleTree
+crosslinks:
+- BattleFactory
+---

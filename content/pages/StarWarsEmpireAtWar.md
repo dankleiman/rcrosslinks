@@ -1,0 +1,5 @@
+---
+title: StarWarsEmpireAtWar
+crosslinks:
+- all
+---

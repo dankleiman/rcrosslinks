@@ -1,0 +1,24 @@
+---
+title: golf
+crosslinks:
+- livven
+- golfclassifieds
+- PuttStreams
+- wheretoplaygolf
+- USOPEN2017a
+- AMAAggregator
+- ProGolf
+- singaporeufc
+- unexpectedfactorial
+- golfgearswap
+- nongolfers
+- metric_units
+- nevertellmetheodds
+- '2013'
+- vintagetiger
+- xkcd
+- DIY
+- HailCorporate
+- aww
+- oddlysatisfying
+---

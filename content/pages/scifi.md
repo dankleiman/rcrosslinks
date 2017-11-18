@@ -1,0 +1,24 @@
+---
+title: scifi
+crosslinks:
+- xkcd
+- movies
+- startrek
+- printSF
+- TheExpanse
+- autotldr
+- IAmA
+- The_Donald
+- Fantasy
+- JudgeDredd
+- uncensorednews
+- TheOrville
+- HFY
+- TheCulture
+- Muricanized
+- askscience
+- news
+- StarWars
+- DestructiveReaders
+- WritingPrompts
+---

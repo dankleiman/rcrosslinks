@@ -1,0 +1,5 @@
+---
+title: Fircoal
+crosslinks:
+- FluffyBunnyForest
+---

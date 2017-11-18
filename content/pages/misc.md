@@ -1,0 +1,24 @@
+---
+title: misc
+crosslinks:
+- worldpolitics
+- Missing411
+- linguistics
+- pics
+- weather
+- todayilearned
+- studentloandefaulters
+- Buttcoin
+- news
+- woahdude
+- Coffee
+- conspiracy
+- fidgetspin
+- me_irl
+- EarthPorn
+- politics
+- Enough_Sanders_Spam
+- CatastrophicFailure
+- FanTheories
+- TrueReddit
+---

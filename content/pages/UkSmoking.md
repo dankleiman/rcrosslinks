@@ -1,0 +1,5 @@
+---
+title: UkSmoking
+crosslinks:
+- UKBBQ
+---

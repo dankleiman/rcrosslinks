@@ -1,0 +1,5 @@
+---
+title: majikoi
+crosslinks:
+- visualnovels
+---

@@ -1,0 +1,24 @@
+---
+title: koreanvariety
+crosslinks:
+- kpop
+- KDRAMA
+- runningman
+- girlsday
+- TheGenius
+- xkcd
+- ShadowBan
+- BlackPink
+- SNSD
+- gifs
+- streetwear
+- twice
+- WMOhMyGirl
+- stanisms
+- theocho
+- VacuumCleaners
+- AsianFilms
+- GakiNoTsukai
+- videos
+- netflix
+---

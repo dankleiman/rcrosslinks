@@ -1,0 +1,5 @@
+---
+title: psychonautwiki
+crosslinks:
+- researchchemicals
+---

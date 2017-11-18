@@ -1,0 +1,5 @@
+---
+title: Boomerangs
+crosslinks:
+- Boomerang
+---

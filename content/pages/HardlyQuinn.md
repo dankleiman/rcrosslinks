@@ -1,0 +1,5 @@
+---
+title: HardlyQuinn
+crosslinks:
+- trashy
+---

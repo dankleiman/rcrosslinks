@@ -1,0 +1,24 @@
+---
+title: sailing
+crosslinks:
+- livven
+- autotldr
+- HeavySeas
+- mildlyinteresting
+- whatisthisthing
+- Vive
+- plansindex
+- Tallahassee
+- Tallships
+- Locksmith
+- dinghycruising
+- amateurradio
+- linux_gaming
+- Art
+- sailingcrew
+- nonononoyes
+- '2013'
+- xkcd
+- programming
+- pics
+---

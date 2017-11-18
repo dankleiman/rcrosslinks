@@ -1,0 +1,5 @@
+---
+title: pedale
+crosslinks:
+- france
+---

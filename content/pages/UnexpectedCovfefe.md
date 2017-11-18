@@ -1,0 +1,5 @@
+---
+title: UnexpectedCovfefe
+crosslinks:
+- funny
+---

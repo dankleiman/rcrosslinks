@@ -1,0 +1,5 @@
+---
+title: airsoftgore
+crosslinks:
+- airsoft
+---

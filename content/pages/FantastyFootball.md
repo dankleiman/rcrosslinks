@@ -1,0 +1,5 @@
+---
+title: FantastyFootball
+crosslinks:
+- wildhockey
+---

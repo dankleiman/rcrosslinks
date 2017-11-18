@@ -1,0 +1,24 @@
+---
+title: medicalschool
+crosslinks:
+- livven
+- medicine
+- step1
+- premed
+- autotldr
+- nursing
+- churning
+- doctorsthatgame
+- xkcd
+- AskReddit
+- Brosencephalon
+- Anki
+- personalfinance
+- legaladvice
+- medicalschoolanki
+- gifs
+- Radiology
+- ems
+- pics
+- physicianassistant
+---

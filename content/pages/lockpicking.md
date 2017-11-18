@@ -1,0 +1,24 @@
+---
+title: lockpicking
+crosslinks:
+- locksport
+- livven
+- LockPickBazaar
+- flashlight
+- Locksmith
+- AskReddit
+- LearnUselessTalents
+- OldSchoolCool
+- autotldr
+- locksmith
+- rickandmorty
+- motorcycles
+- pics
+- Locklot
+- woahdude
+- somethingimade
+- nocontext
+- kratom
+- YouShouldKnow
+- xkcd
+---

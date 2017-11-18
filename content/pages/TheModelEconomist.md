@@ -1,0 +1,5 @@
+---
+title: TheModelEconomist
+crosslinks:
+- cmhocpress
+---

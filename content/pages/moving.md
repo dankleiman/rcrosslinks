@@ -1,0 +1,5 @@
+---
+title: moving
+crosslinks:
+- Frugal
+---

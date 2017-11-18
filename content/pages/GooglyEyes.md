@@ -1,0 +1,5 @@
+---
+title: GooglyEyes
+crosslinks:
+- funny
+---

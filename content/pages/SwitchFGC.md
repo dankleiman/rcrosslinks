@@ -1,0 +1,5 @@
+---
+title: SwitchFGC
+crosslinks:
+- NintendoSwitch
+---

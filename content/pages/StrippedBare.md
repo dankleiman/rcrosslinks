@@ -1,0 +1,5 @@
+---
+title: StrippedBare
+crosslinks:
+- livven
+---

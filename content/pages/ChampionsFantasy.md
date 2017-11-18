@@ -1,0 +1,5 @@
+---
+title: ChampionsFantasy
+crosslinks:
+- FantasyPL
+---

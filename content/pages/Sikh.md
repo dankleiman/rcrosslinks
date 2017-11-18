@@ -1,0 +1,24 @@
+---
+title: Sikh
+crosslinks:
+- The_Donald
+- ABCDesis
+- india
+- exmuslim
+- islam
+- syriancivilwar
+- SuicideWatch
+- atheism
+- autotldr
+- SikhNews
+- Donald
+- AskThe_Donald
+- Serendipity
+- stopsmoking
+- Star_wars_Rogue_One
+- AskReddit
+- exmormon
+- Fuckthealtright
+- sikhs
+- TrueChristian
+---

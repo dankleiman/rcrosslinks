@@ -1,0 +1,24 @@
+---
+title: AutoModerator
+crosslinks:
+- modhelp
+- ModSupport
+- dirtykikpals
+- Android
+- Fitness
+- YOURSUBREDDITHERE
+- SkincareAddiction
+- todayilearned
+- earwolf
+- csshelp
+- SUBREDDIT
+- ContestOfChampions
+- cordless
+- CryptoCurrency_Flair
+- Art
+- mod
+- motorsportsstreams
+- PhotoshopRequest
+- RealGirls
+- alcohol
+---

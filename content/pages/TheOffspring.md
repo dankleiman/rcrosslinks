@@ -1,0 +1,5 @@
+---
+title: TheOffspring
+crosslinks:
+- headphones
+---

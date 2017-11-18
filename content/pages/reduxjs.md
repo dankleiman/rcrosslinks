@@ -1,0 +1,5 @@
+---
+title: reduxjs
+crosslinks:
+- reactjs
+---

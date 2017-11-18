@@ -1,0 +1,5 @@
+---
+title: ctbeer
+crosslinks:
+- Connecticut
+---

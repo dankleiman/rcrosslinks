@@ -1,0 +1,24 @@
+---
+title: IMDbFilmGeneral
+crosslinks:
+- autotldr
+- movies
+- TrueFilm
+- titlegore
+- announcements
+- help
+- Piracy
+- RimWorld
+- Star_wars_Rogue_One
+- MovieDirectory
+- TheoryOfReddit
+- TinyTrumps
+- horror
+- AskReddit
+- csshelp
+- sex
+- scientology
+- moviescirclejerk
+- filmstruck
+- ireland
+---

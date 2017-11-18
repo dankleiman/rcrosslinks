@@ -1,0 +1,5 @@
+---
+title: TempleFootball
+crosslinks:
+- philadelphia
+---

@@ -1,0 +1,21 @@
+---
+title: SummerReddit
+crosslinks:
+- funny
+- worldnews
+- pics
+- surrealmemes
+- ComedyCemetery
+- fakehistoryporn
+- gifs
+- copypasta
+- ImGoingToHellForThis
+- truewholesomememes
+- Showerthoughts
+- SignalYourVirtue
+- Gamingcirclejerk
+- OnlyWholesomeMemes
+- PimpYourMomForKarma
+- IAmA
+- mildlyinteresting
+---

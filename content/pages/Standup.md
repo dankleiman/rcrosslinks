@@ -1,0 +1,24 @@
+---
+title: Standup
+crosslinks:
+- topjokes
+- StandUpComedy
+- autotldr
+- standupshots
+- opieandanthony
+- StandUpWorkshop
+- politics
+- reactnative
+- keming
+- houston
+- CharlieMurphy
+- japan
+- AskReddit
+- IAmA
+- JoeRogan
+- videos
+- Christianity
+- feghoot
+- europeannationalism
+- Screenwriting
+---

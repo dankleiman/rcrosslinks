@@ -1,0 +1,24 @@
+---
+title: Colorado
+crosslinks:
+- Denver
+- autotldr
+- IAmA
+- focoprogress
+- technology
+- Missing411
+- pics
+- worldpolitics
+- ColoradoHyperloop
+- COlitics
+- todayilearned
+- skiing
+- AskReddit
+- natureismetal
+- television
+- ColoradoSprings
+- Bad_Cop_No_Donut
+- COBeer
+- postprocessing
+- FindingFennsGold
+---

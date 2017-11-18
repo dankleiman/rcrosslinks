@@ -1,0 +1,5 @@
+---
+title: PokemonGoDenver
+crosslinks:
+- TheSilphRoad
+---

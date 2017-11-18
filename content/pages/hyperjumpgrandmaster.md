@@ -1,0 +1,5 @@
+---
+title: hyperjumpgrandmaster
+crosslinks:
+- HighQualityGifs
+---

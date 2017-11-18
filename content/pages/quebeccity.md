@@ -1,0 +1,5 @@
+---
+title: quebeccity
+crosslinks:
+- montreal
+---

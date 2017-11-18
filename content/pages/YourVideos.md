@@ -1,0 +1,5 @@
+---
+title: YourVideos
+crosslinks:
+- somevideo
+---

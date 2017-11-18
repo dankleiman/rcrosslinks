@@ -1,0 +1,24 @@
+---
+title: Packt
+crosslinks:
+- learnmachinelearning
+- Rlanguage
+- unity_tutorials
+- netsecstudents
+- opencv
+- reactjs
+- datasets
+- node
+- quant
+- gamedev
+- arduino
+- typescript
+- d3js
+- rstats
+- unrealengine
+- proceduralgeneration
+- scrum
+- AndroidGaming
+- linux_programming
+- mysql
+---

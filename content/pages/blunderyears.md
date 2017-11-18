@@ -1,0 +1,24 @@
+---
+title: blunderyears
+crosslinks:
+- pics
+- uglyduckling
+- nocontext
+- '321'
+- AskReddit
+- Justfuckmyshitup
+- shorthairedhotties
+- FreeCompliments
+- '2013'
+- IAmA
+- funny
+- copypasta
+- streetwear
+- offmychest
+- OldSchoolCool
+- relationships
+- PrettyGirlsUglyFaces
+- drawme
+- tattoos
+- 258c6fp
+---

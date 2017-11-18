@@ -1,0 +1,5 @@
+---
+title: CapeBreton
+crosslinks:
+- canada
+---

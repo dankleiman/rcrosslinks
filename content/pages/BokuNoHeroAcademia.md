@@ -1,0 +1,24 @@
+---
+title: BokuNoHeroAcademia
+crosslinks:
+- my_hero_academia
+- BokuNoEroAcademia
+- anime
+- Pixiv
+- vigilante
+- BnHASmashTap
+- Naruto
+- manga
+- livven
+- OnePiece
+- HunterXHunter
+- anime_irl
+- funny
+- StardustCrusaders
+- Animemes
+- AskReddit
+- Parahumans
+- REEEEEEEEEE
+- ShingekiNoKyojin
+- 60FPS_Anime
+---

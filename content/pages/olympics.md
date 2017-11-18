@@ -1,0 +1,24 @@
+---
+title: olympics
+crosslinks:
+- autotldr
+- ShitAmericansSay
+- BrasilOnReddit
+- livven
+- paralympics
+- gifs
+- theocho
+- todayilearned
+- IAmA
+- HailCorporate
+- Oceanlinerporn
+- TiADiscussion
+- shitamericanssay
+- OlympicChannel
+- trackandfield
+- CityPorn
+- Jokes
+- apocalympics2016
+- LosAngeles
+- sportsarefun
+---

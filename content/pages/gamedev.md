@@ -1,0 +1,24 @@
+---
+title: gamedev
+crosslinks:
+- gameDevClassifieds
+- Unity3D
+- IAmA
+- gameideas
+- gaming
+- learnprogramming
+- gamedesign
+- xkcd
+- roguelikedev
+- TowardsThePantheon
+- Games
+- gamemaker
+- playmygame
+- godot
+- gamejams
+- legaladvice
+- PixelArt
+- startups
+- pcmasterrace
+- isleward
+---

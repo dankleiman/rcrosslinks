@@ -1,0 +1,24 @@
+---
+title: weeabootales
+crosslinks:
+- TalesoftheConvention
+- japancirclejerk
+- AskReddit
+- anime
+- LearnJapanese
+- Serendipity
+- ANI_COMMUNISM
+- japan
+- thatHappened
+- incels
+- creativewriting
+- JapanTravel
+- headphones
+- MMORPG
+- MURICA
+- fatpeoplestories
+- Wicca
+- japanese
+- Pyongyang
+- vegan
+---

@@ -1,0 +1,5 @@
+---
+title: HayateNoGotoku
+crosslinks:
+- manga
+---

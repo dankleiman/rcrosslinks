@@ -1,0 +1,5 @@
+---
+title: lovetrumpshaters
+crosslinks:
+- ShitEvilModsSay
+---

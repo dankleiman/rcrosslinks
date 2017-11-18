@@ -1,0 +1,5 @@
+---
+title: ArsenalFC
+crosslinks:
+- Gunners
+---

@@ -1,0 +1,5 @@
+---
+title: FutureWeapons
+crosslinks:
+- FutureWhatIf
+---

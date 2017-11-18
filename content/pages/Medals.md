@@ -1,0 +1,5 @@
+---
+title: Medals
+crosslinks:
+- translator
+---

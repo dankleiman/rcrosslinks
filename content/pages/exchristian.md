@@ -1,0 +1,24 @@
+---
+title: exchristian
+crosslinks:
+- atheism
+- Christianity
+- xkcd
+- exmormon
+- autotldr
+- exjw
+- exmuslim
+- exchristianr4r
+- AskHistorians
+- AtheistHavens
+- IAmA
+- thegreatproject
+- theworldisflat
+- ExChristianWomen
+- ExCopticOrthodox
+- AskReddit
+- askscience
+- Tulpas
+- TrueChristian
+- DeusVult
+---

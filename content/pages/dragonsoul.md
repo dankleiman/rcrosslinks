@@ -1,0 +1,5 @@
+---
+title: dragonsoul
+crosslinks:
+- SWGalaxyOfHeroes
+---

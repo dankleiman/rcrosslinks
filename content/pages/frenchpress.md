@@ -1,0 +1,5 @@
+---
+title: frenchpress
+crosslinks:
+- Coffee
+---

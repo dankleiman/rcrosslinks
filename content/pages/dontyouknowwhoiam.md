@@ -1,0 +1,24 @@
+---
+title: dontyouknowwhoiam
+crosslinks:
+- HighQualityGifs
+- grilledcheese
+- gatekeeping
+- facepalm
+- AskSocialScience
+- OopsDidntMeanTo
+- xkcd
+- Music
+- newzealand
+- GetMotivated
+- The_Donald
+- ShitRedditSays
+- ShitAmericansSay
+- Games
+- rust
+- BestOfReports
+- iamsmart
+- KnightsOfPineapple
+- CringeAnarchy
+- BrasilOnReddit
+---

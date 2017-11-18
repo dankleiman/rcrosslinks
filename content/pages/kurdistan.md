@@ -1,0 +1,24 @@
+---
+title: kurdistan
+crosslinks:
+- syriancivilwar
+- autotldr
+- Turkey
+- iran
+- Assyria
+- rojava
+- worldnews
+- armenia
+- islam
+- PKKonline
+- kurdish
+- cancer
+- iamverysmart
+- Palestine
+- Balochistan
+- news
+- Anarchism
+- europe
+- turkishcivilwar
+- SandersForPresident
+---

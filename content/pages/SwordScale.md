@@ -1,0 +1,5 @@
+---
+title: SwordScale
+crosslinks:
+- SwordAndScale
+---

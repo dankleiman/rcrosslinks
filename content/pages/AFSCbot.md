@@ -1,0 +1,5 @@
+---
+title: AFSCbot
+crosslinks:
+- AirForce
+---

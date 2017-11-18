@@ -1,0 +1,5 @@
+---
+title: Sense
+crosslinks:
+- homeautomation
+---

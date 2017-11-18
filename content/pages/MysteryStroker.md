@@ -1,0 +1,5 @@
+---
+title: MysteryStroker
+crosslinks:
+- gonewildaudio
+---

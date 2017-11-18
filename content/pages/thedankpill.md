@@ -1,0 +1,5 @@
+---
+title: thedankpill
+crosslinks:
+- TheBluePill
+---

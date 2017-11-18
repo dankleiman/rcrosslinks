@@ -1,0 +1,5 @@
+---
+title: cake
+crosslinks:
+- pics
+---

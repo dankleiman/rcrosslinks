@@ -1,0 +1,5 @@
+---
+title: amicrochet
+crosslinks:
+- Amigurumi
+---

@@ -1,0 +1,22 @@
+---
+title: LongDistance
+crosslinks:
+- IWantOut
+- livven
+- pcmasterrace
+- relationships
+- LifeProTips
+- xkcd
+- Denver
+- IAmA
+- gay
+- montreal
+- relationship_advice
+- gamingcouples
+- Steam
+- Random_Acts_Of_Pizza
+- findapath
+- selfhelp
+- furry
+- AskReddit
+---

@@ -1,0 +1,5 @@
+---
+title: totallynothumans
+crosslinks:
+- humans
+---

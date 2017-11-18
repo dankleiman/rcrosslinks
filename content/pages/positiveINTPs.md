@@ -1,0 +1,5 @@
+---
+title: positiveINTPs
+crosslinks:
+- INTP
+---

@@ -1,0 +1,5 @@
+---
+title: falloutshelter
+crosslinks:
+- foshelter
+---

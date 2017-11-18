@@ -1,0 +1,5 @@
+---
+title: honeypot
+crosslinks:
+- netsec
+---

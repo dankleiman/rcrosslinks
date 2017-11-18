@@ -1,0 +1,5 @@
+---
+title: goodmythicalmorning
+crosslinks:
+- Bananimals
+---

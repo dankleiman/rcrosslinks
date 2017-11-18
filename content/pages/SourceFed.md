@@ -1,0 +1,24 @@
+---
+title: SourceFed
+crosslinks:
+- DataHoarder
+- DeFranco
+- place
+- funny
+- h3h3productions
+- DynamicBanter
+- stevensuptic
+- OnlyStupidAnswers
+- WhitneyMoore
+- LearnUselessTalents
+- Megturney
+- TooMeIrlForMeIrl
+- findfashion
+- jakeandamir
+- OutOfTheLoop
+- nowthisnerd
+- BlackPeopleTwitter
+- puzzles
+- gatekeeping
+- gifs
+---

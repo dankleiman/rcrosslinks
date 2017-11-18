@@ -1,0 +1,5 @@
+---
+title: ArchitectureVids
+crosslinks:
+- architecture
+---

@@ -1,0 +1,5 @@
+---
+title: pubs
+crosslinks:
+- autotldr
+---

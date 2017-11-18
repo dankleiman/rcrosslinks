@@ -1,0 +1,5 @@
+---
+title: YamScientists
+crosslinks:
+- Yamity
+---

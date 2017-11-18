@@ -1,0 +1,5 @@
+---
+title: SignsWithMustaches
+crosslinks:
+- all
+---

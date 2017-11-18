@@ -1,0 +1,5 @@
+---
+title: SmarterRedskins
+crosslinks:
+- Redskins
+---

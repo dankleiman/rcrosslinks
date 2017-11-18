@@ -1,0 +1,5 @@
+---
+title: Turd
+crosslinks:
+- autotldr
+---

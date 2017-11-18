@@ -1,0 +1,5 @@
+---
+title: feedmequickwriting
+crosslinks:
+- TheCryopodToHell
+---

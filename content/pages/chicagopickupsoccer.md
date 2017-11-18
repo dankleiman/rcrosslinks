@@ -1,0 +1,5 @@
+---
+title: chicagopickupsoccer
+crosslinks:
+- greatNWside
+---

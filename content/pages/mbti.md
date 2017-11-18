@@ -1,0 +1,24 @@
+---
+title: mbti
+crosslinks:
+- JungianTypology
+- infj
+- INTP
+- intj
+- infp
+- entj
+- entp
+- xkcd
+- ENFP
+- Enneagram
+- istp
+- ISTJ
+- shittyMBTI
+- ESTJ
+- AMAAggregator
+- estp
+- iamverysmart
+- isfj
+- isfp
+- Socionics
+---

@@ -1,0 +1,5 @@
+---
+title: industrialmetal
+crosslinks:
+- industrialmusic
+---

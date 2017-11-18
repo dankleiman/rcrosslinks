@@ -1,0 +1,24 @@
+---
+title: GamingPlays
+crosslinks:
+- starcraft
+- gaming
+- DotA2
+- Battlefield
+- leagueoflegends
+- BattleRite
+- QuakeChampions
+- livven
+- RivalsOfAether
+- halo
+- QuakeLive
+- Smite
+- fragfilms
+- GosuMicro
+- forhonor
+- RocketLeague
+- ArenaFPS
+- WC3
+- Brawlhalla
+- unrealtournament
+---

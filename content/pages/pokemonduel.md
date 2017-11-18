@@ -1,0 +1,24 @@
+---
+title: pokemonduel
+crosslinks:
+- mod
+- custompokemonduel
+- PokeFodder
+- ptcgo
+- PokemonShuffle
+- livven
+- ShadowBan
+- MemoryDefrag
+- metric_units
+- FrenchWestIndies
+- pokemon
+- TrollXChromosomes
+- hearthstone
+- heroesofthestorm
+- HighQualityGifs
+- ImagesOfThe1900s
+- explainlikeimfive
+- gaming
+- kotk
+- hedidthemath
+---

@@ -1,0 +1,24 @@
+---
+title: AskOuija
+crosslinks:
+- wholesomeouija
+- noshitouija
+- jesuschristouija
+- SuicideWatch
+- OuijaIsFuckingLit
+- kinkyouija
+- Ouija_irl
+- SavageOuija
+- furry_irl
+- Ooer
+- 2ouijairl4ouijairl
+- GrammarNaziOuija
+- PrequelMemes
+- AskReddit
+- theydidthefuckyou
+- onewordeach
+- jesuschristreddit
+- 2meirl42meirl4meirl
+- Ouija
+- me_irl
+---

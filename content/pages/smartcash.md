@@ -1,0 +1,5 @@
+---
+title: smartcash
+crosslinks:
+- CryptoCurrency
+---

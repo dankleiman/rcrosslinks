@@ -1,0 +1,5 @@
+---
+title: talesofmike
+crosslinks:
+- myevilplan
+---

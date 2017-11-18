@@ -1,0 +1,24 @@
+---
+title: IWantToLearn
+crosslinks:
+- getdisciplined
+- personalfinance
+- GetMotivated
+- IAmA
+- ArtFundamentals
+- languagelearning
+- AskReddit
+- Nootropics
+- todayilearned
+- LifeProTips
+- SocialEngineering
+- edmproduction
+- howtonotgiveafuck
+- singing
+- russian
+- TheVeryMask
+- photoshop
+- handwritingrepair
+- AskHistorians
+- GetSuave
+---

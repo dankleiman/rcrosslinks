@@ -1,0 +1,5 @@
+---
+title: PatheticStories
+crosslinks:
+- relationships
+---

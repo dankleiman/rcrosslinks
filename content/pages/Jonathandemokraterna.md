@@ -1,0 +1,5 @@
+---
+title: Jonathandemokraterna
+crosslinks:
+- politics
+---

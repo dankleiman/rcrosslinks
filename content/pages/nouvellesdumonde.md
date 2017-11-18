@@ -1,0 +1,5 @@
+---
+title: nouvellesdumonde
+crosslinks:
+- effondrement
+---

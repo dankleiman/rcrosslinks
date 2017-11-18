@@ -1,0 +1,5 @@
+---
+title: Torchlight
+crosslinks:
+- synergiesmod
+---

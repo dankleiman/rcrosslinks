@@ -1,0 +1,5 @@
+---
+title: skilltoys
+crosslinks:
+- cardistry
+---

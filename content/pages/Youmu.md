@@ -1,0 +1,5 @@
+---
+title: Youmu
+crosslinks:
+- touhou
+---

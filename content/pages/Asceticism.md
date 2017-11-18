@@ -1,0 +1,5 @@
+---
+title: Asceticism
+crosslinks:
+- askphilosophy
+---

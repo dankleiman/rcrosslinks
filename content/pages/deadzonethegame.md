@@ -1,0 +1,5 @@
+---
+title: deadzonethegame
+crosslinks:
+- IronwatchMagazine
+---

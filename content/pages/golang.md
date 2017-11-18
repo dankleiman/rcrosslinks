@@ -1,0 +1,24 @@
+---
+title: golang
+crosslinks:
+- programming
+- ProgrammerHumor
+- xkcd
+- gogamedev
+- netsec
+- NegativeWithGold
+- algotrading
+- full360
+- hackernews
+- restofthefuckingowl
+- dailyprogrammer
+- FullstackNetwork
+- rust
+- git
+- diyan
+- dadjokes
+- tippr
+- iamsosmart
+- vim
+- HighQualityGifs
+---

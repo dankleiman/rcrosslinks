@@ -1,0 +1,5 @@
+---
+title: NintendoSwitchBoxArt
+crosslinks:
+- NintendoSwitch
+---

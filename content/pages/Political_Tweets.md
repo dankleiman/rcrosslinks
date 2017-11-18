@@ -1,0 +1,24 @@
+---
+title: Political_Tweets
+crosslinks:
+- MarchAgainstTrump
+- The_Donald
+- ShitPoliticsSays
+- all
+- HailCorporate
+- politics
+- shitpost
+- gatekeeping
+- MensRights
+- offmychest
+- autotldr
+- european
+- IAmA
+- marchfortrump
+- theNew_Donald
+- engineering
+- CringeAnarchy
+- Deleted
+- hillaryclinton
+- killthosewhodisagree
+---

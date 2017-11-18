@@ -1,0 +1,24 @@
+---
+title: starlets
+crosslinks:
+- JohnnySequoyahFan
+- Jordyn_Jones
+- Jade_Chynoweth
+- larsenthompson
+- livven
+- AnneWinters
+- AlexisBurnett
+- lexeesmith
+- SimoneBeres
+- MorganCryer
+- ElenaKampouris
+- ReactGirls
+- kaylynslevin
+- Brynn_Rumfallo
+- FatimaPtacek
+- TaylarHender
+- MadisynShipman
+- BaileeMadison
+- AnnaliseBasso
+- CoffeySisters
+---

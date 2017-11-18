@@ -1,0 +1,5 @@
+---
+title: parody
+crosslinks:
+- LinkinPark
+---

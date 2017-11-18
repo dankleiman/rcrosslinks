@@ -1,0 +1,24 @@
+---
+title: LigaMX
+crosslinks:
+- rayados
+- soccer
+- LaFiera
+- MLS
+- CruzAzul
+- livven
+- ussoccer
+- wholesomeligamx
+- cringepics
+- autotldr
+- chichadios
+- soccerstreams
+- mexico
+- worldnews
+- electricdaisycarnival
+- rangersfc
+- trashy
+- tf2
+- place
+- soccercourt
+---

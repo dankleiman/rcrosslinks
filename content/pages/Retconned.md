@@ -1,0 +1,24 @@
+---
+title: Retconned
+crosslinks:
+- MandelaEffect
+- TopMindsOfReddit
+- chrisolivertimes
+- conspiracy
+- C_S_T
+- Glitch_in_the_Matrix
+- BANdelaEffect
+- DimensionalJumping
+- HistoryPorn
+- MandalaEffectsME
+- Mandela_Effect
+- WhatIsAMandelaEffect
+- worldnews
+- Mandelaeffectdecoded
+- holofractal
+- Paranormal
+- autotldr
+- nosleep
+- ShitAmericansSay
+- Electromagnetics
+---

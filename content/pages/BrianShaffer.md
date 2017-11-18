@@ -1,0 +1,5 @@
+---
+title: BrianShaffer
+crosslinks:
+- UnresolvedMysteries
+---

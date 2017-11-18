@@ -1,0 +1,24 @@
+---
+title: DebateAnAtheist
+crosslinks:
+- atheism
+- explainlikeimfive
+- askphilosophy
+- askanatheist
+- askscience
+- Judaism
+- xkcd
+- cosmologicalargument
+- Christianity
+- cosmology
+- thegreatproject
+- changemyview
+- evolution
+- exchristian
+- IAmA
+- occult
+- ThroughAGlassDarkly
+- TrueAtheism
+- philosophy
+- StreetEpistemology
+---

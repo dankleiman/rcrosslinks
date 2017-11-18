@@ -1,0 +1,5 @@
+---
+title: artemispanties
+crosslinks:
+- usedpanties
+---

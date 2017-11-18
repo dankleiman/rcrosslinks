@@ -1,0 +1,24 @@
+---
+title: Borderlands2
+crosslinks:
+- Borderlands
+- PandoranRedCross
+- livven
+- BorderlandsPreSequel
+- pcmasterrace
+- coopplay
+- GameDeals
+- OSHA
+- Fallout
+- IAmA
+- BL2Builds
+- mildlyinteresting
+- BorderlandsLore
+- linux_gaming
+- gaming
+- nvidia
+- comedynecromancy
+- Games
+- dankmemes
+- darksouls
+---

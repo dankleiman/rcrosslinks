@@ -1,0 +1,5 @@
+---
+title: kanyewest
+crosslinks:
+- Kanye
+---

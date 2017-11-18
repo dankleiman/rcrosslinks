@@ -1,0 +1,24 @@
+---
+title: Celebs
+crosslinks:
+- WatchItForThePlot
+- NavelNSFW
+- TTDSWAD
+- IAmA
+- AskReddit
+- ElyseDufour
+- alexandradaddario
+- Annie_Wersching
+- todayilearned
+- NudityReviews
+- KellyBrook
+- AmandaCerny
+- maisiewilliams
+- Laurencohan
+- ChloeBennet
+- OldSchoolCool
+- xkcd
+- AlisonBrie
+- kateupton
+- CringeAnarchy
+---

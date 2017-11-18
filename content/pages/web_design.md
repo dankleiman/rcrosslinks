@@ -1,0 +1,24 @@
+---
+title: web_design
+crosslinks:
+- xkcd
+- autotldr
+- graphic_design
+- programming
+- explainlikeimfive
+- forhire
+- Wordpress
+- css
+- pics
+- livven
+- Entrepreneur
+- userexperience
+- PHP
+- G12vzp
+- puppies
+- nhl
+- shopify
+- CodingHelp
+- 52WeeksOfDesign
+- catsstandingup
+---

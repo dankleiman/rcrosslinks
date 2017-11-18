@@ -1,0 +1,5 @@
+---
+title: awoogonewild
+crosslinks:
+- Pixiv
+---

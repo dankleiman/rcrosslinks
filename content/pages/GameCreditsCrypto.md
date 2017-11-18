@@ -1,0 +1,5 @@
+---
+title: GameCreditsCrypto
+crosslinks:
+- CryptoCurrency
+---

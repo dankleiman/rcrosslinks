@@ -1,0 +1,5 @@
+---
+title: softwarearchitecture
+crosslinks:
+- programming
+---

@@ -1,0 +1,5 @@
+---
+title: blasphemy
+crosslinks:
+- livven
+---

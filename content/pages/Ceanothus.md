@@ -1,0 +1,5 @@
+---
+title: Ceanothus
+crosslinks:
+- foraging
+---

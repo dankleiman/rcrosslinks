@@ -1,0 +1,5 @@
+---
+title: hazevaporizer
+crosslinks:
+- vaporents
+---

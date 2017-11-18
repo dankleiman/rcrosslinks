@@ -1,0 +1,24 @@
+---
+title: highlevelkarma
+crosslinks:
+- newsokur
+- newsokunomoral
+- lowlevelaware
+- newsokurMod
+- doraiso
+- redditrequest
+- newsokuvip
+- poverty_p
+- BakaNewsJP
+- tikagenron
+- futuu
+- BackOfLeaflet_ja
+- mod
+- Pixiv
+- Fuee
+- RedditsHistory_ja
+- kojiki
+- ja
+- YUNO
+- zatsudan
+---

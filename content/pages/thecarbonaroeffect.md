@@ -1,0 +1,5 @@
+---
+title: thecarbonaroeffect
+crosslinks:
+- mildlyinteresting
+---

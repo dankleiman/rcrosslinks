@@ -1,0 +1,24 @@
+---
+title: skeptic
+crosslinks:
+- conspiracy
+- AskReddit
+- askphilosophy
+- OutOfTheLoop
+- worldnews
+- islam
+- climateskeptics
+- politics
+- science
+- psychotronics
+- The_Donald
+- AskHistorians
+- IAmA
+- AskScienceDiscussion
+- videos
+- unitedkingdom
+- Economics
+- livven
+- rationalwiki
+- keto
+---

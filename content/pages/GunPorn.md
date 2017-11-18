@@ -1,0 +1,24 @@
+---
+title: GunPorn
+crosslinks:
+- PornOverlords
+- guns
+- ar15
+- 1911fans
+- Glocks
+- weekendgunnit
+- longrange
+- MilitaryPorn
+- causeWhyNotMate
+- mallninjashit
+- gungore
+- Revolvers
+- SmallGroups
+- FindTheSniper
+- GlockMod
+- prolife
+- mechanical_gifs
+- firearms
+- CompetitionShooting
+- mallninja
+---

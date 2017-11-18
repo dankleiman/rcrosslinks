@@ -1,0 +1,5 @@
+---
+title: InsurTech
+crosslinks:
+- fintech
+---

@@ -1,0 +1,5 @@
+---
+title: jazztheory
+crosslinks:
+- musictheory
+---

@@ -1,0 +1,5 @@
+---
+title: SmiteSkinConcepts
+crosslinks:
+- Serendipity
+---

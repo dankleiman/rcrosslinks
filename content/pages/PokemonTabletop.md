@@ -1,0 +1,5 @@
+---
+title: PokemonTabletop
+crosslinks:
+- rpg
+---

@@ -1,0 +1,5 @@
+---
+title: Oshkosh
+crosslinks:
+- airventure
+---

@@ -1,0 +1,5 @@
+---
+title: nswtrains
+crosslinks:
+- sydney
+---

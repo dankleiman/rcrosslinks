@@ -1,0 +1,24 @@
+---
+title: PhonesAreBad
+crosslinks:
+- lewronggeneration
+- xkcd
+- im14andthisisdeep
+- NotHowDrugsWork
+- gatekeeping
+- Ingress
+- WackyTicTacs
+- titlegore
+- gaming
+- comedynecromancy
+- nocontext
+- meirl
+- ComedyCemetery
+- PhonesAreGood
+- applesucks
+- livven
+- videos
+- androidcirclejerk
+- autotldr
+- kerning
+---

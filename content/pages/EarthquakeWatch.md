@@ -1,0 +1,5 @@
+---
+title: EarthquakeWatch
+crosslinks:
+- autotldr
+---

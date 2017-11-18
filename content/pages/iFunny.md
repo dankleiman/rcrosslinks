@@ -1,0 +1,5 @@
+---
+title: iFunny
+crosslinks:
+- REEEEEEEEEE
+---

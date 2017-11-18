@@ -1,0 +1,5 @@
+---
+title: nflpsychics
+crosslinks:
+- nfl
+---

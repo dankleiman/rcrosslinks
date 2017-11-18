@@ -1,0 +1,24 @@
+---
+title: PersonalFinanceCanada
+crosslinks:
+- personalfinance
+- churningcanada
+- financialindependence
+- AskReddit
+- canada
+- CanadianInvestor
+- LendingLoop
+- vancouver
+- investing
+- MealPrepSunday
+- weedstocks
+- Questrade
+- fican
+- cantax
+- legaladvice
+- toronto
+- ottawa
+- xkcd
+- askcarsales
+- ethtrader
+---

@@ -1,0 +1,21 @@
+---
+title: cablefail
+crosslinks:
+- xkcd
+- HomeImprovement
+- Serendipity
+- pokemongo
+- Skookum
+- SneakyBackgroundFeet
+- techsupportgore
+- electricians
+- wowhelp
+- therewasanattempt
+- shittyhdr
+- fire_snyper
+- MaliciousCompliance
+- WarshipPorn
+- funny
+- KarmaCourt
+- pics
+---

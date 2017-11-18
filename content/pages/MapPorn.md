@@ -1,0 +1,24 @@
+---
+title: MapPorn
+crosslinks:
+- ShitAmericansSay
+- europe
+- MapsWithoutNZ
+- AskHistorians
+- ShittyMapPorn
+- imaginarymaps
+- livven
+- dutchshitonreddit
+- mapporncirclejerk
+- papertowns
+- eu4
+- finlandConspiracy
+- vexillology
+- Turkey
+- AskReddit
+- Laos_map
+- me_ira
+- australia
+- india
+- BrasilOnReddit
+---

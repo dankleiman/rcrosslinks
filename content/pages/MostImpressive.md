@@ -1,0 +1,5 @@
+---
+title: MostImpressive
+crosslinks:
+- oddlysatisfying
+---

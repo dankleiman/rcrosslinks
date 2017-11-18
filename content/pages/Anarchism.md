@@ -1,0 +1,24 @@
+---
+title: Anarchism
+crosslinks:
+- autotldr
+- Drama
+- socialism
+- The_Donald
+- Anarcho_Capitalism
+- Anarchy101
+- EnoughBrocialistSpam
+- metanarchism
+- COMPLETEANARCHY
+- ShitPoliticsSays
+- Physical_Removal
+- SRSsucks
+- news
+- LateStageCapitalism
+- SocialistRA
+- shitleftistssay
+- ChapoTrapHouse
+- shitsocialismsays
+- TopOfAnarchism
+- worldnews
+---

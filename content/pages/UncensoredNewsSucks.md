@@ -1,0 +1,5 @@
+---
+title: UncensoredNewsSucks
+crosslinks:
+- uncensorednews
+---

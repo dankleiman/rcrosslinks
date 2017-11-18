@@ -1,0 +1,5 @@
+---
+title: poi
+crosslinks:
+- Kendama
+---

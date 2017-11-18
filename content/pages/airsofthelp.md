@@ -1,0 +1,5 @@
+---
+title: airsofthelp
+crosslinks:
+- airsoft
+---

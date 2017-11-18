@@ -1,0 +1,5 @@
+---
+title: Madagascar
+crosslinks:
+- Africa
+---

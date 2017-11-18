@@ -1,0 +1,24 @@
+---
+title: nvidia
+crosslinks:
+- Amd
+- pcmasterrace
+- pcgaming
+- watercooling
+- hardware
+- hardwareswap
+- techsupport
+- EtherMining
+- Windows10
+- livven
+- masseffect
+- Monitors
+- NintendoSwitch
+- Vive
+- overclocking
+- TEAMEVGA
+- xkcd
+- darksouls3
+- NZXT
+- PUBATTLEGROUNDS
+---

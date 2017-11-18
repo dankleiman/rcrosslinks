@@ -1,0 +1,5 @@
+---
+title: PlayArtifact
+crosslinks:
+- HalfLife
+---

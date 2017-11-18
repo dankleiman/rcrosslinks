@@ -1,0 +1,5 @@
+---
+title: BlandBox
+crosslinks:
+- comiccon
+---

@@ -1,0 +1,5 @@
+---
+title: Apoism
+crosslinks:
+- Communalists
+---

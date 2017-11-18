@@ -1,0 +1,24 @@
+---
+title: apple
+crosslinks:
+- iphone
+- xkcd
+- Android
+- iOSBeta
+- AppleWatch
+- ipad
+- applehelp
+- technology
+- hardware
+- airpods
+- hackintosh
+- SiriFail
+- privacy
+- ios
+- mac
+- AskReddit
+- audiophile
+- MacOS
+- todayilearned
+- osx
+---

@@ -1,0 +1,24 @@
+---
+title: outrun
+crosslinks:
+- livven
+- itookapicture
+- Art
+- pics
+- thewavecave
+- Rainmeter
+- AMAAggregator
+- VaporwaveAesthetics
+- newretrowave
+- gaming
+- unixporn
+- wallpapers
+- multiwall
+- outruncirclejerk
+- vinyl
+- 80sdesign
+- Vaporwave
+- electronicmusic
+- iOSthemes
+- ImaginaryMindscapes
+---

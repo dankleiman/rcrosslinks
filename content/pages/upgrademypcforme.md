@@ -1,0 +1,5 @@
+---
+title: upgrademypcforme
+crosslinks:
+- Dell
+---

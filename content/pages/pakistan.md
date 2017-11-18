@@ -1,0 +1,24 @@
+---
+title: pakistan
+crosslinks:
+- autotldr
+- india
+- exmuslim
+- islam
+- worldnews
+- place
+- worstof
+- Cricket
+- ExplorePakistan
+- Sikh
+- IndiaSpeaks
+- geopolitics
+- Turkey
+- technology
+- The_Donald
+- todayilearned
+- PakistanSuperLeague
+- AskHistorians
+- chutyapa
+- livven
+---

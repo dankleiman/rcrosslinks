@@ -1,0 +1,5 @@
+---
+title: bigmantyrone
+crosslinks:
+- REEEEEEEEEE
+---

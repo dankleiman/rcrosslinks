@@ -1,0 +1,24 @@
+---
+title: MURICA
+crosslinks:
+- livven
+- The_Donald
+- OutOfTheLoop
+- autotldr
+- place
+- AmericanFlaginPlace
+- AskReddit
+- pics
+- Drama
+- gifs
+- AskHistorians
+- politics
+- europe
+- todayilearned
+- worldpolitics
+- guns
+- EnoughTrumpSpam
+- xkcd
+- GunsAreCool
+- canada
+---

@@ -1,0 +1,5 @@
+---
+title: fnafhate
+crosslinks:
+- fivenightsatfreddys
+---

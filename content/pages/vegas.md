@@ -1,0 +1,24 @@
+---
+title: vegas
+crosslinks:
+- autotldr
+- vegaslocals
+- SonyVegas
+- LasVegas
+- news
+- AskReddit
+- swhiking
+- cordcutters
+- xkcd
+- TalesFromTheFrontDesk
+- livven
+- videos
+- EDC
+- Accounting
+- ween
+- castiron
+- Lyft
+- RealEstate
+- pawnstars
+- AdviceAnimals
+---

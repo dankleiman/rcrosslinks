@@ -1,0 +1,5 @@
+---
+title: OddParkingSpots
+crosslinks:
+- mildlyinteresting
+---

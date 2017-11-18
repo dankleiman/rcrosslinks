@@ -1,0 +1,5 @@
+---
+title: PedalDeals
+crosslinks:
+- guitarpedals
+---

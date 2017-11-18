@@ -1,0 +1,5 @@
+---
+title: moneyrebel
+crosslinks:
+- newreddits
+---

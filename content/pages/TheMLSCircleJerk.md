@@ -1,0 +1,5 @@
+---
+title: TheMLSCircleJerk
+crosslinks:
+- NASLSoccer
+---

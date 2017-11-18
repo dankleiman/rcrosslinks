@@ -1,0 +1,5 @@
+---
+title: FictionalVittles
+crosslinks:
+- cocktails
+---

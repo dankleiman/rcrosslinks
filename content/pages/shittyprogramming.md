@@ -1,0 +1,24 @@
+---
+title: shittyprogramming
+crosslinks:
+- xkcd
+- livven
+- Shittyspamming
+- delusionalartists
+- UKIP
+- ExplainLikeImCalvin
+- kittyprogramming
+- Nexus
+- ChickenDocument
+- GitInaction
+- theydidthemath
+- dragonsfuckingcars
+- assholedesign
+- NegativeWithGold
+- toronto
+- programminghorror
+- css
+- ComedyCemetery
+- AskComputerScience
+- programmingcirclejerk
+---

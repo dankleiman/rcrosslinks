@@ -1,0 +1,5 @@
+---
+title: TheDevilHornPirates
+crosslinks:
+- StrawHatRPG
+---

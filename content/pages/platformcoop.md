@@ -1,0 +1,5 @@
+---
+title: platformcoop
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: holofractal
+crosslinks:
+- conspiracy
+- C_S_T
+- Echerdex
+- autotldr
+- Psychonaut
+- DigitalCartel
+- livven
+- AlternativeHistory
+- Retconned
+- zen
+- DimensionalJumping
+- freedomearth
+- alchemy
+- TopMindsOfReddit
+- changemyview
+- Paranormal
+- ConspiracyII
+- fived
+- weekendgunnit
+- Showerthoughts
+---

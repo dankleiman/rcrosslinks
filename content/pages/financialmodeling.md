@@ -1,0 +1,5 @@
+---
+title: financialmodeling
+crosslinks:
+- math
+---

@@ -1,0 +1,5 @@
+---
+title: Vegetables
+crosslinks:
+- PeppersInsidePeppers
+---

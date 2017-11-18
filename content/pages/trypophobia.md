@@ -1,0 +1,24 @@
+---
+title: trypophobia
+crosslinks:
+- livven
+- popping
+- mildlyinteresting
+- woahdude
+- pics
+- whatisthisthing
+- WTF
+- Heavymind
+- mycology
+- interestingasfuck
+- nosleep
+- Art
+- oddlysatisfying
+- shittyfoodporn
+- perfectloops
+- videos
+- gif
+- whatsthisplant
+- oddlyweird
+- Sneks
+---

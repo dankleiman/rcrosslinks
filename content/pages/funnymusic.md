@@ -1,0 +1,5 @@
+---
+title: funnymusic
+crosslinks:
+- comedymusic
+---

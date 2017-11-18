@@ -1,0 +1,5 @@
+---
+title: saenaiheroine
+crosslinks:
+- LightNovels
+---

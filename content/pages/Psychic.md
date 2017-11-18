@@ -1,0 +1,24 @@
+---
+title: Psychic
+crosslinks:
+- occult
+- lawofattraction
+- holofractal
+- chrisolivertimes
+- Meditation
+- energy_work
+- DangmaDzyu
+- AstralProjection
+- conspiracy
+- Retconned
+- Paranormal
+- C_S_T
+- Soulnexus
+- PostCollapse
+- Dreams
+- Drugs
+- Clairvoyantreadings
+- Mediums
+- predictions
+- SeriousConversation
+---

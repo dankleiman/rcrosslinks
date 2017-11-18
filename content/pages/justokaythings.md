@@ -1,0 +1,5 @@
+---
+title: justokaythings
+crosslinks:
+- wholesomememes
+---

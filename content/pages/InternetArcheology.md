@@ -1,0 +1,5 @@
+---
+title: InternetArcheology
+crosslinks:
+- InternetRuins
+---

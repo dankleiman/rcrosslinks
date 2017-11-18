@@ -1,0 +1,5 @@
+---
+title: thesimslegacies
+crosslinks:
+- thesims
+---

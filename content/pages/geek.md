@@ -1,0 +1,24 @@
+---
+title: geek
+crosslinks:
+- help
+- livven
+- xkcd
+- INEEEEDIT
+- interestingasfuck
+- gaming
+- ProductPorn
+- AskReddit
+- funny
+- HailCorporate
+- gifs
+- StarWars
+- movies
+- LateStageCapitalism
+- educationalgifs
+- AgainstKarmaWhores
+- videos
+- MuseumOfReddit
+- longevity
+- ComicsGeekComix
+---

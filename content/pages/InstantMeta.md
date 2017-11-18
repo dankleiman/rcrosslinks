@@ -1,0 +1,5 @@
+---
+title: InstantMeta
+crosslinks:
+- moddingofisaac
+---

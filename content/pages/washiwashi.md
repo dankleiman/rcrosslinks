@@ -1,0 +1,5 @@
+---
+title: washiwashi
+crosslinks:
+- Pixiv
+---

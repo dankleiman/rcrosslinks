@@ -1,0 +1,24 @@
+---
+title: WeAreTheMusicMakers
+crosslinks:
+- edmproduction
+- audioengineering
+- synthesizers
+- musictheory
+- Music
+- Drumkits
+- makinghiphop
+- piano
+- MusicInTheMaking
+- autotldr
+- songaweek
+- Reaper
+- lewronggeneration
+- AudioProductionDeals
+- MusicBattlestations
+- trapproduction
+- Filmmakers
+- ThisIsOurMusic
+- Guitar
+- audiophile
+---

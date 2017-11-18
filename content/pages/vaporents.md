@@ -1,0 +1,24 @@
+---
+title: vaporents
+crosslinks:
+- Dynavap
+- trees
+- Waxpen
+- BoundlessVapes
+- EntExchange
+- chinaglass
+- GrassHopperVape
+- craftymighty
+- livven
+- ploompax
+- electronic_cigarette
+- arizer
+- CBD
+- StonerEngineering
+- fireflyvape
+- puffitup
+- PAXvapor
+- Marijuana
+- davincivaporizer
+- vapormax
+---

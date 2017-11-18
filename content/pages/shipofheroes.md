@@ -1,0 +1,5 @@
+---
+title: shipofheroes
+crosslinks:
+- Cityofheroes
+---

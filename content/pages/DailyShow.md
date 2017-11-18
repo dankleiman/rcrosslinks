@@ -1,0 +1,22 @@
+---
+title: DailyShow
+crosslinks:
+- politics
+- IAmA
+- DataHoarder
+- TheBugle
+- chicago
+- asianamerican
+- PoliticalDiscussion
+- announcements
+- todayilearned
+- Donald
+- CFB
+- pussypassdenied
+- pics
+- AskReddit
+- surfing
+- Nigeria
+- theoryofreddit
+- autotldr
+---

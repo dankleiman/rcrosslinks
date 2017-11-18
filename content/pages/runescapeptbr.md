@@ -1,0 +1,5 @@
+---
+title: runescapeptbr
+crosslinks:
+- runescape
+---

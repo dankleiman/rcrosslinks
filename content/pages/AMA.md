@@ -1,0 +1,24 @@
+---
+title: AMA
+crosslinks:
+- AMAAggregator
+- IAmA
+- AskReddit
+- exmormon
+- childfree
+- casualiama
+- causeWhyNotMate
+- The_Donald
+- Advice
+- xkcd
+- worldnews
+- sociopath
+- NSFW_AmA
+- WTF
+- Hookers
+- DID
+- pics
+- weed
+- TargetedEnergyWeapons
+- aww
+---

@@ -1,0 +1,5 @@
+---
+title: PSIkiKusuo
+crosslinks:
+- anime
+---

@@ -1,0 +1,22 @@
+---
+title: Target
+crosslinks:
+- Shoplifting
+- livven
+- autotldr
+- lossprevention
+- mildlyinteresting
+- legaladvice
+- hmmm
+- titlegore
+- xkcd
+- 2meirl4meirl
+- minines
+- walmart
+- AskPhilosophyFAQ
+- PrequelMemes
+- aww
+- AMAAggregator
+- minecraftminifigures
+- gaming
+---

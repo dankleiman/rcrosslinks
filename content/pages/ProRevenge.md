@@ -1,0 +1,24 @@
+---
+title: ProRevenge
+crosslinks:
+- AskReddit
+- pettyrevenge
+- legaladvice
+- xkcd
+- Nudelete
+- RegularRevenge
+- AMA
+- MilitaryStories
+- personalfinance
+- longtail
+- nocontext
+- MaliciousCompliance
+- regularrevenge
+- MylifeSuxNow
+- thatHappened
+- tifu
+- news
+- JUSTNOMIL
+- mildlyinfuriating
+- childfree
+---

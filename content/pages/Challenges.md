@@ -1,0 +1,5 @@
+---
+title: Challenges
+crosslinks:
+- fidgetspin
+---

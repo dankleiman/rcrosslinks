@@ -1,0 +1,5 @@
+---
+title: MoronicMondayAndroid
+crosslinks:
+- android
+---

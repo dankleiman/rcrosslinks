@@ -1,0 +1,5 @@
+---
+title: KiernanShipka
+crosslinks:
+- SimplyKiernanShipka
+---

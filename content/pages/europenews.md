@@ -1,0 +1,5 @@
+---
+title: europenews
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: McFlag
+crosslinks:
+- place
+---

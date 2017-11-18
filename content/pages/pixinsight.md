@@ -1,0 +1,5 @@
+---
+title: pixinsight
+crosslinks:
+- astrophotography
+---

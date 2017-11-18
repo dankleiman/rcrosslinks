@@ -1,0 +1,24 @@
+---
+title: xboxone
+crosslinks:
+- PS4
+- gaming
+- pcmasterrace
+- DestinyTheGame
+- RocketLeague
+- halo
+- masseffect
+- Games
+- forhonor
+- Seaofthieves
+- GhostRecon
+- pcgaming
+- residentevil
+- pathofexile
+- titanfall
+- EliteDangerous
+- NintendoSwitch
+- killerinstinct
+- GameStop
+- FORTnITE
+---

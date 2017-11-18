@@ -1,0 +1,5 @@
+---
+title: lindseystirling
+crosslinks:
+- Music
+---

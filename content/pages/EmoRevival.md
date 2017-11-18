@@ -1,0 +1,5 @@
+---
+title: EmoRevival
+crosslinks:
+- Emo
+---

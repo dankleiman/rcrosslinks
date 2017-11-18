@@ -1,0 +1,5 @@
+---
+title: lewdmegumin
+crosslinks:
+- Megumin
+---

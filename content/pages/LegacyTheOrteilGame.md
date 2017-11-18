@@ -1,0 +1,5 @@
+---
+title: LegacyTheOrteilGame
+crosslinks:
+- AMAAggregator
+---

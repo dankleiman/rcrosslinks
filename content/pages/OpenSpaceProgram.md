@@ -1,0 +1,5 @@
+---
+title: OpenSpaceProgram
+crosslinks:
+- factorio
+---

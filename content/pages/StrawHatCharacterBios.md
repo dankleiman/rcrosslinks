@@ -1,0 +1,5 @@
+---
+title: StrawHatCharacterBios
+crosslinks:
+- StrawHatRPG
+---

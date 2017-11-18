@@ -1,0 +1,23 @@
+---
+title: Microbiome
+crosslinks:
+- autotldr
+- science
+- Nootropics
+- AMAAggregator
+- BlackPeopleTwitter
+- worldnews
+- Documentaries
+- instant_regret
+- TrueReddit
+- Showerthoughts
+- ketoscience
+- mycology
+- ehlersdanlos
+- ketogains
+- neutralnews
+- Electromagnetics
+- trolling
+- slatestarcodex
+- Supplements
+---

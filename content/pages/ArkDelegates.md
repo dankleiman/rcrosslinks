@@ -1,0 +1,5 @@
+---
+title: ArkDelegates
+crosslinks:
+- ArkEcosystem
+---

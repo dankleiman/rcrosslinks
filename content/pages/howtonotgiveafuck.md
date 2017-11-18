@@ -1,0 +1,24 @@
+---
+title: howtonotgiveafuck
+crosslinks:
+- Stoicism
+- getdisciplined
+- autotldr
+- TheRedPill
+- videos
+- AskReddit
+- hatchery
+- livven
+- Meditation
+- Serendipity
+- ExNoContact
+- letsnotmeet
+- CalamariRaceTeam
+- xkcd
+- thatHappened
+- SanctionedSuicide
+- mildlypenis
+- Assistance
+- gatekeeping
+- usefulvids
+---

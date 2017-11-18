@@ -1,0 +1,5 @@
+---
+title: debtfree
+crosslinks:
+- personalfinance
+---

@@ -1,0 +1,5 @@
+---
+title: SixthWorld
+crosslinks:
+- Shadowrun
+---

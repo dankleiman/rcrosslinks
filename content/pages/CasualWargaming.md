@@ -1,0 +1,5 @@
+---
+title: CasualWargaming
+crosslinks:
+- IronwatchMagazine
+---

@@ -1,0 +1,5 @@
+---
+title: PoliticsMemes
+crosslinks:
+- dankmemes
+---

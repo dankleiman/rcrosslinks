@@ -1,0 +1,24 @@
+---
+title: nerdfighters
+crosslinks:
+- KotakuInAction
+- math
+- transgender
+- CGPGrey
+- changemyview
+- skeptic
+- placeTARDIS
+- vegan
+- ShitPoliticsSays
+- AskReddit
+- xkcd
+- linguistics
+- whatisthisthing
+- london
+- IAmA
+- raerth
+- soccerstreams
+- FemmeThoughts
+- DarkEnlightenment
+- woahdude
+---

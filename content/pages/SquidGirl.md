@@ -1,0 +1,5 @@
+---
+title: SquidGirl
+crosslinks:
+- Animemes
+---

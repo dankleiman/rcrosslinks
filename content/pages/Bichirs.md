@@ -1,0 +1,5 @@
+---
+title: Bichirs
+crosslinks:
+- AquaSwap
+---

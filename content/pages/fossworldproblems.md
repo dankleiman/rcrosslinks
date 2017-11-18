@@ -1,0 +1,5 @@
+---
+title: fossworldproblems
+crosslinks:
+- xkcd
+---

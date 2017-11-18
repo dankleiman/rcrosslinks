@@ -1,0 +1,5 @@
+---
+title: Edmond
+crosslinks:
+- AMAAggregator
+---

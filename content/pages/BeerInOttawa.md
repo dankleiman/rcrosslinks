@@ -1,0 +1,5 @@
+---
+title: BeerInOttawa
+crosslinks:
+- ottawa
+---

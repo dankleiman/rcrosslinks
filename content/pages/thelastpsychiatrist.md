@@ -1,0 +1,24 @@
+---
+title: thelastpsychiatrist
+crosslinks:
+- sorceryofthespectacle
+- TheRedPill
+- AskReddit
+- ForeverAlone
+- science
+- ShrugLifeSyndicate
+- GenderCynical
+- IAmA
+- videos
+- lostgeneration
+- psychoanalysis
+- watches
+- CogSec
+- askphilosophy
+- GenderCritical
+- AskWomen
+- JordanPeterson
+- BestofCracked
+- medicine
+- The_Donald
+---

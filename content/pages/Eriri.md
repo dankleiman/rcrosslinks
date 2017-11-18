@@ -1,0 +1,5 @@
+---
+title: Eriri
+crosslinks:
+- Saekano
+---

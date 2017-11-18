@@ -1,0 +1,5 @@
+---
+title: loveland
+crosslinks:
+- FortCollins
+---

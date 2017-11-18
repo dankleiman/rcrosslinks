@@ -1,0 +1,5 @@
+---
+title: VAMscenes
+crosslinks:
+- VirtAMate
+---

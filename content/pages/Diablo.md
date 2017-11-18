@@ -1,0 +1,24 @@
+---
+title: Diablo
+crosslinks:
+- pathofexile
+- D3PS4
+- pcmasterrace
+- OutOfTheLoop
+- starcraft
+- xkcd
+- UnexpectedDS9
+- patientgamers
+- gatekeeping
+- wow
+- d3hardcore
+- thedivision
+- WritingPrompts
+- futanari
+- speedrun
+- MGTOW
+- topofreddit
+- SCUniverse
+- sims2
+- Warframe
+---

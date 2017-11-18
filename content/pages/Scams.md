@@ -1,0 +1,24 @@
+---
+title: Scams
+crosslinks:
+- personalfinance
+- ChinaScamCentral
+- MNTrolls
+- google
+- autotldr
+- antiMLM
+- TravelScams
+- hacking
+- fountainpens
+- itslenny
+- cscareerquestion
+- AskReddit
+- news
+- KindVoice
+- catfish
+- thatHappened
+- funny
+- excgarated
+- security
+- LegalAdviceUK
+---

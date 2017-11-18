@@ -1,0 +1,5 @@
+---
+title: cprogramming
+crosslinks:
+- linux
+---

@@ -1,0 +1,24 @@
+---
+title: TrollYChromosome
+crosslinks:
+- livven
+- TrollXChromosomes
+- short
+- funny
+- xkcd
+- gifs
+- pointlesslygendered
+- BiggerThanYouThought
+- OkCupid
+- likeus
+- AskMen
+- personalfinance
+- HealSluts
+- Troll4Troll
+- OutOfTheLoop
+- TrollXMovieNight
+- AskHistorians
+- AskReddit
+- MGTOW
+- carsfuckingdragons
+---

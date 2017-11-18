@@ -1,0 +1,24 @@
+---
+title: legaladvice
+crosslinks:
+- personalfinance
+- legaladviceofftopic
+- LegalAdviceUK
+- AskReddit
+- AusLegal
+- relationships
+- Scams
+- IAmA
+- askcarsales
+- report
+- Shoplifting
+- Insurance
+- tifu
+- JUSTNOMIL
+- Drugs
+- tax
+- NoStupidQuestions
+- news
+- OutOfTheLoop
+- funny
+---

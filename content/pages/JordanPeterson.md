@@ -1,0 +1,24 @@
+---
+title: JordanPeterson
+crosslinks:
+- zeronet
+- samharris
+- IAmA
+- autotldr
+- JoeRogan
+- Jordan_Peterson_Memes
+- askphilosophy
+- philosophy
+- TheRedPill
+- AskHistorians
+- Maps_of_Meaning
+- science
+- sorceryofthespectacle
+- TopMindsOfReddit
+- TrueReddit
+- livven
+- The_Donald
+- SYO
+- Buddhism
+- Meanpath
+---

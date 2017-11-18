@@ -1,0 +1,5 @@
+---
+title: GuineaPigGreatAgain
+crosslinks:
+- faggots
+---

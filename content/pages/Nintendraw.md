@@ -1,0 +1,5 @@
+---
+title: Nintendraw
+crosslinks:
+- WritingPrompts
+---

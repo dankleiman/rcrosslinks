@@ -1,0 +1,24 @@
+---
+title: HumansBeingBros
+crosslinks:
+- livven
+- autotldr
+- AskReddit
+- reverseanimalrescue
+- pics
+- videos
+- IAmA
+- aww
+- gifs
+- interestingasfuck
+- funny
+- shitpost
+- 2n73w2d
+- WTF
+- explainlikeimfive
+- legaladvice
+- gifsthatendtoosoon
+- vegan
+- xkcd
+- evenwithcontext
+---

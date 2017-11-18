@@ -1,0 +1,5 @@
+---
+title: WholesomeCopypasta
+crosslinks:
+- wholesomememes
+---

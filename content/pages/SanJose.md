@@ -1,0 +1,24 @@
+---
+title: SanJose
+crosslinks:
+- autotldr
+- SJSU
+- rit
+- jino6c
+- leagueoflegends
+- SFBayHousing
+- LifeProTips
+- fastfood
+- LosAngeles
+- LateStageCapitalism
+- funny
+- livven
+- PanicHistory
+- ShitSlumlordsSay
+- Incels
+- QueerSF
+- homedefense
+- investing
+- nintendo
+- ClashOfClans
+---

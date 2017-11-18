@@ -1,0 +1,5 @@
+---
+title: racionalidade
+crosslinks:
+- Bitcoin
+---

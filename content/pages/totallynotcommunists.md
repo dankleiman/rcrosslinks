@@ -1,0 +1,5 @@
+---
+title: totallynotcommunists
+crosslinks:
+- AskOuija
+---

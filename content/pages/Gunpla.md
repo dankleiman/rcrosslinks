@@ -1,0 +1,24 @@
+---
+title: Gunpla
+crosslinks:
+- Gundam
+- livven
+- modelmakers
+- advancedGunpla
+- BuildFightSystem
+- SciFiModels
+- minipainting
+- MachNeu
+- Rainmeter
+- mallninjashit
+- evangelion
+- Zoids
+- a
+- powerwashingporn
+- Warhammer40k
+- xkcd
+- FashionReps
+- me_irl
+- HailCorporate
+- Pay_Respects
+---

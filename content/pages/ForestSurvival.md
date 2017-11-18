@@ -1,0 +1,5 @@
+---
+title: ForestSurvival
+crosslinks:
+- camping
+---

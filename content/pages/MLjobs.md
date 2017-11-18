@@ -1,0 +1,5 @@
+---
+title: MLjobs
+crosslinks:
+- haskell
+---

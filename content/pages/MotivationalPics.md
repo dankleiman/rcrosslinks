@@ -1,0 +1,5 @@
+---
+title: MotivationalPics
+crosslinks:
+- nicealpha
+---

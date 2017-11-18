@@ -1,0 +1,5 @@
+---
+title: LeashedGirls
+crosslinks:
+- MaitresseMadeline
+---

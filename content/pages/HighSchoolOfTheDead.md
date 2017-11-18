@@ -1,0 +1,5 @@
+---
+title: HighSchoolOfTheDead
+crosslinks:
+- manga
+---

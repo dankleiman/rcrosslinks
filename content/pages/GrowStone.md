@@ -1,0 +1,5 @@
+---
+title: GrowStone
+crosslinks:
+- ClashRoyale
+---

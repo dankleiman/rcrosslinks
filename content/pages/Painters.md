@@ -1,0 +1,5 @@
+---
+title: Painters
+crosslinks:
+- painting
+---

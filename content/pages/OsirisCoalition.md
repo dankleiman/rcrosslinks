@@ -1,0 +1,5 @@
+---
+title: OsirisCoalition
+crosslinks:
+- NMSOsirisCoalition
+---

@@ -1,0 +1,24 @@
+---
+title: IDontWorkHereLady
+crosslinks:
+- AskReddit
+- MaliciousCompliance
+- JUSTNOMIL
+- staircasewit
+- ActLikeYouBelong
+- wholesome
+- TalesFromTheFrontDesk
+- pettyrevenge
+- unexpectedhogwarts
+- xkcd
+- talesfromcallcenters
+- childfree
+- excgarated
+- OutOfTheLoop
+- Bandnames
+- talesfromsecurity
+- PointlessStories
+- Shoplifting
+- TalesFromRetail
+- talesfromtechsupport
+---

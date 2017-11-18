@@ -1,0 +1,5 @@
+---
+title: NirvanaCovers
+crosslinks:
+- Nirvana
+---

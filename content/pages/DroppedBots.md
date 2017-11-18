@@ -1,0 +1,5 @@
+---
+title: DroppedBots
+crosslinks:
+- ShingekiNoKyojin
+---

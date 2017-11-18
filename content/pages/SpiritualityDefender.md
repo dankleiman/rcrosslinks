@@ -1,0 +1,5 @@
+---
+title: SpiritualityDefender
+crosslinks:
+- ArchOccult
+---

@@ -1,0 +1,5 @@
+---
+title: Ogoden
+crosslinks:
+- HogwartsWerewolves
+---

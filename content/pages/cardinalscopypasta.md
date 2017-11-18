@@ -1,0 +1,5 @@
+---
+title: cardinalscopypasta
+crosslinks:
+- copypasta
+---

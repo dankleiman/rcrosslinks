@@ -1,0 +1,5 @@
+---
+title: maletime
+crosslinks:
+- ftm
+---

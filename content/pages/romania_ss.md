@@ -1,0 +1,24 @@
+---
+title: romania_ss
+crosslinks:
+- Romania
+- RoCirclejerk
+- romania
+- pics
+- europe
+- manele
+- AMAAggregator
+- The_Donald
+- tehnologie
+- PokemonGORo
+- EtherMining
+- AskReddit
+- Coarde
+- lithuania
+- FunnyandSad
+- xkcd
+- RoGonewild
+- videos
+- RoMusic
+- shitduolingosays
+---

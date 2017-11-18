@@ -1,0 +1,5 @@
+---
+title: snivy
+crosslinks:
+- pokemon
+---

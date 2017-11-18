@@ -1,0 +1,5 @@
+---
+title: stagedrenaissance
+crosslinks:
+- AccidentalRenaissance
+---

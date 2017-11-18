@@ -1,0 +1,5 @@
+---
+title: banktivity
+crosslinks:
+- MacOS
+---

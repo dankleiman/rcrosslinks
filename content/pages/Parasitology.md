@@ -1,0 +1,5 @@
+---
+title: Parasitology
+crosslinks:
+- autotldr
+---

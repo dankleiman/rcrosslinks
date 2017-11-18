@@ -1,0 +1,5 @@
+---
+title: metanode
+crosslinks:
+- node
+---

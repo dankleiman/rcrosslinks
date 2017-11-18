@@ -1,0 +1,5 @@
+---
+title: teengamingnights
+crosslinks:
+- Devoted
+---

@@ -1,0 +1,5 @@
+---
+title: IsitForPresident
+crosslinks:
+- ModelUSPress
+---

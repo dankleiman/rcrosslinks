@@ -1,0 +1,5 @@
+---
+title: subnormality
+crosslinks:
+- IAmA
+---

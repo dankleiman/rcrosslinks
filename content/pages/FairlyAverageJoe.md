@@ -1,0 +1,5 @@
+---
+title: FairlyAverageJoe
+crosslinks:
+- gonewildaudio
+---

@@ -1,0 +1,5 @@
+---
+title: malamute
+crosslinks:
+- AlaskanMalamute
+---

@@ -1,0 +1,5 @@
+---
+title: PoliticalRevolutionCO
+crosslinks:
+- politics
+---

@@ -1,0 +1,5 @@
+---
+title: supersmashbros
+crosslinks:
+- rhythmheaven
+---

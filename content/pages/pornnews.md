@@ -1,0 +1,5 @@
+---
+title: pornnews
+crosslinks:
+- autotldr
+---

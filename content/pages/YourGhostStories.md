@@ -1,0 +1,5 @@
+---
+title: YourGhostStories
+crosslinks:
+- Ghosts
+---

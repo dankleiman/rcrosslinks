@@ -1,0 +1,5 @@
+---
+title: ToiletDoodles
+crosslinks:
+- funny
+---

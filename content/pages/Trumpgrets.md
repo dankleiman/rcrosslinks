@@ -1,0 +1,5 @@
+---
+title: Trumpgrets
+crosslinks:
+- politics
+---

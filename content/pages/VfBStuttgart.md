@@ -1,0 +1,5 @@
+---
+title: VfBStuttgart
+crosslinks:
+- soccer
+---

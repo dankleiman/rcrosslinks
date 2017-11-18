@@ -1,0 +1,5 @@
+---
+title: mylittleshipping
+crosslinks:
+- mylittlepony
+---

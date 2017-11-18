@@ -1,0 +1,24 @@
+---
+title: Fraudnet2
+crosslinks:
+- RedditAlternatives
+- CanadianCarders
+- fakeid
+- fraudnet
+- AlphaBayMarket
+- OpenBazaarFraudStores
+- forgeries
+- FashionReps
+- giftcardexchange
+- Steroidsourcetalk
+- DankNation
+- discordapp
+- phoneverification
+- Drama
+- SECUREmyDEAL
+- Shoplifting
+- DNMUK
+- ShopLifting
+- GCtrade
+- DNMSuperlist
+---

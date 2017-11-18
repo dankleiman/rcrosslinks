@@ -1,0 +1,5 @@
+---
+title: blono
+crosslinks:
+- BloomingtonNormal
+---

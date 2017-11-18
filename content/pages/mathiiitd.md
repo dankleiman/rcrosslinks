@@ -1,0 +1,5 @@
+---
+title: mathiiitd
+crosslinks:
+- math
+---

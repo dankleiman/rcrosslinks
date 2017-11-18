@@ -1,0 +1,24 @@
+---
+title: highdeas
+crosslinks:
+- trees
+- funny
+- StonerThoughts
+- AWLIAS
+- StonerEngineering
+- awfuleverything
+- fidgetspin
+- highthoughts
+- CrazyIdeas
+- quotes
+- titlegore
+- trailmeals
+- wholesome
+- synthesizers
+- Frisson
+- reallifedoodles
+- FULLCOMMUNISM
+- asktrees
+- spacex
+- worldnews
+---

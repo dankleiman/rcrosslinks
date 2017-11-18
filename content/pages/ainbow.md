@@ -1,0 +1,24 @@
+---
+title: ainbow
+crosslinks:
+- autotldr
+- Drama
+- RightwingLGBT
+- The_Donald
+- asktransgender
+- xkcd
+- LGBTQnews
+- Anarchism
+- politics
+- ShitRedditSays
+- AdviceAnimals
+- news
+- AsABlackMan
+- atheism
+- GenderCynical
+- humor
+- GenderCritical
+- worldnews
+- forwardsfromgrandma
+- EnoughTrumpSpam
+---

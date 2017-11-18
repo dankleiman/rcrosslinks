@@ -1,0 +1,24 @@
+---
+title: assassinscreed
+crosslinks:
+- AskHistorians
+- Gamingcirclejerk
+- Games
+- nier
+- assassinscirclejerk
+- gaming
+- PS4
+- UnexpectedHamilton
+- xkcd
+- thatHappened
+- onomatopoeiaporn
+- grandorder
+- witcher
+- qwy0zp
+- asktransgender
+- ProCSS
+- assass
+- Serendipity
+- DamnYouAutocorrect
+- horizon
+---

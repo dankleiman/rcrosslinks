@@ -1,0 +1,5 @@
+---
+title: SomeCountingStuff
+crosslinks:
+- counting
+---

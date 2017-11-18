@@ -1,0 +1,5 @@
+---
+title: SOSgame
+crosslinks:
+- pcgaming
+---

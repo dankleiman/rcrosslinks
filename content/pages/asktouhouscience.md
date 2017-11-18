@@ -1,0 +1,5 @@
+---
+title: asktouhouscience
+crosslinks:
+- touhou
+---

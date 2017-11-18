@@ -1,0 +1,24 @@
+---
+title: breakingbad
+crosslinks:
+- livven
+- Turkey
+- FanTheories
+- pics
+- gameofthrones
+- utopiatv
+- WaltJr
+- underpopular
+- Showerthoughts
+- television
+- Drugs
+- movies
+- todayilearned
+- INEEEEDIT
+- Austria
+- Shitty_Car_Mods
+- GreenLattice
+- TheOA
+- explainlikeimfive
+- titlegore
+---

@@ -1,0 +1,24 @@
+---
+title: wholesomegifs
+crosslinks:
+- livven
+- gifs
+- videos
+- funny
+- HumansBeingBros
+- wholesomememes
+- aww
+- MadeMeSmile
+- interestingasfuck
+- niceguys
+- Pigifs
+- Frisson
+- likeus
+- NatureIsFuckingLit
+- ireland
+- reallifedoodles
+- militaryhomecoming
+- AskMen
+- TheWayWeWere
+- FIFA
+---

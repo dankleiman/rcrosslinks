@@ -1,0 +1,5 @@
+---
+title: ariticialintelligence
+crosslinks:
+- programming
+---

@@ -1,0 +1,5 @@
+---
+title: ilstu
+crosslinks:
+- BloomingtonNormal
+---

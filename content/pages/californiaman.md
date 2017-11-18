@@ -1,0 +1,5 @@
+---
+title: californiaman
+crosslinks:
+- NewsOfTheStupid
+---

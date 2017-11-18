@@ -1,0 +1,5 @@
+---
+title: Instapot
+crosslinks:
+- Cooking
+---

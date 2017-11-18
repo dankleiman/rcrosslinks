@@ -1,0 +1,5 @@
+---
+title: craftergame
+crosslinks:
+- DawnOfCrafting
+---

@@ -1,0 +1,24 @@
+---
+title: starwarsspeculation
+crosslinks:
+- StarWarsLeaks
+- StarWars
+- StarWarsReference
+- DarthJarJar
+- StarWarsTheories
+- MawInstallation
+- movies
+- EmpireDidNothingWrong
+- StarWarsAnalysis
+- autotldr
+- SpaceBearLeak
+- FanTheories
+- PrequelMemes
+- StarWarsEU
+- '2013'
+- starwarscanon
+- NoStupidQuestions
+- starwarscomics
+- DC_Cinematic
+- ProCSS
+---

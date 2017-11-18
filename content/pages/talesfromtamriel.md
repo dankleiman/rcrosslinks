@@ -1,0 +1,5 @@
+---
+title: talesfromtamriel
+crosslinks:
+- SkyrimTavern
+---

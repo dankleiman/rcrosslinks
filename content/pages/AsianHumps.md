@@ -1,0 +1,5 @@
+---
+title: AsianHumps
+crosslinks:
+- junamaki
+---

@@ -1,0 +1,24 @@
+---
+title: giantbomb
+crosslinks:
+- IAmA
+- Games
+- CoolGamesInc
+- livven
+- place
+- OutOfTheLoop
+- PUBATTLEGROUNDS
+- BlackPeopleTwitter
+- Eve
+- BoJackHorseman
+- gamecollecting
+- uBlockOrigin
+- ClothMap
+- DiWHY
+- leagueoflegends
+- Incel
+- ScottishPeopleTwitter
+- Purdue
+- Romania
+- skyrimmods
+---

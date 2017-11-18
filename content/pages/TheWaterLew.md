@@ -1,0 +1,24 @@
+---
+title: TheWaterLew
+crosslinks:
+- dankmemes
+- livven
+- surrealmemes
+- DeepFriedMemes
+- ERRC
+- SUBREDDITNAME
+- FuckTammy
+- LateStageCapitalism
+- gaming
+- GarlicBreadMemes
+- AutoDetailing
+- ChargeYourPhone
+- starterpacks
+- TrueSTL
+- pocketsand
+- copypasta
+- funny
+- TwoXChromosomes
+- HistoryMemes
+- KenM
+---

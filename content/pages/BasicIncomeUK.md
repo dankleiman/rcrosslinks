@@ -1,0 +1,5 @@
+---
+title: BasicIncomeUK
+crosslinks:
+- autotldr
+---

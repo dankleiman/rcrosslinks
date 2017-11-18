@@ -1,0 +1,5 @@
+---
+title: darksidesmokingfetish
+crosslinks:
+- SmokingFetishStories
+---

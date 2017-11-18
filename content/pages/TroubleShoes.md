@@ -1,0 +1,5 @@
+---
+title: TroubleShoes
+crosslinks:
+- mylittlepony
+---

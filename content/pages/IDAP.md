@@ -1,0 +1,24 @@
+---
+title: IDAP
+crosslinks:
+- livven
+- redditgetsdrawn
+- Suralya
+- Art
+- outrun
+- mildlyvagina
+- DnD
+- TROLLXCOMMUNISM
+- BrasilOnReddit
+- OhNoMomWentWild
+- streetwear
+- WritingPrompts
+- SpecArt
+- nosleep
+- pics
+- darkestdungeon
+- aww
+- painting
+- VaporwaveAesthetics
+- ArtFundamentals
+---

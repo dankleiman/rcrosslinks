@@ -1,0 +1,5 @@
+---
+title: Invincible
+crosslinks:
+- SAGAcomic
+---

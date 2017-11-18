@@ -1,0 +1,24 @@
+---
+title: Amd
+crosslinks:
+- nvidia
+- pcmasterrace
+- hardware
+- intel
+- AMDHelp
+- AyyMD
+- autotldr
+- AMDRadeon
+- GAAB350
+- pcgaming
+- ultrawidemasterrace
+- radeon
+- AMD_Stock
+- VFIO
+- overclocking
+- EtherMining
+- hardwareswap
+- 600x450
+- PUBATTLEGROUNDS
+- livven
+---

@@ -1,0 +1,5 @@
+---
+title: mylatintattoo
+crosslinks:
+- latin
+---

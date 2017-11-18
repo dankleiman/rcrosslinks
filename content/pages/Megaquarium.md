@@ -1,0 +1,5 @@
+---
+title: Megaquarium
+crosslinks:
+- tycoon
+---

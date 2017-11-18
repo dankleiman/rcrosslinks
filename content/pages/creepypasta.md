@@ -1,0 +1,24 @@
+---
+title: creepypasta
+crosslinks:
+- nosleep
+- shortscarystories
+- Thetruthishere
+- Narratemystory
+- DrCreepensVault
+- copypasta
+- SMC2
+- AskReddit
+- learntofly
+- wtfdidijustread
+- droptoprocket
+- DeepFriedMemes
+- RBI
+- threekings
+- NicoWonderdust
+- shortscifistories
+- DoverHawk
+- noslep
+- SCP
+- nosleepfinder
+---

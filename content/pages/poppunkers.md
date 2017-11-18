@@ -1,0 +1,24 @@
+---
+title: poppunkers
+crosslinks:
+- Emo
+- PostHardcore
+- Metalcore
+- Punk_Rock
+- Blink182
+- Easycore
+- ADTR
+- modnews
+- Music
+- zeropointmodule
+- popheads
+- mathrock
+- ProCSS
+- lewronggeneration
+- Bandnames
+- indieheads
+- melodichardcore
+- neckdeep
+- Mccafferty
+- Pop_Rock
+---

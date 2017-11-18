@@ -1,0 +1,24 @@
+---
+title: AutoDetailing
+crosslinks:
+- AutoDetailingDeals
+- TheDetailDirectory
+- plastidip
+- livven
+- Miata
+- MechanicAdvice
+- DetailSwap
+- shittyHDR
+- shield
+- news
+- pics
+- videos
+- Volkswagen
+- Shitty_Car_Mods
+- projectcar
+- WTF
+- JenniferLawrence
+- Cartalk
+- nononono
+- Datsun
+---

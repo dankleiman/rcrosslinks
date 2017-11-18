@@ -1,0 +1,5 @@
+---
+title: terrifyingstatistics
+crosslinks:
+- BasicIncome
+---

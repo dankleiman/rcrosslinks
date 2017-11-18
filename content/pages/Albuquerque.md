@@ -1,0 +1,24 @@
+---
+title: Albuquerque
+crosslinks:
+- AskReddit
+- livven
+- IAmA
+- hardwareswap
+- 505Nerds
+- FilmIndustryABQ
+- Roadcam
+- ColoradoRockies
+- homelesss
+- XVcrosstrek
+- phoenix
+- askscience
+- xkcd
+- funny
+- Tucson
+- CrappyDesign
+- ActLikeYouBelong
+- NewMexico
+- place
+- Political_Revolution
+---

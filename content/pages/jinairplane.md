@@ -1,0 +1,5 @@
+---
+title: jinairplane
+crosslinks:
+- leagueoflegends
+---

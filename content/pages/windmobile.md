@@ -1,0 +1,5 @@
+---
+title: windmobile
+crosslinks:
+- wind
+---

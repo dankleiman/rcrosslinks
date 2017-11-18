@@ -1,0 +1,5 @@
+---
+title: NintendoSwoof
+crosslinks:
+- NintendoSwitch
+---

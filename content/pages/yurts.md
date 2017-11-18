@@ -1,0 +1,5 @@
+---
+title: yurts
+crosslinks:
+- homestead
+---

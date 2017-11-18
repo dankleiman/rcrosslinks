@@ -1,0 +1,21 @@
+---
+title: badroommates
+crosslinks:
+- TalesFromYourServer
+- JUSTNOFAMILY
+- AskReddit
+- incest
+- nosleep
+- confession
+- Aquariums
+- roommates
+- Advice
+- Frugal
+- TheRealMisandry
+- Random_Acts_Of_Pizza
+- explainlikeimfive
+- fatpeoplestories
+- lonely
+- personalfinance
+- LifeProTips
+---

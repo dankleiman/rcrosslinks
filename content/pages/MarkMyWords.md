@@ -1,0 +1,24 @@
+---
+title: MarkMyWords
+crosslinks:
+- calledit
+- The_Donald
+- Futurology
+- AskHistorians
+- CasualConversation
+- conspiracy
+- tifu
+- StarWars
+- Screenwriting
+- science
+- gifs
+- TrumpInvestigation
+- announcements
+- altright
+- REEEEEEEEEE
+- KotakuInAction
+- Incels
+- ShitEvilModsSay
+- halflife
+- OutOfTheLoop
+---

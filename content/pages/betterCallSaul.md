@@ -1,0 +1,24 @@
+---
+title: betterCallSaul
+crosslinks:
+- livven
+- autotldr
+- IAmA
+- FuckChuck
+- SuicideWatch
+- ScreenshotPerfection
+- AskReddit
+- undelete
+- TheWire
+- modnews
+- ErnieDidNothingWrong
+- ProCSS
+- OutOfTheLoop
+- explainlikeimfive
+- reactiongifs
+- hoolsrools
+- gifs
+- moviescirclejerk
+- Showerthoughts
+- rickandmorty
+---

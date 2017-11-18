@@ -1,0 +1,5 @@
+---
+title: Tinko
+crosslinks:
+- HistoricalWorldPowers
+---

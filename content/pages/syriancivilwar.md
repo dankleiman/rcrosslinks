@@ -1,0 +1,24 @@
+---
+title: syriancivilwar
+crosslinks:
+- kurdistan
+- rojava
+- worldnews
+- Turkey
+- The_Donald
+- conspiracy
+- geopolitics
+- pa
+- AskHistorians
+- europe
+- syrianconflict
+- JihadInFocus
+- RussiaDenies
+- explainlikeimfive
+- MapPorn
+- politics
+- islam
+- AfghanConflict
+- Sino
+- armenia
+---

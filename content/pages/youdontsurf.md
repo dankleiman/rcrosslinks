@@ -1,0 +1,24 @@
+---
+title: youdontsurf
+crosslinks:
+- livven
+- wtfstockphotos
+- de
+- ComedyCemetery
+- Jokes
+- funny
+- xkcd
+- gifs
+- me_irl
+- tifu
+- NSFW411
+- Jeep
+- 2meirl4meirl
+- emojipasta
+- VargasOrNot
+- The_Donald
+- DankMemeArchive
+- rule34
+- 60FpsGifs
+- ShittyLifeProTips
+---

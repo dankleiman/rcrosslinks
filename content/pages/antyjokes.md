@@ -1,0 +1,5 @@
+---
+title: antyjokes
+crosslinks:
+- antjokes
+---

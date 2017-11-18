@@ -1,0 +1,5 @@
+---
+title: KriAnekdota
+crosslinks:
+- greececirclejerk
+---

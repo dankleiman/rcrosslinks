@@ -1,0 +1,5 @@
+---
+title: bluepxls
+crosslinks:
+- TheBlueCorner
+---

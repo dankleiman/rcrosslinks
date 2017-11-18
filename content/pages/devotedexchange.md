@@ -1,0 +1,5 @@
+---
+title: devotedexchange
+crosslinks:
+- Devoted
+---

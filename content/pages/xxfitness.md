@@ -1,0 +1,24 @@
+---
+title: xxfitness
+crosslinks:
+- Fitness
+- gainit
+- StrongCurves
+- ABraThatFits
+- loseit
+- 1200isplenty
+- running
+- nSuns
+- fatlogic
+- weightroom
+- progresspics
+- powerlifting
+- GripTraining
+- C25K
+- keto
+- EOOD
+- strongcurves
+- AdvancedFitness
+- 1500isplenty
+- homegym
+---

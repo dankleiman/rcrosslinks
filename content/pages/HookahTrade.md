@@ -1,0 +1,5 @@
+---
+title: HookahTrade
+crosslinks:
+- hookah
+---

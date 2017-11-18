@@ -1,0 +1,5 @@
+---
+title: SilRL
+crosslinks:
+- roguelikes
+---

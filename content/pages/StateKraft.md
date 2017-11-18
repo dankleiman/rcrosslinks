@@ -1,0 +1,5 @@
+---
+title: StateKraft
+crosslinks:
+- funny
+---

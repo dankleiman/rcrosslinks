@@ -1,0 +1,24 @@
+---
+title: philosophy
+crosslinks:
+- askphilosophy
+- AskPhilosophyFAQ
+- AskHistorians
+- askscience
+- Stoicism
+- AMA
+- science
+- vegan
+- Psychonaut
+- The_Donald
+- NewSlangTerms
+- news
+- samharris
+- antinatalism
+- holofractal
+- IAmA
+- religion
+- explainlikeimfive
+- BasicIncome
+- SuicideWatch
+---

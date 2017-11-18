@@ -1,0 +1,5 @@
+---
+title: ELOEStrategy
+crosslinks:
+- EvilLeagueOfEvil
+---

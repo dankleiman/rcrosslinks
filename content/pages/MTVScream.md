@@ -1,0 +1,5 @@
+---
+title: MTVScream
+crosslinks:
+- horror
+---

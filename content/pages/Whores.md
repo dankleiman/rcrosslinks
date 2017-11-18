@@ -1,0 +1,5 @@
+---
+title: Whores
+crosslinks:
+- Sexsells
+---

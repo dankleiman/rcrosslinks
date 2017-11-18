@@ -1,0 +1,24 @@
+---
+title: PuertoRico
+crosslinks:
+- PuertoRicoInformation
+- autotldr
+- PuertoRicoCharity
+- PuertoRicoVolunteers
+- PlaceNL
+- place
+- WorldDailyTops
+- argentina
+- news
+- PuertoRicoLP
+- Hawaii
+- BeautyQueens
+- Dominican
+- PuertoRicoTravel
+- livven
+- AHMAN
+- AskReddit
+- MURICA
+- powerrangers
+- austrian_economics
+---

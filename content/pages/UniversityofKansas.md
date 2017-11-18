@@ -1,0 +1,5 @@
+---
+title: UniversityofKansas
+crosslinks:
+- IdiotsFightingThings
+---

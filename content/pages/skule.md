@@ -1,0 +1,5 @@
+---
+title: skule
+crosslinks:
+- UofT
+---

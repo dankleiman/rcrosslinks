@@ -1,0 +1,5 @@
+---
+title: Socionics
+crosslinks:
+- JungianTypology
+---

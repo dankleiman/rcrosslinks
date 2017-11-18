@@ -1,0 +1,24 @@
+---
+title: EternalCardGame
+crosslinks:
+- EternallyJerking
+- hearthstone
+- eternal
+- OverwatchUniversity
+- xkcd
+- magicTCG
+- SolForge
+- pathofexile
+- Ooer
+- Shadowverse
+- nvidia
+- redditrequest
+- hextcg
+- Pareidolia
+- civ
+- VoHiYo
+- FFRecordKeeper
+- EDH
+- pcmasterrace
+- elderscrollslegends
+---

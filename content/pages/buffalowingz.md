@@ -1,0 +1,5 @@
+---
+title: buffalowingz
+crosslinks:
+- Chickenwingz
+---

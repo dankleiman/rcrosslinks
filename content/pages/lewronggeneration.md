@@ -1,0 +1,24 @@
+---
+title: lewronggeneration
+crosslinks:
+- xkcd
+- AskReddit
+- The_Donald
+- forwardsfromgrandma
+- CringeAnarchy
+- iamverysmart
+- funny
+- lerightgeneration
+- nocontext
+- killthosewhodisagree
+- gatekeeping
+- KotakuInAction
+- ImGoingToHellForThis
+- ShitTheFalseSay
+- BlackPeopleTwitter
+- '2013'
+- THE_PACK
+- japancirclejerk
+- OutOfTheLoop
+- f7u12
+---

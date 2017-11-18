@@ -1,0 +1,5 @@
+---
+title: geldzaken
+crosslinks:
+- personalfinance
+---

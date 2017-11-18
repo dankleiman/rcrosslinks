@@ -1,0 +1,23 @@
+---
+title: fitness30plus
+crosslinks:
+- Fitness
+- progresspics
+- loseit
+- gzcl
+- weightroom
+- fasting
+- Rowing
+- nutrition
+- metric_units
+- Drama
+- videos
+- fitnesscirclejerk
+- Testosterone
+- running
+- AthletePerformance
+- C25K
+- intermittentfasting
+- gainit
+- GripTraining
+---

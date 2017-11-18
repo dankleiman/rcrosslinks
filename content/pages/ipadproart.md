@@ -1,0 +1,5 @@
+---
+title: ipadproart
+crosslinks:
+- ipad
+---

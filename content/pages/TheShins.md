@@ -1,0 +1,5 @@
+---
+title: TheShins
+crosslinks:
+- Serendipity
+---

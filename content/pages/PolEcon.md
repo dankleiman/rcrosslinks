@@ -1,0 +1,5 @@
+---
+title: PolEcon
+crosslinks:
+- autotldr
+---

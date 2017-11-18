@@ -1,0 +1,5 @@
+---
+title: Occultism
+crosslinks:
+- occult
+---

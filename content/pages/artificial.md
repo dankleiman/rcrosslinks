@@ -1,0 +1,24 @@
+---
+title: artificial
+crosslinks:
+- autotldr
+- MachineLearning
+- agi
+- xkcd
+- LanguageTechnology
+- learnprogramming
+- AutoNewspaper
+- askscience
+- startups
+- BeAmazed
+- edmproduction
+- Automate
+- NoStupidQuestions
+- explainlikeimfive
+- vwphdu
+- iotml
+- VietNam
+- stonerphilosophy
+- google
+- personalfinance
+---

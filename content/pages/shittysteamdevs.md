@@ -1,0 +1,5 @@
+---
+title: shittysteamdevs
+crosslinks:
+- JimSterling
+---

@@ -1,0 +1,5 @@
+---
+title: soul
+crosslinks:
+- Music
+---

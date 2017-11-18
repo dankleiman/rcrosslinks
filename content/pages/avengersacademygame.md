@@ -1,0 +1,24 @@
+---
+title: avengersacademygame
+crosslinks:
+- FlashTV
+- Marvel
+- place
+- UnexpectedHamilton
+- unexpectedhogwarts
+- outrun
+- INJUSTICE
+- avengersacademyios
+- MAA
+- livven
+- ship
+- flash
+- FuturamaWOTgame
+- aww
+- todayilearned
+- SampleSize
+- future_fight
+- ShitPoliticsSays
+- LoveNikki
+- marvelstudios
+---

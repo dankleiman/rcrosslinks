@@ -1,0 +1,24 @@
+---
+title: BulletBarry
+crosslinks:
+- LinkListingsForLists
+- pcmasterrace
+- PCMasterRace
+- Amd
+- lowspecgamer
+- thatHappened
+- emulators
+- autotldr
+- Steam
+- emulation
+- consoles
+- Dell
+- Pay_Respects
+- The_Donald
+- ayymd
+- pcgaming
+- Jokes
+- livven
+- gaming
+- AyyMD
+---

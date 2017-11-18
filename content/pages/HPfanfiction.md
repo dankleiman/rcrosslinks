@@ -1,0 +1,24 @@
+---
+title: HPfanfiction
+crosslinks:
+- harrypotter
+- hppetpeeves
+- HarryandGinny
+- HPharmony
+- HPSlashFic
+- WritingPrompts
+- FanFiction
+- AskReddit
+- rational
+- HPMOR
+- WormFanfic
+- xkcd
+- BestFanficsofAll
+- jesuschristreddit
+- raerth
+- HP_Casting
+- askscience
+- PottermoreWritings
+- eveonline
+- NarutoFanfiction
+---

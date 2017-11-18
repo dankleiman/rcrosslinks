@@ -1,0 +1,5 @@
+---
+title: Barbelith
+crosslinks:
+- longform
+---

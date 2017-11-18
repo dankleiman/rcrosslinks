@@ -1,0 +1,24 @@
+---
+title: armenia
+crosslinks:
+- europe
+- autotldr
+- Turkey
+- Kavkaz
+- kurdistan
+- Sakartvelo
+- MapPorn
+- place
+- worldnews
+- pics
+- Israel
+- Artsakh
+- WorldDailyTops
+- pakistan
+- yerevan
+- Assyria
+- politics
+- IAmA
+- Denmark
+- todayilearned
+---

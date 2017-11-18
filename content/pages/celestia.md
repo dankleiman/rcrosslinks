@@ -1,0 +1,5 @@
+---
+title: celestia
+crosslinks:
+- mylittlepony
+---

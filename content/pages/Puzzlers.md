@@ -1,0 +1,5 @@
+---
+title: Puzzlers
+crosslinks:
+- esports
+---

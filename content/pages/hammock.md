@@ -1,0 +1,5 @@
+---
+title: hammock
+crosslinks:
+- Hammocks
+---

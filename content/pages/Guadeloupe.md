@@ -1,0 +1,5 @@
+---
+title: Guadeloupe
+crosslinks:
+- FrenchWestIndies
+---

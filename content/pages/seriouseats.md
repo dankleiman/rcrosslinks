@@ -1,0 +1,24 @@
+---
+title: seriouseats
+crosslinks:
+- AskCulinary
+- sousvide
+- Pizza
+- livven
+- Charcuterie
+- xkcd
+- linguistics
+- Breadit
+- castiron
+- PressureCooking
+- macsetups
+- italy
+- BBQ
+- daddit
+- islam
+- mexicanfood
+- KarmaCourt
+- spicy
+- excgarated
+- chefknives
+---

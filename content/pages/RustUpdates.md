@@ -1,0 +1,5 @@
+---
+title: RustUpdates
+crosslinks:
+- playrust
+---

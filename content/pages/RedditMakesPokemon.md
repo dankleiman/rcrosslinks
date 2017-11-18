@@ -1,0 +1,5 @@
+---
+title: RedditMakesPokemon
+crosslinks:
+- pokemon
+---

@@ -1,0 +1,5 @@
+---
+title: MidEastRegionalWar
+crosslinks:
+- autotldr
+---

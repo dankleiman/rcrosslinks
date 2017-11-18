@@ -1,0 +1,24 @@
+---
+title: spnati
+crosslinks:
+- rule34
+- NSFWgaming
+- yandere_simulator
+- lewdgames
+- RWBYNSFW
+- immortalangelmous
+- BattleBornRule34
+- TrueSPH
+- pantsu
+- AkameGaKILL
+- SonicPorn
+- funny
+- Hot_Milf
+- grisaia
+- stevenuniverse
+- OopsDidntMeanTo
+- touhou
+- ofcoursethatsathing
+- Clannad
+- PlanetDolan
+---

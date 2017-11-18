@@ -1,0 +1,5 @@
+---
+title: TripCaves
+crosslinks:
+- LSD
+---

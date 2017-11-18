@@ -1,0 +1,24 @@
+---
+title: SovietWomble
+crosslinks:
+- livven
+- AskReddit
+- FindAUnit
+- WTF
+- modnews
+- HighQualityGifs
+- gaming
+- IAmA
+- videos
+- dirtgame
+- FuckKnows
+- CyanidePlaysGames
+- atheism
+- LivestreamFail
+- EBEs
+- ProCSS
+- Twitch
+- joinsquad
+- oneliners
+- Overwatch
+---

@@ -1,0 +1,24 @@
+---
+title: bindingofisaac
+crosslinks:
+- livven
+- themoddingofisaac
+- homestuck
+- FUCKBLOAT
+- northernlion
+- nocontext
+- spsa
+- VoidEnterprises
+- TBoIRule34
+- xkcd
+- funny
+- Steam
+- SuicideWatch
+- TheSeedingOfIsaac
+- tf2
+- CringeAnarchy
+- excgarated
+- gamedetectives
+- AskReddit
+- gaming
+---

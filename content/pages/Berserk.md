@@ -1,0 +1,24 @@
+---
+title: Berserk
+crosslinks:
+- anime
+- darksouls
+- Pixiv
+- asoiaf
+- elfdimensionstyle
+- Manga_Collection
+- Music
+- forhonor
+- awwtf
+- Warframe
+- all
+- snes
+- BerserkColor
+- programming
+- OnePunchMan
+- VinlandSaga
+- HighQualityGifs
+- HalfLife3
+- gaming
+- manga
+---

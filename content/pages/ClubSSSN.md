@@ -1,0 +1,5 @@
+---
+title: ClubSSSN
+crosslinks:
+- RWBY
+---

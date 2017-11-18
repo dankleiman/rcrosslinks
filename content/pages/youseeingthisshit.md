@@ -1,0 +1,24 @@
+---
+title: youseeingthisshit
+crosslinks:
+- livven
+- gifs
+- funny
+- aww
+- xkcd
+- StoppedWorking
+- AskReddit
+- AskHistorians
+- AnimalsBeingJerks
+- rarepuppers
+- hmmm
+- BetterEveryLoop
+- Thisismylifemeow
+- DiWHY
+- TwoXChromosomes
+- thisismylifenow
+- nosleep
+- OutOfTheLoop
+- Roadcam
+- videos
+---

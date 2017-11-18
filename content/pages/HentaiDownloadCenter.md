@@ -1,0 +1,5 @@
+---
+title: HentaiDownloadCenter
+crosslinks:
+- JavDownloadCenter
+---

@@ -1,0 +1,5 @@
+---
+title: AdvancedProgramming
+crosslinks:
+- haskell
+---

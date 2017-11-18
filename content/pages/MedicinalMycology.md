@@ -1,0 +1,5 @@
+---
+title: MedicinalMycology
+crosslinks:
+- science
+---

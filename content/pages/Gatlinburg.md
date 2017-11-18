@@ -1,0 +1,5 @@
+---
+title: Gatlinburg
+crosslinks:
+- LostAndFound
+---

@@ -1,0 +1,5 @@
+---
+title: OnePercentLifeProTips
+crosslinks:
+- Jokes
+---

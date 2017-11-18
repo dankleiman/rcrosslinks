@@ -1,0 +1,24 @@
+---
+title: DebateAltRight
+crosslinks:
+- Fuckthealtright
+- hapas
+- The_Donald
+- altright
+- AskHistorians
+- PussyPass
+- changemyview
+- HonoraryAryan
+- DarkEnlightenment
+- worstof
+- Drama
+- milliondollarextreme
+- europeannationalism
+- offthechopper
+- AltRightChristian
+- EasternSunRising
+- REEEEEEEEEE
+- worldnews
+- MGTOW
+- FULLCOMMUNISM
+---

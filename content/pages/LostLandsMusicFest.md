@@ -1,0 +1,5 @@
+---
+title: LostLandsMusicFest
+crosslinks:
+- ElectricForest
+---

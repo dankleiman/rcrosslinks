@@ -1,0 +1,5 @@
+---
+title: Ghoststories
+crosslinks:
+- shamelessplug
+---

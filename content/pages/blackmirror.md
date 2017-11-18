@@ -1,0 +1,24 @@
+---
+title: blackmirror
+crosslinks:
+- autotldr
+- livven
+- IAmA
+- shortscarystories
+- BrasilOnReddit
+- science
+- television
+- FanTheories
+- gaming
+- AskHistorians
+- wholesomememes
+- startrek
+- oculus
+- xkcd
+- i_irl
+- Scams
+- AskReddit
+- Glitch_in_the_Matrix
+- BadEverything
+- The_Dennis
+---

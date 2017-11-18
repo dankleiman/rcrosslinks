@@ -1,0 +1,5 @@
+---
+title: FossilHunting
+crosslinks:
+- fossilid
+---

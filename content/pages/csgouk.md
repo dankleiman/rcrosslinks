@@ -1,0 +1,5 @@
+---
+title: csgouk
+crosslinks:
+- counterstrike
+---

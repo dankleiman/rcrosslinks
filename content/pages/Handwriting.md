@@ -1,0 +1,24 @@
+---
+title: Handwriting
+crosslinks:
+- fountainpens
+- PenmanshipPorn
+- livven
+- Calligraphy
+- penmanshipporn
+- shorthand
+- translator
+- AskReddit
+- CrappyDesign
+- osugame
+- FunnyandSad
+- interject
+- funny
+- ArtFundamentals
+- todayilearned
+- DID
+- Blep
+- Fountainpencirclejerk
+- mildlywtf
+- neography
+---

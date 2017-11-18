@@ -1,0 +1,24 @@
+---
+title: hungary
+crosslinks:
+- europe
+- autotldr
+- Romania
+- MapPorn
+- hungarian
+- place
+- starterpacks
+- portugal
+- xkcd
+- travel
+- europeanunion
+- The_Donald
+- politics
+- kurdistan
+- '2'
+- copypasta
+- Denmark
+- im14andthisisdeep
+- itsaunixsystem
+- vim
+---

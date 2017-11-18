@@ -1,0 +1,5 @@
+---
+title: Arminia
+crosslinks:
+- soccer
+---

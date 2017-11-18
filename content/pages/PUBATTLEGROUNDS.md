@@ -1,0 +1,24 @@
+---
+title: PUBATTLEGROUNDS
+crosslinks:
+- livven
+- PUBG
+- pcmasterrace
+- LivestreamFail
+- gaming
+- kotk
+- pcgaming
+- Overwatch
+- Battlegrounds
+- me_irl
+- xkcd
+- nvidia
+- dayz
+- PUBGLFG
+- leagueoflegends
+- DotA2
+- Games
+- videos
+- playrust
+- ultrawidemasterrace
+---

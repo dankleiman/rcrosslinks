@@ -1,0 +1,24 @@
+---
+title: SocialistRA
+crosslinks:
+- guns
+- gundeals
+- ar15
+- autotldr
+- Anarchy101
+- syriancivilwar
+- canadaguns
+- LateStageCapitalism
+- Anarchism
+- redpreppers
+- The_Donald
+- progun
+- Socialism_101
+- AskReddit
+- Firearms
+- livven
+- communism
+- Agorism
+- CCW
+- Chilis45thAndLamar
+---

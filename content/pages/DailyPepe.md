@@ -1,0 +1,5 @@
+---
+title: DailyPepe
+crosslinks:
+- REEEEEEEEEE
+---

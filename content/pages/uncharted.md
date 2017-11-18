@@ -1,0 +1,21 @@
+---
+title: uncharted
+crosslinks:
+- unchartedmultiplayer
+- thelastofus
+- Gamingcirclejerk
+- PS4
+- livven
+- HistoryPorn
+- iamreallysmart
+- lewronggeneration
+- jakanddaxter
+- GreenLattice
+- GIVEAWAYSSTEAM
+- woahdude
+- naughtydog
+- horizon
+- KarmaConspiracy
+- OutOfTheLoop
+- autotldr
+---

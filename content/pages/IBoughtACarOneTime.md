@@ -1,0 +1,5 @@
+---
+title: IBoughtACarOneTime
+crosslinks:
+- askcarsales
+---

@@ -1,0 +1,5 @@
+---
+title: AkatsukinoYona
+crosslinks:
+- manga
+---

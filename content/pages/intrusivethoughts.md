@@ -1,0 +1,24 @@
+---
+title: intrusivethoughts
+crosslinks:
+- getdisciplined
+- AskReddit
+- MadeOfStyrofoam
+- offmychest
+- schizophrenia
+- Showerthoughts
+- solipsism
+- oopsdidntmeanto
+- TheseFuckingAccounts
+- DimensionalJumping
+- findareddit
+- FuckTammy
+- hmm
+- philosophy
+- evenwithcontext
+- todayilearned
+- WTF
+- whereshouldipostthis
+- justrolledintotheshop
+- theydidthefuckyou
+---

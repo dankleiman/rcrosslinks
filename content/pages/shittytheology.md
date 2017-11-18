@@ -1,0 +1,5 @@
+---
+title: shittytheology
+crosslinks:
+- shittyprogramming
+---

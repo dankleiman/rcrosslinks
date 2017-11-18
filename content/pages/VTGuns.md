@@ -1,0 +1,5 @@
+---
+title: VTGuns
+crosslinks:
+- vermont
+---

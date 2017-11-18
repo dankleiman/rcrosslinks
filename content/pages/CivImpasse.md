@@ -1,0 +1,5 @@
+---
+title: CivImpasse
+crosslinks:
+- civclassics
+---

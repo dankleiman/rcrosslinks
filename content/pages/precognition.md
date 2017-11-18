@@ -1,0 +1,5 @@
+---
+title: precognition
+crosslinks:
+- LucidDreaming
+---

@@ -1,0 +1,5 @@
+---
+title: ifeelmyself
+crosslinks:
+- nsfw
+---

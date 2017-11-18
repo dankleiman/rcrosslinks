@@ -1,0 +1,5 @@
+---
+title: ShittyFidgetSpinners
+crosslinks:
+- FidgetSpinners
+---

@@ -1,0 +1,24 @@
+---
+title: norge
+crosslinks:
+- DataspillereNorge
+- xkcd
+- sweden
+- livven
+- Denmark
+- IAmA
+- AskReddit
+- The_Donald
+- Venstresiden
+- samharris
+- ruspolitikk
+- askphilosophy
+- Norway
+- videos
+- MapPorn
+- pics
+- AskHistorians
+- AMAAggregator
+- worldnews
+- announcements
+---

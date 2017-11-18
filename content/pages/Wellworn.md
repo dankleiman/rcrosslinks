@@ -1,0 +1,24 @@
+---
+title: Wellworn
+crosslinks:
+- EDC
+- DesirePath
+- DesirePaths
+- retiredgif
+- flashlight
+- ComedyCemetery
+- mildlyinteresting
+- lego
+- MaliciousCompliance
+- HighQualityGifs
+- metric_units
+- kachow
+- hmm
+- FullScorpion
+- Killfor
+- castiron
+- KarmaCourt
+- streetwear
+- PurpleCoco
+- wicked_edge
+---

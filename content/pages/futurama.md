@@ -1,0 +1,24 @@
+---
+title: futurama
+crosslinks:
+- funny
+- AskReddit
+- pics
+- xkcd
+- autotldr
+- HailCorporate
+- IAmA
+- AMAAggregator
+- see
+- me_irl
+- FuturamaWOTgame
+- geek
+- gaming
+- AdviceAnimals
+- '2013'
+- AskFeminists
+- lego
+- AskHistorians
+- explainlikeimfive
+- movies
+---

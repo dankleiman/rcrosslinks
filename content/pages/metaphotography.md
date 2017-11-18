@@ -1,0 +1,5 @@
+---
+title: metaphotography
+crosslinks:
+- photography
+---

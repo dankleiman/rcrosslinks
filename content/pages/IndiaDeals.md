@@ -1,0 +1,5 @@
+---
+title: IndiaDeals
+crosslinks:
+- googleplaydeals
+---

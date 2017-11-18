@@ -1,0 +1,24 @@
+---
+title: milliondollarextreme
+crosslinks:
+- autotldr
+- hapas
+- IAmA
+- JoeRogan
+- politics
+- Fuckthealtright
+- videos
+- childfree
+- chicago
+- casualiama
+- COM98
+- BlackPeopleTwitter
+- funny
+- AsianMasculinity
+- pics
+- deathgrips
+- Negareddit
+- intothetunnel
+- AskReddit
+- aww
+---

@@ -1,0 +1,5 @@
+---
+title: OPTC
+crosslinks:
+- OnePieceTC
+---

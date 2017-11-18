@@ -1,0 +1,5 @@
+---
+title: Alot
+crosslinks:
+- Games
+---

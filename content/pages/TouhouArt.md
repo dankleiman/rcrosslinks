@@ -1,0 +1,5 @@
+---
+title: TouhouArt
+crosslinks:
+- Pixiv
+---

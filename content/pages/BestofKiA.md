@@ -1,0 +1,5 @@
+---
+title: BestofKiA
+crosslinks:
+- KotakuInAction
+---

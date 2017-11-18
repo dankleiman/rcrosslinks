@@ -1,0 +1,5 @@
+---
+title: solarpower
+crosslinks:
+- autotldr
+---

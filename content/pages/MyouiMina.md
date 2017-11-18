@@ -1,0 +1,5 @@
+---
+title: MyouiMina
+crosslinks:
+- livven
+---

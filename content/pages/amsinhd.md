@@ -1,0 +1,5 @@
+---
+title: amsinhd
+crosslinks:
+- cumsluts
+---

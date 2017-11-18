@@ -1,0 +1,5 @@
+---
+title: Diamondwolf
+crosslinks:
+- ClashRoyale
+---

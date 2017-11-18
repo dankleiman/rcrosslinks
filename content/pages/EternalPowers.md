@@ -1,0 +1,5 @@
+---
+title: EternalPowers
+crosslinks:
+- FULLCOMMUNISM
+---

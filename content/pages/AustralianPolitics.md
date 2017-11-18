@@ -1,0 +1,24 @@
+---
+title: AustralianPolitics
+crosslinks:
+- autotldr
+- australia
+- The_Donald
+- AusPol
+- circlejerkaustralia
+- sydney
+- climateskeptics
+- exmuslim
+- AusMemes
+- NeutralPolitics
+- science
+- LateStageCapitalism
+- AusFinance
+- houston
+- gunpolitics
+- auslaw
+- newzealand
+- IAmA
+- TradeIssues
+- CringeWorthy
+---

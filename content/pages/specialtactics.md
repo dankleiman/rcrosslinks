@@ -1,0 +1,5 @@
+---
+title: specialtactics
+crosslinks:
+- navyseals
+---

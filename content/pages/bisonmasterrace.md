@@ -1,0 +1,5 @@
+---
+title: bisonmasterrace
+crosslinks:
+- Serendipity
+---

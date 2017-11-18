@@ -1,0 +1,5 @@
+---
+title: Staunton
+crosslinks:
+- VirginiaPolitics
+---

@@ -1,0 +1,5 @@
+---
+title: KuznetsovThought
+crosslinks:
+- communism
+---

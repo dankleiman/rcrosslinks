@@ -1,0 +1,23 @@
+---
+title: badparking
+crosslinks:
+- livven
+- mazda
+- mildlyinteresting
+- JusticeServed
+- Shitty_Car_Mods
+- peopleofwalmart
+- copypasta
+- xkcd
+- Serendipity
+- gatekeeping
+- AskReddit
+- Blind
+- Dallas
+- pics
+- Maine
+- 4chan
+- KingstonOntario
+- hmmm
+- KarmaConspiracy
+---

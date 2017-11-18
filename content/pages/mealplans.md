@@ -1,0 +1,5 @@
+---
+title: mealplans
+crosslinks:
+- Frugal
+---

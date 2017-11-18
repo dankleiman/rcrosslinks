@@ -1,0 +1,5 @@
+---
+title: SmutBuddy
+crosslinks:
+- DrawMeNSFW
+---

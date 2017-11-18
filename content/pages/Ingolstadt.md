@@ -1,0 +1,5 @@
+---
+title: Ingolstadt
+crosslinks:
+- de
+---

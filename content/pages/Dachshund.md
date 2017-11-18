@@ -1,0 +1,24 @@
+---
+title: Dachshund
+crosslinks:
+- livven
+- aww
+- mlem
+- Blep
+- citrusdogs
+- Dachsund
+- dogpictures
+- sploot
+- crochet
+- OldManDog
+- me_irl
+- hammockcamping
+- whatintarnation
+- confusing_perspective
+- wholesomememes
+- toofers
+- BeforeNAfterAdoption
+- Roadcam
+- AnimalsBeingHilarious
+- Dogtraining
+---

@@ -1,0 +1,24 @@
+---
+title: vim
+crosslinks:
+- neovim
+- xkcd
+- unixporn
+- redditrequest
+- mechmarket
+- vimplugins
+- emacs
+- perl
+- waterfox
+- askscience
+- OutOfTheLoop
+- shittyprogramming
+- Windows10
+- netsec
+- T1rH17
+- commandline
+- thinkpad
+- linuxmint
+- vimcirclejerk
+- Clojure
+---

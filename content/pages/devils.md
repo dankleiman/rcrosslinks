@@ -1,0 +1,24 @@
+---
+title: devils
+crosslinks:
+- hockey
+- hockeyjerseys
+- NHLStreams
+- livven
+- TorontoMarlies
+- reddit_stream
+- rangers
+- ChurchOfLappin
+- '2013'
+- copypasta
+- ShotGlassBets
+- NHLHUT
+- SanJoseSharks
+- NHLstatheads
+- puckstreams
+- homegym
+- adamhenrique
+- collegehockey
+- NYGiants
+- ColoradoAvalanche
+---

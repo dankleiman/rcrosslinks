@@ -1,0 +1,24 @@
+---
+title: moderatepolitics
+crosslinks:
+- autotldr
+- politics
+- ShitAmericansSay
+- The_Donald
+- changemyview
+- TwoXChromosomes
+- NeutralPolitics
+- POTUSWatch
+- Physical_Removal
+- magnora7
+- Military
+- democrats
+- AskMods
+- moderate
+- ProgrammerHumor
+- poltics
+- socialism
+- modhelp
+- fo4
+- Conservative
+---

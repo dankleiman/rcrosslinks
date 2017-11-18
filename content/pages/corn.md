@@ -1,0 +1,5 @@
+---
+title: corn
+crosslinks:
+- SpanishCorn
+---

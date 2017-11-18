@@ -1,0 +1,5 @@
+---
+title: StarCitizenLanguages
+crosslinks:
+- starcitizen
+---

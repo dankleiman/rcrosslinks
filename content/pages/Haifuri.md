@@ -1,0 +1,5 @@
+---
+title: Haifuri
+crosslinks:
+- WorldOfWarships
+---

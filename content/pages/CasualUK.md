@@ -1,0 +1,24 @@
+---
+title: CasualUK
+crosslinks:
+- AskReddit
+- london
+- unitedkingdom
+- food
+- AskUK
+- funny
+- soccer
+- autotldr
+- livven
+- videos
+- WeWantPlates
+- MapPorn
+- europe
+- Fitness
+- pics
+- PS4
+- OutOfTheLoop
+- ireland
+- shittyfoodporn
+- cars
+---

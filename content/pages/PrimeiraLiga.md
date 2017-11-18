@@ -1,0 +1,24 @@
+---
+title: PrimeiraLiga
+crosslinks:
+- soccer
+- SportingCP
+- portugal
+- soccerstreams
+- livven
+- Hammers
+- KendrickLamar
+- vergonhaalheira
+- chadpc
+- AskReddit
+- The_Carvalho
+- psg
+- PORTUGALCARALHO
+- Eder
+- anime
+- vitoriasc
+- toomeirlformeirl
+- fcporto
+- gamingportugal
+- eu_nvr
+---

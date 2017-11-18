@@ -1,0 +1,5 @@
+---
+title: SoftwareInc
+crosslinks:
+- discworld
+---

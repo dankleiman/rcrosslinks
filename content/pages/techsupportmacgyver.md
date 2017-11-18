@@ -1,0 +1,24 @@
+---
+title: techsupportmacgyver
+crosslinks:
+- techsupportgore
+- techsupport
+- redneckengineering
+- Skookum
+- DiWHY
+- keming
+- HowToStartAFire
+- talesfromtechsupport
+- DataHoarder
+- BestOfReports
+- ThatPeelingFeeling
+- 3Dprinting
+- EtherMining
+- facepalm
+- technology
+- amateurradio
+- 18650masterrace
+- pcmasterrace
+- nexus5x
+- DiWHYNOT
+---

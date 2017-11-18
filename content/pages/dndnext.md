@@ -1,0 +1,24 @@
+---
+title: dndnext
+crosslinks:
+- DnD
+- UnearthedArcana
+- DnDBehindTheScreen
+- DnDGreentext
+- mattcolville
+- DMAcademy
+- criticalrole
+- 3d6
+- AdventurersLeague
+- xkcd
+- FantasyStoryteller
+- rpg
+- LetsRoll
+- monsteraday
+- characterdrawing
+- DnD5e
+- Pathfinder_RPG
+- lfg
+- DMDadJokes
+- unearthedarcana
+---

@@ -1,0 +1,5 @@
+---
+title: approvalvoting
+crosslinks:
+- EndFPTP
+---

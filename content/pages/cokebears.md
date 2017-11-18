@@ -1,0 +1,5 @@
+---
+title: cokebears
+crosslinks:
+- communism
+---

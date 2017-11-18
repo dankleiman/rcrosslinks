@@ -1,0 +1,21 @@
+---
+title: mcgill
+crosslinks:
+- montreal
+- WholesomeMcGill
+- place
+- yorku
+- ShitRedditSays
+- xkcd
+- Serendipity
+- DetroitRedWings
+- UofT
+- Concordia
+- dailyprogrammer
+- CLG
+- depressionregimens
+- tifu
+- DataHoarder
+- slavs_squatting
+- livven
+---

@@ -1,0 +1,5 @@
+---
+title: rcboats
+crosslinks:
+- radiocontrol
+---

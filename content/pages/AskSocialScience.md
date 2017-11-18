@@ -1,0 +1,24 @@
+---
+title: AskSocialScience
+crosslinks:
+- AskHistorians
+- AskEconomics
+- BadSocialScience
+- AskAnthropology
+- AskFeminists
+- explainlikeimfive
+- SocialDemocracy
+- KotakuInAction
+- europe
+- Economics
+- askphilosophy
+- australia
+- AskReddit
+- AdviceAnimals
+- IAmA
+- MapPorn
+- science
+- electronic_cigarette
+- introvert
+- NoStupidQuestions
+---

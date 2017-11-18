@@ -1,0 +1,5 @@
+---
+title: Barelylegal
+crosslinks:
+- HighResNSFW
+---

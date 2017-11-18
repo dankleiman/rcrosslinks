@@ -1,0 +1,5 @@
+---
+title: SingleParents
+crosslinks:
+- TwoXChromosomes
+---

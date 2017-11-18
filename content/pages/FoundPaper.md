@@ -1,0 +1,24 @@
+---
+title: FoundPaper
+crosslinks:
+- translator
+- WTF
+- legaladvice
+- keming
+- funny
+- LateStageCapitalism
+- PenmanshipGore
+- Austin
+- Drama
+- AskReddit
+- suspiciousquotes
+- UnexpectedLesMis
+- MonaLeslie
+- ThriftStoreHauls
+- rocksgonewild
+- CemeteryPorn
+- AccidentalWesAnderson
+- CemeteryPreservation
+- FountainPen
+- pics
+---

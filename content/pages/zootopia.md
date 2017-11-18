@@ -1,0 +1,24 @@
+---
+title: zootopia
+crosslinks:
+- Pixiv
+- livven
+- furry_irl
+- furry
+- xkcd
+- place
+- AskReddit
+- disney
+- surrealmemes
+- MovieDetails
+- funny
+- ArtFundamentals
+- getdisciplined
+- Jokes
+- BigBrother
+- HighQualityGifs
+- BoltTheSuperdog
+- EveryonesGayForNick
+- todayilearned
+- Frozen
+---

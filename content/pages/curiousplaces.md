@@ -1,0 +1,5 @@
+---
+title: curiousplaces
+crosslinks:
+- whatisthisthing
+---

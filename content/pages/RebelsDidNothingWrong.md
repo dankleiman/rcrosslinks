@@ -1,0 +1,5 @@
+---
+title: RebelsDidNothingWrong
+crosslinks:
+- EmpireDidNothingWrong
+---

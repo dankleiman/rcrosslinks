@@ -1,0 +1,5 @@
+---
+title: cyborgs
+crosslinks:
+- science
+---

@@ -1,0 +1,5 @@
+---
+title: lambotoken
+crosslinks:
+- ethtrader
+---

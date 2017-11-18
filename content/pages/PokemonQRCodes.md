@@ -1,0 +1,5 @@
+---
+title: PokemonQRCodes
+crosslinks:
+- SEGAGENESIS
+---

@@ -1,0 +1,5 @@
+---
+title: LockPickBazaar
+crosslinks:
+- lockpicking
+---

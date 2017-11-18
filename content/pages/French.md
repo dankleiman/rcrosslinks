@@ -1,0 +1,24 @@
+---
+title: French
+crosslinks:
+- france
+- languagelearning
+- rance
+- FrancaisCanadien
+- Lyon
+- AskReddit
+- EcouteCa
+- CajunFrench
+- autotldr
+- Showerthoughts
+- Enhancement
+- TESOL
+- rupaulsdragrace
+- LanguageExchange
+- musiquefrancaise
+- LesMemesFrancais
+- anglish
+- FrenchImmersion
+- QuestionsDeLangue
+- francophonie
+---

@@ -1,0 +1,5 @@
+---
+title: PurePwnage
+crosslinks:
+- commandandconquer
+---

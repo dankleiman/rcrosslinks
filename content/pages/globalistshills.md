@@ -1,0 +1,24 @@
+---
+title: globalistshills
+crosslinks:
+- Economics
+- AskEconomics
+- autotldr
+- The_Donald
+- PoliticalDiscussion
+- Trumpgret
+- ModelUSGov
+- Drama
+- communism
+- politics
+- rising
+- Lawfare
+- Christianity
+- NeutralPolitics
+- all
+- GoodEconomics
+- LeftWithoutEdge
+- metacanada
+- AdviceAnimals
+- cmhoc
+---

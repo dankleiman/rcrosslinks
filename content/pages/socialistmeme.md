@@ -1,0 +1,5 @@
+---
+title: socialistmeme
+crosslinks:
+- FULLCOMMUNISM
+---

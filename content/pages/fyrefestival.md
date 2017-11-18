@@ -1,0 +1,24 @@
+---
+title: fyrefestival
+crosslinks:
+- autotldr
+- Anarchy101
+- commonsense
+- mallninjashit
+- FULLCOMMUNISM
+- unexpectedHIMYM
+- Gamingcirclejerk
+- simpsonsdidit
+- lostgeneration
+- todayilearned
+- The_Bogdanoff
+- livven
+- shittykickstarters
+- funny
+- meth
+- legal
+- Planetside
+- ProgrammingLanguages
+- gameofthrones
+- MaddenUltimateTeam
+---

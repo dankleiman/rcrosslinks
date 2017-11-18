@@ -1,0 +1,24 @@
+---
+title: NoShitSherlock
+crosslinks:
+- autotldr
+- ShitAmericansSay
+- Conservative
+- economy
+- pol
+- news
+- shitcomment
+- KKKrying
+- todayilearned
+- MensRights
+- nottheonion
+- worldnews
+- science
+- IdiotsNearlyDying
+- childfree
+- skeptic
+- OutOfTheLoop
+- unitedkingdom
+- shittykickstarters
+- Catholic
+---

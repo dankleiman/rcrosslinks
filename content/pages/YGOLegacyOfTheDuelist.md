@@ -1,0 +1,5 @@
+---
+title: YGOLegacyOfTheDuelist
+crosslinks:
+- OutOfTheLoop
+---

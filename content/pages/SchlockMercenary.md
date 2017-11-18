@@ -1,0 +1,5 @@
+---
+title: SchlockMercenary
+crosslinks:
+- PlanetMercenaryRPG
+---

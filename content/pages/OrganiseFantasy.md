@@ -1,0 +1,5 @@
+---
+title: OrganiseFantasy
+crosslinks:
+- Fantasy
+---

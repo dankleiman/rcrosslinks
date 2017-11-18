@@ -1,0 +1,5 @@
+---
+title: nofapartner
+crosslinks:
+- NoFap
+---

@@ -1,0 +1,5 @@
+---
+title: Naturalhair
+crosslinks:
+- curlyhair
+---

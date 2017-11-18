@@ -1,0 +1,24 @@
+---
+title: mapporncirclejerk
+crosslinks:
+- MapPorn
+- MapsWithoutNZ
+- ShittyMapPorn
+- DataWithoutGreenland
+- xkcd
+- vexillologycirclejerk
+- MEIOUandTaxes
+- ShitAmericansSay
+- greenland
+- BrasilOnReddit
+- Suomi
+- finlandConspiracy
+- mapswithNZ
+- me_irl
+- vexillology
+- FULLCOMMUNISM
+- furry_irl
+- Serendipity
+- cirkeltrek
+- paradoxplaza
+---

@@ -1,0 +1,5 @@
+---
+title: mspainttouhou
+crosslinks:
+- touhou
+---

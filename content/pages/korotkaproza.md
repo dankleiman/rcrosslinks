@@ -1,0 +1,5 @@
+---
+title: korotkaproza
+crosslinks:
+- shortstories
+---

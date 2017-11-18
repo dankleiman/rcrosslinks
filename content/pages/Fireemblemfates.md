@@ -1,0 +1,5 @@
+---
+title: Fireemblemfates
+crosslinks:
+- MyCastleFE
+---

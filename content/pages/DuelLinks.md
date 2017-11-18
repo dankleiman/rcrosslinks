@@ -1,0 +1,24 @@
+---
+title: DuelLinks
+crosslinks:
+- yugioh
+- livven
+- CompetitiveDL
+- pokemon
+- TeraOnline
+- ShinyPokemon
+- hearthstone
+- stunfisk
+- DBZDokkanBattle
+- shittyyugiohmemes
+- Yugioh101
+- iamsmart
+- FashionReps
+- NatureIsFuckingLit
+- mildlyinteresting
+- shitposts
+- googleplaydeals
+- FrenchWestIndies
+- DuelMasters
+- TalesofLink
+---

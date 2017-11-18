@@ -1,0 +1,5 @@
+---
+title: Boyinaband
+crosslinks:
+- personalfinance
+---

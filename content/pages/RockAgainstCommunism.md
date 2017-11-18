@@ -1,0 +1,5 @@
+---
+title: RockAgainstCommunism
+crosslinks:
+- BlackMetal
+---

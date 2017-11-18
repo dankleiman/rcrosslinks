@@ -1,0 +1,5 @@
+---
+title: NFKRZ
+crosslinks:
+- dankmemes
+---

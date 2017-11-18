@@ -1,0 +1,5 @@
+---
+title: Spongebros
+crosslinks:
+- yugioh
+---

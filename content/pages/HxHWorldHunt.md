@@ -1,0 +1,5 @@
+---
+title: HxHWorldHunt
+crosslinks:
+- HxHBattleAllStars
+---

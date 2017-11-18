@@ -1,0 +1,5 @@
+---
+title: bojackshitposts
+crosslinks:
+- BoJackHorseman
+---

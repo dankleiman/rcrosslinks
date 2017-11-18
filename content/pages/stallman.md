@@ -1,0 +1,5 @@
+---
+title: stallman
+crosslinks:
+- linuxmemes
+---

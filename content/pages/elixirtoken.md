@@ -1,0 +1,5 @@
+---
+title: elixirtoken
+crosslinks:
+- CryptoCurrency
+---

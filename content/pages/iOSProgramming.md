@@ -1,0 +1,24 @@
+---
+title: iOSProgramming
+crosslinks:
+- swift
+- programming
+- autotldr
+- androiddev
+- Entrepreneur
+- cscareerquestions
+- xkcd
+- startups
+- osx
+- iosdev
+- identifythisfont
+- apple
+- IAmA
+- ios
+- watchdev
+- iphone
+- learnprogramming
+- roastmycode
+- swiftmonthly
+- LateStageCapitalism
+---

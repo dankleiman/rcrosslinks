@@ -1,0 +1,5 @@
+---
+title: uplay
+crosslinks:
+- GameDeals
+---

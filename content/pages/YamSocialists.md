@@ -1,0 +1,5 @@
+---
+title: YamSocialists
+crosslinks:
+- yammunists
+---

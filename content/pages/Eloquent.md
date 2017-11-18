@@ -1,0 +1,5 @@
+---
+title: Eloquent
+crosslinks:
+- Greets
+---

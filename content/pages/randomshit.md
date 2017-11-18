@@ -1,0 +1,5 @@
+---
+title: randomshit
+crosslinks:
+- pics
+---

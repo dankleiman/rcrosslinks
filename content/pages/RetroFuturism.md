@@ -1,0 +1,24 @@
+---
+title: RetroFuturism
+crosslinks:
+- Atompunk
+- Physics
+- xkcd
+- SovietHistory
+- FULLCOMMUNISM
+- OldSchoolCool
+- WeirdWheels
+- roguelikes
+- thewholecar
+- futureporn
+- outrun
+- PropagandaPosters
+- ImaginaryTechnology
+- Colorization
+- nocontext
+- Serendipity
+- WhereIsMyFlyingCar
+- classiccars
+- Ingress
+- BitchImATrain
+---

@@ -1,0 +1,5 @@
+---
+title: allentown
+crosslinks:
+- lehighvalley
+---

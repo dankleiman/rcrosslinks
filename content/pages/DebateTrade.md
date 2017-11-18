@@ -1,0 +1,5 @@
+---
+title: DebateTrade
+crosslinks:
+- Scholar
+---

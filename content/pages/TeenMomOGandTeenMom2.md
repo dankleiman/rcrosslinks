@@ -1,0 +1,23 @@
+---
+title: TeenMomOGandTeenMom2
+crosslinks:
+- teenmom
+- 2l9l0g6
+- AskReddit
+- metateenmom
+- nosleep
+- gamegrumps
+- redditdev
+- IAmA
+- Drama
+- shittyteenmom
+- Advice
+- redditrequest
+- TropicalWeather
+- ttcafterloss
+- MtvChallenge
+- '2013'
+- trashy
+- BigBrother
+- Stealing
+---

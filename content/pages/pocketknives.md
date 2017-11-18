@@ -1,0 +1,5 @@
+---
+title: pocketknives
+crosslinks:
+- EDC
+---

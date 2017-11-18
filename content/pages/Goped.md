@@ -1,0 +1,5 @@
+---
+title: Goped
+crosslinks:
+- Scootering
+---

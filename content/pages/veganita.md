@@ -1,0 +1,5 @@
+---
+title: veganita
+crosslinks:
+- italy
+---

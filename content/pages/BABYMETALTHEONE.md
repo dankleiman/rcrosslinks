@@ -1,0 +1,5 @@
+---
+title: BABYMETALTHEONE
+crosslinks:
+- BABYMETAL
+---

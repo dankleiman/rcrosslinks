@@ -1,0 +1,5 @@
+---
+title: literotica
+crosslinks:
+- eroticliterature
+---

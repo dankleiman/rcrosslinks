@@ -1,0 +1,5 @@
+---
+title: pathology
+crosslinks:
+- medicine
+---

@@ -1,0 +1,5 @@
+---
+title: ShigatsuwaKiminoUso
+crosslinks:
+- anime
+---

@@ -1,0 +1,5 @@
+---
+title: esperante
+crosslinks:
+- Esperanto
+---

@@ -1,0 +1,5 @@
+---
+title: scrapbooking
+crosslinks:
+- crafts
+---

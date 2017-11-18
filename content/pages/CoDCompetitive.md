@@ -1,0 +1,24 @@
+---
+title: CoDCompetitive
+crosslinks:
+- Infinitewarfare
+- OpTicGaming
+- WWII
+- CoDCompPlays
+- CodCompCirclejerk
+- NegativeWithGold
+- causeWhyNotMate
+- IAmA
+- leagueoflegends
+- DotA2
+- infinitewarfare
+- gifs
+- soccer
+- CallOfDuty
+- 2007scape
+- LivestreamFail
+- gaming
+- AskReddit
+- Ice_Poseidon
+- Cloud9
+---

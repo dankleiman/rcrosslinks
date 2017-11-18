@@ -1,0 +1,5 @@
+---
+title: animemidriff
+crosslinks:
+- Pixiv
+---

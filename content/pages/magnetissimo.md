@@ -1,0 +1,5 @@
+---
+title: magnetissimo
+crosslinks:
+- torrents
+---

@@ -1,0 +1,5 @@
+---
+title: lostcamera
+crosslinks:
+- de
+---

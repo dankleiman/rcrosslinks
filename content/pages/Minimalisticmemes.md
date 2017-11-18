@@ -1,0 +1,5 @@
+---
+title: Minimalisticmemes
+crosslinks:
+- JonTron
+---

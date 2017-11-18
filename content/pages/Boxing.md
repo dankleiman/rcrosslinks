@@ -1,0 +1,24 @@
+---
+title: Boxing
+crosslinks:
+- MMA
+- autotldr
+- chavezalvarez2
+- Philippines
+- NegativeWithGold
+- ufc
+- xkcd
+- IAmA
+- '2013'
+- Showerthoughts
+- martialarts
+- OutOfTheLoop
+- sports
+- AskReddit
+- funny
+- gifs
+- '1277397'
+- law
+- unexpectedyugioh
+- nfl
+---

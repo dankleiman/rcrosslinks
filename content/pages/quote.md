@@ -1,0 +1,5 @@
+---
+title: quote
+crosslinks:
+- quotes
+---

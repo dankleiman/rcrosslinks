@@ -1,0 +1,5 @@
+---
+title: realpoliticalintrigue
+crosslinks:
+- politics
+---

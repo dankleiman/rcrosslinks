@@ -1,0 +1,5 @@
+---
+title: ingresslols
+crosslinks:
+- Ingress
+---

@@ -1,0 +1,5 @@
+---
+title: Aestimoism
+crosslinks:
+- sorceryofthespectacle
+---

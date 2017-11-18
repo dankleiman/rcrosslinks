@@ -1,0 +1,24 @@
+---
+title: glasgow
+crosslinks:
+- Scotland
+- AskReddit
+- ShitAmericansSay
+- autotldr
+- glasgowmarket
+- exmuslim
+- WTF
+- Serendipity
+- JesusChristGlasgow
+- jesuschristreddit
+- counterjihad
+- astrophysics
+- pics
+- Pyongyang
+- opieandanthony
+- AskWomen
+- ScottishPeopleTwitter
+- Xiaomi
+- learnpython
+- deaf
+---

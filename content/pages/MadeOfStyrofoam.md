@@ -1,0 +1,24 @@
+---
+title: MadeOfStyrofoam
+crosslinks:
+- livven
+- selfharm
+- selfharmgifs
+- Jokes
+- pics
+- selfharmpics
+- cripplingalcoholism
+- coloringcorruptions
+- AskReddit
+- SharetheCare
+- place
+- SelfHarmScars
+- AskAcademia
+- WackyTicTacs
+- hawks
+- secretsanta
+- darkjokes
+- yaoi
+- styrofashion
+- selffarmpics
+---

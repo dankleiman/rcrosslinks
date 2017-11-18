@@ -1,0 +1,5 @@
+---
+title: SAMpros
+crosslinks:
+- sysadmin
+---

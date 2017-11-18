@@ -1,0 +1,5 @@
+---
+title: sadboysplace
+crosslinks:
+- GreenLattice
+---

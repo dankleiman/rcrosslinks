@@ -1,0 +1,24 @@
+---
+title: CapitalismVSocialism
+crosslinks:
+- zeronet
+- Anarcho_Capitalism
+- socialism
+- Shitstatistssay
+- Polycentric_Law
+- marxism_101
+- GoldandBlack
+- AskHistorians
+- Anarchism
+- communism
+- Anarchy101
+- LateStageCapitalism
+- shitleftistssay
+- Economics
+- xkcd
+- communism101
+- askphilosophy
+- politics
+- Physical_Removal
+- FULLCOMMUNISM
+---

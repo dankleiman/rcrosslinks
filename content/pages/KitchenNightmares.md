@@ -1,0 +1,5 @@
+---
+title: KitchenNightmares
+crosslinks:
+- GordonRamsay
+---

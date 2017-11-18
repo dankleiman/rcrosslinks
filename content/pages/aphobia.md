@@ -1,0 +1,5 @@
+---
+title: aphobia
+crosslinks:
+- asexuality
+---

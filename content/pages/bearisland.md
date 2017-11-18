@@ -1,0 +1,5 @@
+---
+title: bearisland
+crosslinks:
+- gameofthrones
+---

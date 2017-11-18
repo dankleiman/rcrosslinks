@@ -1,0 +1,5 @@
+---
+title: CapeVerde
+crosslinks:
+- digitalnomad
+---

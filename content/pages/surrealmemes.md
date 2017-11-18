@@ -1,0 +1,24 @@
+---
+title: surrealmemes
+crosslinks:
+- livven
+- SurrealLore
+- me_irl
+- Ooer
+- DeepFriedMemes
+- wholesomesurrealmemes
+- SCP
+- gatekeeping
+- nukedmemes
+- deepfriedsurrealmemes
+- FearMe
+- coaxedintoasnafu
+- ComedyCemetery
+- youclickedthelink
+- hatchery
+- stevenuniverse
+- titlegore
+- hmmm
+- THE_PACK
+- antimeme
+---

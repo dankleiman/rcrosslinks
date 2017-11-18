@@ -1,0 +1,24 @@
+---
+title: Rainbow6
+crosslinks:
+- livven
+- R6STeams
+- SiegeAcademy
+- pcmasterrace
+- BrasilOnReddit
+- REEEEEEEEEE
+- gaming
+- xkcd
+- Tachanka
+- RocketLeague
+- gifs
+- forhonor
+- Overwatch
+- AskReddit
+- titlegore
+- MilitaryPorn
+- KarmaCourt
+- me_irl
+- Games
+- PUBATTLEGROUNDS
+---

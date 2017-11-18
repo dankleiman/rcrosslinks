@@ -1,0 +1,24 @@
+---
+title: RBI
+crosslinks:
+- UnresolvedMysteries
+- legaladvice
+- Scams
+- whatisthisthing
+- ARG
+- WhatIsThisPainting
+- HelpMeFind
+- WTF
+- videos
+- enhanceenhanceenhance
+- creepypasta
+- OutOfTheLoop
+- Connecticut
+- conspiracy
+- southcarolina
+- PacificCrestTrail
+- zeropointmodule
+- SpyGadgets
+- Genealogy
+- AskPhysics
+---

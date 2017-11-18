@@ -1,0 +1,5 @@
+---
+title: boardgameshitposts
+crosslinks:
+- comics
+---

@@ -1,0 +1,24 @@
+---
+title: archlinux
+crosslinks:
+- linux
+- unixporn
+- xkcd
+- antergos
+- linuxmasterrace
+- thinkpad
+- VFIO
+- ManjaroLinux
+- gnome
+- kde
+- linuxquestions
+- linux_gaming
+- Dell
+- ApricityOS
+- zeronet
+- i3wm
+- place
+- archlinuxarm
+- LinuxCirclejerk
+- vim
+---

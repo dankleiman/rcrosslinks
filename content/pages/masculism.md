@@ -1,0 +1,5 @@
+---
+title: masculism
+crosslinks:
+- fuckcoop
+---

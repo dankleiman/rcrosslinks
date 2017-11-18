@@ -1,0 +1,24 @@
+---
+title: canada
+crosslinks:
+- autotldr
+- metacanada
+- xkcd
+- CanadaPolitics
+- toronto
+- worldnews
+- vancouver
+- politics
+- The_Donald
+- PersonalFinanceCanada
+- AskHistorians
+- IAmA
+- news
+- pics
+- AskReddit
+- videos
+- todayilearned
+- MensRights
+- onguardforthee
+- EnoughTrumpSpam
+---

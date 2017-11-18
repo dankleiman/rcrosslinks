@@ -1,0 +1,24 @@
+---
+title: Entrepreneur
+crosslinks:
+- juststart
+- startups
+- marketing
+- IAmA
+- EntrepreneurRideAlong
+- forhire
+- AskReddit
+- AMAAggregator
+- FulfillmentByAmazon
+- MarshallBrain
+- Watches
+- learnprogramming
+- DIY
+- financialindependence
+- sales
+- Fitness
+- Flipping
+- SideProject
+- LateStageCapitalism
+- videos
+---

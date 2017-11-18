@@ -1,0 +1,5 @@
+---
+title: PolygonFans
+crosslinks:
+- CoolGamesInc
+---

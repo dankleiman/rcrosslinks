@@ -1,0 +1,5 @@
+---
+title: emilydickinson
+crosslinks:
+- xkcd
+---

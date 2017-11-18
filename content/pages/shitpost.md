@@ -1,0 +1,24 @@
+---
+title: shitpost
+crosslinks:
+- pics
+- shitshitpost
+- funny
+- gaming
+- AskReddit
+- shitcomment
+- The_Donald
+- aww
+- Gamingcirclejerk
+- pic
+- shitshitshitpost
+- MarchAgainstTrump
+- WastedGold
+- drunk
+- AdviceAnimals
+- Jokes
+- OldSchoolCool
+- ComedyCemetery
+- OutOfTheLoop
+- videos
+---

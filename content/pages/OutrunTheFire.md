@@ -1,0 +1,5 @@
+---
+title: OutrunTheFire
+crosslinks:
+- WinStupidPrizes
+---

@@ -1,0 +1,5 @@
+---
+title: smashmemes
+crosslinks:
+- Serendipity
+---

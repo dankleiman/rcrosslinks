@@ -1,0 +1,5 @@
+---
+title: swaphardware
+crosslinks:
+- hardware
+---

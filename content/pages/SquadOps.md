@@ -1,0 +1,5 @@
+---
+title: SquadOps
+crosslinks:
+- joinsquad
+---

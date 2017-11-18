@@ -1,0 +1,5 @@
+---
+title: lggwatch
+crosslinks:
+- AndroidWear
+---

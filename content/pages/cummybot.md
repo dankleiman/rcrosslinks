@@ -1,0 +1,5 @@
+---
+title: cummybot
+crosslinks:
+- copypasta
+---

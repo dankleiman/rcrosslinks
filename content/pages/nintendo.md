@@ -1,0 +1,24 @@
+---
+title: nintendo
+crosslinks:
+- gaming
+- NintendoSwitch
+- 3DS
+- Games
+- livven
+- Gamingcirclejerk
+- pokemon
+- gamecollecting
+- zelda
+- wiiu
+- splatoon
+- nintendoswitch
+- Metroid
+- xkcd
+- casualnintendo
+- 3dshacks
+- truezelda
+- Flipping
+- AskReddit
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: TheTorCoin
+crosslinks:
+- Bitcoin
+---

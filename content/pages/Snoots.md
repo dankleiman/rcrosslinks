@@ -1,0 +1,5 @@
+---
+title: Snoots
+crosslinks:
+- rarepuppers
+---

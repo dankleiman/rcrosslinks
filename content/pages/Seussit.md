@@ -1,0 +1,5 @@
+---
+title: Seussit
+crosslinks:
+- drseuss
+---

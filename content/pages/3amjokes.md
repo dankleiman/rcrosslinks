@@ -1,0 +1,22 @@
+---
+title: 3amjokes
+crosslinks:
+- AntiJokes
+- Jokes
+- dadjokes
+- AskReddit
+- circlejerk
+- xkcd
+- UnexpectedTF2
+- jokestopractice
+- Serendipity
+- RIP_Sleep
+- BadDay
+- tifu
+- thomasthedankengine
+- BrasilOnReddit
+- RhymesOnADime
+- upvoteexeggutor
+- ScottishPeopleTwitter
+- Showerthoughts
+---

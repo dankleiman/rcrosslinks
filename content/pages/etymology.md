@@ -1,0 +1,24 @@
+---
+title: etymology
+crosslinks:
+- xkcd
+- AskHistorians
+- AskReddit
+- todayilearned
+- etymologymaps
+- whatstheword
+- translator
+- entomology
+- latin
+- sadcringe
+- explainlikeimfive
+- FalseFriends
+- hockey
+- dictionary
+- IAmA
+- niceguys
+- titlegore
+- france
+- childtheories
+- MandelaEffect
+---

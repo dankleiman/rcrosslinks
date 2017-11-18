@@ -1,0 +1,24 @@
+---
+title: DerekSmart
+crosslinks:
+- starcitizen
+- starcitizen_refunds
+- Games
+- EliteDangerous
+- Starcitizen_trades
+- xkcd
+- starcitizenfiles
+- TheOpenHouse
+- AshesofCreation
+- pcgaming
+- GamerGhazi
+- StarCitizenRefunds
+- vogonpoetrycircle
+- letsplay
+- ds
+- cults
+- NewsOfTheStupid
+- gaming
+- science
+- eve
+---

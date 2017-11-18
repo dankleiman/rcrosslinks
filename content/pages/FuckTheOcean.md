@@ -1,0 +1,5 @@
+---
+title: FuckTheOcean
+crosslinks:
+- gifs
+---

@@ -1,0 +1,24 @@
+---
+title: Animemes
+crosslinks:
+- livven
+- anime_irl
+- anime
+- thighdeology
+- wholesomeanimemes
+- hentai_irl
+- araragi
+- doujinshi
+- furry_irl
+- dankmemes
+- ANI_COMMUNISM
+- ZettaiRyouiki
+- BigAnimeTiddies
+- pettankohentai
+- awwnime
+- hentiny
+- hentai
+- RURISQUAD
+- traaaaaaannnnnnnnnns
+- Megumin
+---

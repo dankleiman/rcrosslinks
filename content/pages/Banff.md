@@ -1,0 +1,5 @@
+---
+title: Banff
+crosslinks:
+- EarthPorn
+---

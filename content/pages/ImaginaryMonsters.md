@@ -1,0 +1,21 @@
+---
+title: ImaginaryMonsters
+crosslinks:
+- nosleep
+- creepy
+- ImaginaryLandscapes
+- art
+- Jokes
+- ThePhenomenon
+- ImaginaryCharacters
+- Art
+- drawing
+- WritingPrompts
+- '2013'
+- itookapicture
+- TheAdventureZone
+- Fantasy
+- todayilearned
+- rpg
+- Nightmares
+---

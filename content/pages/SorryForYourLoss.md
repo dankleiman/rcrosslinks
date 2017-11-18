@@ -1,0 +1,5 @@
+---
+title: SorryForYourLoss
+crosslinks:
+- Bitcoin
+---

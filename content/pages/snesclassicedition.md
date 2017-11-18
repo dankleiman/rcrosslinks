@@ -1,0 +1,5 @@
+---
+title: snesclassicedition
+crosslinks:
+- miniSNES
+---

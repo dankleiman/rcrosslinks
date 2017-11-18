@@ -1,0 +1,24 @@
+---
+title: ShitLiberalsSay
+crosslinks:
+- The_Donald
+- LateStageCapitalism
+- pics
+- EnoughCommieSpam
+- Anarchism
+- socialism
+- politics
+- todayilearned
+- HailCorporate
+- news
+- Enough_Sanders_Spam
+- autotldr
+- FULLCOMMUNISM
+- communism
+- Drama
+- worldnews
+- AskReddit
+- LosAngeles
+- SeattleWA
+- Anarcho_Capitalism
+---

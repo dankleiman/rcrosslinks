@@ -1,0 +1,5 @@
+---
+title: cahiersduludica
+crosslinks:
+- autotldr
+---

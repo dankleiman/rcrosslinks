@@ -1,0 +1,5 @@
+---
+title: HeatSignatureTheGame
+crosslinks:
+- HeatSignature
+---

@@ -1,0 +1,5 @@
+---
+title: LOLSUMO
+crosslinks:
+- leagueoflegends
+---

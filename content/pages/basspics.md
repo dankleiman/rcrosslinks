@@ -1,0 +1,5 @@
+---
+title: basspics
+crosslinks:
+- EmpireDidNothingWrong
+---

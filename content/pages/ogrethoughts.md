@@ -1,0 +1,5 @@
+---
+title: ogrethoughts
+crosslinks:
+- justogrelythings
+---

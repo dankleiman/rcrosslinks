@@ -1,0 +1,24 @@
+---
+title: education
+crosslinks:
+- linguistics
+- Missing411
+- TEFL_TIPS_TRAPS_SCAMS
+- Teachers
+- worldpolitics
+- personalfiance
+- offmychest
+- Foodforthought
+- StudentLoans
+- unitedkingdom
+- SFBaySchools
+- conspiracy
+- slatestarcodex
+- pics
+- ShitAmericansSay
+- notcirclejerk
+- JordanPeterson
+- LateStageCapitalism
+- teaching
+- nursing
+---

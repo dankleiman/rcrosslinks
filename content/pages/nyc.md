@@ -1,0 +1,24 @@
+---
+title: nyc
+crosslinks:
+- autotldr
+- AskNYC
+- Drama
+- pics
+- The_Donald
+- nycrail
+- nycpics
+- politics
+- Brooklyn
+- nycmeetups
+- AskReddit
+- videos
+- SandersForPresident
+- nycHistory
+- news
+- redditrequest
+- london
+- WTF
+- Advice
+- chicago
+---

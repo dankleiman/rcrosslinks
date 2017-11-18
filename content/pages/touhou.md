@@ -1,0 +1,24 @@
+---
+title: touhou
+crosslinks:
+- Pixiv
+- livven
+- place
+- Touhoujerk
+- de
+- asktouhouscience
+- touhou_irl
+- EXLove
+- furry
+- Touhou_NSFW
+- awoo
+- runescape
+- chen
+- mspainttouhou
+- thighdeology
+- anime
+- civ
+- autotldr
+- PC98touhou
+- Serendipity
+---

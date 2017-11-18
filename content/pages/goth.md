@@ -1,0 +1,24 @@
+---
+title: goth
+crosslinks:
+- goth_music
+- gothrock
+- hippie
+- wholesomememes
+- neofolk
+- Musicthemetime
+- malefashionadvice
+- food
+- postpunk
+- industrialmusic
+- NSBM
+- politics
+- SpookyBox_Fans_Swap
+- all
+- Metal
+- GothStyle
+- xkcd
+- Gothic
+- tipofmytongue
+- livven
+---

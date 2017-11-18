@@ -1,0 +1,24 @@
+---
+title: MilitaryGfys
+crosslinks:
+- livven
+- HephaestusAetnaean
+- MilitaryPorn
+- aviation
+- AskHistorians
+- worldnews
+- Warplanesnuffporn
+- F35Lightning
+- hoggit
+- The_Donald
+- wargame
+- WarshipPorn
+- shockwaveporn
+- HeavySeas
+- killthecameraman
+- DarkFuturology
+- spacex
+- noisygifs
+- gifsthatendtoosoon
+- Cinemagraphs
+---

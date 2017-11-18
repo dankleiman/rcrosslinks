@@ -1,0 +1,5 @@
+---
+title: Pepperhowto
+crosslinks:
+- hotpeppers
+---

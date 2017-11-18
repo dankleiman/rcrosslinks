@@ -1,0 +1,5 @@
+---
+title: thinkpadcirclejerk
+crosslinks:
+- thinkpad
+---

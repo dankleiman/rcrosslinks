@@ -1,0 +1,5 @@
+---
+title: Sidonia
+crosslinks:
+- animenews
+---

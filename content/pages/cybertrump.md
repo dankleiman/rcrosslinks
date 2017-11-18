@@ -1,0 +1,5 @@
+---
+title: cybertrump
+crosslinks:
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: self
+crosslinks:
+- AskReddit
+- The_Donald
+- xkcd
+- whatisthisthing
+- EnoughTrumpSpam
+- all
+- videos
+- DAE
+- politics
+- Conservative
+- OutOfTheLoop
+- Drama
+- TrollXChromosomes
+- Assistance
+- IAmA
+- legaladvice
+- longtail
+- SuicideWatch
+- announcements
+- worldnews
+---

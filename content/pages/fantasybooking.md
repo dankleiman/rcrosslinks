@@ -1,0 +1,5 @@
+---
+title: fantasybooking
+crosslinks:
+- SquaredCircle
+---

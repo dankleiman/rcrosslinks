@@ -1,0 +1,5 @@
+---
+title: AnimeMusicVideos
+crosslinks:
+- amv
+---

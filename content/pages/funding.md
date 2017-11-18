@@ -1,0 +1,5 @@
+---
+title: funding
+crosslinks:
+- Serendipity
+---

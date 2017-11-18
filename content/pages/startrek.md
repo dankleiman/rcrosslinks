@@ -1,0 +1,24 @@
+---
+title: startrek
+crosslinks:
+- DaystromInstitute
+- scifi
+- todayilearned
+- startrekgifs
+- TheOrville
+- StarTrekDiscovery
+- The_Donald
+- pics
+- IAmA
+- sto
+- '2013'
+- movies
+- netflix
+- niceguys
+- Pogo
+- Stargate
+- AskReddit
+- FanTheories
+- science
+- startrekmemes
+---

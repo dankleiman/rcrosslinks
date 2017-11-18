@@ -1,0 +1,5 @@
+---
+title: mossad
+crosslinks:
+- edefreiheit
+---

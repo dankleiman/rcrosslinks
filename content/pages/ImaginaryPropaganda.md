@@ -1,0 +1,5 @@
+---
+title: ImaginaryPropaganda
+crosslinks:
+- PropagandaPosters
+---

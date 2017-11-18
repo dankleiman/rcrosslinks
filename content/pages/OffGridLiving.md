@@ -1,0 +1,5 @@
+---
+title: OffGridLiving
+crosslinks:
+- Permaculture
+---

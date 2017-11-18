@@ -1,0 +1,5 @@
+---
+title: artofmanliness
+crosslinks:
+- civilairpatrol
+---

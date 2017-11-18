@@ -1,0 +1,5 @@
+---
+title: ShinyEntaiFanPage
+crosslinks:
+- autotldr
+---

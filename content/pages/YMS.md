@@ -1,0 +1,24 @@
+---
+title: YMS
+crosslinks:
+- moviescirclejerk
+- TrueFilm
+- movies
+- AdumPlaze
+- Gamingcirclejerk
+- furry_irl
+- zootopia
+- h3h3_productions
+- ralphthemoviemaker
+- LateStageCapitalism
+- arrow
+- TwoBestFriendsPlay
+- AskReddit
+- autotldr
+- westworld
+- Meme_Graveyard
+- changemyview
+- videos
+- whatjawsdidforsharks
+- HumanPorn
+---

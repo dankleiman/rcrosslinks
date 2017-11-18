@@ -1,0 +1,5 @@
+---
+title: modlads
+crosslinks:
+- MadMods
+---

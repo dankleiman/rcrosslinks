@@ -1,0 +1,5 @@
+---
+title: SuperHumanMode
+crosslinks:
+- theXeffect
+---

@@ -1,0 +1,5 @@
+---
+title: Methoxetamine
+crosslinks:
+- researchchemicals
+---

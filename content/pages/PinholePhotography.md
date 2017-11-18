@@ -1,0 +1,5 @@
+---
+title: PinholePhotography
+crosslinks:
+- analog
+---

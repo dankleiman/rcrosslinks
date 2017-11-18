@@ -1,0 +1,5 @@
+---
+title: murder
+crosslinks:
+- CrimeScene
+---

@@ -1,0 +1,5 @@
+---
+title: AtlantaBarters
+crosslinks:
+- Atlanta
+---

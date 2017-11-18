@@ -1,0 +1,5 @@
+---
+title: SickRandomReddit
+crosslinks:
+- nosleep
+---

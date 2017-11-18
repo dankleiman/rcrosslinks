@@ -1,0 +1,5 @@
+---
+title: cursedimages
+crosslinks:
+- all
+---

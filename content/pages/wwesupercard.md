@@ -1,0 +1,5 @@
+---
+title: wwesupercard
+crosslinks:
+- sr
+---

@@ -1,0 +1,24 @@
+---
+title: imagesofthe1990s
+crosslinks:
+- OldSchoolCool
+- pics
+- imagesofnetwork
+- MoviePosterPorn
+- nostalgia
+- CineShots
+- mildlyinteresting
+- funny
+- u_2BrkOnThru
+- Scotch
+- MechanicAdvice
+- carporn
+- HistoryPorn
+- SquaredCircle
+- formula1
+- ClassicMarvelCovers
+- Art
+- Miata
+- moviescirclejerk
+- movies
+---

@@ -1,0 +1,5 @@
+---
+title: MNVikings
+crosslinks:
+- minnesotavikings
+---

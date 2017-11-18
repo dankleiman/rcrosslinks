@@ -1,0 +1,5 @@
+---
+title: stabbot
+crosslinks:
+- Simulated
+---

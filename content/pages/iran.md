@@ -1,0 +1,24 @@
+---
+title: iran
+crosslinks:
+- autotldr
+- OnThisDateInBahai
+- etymology
+- magicskyfairy
+- Zoroastrianism
+- place
+- worldnews
+- islam
+- pakistan
+- livven
+- armenia
+- Egypt
+- poetry_critics
+- Shit
+- vegan
+- todayilearned
+- OutOfTheLoop
+- racism
+- AskReddit
+- america
+---

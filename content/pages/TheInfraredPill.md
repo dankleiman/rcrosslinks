@@ -1,0 +1,5 @@
+---
+title: TheInfraredPill
+crosslinks:
+- TheRedPill
+---

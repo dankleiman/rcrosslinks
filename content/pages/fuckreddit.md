@@ -1,0 +1,5 @@
+---
+title: fuckreddit
+crosslinks:
+- AskReddit
+---

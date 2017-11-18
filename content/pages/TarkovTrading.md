@@ -1,0 +1,5 @@
+---
+title: TarkovTrading
+crosslinks:
+- EscapefromTarkov
+---

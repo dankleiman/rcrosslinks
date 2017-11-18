@@ -1,0 +1,24 @@
+---
+title: NBA2k
+crosslinks:
+- livven
+- NBA2kTeamUp
+- MaddenUltimateTeam
+- NBA2KDesign
+- NBA2kMTselling
+- NBAlive
+- Madden
+- gaming
+- 2KOA
+- lakers
+- NintendoSwitch
+- FIFA
+- PS4
+- kings
+- hearthstone
+- gtaglitches
+- videos
+- DeepFriedMemes
+- cheatengine
+- TropicalWeather
+---

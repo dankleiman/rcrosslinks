@@ -1,0 +1,5 @@
+---
+title: rpgresources
+crosslinks:
+- rpg
+---

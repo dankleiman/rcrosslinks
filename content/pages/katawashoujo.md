@@ -1,0 +1,24 @@
+---
+title: katawashoujo
+crosslinks:
+- livven
+- AskReddit
+- Palpz
+- StardustCrusaders
+- visualnovels
+- gaming
+- DataHoarder
+- Rainmeter
+- touhou
+- chess
+- WritingPrompts
+- JonTron
+- missingstars
+- ArtFundamentals
+- 2me4meirl
+- KatawaShoujoRP
+- lifeisstrange
+- videos
+- thick_hentai
+- SS13
+---

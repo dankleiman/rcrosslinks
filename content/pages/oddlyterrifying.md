@@ -1,0 +1,24 @@
+---
+title: oddlyterrifying
+crosslinks:
+- livven
+- Simulated
+- gifs
+- CatastrophicFailure
+- mildlyinteresting
+- interestingasfuck
+- perfectloops
+- creepy
+- dontdeadopeninside
+- pics
+- WTF
+- awwwtf
+- funny
+- RuinedByEdits
+- educationalgifs
+- woahdude
+- oddlysatisfying
+- Mildly
+- Anarchy101
+- Documentaries
+---

@@ -1,0 +1,5 @@
+---
+title: TerraBattle
+crosslinks:
+- Shadowverse
+---

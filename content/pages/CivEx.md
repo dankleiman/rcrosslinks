@@ -1,0 +1,24 @@
+---
+title: CivEx
+crosslinks:
+- CivilizatonExperiment
+- Devoted
+- Icenia
+- TheRealmsMC
+- xkcd
+- livven
+- Civcraft
+- Medwedia
+- CivScarcity
+- Minecraft
+- BestofCortwade
+- varsany
+- Irongrad
+- all
+- vexillology
+- CivExTIMSO
+- financialindependence
+- Comixao
+- conlangs
+- Hothoria
+---

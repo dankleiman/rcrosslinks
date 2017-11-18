@@ -1,0 +1,5 @@
+---
+title: MMAbetting
+crosslinks:
+- MMA
+---

@@ -1,0 +1,24 @@
+---
+title: Instantregret
+crosslinks:
+- livven
+- gifs
+- instant_regret
+- WTF
+- zeropointmodule
+- funny
+- holdmycosmo
+- StartledCats
+- Laina
+- IdiotsInCars
+- hitmanimals
+- gaming
+- cringe
+- videos
+- IdiotsNearlyDying
+- phoenix
+- softwaregore
+- Constantregret
+- Unexpected
+- explainlikeimfive
+---

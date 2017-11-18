@@ -1,0 +1,5 @@
+---
+title: BullShitMediaEmpire
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: SimulationGaming
+crosslinks:
+- gamedev
+---

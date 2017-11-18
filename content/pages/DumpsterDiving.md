@@ -1,0 +1,24 @@
+---
+title: DumpsterDiving
+crosslinks:
+- preppers
+- Frugal
+- politics
+- ZeroWaste
+- sugar
+- WhatsInThisThing
+- livven
+- DIY
+- Antiques
+- REEEEEEEEEE
+- firewater
+- Staples
+- worldnews
+- ShitAmericansSay
+- vandwellers
+- electricians
+- pics
+- excgarated
+- JusticeServed
+- ThatPeelingFeeling
+---

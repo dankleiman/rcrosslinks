@@ -1,0 +1,5 @@
+---
+title: ManagedByNarcissists
+crosslinks:
+- office
+---

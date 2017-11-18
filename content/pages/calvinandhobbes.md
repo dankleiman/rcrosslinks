@@ -1,0 +1,24 @@
+---
+title: calvinandhobbes
+crosslinks:
+- xkcd
+- WritingPrompts
+- ExplainLikeImCalvin
+- pics
+- place
+- ATBGE
+- gatekeeping
+- LateStageCapitalism
+- keming
+- HailCorporate
+- tattoos
+- happy
+- gratefuldead
+- Farside
+- Feels
+- BloomCounty
+- AskMen
+- jesuschristreddit
+- cycling
+- somethingimade
+---

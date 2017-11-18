@@ -1,0 +1,5 @@
+---
+title: Daguerreotypes
+crosslinks:
+- VictorianEra
+---

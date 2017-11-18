@@ -1,0 +1,5 @@
+---
+title: thatsthejoke
+crosslinks:
+- mildlyfunny
+---

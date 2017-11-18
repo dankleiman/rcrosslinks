@@ -1,0 +1,5 @@
+---
+title: ThisShowStinks
+crosslinks:
+- cordcutters
+---

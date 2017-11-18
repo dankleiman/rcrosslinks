@@ -1,0 +1,24 @@
+---
+title: polyamory
+crosslinks:
+- nonmonogamy
+- livven
+- herpes
+- Swingers
+- Drama
+- relationship_advice
+- AskReddit
+- SexWorkers
+- INEEEEDIT
+- OkCupid
+- weddingplanning
+- GetMotivated
+- funny
+- GayBiPolyBears
+- AskFeminists
+- JUSTNOMIL
+- singapore
+- BetterEveryLoop
+- videos
+- LongDistance
+---

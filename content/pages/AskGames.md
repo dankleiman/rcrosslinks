@@ -1,0 +1,24 @@
+---
+title: AskGames
+crosslinks:
+- tipofmyjoystick
+- gamingsuggestions
+- Gamingcirclejerk
+- lowendgaming
+- SuggestALaptop
+- FORTnITE
+- RetroPie
+- gamedev
+- DotA2
+- thelastofus
+- patientgamers
+- 3dshacks
+- VideoGameAnalysis
+- MonsterTamerWorld
+- Morrowind
+- WiiUHacks
+- incremental_games
+- localmultiplayergames
+- titlegore
+- RimWorld
+---

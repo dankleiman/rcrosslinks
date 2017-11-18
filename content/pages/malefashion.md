@@ -1,0 +1,24 @@
+---
+title: malefashion
+crosslinks:
+- streetwear
+- malefashionadvice
+- FashionReps
+- goodyearwelt
+- supremeclothing
+- livven
+- expensivehumanfashion
+- Cordwaining
+- NoPoo
+- architecture
+- Firearms
+- SceneBoys
+- DesignerReps
+- askscience
+- malelivingspace
+- Fitness
+- thatricktote
+- EDC
+- coaxedintoasnafu
+- Rickowens
+---

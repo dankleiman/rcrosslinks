@@ -1,0 +1,5 @@
+---
+title: plans
+crosslinks:
+- weirdal
+---

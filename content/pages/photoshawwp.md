@@ -1,0 +1,5 @@
+---
+title: photoshawwp
+crosslinks:
+- photoshop
+---

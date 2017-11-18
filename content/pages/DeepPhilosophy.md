@@ -1,0 +1,5 @@
+---
+title: DeepPhilosophy
+crosslinks:
+- MTheoryEleven
+---

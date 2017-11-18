@@ -1,0 +1,24 @@
+---
+title: IBO
+crosslinks:
+- ShadowBan
+- livven
+- getdisciplined
+- SampleSize
+- AMAAggregator
+- SuicideWatch
+- LifeProTips
+- Kanye
+- AskReddit
+- AskAcademia
+- classic4chan
+- unexpectedfactorial
+- ApplyingToCollege
+- teenagers
+- 2meirl4meirl
+- funny
+- Teachers
+- ish_irl
+- me_irl
+- REEEEEEEEEE
+---

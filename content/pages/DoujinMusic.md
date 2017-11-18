@@ -1,0 +1,5 @@
+---
+title: DoujinMusic
+crosslinks:
+- Artcore
+---

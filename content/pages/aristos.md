@@ -1,0 +1,5 @@
+---
+title: aristos
+crosslinks:
+- ShitEvilModsSay
+---

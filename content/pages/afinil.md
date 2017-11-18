@@ -1,0 +1,21 @@
+---
+title: afinil
+crosslinks:
+- Nootropics
+- modafinil
+- modadropship
+- duckdose
+- Drugs
+- BitcoinAll
+- ceodrugfans
+- BitMarket
+- modafinil_uk
+- Stims
+- formula1
+- ChronicIllness
+- StackAdvice
+- modadepot_nootropics
+- ReagentTesting
+- cfs
+- Steroidsourcetalk
+---

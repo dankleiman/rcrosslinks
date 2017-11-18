@@ -1,0 +1,5 @@
+---
+title: whatisthisanimal
+crosslinks:
+- Ichthyology
+---

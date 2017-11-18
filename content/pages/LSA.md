@@ -1,0 +1,5 @@
+---
+title: LSA
+crosslinks:
+- whatsthisplant
+---

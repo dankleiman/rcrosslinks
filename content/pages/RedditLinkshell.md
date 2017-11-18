@@ -1,0 +1,5 @@
+---
+title: RedditLinkshell
+crosslinks:
+- ffxi
+---

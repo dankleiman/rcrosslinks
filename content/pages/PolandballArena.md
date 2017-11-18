@@ -1,0 +1,5 @@
+---
+title: PolandballArena
+crosslinks:
+- Rapua
+---

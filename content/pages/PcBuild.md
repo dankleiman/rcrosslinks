@@ -1,0 +1,5 @@
+---
+title: PcBuild
+crosslinks:
+- Games
+---

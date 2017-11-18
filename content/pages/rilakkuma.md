@@ -1,0 +1,5 @@
+---
+title: rilakkuma
+crosslinks:
+- Serendipity
+---

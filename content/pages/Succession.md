@@ -1,0 +1,5 @@
+---
+title: Succession
+crosslinks:
+- dwarffortress
+---

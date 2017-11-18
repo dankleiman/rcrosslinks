@@ -1,0 +1,5 @@
+---
+title: UHCHosts
+crosslinks:
+- ultrahardcore
+---

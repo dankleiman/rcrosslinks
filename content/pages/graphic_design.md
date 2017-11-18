@@ -1,0 +1,24 @@
+---
+title: graphic_design
+crosslinks:
+- livven
+- identifythisfont
+- design_critiques
+- autotldr
+- Design
+- illustration
+- idesignedthis
+- gaming
+- xkcd
+- movies
+- dontdeadopeninside
+- funny
+- design_workspaces
+- logodesign
+- CrappyDesign
+- AskReddit
+- logorequests
+- '2012'
+- vhav5e
+- Leathercraft
+---

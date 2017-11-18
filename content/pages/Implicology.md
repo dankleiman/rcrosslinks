@@ -1,0 +1,5 @@
+---
+title: Implicology
+crosslinks:
+- autotldr
+---

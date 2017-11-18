@@ -1,0 +1,5 @@
+---
+title: EarlyModernEurope
+crosslinks:
+- AskHistorians
+---

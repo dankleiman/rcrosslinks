@@ -1,0 +1,24 @@
+---
+title: GalaxyS7
+crosslinks:
+- GalaxyS8
+- Android
+- GooglePixel
+- tasker
+- androidapps
+- androidthemes
+- S7Edge
+- verizon
+- xdacirclejerk
+- SamsungS7
+- xkcd
+- GearVR
+- android
+- galaxys8
+- AndroidQuestions
+- NintendoSwitch
+- galaxynote4
+- TOR
+- FilmicPro
+- nexus6
+---

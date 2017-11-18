@@ -1,0 +1,24 @@
+---
+title: ProjectFi
+crosslinks:
+- Nexus6P
+- nexus5x
+- Android
+- GooglePixel
+- NoContract
+- churning
+- autotldr
+- AndroidWear
+- verizon
+- mintsim
+- nexus6p
+- xkcd
+- Nexus
+- nocontract
+- minimalism
+- videos
+- carriers
+- mead
+- AndroidQuestions
+- cris9696
+---

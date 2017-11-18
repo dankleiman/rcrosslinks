@@ -1,0 +1,5 @@
+---
+title: Devilrp
+crosslinks:
+- CampHalfBloodRP
+---

@@ -1,0 +1,24 @@
+---
+title: nerdcubed
+crosslinks:
+- livven
+- place
+- xkcd
+- Games
+- ManyATrueNerd
+- gaming
+- EnoughTrumpSpam
+- KarmaCourt
+- EarthPorn
+- Tekken
+- gtaonline
+- FRC
+- flightsim
+- EmmaBlackery
+- Serendipity
+- autotldr
+- ShitRedditSays
+- stage9
+- Destiny
+- PeopleFuckingDying
+---

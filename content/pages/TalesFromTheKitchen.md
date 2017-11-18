@@ -1,0 +1,5 @@
+---
+title: TalesFromTheKitchen
+crosslinks:
+- KitchenConfidential
+---

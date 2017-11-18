@@ -1,0 +1,24 @@
+---
+title: SandersForPresident
+crosslinks:
+- WayOfTheBern
+- politics
+- Political_Revolution
+- Enough_Sanders_Spam
+- The_Donald
+- EnoughTrumpSpam
+- IAmA
+- hillaryclinton
+- socialism
+- worldnews
+- enoughsandersspam
+- BlueMidterm2018
+- ChapoTrapHouse
+- DNCleaks
+- Kossacks_for_Sanders
+- WikiLeaks
+- conspiracy
+- changemyview
+- AskReddit
+- xkcd
+---

@@ -1,0 +1,5 @@
+---
+title: Gunnm
+crosslinks:
+- Dorohedoro
+---

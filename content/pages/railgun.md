@@ -1,0 +1,5 @@
+---
+title: railgun
+crosslinks:
+- manga
+---

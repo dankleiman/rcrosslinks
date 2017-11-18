@@ -1,0 +1,5 @@
+---
+title: RandomThoughts
+crosslinks:
+- NotKenM
+---

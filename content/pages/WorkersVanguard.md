@@ -1,0 +1,5 @@
+---
+title: WorkersVanguard
+crosslinks:
+- SeattleWA
+---

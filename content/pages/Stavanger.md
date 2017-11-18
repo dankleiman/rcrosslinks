@@ -1,0 +1,5 @@
+---
+title: Stavanger
+crosslinks:
+- Norway
+---

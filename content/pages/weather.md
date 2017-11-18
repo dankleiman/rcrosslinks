@@ -1,0 +1,24 @@
+---
+title: weather
+crosslinks:
+- autotldr
+- livven
+- TropicalWeather
+- woahdude
+- xkcd
+- SpaceBased
+- unitedstatesofamerica
+- radarloops
+- pics
+- stormchasing
+- florida
+- worldpolitics
+- todayilearned
+- science
+- AtlantaWeather
+- funny
+- askscience
+- videos
+- interestingasfuck
+- nottheonion
+---

@@ -1,0 +1,5 @@
+---
+title: neoeighties
+crosslinks:
+- outrun
+---

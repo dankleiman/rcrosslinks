@@ -1,0 +1,5 @@
+---
+title: shitrefs
+crosslinks:
+- soccer
+---

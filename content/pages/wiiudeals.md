@@ -1,0 +1,5 @@
+---
+title: wiiudeals
+crosslinks:
+- Nintendeals
+---

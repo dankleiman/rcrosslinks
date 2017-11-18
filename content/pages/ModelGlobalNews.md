@@ -1,0 +1,5 @@
+---
+title: ModelGlobalNews
+crosslinks:
+- cmhocpress
+---

@@ -1,0 +1,5 @@
+---
+title: InfiniteJestRG
+crosslinks:
+- ReadeBookOnline
+---

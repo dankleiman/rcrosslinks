@@ -1,0 +1,5 @@
+---
+title: CollegeSoftball
+crosslinks:
+- NCAAW
+---

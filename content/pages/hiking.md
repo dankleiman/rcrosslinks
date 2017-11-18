@@ -1,0 +1,24 @@
+---
+title: hiking
+crosslinks:
+- CampingandHiking
+- autotldr
+- Ultralight
+- PacificCrestTrail
+- AppalachianTrail
+- wmnf
+- Yosemite
+- grandcanyon
+- HailCorporate
+- WinterCamping
+- VIRGINIA_HIKING
+- DrunkBackpacking
+- norwayonreddit
+- AlpsRoutes
+- IrelandonReddit
+- socalhiking
+- happy
+- camping
+- PerfectTiming
+- news
+---

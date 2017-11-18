@@ -1,0 +1,5 @@
+---
+title: legendaryshitposts
+crosslinks:
+- hearthstone
+---

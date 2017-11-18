@@ -1,0 +1,5 @@
+---
+title: fundraiser
+crosslinks:
+- gofundme
+---

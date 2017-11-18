@@ -1,0 +1,5 @@
+---
+title: Fifacoin
+crosslinks:
+- FUTRep
+---

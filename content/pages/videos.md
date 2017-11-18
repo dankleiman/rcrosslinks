@@ -1,0 +1,24 @@
+---
+title: videos
+crosslinks:
+- AskReddit
+- IAmA
+- goodlongposts
+- HailCorporate
+- pics
+- funny
+- todayilearned
+- h3h3productions
+- The_Donald
+- OutOfTheLoop
+- movies
+- gifs
+- news
+- ShitRedditSays
+- WTF
+- nocontext
+- ShitAmericansSay
+- gaming
+- shitpost
+- xkcd
+---

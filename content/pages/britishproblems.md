@@ -1,0 +1,24 @@
+---
+title: britishproblems
+crosslinks:
+- BritishSuccess
+- AskReddit
+- unitedkingdom
+- funny
+- CasualUK
+- RateMyTea
+- WeWantPlates
+- london
+- Bandnames
+- todayilearned
+- pettyrevenge
+- WTF
+- OldSchoolCool
+- IAmA
+- AskUK
+- videos
+- Music
+- LegalAdviceUK
+- television
+- AskHistorians
+---

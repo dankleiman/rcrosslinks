@@ -1,0 +1,5 @@
+---
+title: ModelPoIitico
+crosslinks:
+- ModelUSPress
+---

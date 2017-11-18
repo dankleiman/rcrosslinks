@@ -1,0 +1,24 @@
+---
+title: confusing_perspective
+crosslinks:
+- livven
+- pics
+- mildlyinteresting
+- funny
+- shittyaskscience
+- forwardsfromgrandma
+- Unexpected
+- rant
+- UpvotedBecauseGirl
+- gifs
+- interestingasfuck
+- hmmm
+- mildlypenis
+- confusing_titles
+- catsonglass
+- hatchery
+- UNBGBBIIVCHIDCTIICBG
+- vegangifrecipes
+- Art
+- thisismylifenow
+---

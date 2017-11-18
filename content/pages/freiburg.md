@@ -1,0 +1,5 @@
+---
+title: freiburg
+crosslinks:
+- de
+---

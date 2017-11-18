@@ -1,0 +1,24 @@
+---
+title: Art
+crosslinks:
+- pics
+- livven
+- StarWars
+- thefinalclean
+- AskReddit
+- drawing
+- WritingPrompts
+- fanart
+- painting
+- xkcd
+- creepy
+- place
+- autotldr
+- redditgetsdrawn
+- aww
+- ImaginaryWildlands
+- The_Donald
+- ImaginaryLandscapes
+- IsItBullshit
+- gifs
+---

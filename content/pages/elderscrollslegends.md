@@ -1,0 +1,24 @@
+---
+title: elderscrollslegends
+crosslinks:
+- CustomLegends
+- hearthstone
+- teslore
+- livven
+- duelyst
+- gwent
+- pcmasterrace
+- EternalCardGame
+- skyrim
+- TrueSTL
+- dankchristianmemes
+- Games
+- elderscrollsonline
+- chrome
+- keming
+- samuraijack
+- customhearthstone
+- yumyum36
+- Twitch
+- xkcd
+---

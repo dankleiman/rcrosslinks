@@ -1,0 +1,5 @@
+---
+title: mmatechnique
+crosslinks:
+- martialarts
+---

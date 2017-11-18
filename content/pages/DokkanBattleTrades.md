@@ -1,0 +1,5 @@
+---
+title: DokkanBattleTrades
+crosslinks:
+- DBZDokkanMarketplace
+---

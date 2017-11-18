@@ -1,0 +1,5 @@
+---
+title: UKHardcore
+crosslinks:
+- Artcore
+---

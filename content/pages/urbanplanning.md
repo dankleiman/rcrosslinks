@@ -1,0 +1,24 @@
+---
+title: urbanplanning
+crosslinks:
+- autotldr
+- transit
+- Detroit
+- nyc
+- AskEconomics
+- LosAngeles
+- philadelphia
+- norwayonreddit
+- europe
+- rva
+- educationalgifs
+- todayilearned
+- Roadcam
+- videos
+- AskHistorians
+- papertowns
+- modnews
+- DesignPorn
+- politics
+- Green_Anarchism
+---

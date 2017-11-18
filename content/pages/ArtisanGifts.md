@@ -1,0 +1,5 @@
+---
+title: ArtisanGifts
+crosslinks:
+- Etsy
+---

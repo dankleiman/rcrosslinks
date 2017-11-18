@@ -1,0 +1,5 @@
+---
+title: GoogleWallet
+crosslinks:
+- Serendipity
+---

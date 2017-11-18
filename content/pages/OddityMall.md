@@ -1,0 +1,5 @@
+---
+title: OddityMall
+crosslinks:
+- coys
+---

@@ -1,0 +1,5 @@
+---
+title: chicagojobs
+crosslinks:
+- Serendipity
+---

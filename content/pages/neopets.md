@@ -1,0 +1,24 @@
+---
+title: neopets
+crosslinks:
+- IAmA
+- place
+- neopetsmeta
+- livven
+- TheFarLeftSide
+- autotldr
+- ShadowBan
+- gifts
+- Antshares
+- samuraijack
+- HighQualityGifs
+- help
+- me_irl
+- Jokes
+- '2013'
+- MildRedditDrama
+- gaming
+- Awww
+- THE_PACK
+- technology
+---

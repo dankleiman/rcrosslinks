@@ -1,0 +1,24 @@
+---
+title: riddles
+crosslinks:
+- asoiaf
+- Paladins
+- StarWars
+- Cricket
+- UofT
+- gravityfalls
+- HighQualityGifs
+- situationpuzzles
+- AskReddit
+- UnexpectedHearthstone
+- writing
+- todayilearned
+- puzzles
+- Gotham
+- pics
+- raerth
+- rickygervais
+- codes
+- ducksintheway
+- hailcorporate
+---

@@ -1,0 +1,5 @@
+---
+title: CallforSubmissions
+crosslinks:
+- zines
+---

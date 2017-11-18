@@ -1,0 +1,5 @@
+---
+title: CardNinjas
+crosslinks:
+- redditrequest
+---

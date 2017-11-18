@@ -1,0 +1,24 @@
+---
+title: HelpMeFind
+crosslinks:
+- AskReddit
+- funny
+- gifs
+- pics
+- findfashion
+- videos
+- WTF
+- livven
+- aww
+- whatisthisthing
+- todayilearned
+- tipofmytongue
+- WritingPrompts
+- nosleep
+- IAmA
+- politics
+- me_irl
+- findareddit
+- YouShouldKnow
+- gaming
+---

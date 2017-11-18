@@ -1,0 +1,5 @@
+---
+title: BeyondCorp
+crosslinks:
+- security
+---

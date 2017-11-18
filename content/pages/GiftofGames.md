@@ -1,0 +1,24 @@
+---
+title: GiftofGames
+crosslinks:
+- indiegameswap
+- RandomActsOfGaming
+- AskReddit
+- SteamGameSwap
+- FreeGamesOnSteam
+- pcmasterrace
+- PrequelMemes
+- Minecraft
+- therewasanattempt
+- Jokes
+- steam_giveaway
+- gifs
+- GameSale
+- animegifs
+- GameDeals
+- Chinese_Bootleg_Memes
+- memes
+- sloths
+- HaloOnline
+- Overwatch
+---

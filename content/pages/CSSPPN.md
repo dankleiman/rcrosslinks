@@ -1,0 +1,5 @@
+---
+title: CSSPPN
+crosslinks:
+- minimalism
+---

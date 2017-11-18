@@ -1,0 +1,5 @@
+---
+title: compsoc
+crosslinks:
+- ripcity
+---

@@ -1,0 +1,5 @@
+---
+title: whatsthatsong
+crosslinks:
+- NameThatSong
+---

@@ -1,0 +1,5 @@
+---
+title: BibleFrontToBack
+crosslinks:
+- Christianity
+---

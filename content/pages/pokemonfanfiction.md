@@ -1,0 +1,5 @@
+---
+title: pokemonfanfiction
+crosslinks:
+- FanFiction
+---

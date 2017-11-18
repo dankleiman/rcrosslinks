@@ -1,0 +1,24 @@
+---
+title: steinsgate
+crosslinks:
+- anime
+- visualnovels
+- JapaneseShamanGirls
+- VitaPiracy
+- SteinsGateMemes
+- IAmA
+- me_irl
+- OutOfTheLoop
+- StardustCrusaders
+- Serendipity
+- BrasilOnReddit
+- thedistantvalhalla
+- InitialDvideos
+- AnimeFigures
+- im12andthisisdeep
+- unexpectedfactorial
+- place
+- evangelion
+- Kurisutina
+- anime_irl
+---

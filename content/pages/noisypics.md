@@ -1,0 +1,5 @@
+---
+title: noisypics
+crosslinks:
+- PeopleFuckingDying
+---

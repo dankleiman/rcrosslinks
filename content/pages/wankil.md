@@ -1,0 +1,5 @@
+---
+title: wankil
+crosslinks:
+- Minecraft
+---

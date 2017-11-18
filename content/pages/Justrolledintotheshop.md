@@ -1,0 +1,24 @@
+---
+title: Justrolledintotheshop
+crosslinks:
+- livven
+- Shitty_Car_Mods
+- xkcd
+- AskReddit
+- cars
+- funny
+- WTF
+- MechanicAdvice
+- talesfromtechsupport
+- videos
+- pics
+- Skookum
+- DIY
+- whatisthisthing
+- Autos
+- mildlyinteresting
+- AskAShittyMechanic
+- gifs
+- projectcar
+- tifu
+---

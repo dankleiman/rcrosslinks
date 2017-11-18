@@ -1,0 +1,21 @@
+---
+title: triathlon
+crosslinks:
+- BicyclingCirclejerk
+- Garmin
+- running
+- Swimming
+- metric_units
+- Roadcam
+- autotldr
+- MealPrepSunday
+- wtfstockphotos
+- progresspics
+- loseit
+- videos
+- science
+- livven
+- Serendipity
+- cycling
+- nocontext
+---

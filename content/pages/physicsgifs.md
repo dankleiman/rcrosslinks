@@ -1,0 +1,24 @@
+---
+title: physicsgifs
+crosslinks:
+- livven
+- gifs
+- xkcd
+- AskPhysics
+- Crystals
+- educationalgifs
+- ShowerOrange
+- Whatcouldgowrong
+- pics
+- BeAmazed
+- IdiotsFightingThings
+- VXJunkies
+- Damnthatsinteresting
+- theydidthemath
+- see
+- underpopular
+- nonononoyes
+- noisygifs
+- unexpectedfactorial
+- shestillsucking
+---

@@ -1,0 +1,5 @@
+---
+title: SwapRecommendations
+crosslinks:
+- milliondollarextreme
+---

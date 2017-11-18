@@ -1,0 +1,5 @@
+---
+title: solutions
+crosslinks:
+- AMAAggregator
+---

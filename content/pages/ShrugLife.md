@@ -1,0 +1,5 @@
+---
+title: ShrugLife
+crosslinks:
+- livven
+---

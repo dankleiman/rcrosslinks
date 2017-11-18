@@ -1,0 +1,5 @@
+---
+title: Everydaypictures
+crosslinks:
+- DesirePath
+---

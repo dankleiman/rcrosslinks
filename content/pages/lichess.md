@@ -1,0 +1,5 @@
+---
+title: lichess
+crosslinks:
+- chess
+---

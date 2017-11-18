@@ -1,0 +1,5 @@
+---
+title: OutdoorsGear
+crosslinks:
+- askscience
+---

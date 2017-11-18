@@ -1,0 +1,5 @@
+---
+title: lmGoingToHellForThis
+crosslinks:
+- autotldr
+---

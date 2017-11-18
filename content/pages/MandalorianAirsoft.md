@@ -1,0 +1,5 @@
+---
+title: MandalorianAirsoft
+crosslinks:
+- guns
+---

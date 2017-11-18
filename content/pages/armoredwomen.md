@@ -1,0 +1,24 @@
+---
+title: armoredwomen
+crosslinks:
+- ArtofHands
+- stevenuniverse
+- wma
+- StarVStheForcesofEvil
+- rpg
+- ImaginaryAetherpunk
+- sexyhair
+- maille
+- pics
+- Hema
+- EpicMounts
+- 40kLore
+- Blacksmith
+- ImaginaryMythology
+- ABraThatFits
+- starcitizen
+- sca
+- Berserk
+- SongofSwordsRPG
+- gatekeeping
+---

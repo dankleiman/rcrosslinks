@@ -1,0 +1,24 @@
+---
+title: motogp
+crosslinks:
+- livven
+- motorcycles
+- formula1
+- Cinemagraphs
+- MotoGPPorn
+- Ride2
+- MotorsportsCalendar
+- Makemeagif
+- LateStageCapitalism
+- Tiresaretheenemy
+- karmawhore
+- MapsWithoutNZ
+- BrasilOnReddit
+- OldSchoolCool
+- Documentaries
+- Austin
+- paddockgirls
+- karmawhoring
+- kittens
+- KarmaCourt
+---

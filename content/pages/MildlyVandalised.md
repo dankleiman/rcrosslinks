@@ -1,0 +1,24 @@
+---
+title: MildlyVandalised
+crosslinks:
+- pics
+- mildlyinteresting
+- xkcd
+- funny
+- dontdeadopeninside
+- modnews
+- livven
+- madlads
+- PostAndBecomeAMod
+- ProCSS
+- Justrolledintotheshop
+- hmmm
+- mildlypenis
+- alaska
+- Burritokitten
+- 2007scape
+- australia
+- houston
+- r
+- GooglyEyes
+---

@@ -1,0 +1,5 @@
+---
+title: yourestupidquitit
+crosslinks:
+- autotldr
+---

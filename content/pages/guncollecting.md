@@ -1,0 +1,5 @@
+---
+title: guncollecting
+crosslinks:
+- antiqueguns
+---

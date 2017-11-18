@@ -1,0 +1,5 @@
+---
+title: YamadaAndSevenWitches
+crosslinks:
+- manga
+---

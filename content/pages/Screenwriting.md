@@ -1,0 +1,24 @@
+---
+title: Screenwriting
+crosslinks:
+- ProduceMyScript
+- ReadMyScript
+- Filmmakers
+- WritingPrompts
+- fixingmovies
+- autotldr
+- AskReddit
+- writing
+- movies
+- EelKat
+- xkcd
+- Harmontown
+- Standup
+- getdisciplined
+- docproduction
+- creepyasterisks
+- whowouldwin
+- immigration
+- TrueFilm
+- TylerWritesShit
+---

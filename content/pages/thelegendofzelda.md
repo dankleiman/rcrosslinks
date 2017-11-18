@@ -1,0 +1,5 @@
+---
+title: thelegendofzelda
+crosslinks:
+- nintendo
+---

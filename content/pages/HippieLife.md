@@ -1,0 +1,5 @@
+---
+title: HippieLife
+crosslinks:
+- Serendipity
+---

@@ -1,0 +1,5 @@
+---
+title: GreenPartyNB
+crosslinks:
+- GreenPartyOfCanada
+---

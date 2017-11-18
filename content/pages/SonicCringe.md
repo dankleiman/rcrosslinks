@@ -1,0 +1,5 @@
+---
+title: SonicCringe
+crosslinks:
+- SonicTheHedgehog
+---

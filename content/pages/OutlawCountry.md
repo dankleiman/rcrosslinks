@@ -1,0 +1,5 @@
+---
+title: OutlawCountry
+crosslinks:
+- Serendipity
+---

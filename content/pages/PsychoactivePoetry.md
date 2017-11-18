@@ -1,0 +1,5 @@
+---
+title: PsychoactivePoetry
+crosslinks:
+- Drugs
+---

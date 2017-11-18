@@ -1,0 +1,24 @@
+---
+title: onebag
+crosslinks:
+- Ultralight
+- digitalnomad
+- Outlier
+- EDC
+- HerOneBag
+- redditrequest
+- outlier
+- Goruck
+- shittykickstarters
+- myog
+- OutlierMarket
+- malefashionadvice
+- OutOfTheLoop
+- xkcd
+- CampingandHiking
+- nottheonion
+- gatekeeping
+- flashlight
+- ultralight_jerk
+- PeopleWhoSayHeck
+---

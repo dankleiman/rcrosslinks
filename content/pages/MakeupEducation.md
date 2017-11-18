@@ -1,0 +1,5 @@
+---
+title: MakeupEducation
+crosslinks:
+- drugstoreMUA
+---

@@ -1,0 +1,5 @@
+---
+title: BlueNeptune
+crosslinks:
+- interestingasfuck
+---

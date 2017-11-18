@@ -1,0 +1,5 @@
+---
+title: Worldpainter
+crosslinks:
+- Minecraft
+---

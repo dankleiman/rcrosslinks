@@ -1,0 +1,5 @@
+---
+title: randomnsfw
+crosslinks:
+- randnsfw
+---

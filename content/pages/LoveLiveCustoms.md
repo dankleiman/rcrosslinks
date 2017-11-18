@@ -1,0 +1,5 @@
+---
+title: LoveLiveCustoms
+crosslinks:
+- SchoolIdolFestival
+---

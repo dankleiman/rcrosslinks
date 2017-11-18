@@ -1,0 +1,5 @@
+---
+title: ShitBrocialistsSay
+crosslinks:
+- socialism
+---

@@ -1,0 +1,5 @@
+---
+title: allpolitics
+crosslinks:
+- autotldr
+---

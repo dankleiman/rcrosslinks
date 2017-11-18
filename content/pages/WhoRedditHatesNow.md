@@ -1,0 +1,5 @@
+---
+title: WhoRedditHatesNow
+crosslinks:
+- worldnews
+---

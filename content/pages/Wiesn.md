@@ -1,0 +1,5 @@
+---
+title: Wiesn
+crosslinks:
+- Munich
+---

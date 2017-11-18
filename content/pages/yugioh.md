@@ -1,0 +1,24 @@
+---
+title: yugioh
+crosslinks:
+- YGOBinders
+- YGOSales
+- Yugioh101
+- MetaYGO
+- livven
+- YuGiOh_Manga
+- yugijerk
+- customyugioh
+- magicTCG
+- DuelLinks
+- Frightfurs
+- TheDuelistKingdom
+- firekings
+- copypasta
+- REEEEEEEEEE
+- RANK10TRAINS
+- videos
+- Pixiv
+- Monarchs
+- ImaginaryDragons
+---

@@ -1,0 +1,5 @@
+---
+title: nsfwchess
+crosslinks:
+- WomenPlayingChess
+---

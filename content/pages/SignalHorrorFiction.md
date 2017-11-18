@@ -1,0 +1,5 @@
+---
+title: SignalHorrorFiction
+crosslinks:
+- TheAngsthaseAnthology
+---

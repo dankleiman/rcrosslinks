@@ -1,0 +1,5 @@
+---
+title: elkhunting
+crosslinks:
+- flashlight
+---

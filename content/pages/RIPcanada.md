@@ -1,0 +1,5 @@
+---
+title: RIPcanada
+crosslinks:
+- canada
+---

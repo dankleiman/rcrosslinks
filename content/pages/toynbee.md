@@ -1,0 +1,5 @@
+---
+title: toynbee
+crosslinks:
+- Serendipity
+---

@@ -1,0 +1,5 @@
+---
+title: ThingsIWishIKnew
+crosslinks:
+- personalfinance
+---

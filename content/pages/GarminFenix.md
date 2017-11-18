@@ -1,0 +1,5 @@
+---
+title: GarminFenix
+crosslinks:
+- Garmin
+---

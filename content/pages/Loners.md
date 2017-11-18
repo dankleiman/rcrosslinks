@@ -1,0 +1,5 @@
+---
+title: Loners
+crosslinks:
+- introvert
+---

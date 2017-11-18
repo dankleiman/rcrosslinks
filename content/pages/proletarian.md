@@ -1,0 +1,5 @@
+---
+title: proletarian
+crosslinks:
+- RadicalFeminism
+---

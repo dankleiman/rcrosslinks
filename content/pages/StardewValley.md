@@ -1,0 +1,24 @@
+---
+title: StardewValley
+crosslinks:
+- xkcd
+- NintendoSwitch
+- FarmsofStardewValley
+- oddlysatisfying
+- gaming
+- livven
+- relationships
+- shitpost
+- ValleyModders
+- place
+- pcmasterrace
+- Stardew_Valley
+- gifs
+- ConsoleKSP
+- Needlefelting
+- niceguys
+- Games
+- CrossStitch
+- Drama
+- eroticauthors
+---

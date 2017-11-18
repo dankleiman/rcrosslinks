@@ -1,0 +1,5 @@
+---
+title: PedanticCompliance
+crosslinks:
+- MaliciousCompliance
+---

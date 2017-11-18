@@ -1,0 +1,5 @@
+---
+title: riyria
+crosslinks:
+- Fantasy
+---

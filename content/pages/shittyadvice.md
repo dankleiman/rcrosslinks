@@ -1,0 +1,24 @@
+---
+title: shittyadvice
+crosslinks:
+- ShittyLifeProTips
+- shittyaskscience
+- gay
+- unexpectedjihad
+- unexpectedmetallica
+- tifu
+- UnexpectedlyBrutal
+- forwardsfromhitler
+- EnoughInternet
+- xkcd
+- BrasilOnReddit
+- intrusivethoughts
+- legaladvice
+- '2013'
+- CascadaStyleSheet
+- askashittydoctor
+- AMAAggregator
+- myfriendwantstoknow
+- youclickedthelink
+- techsupport
+---

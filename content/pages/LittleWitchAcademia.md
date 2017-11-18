@@ -1,0 +1,24 @@
+---
+title: LittleWitchAcademia
+crosslinks:
+- LilWitchSpankademia
+- Akkordian
+- livven
+- anime
+- KillLaKill
+- AnimalCrossing
+- Pixiv
+- ANI_COMMUNISM
+- place
+- trigger
+- masseffect
+- NetflixViaVPN
+- unexpectedoverwatch
+- FacesOfLWA
+- needamod
+- whowouldwin
+- Elsanna
+- hentai
+- '2013'
+- Vocaloid
+---

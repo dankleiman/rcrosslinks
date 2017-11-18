@@ -1,0 +1,24 @@
+---
+title: Metroid
+crosslinks:
+- AM2R
+- nintendo
+- 3dshacks
+- NintendoSwitch
+- metroidcirclejerk
+- 3DS
+- livven
+- gaming
+- metroidvania
+- place
+- AskReddit
+- AskScienceFiction
+- 3dsgamenight
+- BeAmazed
+- sounding
+- Parahumans
+- Cardinals
+- gravityfalls
+- Games
+- speedrun
+---

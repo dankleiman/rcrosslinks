@@ -1,0 +1,24 @@
+---
+title: MonsterHunter
+crosslinks:
+- monsterhunterclan
+- monsterhunterrage
+- 3dshacks
+- NintendoSwitch
+- livven
+- placestart
+- MHF
+- MH34u
+- MHOnline
+- place
+- nocontext
+- AceCadetJokes
+- 3DS
+- Laxaria
+- mhguildquests
+- MonsterHunterCustoms
+- Overwatch
+- gatekeeping
+- shittydarksouls
+- raerth
+---

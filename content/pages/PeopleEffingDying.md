@@ -1,0 +1,5 @@
+---
+title: PeopleEffingDying
+crosslinks:
+- PeopleFuckingDying
+---

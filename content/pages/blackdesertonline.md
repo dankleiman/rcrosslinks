@@ -1,0 +1,24 @@
+---
+title: blackdesertonline
+crosslinks:
+- livven
+- BDOGuilds
+- MMORPG
+- DFO
+- gaming
+- PUBATTLEGROUNDS
+- Guildwars2
+- Eve
+- REEEEEEEEEE
+- '2013'
+- Summit1G
+- Amd
+- instant_regret
+- Pay_Respects
+- rotator
+- food
+- EliteDangerous
+- Overwatch
+- Bless
+- SaltySeamen
+---

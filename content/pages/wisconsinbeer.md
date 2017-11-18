@@ -1,0 +1,5 @@
+---
+title: wisconsinbeer
+crosslinks:
+- GreenBay
+---

@@ -1,0 +1,24 @@
+---
+title: phish
+crosslinks:
+- livven
+- gratefuldead
+- place
+- PhishVideos
+- Organic_Food
+- pics
+- Music
+- Frisson
+- MusicEd
+- funny
+- food
+- trees
+- awesome
+- LeagueOfMemes
+- phishcirclejerk
+- AskOuija
+- 2meirl4meirl
+- AskReddit
+- Serendipity
+- AnimalCollective
+---

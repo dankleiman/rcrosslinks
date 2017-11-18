@@ -1,0 +1,5 @@
+---
+title: deepfrieddoggos
+crosslinks:
+- Zoomies
+---

@@ -1,0 +1,24 @@
+---
+title: arabs
+crosslinks:
+- autotldr
+- islam
+- worldnews
+- AskHistorians
+- Israel
+- The_Donald
+- Palestine
+- MapPorn
+- iranian
+- syriancivilwar
+- pro2
+- europe
+- pics
+- history
+- Anarchism
+- Turkey
+- Le_Pen
+- nottheonion
+- Assyria
+- Bahrain
+---

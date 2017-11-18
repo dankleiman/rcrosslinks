@@ -1,0 +1,5 @@
+---
+title: Zenon
+crosslinks:
+- food
+---

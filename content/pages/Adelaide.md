@@ -1,0 +1,24 @@
+---
+title: Adelaide
+crosslinks:
+- australia
+- autotldr
+- BneStrong
+- auslaw
+- PlasticSurgery
+- AskReddit
+- rally
+- illuminaticonfirmed
+- WeAreTheMusicMakers
+- AustralianPlantSwap
+- Futurology
+- livven
+- StandUpComedy
+- meteorology
+- ausents
+- geocaching
+- islam
+- vegancirclejerk
+- The_Donald
+- UnresolvedMysteries
+---

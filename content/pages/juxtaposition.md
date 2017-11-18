@@ -1,0 +1,24 @@
+---
+title: juxtaposition
+crosslinks:
+- SheLikesItRough
+- AskReddit
+- mildlyinteresting
+- gifs
+- Irony
+- nevertellmetheodds
+- UpliftingNews
+- socialism
+- pussypass
+- rage
+- WritingPrompts
+- Perfectfit
+- cardsagainsthumanity
+- ChargeYourPhone
+- AskOuija
+- videos
+- Steam
+- gifsthatendtoosoon
+- Catholicism
+- AdviceAnimals
+---

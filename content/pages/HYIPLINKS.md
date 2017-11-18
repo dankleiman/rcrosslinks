@@ -1,0 +1,5 @@
+---
+title: HYIPLINKS
+crosslinks:
+- HyipMonitors
+---

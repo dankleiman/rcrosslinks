@@ -1,0 +1,5 @@
+---
+title: PunkLovers
+crosslinks:
+- nsfw
+---

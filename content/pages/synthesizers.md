@@ -1,0 +1,24 @@
+---
+title: synthesizers
+crosslinks:
+- modular
+- volcas
+- edmproduction
+- synthrecipes
+- OP1users
+- MusicBattlestations
+- Synths4Sale
+- guitarpedals
+- synthdiy
+- WeAreTheMusicMakers
+- Music
+- pocketoperators
+- ipadmusic
+- xkcd
+- musictheory
+- piano
+- audioengineering
+- TechnoProduction
+- diysynth
+- Drumkits
+---

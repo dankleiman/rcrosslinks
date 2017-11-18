@@ -1,0 +1,24 @@
+---
+title: facepalm
+crosslinks:
+- The_Donald
+- xkcd
+- facepalmfacepalms
+- AskReddit
+- politics
+- autotldr
+- pics
+- funny
+- livven
+- TrashyText
+- CrappyDesign
+- CringeAnarchy
+- conspiracy
+- WTF
+- explainlikeimfive
+- weekendgunnit
+- ShitPoliticsSays
+- ShitAmericansSay
+- gifs
+- facepalmfacepalm
+---

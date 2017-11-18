@@ -1,0 +1,5 @@
+---
+title: BashRMS
+crosslinks:
+- linuxmemes
+---

@@ -1,0 +1,5 @@
+---
+title: DarkerThanBlack
+crosslinks:
+- anime
+---

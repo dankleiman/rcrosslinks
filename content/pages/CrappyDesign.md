@@ -1,0 +1,24 @@
+---
+title: CrappyDesign
+crosslinks:
+- livven
+- funny
+- xkcd
+- dontdeadopeninside
+- nocontext
+- mildlyinfuriating
+- mildlyinteresting
+- pics
+- WTF
+- AskReddit
+- ProgrammerHumor
+- softwaregore
+- accidentalswastika
+- jesuschristreddit
+- gifs
+- keming
+- hmmm
+- facepalm
+- unexpectedfactorial
+- OutOfTheLoop
+---

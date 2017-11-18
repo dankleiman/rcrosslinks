@@ -1,0 +1,22 @@
+---
+title: motivation
+crosslinks:
+- Fitness
+- MountainWisdom
+- getdisciplined
+- funny
+- loseit
+- nicealpha
+- ShrugLifeSyndicate
+- BoundlessPotential
+- Anger
+- pics
+- DecidingToBeBetter
+- GetMotivated
+- Serendipity
+- TsundereSharks
+- autotldr
+- ForeverAlone
+- videos
+- titlegore
+---

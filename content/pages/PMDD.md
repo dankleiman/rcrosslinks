@@ -1,0 +1,5 @@
+---
+title: PMDD
+crosslinks:
+- kratom
+---

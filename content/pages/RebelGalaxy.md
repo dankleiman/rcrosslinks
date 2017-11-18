@@ -1,0 +1,5 @@
+---
+title: RebelGalaxy
+crosslinks:
+- xkcd
+---

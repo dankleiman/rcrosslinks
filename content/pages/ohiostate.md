@@ -1,0 +1,5 @@
+---
+title: ohiostate
+crosslinks:
+- Temple
+---

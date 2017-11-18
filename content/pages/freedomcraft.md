@@ -1,0 +1,5 @@
+---
+title: freedomcraft
+crosslinks:
+- mcservers
+---

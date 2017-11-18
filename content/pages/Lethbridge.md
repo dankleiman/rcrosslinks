@@ -1,0 +1,5 @@
+---
+title: Lethbridge
+crosslinks:
+- canada
+---

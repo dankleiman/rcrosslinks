@@ -1,0 +1,5 @@
+---
+title: greenlightdiecast
+crosslinks:
+- HotWheels
+---

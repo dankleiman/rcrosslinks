@@ -1,0 +1,5 @@
+---
+title: Baghdadjokes
+crosslinks:
+- Jokes
+---

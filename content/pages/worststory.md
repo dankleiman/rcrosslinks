@@ -1,0 +1,5 @@
+---
+title: worststory
+crosslinks:
+- WTF
+---

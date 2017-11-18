@@ -1,0 +1,5 @@
+---
+title: anYme
+crosslinks:
+- anime
+---

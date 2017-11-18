@@ -1,0 +1,5 @@
+---
+title: sqlite
+crosslinks:
+- sysadmin
+---

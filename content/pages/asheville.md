@@ -1,0 +1,24 @@
+---
+title: asheville
+crosslinks:
+- autotldr
+- explainlikeimfive
+- NegativeWithGold
+- Political_Revolution
+- ashevillecitysc
+- whatisthisthing
+- mowerthoughts
+- nuclearweapons
+- shitcomment
+- naut
+- Dreadlocks
+- vangogh
+- WNC
+- OutOfTheLoop
+- AshevilleClassifieds
+- metric_units
+- livven
+- DeadBedrooms
+- appstate
+- lfg
+---

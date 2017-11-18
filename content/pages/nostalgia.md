@@ -1,0 +1,24 @@
+---
+title: nostalgia
+crosslinks:
+- livven
+- xkcd
+- gatekeeping
+- HailCorporate
+- pics
+- tipofmytongue
+- IAmA
+- MandelaEffect
+- lewronggeneration
+- gaming
+- nocontext
+- AwesomeCarMods
+- jesuschristreddit
+- Shitty_Car_Mods
+- mildlyinteresting
+- retrogaming
+- todayilearned
+- WTF
+- 90s
+- RedditForGrownups
+---

@@ -1,0 +1,23 @@
+---
+title: Mindfulness
+crosslinks:
+- autotldr
+- Meditation
+- getdisciplined
+- xkcd
+- zen
+- download
+- streamentry
+- self
+- ZeroWaste
+- ADHD
+- getting_over_it
+- Art
+- livven
+- Psychonaut
+- LSD
+- microdosing
+- Minecraft
+- Stoicism
+- relationships
+---

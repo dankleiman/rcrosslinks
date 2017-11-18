@@ -1,0 +1,22 @@
+---
+title: JavDownloadCenter
+crosslinks:
+- YukiJin
+- Kappa
+- japancirclejerk
+- MEGA
+- NSFW_Korea
+- doujinshi
+- rockthehousemd
+- shioritsukada
+- incest
+- NSFW_Japan
+- AsianPorn
+- megalinks
+- GiannaMichaels
+- SakiOkuda
+- Reluctance
+- jav
+- YuiHatano
+- Piracy
+---

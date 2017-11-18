@@ -1,0 +1,5 @@
+---
+title: whoneedspants
+crosslinks:
+- gonewild
+---

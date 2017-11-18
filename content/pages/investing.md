@@ -1,0 +1,24 @@
+---
+title: investing
+crosslinks:
+- personalfinance
+- Bitcoin
+- InvestingCJ
+- financialindependence
+- StockMarket
+- stockaday
+- stocks
+- ethtrader
+- weedstocks
+- xkcd
+- CryptoCurrency
+- ethereum
+- options
+- teslamotors
+- explainlikeimfive
+- Futurology
+- technology
+- SecurityAnalysis
+- The_Donald
+- Forex
+---

@@ -1,0 +1,5 @@
+---
+title: Gory
+crosslinks:
+- Gore
+---

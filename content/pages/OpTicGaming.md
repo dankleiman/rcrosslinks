@@ -1,0 +1,24 @@
+---
+title: OpTicGaming
+crosslinks:
+- CoDCompetitive
+- DotA2
+- place
+- halo
+- FIFA
+- Competitiveoverwatch
+- modnews
+- causeWhyNotMate
+- nfl
+- 100thieves
+- CLG
+- DotaVods
+- OutOfTheLoop
+- reddevils
+- LivestreamFail
+- leagueoflegends
+- thooorin
+- Ice_Poseidon
+- EnoughTrumpSpam
+- RoastMe
+---

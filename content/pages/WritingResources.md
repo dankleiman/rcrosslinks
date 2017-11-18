@@ -1,0 +1,5 @@
+---
+title: WritingResources
+crosslinks:
+- askphilosophy
+---

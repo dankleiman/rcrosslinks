@@ -1,0 +1,5 @@
+---
+title: gettingready
+crosslinks:
+- RealGirls
+---

@@ -1,0 +1,24 @@
+---
+title: USMC
+crosslinks:
+- autotldr
+- Military
+- livven
+- forwardsfromgunny
+- AirForce
+- army
+- Frisson
+- IAmA
+- news
+- OldSchoolCool
+- navy
+- funny
+- all
+- HistoryPorn
+- offmychest
+- AskReddit
+- videos
+- Drama
+- madlads
+- guns
+---

@@ -1,0 +1,24 @@
+---
+title: Mustang
+crosslinks:
+- classicmustangs
+- AutoDetailing
+- NewedgeMustang
+- cars
+- livven
+- MustangTech
+- Justrolledintotheshop
+- Ford
+- foxmustang
+- camaro
+- EngineBuilding
+- autotldr
+- s550mustangs
+- autodetailing
+- HighQualityGifs
+- PrequelMemes
+- SN95STANGS
+- s550Mustang
+- metric_units
+- BoJackHorseman
+---

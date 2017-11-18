@@ -1,0 +1,5 @@
+---
+title: rtings
+crosslinks:
+- hometheater
+---

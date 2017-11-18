@@ -1,0 +1,5 @@
+---
+title: shirtcolors
+crosslinks:
+- all
+---

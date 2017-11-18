@@ -1,0 +1,24 @@
+---
+title: PortugalOnReddit
+crosslinks:
+- soccer
+- europe
+- pics
+- EarthPorn
+- tattoos
+- CityPorn
+- todayilearned
+- gifs
+- eu4
+- VillagePorn
+- 4chan
+- food
+- creepy
+- The_Donald
+- podemos
+- travel
+- ExposurePorn
+- Drugs
+- formula1
+- sports
+---

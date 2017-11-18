@@ -1,0 +1,5 @@
+---
+title: FirefoxCSS
+crosslinks:
+- firefox
+---

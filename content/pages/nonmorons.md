@@ -1,0 +1,5 @@
+---
+title: nonmorons
+crosslinks:
+- exmuslim
+---

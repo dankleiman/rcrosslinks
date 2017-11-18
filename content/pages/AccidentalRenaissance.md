@@ -1,0 +1,24 @@
+---
+title: AccidentalRenaissance
+crosslinks:
+- pics
+- accidentalrockwell
+- AccidentalArtGallery
+- therewasanattempt
+- itookapicture
+- natureismetal
+- xkcd
+- Kanye
+- PerfectTiming
+- aww
+- grilledcheese
+- OldSchoolCool
+- redditgetsdrawn
+- AccidentalBaroque
+- trashy
+- funny
+- AskReddit
+- itlookslikeapainting
+- NegativeWithGold
+- gatekeeping
+---

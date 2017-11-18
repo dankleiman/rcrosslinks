@@ -1,0 +1,24 @@
+---
+title: robotics
+crosslinks:
+- autotldr
+- arduino
+- FTC
+- livven
+- FRC
+- xkcd
+- AskElectronics
+- 3Dprinting
+- Futurology
+- compsci
+- MachineLearning
+- ControlTheory
+- QuantumComputing
+- DIY
+- cscareerquestions
+- AskEngineers
+- technology
+- manna
+- ROS
+- automate
+---

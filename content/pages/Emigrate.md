@@ -1,0 +1,5 @@
+---
+title: Emigrate
+crosslinks:
+- Rammstein
+---

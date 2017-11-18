@@ -1,0 +1,5 @@
+---
+title: SubBoxBST
+crosslinks:
+- lootcrate
+---

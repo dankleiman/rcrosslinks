@@ -1,0 +1,24 @@
+---
+title: CrackWatch
+crosslinks:
+- CrackSupport
+- CrackStatus
+- Piracy
+- Gamingcirclejerk
+- pcgaming
+- pcmasterrace
+- trackers
+- autotldr
+- Games
+- SoftwarePiracy
+- cemu
+- denuvotrading
+- Crackwatchforkids
+- ConanExiles
+- HaloOnline
+- megalinks
+- livven
+- patientgamers
+- nier
+- xkcd
+---

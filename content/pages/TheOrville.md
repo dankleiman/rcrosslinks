@@ -1,0 +1,24 @@
+---
+title: TheOrville
+crosslinks:
+- startrek
+- IAmA
+- autotldr
+- television
+- cordcutters
+- DaystromInstitute
+- scifi
+- SciFiModels
+- Masterchef
+- Stargate
+- livven
+- iama
+- Drama
+- ShittyDaystrom
+- TopMindsOfReddit
+- StarTrekDiscovery
+- marijuanaenthusiasts
+- xkcd
+- westworld
+- AskReddit
+---

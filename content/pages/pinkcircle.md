@@ -1,0 +1,5 @@
+---
+title: pinkcircle
+crosslinks:
+- place
+---

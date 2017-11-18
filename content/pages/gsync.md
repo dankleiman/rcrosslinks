@@ -1,0 +1,5 @@
+---
+title: gsync
+crosslinks:
+- Monitors
+---

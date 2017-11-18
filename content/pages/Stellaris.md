@@ -1,0 +1,24 @@
+---
+title: Stellaris
+crosslinks:
+- paradoxplaza
+- HFY
+- 4Xgaming
+- StellarisMods
+- shitstellarissays
+- xkcd
+- CrusaderKings
+- nocontext
+- stellarisrpg
+- livven
+- eu4
+- askscience
+- EmpireDidNothingWrong
+- WritingPrompts
+- ShitXenosSay
+- anime
+- Xenonion
+- WarCollege
+- ParadoxExtra
+- Steam
+---

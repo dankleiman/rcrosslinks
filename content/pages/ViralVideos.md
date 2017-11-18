@@ -1,0 +1,5 @@
+---
+title: ViralVideos
+crosslinks:
+- PoliticalHumor
+---

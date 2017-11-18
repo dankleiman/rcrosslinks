@@ -1,0 +1,5 @@
+---
+title: appetizers
+crosslinks:
+- Charcuterie
+---

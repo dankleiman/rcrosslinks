@@ -1,0 +1,5 @@
+---
+title: eroshare
+crosslinks:
+- redditisfun
+---

@@ -1,0 +1,5 @@
+---
+title: LGBTPolitics
+crosslinks:
+- worldnews
+---

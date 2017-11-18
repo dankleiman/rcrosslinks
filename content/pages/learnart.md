@@ -1,0 +1,24 @@
+---
+title: learnart
+crosslinks:
+- ArtFundamentals
+- ArtLessons
+- redditgetsdrawn
+- IDAP
+- DigitalPainting
+- SketchDaily
+- gameDevClassifieds
+- HappyTrees
+- Art
+- ArtistLounge
+- HungryArtists
+- SmutBuddy
+- livven
+- restofthefuckingowl
+- artlessons
+- NewMastersAcademy
+- ArtProgressPics
+- Imaginaryvessels
+- loseit
+- freelance
+---

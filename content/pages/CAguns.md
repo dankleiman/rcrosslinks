@@ -1,0 +1,24 @@
+---
+title: CAguns
+crosslinks:
+- ar15
+- gundeals
+- guns
+- Firearms
+- autotldr
+- progun
+- Gunsforsale
+- ak47
+- cagunexchange
+- changemyview
+- '2014'
+- legaladvice
+- uncensorednews
+- Knife_Swap
+- CCW
+- The_Donald_CA
+- sanfrancisco
+- QuotesPorn
+- RightwingLGBT
+- Sovereigncitizen
+---

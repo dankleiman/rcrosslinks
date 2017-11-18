@@ -1,0 +1,24 @@
+---
+title: mildlyinfuriating
+crosslinks:
+- livven
+- xkcd
+- AskReddit
+- mildlyinteresting
+- funny
+- CrappyDesign
+- pics
+- socialism
+- oddlysatisfying
+- The_Donald
+- softwaregore
+- gifs
+- firstworldanarchists
+- LateStageCapitalism
+- autotldr
+- announcements
+- Showerthoughts
+- me_irl
+- assholedesign
+- videos
+---

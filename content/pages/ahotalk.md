@@ -1,0 +1,5 @@
+---
+title: ahotalk
+crosslinks:
+- ja
+---

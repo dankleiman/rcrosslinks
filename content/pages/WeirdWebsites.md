@@ -1,0 +1,5 @@
+---
+title: WeirdWebsites
+crosslinks:
+- codes
+---

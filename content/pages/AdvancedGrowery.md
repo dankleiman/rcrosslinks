@@ -1,0 +1,5 @@
+---
+title: AdvancedGrowery
+crosslinks:
+- Supersoil
+---

@@ -1,0 +1,5 @@
+---
+title: WoWGoldMaking
+crosslinks:
+- woweconomy
+---

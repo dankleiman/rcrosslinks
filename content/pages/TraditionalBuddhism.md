@@ -1,0 +1,5 @@
+---
+title: TraditionalBuddhism
+crosslinks:
+- Buddhism
+---

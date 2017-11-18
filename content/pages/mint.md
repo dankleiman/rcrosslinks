@@ -1,0 +1,5 @@
+---
+title: mint
+crosslinks:
+- mintuit
+---

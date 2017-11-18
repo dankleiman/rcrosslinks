@@ -1,0 +1,5 @@
+---
+title: Antiglobalism
+crosslinks:
+- autotldr
+---

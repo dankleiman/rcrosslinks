@@ -1,0 +1,24 @@
+---
+title: mallninjashit
+crosslinks:
+- livven
+- weekendgunnit
+- EDC
+- pics
+- ATBGE
+- knives
+- SWORDS
+- mallninja
+- guns
+- StarWars
+- martialarts
+- gaming
+- furry_irl
+- houston
+- xkcd
+- me_irl
+- tifu
+- gifs
+- japancirclejerk
+- delusionalartists
+---

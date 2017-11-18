@@ -1,0 +1,5 @@
+---
+title: thingsibelievedasakid
+crosslinks:
+- comics
+---

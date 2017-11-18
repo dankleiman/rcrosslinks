@@ -1,0 +1,5 @@
+---
+title: that
+crosslinks:
+- mildlyinteresting
+---

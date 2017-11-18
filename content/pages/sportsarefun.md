@@ -1,0 +1,24 @@
+---
+title: sportsarefun
+crosslinks:
+- livven
+- hockey
+- sports
+- videos
+- gifs
+- wholesomegifs
+- hawwkey
+- AskReddit
+- formula1
+- MadeMeSmile
+- theocho
+- funny
+- AnimalsBeingJerks
+- BetterEveryLoop
+- FixedGearBicycle
+- nfl
+- DDDJDD
+- fuckingmanly
+- nrl
+- soccer
+---

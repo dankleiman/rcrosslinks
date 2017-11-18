@@ -1,0 +1,5 @@
+---
+title: BadGirlsClub
+crosslinks:
+- ANTM
+---

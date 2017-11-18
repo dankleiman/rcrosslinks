@@ -1,0 +1,24 @@
+---
+title: PAX
+crosslinks:
+- PaxPassExchange
+- ffxiv
+- PAXswag
+- PAXChecker
+- paxeast
+- GameTrade
+- wow
+- ShadowBan
+- MonsterHunter
+- roosterteeth
+- paxswag
+- Megaman
+- dndnext
+- Seattle
+- Pathfinder_RPG
+- livven
+- chumpydo
+- 358137p
+- TheCTeam
+- RandomActsOfGaming
+---

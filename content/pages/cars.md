@@ -1,0 +1,24 @@
+---
+title: cars
+crosslinks:
+- autotldr
+- teslamotors
+- AutoDetailing
+- askcarsales
+- automotivetraining
+- Justrolledintotheshop
+- Autos
+- AutosNetwork
+- Miata
+- xkcd
+- carscirclejerk
+- Shitty_Car_Mods
+- Trucks
+- ShitAmericansSay
+- GolfGTI
+- ft86
+- AskReddit
+- BMW
+- CarAV
+- Honda
+---

@@ -1,0 +1,5 @@
+---
+title: PokePlazaReferences
+crosslinks:
+- PokemonPlaza
+---

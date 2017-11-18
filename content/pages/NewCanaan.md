@@ -1,0 +1,5 @@
+---
+title: NewCanaan
+crosslinks:
+- Connecticut
+---

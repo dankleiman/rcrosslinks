@@ -1,0 +1,24 @@
+---
+title: Aleague
+crosslinks:
+- soccer
+- BrasilOnReddit
+- soccerstreams
+- AleagueGoneWild
+- livven
+- NewcastleUnitedJets
+- autotldr
+- nrl
+- JLeague
+- SydneyFC
+- hmmm
+- hockey
+- LucyZelic
+- udinese
+- soccercourt
+- Getdownmrpresident
+- MLS
+- aleaguegonewild
+- CCMFC
+- sydneyfc
+---

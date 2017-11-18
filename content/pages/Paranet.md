@@ -1,0 +1,5 @@
+---
+title: Paranet
+crosslinks:
+- Cryptozoology
+---

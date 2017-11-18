@@ -1,0 +1,5 @@
+---
+title: FuneralDoomMetal
+crosslinks:
+- neofolk
+---

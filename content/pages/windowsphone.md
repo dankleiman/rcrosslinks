@@ -1,0 +1,24 @@
+---
+title: windowsphone
+crosslinks:
+- autotldr
+- WinPhoneCirclejerk
+- Windows10
+- Android
+- readit
+- WPDev
+- NintendoSwitch
+- xkcd
+- WindowsStartscreens
+- Windows10M
+- apple
+- Surface
+- PrequelMemes
+- microsoft
+- lgv10
+- MicrosoftBand
+- windowsapps
+- sysadmin
+- 2djvu4l
+- ReddPlanet
+---

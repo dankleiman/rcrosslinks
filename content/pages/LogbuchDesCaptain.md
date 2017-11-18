@@ -1,0 +1,5 @@
+---
+title: LogbuchDesCaptain
+crosslinks:
+- de
+---

@@ -1,0 +1,5 @@
+---
+title: IndividualAnarchism
+crosslinks:
+- Postleftanarchism
+---

@@ -1,0 +1,5 @@
+---
+title: Parysian
+crosslinks:
+- whowouldwin
+---

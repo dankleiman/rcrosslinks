@@ -1,0 +1,5 @@
+---
+title: BlackFridayDealFinder
+crosslinks:
+- Zeos
+---

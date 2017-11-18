@@ -1,0 +1,5 @@
+---
+title: selfharmtools
+crosslinks:
+- MadeOfStyrofoam
+---

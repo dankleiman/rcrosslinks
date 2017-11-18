@@ -1,0 +1,5 @@
+---
+title: scamp
+crosslinks:
+- summercamp
+---

@@ -1,0 +1,5 @@
+---
+title: coolvideos
+crosslinks:
+- comedy
+---

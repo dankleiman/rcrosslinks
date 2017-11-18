@@ -1,0 +1,5 @@
+---
+title: FuckGulaboc
+crosslinks:
+- soccer
+---

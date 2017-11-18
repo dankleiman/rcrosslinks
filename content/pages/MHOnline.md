@@ -1,0 +1,5 @@
+---
+title: MHOnline
+crosslinks:
+- MonsterHunter
+---

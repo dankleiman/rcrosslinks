@@ -1,0 +1,24 @@
+---
+title: zoophilia
+crosslinks:
+- Bestiality
+- Serendipity
+- vegan
+- animalromance
+- AnimalRights
+- CringeAnarchy
+- '2013'
+- linuxmemes
+- alejandraguilmant
+- nottheonion
+- xkcd
+- place
+- ronpaulshops
+- SomeRandomReddit
+- redditrequest
+- unpopularopinion
+- Intactivists
+- sadcringe
+- furry
+- ZSanctum
+---

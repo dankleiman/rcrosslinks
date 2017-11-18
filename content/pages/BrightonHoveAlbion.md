@@ -1,0 +1,5 @@
+---
+title: BrightonHoveAlbion
+crosslinks:
+- MCFC
+---

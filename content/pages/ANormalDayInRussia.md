@@ -1,0 +1,24 @@
+---
+title: ANormalDayInRussia
+crosslinks:
+- livven
+- WTF
+- slavs_squatting
+- pics
+- russia
+- gifs
+- ShitAmericansSay
+- hmmm
+- autotldr
+- funny
+- rant
+- ANormalDayInAmerica
+- AccidentalRenaissance
+- AskReddit
+- todayilearned
+- MURICA
+- WhyWereTheyFilming
+- zeronet
+- ATBGE
+- WritingPrompts
+---

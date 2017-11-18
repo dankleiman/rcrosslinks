@@ -1,0 +1,5 @@
+---
+title: shenpais
+crosslinks:
+- summonerschool
+---

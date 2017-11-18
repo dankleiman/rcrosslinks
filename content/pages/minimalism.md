@@ -1,0 +1,24 @@
+---
+title: minimalism
+crosslinks:
+- minimalism_jerk
+- BuyItForLife
+- xkcd
+- androidthemes
+- pics
+- Anticonsumption
+- konmari
+- declutter
+- malefashionadvice
+- HailCorporate
+- simpleliving
+- minimalist
+- RoomPorn
+- Ultralight
+- ScandinavianInterior
+- iOSthemes
+- maximalism
+- TinyHouses
+- personalfinance
+- nosleep
+---

@@ -1,0 +1,5 @@
+---
+title: duelystmemes
+crosslinks:
+- duelyst
+---

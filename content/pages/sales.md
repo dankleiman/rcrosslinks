@@ -1,0 +1,23 @@
+---
+title: sales
+crosslinks:
+- askcarsales
+- marketing
+- churning
+- Entrepreneur
+- RealEstate
+- apple
+- AskReddit
+- MaleFashionMarket
+- freelance
+- AskMarketing
+- security
+- Accounting
+- AskHR
+- forhire
+- mturk
+- startups
+- shutdown
+- oilandgas
+- metric_units
+---

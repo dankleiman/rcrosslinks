@@ -1,0 +1,24 @@
+---
+title: socialjustice101
+crosslinks:
+- SRSDiscussion
+- SRSsucks
+- NoStupidQuestions
+- xkcd
+- AskFeminists
+- SocialJusticeInAction
+- Drama
+- AskHistorians
+- changemyview
+- news
+- islam
+- TrueOffMyChest
+- MensRights
+- SuicideWatch
+- gay
+- philosophy
+- ShitRedditSays
+- Anarchy101
+- AsABlackMan
+- TwoXChromosomes
+---

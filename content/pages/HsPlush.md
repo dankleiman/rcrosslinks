@@ -1,0 +1,5 @@
+---
+title: HsPlush
+crosslinks:
+- hearthstone
+---

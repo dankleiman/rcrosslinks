@@ -1,0 +1,24 @@
+---
+title: homeless
+crosslinks:
+- vandwellers
+- DumpsterDiving
+- Assistance
+- Sacramento
+- HomelessEncampment
+- vandwelling
+- mechanics
+- alcoholism
+- changemyview
+- opendirectories
+- SaltLakeCity
+- autotldr
+- news
+- stopdrinking
+- StudentLoans
+- fakeid
+- collapse
+- depression
+- Serendipity
+- japancirclejerk
+---

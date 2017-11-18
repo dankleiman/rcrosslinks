@@ -1,0 +1,5 @@
+---
+title: SmallYoutube
+crosslinks:
+- SmallYTChannel
+---

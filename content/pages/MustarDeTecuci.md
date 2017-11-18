@@ -1,0 +1,5 @@
+---
+title: MustarDeTecuci
+crosslinks:
+- RoGaini
+---

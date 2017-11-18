@@ -1,0 +1,5 @@
+---
+title: SplatoonKits
+crosslinks:
+- splatoon
+---

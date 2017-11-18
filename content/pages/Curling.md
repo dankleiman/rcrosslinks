@@ -1,0 +1,5 @@
+---
+title: Curling
+crosslinks:
+- weightroom
+---

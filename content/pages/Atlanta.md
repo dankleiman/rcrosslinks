@@ -1,0 +1,24 @@
+---
+title: Atlanta
+crosslinks:
+- AtlantaCircleJerk
+- autotldr
+- gatech
+- atlantar4r
+- livven
+- GAPol
+- Comcast_Xfinity
+- AtlantaUnited
+- explainlikeimfive
+- AtlantaBarters
+- politics
+- GeorgiaCampAndHike
+- atlantagaming
+- legaladvice
+- AtlantaHawks
+- ATL
+- pics
+- gatekeeping
+- IAmA
+- ATLHousing
+---

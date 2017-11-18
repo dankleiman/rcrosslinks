@@ -1,0 +1,24 @@
+---
+title: tipofmyjoystick
+crosslinks:
+- tipofmytongue
+- gaming
+- gamingsuggestions
+- JRPG
+- pcmasterrace
+- retrogaming
+- metalgearsolid
+- Games
+- incremental_games
+- ZeroEscape
+- iPhone
+- RealLifeSimulator
+- tipofmypenis
+- xkcd
+- Megaman
+- MMORPG
+- NameThatGame
+- itsaunixsystem
+- g
+- outside
+---

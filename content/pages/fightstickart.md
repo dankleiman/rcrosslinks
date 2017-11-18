@@ -1,0 +1,5 @@
+---
+title: fightstickart
+crosslinks:
+- fightsticks
+---

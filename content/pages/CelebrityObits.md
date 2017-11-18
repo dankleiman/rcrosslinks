@@ -1,0 +1,5 @@
+---
+title: CelebrityObits
+crosslinks:
+- autotldr
+---

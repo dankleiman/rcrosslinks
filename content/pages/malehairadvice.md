@@ -1,0 +1,24 @@
+---
+title: malehairadvice
+crosslinks:
+- curlyhair
+- FierceFlow
+- tressless
+- NoPoo
+- Pomade
+- livven
+- HaircareScience
+- FancyFollicles
+- malegrooming
+- Rateme
+- FuckMyShitUp
+- Hair
+- Justfuckmyshitup
+- todayilearned
+- amiugly
+- malefashionadvice
+- Accounting
+- LifeProTips
+- streetwear
+- Serendipity
+---

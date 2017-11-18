@@ -1,0 +1,24 @@
+---
+title: awwnime
+crosslinks:
+- pantsu
+- shorthairedwaifus
+- cutelittlefangs
+- wholesomeyuri
+- anime_irl
+- anime
+- ZettaiRyouiki
+- headpats
+- Tsunderes
+- megane
+- oddeye
+- handholding
+- kemonomimi
+- Animewallpaper
+- nier
+- Animemes
+- awoo
+- pouts
+- KemonoFriends
+- touhou
+---

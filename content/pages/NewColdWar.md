@@ -1,0 +1,5 @@
+---
+title: NewColdWar
+crosslinks:
+- autotldr
+---

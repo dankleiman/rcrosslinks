@@ -1,0 +1,24 @@
+---
+title: Shadowverse
+crosslinks:
+- hearthstone
+- livven
+- iPad
+- Vania
+- Pixiv
+- CustomShadowverse
+- ShadowversePacks
+- copypasta
+- Animemes
+- nyxnyxnyx
+- hearthstonecirclejerk
+- grandorder
+- magicTCG
+- shadowversecirclejerk
+- xkcd
+- CompetitiveHS
+- handholding
+- GalaxyS6
+- mitchjones
+- FoWtcg
+---

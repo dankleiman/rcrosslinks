@@ -1,0 +1,5 @@
+---
+title: RedditZeroClan
+crosslinks:
+- ClashOfClans
+---

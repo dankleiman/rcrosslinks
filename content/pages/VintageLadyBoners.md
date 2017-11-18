@@ -1,0 +1,5 @@
+---
+title: VintageLadyBoners
+crosslinks:
+- OldSchoolCool
+---

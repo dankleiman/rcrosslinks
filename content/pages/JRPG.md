@@ -1,0 +1,24 @@
+---
+title: JRPG
+crosslinks:
+- Megaten
+- FinalFantasy
+- Falcom
+- Atelier
+- Games
+- vita
+- Gamingcirclejerk
+- EtrianOdyssey
+- tales
+- nintendo
+- gamingsuggestions
+- PS4
+- falcom
+- visualnovels
+- XenoGears
+- WorldOfYs
+- tipofmyjoystick
+- pcmasterrace
+- nier
+- NoStupidQuestions
+---

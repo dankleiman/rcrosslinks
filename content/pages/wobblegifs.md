@@ -1,0 +1,5 @@
+---
+title: wobblegifs
+crosslinks:
+- Metroid
+---

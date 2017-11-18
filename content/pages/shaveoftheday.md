@@ -1,0 +1,5 @@
+---
+title: shaveoftheday
+crosslinks:
+- Wetshaving
+---

@@ -1,0 +1,24 @@
+---
+title: WritingPrompts
+crosslinks:
+- PanMan
+- reostra_prompts
+- DavesWorld
+- Tensingstories
+- HampsterStories
+- intotheslushpile
+- ConlehWrites
+- AskReddit
+- XcessiveWriting
+- Idreamofdragons
+- TheWordsOfXacktar
+- xkcd
+- nickofnight
+- Inkfinger
+- sharpWriting
+- Luna_Lovewell
+- Lilwa_Dexel
+- JasonHolloway
+- trrh
+- CroatianSpy
+---

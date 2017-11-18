@@ -1,0 +1,24 @@
+---
+title: coaxedintoasnafu
+crosslinks:
+- DeepFriedMemes
+- ComedyCemetery
+- me_irl
+- dankmemes
+- surrealmemes
+- pics
+- PrequelMemes
+- KarmaCourt
+- copypasta
+- wholesomememes
+- gaming
+- OnlyWholesomeMemes
+- hmmm
+- IsItButter
+- antimeme
+- makeyourchoice
+- AskReddit
+- Gamingcirclejerk
+- gonwild
+- SUBREDDITNAME
+---

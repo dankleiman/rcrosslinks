@@ -1,0 +1,24 @@
+---
+title: fivenightsatfreddys
+crosslinks:
+- livven
+- 5nafcirclejerk
+- scottgames
+- FuntimeFoxyShrine
+- place
+- funkopop
+- fnafcringe
+- BonnieReligion
+- homestuck
+- toyfreddy
+- technicalFNaF
+- tf2
+- osugame
+- DayshiftatFreddys
+- funny
+- fnafplace
+- SonicTheHedgehog
+- modnews
+- BrasilOnReddit
+- FazCo
+---

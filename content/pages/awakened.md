@@ -1,0 +1,24 @@
+---
+title: awakened
+crosslinks:
+- streamentry
+- lawofattraction
+- ShrugLifeSyndicate
+- spirituality
+- Meditation
+- Psychonaut
+- Echerdex
+- vegan
+- zen
+- C_S_T
+- nondirective
+- sorceryofthespectacle
+- chrisolivertimes
+- history
+- occult
+- Essassani
+- space
+- TheMindIlluminated
+- neuro
+- Christianity
+---

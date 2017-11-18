@@ -1,0 +1,24 @@
+---
+title: ifyoulikeblank
+crosslinks:
+- Metal
+- outrun
+- listentothis
+- progmetal
+- Jazz
+- Metalcore
+- postrock
+- jazznoir
+- AskReddit
+- electroswing
+- Vulfpeck
+- progrockmusic
+- jaipaul
+- psychedelicrock
+- oldskoolrave
+- trap
+- teenagers
+- SnarkyPuppy
+- punk
+- DnB
+---

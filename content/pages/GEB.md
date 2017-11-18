@@ -1,0 +1,5 @@
+---
+title: GEB
+crosslinks:
+- Escher
+---

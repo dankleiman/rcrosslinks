@@ -1,0 +1,5 @@
+---
+title: supertotal
+crosslinks:
+- weightlifting
+---

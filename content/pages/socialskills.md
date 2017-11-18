@@ -1,0 +1,24 @@
+---
+title: socialskills
+crosslinks:
+- seduction
+- getdisciplined
+- AskReddit
+- niceguys
+- selfimprovement
+- howtonotgiveafuck
+- AskWomen
+- Rateme
+- pornfree
+- titlegore
+- REEEEEEEEEE
+- LifeProTips
+- introvert
+- xkcd
+- SocialEngineering
+- todayilearned
+- CBD
+- unexpectedcommunism
+- infp
+- iosgaming
+---

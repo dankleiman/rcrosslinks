@@ -1,0 +1,24 @@
+---
+title: me_irl
+crosslinks:
+- AskReddit
+- OutOfTheLoop
+- meirl
+- funny
+- 2meirl4meirl
+- pics
+- surrealmemes
+- SuicideWatch
+- wholesomememes
+- IAmA
+- MemeEconomy
+- mildlyinteresting
+- gaming
+- dankmemes
+- copypasta
+- gifs
+- FireGuy12
+- hmmm
+- memes
+- todayilearned
+---

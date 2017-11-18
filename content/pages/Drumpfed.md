@@ -1,0 +1,5 @@
+---
+title: Drumpfed
+crosslinks:
+- cringepics
+---

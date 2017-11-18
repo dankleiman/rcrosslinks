@@ -1,0 +1,5 @@
+---
+title: bullshitpsych
+crosslinks:
+- LifeProTips
+---

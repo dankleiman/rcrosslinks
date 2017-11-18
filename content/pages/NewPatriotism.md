@@ -1,0 +1,24 @@
+---
+title: NewPatriotism
+crosslinks:
+- autotldr
+- politics
+- EnoughTrumpSpam
+- PoliticalHumor
+- esist
+- pics
+- MarchAgainstTrump
+- Fuckthealtright
+- totallynotrussians
+- AskReddit
+- BlackPeopleTwitter
+- houston
+- OldSchoolCool
+- SandersForPresident
+- The_Dipshit
+- socialcitizens
+- ShitPoliticsSays
+- MURICA
+- canada
+- AdviceAnimals
+---

@@ -1,0 +1,5 @@
+---
+title: leaguemontages
+crosslinks:
+- leagueoflegends
+---

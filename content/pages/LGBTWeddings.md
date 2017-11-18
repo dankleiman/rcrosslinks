@@ -1,0 +1,5 @@
+---
+title: LGBTWeddings
+crosslinks:
+- weddingplanning
+---

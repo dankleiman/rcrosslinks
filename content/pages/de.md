@@ -1,0 +1,24 @@
+---
+title: de
+crosslinks:
+- xkcd
+- Kopiernudeln
+- europe
+- The_Donald
+- de_IAmA
+- worldnews
+- autotldr
+- AskReddit
+- politics
+- livven
+- the_schulz
+- pics
+- france
+- place
+- AskHistorians
+- wortwitzkasse
+- OutOfTheLoop
+- ShitAmericansSay
+- germany
+- Austria
+---

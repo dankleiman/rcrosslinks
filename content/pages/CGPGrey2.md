@@ -1,0 +1,24 @@
+---
+title: CGPGrey2
+crosslinks:
+- HelloInternet
+- EndFPTP
+- autotldr
+- CGPGrey
+- videos
+- Cortex
+- vexillology
+- xkcd
+- Entrepreneur
+- vulkan
+- HIMuseum
+- apple
+- oregon
+- pics
+- oddlysatisfying
+- canada
+- Pathfinder_RPG
+- technology
+- ProgrammerHumor
+- ShittyLifeProTips
+---

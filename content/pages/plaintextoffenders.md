@@ -1,0 +1,5 @@
+---
+title: plaintextoffenders
+crosslinks:
+- softwaregore
+---

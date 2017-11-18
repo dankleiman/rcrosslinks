@@ -1,0 +1,24 @@
+---
+title: KDRAMA
+crosslinks:
+- kdramareviews
+- kdramarecommends
+- koreanvariety
+- taiwandramas
+- Korean
+- korea
+- aznidentity
+- Koreanfilm
+- HistoryPorn
+- kpop
+- ChineseTV
+- NHLStreams
+- u_Mmiller5616
+- technology
+- kpopfap
+- SHINee
+- asiandrama
+- JUSTNOMIL
+- malefashionadvice
+- KissCartoon
+---

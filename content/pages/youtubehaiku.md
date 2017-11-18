@@ -1,0 +1,24 @@
+---
+title: youtubehaiku
+crosslinks:
+- videos
+- UnexpectedRT
+- xkcd
+- gifs
+- AskReddit
+- OutOfTheLoop
+- JonTron
+- The_Donald
+- ShitAmericansSay
+- Drama
+- ShitRedditSays
+- IAmA
+- anime
+- pics
+- nocontext
+- LivestreamFail
+- MemeYourEnthusiasm
+- CringeAnarchy
+- OverwatchCirclejerk
+- hatchery
+---

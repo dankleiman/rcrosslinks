@@ -1,0 +1,24 @@
+---
+title: DC_Cinematic
+crosslinks:
+- moviescirclejerk
+- SuperheroCirclejerk
+- DCEUleaks
+- marvelstudios
+- autotldr
+- movies
+- livven
+- DCcomics
+- BrasilOnReddit
+- Znyder
+- FlashTV
+- captainmarvel
+- superman
+- AskReddit
+- '2006'
+- PrequelMemes
+- IAmA
+- TrueFilm
+- NegativeWithGold
+- titlegore
+---

@@ -1,0 +1,5 @@
+---
+title: learnAshaninka
+crosslinks:
+- duolingo
+---

@@ -1,0 +1,5 @@
+---
+title: BerlinpastaBot
+crosslinks:
+- Pigifs
+---

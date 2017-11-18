@@ -1,0 +1,5 @@
+---
+title: BattlegroundLFG
+crosslinks:
+- PUBGLFG
+---

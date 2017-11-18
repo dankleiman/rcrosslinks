@@ -1,0 +1,5 @@
+---
+title: aesthetics
+crosslinks:
+- CriticalTheory
+---

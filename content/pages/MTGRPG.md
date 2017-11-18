@@ -1,0 +1,5 @@
+---
+title: MTGRPG
+crosslinks:
+- DnD
+---

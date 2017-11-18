@@ -1,0 +1,5 @@
+---
+title: PBSInfiniteSeries
+crosslinks:
+- GamePhysics
+---

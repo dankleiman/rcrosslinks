@@ -1,0 +1,5 @@
+---
+title: eddseclectic
+crosslinks:
+- autotldr
+---

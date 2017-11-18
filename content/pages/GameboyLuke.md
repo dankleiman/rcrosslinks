@@ -1,0 +1,5 @@
+---
+title: GameboyLuke
+crosslinks:
+- REEEEEEEEEE
+---

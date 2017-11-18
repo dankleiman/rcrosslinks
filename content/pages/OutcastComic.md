@@ -1,0 +1,5 @@
+---
+title: OutcastComic
+crosslinks:
+- outcast
+---

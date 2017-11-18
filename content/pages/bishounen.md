@@ -1,0 +1,5 @@
+---
+title: bishounen
+crosslinks:
+- ImaginaryGayBoners
+---

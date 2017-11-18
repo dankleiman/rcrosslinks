@@ -1,0 +1,5 @@
+---
+title: Lecrae
+crosslinks:
+- christianrap
+---

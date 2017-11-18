@@ -1,0 +1,5 @@
+---
+title: piglatin
+crosslinks:
+- igpayatinlay
+---

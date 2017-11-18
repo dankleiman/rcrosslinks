@@ -1,0 +1,24 @@
+---
+title: PKA
+crosslinks:
+- livven
+- autotldr
+- SexyKyle
+- LivestreamFail
+- sarah_xxx
+- AskReddit
+- AmItheAsshole
+- The_Donald
+- MMA
+- news
+- RapeSquadKillas
+- PS4
+- JoeRogan
+- ethtrader
+- loseit
+- KarmaCourt
+- GoTlinks
+- RedditCensors
+- legaladvice
+- OldPeoplePooping
+---

@@ -1,0 +1,21 @@
+---
+title: billwurtzmemes
+crosslinks:
+- Target
+- antimeme
+- ClopClop
+- templeofthephil
+- dontdeadopeninside
+- KarmaCourt
+- restofthefuckingowl
+- xkcd
+- Animemes
+- PetRocksNamedDonald
+- dankmemes
+- BoJackHorseman
+- dankchristianmemes
+- LinkinPark
+- wincest
+- DeepFriedMemes
+- 2meirl42meirl4meirl
+---

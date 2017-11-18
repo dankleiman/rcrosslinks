@@ -1,0 +1,5 @@
+---
+title: rustymemes
+crosslinks:
+- surrealmemes
+---

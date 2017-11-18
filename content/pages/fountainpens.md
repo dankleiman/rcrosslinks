@@ -1,0 +1,24 @@
+---
+title: fountainpens
+crosslinks:
+- Pen_Swap
+- mechanicalheadpens
+- sixwordstories
+- Handwriting
+- Calligraphy
+- livven
+- wicked_edge
+- Watches
+- pens
+- PenmanshipPorn
+- FountainPenPals
+- pen_swap
+- fountainpengore
+- AskReddit
+- mechanicalpencils
+- EDC
+- FountainPen
+- pics
+- mildlyinfuriating
+- Journaling
+---

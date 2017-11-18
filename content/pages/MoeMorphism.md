@@ -1,0 +1,5 @@
+---
+title: MoeMorphism
+crosslinks:
+- Animemes
+---

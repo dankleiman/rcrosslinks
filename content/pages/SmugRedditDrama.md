@@ -1,0 +1,5 @@
+---
+title: SmugRedditDrama
+crosslinks:
+- autotldr
+---

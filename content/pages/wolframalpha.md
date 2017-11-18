@@ -1,0 +1,5 @@
+---
+title: wolframalpha
+crosslinks:
+- IAmA
+---

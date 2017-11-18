@@ -1,0 +1,24 @@
+---
+title: daddit
+crosslinks:
+- livven
+- DIY
+- gifs
+- pics
+- NewParents
+- funny
+- MadeMeSmile
+- Parenting
+- EatCheapAndHealthy
+- redditdads
+- AskReddit
+- AskScienceFiction
+- USMC
+- MensRights
+- JapaneseGameShows
+- childfree
+- DrunkOrAKid
+- suspiciousLackOfDads
+- idontworkherelady
+- food
+---

@@ -1,0 +1,5 @@
+---
+title: DebateMonarchy
+crosslinks:
+- Monarchy
+---

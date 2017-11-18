@@ -1,0 +1,5 @@
+---
+title: NoNonsenseNomad
+crosslinks:
+- ThailandNews
+---

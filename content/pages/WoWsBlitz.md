@@ -1,0 +1,5 @@
+---
+title: WoWsBlitz
+crosslinks:
+- WorldOfWarshipsBlitz
+---

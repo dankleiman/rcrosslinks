@@ -1,0 +1,5 @@
+---
+title: GalacticHole
+crosslinks:
+- AMAAggregator
+---

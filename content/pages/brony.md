@@ -1,0 +1,5 @@
+---
+title: brony
+crosslinks:
+- all
+---

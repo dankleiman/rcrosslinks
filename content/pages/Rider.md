@@ -1,0 +1,5 @@
+---
+title: Rider
+crosslinks:
+- ecchi
+---

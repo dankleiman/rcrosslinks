@@ -1,0 +1,24 @@
+---
+title: newsokur
+crosslinks:
+- tikagenron
+- newsokurMod
+- worldnews
+- MoritomoGakuenScandal
+- gaming
+- lowlevelaware
+- autotldr
+- highlevelkarma
+- politics
+- TV_ja
+- livven
+- japan
+- aww
+- news
+- newsokuvip
+- newsokunomoral
+- OtakuNetouyoStudies
+- The_Donald
+- newsjoho
+- anime
+---

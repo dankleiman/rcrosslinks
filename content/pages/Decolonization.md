@@ -1,0 +1,5 @@
+---
+title: Decolonization
+crosslinks:
+- autotldr
+---

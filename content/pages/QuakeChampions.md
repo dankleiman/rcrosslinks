@@ -1,0 +1,24 @@
+---
+title: QuakeChampions
+crosslinks:
+- ArenaFPS
+- livven
+- Competitiveoverwatch
+- Overwatch
+- reflex
+- truegaming
+- QuakeLive
+- Doom
+- DotA2
+- PUBATTLEGROUNDS
+- MouseAccel
+- tf2
+- highqualitygifs
+- mildlyinfuriating
+- redditisfun
+- engrish
+- programming
+- nyxnyxnyx
+- pcmasterrace
+- AMAAggregator
+---

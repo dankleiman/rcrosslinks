@@ -1,0 +1,5 @@
+---
+title: LinuxOnThinkpad
+crosslinks:
+- LinuxOnThinkpads
+---

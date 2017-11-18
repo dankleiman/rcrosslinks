@@ -1,0 +1,24 @@
+---
+title: Hamilton
+crosslinks:
+- metacanada
+- autotldr
+- HBGG
+- hamiltonmusical
+- kitchener
+- AskReddit
+- McMaster
+- WTF
+- canada
+- news
+- LifeProTips
+- WorldOfWarships
+- IKEA
+- chicago
+- Flipping
+- ontario
+- toronto
+- onguardforthee
+- learnprogramming
+- Detroitcityfc
+---

@@ -1,0 +1,5 @@
+---
+title: pcjcopypasta
+crosslinks:
+- programming
+---

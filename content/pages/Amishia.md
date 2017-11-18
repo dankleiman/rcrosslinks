@@ -1,0 +1,5 @@
+---
+title: Amishia
+crosslinks:
+- autotldr
+---

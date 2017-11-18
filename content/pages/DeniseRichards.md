@@ -1,0 +1,5 @@
+---
+title: DeniseRichards
+crosslinks:
+- FreezeFrames
+---

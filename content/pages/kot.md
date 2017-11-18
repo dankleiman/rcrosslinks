@@ -1,0 +1,5 @@
+---
+title: kot
+crosslinks:
+- gonewild
+---

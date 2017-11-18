@@ -1,0 +1,24 @@
+---
+title: transgender
+crosslinks:
+- autotldr
+- asktransgender
+- The_Donald
+- science
+- GenderCritical
+- hillaryclinton
+- Minecraft
+- BoredDead
+- IAmA
+- eelkat
+- socialism_101
+- MtF
+- NonBinary
+- gallifrey
+- news
+- ask_transgender
+- unpopularopinion
+- traaaaaaannnnnnnnnns
+- BigBrother
+- ImGoingToHellForThis
+---

@@ -1,0 +1,24 @@
+---
+title: DesirePath
+crosslinks:
+- DesirePaths
+- Wellworn
+- livven
+- thingsforants
+- mildlyinteresting
+- oddlysatisfying
+- tifu
+- AccidentalRenaissance
+- chairsunderwater
+- gggggg
+- CalPoly
+- firstworldanarchists
+- metric_units
+- doggos
+- NotKenM
+- pics
+- gifextra
+- ShitAmericansSay
+- djiphantom
+- ARK
+---

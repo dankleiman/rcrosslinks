@@ -1,0 +1,5 @@
+---
+title: TokuBST
+crosslinks:
+- KamenRider
+---

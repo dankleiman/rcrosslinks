@@ -1,0 +1,5 @@
+---
+title: Nordiques
+crosslinks:
+- canes
+---

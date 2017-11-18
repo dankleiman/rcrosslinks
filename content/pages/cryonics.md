@@ -1,0 +1,5 @@
+---
+title: cryonics
+crosslinks:
+- autotldr
+---

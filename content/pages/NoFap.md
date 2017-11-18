@@ -1,0 +1,24 @@
+---
+title: NoFap
+crosslinks:
+- pornfree
+- SuicideWatch
+- NoFapWomen
+- getdisciplined
+- TheRedPill
+- NoFapChristians
+- AskReddit
+- Meditation
+- StopGaming
+- MGTOW
+- seduction
+- shitpost
+- GetMotivated
+- leaves
+- sex
+- nofapcirclejerk
+- FightTheNewDrug
+- Fitness
+- iamverysmart
+- karezza
+---

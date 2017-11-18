@@ -1,0 +1,24 @@
+---
+title: firstworldproblems
+crosslinks:
+- xkcd
+- AskReddit
+- pics
+- financialindependence
+- autotldr
+- livven
+- childfree
+- The_Donald
+- ShittyLifeProTips
+- todayilearned
+- futurology
+- FootFetish
+- fifthworldpics
+- tall
+- rickandmorty
+- OnePercentLifeProTips
+- javacentral
+- LPT
+- HomeNetworking
+- WiiUHacks
+---

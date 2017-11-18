@@ -1,0 +1,5 @@
+---
+title: ClassroomOfTheElite
+crosslinks:
+- Pixiv
+---

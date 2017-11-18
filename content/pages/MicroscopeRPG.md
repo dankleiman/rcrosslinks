@@ -1,0 +1,5 @@
+---
+title: MicroscopeRPG
+crosslinks:
+- rpg
+---

@@ -1,0 +1,5 @@
+---
+title: advaita
+crosslinks:
+- awakened
+---

@@ -1,0 +1,5 @@
+---
+title: oddnews
+crosslinks:
+- autotldr
+---

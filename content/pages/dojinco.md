@@ -1,0 +1,5 @@
+---
+title: dojinco
+crosslinks:
+- DoujinMusic
+---

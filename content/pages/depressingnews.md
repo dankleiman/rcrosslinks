@@ -1,0 +1,5 @@
+---
+title: depressingnews
+crosslinks:
+- UpliftingNews
+---

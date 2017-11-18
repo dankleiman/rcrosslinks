@@ -1,0 +1,5 @@
+---
+title: HentiCollection
+crosslinks:
+- LovedHentai
+---

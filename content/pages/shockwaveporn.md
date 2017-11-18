@@ -1,0 +1,24 @@
+---
+title: shockwaveporn
+crosslinks:
+- livven
+- AtomicPorn
+- videos
+- Physics
+- interestingasfuck
+- MilitaryGfys
+- ImGoingToHellForThis
+- ThingsThatBlowUp
+- Serendipity
+- DadReflexes
+- Explosions
+- russia
+- oddlysatisfying
+- ExoMars
+- OnePunchMan
+- killthosewhodisagree
+- Skookum
+- Explosion_Gfys
+- watchpeopledie
+- pics
+---

@@ -1,0 +1,24 @@
+---
+title: FUTMobile
+crosslinks:
+- livven
+- FIFA
+- soccer
+- help
+- lv50lions
+- FrenchWestIndies
+- dwfav
+- StratagemFC
+- NoStupidQuestions
+- announcements
+- modnews
+- FUTTheDutchies
+- theydidthemath
+- ChargeYourPhone
+- chelseafc
+- NBAForums
+- ClashRoyale
+- me_irl
+- ImagesOfBelgium
+- Android
+---

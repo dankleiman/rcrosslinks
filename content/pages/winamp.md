@@ -1,0 +1,5 @@
+---
+title: winamp
+crosslinks:
+- software
+---

@@ -1,0 +1,24 @@
+---
+title: nfl
+crosslinks:
+- Patriots
+- EvilLeagueOfEvil
+- '2013'
+- detroitlions
+- DenverBroncos
+- NFL_Draft
+- GreenBayPackers
+- falcons
+- AskReddit
+- eagles
+- CFB
+- Browns
+- hockey
+- IAmA
+- Texans
+- Jaguars
+- nflstreams
+- CHIBears
+- Redskins
+- minnesotavikings
+---

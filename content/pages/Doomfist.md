@@ -1,0 +1,5 @@
+---
+title: Doomfist
+crosslinks:
+- Overwatch
+---

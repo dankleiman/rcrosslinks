@@ -1,0 +1,5 @@
+---
+title: krakow
+crosslinks:
+- poland
+---

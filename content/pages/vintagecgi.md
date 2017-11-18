@@ -1,0 +1,5 @@
+---
+title: vintagecgi
+crosslinks:
+- Serendipity
+---

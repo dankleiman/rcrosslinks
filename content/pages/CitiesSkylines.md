@@ -1,0 +1,24 @@
+---
+title: CitiesSkylines
+crosslinks:
+- livven
+- IAmA
+- CitiesSkylinesModding
+- InfrastructurePorn
+- interestingasfuck
+- SimCity
+- PrequelMemes
+- modnews
+- accidentalswastika
+- tiltshift
+- pics
+- CityPorn
+- mildlyinfuriating
+- Banished
+- Detroit
+- toronto
+- PlanetCoaster
+- vexillology
+- videos
+- xkcd
+---

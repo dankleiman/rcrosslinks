@@ -1,0 +1,5 @@
+---
+title: CroatiaPics
+crosslinks:
+- europe
+---

@@ -1,0 +1,24 @@
+---
+title: WhyWereTheyFilming
+crosslinks:
+- livven
+- gifs
+- instant_regret
+- WTF
+- Unexpected
+- videos
+- HumansBeingBros
+- FullScorpion
+- MyPeopleNeedMe
+- Altra
+- youseeingthisshit
+- aww
+- BetterEveryLoop
+- Wellthatsucks
+- DadReflexes
+- thisismydeathnow
+- pcmasterrace
+- worstof
+- todayilearned
+- TalesFromYourServer
+---

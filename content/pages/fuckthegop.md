@@ -1,0 +1,5 @@
+---
+title: fuckthegop
+crosslinks:
+- autotldr
+---

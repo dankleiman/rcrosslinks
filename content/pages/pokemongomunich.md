@@ -1,0 +1,5 @@
+---
+title: pokemongomunich
+crosslinks:
+- TheSilphRoad
+---

@@ -1,0 +1,5 @@
+---
+title: socksgonewild
+crosslinks:
+- altgonewild
+---

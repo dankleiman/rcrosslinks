@@ -1,0 +1,24 @@
+---
+title: BasicIncome
+crosslinks:
+- autotldr
+- Futurology
+- LateStageCapitalism
+- IAmA
+- lostgeneration
+- georgism
+- newzealand
+- conspiracy
+- Economics
+- changemyview
+- citizenswage
+- livven
+- SandersForPresident
+- WayOfTheBern
+- freeformost
+- Permaculture
+- science
+- FULLCOMMUNISM
+- The_Donald
+- explainlikeimfive
+---

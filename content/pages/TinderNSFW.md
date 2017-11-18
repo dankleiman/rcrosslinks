@@ -1,0 +1,5 @@
+---
+title: TinderNSFW
+crosslinks:
+- asamisuicide
+---

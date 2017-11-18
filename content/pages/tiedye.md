@@ -1,0 +1,5 @@
+---
+title: tiedye
+crosslinks:
+- somethingimade
+---

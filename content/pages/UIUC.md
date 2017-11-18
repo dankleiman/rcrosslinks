@@ -1,0 +1,24 @@
+---
+title: UIUC
+crosslinks:
+- place
+- ApplyingToCollege
+- uofm
+- autotldr
+- Purdue
+- livven
+- KarmaCourt
+- xkcd
+- uiuccirclejerk
+- uiuc_uncensored
+- AskReddit
+- AMAAggregator
+- REEEEEEEEEE
+- personalfinance
+- hardwareswap
+- rickandmorty
+- videos
+- grilledcheese
+- ECE198KL
+- modhelp
+---

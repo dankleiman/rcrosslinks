@@ -1,0 +1,5 @@
+---
+title: IrishNationalism
+crosslinks:
+- autotldr
+---

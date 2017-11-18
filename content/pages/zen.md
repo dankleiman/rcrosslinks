@@ -1,0 +1,24 @@
+---
+title: zen
+crosslinks:
+- announcements
+- zensangha
+- Buddhism
+- Zensangha
+- ezn
+- zen_mystical
+- zens
+- ShrugLifeSyndicate
+- CTMU
+- ewkontherecord
+- chan
+- taoism
+- OneraddaZ
+- gaming
+- Koans
+- me_irl
+- science
+- politics
+- Psychonaut
+- '2013'
+---

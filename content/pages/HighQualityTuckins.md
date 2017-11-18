@@ -1,0 +1,5 @@
+---
+title: HighQualityTuckins
+crosslinks:
+- MemeEconomy
+---

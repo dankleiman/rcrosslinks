@@ -1,0 +1,5 @@
+---
+title: warswarms
+crosslinks:
+- swarmsim
+---

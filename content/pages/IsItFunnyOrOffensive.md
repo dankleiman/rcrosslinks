@@ -1,0 +1,5 @@
+---
+title: IsItFunnyOrOffensive
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: Vexillmaps
+crosslinks:
+- vexillology
+---

@@ -1,0 +1,5 @@
+---
+title: MuslimsAreDicks
+crosslinks:
+- autotldr
+---

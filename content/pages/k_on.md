@@ -1,0 +1,22 @@
+---
+title: k_on
+crosslinks:
+- Pixiv
+- livven
+- anime
+- Animemes
+- awwnime
+- crtgaming
+- KarmaCourt
+- announcements
+- KoeNoKatachi
+- me_irl
+- LearnJapanese
+- animethemes
+- anime_irl
+- YuiAzu
+- animefuckingdying
+- watamote
+- seiyuu
+- redditsync
+---

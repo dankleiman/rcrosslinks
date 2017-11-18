@@ -1,0 +1,5 @@
+---
+title: VolvoOceanRace
+crosslinks:
+- sailing
+---

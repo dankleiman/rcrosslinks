@@ -1,0 +1,5 @@
+---
+title: AffiliateMarket
+crosslinks:
+- Affiliatemarketing
+---

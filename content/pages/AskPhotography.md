@@ -1,0 +1,24 @@
+---
+title: AskPhotography
+crosslinks:
+- photography
+- analog
+- photoclass2017
+- photomarket
+- EarthPorn
+- postprocessing
+- WeddingPhotography
+- LandscapeAstro
+- M43
+- astrophotography
+- Cameras
+- AmateurPhotography
+- macro
+- planetarysociety
+- Lightroom
+- techsupportmacgyver
+- Monitors
+- weddingplanning
+- videography
+- xkcd
+---

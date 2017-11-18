@@ -1,0 +1,5 @@
+---
+title: Inglip
+crosslinks:
+- whowouldwin
+---

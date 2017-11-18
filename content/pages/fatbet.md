@@ -1,0 +1,5 @@
+---
+title: fatbet
+crosslinks:
+- natureismetal
+---

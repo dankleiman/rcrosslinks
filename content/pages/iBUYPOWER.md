@@ -1,0 +1,5 @@
+---
+title: iBUYPOWER
+crosslinks:
+- gamingpc
+---

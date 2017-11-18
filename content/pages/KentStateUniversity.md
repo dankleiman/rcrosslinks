@@ -1,0 +1,5 @@
+---
+title: KentStateUniversity
+crosslinks:
+- pics
+---

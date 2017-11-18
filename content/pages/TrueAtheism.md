@@ -1,0 +1,24 @@
+---
+title: TrueAtheism
+crosslinks:
+- atheism
+- exchristian
+- askphilosophy
+- Judaism
+- thegreatproject
+- exmuslim
+- GCXRep
+- AskReddit
+- MilitaryStories
+- evolution
+- AtheistHavens
+- atheistparents
+- Whatcouldgowrong
+- GoldandBlack
+- AskHistorians
+- askscience
+- Christianity
+- energy_work
+- onetruegod
+- TMBR
+---

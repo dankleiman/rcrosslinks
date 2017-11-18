@@ -1,0 +1,24 @@
+---
+title: sysadmin
+crosslinks:
+- linuxadmin
+- talesfromtechsupport
+- networking
+- PowerShell
+- techsupport
+- ITCareerQuestions
+- SCCM
+- programming
+- netsec
+- TronScript
+- report
+- Windows10
+- google
+- msp
+- linux
+- IAmA
+- technology
+- funny
+- AskReddit
+- storage
+---

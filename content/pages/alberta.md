@@ -1,0 +1,24 @@
+---
+title: alberta
+crosslinks:
+- autotldr
+- Calgary
+- canada
+- xkcd
+- metacanada
+- Edmonton
+- CanadaPolitics
+- ImagesOfCanada
+- CanadianMOMs
+- vpxa39
+- shaw
+- LateStageCapitalism
+- ProvincialParks
+- place
+- TwoXChromosomes
+- worldnews
+- pics
+- vancouver
+- finances
+- texas
+---

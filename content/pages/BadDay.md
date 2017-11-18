@@ -1,0 +1,5 @@
+---
+title: BadDay
+crosslinks:
+- getdisciplined
+---

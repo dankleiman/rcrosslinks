@@ -1,0 +1,5 @@
+---
+title: LettuceFunk
+crosslinks:
+- lettuce
+---

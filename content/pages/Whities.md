@@ -1,0 +1,5 @@
+---
+title: Whities
+crosslinks:
+- Pixiv
+---

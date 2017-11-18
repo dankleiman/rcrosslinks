@@ -1,0 +1,24 @@
+---
+title: KCRoyals
+crosslinks:
+- Askme4astory
+- kansascity
+- MLBStreams
+- xkcd
+- IAmA
+- KansasCityChiefs
+- place
+- OutOfTheLoop
+- WhitMerrifield
+- ImagesOfCanada
+- AskReddit
+- livven
+- tifu
+- WahoosTipi
+- videos
+- funny
+- Mariners
+- nfl
+- Dodgers
+- reactionpics
+---

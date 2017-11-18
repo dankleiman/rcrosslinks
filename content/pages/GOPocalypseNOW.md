@@ -1,0 +1,5 @@
+---
+title: GOPocalypseNOW
+crosslinks:
+- autotldr
+---

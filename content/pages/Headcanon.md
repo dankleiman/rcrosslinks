@@ -1,0 +1,5 @@
+---
+title: Headcanon
+crosslinks:
+- EmpireDidNothingWrong
+---

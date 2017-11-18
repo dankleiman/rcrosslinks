@@ -1,0 +1,24 @@
+---
+title: AmateurRoomPorn
+crosslinks:
+- malelivingspace
+- madmen
+- guitars
+- ThriftStoreHauls
+- DIY
+- toomanypillows
+- Tinder
+- iamveryedgy
+- causeWhyNotMate
+- macsetups
+- livven
+- westworld
+- relationships
+- terrariums
+- plants
+- Serendipity
+- sfwpornnetwork
+- woodworking
+- downvotesreally
+- osha
+---

@@ -1,0 +1,5 @@
+---
+title: WredditSchool
+crosslinks:
+- ManOfAThousandGifs
+---

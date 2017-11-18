@@ -1,0 +1,5 @@
+---
+title: Goolag
+crosslinks:
+- autotldr
+---

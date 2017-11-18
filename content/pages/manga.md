@@ -1,0 +1,24 @@
+---
+title: manga
+crosslinks:
+- read
+- anime
+- neverland
+- Kangoku_Gakuen
+- tokyo_ghoulre
+- dr_stone
+- my_hero_academia
+- TowerofGod
+- content
+- TokyoGhoul
+- OnePiece
+- the_seven_deadly_sins
+- AceOfTheDiamond
+- jagaaaaaan
+- shokugeki_no_souma
+- one_piece
+- modnews
+- Isekai
+- anime_irl
+- ShingekiNoKyojin
+---

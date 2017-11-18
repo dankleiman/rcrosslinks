@@ -1,0 +1,24 @@
+---
+title: Capitalism
+crosslinks:
+- socialism
+- Socialism_101
+- autotldr
+- LateStageCapitalism
+- Anarcho_Capitalism
+- QualitySocialism
+- FULLCOMMUNISM
+- naturalscriptlang
+- ChoosingBeggars
+- SocialismVSocialism
+- communism
+- CapitalismVSocialism
+- iamverysmart
+- PoliticalDiscussion
+- MilitaryStrategy
+- cringe
+- OrderOfTheVigilant
+- communism101
+- CapitalismFacts
+- phoenix
+---

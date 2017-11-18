@@ -1,0 +1,5 @@
+---
+title: cryptomining
+crosslinks:
+- vertcoin
+---

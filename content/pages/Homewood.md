@@ -1,0 +1,5 @@
+---
+title: Homewood
+crosslinks:
+- Birmingham
+---

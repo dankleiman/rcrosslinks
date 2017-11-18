@@ -1,0 +1,5 @@
+---
+title: aurebesh
+crosslinks:
+- StarWars
+---

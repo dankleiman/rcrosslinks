@@ -1,0 +1,24 @@
+---
+title: Kirby
+crosslinks:
+- gaming
+- nintendo
+- JonTron
+- livven
+- place
+- Pixiv
+- osuplace
+- emulation
+- AceAttorney
+- StarWars
+- translator
+- Kyle
+- gifs
+- Rainmeter
+- wholesomememes
+- PeopleWhoSayHeck
+- homestuck
+- darksouls3
+- the_paul
+- theydidthemath
+---

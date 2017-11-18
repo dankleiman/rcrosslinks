@@ -1,0 +1,24 @@
+---
+title: ScenesFromAHat
+crosslinks:
+- xkcd
+- Hoedown
+- todayilearned
+- WritingPrompts
+- IfYouKnowWhatIMean
+- theydidthemath
+- stevenuniverse
+- tifu
+- rpg
+- AskReddit
+- ELILemonySnicket
+- watchpeopeldie
+- christianityUnchained
+- funny
+- unexpectedkoolaidman
+- DnDGreentext
+- WTF
+- rickandmorty
+- AntiJokes
+- idiocracy
+---

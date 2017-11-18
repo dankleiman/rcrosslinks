@@ -1,0 +1,24 @@
+---
+title: twinks
+crosslinks:
+- LGBTeens
+- GayGiles
+- HelixStudios
+- Gaykikpals
+- gayfootfetish
+- RuinedOrgasms
+- GuysFromBehind
+- GayGifs
+- MensHighJinx
+- RoastMe
+- WhipItOut
+- nomanshigh
+- FelixJonesXXX
+- SexToysGoneWild
+- RedditorCum
+- gaystoriesgonewild
+- cockpulse
+- gaymersgonewild
+- gaypornhunters
+- PupPlay
+---

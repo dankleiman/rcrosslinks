@@ -1,0 +1,24 @@
+---
+title: DarkFuturology
+crosslinks:
+- StallmanWasRight
+- NewSlangTerms
+- Futurology
+- collapse
+- explainlikeimfive
+- Drama
+- IAmA
+- thorium
+- singularity
+- linuxmasterrace
+- FULLCOMMUNISM
+- conspiracies
+- todayilearned
+- UNAgenda21
+- ravens
+- seasteading
+- pics
+- LateStageCapitalism
+- milliondollarextreme
+- manna
+---

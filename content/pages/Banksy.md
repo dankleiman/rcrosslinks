@@ -1,0 +1,5 @@
+---
+title: Banksy
+crosslinks:
+- autotldr
+---

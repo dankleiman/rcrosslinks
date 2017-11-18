@@ -1,0 +1,24 @@
+---
+title: Tekken
+crosslinks:
+- Kappa
+- livven
+- fightsticks
+- StreetFighter
+- VirtualCosplay
+- GameDealsMeta
+- CrackWatch
+- kappa
+- SquaredCircle
+- Fighters
+- pcmasterrace
+- Overwatch
+- TekkenTaikai
+- mylittlepony
+- Games
+- gaming
+- DotA2
+- PS4
+- pcgaming
+- Monitors
+---

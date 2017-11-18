@@ -1,0 +1,5 @@
+---
+title: LaserPorn
+crosslinks:
+- MachinePorn
+---

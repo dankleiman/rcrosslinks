@@ -1,0 +1,24 @@
+---
+title: starterpacks
+crosslinks:
+- gatekeeping
+- The_Donald
+- Drama
+- lewronggeneration
+- LateStageCapitalism
+- xkcd
+- veteranpacks
+- AskReddit
+- politics
+- ShitAmericansSay
+- EDC
+- ShitRedditSays
+- EarthPorn
+- ShitPoliticsSays
+- AsABlackMan
+- WeWantPlates
+- pics
+- MarchAgainstTrump
+- Gamingcirclejerk
+- FULLCOMMUNISM
+---

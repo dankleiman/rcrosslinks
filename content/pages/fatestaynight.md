@@ -1,0 +1,24 @@
+---
+title: fatestaynight
+crosslinks:
+- Pixiv
+- grandorder
+- anime
+- livven
+- RWBY
+- User_Simulator
+- NoStupidQuestions
+- AlltheLancers
+- heavensfeel
+- araragi
+- IAmA
+- Illyasviel
+- Animewallpaper
+- Bazett
+- respectthreads
+- typemoon
+- PhotoshopRequest
+- FatePrismaIllya
+- science
+- OneTrueTohsaka
+---

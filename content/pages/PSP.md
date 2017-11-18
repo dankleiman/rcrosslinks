@@ -1,0 +1,22 @@
+---
+title: PSP
+crosslinks:
+- vitahacks
+- PS4Deals
+- VitaTV
+- 3dshacks
+- NintendoSwitch
+- roguelikes
+- AskReddit
+- PSVR
+- gpdwin
+- nintendo
+- vita
+- emulation
+- VitaPiracy
+- BadApps
+- gamecollecting
+- psphacks
+- gpdxd
+- consolerepair
+---

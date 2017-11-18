@@ -1,0 +1,5 @@
+---
+title: UnironicEdge
+crosslinks:
+- Undertale
+---

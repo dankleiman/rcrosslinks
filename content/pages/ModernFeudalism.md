@@ -1,0 +1,5 @@
+---
+title: ModernFeudalism
+crosslinks:
+- autotldr
+---

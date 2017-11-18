@@ -1,0 +1,5 @@
+---
+title: CatholicMonarchism
+crosslinks:
+- monarchism
+---

@@ -1,0 +1,5 @@
+---
+title: ArmsandArmor
+crosslinks:
+- SWORDS
+---

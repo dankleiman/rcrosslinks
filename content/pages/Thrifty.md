@@ -1,0 +1,5 @@
+---
+title: Thrifty
+crosslinks:
+- ZeroWaste
+---

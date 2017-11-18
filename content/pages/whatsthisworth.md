@@ -1,0 +1,24 @@
+---
+title: whatsthisworth
+crosslinks:
+- Antiques
+- Mid_Century
+- freemasonry
+- coins
+- BookCollecting
+- Militariacollecting
+- SquaredCircle
+- Arrowheads
+- Violins
+- Archaeology
+- WhatIsThisPainting
+- Watches
+- c64
+- rawdenim
+- appraisals
+- RepTime
+- assassinscreed
+- firePE
+- vintageaudio
+- sneakermarket
+---

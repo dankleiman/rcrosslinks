@@ -1,0 +1,24 @@
+---
+title: changemyview
+crosslinks:
+- DeltaLog
+- goodlongposts
+- politics
+- AskReddit
+- The_Donald
+- AskHistorians
+- science
+- explainlikeimfive
+- AskFeminists
+- MensRights
+- IAmA
+- news
+- PoliticalDiscussion
+- worldnews
+- atheism
+- EnoughTrumpSpam
+- OutOfTheLoop
+- Economics
+- asktransgender
+- vegan
+---

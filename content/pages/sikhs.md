@@ -1,0 +1,5 @@
+---
+title: sikhs
+crosslinks:
+- Sikh
+---

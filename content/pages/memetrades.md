@@ -1,0 +1,5 @@
+---
+title: memetrades
+crosslinks:
+- MemeEconomy
+---

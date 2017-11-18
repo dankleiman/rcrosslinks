@@ -1,0 +1,5 @@
+---
+title: Whataretheodds
+crosslinks:
+- gifs
+---

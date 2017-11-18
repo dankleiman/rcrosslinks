@@ -1,0 +1,24 @@
+---
+title: Forex
+crosslinks:
+- forextrades
+- algotrading
+- tradingmemes
+- IAmA
+- livven
+- forexfactory
+- Advice
+- FinancialCareers
+- Showerthoughts
+- Jokes
+- ethereum
+- metric_units
+- ethtrader
+- investing
+- finance
+- infp
+- conspiratard
+- Eve
+- programming
+- Donald
+---

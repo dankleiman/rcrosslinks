@@ -1,0 +1,24 @@
+---
+title: Defenders
+crosslinks:
+- marvelstudios
+- DC_Cinematic
+- autotldr
+- arrow
+- Daredevil
+- ironfist
+- FlashTV
+- Drama
+- shield
+- livven
+- moviescirclejerk
+- JessicaJones
+- Marvels_Luke_Cage
+- UnexpectedHamilton
+- PrequelMemes
+- place
+- Xcom
+- IASIP
+- Marvel
+- marvelmemes
+---

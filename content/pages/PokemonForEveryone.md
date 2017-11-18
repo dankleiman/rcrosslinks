@@ -1,0 +1,5 @@
+---
+title: PokemonForEveryone
+crosslinks:
+- pokemon
+---

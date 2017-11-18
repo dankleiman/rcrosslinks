@@ -1,0 +1,5 @@
+---
+title: creepyshowerthoughts
+crosslinks:
+- mildlyinteresting
+---

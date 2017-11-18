@@ -1,0 +1,21 @@
+---
+title: PennStateUniversity
+crosslinks:
+- place
+- cscareerquestions
+- Pitt
+- CFB
+- citizenjournalism
+- autotldr
+- CHIBears
+- IAmA
+- UPenn
+- IUP
+- GaState
+- AMAAggregator
+- WeArePennState
+- changemyview
+- xkcd
+- cringe
+- TheRedPill
+---

@@ -1,0 +1,5 @@
+---
+title: streetfighterv
+crosslinks:
+- StreetFighter
+---

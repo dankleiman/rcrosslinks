@@ -1,0 +1,24 @@
+---
+title: nosleep
+crosslinks:
+- NoSleepOOC
+- supercoopercanon
+- AskReddit
+- legaladvice
+- RichardCunning
+- tifu
+- xkcd
+- DoverHawk
+- ThrillSleep
+- LetsNotMeet
+- threekings
+- NosleepIndex
+- IAmA
+- Glitch_in_the_Matrix
+- me_irl
+- LifeIsBeta
+- EZmisery
+- WTF
+- SCP
+- creepypasta
+---

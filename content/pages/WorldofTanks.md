@@ -1,0 +1,24 @@
+---
+title: WorldofTanks
+crosslinks:
+- livven
+- WorldofTanksConsole
+- Warthunder
+- xkcd
+- WorldOfWarships
+- ArmoredWarfare
+- TankPorn
+- WorldOfTanksBlitz
+- wotmemes
+- gaming
+- Eve
+- RDDTEURecruitmentWOT
+- place
+- SuggestALaptop
+- PUBATTLEGROUNDS
+- wotcirclejerk
+- announcements
+- KoreanAdvice
+- AskHistorians
+- kancolle
+---

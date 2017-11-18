@@ -1,0 +1,24 @@
+---
+title: lonely
+crosslinks:
+- r4r
+- ForeverAlone
+- unexpectedincest
+- pics
+- CGPGrey
+- depression
+- AskReddit
+- kansascity
+- TwoXChromosomes
+- Rateme
+- sex
+- Anxiety
+- pillowtalkaudio
+- niceguys
+- offmychest
+- NonZeroDay
+- Stoicism
+- awakened
+- makenewfriendshere
+- KindVoice
+---

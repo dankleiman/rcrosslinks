@@ -1,0 +1,5 @@
+---
+title: blurrypicturesofcats
+crosslinks:
+- pics
+---

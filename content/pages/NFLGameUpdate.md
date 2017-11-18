@@ -1,0 +1,5 @@
+---
+title: NFLGameUpdate
+crosslinks:
+- NFLStreamUpdate
+---

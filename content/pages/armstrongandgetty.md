@@ -1,0 +1,5 @@
+---
+title: armstrongandgetty
+crosslinks:
+- KotakuInAction
+---

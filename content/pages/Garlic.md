@@ -1,0 +1,5 @@
+---
+title: Garlic
+crosslinks:
+- GarlicLovers
+---

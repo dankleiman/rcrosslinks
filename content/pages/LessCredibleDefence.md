@@ -1,0 +1,24 @@
+---
+title: LessCredibleDefence
+crosslinks:
+- autotldr
+- india
+- navy
+- Dragon029
+- syriancivilwar
+- HephaestusAetnaean
+- MilitaryProcurement
+- cooperatives
+- LordDerplyPosts
+- Serendipity
+- weekendgunnit
+- theydidthemath
+- MilitaryGfys
+- xkcd
+- WarCollege
+- todayilearned
+- guns
+- weaponsystems
+- FULLCOMMUNISM
+- MilitaryPorn
+---

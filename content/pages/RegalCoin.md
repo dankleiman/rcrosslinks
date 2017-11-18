@@ -1,0 +1,5 @@
+---
+title: RegalCoin
+crosslinks:
+- ControlFinance
+---

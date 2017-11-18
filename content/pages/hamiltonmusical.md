@@ -1,0 +1,24 @@
+---
+title: hamiltonmusical
+crosslinks:
+- Broadway
+- hamiltonmemes
+- thegreatcomet
+- KerrysDiary
+- IAmA
+- InTheHeights
+- funny
+- Oddwonks
+- casualiama
+- copypasta
+- announcements
+- formula1
+- mildlyinteresting
+- LinuxCringe
+- livven
+- allaccessplaylists
+- excgarated
+- The_Donald
+- niceguys
+- homestuck
+---

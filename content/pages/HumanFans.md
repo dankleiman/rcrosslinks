@@ -1,0 +1,5 @@
+---
+title: HumanFans
+crosslinks:
+- NoSillySuffix
+---

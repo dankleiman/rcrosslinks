@@ -1,0 +1,5 @@
+---
+title: belgianfootball
+crosslinks:
+- soccer
+---

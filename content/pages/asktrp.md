@@ -1,0 +1,24 @@
+---
+title: asktrp
+crosslinks:
+- TheRedPill
+- RedPillWomen
+- seduction
+- MGTOW
+- Testosterone
+- AskReddit
+- Fitness
+- MensRights
+- askMRP
+- NoFap
+- ketogains
+- steroids
+- '2013'
+- Cuckold
+- DeadBedrooms
+- askseddit
+- sex
+- amiugly
+- getdisciplined
+- GentlemenOnly
+---

@@ -1,0 +1,23 @@
+---
+title: misanthropy
+crosslinks:
+- antinatalism
+- childfree
+- androgyny
+- autotldr
+- nihilism
+- Irony
+- vegas
+- weightlifting
+- watchpeopledie
+- im14andthisisdeep
+- russian
+- OutOfTheLoop
+- YouGotMe
+- HistoryPorn
+- misanthrope
+- collapse
+- Incels
+- Conservative
+- CPTSD
+---

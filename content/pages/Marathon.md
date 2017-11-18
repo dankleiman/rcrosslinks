@@ -1,0 +1,5 @@
+---
+title: Marathon
+crosslinks:
+- speedrun
+---

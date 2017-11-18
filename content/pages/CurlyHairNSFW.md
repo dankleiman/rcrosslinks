@@ -1,0 +1,5 @@
+---
+title: CurlyHairNSFW
+crosslinks:
+- AliceGreen
+---

@@ -1,0 +1,24 @@
+---
+title: caps
+crosslinks:
+- hockey
+- puckstreams
+- hockeyjerseys
+- penguins
+- GoldenKnightsHockey
+- OttawaSenators
+- chicksinhockeyjerseys
+- Drama
+- HighQualityGifs
+- NHLstatheads
+- all
+- devils
+- redsox
+- pens
+- rasktu01
+- leafs
+- reddit_stream
+- LazyMan
+- NHLStreams
+- nhl_games
+---

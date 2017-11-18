@@ -1,0 +1,5 @@
+---
+title: solblood
+crosslinks:
+- newsokur
+---

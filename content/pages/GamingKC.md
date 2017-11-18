@@ -1,0 +1,5 @@
+---
+title: GamingKC
+crosslinks:
+- kansascity
+---

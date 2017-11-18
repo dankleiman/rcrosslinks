@@ -1,0 +1,5 @@
+---
+title: SCNoobSquad
+crosslinks:
+- starcitizen
+---

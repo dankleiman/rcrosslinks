@@ -1,0 +1,5 @@
+---
+title: TAS
+crosslinks:
+- speedrun
+---

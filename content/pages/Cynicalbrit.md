@@ -1,0 +1,24 @@
+---
+title: Cynicalbrit
+crosslinks:
+- JonTron
+- pcgaming
+- Destiny
+- LivestreamFail
+- AskReddit
+- roguelikes
+- IAmA
+- GameDealsMeta
+- 2meirl4meirl
+- pcmasterrace
+- AskThe_Donald
+- paradoxplaza
+- gaming
+- lewronggeneration
+- gamedev
+- GameSpot
+- livven
+- PUBATTLEGROUNDS
+- UnexpectedDS9
+- AdviceAnimals
+---

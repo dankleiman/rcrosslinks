@@ -1,0 +1,5 @@
+---
+title: Outdoor
+crosslinks:
+- flashlight
+---

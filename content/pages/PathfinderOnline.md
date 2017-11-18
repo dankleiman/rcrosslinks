@@ -1,0 +1,5 @@
+---
+title: PathfinderOnline
+crosslinks:
+- Pathfinder
+---

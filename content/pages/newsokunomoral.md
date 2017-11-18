@@ -1,0 +1,24 @@
+---
+title: newsokunomoral
+crosslinks:
+- highlevelkarma
+- newsokur
+- lowlevelaware
+- livven
+- VOCALOID_UTAU_jp
+- jisakupc
+- dokusyo_syoseki_r
+- newsokuvip
+- cosplaygirls
+- autotldr
+- Pixiv
+- TV_ja
+- kojiki
+- newsjoho
+- newsg
+- okome
+- MonsterHunter_jp
+- mahoshojo
+- sokur2
+- Radio_ja
+---

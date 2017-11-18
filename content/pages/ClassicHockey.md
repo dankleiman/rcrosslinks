@@ -1,0 +1,5 @@
+---
+title: ClassicHockey
+crosslinks:
+- hockey
+---

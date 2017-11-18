@@ -1,0 +1,5 @@
+---
+title: JazzCupAesthetics
+crosslinks:
+- hmmm
+---

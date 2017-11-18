@@ -1,0 +1,5 @@
+---
+title: medicalcosts
+crosslinks:
+- chicago
+---

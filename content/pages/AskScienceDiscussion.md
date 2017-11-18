@@ -1,0 +1,24 @@
+---
+title: AskScienceDiscussion
+crosslinks:
+- askscience
+- Physics
+- todayilearned
+- explainlikeimfive
+- space
+- askphilosophy
+- sciencefaqs
+- AskScienceFiction
+- AWLIAS
+- worldnews
+- OutOfTheLoop
+- mapmaking
+- AskPhysics
+- AskReddit
+- fringescience
+- HeKnowsQuantumPhysics
+- WritingPrompts
+- nocontext
+- CrownFlash
+- DaystromInstitute
+---

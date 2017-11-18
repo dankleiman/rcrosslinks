@@ -1,0 +1,22 @@
+---
+title: Alienware
+crosslinks:
+- razer
+- hardwareswap
+- Dell
+- hackintosh
+- pcmasterrace
+- Windows10
+- pcgaming
+- AlienwareAlpha
+- cars
+- hardware
+- giftcardexchange
+- GhostRecon
+- churning
+- FreeGameFindings
+- nvidia
+- laptops
+- Surface
+- PUBATTLEGROUNDS
+---

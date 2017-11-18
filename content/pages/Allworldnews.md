@@ -1,0 +1,5 @@
+---
+title: Allworldnews
+crosslinks:
+- autotldr
+---

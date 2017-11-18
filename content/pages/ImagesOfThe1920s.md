@@ -1,0 +1,24 @@
+---
+title: ImagesOfThe1920s
+crosslinks:
+- OldSchoolCool
+- pics
+- HistoryPorn
+- silentmoviegifs
+- TheWayWeWere
+- imagesofnetwork
+- PropagandaPosters
+- coins
+- u_2BrkOnThru
+- Colorization
+- Lost_Architecture
+- mildlyinteresting
+- MapPorn
+- RetroFuturism
+- Art
+- ukpolitics
+- whatisthisthing
+- ArtDeco
+- interestingasfuck
+- oddlyweird
+---

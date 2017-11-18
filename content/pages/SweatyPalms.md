@@ -1,0 +1,24 @@
+---
+title: SweatyPalms
+crosslinks:
+- livven
+- watchpeopledie
+- gifs
+- WTF
+- pics
+- motorcycles
+- xkcd
+- woahdude
+- CalamariRaceTeam
+- AskReddit
+- nonononoyes
+- OSHA
+- interestingasfuck
+- videos
+- UNBGBBIIVCHIDCTIICBG
+- perfectloops
+- aviation
+- InsaneCameramen
+- AdrenalinePorn
+- BeAmazed
+---

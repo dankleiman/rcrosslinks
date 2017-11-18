@@ -1,0 +1,5 @@
+---
+title: idiotsalmostdying
+crosslinks:
+- livven
+---

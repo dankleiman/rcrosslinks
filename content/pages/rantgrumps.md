@@ -1,0 +1,24 @@
+---
+title: rantgrumps
+crosslinks:
+- gamegrumps
+- PolyGrumps
+- ConspiracyGrumps
+- VentGrumps
+- OneyPlays
+- JonTron
+- Drama
+- gatekeeping
+- TheCompletionist
+- ottawa
+- NintendoSwitch
+- TwoBestFriendsPlay
+- TBoIRule34
+- Undertale
+- tf2
+- TheConspirist
+- YMS
+- OneyRants
+- funhaus
+- conspiracygrumps
+---

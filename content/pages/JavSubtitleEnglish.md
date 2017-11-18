@@ -1,0 +1,5 @@
+---
+title: JavSubtitleEnglish
+crosslinks:
+- AsianNSFW
+---

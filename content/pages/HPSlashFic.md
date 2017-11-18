@@ -1,0 +1,5 @@
+---
+title: HPSlashFic
+crosslinks:
+- HPfanfiction
+---

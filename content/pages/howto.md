@@ -1,0 +1,24 @@
+---
+title: howto
+crosslinks:
+- DiWHY
+- castiron
+- lockpicking
+- DIY
+- AutoDetailing
+- relationships
+- solareclipse
+- EnoughTrumpSpam
+- nesclassicmods
+- interestingasfuck
+- LifeProTips
+- BeAmazed
+- Autos
+- pics
+- goodyearwelt
+- how
+- MwXJ54
+- FULLCOMMUNISM
+- AskReddit
+- CleaningTips
+---

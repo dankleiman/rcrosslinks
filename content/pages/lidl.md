@@ -1,0 +1,5 @@
+---
+title: lidl
+crosslinks:
+- LidlUS
+---

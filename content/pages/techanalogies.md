@@ -1,0 +1,5 @@
+---
+title: techanalogies
+crosslinks:
+- iiiiiiitttttttttttt
+---

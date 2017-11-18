@@ -1,0 +1,5 @@
+---
+title: XboxGamePreview
+crosslinks:
+- WindowsGamePreview
+---

@@ -1,0 +1,5 @@
+---
+title: Ladybuggers
+crosslinks:
+- RWBY
+---

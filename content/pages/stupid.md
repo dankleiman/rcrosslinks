@@ -1,0 +1,5 @@
+---
+title: stupid
+crosslinks:
+- montageparodies
+---

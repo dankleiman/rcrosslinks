@@ -1,0 +1,5 @@
+---
+title: catechism
+crosslinks:
+- INTP
+---

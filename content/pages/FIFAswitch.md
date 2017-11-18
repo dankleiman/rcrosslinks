@@ -1,0 +1,5 @@
+---
+title: FIFAswitch
+crosslinks:
+- NintendoSwitch
+---

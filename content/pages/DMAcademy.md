@@ -1,0 +1,24 @@
+---
+title: DMAcademy
+crosslinks:
+- DnDBehindTheScreen
+- DnD
+- dndnext
+- UnearthedArcana
+- mattcolville
+- rpg
+- DnDWrittenSheets
+- DnDGreentext
+- TalesFromDrexlor
+- EuropeAD1000
+- monsteraday
+- DMToolkit
+- WritingPrompts
+- todayilearned
+- AskGameMasters
+- dndmaps
+- criticalrole
+- Pathfinder_RPG
+- improvedinitiative
+- itmejp
+---

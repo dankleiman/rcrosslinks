@@ -1,0 +1,5 @@
+---
+title: ChicagoFishing
+crosslinks:
+- Fishing
+---

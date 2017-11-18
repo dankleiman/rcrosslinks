@@ -1,0 +1,5 @@
+---
+title: petya
+crosslinks:
+- autotldr
+---

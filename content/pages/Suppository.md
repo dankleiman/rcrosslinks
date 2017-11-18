@@ -1,0 +1,5 @@
+---
+title: Suppository
+crosslinks:
+- programming
+---

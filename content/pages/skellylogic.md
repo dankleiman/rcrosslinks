@@ -1,0 +1,5 @@
+---
+title: skellylogic
+crosslinks:
+- gainit
+---

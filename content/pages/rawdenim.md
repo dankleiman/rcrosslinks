@@ -1,0 +1,24 @@
+---
+title: rawdenim
+crosslinks:
+- malefashionadvice
+- goodyearwelt
+- frugalmalefashion
+- AskReddit
+- metric_units
+- japanesestreetwear
+- livven
+- pics
+- mfacirclejerk
+- FashionReps
+- DIY
+- place
+- southpark
+- GoTMontages
+- MaleFashionMarket
+- autotldr
+- WTF
+- malefashion
+- Fitness
+- IAmA
+---

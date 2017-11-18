@@ -1,0 +1,24 @@
+---
+title: drugscirclejerk
+crosslinks:
+- livven
+- Drugs
+- LSD
+- Stims
+- kratom
+- Psychonaut
+- DarkNetMarkets
+- DrugsOver30
+- Fiveheads
+- trashy
+- saplings
+- FuckingTweakers
+- autotldr
+- AskDrugNerds
+- highqualitygifs
+- changemyview
+- opiates
+- FreeKarma4You
+- Boofit
+- ShrugLifeSyndicate
+---

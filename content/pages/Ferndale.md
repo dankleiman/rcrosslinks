@@ -1,0 +1,5 @@
+---
+title: Ferndale
+crosslinks:
+- Detroit
+---

@@ -1,0 +1,24 @@
+---
+title: Autos
+crosslinks:
+- cars
+- carporn
+- autotldr
+- spotted
+- Shitty_Car_Mods
+- ATBGE
+- Honda
+- Battlecars
+- mr2
+- explainlikeimfive
+- BMW
+- gatekeeping
+- RoastMyCar
+- thewholecar
+- classiccars
+- ratemycock
+- mildlyinteresting
+- AskHistorians
+- personalfinance
+- delusionalcraigslist
+---

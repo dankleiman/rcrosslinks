@@ -1,0 +1,5 @@
+---
+title: LegalNewsinEsports
+crosslinks:
+- esports
+---

@@ -1,0 +1,24 @@
+---
+title: 3dshacks
+crosslinks:
+- 3DS
+- flashcarts
+- 3DSThemeSwap
+- xkcd
+- test
+- NintendoSwitch
+- pokemon
+- WiiUHacks
+- pokemonrng
+- vitahacks
+- pokemontrades
+- MonsterHunter
+- PokemonROMhacks
+- NDSHacks
+- hardwareswap
+- GameSale
+- ProgrammerHumor
+- nocontext
+- PokemonPlaza
+- switchacks
+---

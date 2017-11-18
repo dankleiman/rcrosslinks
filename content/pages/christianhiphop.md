@@ -1,0 +1,5 @@
+---
+title: christianhiphop
+crosslinks:
+- musictheory
+---

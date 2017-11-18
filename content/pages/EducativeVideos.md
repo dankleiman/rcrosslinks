@@ -1,0 +1,5 @@
+---
+title: EducativeVideos
+crosslinks:
+- interestingasfuck
+---

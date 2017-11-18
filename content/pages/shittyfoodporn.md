@@ -1,0 +1,24 @@
+---
+title: shittyfoodporn
+crosslinks:
+- food
+- WeWantPlates
+- livven
+- FoodPorn
+- mildlyinteresting
+- ketchuphate
+- grilledcheese
+- Pizza
+- AskReddit
+- nocontext
+- WTF
+- xkcd
+- vegan
+- keto
+- GifRecipes
+- Frugal_Jerk
+- hmmm
+- HailCorporate
+- funny
+- KnightsOfPineapple
+---

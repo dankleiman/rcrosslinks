@@ -1,0 +1,5 @@
+---
+title: DeadTube
+crosslinks:
+- manga
+---

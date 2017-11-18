@@ -1,0 +1,5 @@
+---
+title: GDragon
+crosslinks:
+- kpop
+---

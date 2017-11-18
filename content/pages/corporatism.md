@@ -1,0 +1,5 @@
+---
+title: corporatism
+crosslinks:
+- occupywallstreet
+---

@@ -1,0 +1,24 @@
+---
+title: fnv
+crosslinks:
+- FalloutMods
+- Fallout
+- Gamingcirclejerk
+- ManyATrueNerd
+- livven
+- guns
+- falloutlore
+- 4chan
+- gaming
+- skyrimmods
+- PCMasterRace
+- OutOfTheLoop
+- NewVegasMemes
+- SummerReddit
+- AskReddit
+- gasmasks
+- drunk
+- silhouWHAT
+- Ford
+- Incel
+---

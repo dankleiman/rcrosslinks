@@ -1,0 +1,24 @@
+---
+title: Calgary
+crosslinks:
+- autotldr
+- canada
+- PersonalFinanceCanada
+- xkcd
+- Edmonton
+- pics
+- AskReddit
+- funny
+- NoRulesCalgary
+- livven
+- vancouver
+- CalgaryDashCams
+- metacanada
+- legaladvice
+- whatsthisplant
+- place
+- Roadcam
+- CanadaPolitics
+- AMAAggregator
+- CalgaryClassifieds
+---

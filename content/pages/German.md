@@ -1,0 +1,24 @@
+---
+title: German
+crosslinks:
+- de
+- translator
+- germany
+- autotldr
+- DACH
+- LanguageBuds
+- germusic
+- de_writingprompts
+- languagelearning
+- de_podcasts
+- GermanPractice
+- Android
+- aeiou
+- askStampCollectors
+- sexygirlsinjeans
+- Sprache
+- SwearLikeA
+- Kurrent
+- KG6fux
+- xkcd
+---

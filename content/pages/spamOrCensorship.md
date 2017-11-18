@@ -1,0 +1,5 @@
+---
+title: spamOrCensorship
+crosslinks:
+- OffensiveNews
+---

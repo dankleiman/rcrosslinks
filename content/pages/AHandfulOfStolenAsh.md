@@ -1,0 +1,5 @@
+---
+title: AHandfulOfStolenAsh
+crosslinks:
+- whowouldwin
+---

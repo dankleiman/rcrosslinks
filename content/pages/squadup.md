@@ -1,0 +1,5 @@
+---
+title: squadup
+crosslinks:
+- GoldenDragons
+---

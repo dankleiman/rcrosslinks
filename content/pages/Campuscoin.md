@@ -1,0 +1,5 @@
+---
+title: Campuscoin
+crosslinks:
+- altcoin
+---

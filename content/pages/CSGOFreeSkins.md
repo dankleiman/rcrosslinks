@@ -1,0 +1,5 @@
+---
+title: CSGOFreeSkins
+crosslinks:
+- FreeCSGOSkins
+---

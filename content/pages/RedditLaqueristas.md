@@ -1,0 +1,24 @@
+---
+title: RedditLaqueristas
+crosslinks:
+- malepolish
+- livven
+- HailCorporate
+- RandomActsOfPolish
+- SoakOff
+- makeupexchange
+- funny
+- ProductPorn
+- AnimalCrossing
+- NailArt
+- AMAAggregator
+- Aquariums
+- knitting
+- ignorantimgur
+- MayMacStream
+- calmhands
+- PeanutWhiskers
+- PutAnEggOnIt
+- askscience
+- outrun
+---

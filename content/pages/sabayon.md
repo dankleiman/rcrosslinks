@@ -1,0 +1,5 @@
+---
+title: sabayon
+crosslinks:
+- Gentoo
+---

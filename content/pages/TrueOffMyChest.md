@@ -1,0 +1,24 @@
+---
+title: TrueOffMyChest
+crosslinks:
+- offmychest
+- AskReddit
+- niceguys
+- Drama
+- xkcd
+- BasementBadBoy
+- ShitRedditSays
+- Incels
+- greatdanes
+- CringeAnarchy
+- The_Donald
+- KotakuInAction
+- AskMen
+- fuck_you_shitcunt
+- OutOfTheLoop
+- JusticeServed
+- childfree
+- amiugly
+- politics
+- lostgeneration
+---

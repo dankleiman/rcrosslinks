@@ -1,0 +1,24 @@
+---
+title: EngineeringStudents
+crosslinks:
+- xkcd
+- livven
+- AskEngineers
+- engineering
+- AskReddit
+- cscareerquestions
+- SuggestALaptop
+- funny
+- ECE
+- trackers
+- civilengineering
+- chanceme
+- linuxmasterrace
+- autotldr
+- excel
+- EatCheapAndHealthy
+- Skookum
+- dailyprogrammer
+- GradSchool
+- philosophy
+---

@@ -1,0 +1,5 @@
+---
+title: vapormax
+crosslinks:
+- vaporents
+---

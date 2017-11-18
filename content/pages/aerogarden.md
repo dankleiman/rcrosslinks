@@ -1,0 +1,5 @@
+---
+title: aerogarden
+crosslinks:
+- hydro
+---

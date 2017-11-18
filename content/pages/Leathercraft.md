@@ -1,0 +1,24 @@
+---
+title: Leathercraft
+crosslinks:
+- LeatherClassifieds
+- crafts
+- DIY
+- leatherclassifieds
+- ImaginaryWarhammer
+- lasercutting
+- Archery
+- furniturerestoration
+- Cordwaining
+- Serendipity
+- upholstery
+- shoemaking
+- malefashionadvice
+- Metallica
+- knitting
+- churning
+- hearthstone
+- 3Dprinting
+- Blacksmith
+- goodyearwelt
+---

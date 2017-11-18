@@ -1,0 +1,24 @@
+---
+title: Anthropology
+crosslinks:
+- AskHistorians
+- pics
+- worldpolitics
+- AskAnthropology
+- exjw
+- genetics
+- BrasilOnReddit
+- userexperience
+- explainlikeimfive
+- Missing411
+- woahdude
+- georgism
+- Archaeology
+- todayilearned
+- EverythingScience
+- IndianCountry
+- titlegore
+- ancientegypt
+- SampleSize
+- owsdower
+---

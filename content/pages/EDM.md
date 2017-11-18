@@ -1,0 +1,24 @@
+---
+title: EDM
+crosslinks:
+- trap
+- electronicmusic
+- aves
+- trance
+- electricdaisycarnival
+- edmproduction
+- xTrill
+- deadmau5
+- Music
+- hardstyle
+- ericprydz
+- skrillex
+- popheads
+- autotldr
+- UMF
+- shallowhouse
+- meirl
+- Monstercat
+- electrohouse
+- EDMToday
+---

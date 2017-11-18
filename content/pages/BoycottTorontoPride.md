@@ -1,0 +1,5 @@
+---
+title: BoycottTorontoPride
+crosslinks:
+- livven
+---

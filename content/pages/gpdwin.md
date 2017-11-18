@@ -1,0 +1,24 @@
+---
+title: gpdwin
+crosslinks:
+- GPDPocket
+- shittykickstarters
+- emulation
+- metalgearsolid
+- Gamingcirclejerk
+- pcmasterrace
+- SteamController
+- ffxiv
+- mechwarrior
+- smachz
+- EmulationOnAndroid
+- help
+- gpdxd
+- vita
+- indiegameswap
+- lowendgaming
+- Piracy
+- NoMansSkyTheGame
+- vitahacks
+- FalloutMods
+---

@@ -1,0 +1,5 @@
+---
+title: shittylegaladvice
+crosslinks:
+- argentina
+---

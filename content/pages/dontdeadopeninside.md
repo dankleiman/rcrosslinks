@@ -1,0 +1,24 @@
+---
+title: dontdeadopeninside
+crosslinks:
+- CrappyDesign
+- keming
+- pics
+- engrish
+- Bandnames
+- delusionalartists
+- ATBGE
+- strokewhilecommenting
+- dontopendeadinside
+- LateStageCapitalism
+- xkcd
+- im14andthisisdeep
+- AskReddit
+- 4PanelCringe
+- underpopular
+- Ooer
+- pol
+- FellowKids
+- Catholicism
+- trees
+---

@@ -1,0 +1,24 @@
+---
+title: whatcarshouldIbuy
+crosslinks:
+- askcarsales
+- cars
+- personalfinance
+- teslamotors
+- GolfGTI
+- FordFocus
+- vandwellers
+- carfax
+- mechanicadvice
+- todayilearned
+- Shitty_Car_Mods
+- fakehistoryporn
+- AMA
+- autorepair
+- me_irl
+- AskNYC
+- UnethicalLifeProTips
+- psychology
+- volt
+- LandCruisers
+---

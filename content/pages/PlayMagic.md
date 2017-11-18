@@ -1,0 +1,5 @@
+---
+title: PlayMagic
+crosslinks:
+- Tacoma
+---

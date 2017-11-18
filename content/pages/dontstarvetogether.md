@@ -1,0 +1,5 @@
+---
+title: dontstarvetogether
+crosslinks:
+- dontstarve
+---

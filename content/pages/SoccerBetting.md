@@ -1,0 +1,24 @@
+---
+title: SoccerBetting
+crosslinks:
+- soccer
+- '1942464'
+- '382027'
+- soccerstreams
+- BrasilOnReddit
+- InnocentPossumsPicks
+- MLS
+- '1363260'
+- '86590'
+- '1931876'
+- neeve
+- OutOfTheLoop
+- eurovision
+- learnprogramming
+- 2r5w7wk
+- AMA
+- '713022'
+- fantasypl
+- '312604'
+- gifs
+---

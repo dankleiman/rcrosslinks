@@ -1,0 +1,5 @@
+---
+title: dasapistols
+crosslinks:
+- CZFirearms
+---

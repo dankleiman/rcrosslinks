@@ -1,0 +1,24 @@
+---
+title: happycrowds
+crosslinks:
+- videos
+- BritainsGotTalent
+- Frisson
+- panelshow
+- zeropointmodule
+- CrowdPulledOnStage
+- BrasilOnReddit
+- GirlsMirin
+- BetterEveryLoop
+- lewronggeneration
+- ContagiousLaughter
+- sportsarefun
+- soccer
+- WhyWereTheyFilming
+- Cricket
+- gaming
+- Hardcore
+- irlsmurfing
+- whiteknighting
+- hockey
+---

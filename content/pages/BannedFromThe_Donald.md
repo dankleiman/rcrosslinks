@@ -1,0 +1,24 @@
+---
+title: BannedFromThe_Donald
+crosslinks:
+- The_Donald
+- conspiracy
+- AskThe_Donald
+- EnoughTrumpSpam
+- AskTrumpSupporters
+- politics
+- autotldr
+- MarchAgainstTrump
+- livven
+- Conservative
+- announcements
+- esist
+- uncensorednews
+- ShitPoliticsSays
+- PoliticalHumor
+- Fuckthealtright
+- hillaryclinton
+- AskHistorians
+- all
+- LateStageCapitalism
+---

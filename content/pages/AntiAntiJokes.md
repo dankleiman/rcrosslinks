@@ -1,0 +1,24 @@
+---
+title: AntiAntiJokes
+crosslinks:
+- DankMemeArchive
+- AntiJokes
+- AntiAntJokes
+- AntiAntiAntiAntiJokes
+- antiandaquarterjokes
+- antiantiantijokes
+- metaljerk
+- noslep
+- cleanjokes
+- surrealmemes
+- KarmaCourt
+- youclickedthelink
+- sadjokes
+- ShittyLifeProTips
+- juxtaposition
+- ggggg
+- xkcd
+- Antix5Jokes
+- Frugal_Jerk
+- Jokes
+---

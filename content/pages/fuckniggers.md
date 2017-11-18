@@ -1,0 +1,5 @@
+---
+title: fuckniggers
+crosslinks:
+- FuckHonkies
+---

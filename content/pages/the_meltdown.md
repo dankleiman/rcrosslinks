@@ -1,0 +1,24 @@
+---
+title: the_meltdown
+crosslinks:
+- The_Donald
+- autotldr
+- politics
+- EnoughTrumpSpam
+- ShitPoliticsSays
+- killthosewhodisagree
+- HillaryMeltdown
+- sjwhate
+- AskThe_Donald
+- conspiracy
+- JonTron
+- AsABlackMan
+- Destiny
+- Le_Pen
+- MMA
+- SandersForPresident
+- Sherlock
+- thedonald
+- Jokes
+- explainlikeimfive
+---

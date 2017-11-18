@@ -1,0 +1,5 @@
+---
+title: ModafinilInc
+crosslinks:
+- modafinil
+---

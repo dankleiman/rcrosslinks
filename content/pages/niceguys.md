@@ -1,0 +1,24 @@
+---
+title: niceguys
+crosslinks:
+- Nicegirls
+- sadcringe
+- cringepics
+- AskReddit
+- relationships
+- niceguysDiscussion
+- legaladvice
+- xkcd
+- creepyPMs
+- short
+- gatekeeping
+- lewronggeneration
+- copypasta
+- creepyasterisks
+- DeepFriedMemes
+- TheBluePill
+- casualiama
+- ComedyCemetery
+- excgarated
+- nocontext
+---

@@ -1,0 +1,5 @@
+---
+title: ageofidiocracy
+crosslinks:
+- autotldr
+---

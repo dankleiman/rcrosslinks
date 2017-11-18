@@ -1,0 +1,24 @@
+---
+title: siacoin
+crosslinks:
+- CryptoCurrency
+- siatrader
+- storj
+- IAmA
+- ethtrader
+- tippr
+- PoloniexForum
+- ethereum
+- Duplicati
+- Monero
+- Ripple
+- DataHoarder
+- maidsafe
+- gpumining
+- datahoarders
+- GameCreditsCrypto
+- learnprogramming
+- litecoin
+- autotldr
+- CoinBase
+---

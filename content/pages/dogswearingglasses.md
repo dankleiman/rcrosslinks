@@ -1,0 +1,5 @@
+---
+title: dogswearingglasses
+crosslinks:
+- funny
+---

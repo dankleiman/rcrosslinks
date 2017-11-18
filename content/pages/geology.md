@@ -1,0 +1,24 @@
+---
+title: geology
+crosslinks:
+- autotldr
+- livven
+- geologycareers
+- whatsthisrock
+- pics
+- itsslag
+- fossilid
+- chemistry
+- rockhounds
+- Paleontology
+- mildlyinteresting
+- Dinosaurs
+- xkcd
+- cinemagraphs
+- Serendipity
+- science
+- reptiles
+- gatekeeping
+- skeptic
+- spam
+---

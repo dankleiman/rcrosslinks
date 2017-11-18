@@ -1,0 +1,5 @@
+---
+title: theblackpanther
+crosslinks:
+- marvelstudios
+---

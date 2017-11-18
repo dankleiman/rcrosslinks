@@ -1,0 +1,5 @@
+---
+title: EvilFuckingSociopath
+crosslinks:
+- ShitEvilModsSay
+---

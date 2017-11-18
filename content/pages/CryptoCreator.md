@@ -1,0 +1,5 @@
+---
+title: CryptoCreator
+crosslinks:
+- AllCoins
+---

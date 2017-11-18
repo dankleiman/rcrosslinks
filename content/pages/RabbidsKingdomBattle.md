@@ -1,0 +1,5 @@
+---
+title: RabbidsKingdomBattle
+crosslinks:
+- NintendoSwitch
+---

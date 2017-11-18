@@ -1,0 +1,5 @@
+---
+title: pcparts
+crosslinks:
+- AskReddit
+---

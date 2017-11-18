@@ -1,0 +1,24 @@
+---
+title: seinfeld
+crosslinks:
+- livven
+- gifs
+- seinfeldgifs
+- pics
+- autotldr
+- howyoudoin
+- AgainstKarmaWhores
+- IAmA
+- stevenuniverse
+- casualnintendo
+- accidentalinsight
+- videos
+- todayilearned
+- gatekeeping
+- graphs
+- RedditWritesSeinfeld
+- laughfactory
+- Whooosh
+- ShitRedditSays
+- WTF
+---

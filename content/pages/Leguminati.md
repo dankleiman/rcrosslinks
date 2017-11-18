@@ -1,0 +1,5 @@
+---
+title: Leguminati
+crosslinks:
+- sweetpeaconfederation
+---

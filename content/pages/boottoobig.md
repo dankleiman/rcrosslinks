@@ -1,0 +1,24 @@
+---
+title: boottoobig
+crosslinks:
+- livven
+- AskReddit
+- ComedyCemetery
+- tifu
+- PrequelMemes
+- DeepFriedMemes
+- surrealmemes
+- furry_irl
+- vsaucememes
+- KarmaCourt
+- gatekeeping
+- dontdeadopeninside
+- BestOfReports
+- juxtaposition
+- WTF
+- toosoon
+- nocontext
+- Jeopardy
+- me_irl
+- Bandnames
+---

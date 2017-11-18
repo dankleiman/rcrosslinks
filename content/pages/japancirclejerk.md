@@ -1,0 +1,24 @@
+---
+title: japancirclejerk
+crosslinks:
+- japan
+- AskReddit
+- japanlife
+- LearnJapanese
+- JapanTravel
+- hapas
+- JETProgramme
+- movingtojapan
+- Tokyo
+- newsokur
+- todayilearned
+- anime
+- Drama
+- worldnews
+- teachinginjapan
+- autotldr
+- relationships
+- Laowinning
+- CringeAnarchy
+- news
+---

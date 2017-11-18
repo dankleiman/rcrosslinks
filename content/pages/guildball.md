@@ -1,0 +1,5 @@
+---
+title: guildball
+crosslinks:
+- minipainting
+---

@@ -1,0 +1,5 @@
+---
+title: TrackMania
+crosslinks:
+- Alot
+---

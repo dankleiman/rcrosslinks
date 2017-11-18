@@ -1,0 +1,5 @@
+---
+title: NPCtown
+crosslinks:
+- PkxrjOWNTjmnKWYf
+---

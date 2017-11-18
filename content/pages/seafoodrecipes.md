@@ -1,0 +1,5 @@
+---
+title: seafoodrecipes
+crosslinks:
+- GifRecipes
+---

@@ -1,0 +1,5 @@
+---
+title: OldSchoolMcKellen
+crosslinks:
+- OldSchoolCool
+---

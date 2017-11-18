@@ -1,0 +1,5 @@
+---
+title: RealNightcore
+crosslinks:
+- NightcoreMusic
+---

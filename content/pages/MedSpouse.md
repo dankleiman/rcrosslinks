@@ -1,0 +1,5 @@
+---
+title: MedSpouse
+crosslinks:
+- nashville
+---

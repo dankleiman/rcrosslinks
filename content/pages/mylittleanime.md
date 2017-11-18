@@ -1,0 +1,5 @@
+---
+title: mylittleanime
+crosslinks:
+- mylittlepony
+---

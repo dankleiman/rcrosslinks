@@ -1,0 +1,5 @@
+---
+title: Critics
+crosslinks:
+- deathnote
+---

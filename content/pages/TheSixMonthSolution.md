@@ -1,0 +1,5 @@
+---
+title: TheSixMonthSolution
+crosslinks:
+- acting
+---

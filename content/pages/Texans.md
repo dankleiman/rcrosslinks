@@ -1,0 +1,24 @@
+---
+title: Texans
+crosslinks:
+- nfl
+- EvilLeagueOfEvil
+- Colts
+- livven
+- Jaguars
+- Patriots
+- CoalitionAgainstEvil
+- place
+- Browns
+- placehearts
+- NFL_Draft
+- patriots
+- houston
+- rockets
+- Tennesseetitans
+- Vue
+- detroitlions
+- '2013'
+- squaredCircle
+- ungulateteams
+---

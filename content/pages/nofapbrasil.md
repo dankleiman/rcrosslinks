@@ -1,0 +1,5 @@
+---
+title: nofapbrasil
+crosslinks:
+- NoFap
+---

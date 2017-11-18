@@ -1,0 +1,5 @@
+---
+title: VeganRights
+crosslinks:
+- ARActivism
+---

@@ -1,0 +1,24 @@
+---
+title: Psychonaut
+crosslinks:
+- ShrugLifeSyndicate
+- LSD
+- DMT
+- Drugs
+- RationalPsychonaut
+- holofractal
+- sorceryofthespectacle
+- C_S_T
+- awakened
+- occult
+- microdosing
+- shrooms
+- autotldr
+- researchchemicals
+- DigitalCartel
+- Meditation
+- PsychedelicTelepathy
+- DimensionalJumping
+- Buddhism
+- LateStageCapitalism
+---

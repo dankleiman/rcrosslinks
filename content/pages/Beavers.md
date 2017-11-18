@@ -1,0 +1,5 @@
+---
+title: Beavers
+crosslinks:
+- Wildlife
+---

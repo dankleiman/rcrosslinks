@@ -1,0 +1,5 @@
+---
+title: ImperialAttache
+crosslinks:
+- SWGalaxyOfHeroes
+---

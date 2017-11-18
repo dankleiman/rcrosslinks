@@ -1,0 +1,24 @@
+---
+title: conservatives
+crosslinks:
+- ShitRConservativeSays
+- politics
+- Military
+- ShitPoliticsSays
+- christianpersecution
+- The_Donald
+- TopMindsOfReddit
+- ModelWHPress
+- NeutralPolitics
+- socialism
+- EmpireDidNothingWrong
+- Conservative
+- askaconservative
+- AskScienceFiction
+- livven
+- dgu
+- climate
+- BestoftheRight
+- trump
+- BannedFromThe_Donald
+---

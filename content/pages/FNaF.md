@@ -1,0 +1,5 @@
+---
+title: FNaF
+crosslinks:
+- fivenightsatfreddys
+---

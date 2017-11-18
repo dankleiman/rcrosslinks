@@ -1,0 +1,5 @@
+---
+title: CorkiMains
+crosslinks:
+- summonerschool
+---

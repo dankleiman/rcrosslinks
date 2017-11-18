@@ -1,0 +1,23 @@
+---
+title: neoconNWO
+crosslinks:
+- PoliticalDiscussion
+- politics
+- changemyview
+- ChapoTrapHouse
+- dankmemes
+- todayilearned
+- worldnews
+- mildlyinfuriating
+- EnoughCommieSpam
+- woahdude
+- IRstudies
+- syriancivilwar
+- livven
+- NeverTrump
+- NeutralPolitics
+- AMAAggregator
+- NorthAtlanticTreaty
+- MURICA
+- autotldr
+---

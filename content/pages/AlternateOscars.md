@@ -1,0 +1,5 @@
+---
+title: AlternateOscars
+crosslinks:
+- movies
+---

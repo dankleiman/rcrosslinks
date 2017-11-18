@@ -1,0 +1,5 @@
+---
+title: ShitSovietaboosSay
+crosslinks:
+- shittankiessay
+---

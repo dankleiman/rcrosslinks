@@ -1,0 +1,5 @@
+---
+title: UWindsor
+crosslinks:
+- uwaterloo
+---

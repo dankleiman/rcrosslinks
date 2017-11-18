@@ -1,0 +1,5 @@
+---
+title: osumania
+crosslinks:
+- osugame
+---

@@ -1,0 +1,5 @@
+---
+title: Offensivejokes
+crosslinks:
+- EnoughInternet
+---

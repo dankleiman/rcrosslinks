@@ -1,0 +1,24 @@
+---
+title: lgbt
+crosslinks:
+- asktransgender
+- The_Donald
+- LGBTaf
+- xkcd
+- politics
+- news
+- pics
+- LGBTQnews
+- science
+- AskReddit
+- LGBTeens
+- RightwingLGBT
+- unitedkingdom
+- BetoORourke
+- standupshots
+- explainlikeimfive
+- altright
+- livven
+- changemyview
+- OpenChristian
+---

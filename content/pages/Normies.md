@@ -1,0 +1,5 @@
+---
+title: Normies
+crosslinks:
+- REEEEEEEEEE
+---

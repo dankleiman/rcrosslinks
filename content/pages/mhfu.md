@@ -1,0 +1,5 @@
+---
+title: mhfu
+crosslinks:
+- MonsterHunter
+---

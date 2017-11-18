@@ -1,0 +1,5 @@
+---
+title: DesertTech
+crosslinks:
+- guns
+---

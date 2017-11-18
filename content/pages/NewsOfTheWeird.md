@@ -1,0 +1,24 @@
+---
+title: NewsOfTheWeird
+crosslinks:
+- autotldr
+- LateStageCapitalism
+- guns
+- FrontPageOfGoogle
+- The_Donald
+- titlegore
+- DarwinAwards
+- Blades
+- politics
+- grilledcheese
+- newsOfTheTragic
+- shittyaskscience
+- funny
+- trashy
+- SSBM
+- NeoScientism
+- AskReddit
+- savedyouaclick
+- goodnews
+- IAmA
+---

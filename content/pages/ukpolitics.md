@@ -1,0 +1,24 @@
+---
+title: ukpolitics
+crosslinks:
+- Scotland
+- unitedkingdom
+- europe
+- AskHistorians
+- xkcd
+- worldnews
+- europrivacy
+- politics
+- ireland
+- science
+- UKPol
+- explainlikeimfive
+- syriancivilwar
+- northernireland
+- EndFPTP
+- OutOfTheLoop
+- antidrug
+- exmuslim
+- Economics
+- The_Donald
+---

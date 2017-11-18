@@ -1,0 +1,21 @@
+---
+title: Cinema4D
+crosslinks:
+- livven
+- Simulated
+- outrun
+- twinpeaks
+- GBA4iOS
+- hardwareswap
+- analog
+- restofthefuckingowl
+- VaporwaveAesthetics
+- ShadowBan
+- 3Dmodeling
+- wallpapers
+- video_mapping
+- space
+- Daily3D
+- 600x450
+- Gunpla
+---

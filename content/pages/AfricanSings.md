@@ -1,0 +1,5 @@
+---
+title: AfricanSings
+crosslinks:
+- AMAAggregator
+---

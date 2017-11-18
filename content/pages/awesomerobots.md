@@ -1,0 +1,5 @@
+---
+title: awesomerobots
+crosslinks:
+- de
+---

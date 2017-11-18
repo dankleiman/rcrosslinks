@@ -1,0 +1,24 @@
+---
+title: RedditMinusMods
+crosslinks:
+- undelete
+- politics
+- pics
+- funny
+- todayilearned
+- gifs
+- mildlyinteresting
+- aww
+- worldnews
+- news
+- gaming
+- videos
+- AdviceAnimals
+- OldSchoolCool
+- Overwatch
+- wholesomememes
+- PoliticalHumor
+- WTF
+- technology
+- NatureIsFuckingLit
+---

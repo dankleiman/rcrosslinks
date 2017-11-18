@@ -1,0 +1,24 @@
+---
+title: witchcraft
+crosslinks:
+- occult
+- Wicca
+- DimensionalJumping
+- iamverysmart
+- xkcd
+- Drama
+- yoga
+- tarot
+- GreenhornCoven
+- alexandria
+- iching
+- Vodou
+- offthemap
+- paganism
+- Occultism
+- energy_work
+- fascist
+- autotldr
+- Jung
+- Buddhism
+---

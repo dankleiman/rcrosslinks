@@ -1,0 +1,5 @@
+---
+title: SGU
+crosslinks:
+- spam
+---

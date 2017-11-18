@@ -1,0 +1,5 @@
+---
+title: storiesaboutfrank
+crosslinks:
+- Jokes
+---

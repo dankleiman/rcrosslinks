@@ -1,0 +1,24 @@
+---
+title: boulder
+crosslinks:
+- Denver
+- autotldr
+- coloradohikers
+- xkcd
+- freeflight
+- ColoradoSprings
+- Roadcam
+- IAmA
+- lithuania
+- Slackline
+- tifu
+- livven
+- alpha
+- orlando
+- AdviceAnimals
+- TheRedPill
+- explainlikeimfive
+- space
+- DeepGreenResistance
+- legaladvice
+---

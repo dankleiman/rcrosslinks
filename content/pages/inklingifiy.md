@@ -1,0 +1,5 @@
+---
+title: inklingifiy
+crosslinks:
+- MonsterMusume
+---

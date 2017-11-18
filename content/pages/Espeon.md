@@ -1,0 +1,5 @@
+---
+title: Espeon
+crosslinks:
+- livven
+---

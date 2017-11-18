@@ -1,0 +1,5 @@
+---
+title: Spuds
+crosslinks:
+- ottawa
+---

@@ -1,0 +1,24 @@
+---
+title: animation
+crosslinks:
+- livven
+- AfterEffects
+- Illustration
+- ArtFundamentals
+- funny_pics_videos
+- vfx
+- Heavymind
+- Simulated
+- Cinema4D
+- AnimationNightsNYC
+- ConfusedBoners
+- sketches
+- indianpeoplereddit
+- KingOfTheHill
+- autotldr
+- moho_animation
+- SuperSaiyanGifs
+- Art
+- gorillaz
+- Filmmakers
+---

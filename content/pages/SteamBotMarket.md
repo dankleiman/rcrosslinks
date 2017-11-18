@@ -1,0 +1,5 @@
+---
+title: SteamBotMarket
+crosslinks:
+- SteamTradingCards
+---

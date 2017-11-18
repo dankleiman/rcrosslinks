@@ -1,0 +1,24 @@
+---
+title: AsianBeauty
+crosslinks:
+- SkincareAddiction
+- MakeupAddiction
+- DIYBeauty
+- AsianBeautyAdvice
+- skincareexchange
+- vegan
+- EuroSkincare
+- sca
+- HaircareScience
+- wicked_edge
+- makeupexchange
+- AusSkincare
+- Skincare_Addiction
+- curlyhair
+- Fude
+- tretinoin
+- tea
+- SkincareAddicts
+- livven
+- FancyFollicles
+---

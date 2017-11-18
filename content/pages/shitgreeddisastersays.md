@@ -1,0 +1,5 @@
+---
+title: shitgreeddisastersays
+crosslinks:
+- ShitAmericansSay
+---

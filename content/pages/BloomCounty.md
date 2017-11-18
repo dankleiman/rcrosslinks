@@ -1,0 +1,5 @@
+---
+title: BloomCounty
+crosslinks:
+- newspapercomics
+---

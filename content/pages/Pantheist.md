@@ -1,0 +1,5 @@
+---
+title: Pantheist
+crosslinks:
+- Stoicism
+---

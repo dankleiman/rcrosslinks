@@ -1,0 +1,5 @@
+---
+title: EDCTickets
+crosslinks:
+- electricdaisycarnival
+---

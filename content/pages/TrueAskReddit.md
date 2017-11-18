@@ -1,0 +1,24 @@
+---
+title: TrueAskReddit
+crosslinks:
+- AskHistorians
+- goodlongposts
+- worldnews
+- HateCrimeHoaxes
+- AskReddit
+- AskEconomics
+- vinyl
+- xkcd
+- asktransgender
+- Foodforthought
+- LegalAdviceUK
+- PoliticalDiscussion
+- askscience
+- thedivision
+- redditisland
+- law
+- TheVeryMask
+- Koans
+- The_Donald
+- the_donald
+---

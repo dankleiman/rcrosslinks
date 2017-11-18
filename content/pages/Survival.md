@@ -1,0 +1,24 @@
+---
+title: Survival
+crosslinks:
+- foraging
+- autotldr
+- xkcd
+- ems
+- livven
+- AskReddit
+- Bushcraft
+- PhotoshopRequest
+- IAmA
+- preppers
+- interestingasfuck
+- EDC
+- Survivalist
+- videos
+- definitelynotmeirl
+- dartmoor
+- REEEEEE
+- Entomology
+- FirstAidKit
+- Frugal
+---

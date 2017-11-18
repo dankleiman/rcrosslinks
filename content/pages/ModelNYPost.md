@@ -1,0 +1,5 @@
+---
+title: ModelNYPost
+crosslinks:
+- ModelDrudgeReport
+---

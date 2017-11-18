@@ -1,0 +1,24 @@
+---
+title: blog
+crosslinks:
+- The_Donald
+- altright
+- politics
+- EnoughTrumpSpam
+- OutOfTheLoop
+- place
+- AskReddit
+- redditdata
+- undelete
+- secretsanta
+- announcements
+- NeutralPolitics
+- movies
+- pics
+- Drama
+- self
+- all
+- modnews
+- SeattleWA
+- xkcd
+---

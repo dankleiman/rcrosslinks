@@ -1,0 +1,24 @@
+---
+title: electricians
+crosslinks:
+- ElectricalEngineering
+- AskElectronics
+- electronics
+- AskEngineers
+- HVAC
+- askscience
+- OSHA
+- mildlyinteresting
+- WTF
+- pcmasterrace
+- electrical
+- HomeImprovement
+- '2013'
+- AskAnAmerican
+- Assistance
+- Perfectfit
+- conduitporn
+- natureismetal
+- SeattleWA
+- headphones
+---

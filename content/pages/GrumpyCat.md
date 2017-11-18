@@ -1,0 +1,5 @@
+---
+title: GrumpyCat
+crosslinks:
+- Pareidolia
+---

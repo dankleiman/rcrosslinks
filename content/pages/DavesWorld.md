@@ -1,0 +1,5 @@
+---
+title: DavesWorld
+crosslinks:
+- WritingPrompts
+---

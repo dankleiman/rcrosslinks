@@ -1,0 +1,24 @@
+---
+title: WTF
+crosslinks:
+- AskReddit
+- pics
+- funny
+- gifs
+- todayilearned
+- videos
+- watchpeopledie
+- IAmA
+- mildlyinteresting
+- gifsthatendtoosoon
+- OutOfTheLoop
+- OSHA
+- interestingasfuck
+- natureismetal
+- popping
+- tifu
+- aww
+- '2013'
+- NatureIsFuckingLit
+- nonononoyes
+---

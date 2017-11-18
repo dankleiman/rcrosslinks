@@ -1,0 +1,5 @@
+---
+title: Soto
+crosslinks:
+- AdvaitaVedanta
+---

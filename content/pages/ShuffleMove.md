@@ -1,0 +1,5 @@
+---
+title: ShuffleMove
+crosslinks:
+- PokemonShuffle
+---

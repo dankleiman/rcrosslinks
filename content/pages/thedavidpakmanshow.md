@@ -1,0 +1,24 @@
+---
+title: thedavidpakmanshow
+crosslinks:
+- autotldr
+- The_Donald
+- NeutralPolitics
+- politics
+- news
+- xkcd
+- samharris
+- IAmA
+- TheLouisMotamediShow
+- tytonreddit
+- TrumpInvestigation
+- Political_Revolution
+- conspiracy
+- SandersForPresident
+- JamesDamore
+- livven
+- intp
+- Intactivists
+- OutOfTheLoop
+- 2yowchd
+---

@@ -1,0 +1,5 @@
+---
+title: PokemonGoNewHampshire
+crosslinks:
+- pokemongo
+---

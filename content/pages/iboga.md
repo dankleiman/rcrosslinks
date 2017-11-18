@@ -1,0 +1,5 @@
+---
+title: iboga
+crosslinks:
+- Psychonaut
+---

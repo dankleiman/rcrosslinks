@@ -1,0 +1,21 @@
+---
+title: saskatchewan
+crosslinks:
+- saskatoon
+- autotldr
+- regina
+- canada
+- rickandmorty
+- legaladvice
+- onguardforthee
+- saskevents
+- BadEverything
+- me_irl
+- Serendipity
+- personalfinance
+- surfing
+- geology
+- Music
+- metacanada
+- pics
+---

@@ -1,0 +1,5 @@
+---
+title: cutecouples
+crosslinks:
+- happy
+---

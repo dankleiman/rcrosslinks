@@ -1,0 +1,5 @@
+---
+title: irc
+crosslinks:
+- xkcd
+---

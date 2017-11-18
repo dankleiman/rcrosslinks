@@ -1,0 +1,5 @@
+---
+title: BuffaloWizards
+crosslinks:
+- APUSH
+---

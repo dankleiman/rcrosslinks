@@ -1,0 +1,24 @@
+---
+title: comics
+crosslinks:
+- HotPaper
+- AskReddit
+- The_Donald
+- comedynecromancy
+- livven
+- funny
+- wholesomememes
+- pics
+- LateStageCapitalism
+- Incels
+- WritingPrompts
+- PoliticalHumor
+- politics
+- madlads
+- TsundereSharks
+- OldSchoolCool
+- lewronggeneration
+- Showerthoughts
+- MGTOW
+- omaketheater
+---

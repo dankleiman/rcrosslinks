@@ -1,0 +1,5 @@
+---
+title: theboondocks
+crosslinks:
+- adultswim
+---

@@ -1,0 +1,5 @@
+---
+title: wildcaughtphish
+crosslinks:
+- phish
+---

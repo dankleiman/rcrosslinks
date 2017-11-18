@@ -1,0 +1,5 @@
+---
+title: SRSMythos
+crosslinks:
+- pussypassdenied
+---

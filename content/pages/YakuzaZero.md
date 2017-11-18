@@ -1,0 +1,5 @@
+---
+title: YakuzaZero
+crosslinks:
+- JRPG
+---

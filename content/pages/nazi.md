@@ -1,0 +1,24 @@
+---
+title: nazi
+crosslinks:
+- autotldr
+- livven
+- copypasta
+- europeannationalism
+- ImGoingToHellForThis
+- PussyPass
+- murdochmurdoch
+- 4chan
+- disney
+- forwardsfromhitler
+- satanism
+- AskHistorians
+- Christianity
+- Drama
+- hitler
+- shitnazissay
+- The_Donald
+- timetravel
+- Pyongyang
+- polyamory
+---

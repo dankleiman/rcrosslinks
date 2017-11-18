@@ -1,0 +1,5 @@
+---
+title: Humanity
+crosslinks:
+- discussion
+---

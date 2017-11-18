@@ -1,0 +1,24 @@
+---
+title: residentevil
+crosslinks:
+- livven
+- gaming
+- metalgearsolid
+- silenthill
+- patientgamers
+- gamecollecting
+- thedivision
+- PS4
+- e
+- TwoBestFriendsPlay
+- IAmA
+- retrogaming
+- AskReddit
+- rocksmith
+- xkcd
+- leagueoflegends
+- pcmasterrace
+- raining
+- PSVR
+- announcements
+---

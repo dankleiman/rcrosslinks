@@ -1,0 +1,5 @@
+---
+title: WoWAwakeningClassless
+crosslinks:
+- ProjectAscensionWoW
+---

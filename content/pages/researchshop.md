@@ -1,0 +1,5 @@
+---
+title: researchshop
+crosslinks:
+- researchchemicals
+---

@@ -1,0 +1,5 @@
+---
+title: Kydex
+crosslinks:
+- sheathsandholsters
+---

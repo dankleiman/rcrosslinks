@@ -1,0 +1,24 @@
+---
+title: memes
+crosslinks:
+- i_irl
+- livven
+- me_irl
+- funny
+- dankmemes
+- flatearthsociety
+- REEEEEEEEEE
+- AskReddit
+- xkcd
+- videos
+- PrequelMemes
+- pics
+- TheseFuckingAccounts
+- meirl
+- youclickedthelink
+- IAmA
+- weakmemes
+- shitpost
+- ComedyCemetery
+- pokemon
+---

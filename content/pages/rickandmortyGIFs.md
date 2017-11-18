@@ -1,0 +1,5 @@
+---
+title: rickandmortyGIFs
+crosslinks:
+- livven
+---

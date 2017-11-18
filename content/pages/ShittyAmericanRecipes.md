@@ -1,0 +1,5 @@
+---
+title: ShittyAmericanRecipes
+crosslinks:
+- food
+---

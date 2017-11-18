@@ -1,0 +1,5 @@
+---
+title: javalearningacademy
+crosslinks:
+- java
+---

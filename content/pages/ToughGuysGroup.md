@@ -1,0 +1,5 @@
+---
+title: ToughGuysGroup
+crosslinks:
+- DIRTYNATIONX
+---

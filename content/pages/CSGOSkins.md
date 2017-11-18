@@ -1,0 +1,5 @@
+---
+title: CSGOSkins
+crosslinks:
+- LUNA
+---

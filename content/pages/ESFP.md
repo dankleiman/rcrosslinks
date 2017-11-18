@@ -1,0 +1,5 @@
+---
+title: ESFP
+crosslinks:
+- INTP
+---

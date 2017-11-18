@@ -1,0 +1,24 @@
+---
+title: environment
+crosslinks:
+- worldnews
+- aftertheflood
+- ZeroWaste
+- The_Donald
+- xkcd
+- politics
+- science
+- worldpolitics
+- pics
+- weather
+- collapse
+- EnoughTrumpSpam
+- AskReddit
+- todayilearned
+- climate
+- TarSands
+- vegan
+- LateStageCapitalism
+- DNCleaks
+- conspiracy
+---

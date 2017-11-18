@@ -1,0 +1,5 @@
+---
+title: TrashpileOfReddit
+crosslinks:
+- suggsverse
+---

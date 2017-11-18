@@ -1,0 +1,24 @@
+---
+title: soccer
+crosslinks:
+- Gunners
+- reddevils
+- LiverpoolFC
+- Barca
+- chelseafc
+- livven
+- coys
+- soccerstreams
+- MCFC
+- MLS
+- AskReddit
+- realmadrid
+- LigaMX
+- '2013'
+- OutOfTheLoop
+- soccercirclejerk
+- xkcd
+- anonymousgoals
+- soccercourt
+- unitedkingdom
+---

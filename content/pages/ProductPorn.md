@@ -1,0 +1,24 @@
+---
+title: ProductPorn
+crosslinks:
+- pics
+- shittykickstarters
+- poop
+- knives
+- DesignPorn
+- awwnverts
+- Creativity
+- gifs
+- DIY
+- oddlysatisfying
+- woodworking
+- ConfusedBoners
+- metalgearsolid
+- mildlyinteresting
+- reallifedoodles
+- shittyHDR
+- shrimptank
+- DiWHY
+- ExpectationVsReality
+- tea
+---

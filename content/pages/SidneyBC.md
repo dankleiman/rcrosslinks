@@ -1,0 +1,5 @@
+---
+title: SidneyBC
+crosslinks:
+- GreenPartyOfCanada
+---

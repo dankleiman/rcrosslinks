@@ -1,0 +1,23 @@
+---
+title: nomorals
+crosslinks:
+- livven
+- CrimeScene
+- law13
+- ImGoingToHellForThis
+- watchpeopledie
+- jesuschristreddit
+- ComedyCemetery
+- imgoingtohellforthis2
+- screenshots
+- hotamputees
+- Jokes
+- guro
+- FATOROBOTO
+- ButtSharpies
+- Normal
+- wtfstockphotos
+- EnoughInternet
+- fleasandlicereddit
+- necrophilia
+---

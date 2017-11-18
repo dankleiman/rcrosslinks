@@ -1,0 +1,5 @@
+---
+title: teenthings
+crosslinks:
+- teenagers
+---

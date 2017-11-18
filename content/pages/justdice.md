@@ -1,0 +1,5 @@
+---
+title: justdice
+crosslinks:
+- Bitcoin
+---

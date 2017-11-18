@@ -1,0 +1,5 @@
+---
+title: McDonalds
+crosslinks:
+- McLounge
+---

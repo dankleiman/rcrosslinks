@@ -1,0 +1,5 @@
+---
+title: allGamers
+crosslinks:
+- pcgaming
+---

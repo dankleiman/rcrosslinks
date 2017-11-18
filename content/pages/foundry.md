@@ -1,0 +1,5 @@
+---
+title: foundry
+crosslinks:
+- Frisson
+---

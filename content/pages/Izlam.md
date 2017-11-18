@@ -1,0 +1,24 @@
+---
+title: Izlam
+crosslinks:
+- islam
+- livven
+- exmuslim
+- vegan
+- dankchristianmemes
+- The_Donald
+- Christianity
+- milliondollarextreme
+- AskReddit
+- DeepFriedMemes
+- greece
+- Turkey
+- pakistan
+- samharris
+- raerth
+- furry
+- syriancivilwar
+- MemeEconomy
+- todayilearned
+- TheFarLeftSide
+---

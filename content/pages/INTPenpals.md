@@ -1,0 +1,5 @@
+---
+title: INTPenpals
+crosslinks:
+- INTP
+---

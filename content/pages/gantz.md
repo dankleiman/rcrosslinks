@@ -1,0 +1,5 @@
+---
+title: gantz
+crosslinks:
+- typogore
+---

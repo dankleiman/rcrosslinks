@@ -1,0 +1,5 @@
+---
+title: musicianprogrammer
+crosslinks:
+- proceduralgeneration
+---

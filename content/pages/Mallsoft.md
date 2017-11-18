@@ -1,0 +1,5 @@
+---
+title: Mallsoft
+crosslinks:
+- deadmalls
+---

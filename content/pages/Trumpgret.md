@@ -1,0 +1,24 @@
+---
+title: Trumpgret
+crosslinks:
+- The_Donald
+- autotldr
+- politics
+- IAmA
+- Enough_Sanders_Spam
+- conspiracy
+- AskReddit
+- EnoughTrumpSpam
+- BlueMidterm2018
+- OutOfTheLoop
+- BannedFromThe_Donald
+- AskTrumpSupporters
+- livven
+- Drama
+- worldnews
+- esist
+- Conservative
+- AskHistorians
+- ShitAmericansSay
+- PoliticalHumor
+---

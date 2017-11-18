@@ -1,0 +1,24 @@
+---
+title: KitchenConfidential
+crosslinks:
+- WeWantPlates
+- livven
+- TalesFromYourServer
+- AskReddit
+- zeronet
+- MaliciousCompliance
+- chefknives
+- AskCulinary
+- shittyfoodporn
+- funny
+- autotldr
+- gatekeeping
+- Frugal_Jerk
+- IAmA
+- Portland
+- whatisthisthing
+- WTF
+- mildlyinteresting
+- food
+- pics
+---

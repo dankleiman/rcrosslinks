@@ -1,0 +1,5 @@
+---
+title: thoriumreactor
+crosslinks:
+- thorium
+---

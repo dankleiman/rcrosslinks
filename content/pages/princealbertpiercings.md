@@ -1,0 +1,5 @@
+---
+title: princealbertpiercings
+crosslinks:
+- piercing
+---

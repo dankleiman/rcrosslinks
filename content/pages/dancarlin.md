@@ -1,0 +1,24 @@
+---
+title: dancarlin
+crosslinks:
+- martyrmade
+- AskHistorians
+- news
+- Documentaries
+- Colorization
+- socialism
+- TheyDidTheMaps
+- papertowns
+- livven
+- politics
+- technology
+- Drama
+- reformstorm
+- TheGrittyPast
+- history
+- Archaeology
+- ApplyingToCollege
+- AgainstGamerGate
+- TOTALLYROBOTS
+- unfilter
+---

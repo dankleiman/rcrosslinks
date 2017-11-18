@@ -1,0 +1,5 @@
+---
+title: GoldenWestCollege
+crosslinks:
+- themes
+---

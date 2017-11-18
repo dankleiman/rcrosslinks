@@ -1,0 +1,24 @@
+---
+title: AnythingGoesNews
+crosslinks:
+- JustTheTopNews
+- autotldr
+- conspiracy
+- news
+- worldpolitics
+- POLITIC
+- uncensorednews
+- me_irl
+- TrueReddit
+- WarUpdates
+- WayOfTheBern
+- The_Donald
+- Ask_Politics
+- southafrica
+- ActiveMeasures
+- xkcd
+- todayilearned
+- NewsYouShouldKnow
+- technology
+- Serendipity
+---

@@ -1,0 +1,5 @@
+---
+title: herosofthestorm
+crosslinks:
+- heroesofthestorm
+---

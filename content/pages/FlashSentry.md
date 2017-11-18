@@ -1,0 +1,5 @@
+---
+title: FlashSentry
+crosslinks:
+- mylittlepony
+---

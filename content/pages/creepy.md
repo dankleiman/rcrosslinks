@@ -1,0 +1,24 @@
+---
+title: creepy
+crosslinks:
+- nosleep
+- AskReddit
+- pics
+- ImaginaryHorrors
+- Art
+- SCP
+- WTF
+- gifs
+- videos
+- hatchery
+- WritingPrompts
+- AskHistorians
+- ImaginaryMonsters
+- autotldr
+- xkcd
+- ImaginaryLeviathans
+- funny
+- interestingasfuck
+- Lovecraft
+- TheDepthsBelow
+---

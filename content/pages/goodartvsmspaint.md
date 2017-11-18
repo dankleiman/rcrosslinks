@@ -1,0 +1,5 @@
+---
+title: goodartvsmspaint
+crosslinks:
+- JonTron
+---

@@ -1,0 +1,24 @@
+---
+title: Xcom
+crosslinks:
+- xcom2mods
+- XCOM2
+- livven
+- LongWar101
+- sexcom
+- PhoenixPoint
+- IAmA
+- place
+- RimWorld
+- Games
+- Stellaris
+- xdev
+- darkestdungeon
+- downvotesreally
+- gatekeeping
+- Eve
+- PrequelMemes
+- gaming
+- highqualitygifs
+- Gamingcirclejerk
+---

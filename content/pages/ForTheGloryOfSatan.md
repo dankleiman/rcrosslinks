@@ -1,0 +1,5 @@
+---
+title: ForTheGloryOfSatan
+crosslinks:
+- videos
+---

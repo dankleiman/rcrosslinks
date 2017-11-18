@@ -1,0 +1,5 @@
+---
+title: onewordeach
+crosslinks:
+- AskOuija
+---

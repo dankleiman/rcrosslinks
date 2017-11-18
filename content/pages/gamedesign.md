@@ -1,0 +1,24 @@
+---
+title: gamedesign
+crosslinks:
+- gamedev
+- MMORPG
+- gameideas
+- ludology
+- Games
+- truegaming
+- truetf2
+- gameDevClassifieds
+- xkcd
+- proceduralgeneration
+- roguelikes
+- INAT
+- leveldesign
+- DotaConcepts
+- zelda
+- JRPG
+- Political_Revolution
+- tf2
+- Crafting_Games
+- artgames
+---

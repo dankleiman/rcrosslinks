@@ -1,0 +1,22 @@
+---
+title: farcry
+crosslinks:
+- assassinscreed
+- gaming
+- SummerReddit
+- trolling
+- gatekeeping
+- GateKeepers
+- Gamingcirclejerk
+- pics
+- OutOfTheLoop
+- GiftofGames
+- outrun
+- Games
+- livven
+- PS4
+- IAmA
+- cirlcejerk
+- StumpSheet
+- iamversmart
+---

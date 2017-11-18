@@ -1,0 +1,24 @@
+---
+title: future_fight
+crosslinks:
+- FutureFight
+- FutureFight_Unions
+- futurefightextra
+- livven
+- ContestOfChampions
+- Marvel
+- FFSpiderman
+- FlashTV
+- respectthreads
+- pitchforkemporium
+- marvelstudios
+- Enhancement
+- raerth
+- HFY
+- IAmA
+- AskScienceFiction
+- Megaten
+- futurefight_unions
+- sysadmin
+- xkcd
+---

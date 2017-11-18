@@ -1,0 +1,5 @@
+---
+title: WorldWarToons
+crosslinks:
+- FrenchWestIndies
+---

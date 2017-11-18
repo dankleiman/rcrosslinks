@@ -1,0 +1,24 @@
+---
+title: AtheismComedy
+crosslinks:
+- worldnews
+- space
+- videos
+- ukpolitics
+- livven
+- atheistvids
+- funny
+- news
+- gifs
+- Bad_Cop_No_Donut
+- skeptic
+- CringeAnarchy
+- greentext
+- LivestreamFail
+- woahdude
+- Futurology
+- Documentaries
+- humor
+- Showerthoughts
+- wholesomememes
+---

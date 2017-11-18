@@ -1,0 +1,5 @@
+---
+title: Instrumentals
+crosslinks:
+- instrumentalmusic
+---

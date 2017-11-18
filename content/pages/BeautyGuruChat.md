@@ -1,0 +1,22 @@
+---
+title: BeautyGuruChat
+crosslinks:
+- MakeupAddiction
+- muacjdiscussion
+- dogs
+- BGCCircleJerk
+- shills
+- 24es7d2
+- The_Donald
+- rupaulsdragrace
+- Incels
+- Shoes
+- SkincareAddiction
+- Drama
+- avatars
+- IAmA
+- femalefashionadvice
+- MonolidMakeup
+- explainlikeimfive
+- aww
+---

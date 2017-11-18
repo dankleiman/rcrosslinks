@@ -1,0 +1,24 @@
+---
+title: CHIBears
+crosslinks:
+- nfl
+- NFL_Draft
+- livven
+- EvilLeagueOfEvil
+- the_mitchell
+- detroitlions
+- nflstreams
+- '2013'
+- place
+- GandSand
+- GreenBayPackers
+- ronpaulshops
+- Browns
+- the_darnold
+- hawks
+- AMAAggregator
+- chicago
+- ChargeYourPhone
+- EvilerLeagueOfEvil
+- Finland
+---

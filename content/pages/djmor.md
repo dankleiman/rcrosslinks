@@ -1,0 +1,5 @@
+---
+title: djmor
+crosslinks:
+- Minilego
+---

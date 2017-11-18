@@ -1,0 +1,5 @@
+---
+title: ShitRUKSays
+crosslinks:
+- unitedkingdom
+---

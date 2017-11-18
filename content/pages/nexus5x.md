@@ -1,0 +1,24 @@
+---
+title: nexus5x
+crosslinks:
+- Android
+- ProjectFi
+- GooglePixel
+- Nexus6P
+- Nexus5
+- projectfi
+- oneplus
+- PickAnAndroidForMe
+- videos
+- LineageOS
+- android
+- GalaxyS7
+- lgv10
+- headphones
+- Chromecast
+- Lottery
+- Nexus
+- autotldr
+- restofthefuckingowl
+- Nexusography
+---

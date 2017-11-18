@@ -1,0 +1,24 @@
+---
+title: NUFC
+crosslinks:
+- nufcirclejerk
+- soccer
+- soccerstreams
+- safc
+- chelseafc
+- CasualUK
+- HeartofMidlothianFC
+- reddevils
+- BiggerThanYouThought
+- LiverpoolFC
+- Hammers
+- nononono
+- modnews
+- speedrun
+- pics
+- cringe
+- livven
+- SoundersFC
+- Gunners
+- avfc
+---

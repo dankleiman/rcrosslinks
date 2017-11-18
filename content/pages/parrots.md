@@ -1,0 +1,24 @@
+---
+title: parrots
+crosslinks:
+- livven
+- cockatiel
+- PartyParrot
+- redditgetsdrawn
+- Conures
+- instant_regret
+- AskVet
+- PetDoves
+- gifs
+- videos
+- aww
+- SuicideWatch
+- Needlefelting
+- autotldr
+- Zoomies
+- PhysicsStudents
+- RealLifeShinies
+- africangreyparrot
+- succulents
+- stephenking
+---

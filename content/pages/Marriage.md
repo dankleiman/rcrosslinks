@@ -1,0 +1,24 @@
+---
+title: Marriage
+crosslinks:
+- personalfinance
+- survivinginfidelity
+- marriageadvice
+- DeadBedrooms
+- legaladvice
+- sex
+- JUSTNOMIL
+- Divorce
+- relationship_advice
+- TwoXChromosomes
+- MGTOW
+- AlAnon
+- RandomActsOfMuffDive
+- childfree
+- AskWomen
+- wedding
+- justnoMIL
+- BipolarReddit
+- ShittyLifeProTips
+- polyamory
+---

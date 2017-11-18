@@ -1,0 +1,5 @@
+---
+title: litecoins
+crosslinks:
+- litecoin
+---

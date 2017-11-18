@@ -1,0 +1,24 @@
+---
+title: makinghiphop
+crosslinks:
+- Drumkits
+- LofiHipHop
+- edmproduction
+- WeAreTheMusicMakers
+- audioengineering
+- trap
+- hiphopheads
+- FL_Studio
+- mixingmastering
+- drumkits
+- singing
+- musictheory
+- maschine
+- HotSamples
+- SongStems
+- synthesizers
+- trapproduction
+- FrankOcean
+- Acapellas
+- occult
+---

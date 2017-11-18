@@ -1,0 +1,24 @@
+---
+title: headphones
+crosslinks:
+- audiophile
+- AVexchange
+- headphonegore
+- audiophilemusic
+- Zeos
+- pcmasterrace
+- ZReviews
+- PS4
+- Headphoneporn
+- avexchange
+- EarSpeakers
+- autotldr
+- technology
+- vinyl
+- me_irl
+- Amd
+- WTF
+- todayilearned
+- videos
+- IAmA
+---

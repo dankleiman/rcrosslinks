@@ -1,0 +1,5 @@
+---
+title: Cannibalism
+crosslinks:
+- CringeAnarchy
+---

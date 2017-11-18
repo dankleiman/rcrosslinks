@@ -1,0 +1,5 @@
+---
+title: shittytaxonomy
+crosslinks:
+- NatureIsFuckingLit
+---

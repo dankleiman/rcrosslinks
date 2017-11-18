@@ -1,0 +1,5 @@
+---
+title: nflblogs
+crosslinks:
+- Patriots
+---

@@ -1,0 +1,24 @@
+---
+title: BeAmazed
+crosslinks:
+- livven
+- gifs
+- pics
+- woahdude
+- videos
+- interestingasfuck
+- xkcd
+- oddlysatisfying
+- SpaceXLounge
+- nocontext
+- AdviceAnimals
+- '2013'
+- OSHA
+- nonononoyes
+- mildlyinfuriating
+- mildlyinfuriatingFix
+- ultimate
+- NSFW411
+- nothingeverhappens
+- whitepeoplegifs
+---

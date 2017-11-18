@@ -1,0 +1,5 @@
+---
+title: clickergame
+crosslinks:
+- SUBREDDIT
+---

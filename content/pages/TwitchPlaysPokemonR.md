@@ -1,0 +1,5 @@
+---
+title: TwitchPlaysPokemonR
+crosslinks:
+- xkcd
+---

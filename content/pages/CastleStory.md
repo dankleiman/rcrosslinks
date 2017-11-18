@@ -1,0 +1,5 @@
+---
+title: CastleStory
+crosslinks:
+- gaming
+---

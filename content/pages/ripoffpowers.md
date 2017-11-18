@@ -1,0 +1,5 @@
+---
+title: ripoffpowers
+crosslinks:
+- IronThronePowers
+---

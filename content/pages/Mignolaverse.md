@@ -1,0 +1,5 @@
+---
+title: Mignolaverse
+crosslinks:
+- HellBoy
+---

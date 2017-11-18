@@ -1,0 +1,5 @@
+---
+title: CaHSwap
+crosslinks:
+- cardsagainsthumanity
+---

@@ -1,0 +1,24 @@
+---
+title: snakes
+crosslinks:
+- Sneks
+- reptiles
+- livven
+- whatsthissnake
+- BallPythons
+- carpetpythons
+- pics
+- gifs
+- BeardedDragons
+- autotldr
+- retics
+- AskVet
+- UtricksBlog
+- TwoXChromosomes
+- forhonor
+- cornsnakes
+- SnakeID
+- ShadowBanned
+- confession
+- marijuanaenthusiasts
+---

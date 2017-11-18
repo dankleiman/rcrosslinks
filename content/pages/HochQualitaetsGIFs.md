@@ -1,0 +1,5 @@
+---
+title: HochQualitaetsGIFs
+crosslinks:
+- Fotoladenschlachten
+---

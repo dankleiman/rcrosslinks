@@ -1,0 +1,5 @@
+---
+title: RussiaNewsJp
+crosslinks:
+- newsokunomoral
+---

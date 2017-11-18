@@ -1,0 +1,22 @@
+---
+title: rush
+crosslinks:
+- place
+- space
+- RushCirclejerk
+- gamegrumps
+- Conspiracys
+- tipofmytongue
+- TWRP
+- autotldr
+- SteveMillerBand
+- Go_PlayalongTrax
+- gifs
+- placecanada
+- Predators
+- Pay_Respects
+- TameImpala
+- xkcd
+- TaiShan
+- modnews
+---

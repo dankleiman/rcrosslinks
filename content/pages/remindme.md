@@ -1,0 +1,24 @@
+---
+title: remindme
+crosslinks:
+- AskReddit
+- RCSources
+- explainlikeimfive
+- BTFC
+- politics
+- talesfromtechsupport
+- archlinux
+- Bitcoin
+- me_irl
+- CrusaderKings
+- GameDeals
+- DIY
+- The_Donald
+- todayilearned
+- ants
+- masseffect
+- tech
+- iphone
+- nfl
+- videos
+---

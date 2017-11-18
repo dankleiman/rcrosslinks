@@ -1,0 +1,5 @@
+---
+title: hotdogs
+crosslinks:
+- space
+---

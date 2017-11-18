@@ -1,0 +1,24 @@
+---
+title: socialanxiety
+crosslinks:
+- socialskills
+- livven
+- IAmA
+- AskReddit
+- Anxiety
+- ADHD
+- Nootropics
+- malehairadvice
+- SuicideWatch
+- faimprovement
+- reactiongifs
+- streetwear
+- AskWomen
+- ForeverAlone
+- TalesFromYourServer
+- gaymers
+- TrollCoping
+- cringe
+- Drugs
+- leagueoflegends
+---

@@ -1,0 +1,5 @@
+---
+title: Baththoughts
+crosslinks:
+- Christianity
+---

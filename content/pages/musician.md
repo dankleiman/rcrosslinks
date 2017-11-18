@@ -1,0 +1,5 @@
+---
+title: musician
+crosslinks:
+- autotldr
+---

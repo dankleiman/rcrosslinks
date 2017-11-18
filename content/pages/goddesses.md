@@ -1,0 +1,24 @@
+---
+title: goddesses
+crosslinks:
+- livven
+- InternetStars
+- mavrinmodels
+- sexygirls
+- BeautyQueens
+- RachelAnnYampolsky
+- Cat_Kennedy
+- helgalovekaty
+- ElsieHewett
+- RoastMe
+- YogaPants
+- KatherineLangford
+- JessicaNigri
+- findfashion
+- ScarlettLeithold
+- YuliaRose
+- NudieWorld
+- katerinarozmajzl
+- classysexy
+- A_Daddario_Nude
+---

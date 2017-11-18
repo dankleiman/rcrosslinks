@@ -1,0 +1,24 @@
+---
+title: justneckbeardthings
+crosslinks:
+- Incels
+- livven
+- The_Donald
+- AskReddit
+- Drama
+- xkcd
+- REEEEEEEEEE
+- niceguys
+- atheism
+- autotldr
+- CringeAnarchy
+- waifuism
+- nocontext
+- pics
+- IAmA
+- OutOfTheLoop
+- JapanTravel
+- Incel_Because_Reasons
+- copypasta
+- 4chan
+---

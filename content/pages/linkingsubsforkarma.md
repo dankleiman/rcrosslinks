@@ -1,0 +1,5 @@
+---
+title: linkingsubsforkarma
+crosslinks:
+- aprilfools
+---

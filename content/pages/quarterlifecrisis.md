@@ -1,0 +1,5 @@
+---
+title: quarterlifecrisis
+crosslinks:
+- ArtFundamentals
+---

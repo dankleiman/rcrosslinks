@@ -1,0 +1,5 @@
+---
+title: crazyhouse
+crosslinks:
+- chess
+---

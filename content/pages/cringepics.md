@@ -1,0 +1,24 @@
+---
+title: cringepics
+crosslinks:
+- AskReddit
+- gifs
+- cringe
+- OutOfTheLoop
+- copypasta
+- funny
+- TheRedPill
+- niceguys
+- IAmA
+- creepyPMs
+- sadcringe
+- Jokes
+- videos
+- '2013'
+- Incels
+- The_Donald
+- Tinder
+- OopsDidntMeanTo
+- ProgrammerHumor
+- JavDownloadCenter
+---

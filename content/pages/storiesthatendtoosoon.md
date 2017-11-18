@@ -1,0 +1,5 @@
+---
+title: storiesthatendtoosoon
+crosslinks:
+- AskReddit
+---

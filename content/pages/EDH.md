@@ -1,0 +1,24 @@
+---
+title: EDH
+crosslinks:
+- CompetitiveEDH
+- magicTCG
+- magicthecirclejerking
+- competitiveedh
+- custommagic
+- foilmtg
+- xkcd
+- mtgfinance
+- mtgjudge
+- PauperEDH
+- MagicMeetups
+- pics
+- titanfall
+- PucaTrade
+- cEDH
+- CustomEDH
+- mtgporn
+- livven
+- modnews
+- spikes
+---

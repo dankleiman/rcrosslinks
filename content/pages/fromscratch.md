@@ -1,0 +1,5 @@
+---
+title: fromscratch
+crosslinks:
+- iamveryculinary
+---

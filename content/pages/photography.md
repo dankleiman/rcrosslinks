@@ -1,0 +1,24 @@
+---
+title: photography
+crosslinks:
+- itookapicture
+- analog
+- autotldr
+- pics
+- SonyAlpha
+- photocritique
+- photoclass2017
+- EarthPorn
+- WeddingPhotography
+- postprocessing
+- SuggestALaptop
+- astrophotography
+- shittyHDR
+- photomarket
+- Cameras
+- Instagram
+- metaphotography
+- videography
+- fujifilm
+- M43
+---

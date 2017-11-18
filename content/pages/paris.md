@@ -1,0 +1,24 @@
+---
+title: paris
+crosslinks:
+- SocialParis
+- france
+- autotldr
+- ShitAmericansSay
+- psg
+- europe
+- ParisTravelGuide
+- theydidthemath
+- SocialFrance
+- randomactsofmusic
+- PenmanshipPorn
+- mildlyinteresting
+- grilledcheese
+- MovieStunts
+- rage
+- confession
+- itookapicture
+- Fitness
+- mechanics
+- ShitPoliticsSays
+---

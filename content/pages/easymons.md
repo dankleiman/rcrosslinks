@@ -1,0 +1,5 @@
+---
+title: easymons
+crosslinks:
+- PokeMoonSun
+---

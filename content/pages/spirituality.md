@@ -1,0 +1,24 @@
+---
+title: spirituality
+crosslinks:
+- Meditation
+- Christianity
+- conspiracy
+- Retconned
+- AskReddit
+- awakened
+- ChildrenOfTheLight
+- C_S_T
+- Echerdex
+- CosmicDisclosure
+- chrisolivertimes
+- HighStrangeness
+- lawofattraction
+- occult
+- Buddhism
+- CPTSD
+- Advice
+- Glitch_in_the_Matrix
+- hinduism
+- Jung
+---

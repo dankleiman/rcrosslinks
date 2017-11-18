@@ -1,0 +1,24 @@
+---
+title: Feminism
+crosslinks:
+- AskFeminists
+- todayilearned
+- creepyPMs
+- LateStageCapitalism
+- TwoXChromosomes
+- MensRights
+- xkcd
+- SRSDiscussion
+- movies
+- Portland
+- exmuslim
+- GamerGhazi
+- AskWomen
+- OutOfTheLoop
+- racism
+- ClopClop
+- highqualitygifs
+- google
+- FemmeThoughts
+- TrueChristian
+---

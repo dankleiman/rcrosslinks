@@ -1,0 +1,21 @@
+---
+title: tinnitus
+crosslinks:
+- WTF
+- tinnitusresearch
+- asmr
+- Scholar
+- YouShouldKnow
+- science
+- headphones
+- Nootropics
+- AskReddit
+- Veterans
+- askscience
+- dating_advice
+- PUBATTLEGROUNDS
+- Serendipity
+- audiology
+- LifeProTips
+- autotldr
+---

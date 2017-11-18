@@ -1,0 +1,24 @@
+---
+title: longrange
+crosslinks:
+- gundeals
+- guns
+- SmallGroups
+- ar15
+- reloading
+- autotldr
+- Gunsforsale
+- EuroOptic
+- TankPorn
+- savageshooters
+- shockwaveporn
+- 22lr
+- CompetitionShooting
+- Hunting
+- InsightfulSquirrelMen
+- conspiracy
+- 65Grendel
+- askscience
+- smallgroups
+- aimdownsights
+---

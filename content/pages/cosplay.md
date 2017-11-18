@@ -1,0 +1,24 @@
+---
+title: cosplay
+crosslinks:
+- livven
+- cosplaygirls
+- funny
+- SacramentoCosplay
+- TeamAshen
+- sewing
+- latexcosplay
+- gaming
+- fashionsouls
+- GamerPals
+- fashionupdate
+- Gunpla
+- dadjokes
+- gatekeeping
+- GotG
+- FortWorth
+- newreddits
+- 501st
+- WTF
+- VixenCWSeed
+---

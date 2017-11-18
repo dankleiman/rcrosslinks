@@ -1,0 +1,5 @@
+---
+title: WhatHappensInCollege
+crosslinks:
+- nsfw
+---

@@ -1,0 +1,5 @@
+---
+title: kumamon
+crosslinks:
+- livven
+---

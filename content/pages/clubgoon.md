@@ -1,0 +1,5 @@
+---
+title: clubgoon
+crosslinks:
+- alphacock
+---

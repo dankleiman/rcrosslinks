@@ -1,0 +1,24 @@
+---
+title: FireEmblemHeroes
+crosslinks:
+- livven
+- FFBraveExvius
+- xkcd
+- FFRecordKeeper
+- Pixiv
+- grandorder
+- hearthstone
+- Pay_Respects
+- anime
+- OutOfTheLoop
+- fatestaynight
+- me_irl
+- PuzzleAndDragons
+- DBZDokkanBattle
+- anime_irl
+- PrequelMemes
+- AMAAggregator
+- MyNintendo
+- KingdomHearts
+- help
+---

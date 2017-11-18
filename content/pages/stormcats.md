@@ -1,0 +1,5 @@
+---
+title: stormcats
+crosslinks:
+- cats
+---

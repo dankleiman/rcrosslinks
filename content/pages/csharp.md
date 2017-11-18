@@ -1,0 +1,24 @@
+---
+title: csharp
+crosslinks:
+- programming
+- xkcd
+- dotnet
+- learnprogramming
+- fsharp
+- Unity3D
+- roguelikedev
+- dailyprogrammer
+- PowerShell
+- VisualStudioForMac
+- glitch_art
+- Angular2
+- gamedev
+- autoit
+- vscode
+- AndroidGaming
+- Whatcouldgowrong
+- ProgrammerHumor
+- learncsharp
+- Windows10
+---

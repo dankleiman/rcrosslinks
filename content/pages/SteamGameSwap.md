@@ -1,0 +1,24 @@
+---
+title: SteamGameSwap
+crosslinks:
+- indiegameswap
+- IGSRep
+- GameTrade
+- sgsflair
+- enough_____spam
+- GiftofGames
+- GameTradeRep
+- Steam
+- GameSale
+- steamcoupons
+- gamedeals
+- GameDealsMeta
+- nvidia
+- GameDeals
+- UniversalScammerList
+- sysadmin
+- RandomActsOfGaming
+- appleswap
+- RocketLeagueExchange
+- giftcardexchange
+---

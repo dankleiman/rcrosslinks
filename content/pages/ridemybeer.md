@@ -1,0 +1,5 @@
+---
+title: ridemybeer
+crosslinks:
+- funny
+---

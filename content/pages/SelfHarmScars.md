@@ -1,0 +1,5 @@
+---
+title: SelfHarmScars
+crosslinks:
+- MadeOfStyrofoam
+---

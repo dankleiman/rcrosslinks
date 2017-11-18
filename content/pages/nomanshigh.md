@@ -1,0 +1,24 @@
+---
+title: nomanshigh
+crosslinks:
+- NoMansSkyTheGame
+- NmsMindwarArchive
+- NMSCoordinateExchange
+- NMS_Zoology
+- NMSPortals
+- NoMansSkyMyJourney
+- NMS_Bases
+- livven
+- nomansskyshots
+- no_mans_sky
+- NMSSuggestions
+- xkcd
+- NMS_Federation
+- inspirational
+- csshelp
+- firefly
+- GeknipGang
+- GlitchInTheMatrix
+- Games
+- lifeisstrange
+---

@@ -1,0 +1,24 @@
+---
+title: digitalnomad
+crosslinks:
+- NoNonsenseNomad
+- autotldr
+- vandwellers
+- VPN
+- freelance
+- cscareerquestions
+- xkcd
+- travel
+- armenia
+- eResidency
+- personalfinance
+- forhire
+- solotravel
+- digitalnomadautomod
+- marketing
+- fire
+- FullTiming
+- VietNam
+- telecommuting
+- Nootropics
+---

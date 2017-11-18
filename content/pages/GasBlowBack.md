@@ -1,0 +1,5 @@
+---
+title: GasBlowBack
+crosslinks:
+- airsoft
+---

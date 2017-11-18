@@ -1,0 +1,5 @@
+---
+title: StallionStuffers
+crosslinks:
+- autofellatio
+---

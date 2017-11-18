@@ -1,0 +1,5 @@
+---
+title: ArsenalFirearmsUSA
+crosslinks:
+- Firearms
+---

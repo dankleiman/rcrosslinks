@@ -1,0 +1,24 @@
+---
+title: aspergers
+crosslinks:
+- aspergirls
+- AskReddit
+- autism
+- SuicideWatch
+- survivor
+- TheRedPill
+- science
+- Anxiety
+- ADHD
+- ehlersdanlos
+- explainlikeimfive
+- casualiama
+- AspiePolitics
+- KendrickLamar
+- Needafriend
+- CanadianForces
+- leaves
+- Incels
+- askscience
+- unpopularopinion
+---

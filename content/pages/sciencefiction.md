@@ -1,0 +1,24 @@
+---
+title: sciencefiction
+crosslinks:
+- autotldr
+- printSF
+- HFY
+- scifi
+- TheExpanse
+- xkcd
+- whowouldwin
+- WritingPrompts
+- writing
+- tipofmytongue
+- asimov
+- LegionFX
+- AMAAggregator
+- SciFiConcepts
+- afrofuturism
+- askscience
+- Raytheon
+- Transhuman
+- survivor
+- ElectricalEngineering
+---

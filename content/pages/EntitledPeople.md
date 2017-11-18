@@ -1,0 +1,5 @@
+---
+title: EntitledPeople
+crosslinks:
+- RadicalFeminism
+---

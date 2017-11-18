@@ -1,0 +1,5 @@
+---
+title: SolidVerbal
+crosslinks:
+- naut
+---

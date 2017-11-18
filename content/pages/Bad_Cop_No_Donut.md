@@ -1,0 +1,24 @@
+---
+title: Bad_Cop_No_Donut
+crosslinks:
+- AmIFreeToGo
+- Shitstatistssay
+- Drama
+- videos
+- Good_Cop_Free_Donut
+- news
+- ShitPoliticsSays
+- Seattle
+- EnoughTrumpSpam
+- funny
+- conspiracy
+- legaladvice
+- OutOfTheLoop
+- AsABlackMan
+- COMPLETEANARCHY
+- ShitAmericansSay
+- IAmA
+- politics
+- MensRights
+- worldpolitics
+---

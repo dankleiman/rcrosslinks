@@ -1,0 +1,24 @@
+---
+title: aspergirls
+crosslinks:
+- aspergers
+- autism
+- curlyhair
+- xkcd
+- Anarchy101
+- Anxiety
+- MakeNewFriendsHere
+- sugarfreemua
+- Rateme
+- autotldr
+- sexover30
+- asmr
+- AspieMoms
+- SexWorkers
+- Disneyland
+- MakeupAddiction
+- Schizoid
+- redditrequest
+- ADHD
+- neurodiversity
+---

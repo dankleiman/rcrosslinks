@@ -1,0 +1,5 @@
+---
+title: Famicom
+crosslinks:
+- nes
+---

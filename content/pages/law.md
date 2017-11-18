@@ -1,0 +1,24 @@
+---
+title: law
+crosslinks:
+- The_Donald
+- xkcd
+- politics
+- Lawfare
+- IAmA
+- worldnews
+- neutralnews
+- medicalschool
+- videos
+- ProtectAndServe
+- legaladviceofftopic
+- ShitPoliticsSays
+- ShitAmericansSay
+- medicine
+- AMAAggregator
+- Dallas
+- 4chan
+- lawyers
+- Military
+- zeropointmodule
+---

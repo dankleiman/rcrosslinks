@@ -1,0 +1,24 @@
+---
+title: minnesotavikings
+crosslinks:
+- nfl
+- livven
+- MemeasotaVikings
+- GreenBayPackers
+- detroitlions
+- nflstreams
+- reddit_stream
+- wildhockey
+- CoalitionAgainstEvil
+- minnesotatwins
+- 49ers
+- sports
+- ravens
+- NFL_Draft
+- place
+- redditdev
+- WholesomeVikings
+- '2013'
+- HFY
+- DenverBroncos
+---

@@ -1,0 +1,24 @@
+---
+title: javascript
+crosslinks:
+- programming
+- learnjavascript
+- node
+- xkcd
+- reactjs
+- ProgrammerHumor
+- autotldr
+- typescript
+- aureliajs
+- Angular2
+- vuejs
+- jquery
+- privacy
+- MachineLearning
+- apple
+- gamedev
+- purescript
+- onewordeach
+- goodyearwelt
+- HyperApp
+---

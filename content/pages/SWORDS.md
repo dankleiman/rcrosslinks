@@ -1,0 +1,24 @@
+---
+title: SWORDS
+crosslinks:
+- translator
+- Blacksmith
+- mallninjashit
+- Koryu
+- wma
+- Fencing
+- knives
+- autotldr
+- HemaScholar
+- HistoricMallNinjaShit
+- lifehacks
+- EmpireDidNothingWrong
+- thatescalatedquickly
+- Bladesmith
+- iaido
+- ANTIQUITIES
+- pics
+- SequelMemes
+- xkcd
+- Hema
+---

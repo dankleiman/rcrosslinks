@@ -1,0 +1,5 @@
+---
+title: FunnyReview
+crosslinks:
+- funny
+---

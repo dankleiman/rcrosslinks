@@ -1,0 +1,24 @@
+---
+title: OpenChristian
+crosslinks:
+- Christianity
+- autotldr
+- RadicalChristianity
+- Anglicanism
+- ChristianUniversalism
+- religion
+- Catholicism
+- exmormon
+- AMAAggregator
+- Political_Revolution
+- OpenCatholic
+- ModelUSGov
+- atheism
+- transgenderUK
+- islam
+- worldnews
+- AskHistorians
+- Buddhism
+- unitedkingdom
+- Reformed
+---

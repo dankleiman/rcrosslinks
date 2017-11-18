@@ -1,0 +1,24 @@
+---
+title: premed
+crosslinks:
+- livven
+- medicalschool
+- tommytext
+- Mcat
+- medicine
+- autotldr
+- depression
+- AMAAggregator
+- AskReddit
+- Drama
+- legaladvice
+- pics
+- Serendipity
+- funny
+- Arnold_LiftaBurger
+- The_Donald
+- personalfinance
+- runescape
+- GetStudying
+- premeduk
+---

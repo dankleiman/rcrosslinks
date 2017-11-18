@@ -1,0 +1,5 @@
+---
+title: Feministspirituality
+crosslinks:
+- GenderCritical
+---

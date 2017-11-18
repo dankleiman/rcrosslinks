@@ -1,0 +1,24 @@
+---
+title: Documentaries
+crosslinks:
+- Linky_links
+- conspiracy
+- The_Donald
+- MensRights
+- AskHistorians
+- IAmA
+- AskReddit
+- ShitRedditSays
+- ShitAmericansSay
+- MarshallBrain
+- videos
+- TheRedPill
+- LateStageCapitalism
+- HowHumanBeingsWork
+- news
+- politics
+- todayilearned
+- vegan
+- UnresolvedMysteries
+- Drama
+---

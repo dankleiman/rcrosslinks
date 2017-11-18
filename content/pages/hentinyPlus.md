@@ -1,0 +1,5 @@
+---
+title: hentinyPlus
+crosslinks:
+- hentai
+---

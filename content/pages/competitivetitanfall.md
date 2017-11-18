@@ -1,0 +1,5 @@
+---
+title: competitivetitanfall
+crosslinks:
+- titanfall
+---

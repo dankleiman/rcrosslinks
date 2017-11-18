@@ -1,0 +1,24 @@
+---
+title: splatoon
+crosslinks:
+- mylittlepony
+- NintendoSwitch
+- livven
+- Saltoon
+- place
+- Callieism
+- nintendo
+- Splatoon_2
+- splatooncirclejerk
+- me_irl
+- gaming
+- Marieism
+- Iceland
+- shittyfoodporn
+- Overwatch
+- PrequelMemes
+- ARMS
+- AskReddit
+- OverwatchCirclejerk
+- cosmoandwanda
+---

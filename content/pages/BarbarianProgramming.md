@@ -1,0 +1,5 @@
+---
+title: BarbarianProgramming
+crosslinks:
+- programming
+---

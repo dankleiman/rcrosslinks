@@ -1,0 +1,5 @@
+---
+title: sinks
+crosslinks:
+- CrappyDesign
+---

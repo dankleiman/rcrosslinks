@@ -1,0 +1,24 @@
+---
+title: im14andthisisdeep
+crosslinks:
+- xkcd
+- lewronggeneration
+- LateStageCapitalism
+- ComedyCemetery
+- dontdeadopeninside
+- PhonesAreBad
+- niceguys
+- pics
+- GetMotivated
+- livven
+- ThatsHowThingsWork
+- DeepFriedMemes
+- Showerthoughts
+- iamverysmart
+- Drama
+- sadcringe
+- THE_PACK
+- furry_irl
+- ATBGE
+- mallninjashit
+---

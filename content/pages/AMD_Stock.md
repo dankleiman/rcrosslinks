@@ -1,0 +1,24 @@
+---
+title: AMD_Stock
+crosslinks:
+- Amd
+- autotldr
+- EtherMining
+- hardware
+- pcmasterrace
+- xkcd
+- ayymd
+- amdstock
+- europe
+- AyyMD
+- hardwareswap
+- stocks
+- Stock_Picks
+- 2j4pqwz
+- programming
+- fscomeau
+- technology
+- AMDHelp
+- Nokia_stock
+- place
+---

@@ -1,0 +1,5 @@
+---
+title: MetalFingers
+crosslinks:
+- mfdoom
+---

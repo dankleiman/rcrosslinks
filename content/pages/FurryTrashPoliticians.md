@@ -1,0 +1,5 @@
+---
+title: FurryTrashPoliticians
+crosslinks:
+- yiff
+---

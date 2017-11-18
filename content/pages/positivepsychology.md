@@ -1,0 +1,5 @@
+---
+title: positivepsychology
+crosslinks:
+- Mindfulness
+---

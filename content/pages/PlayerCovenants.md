@@ -1,0 +1,5 @@
+---
+title: PlayerCovenants
+crosslinks:
+- shittydarksouls
+---

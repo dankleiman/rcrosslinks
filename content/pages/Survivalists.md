@@ -1,0 +1,5 @@
+---
+title: Survivalists
+crosslinks:
+- Frugal
+---

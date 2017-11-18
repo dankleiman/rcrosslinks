@@ -1,0 +1,5 @@
+---
+title: StarVTheForcesOfEvil
+crosslinks:
+- Pixiv
+---

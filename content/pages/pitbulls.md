@@ -1,0 +1,24 @@
+---
+title: pitbulls
+crosslinks:
+- livven
+- aww
+- sploot
+- Dogtraining
+- WhatsWrongWithYourDog
+- BeforeNAfterAdoption
+- rarepuppers
+- PuppySmiles
+- toofers
+- Zoomies
+- u_dogsnsandwiches
+- MadeMeSmile
+- dogpictures
+- pics
+- mlem
+- cakeday
+- 2zpmntg
+- CherokeeXJ
+- changemyview
+- nyc
+---

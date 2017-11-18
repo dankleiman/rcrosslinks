@@ -1,0 +1,5 @@
+---
+title: UPFORFUN
+crosslinks:
+- autotldr
+---

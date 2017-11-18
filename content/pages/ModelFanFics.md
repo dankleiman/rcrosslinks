@@ -1,0 +1,5 @@
+---
+title: ModelFanFics
+crosslinks:
+- circlejerk
+---

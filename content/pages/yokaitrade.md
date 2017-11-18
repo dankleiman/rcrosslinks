@@ -1,0 +1,5 @@
+---
+title: yokaitrade
+crosslinks:
+- yokaiwatch
+---

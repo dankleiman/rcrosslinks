@@ -1,0 +1,5 @@
+---
+title: JewishAnarchism
+crosslinks:
+- Anarchism
+---

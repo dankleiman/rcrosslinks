@@ -1,0 +1,24 @@
+---
+title: Hunting
+crosslinks:
+- guns
+- autotldr
+- Waterfowl
+- Trappit
+- videos
+- Shitstatistssay
+- livven
+- NOWTTYG
+- conservation
+- ems
+- twerking
+- democrats
+- ShootingTrips
+- ShitWhalersSay
+- flashlight
+- RioGrandeValley
+- texas
+- vegan
+- ar15
+- xkcd
+---

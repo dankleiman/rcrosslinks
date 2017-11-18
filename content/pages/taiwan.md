@@ -1,0 +1,24 @@
+---
+title: taiwan
+crosslinks:
+- autotldr
+- place
+- China
+- hapas
+- CPBL
+- Morocco
+- modnews
+- ohtaigi
+- CCJ2
+- shanghai
+- danganronpa
+- islam
+- ShitAmericansSay
+- OutOfTheLoop
+- Sino
+- travel
+- AskReddit
+- wicked_edge
+- xkcd
+- caucasianchinese
+---

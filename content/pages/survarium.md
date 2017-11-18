@@ -1,0 +1,5 @@
+---
+title: survarium
+crosslinks:
+- Planetside
+---

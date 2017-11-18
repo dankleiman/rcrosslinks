@@ -1,0 +1,5 @@
+---
+title: CampingAlberta
+crosslinks:
+- GoRVing
+---

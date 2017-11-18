@@ -1,0 +1,24 @@
+---
+title: totallynotrobots
+crosslinks:
+- livven
+- TOTALLYROBOTS
+- autotldr
+- pics
+- xkcd
+- mildlyinteresting
+- funny
+- totallynothumans
+- softwaregore
+- furry_irl
+- OutOfTheLoop
+- CertainlyNotAliens
+- ProgrammerHumor
+- oddlysatisfying
+- place
+- gifs
+- gaming
+- surrealmemes
+- EmpireDidNothingWrong
+- advertisingREDDIT
+---

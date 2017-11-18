@@ -1,0 +1,24 @@
+---
+title: ActionFigures
+crosslinks:
+- toyexchange
+- starwarscollecting
+- transformers
+- ACBA
+- AnimeFigures
+- funkopop
+- ArticulatedPlastic
+- One12Collective
+- SonofBatman
+- whowouldwin
+- StarWars
+- pics
+- livven
+- 3Dprintmything
+- whatisthisthing
+- Mecha
+- nothingeverhappens
+- shittyactionfigures
+- Shoplifting
+- zootopia
+---

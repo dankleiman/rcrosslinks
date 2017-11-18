@@ -1,0 +1,5 @@
+---
+title: ManThings
+crosslinks:
+- TrollXChromosomes
+---

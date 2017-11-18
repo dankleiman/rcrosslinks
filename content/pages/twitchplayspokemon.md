@@ -1,0 +1,24 @@
+---
+title: twitchplayspokemon
+crosslinks:
+- TTPloreplaycentral
+- xkcd
+- pokemon
+- TPPKappa
+- VoHiYo
+- TPPLeague
+- place
+- grandayy
+- PokemonPrism
+- livven
+- AskReddit
+- TheSilphRoad
+- wiiu
+- dogecoin
+- hearthstone
+- fossilpantheon
+- AMAAggregator
+- sprocket
+- gaming
+- Espeon
+---

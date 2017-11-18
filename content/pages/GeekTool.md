@@ -1,0 +1,5 @@
+---
+title: GeekTool
+crosslinks:
+- NintendoSwitch
+---

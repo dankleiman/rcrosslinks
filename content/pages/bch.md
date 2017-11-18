@@ -1,0 +1,5 @@
+---
+title: bch
+crosslinks:
+- Bitcoincash
+---

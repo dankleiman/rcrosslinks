@@ -1,0 +1,5 @@
+---
+title: OldCoolSchool
+crosslinks:
+- gifs
+---

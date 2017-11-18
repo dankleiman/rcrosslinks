@@ -1,0 +1,24 @@
+---
+title: Swingers
+crosslinks:
+- swingersr4r
+- polyamory
+- Hotwife
+- sex
+- nonmonogamy
+- titlegore
+- nashville
+- help
+- RxRaccoon
+- LondonSwingers
+- hotpast
+- ShittyLifeProTips
+- literotica
+- cuckquean
+- legaladvice
+- gonewildvideos
+- gonewildstories
+- TheGirlSurvivalGuide
+- SeattleWA
+- AMAAggregator
+---

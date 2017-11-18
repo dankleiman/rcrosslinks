@@ -1,0 +1,5 @@
+---
+title: altrightnews
+crosslinks:
+- autotldr
+---

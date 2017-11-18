@@ -1,0 +1,24 @@
+---
+title: relationships
+crosslinks:
+- AskReddit
+- legaladvice
+- relationship_advice
+- polyamory
+- JUSTNOMIL
+- LifeProTips
+- AskMen
+- TwoXChromosomes
+- IAmA
+- sex
+- Assistance
+- AskWomen
+- DeadBedrooms
+- ADHD
+- personalfinance
+- tifu
+- OCD
+- GetMotivated
+- survivinginfidelity
+- depression
+---

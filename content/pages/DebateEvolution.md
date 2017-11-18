@@ -1,0 +1,23 @@
+---
+title: DebateEvolution
+crosslinks:
+- Creation
+- THUNDERDOME_DEBATE
+- evolution
+- exchristian
+- xkcd
+- neuroscience
+- askscience
+- junkscience
+- CreationExposed
+- space
+- occult
+- AskHistorians
+- privacy
+- askphilosophy
+- lifeisstrange
+- cosmology
+- exmuslim
+- godlikeproductions
+- AskScienceDiscussion
+---

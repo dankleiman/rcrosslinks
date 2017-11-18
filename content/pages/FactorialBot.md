@@ -1,0 +1,5 @@
+---
+title: FactorialBot
+crosslinks:
+- nevertellmetheodds
+---

@@ -1,0 +1,5 @@
+---
+title: postmormon
+crosslinks:
+- whiskey
+---

@@ -1,0 +1,5 @@
+---
+title: BadPharma
+crosslinks:
+- autotldr
+---

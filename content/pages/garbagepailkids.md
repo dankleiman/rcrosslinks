@@ -1,0 +1,5 @@
+---
+title: garbagepailkids
+crosslinks:
+- funkoswap
+---

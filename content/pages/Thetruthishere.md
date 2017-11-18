@@ -1,0 +1,24 @@
+---
+title: Thetruthishere
+crosslinks:
+- AskReddit
+- Paranormal
+- nosleep
+- Glitch_in_the_Matrix
+- Humanoidencounters
+- CrawlerSightings
+- Cryptozoology
+- creepyencounters
+- AskWomen
+- Dreams
+- AskReddit_eerie
+- C_S_T
+- matrix
+- AskMen
+- HelpMeFind
+- NewsOfTheWeird
+- tipofmytoungue
+- glitch
+- Synchronicities
+- GlitchInTheMatrix
+---

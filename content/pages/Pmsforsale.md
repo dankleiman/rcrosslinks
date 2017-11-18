@@ -1,0 +1,23 @@
+---
+title: Pmsforsale
+crosslinks:
+- TheXanaxCartel
+- coins
+- Coins4Sale
+- hardwareswap
+- Monero
+- usedpanties
+- CryptoBugs
+- stocks
+- myrthsales
+- dogemarket
+- DunderMifflin
+- pics
+- PMsTradingPost
+- spinalmuscularatrophy
+- ShadowBan
+- KitSwap
+- UniversalScammerList
+- gameswap
+- dating_advice
+---

@@ -1,0 +1,5 @@
+---
+title: Camberlot
+crosslinks:
+- WritingPrompts
+---

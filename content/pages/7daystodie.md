@@ -1,0 +1,24 @@
+---
+title: 7daystodie
+crosslinks:
+- livven
+- 7DaysToDieServers
+- self
+- thewalkingreddits
+- xkcd
+- excgarated
+- mindcrack
+- EarthPorn
+- funny
+- 7D2DPC
+- Blacksmith
+- Planetside
+- pcmasterrace
+- WTF
+- PCMasterRace
+- SkyrimPorn
+- playrust
+- IdiotsFightingThings
+- RimWorld
+- Seattle
+---

@@ -1,0 +1,5 @@
+---
+title: vending
+crosslinks:
+- litecoin
+---

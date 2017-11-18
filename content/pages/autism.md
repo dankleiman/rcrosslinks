@@ -1,0 +1,24 @@
+---
+title: autism
+crosslinks:
+- aspergers
+- autotldr
+- aspergirls
+- AskReddit
+- neurodiversity
+- everyfuckingthread
+- livven
+- The_Donald
+- aww
+- SargonofAkkad
+- BostonComedy
+- wholesomememes
+- Autistic
+- factorio
+- canadia
+- nottheonion
+- SampleSize
+- gravityfalls
+- moncton
+- Autism_Awareness
+---

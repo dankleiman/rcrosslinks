@@ -1,0 +1,5 @@
+---
+title: DiaryOfARedditor
+crosslinks:
+- redditdev
+---

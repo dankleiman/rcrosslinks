@@ -1,0 +1,22 @@
+---
+title: qotsa
+crosslinks:
+- radiohead
+- livven
+- stonerrock
+- 15zmd5e
+- indieheads
+- qotsarr
+- The_Donald
+- france
+- IAmA
+- me_irl
+- vinyl
+- nottheonion
+- Ghosts
+- tattoos
+- argentina
+- Music
+- Serendipity
+- nincirclejerk
+---

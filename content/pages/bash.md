@@ -1,0 +1,22 @@
+---
+title: bash
+crosslinks:
+- linux
+- xkcd
+- programming
+- linuxquestions
+- Serendipity
+- commandline
+- vim
+- linuxmasterrace
+- GeekTool
+- mealtimevideos
+- Batch
+- On2zQP
+- oilshell
+- shittyvim
+- Codings
+- powerline
+- learnprogramming
+- unix
+---

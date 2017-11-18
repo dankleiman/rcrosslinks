@@ -1,0 +1,24 @@
+---
+title: Nepal
+crosslinks:
+- FreeMadhesh
+- india
+- IndiaSpeaks
+- indianews
+- autotldr
+- hinduism
+- place
+- vexillology
+- AskReddit
+- nepalISP
+- gonewildstories
+- trees
+- pakistan
+- NoStupidQuestions
+- OutOfTheLoop
+- todayilearned
+- travel
+- redditposts
+- hiking
+- DataHoarder
+---

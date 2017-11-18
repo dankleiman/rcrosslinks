@@ -1,0 +1,5 @@
+---
+title: suddenfuturama
+crosslinks:
+- expectedfuturama
+---

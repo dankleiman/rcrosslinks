@@ -1,0 +1,5 @@
+---
+title: Joaje
+crosslinks:
+- gravityfalls
+---

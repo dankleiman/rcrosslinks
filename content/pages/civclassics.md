@@ -1,0 +1,24 @@
+---
+title: civclassics
+crosslinks:
+- Civcraft
+- Devoted
+- CivImpasse
+- CivCommonwealth
+- MtAugusta
+- CivClassicsExchange
+- civcasia
+- CivYoahtl
+- CivJefferson
+- CivEx
+- CivcraftExchange
+- NoxWorldOrder
+- Minecraft
+- Civcraft_Orion
+- CivConciencera
+- Aznazia
+- MaesterAlliance
+- TheRealmsMC
+- CivclassicExchange
+- AMAAggregator
+---

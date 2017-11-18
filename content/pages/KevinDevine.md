@@ -1,0 +1,5 @@
+---
+title: KevinDevine
+crosslinks:
+- Serendipity
+---

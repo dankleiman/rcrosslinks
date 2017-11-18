@@ -1,0 +1,5 @@
+---
+title: appraisal
+crosslinks:
+- antiqueappraisal
+---

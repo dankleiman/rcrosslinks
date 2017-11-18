@@ -1,0 +1,5 @@
+---
+title: FoWtcg
+crosslinks:
+- magicTCG
+---

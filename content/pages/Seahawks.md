@@ -1,0 +1,24 @@
+---
+title: Seahawks
+crosslinks:
+- nfl
+- falcons
+- nflstreams
+- livven
+- redditsync
+- place
+- SeattleWA
+- mildlyinteresting
+- GreenBayPackers
+- IAmA
+- CoalitionAgainstEvil
+- detroitlions
+- Chargers
+- steelers
+- TopMindsOfReddit
+- Patriots
+- minnesotavikings
+- 49ers
+- rolltide
+- DestroyersOfEvilEvil
+---

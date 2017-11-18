@@ -1,0 +1,5 @@
+---
+title: HyperSpin
+crosslinks:
+- cade
+---

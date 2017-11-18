@@ -1,0 +1,5 @@
+---
+title: Sherlolly
+crosslinks:
+- Sherlock
+---

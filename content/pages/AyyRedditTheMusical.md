@@ -1,0 +1,5 @@
+---
+title: AyyRedditTheMusical
+crosslinks:
+- RedditsMuseumofFilth
+---

@@ -1,0 +1,5 @@
+---
+title: beercoins
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: rcscaleaircraft
+crosslinks:
+- radiocontrol
+---

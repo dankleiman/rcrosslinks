@@ -1,0 +1,24 @@
+---
+title: AsianParentStories
+crosslinks:
+- hapas
+- aznidentity
+- autotldr
+- personalfinance
+- AskReddit
+- trees
+- TheRedPill
+- medicine
+- MadeMeSmile
+- gifs
+- confession
+- PhascinatingPhysics
+- SRSDiscussion
+- pcmasterrace
+- HongKong
+- atheism
+- Laowinning
+- UpliftingNews
+- wholesome
+- MRW
+---

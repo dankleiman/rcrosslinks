@@ -1,0 +1,5 @@
+---
+title: AriaBlaze
+crosslinks:
+- mylittlepony
+---

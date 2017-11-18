@@ -1,0 +1,5 @@
+---
+title: jokesrepo
+crosslinks:
+- Jokes
+---

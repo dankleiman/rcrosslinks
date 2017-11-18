@@ -1,0 +1,5 @@
+---
+title: depressing
+crosslinks:
+- Serendipity
+---

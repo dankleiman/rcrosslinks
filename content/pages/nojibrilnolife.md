@@ -1,0 +1,5 @@
+---
+title: nojibrilnolife
+crosslinks:
+- NoGameNoLife
+---

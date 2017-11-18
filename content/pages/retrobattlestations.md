@@ -1,0 +1,24 @@
+---
+title: retrobattlestations
+crosslinks:
+- oldhardwareswap
+- VintageApple
+- pics
+- autotldr
+- pc98
+- retrogaming
+- unixporn
+- funny
+- nevertellmetheodds
+- turok
+- VintageComputers
+- c128
+- thinkpad
+- todayilearned
+- OldHandhelds
+- LinkFlairCssCodes
+- DIY
+- AskScienceDiscussion
+- BCMUOW
+- polaroid
+---

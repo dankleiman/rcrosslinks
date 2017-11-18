@@ -1,0 +1,24 @@
+---
+title: BDSMcommunity
+crosslinks:
+- Femdom
+- FemdomCommunity
+- littlespace
+- sex
+- BDSMpersonals
+- AskReddit
+- ropetutorials
+- BDSMDiscordInvites
+- gonewildaudio
+- EroticHypnosis
+- Bondage
+- dating_advice
+- WTF
+- BdsmDIY
+- polyamory
+- chastity
+- DIY
+- CPTSD
+- gonewildstories
+- sexover30
+---

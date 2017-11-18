@@ -1,0 +1,5 @@
+---
+title: justneckbreadthings
+crosslinks:
+- mildlyinteresting
+---

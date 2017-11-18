@@ -1,0 +1,24 @@
+---
+title: SubredditDrama
+crosslinks:
+- Drama
+- The_Donald
+- AskReddit
+- conspiracy
+- news
+- videos
+- pics
+- politics
+- todayilearned
+- worldnews
+- movies
+- legaladvice
+- IAmA
+- OutOfTheLoop
+- Games
+- gaming
+- socialism
+- KotakuInAction
+- SquaredCircle
+- Anarchism
+---

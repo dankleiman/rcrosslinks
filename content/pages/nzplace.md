@@ -1,0 +1,5 @@
+---
+title: nzplace
+crosslinks:
+- place
+---

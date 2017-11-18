@@ -1,0 +1,24 @@
+---
+title: NeckbeardNests
+crosslinks:
+- declutter
+- ICleanedMyRoom
+- WTF
+- lego
+- trashy
+- hitanimals
+- glassine
+- cosplaygirls
+- dontfuckingsayit
+- RedLetterMedia
+- Tendies
+- AFL
+- oversharing
+- doctorsthatgame
+- Ooer
+- curledfeetsies
+- meirl
+- whiteknighting
+- ImaginaryInteriors
+- copypasta
+---

@@ -1,0 +1,24 @@
+---
+title: EnoughTrumpSpam
+crosslinks:
+- The_Donald
+- politics
+- Enough_Sanders_Spam
+- conspiracy
+- ShitPoliticsSays
+- esist
+- AntiTrumpAlliance
+- worldnews
+- Conservative
+- news
+- PoliticalHumor
+- pics
+- SandersForPresident
+- IAmA
+- MarchAgainstTrump
+- comics
+- socialism
+- Fuckthealtright
+- AskReddit
+- altright
+---

@@ -1,0 +1,5 @@
+---
+title: Tenma
+crosslinks:
+- anime
+---

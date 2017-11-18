@@ -1,0 +1,5 @@
+---
+title: AccidentalNatureArt
+crosslinks:
+- mildlyinteresting
+---

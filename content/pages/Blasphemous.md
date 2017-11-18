@@ -1,0 +1,5 @@
+---
+title: Blasphemous
+crosslinks:
+- PixelArt
+---

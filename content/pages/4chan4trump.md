@@ -1,0 +1,24 @@
+---
+title: 4chan4trump
+crosslinks:
+- Suomi
+- pa
+- 2007scape
+- The_Donald
+- me_irl
+- REEEEEEEEEE
+- farshnukeofficial
+- 4chan
+- nosleep
+- hapas
+- asktransgender
+- dayton
+- rojava
+- WhereIsAssange
+- worldnews
+- CringeAnarchy
+- news
+- awwschwitz
+- TheRedPill
+- transtimelines
+---

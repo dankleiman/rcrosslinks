@@ -1,0 +1,5 @@
+---
+title: nojobs
+crosslinks:
+- SuicideWatch
+---

@@ -1,0 +1,24 @@
+---
+title: opieandanthony
+crosslinks:
+- autotldr
+- livven
+- amiugly
+- The_Donald
+- LegionOfSkanks
+- BillBurr
+- IAmA
+- ronandfez
+- videos
+- news
+- pics
+- milliondollarextreme
+- Cumtown
+- SpaceEdgeIsAFag
+- shittykickstarters
+- howardstern
+- AskReddit
+- NormMacdonald
+- scorch
+- short
+---

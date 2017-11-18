@@ -1,0 +1,5 @@
+---
+title: puptheband
+crosslinks:
+- punk
+---

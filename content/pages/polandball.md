@@ -1,0 +1,24 @@
+---
+title: polandball
+crosslinks:
+- AskHistorians
+- worldnews
+- europe
+- MapPorn
+- all
+- germany
+- todayilearned
+- OutOfTheLoop
+- AskReddit
+- linguistics
+- imagesofnetwork
+- civ
+- announcements
+- IAmA
+- StarVStheForcesofEvil
+- vexillology
+- FULLCOMMUNISM
+- noha307
+- AskEurope
+- greentext
+---

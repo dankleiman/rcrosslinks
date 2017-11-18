@@ -1,0 +1,5 @@
+---
+title: ScientificAmerican
+crosslinks:
+- autotldr
+---

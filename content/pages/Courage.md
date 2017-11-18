@@ -1,0 +1,5 @@
+---
+title: Courage
+crosslinks:
+- autotldr
+---

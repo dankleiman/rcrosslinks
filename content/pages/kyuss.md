@@ -1,0 +1,5 @@
+---
+title: kyuss
+crosslinks:
+- stonerrock
+---

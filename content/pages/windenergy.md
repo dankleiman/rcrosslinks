@@ -1,0 +1,5 @@
+---
+title: windenergy
+crosslinks:
+- autotldr
+---

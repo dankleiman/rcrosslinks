@@ -1,0 +1,24 @@
+---
+title: Megaman
+crosslinks:
+- place
+- BattleNetwork
+- MegaMakerOfficial
+- Serendipity
+- gamecollecting
+- PrequelMemes
+- PixelArt
+- redditrequest
+- Mahouka
+- Gunpla
+- gopro
+- PAX
+- osuplace
+- PlaceThugs
+- crtgaming
+- Philippines
+- nyjets
+- KiDIcaruS
+- Vinesauce
+- games
+---

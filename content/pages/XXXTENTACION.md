@@ -1,0 +1,24 @@
+---
+title: XXXTENTACION
+crosslinks:
+- hiphopheads
+- Music
+- hhh
+- SlumpGod
+- vrallstars
+- NoStupidQuestions
+- coaxedintoasnafu
+- Emo
+- autotldr
+- Hiphopcirclejerk
+- Drama
+- ShitRedditSays
+- emojipasta
+- PussyPass
+- geneva
+- LilPeep
+- Ice_Poseidon
+- wow
+- Kanye
+- zias
+---

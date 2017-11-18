@@ -1,0 +1,5 @@
+---
+title: writingcritiques
+crosslinks:
+- Thetruthishere
+---

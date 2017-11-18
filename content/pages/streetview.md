@@ -1,0 +1,5 @@
+---
+title: streetview
+crosslinks:
+- japancirclejerk
+---

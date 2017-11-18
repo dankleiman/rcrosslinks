@@ -1,0 +1,24 @@
+---
+title: TrollXFunny
+crosslinks:
+- livven
+- TrollXChromosomes
+- funny
+- wholesomememes
+- pics
+- gatekeeping
+- ANormalDayInRussia
+- MURICA
+- redditrequest
+- todayilearned
+- TrollXMovieNight
+- catsinstores
+- explainlikeimfive
+- '2013'
+- TrollCooking
+- rupaulsdragrace
+- entwives
+- shittyfoodporn
+- instantpot
+- BlackPeopleTwitter
+---

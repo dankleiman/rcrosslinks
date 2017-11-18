@@ -1,0 +1,5 @@
+---
+title: SoulHuntersGame
+crosslinks:
+- dragonsoul
+---

@@ -1,0 +1,24 @@
+---
+title: SexToys
+crosslinks:
+- petplay
+- fleshlight
+- BadDragon
+- ProstatePlay
+- BDSMcommunity
+- sex
+- SexToysCollection
+- estim
+- cockrings
+- askscience
+- IAmA
+- tifu
+- malesextoys
+- ToyControl
+- ToyStore
+- ftm
+- sexover30
+- TechnologyProTips
+- futuresex
+- castiron
+---

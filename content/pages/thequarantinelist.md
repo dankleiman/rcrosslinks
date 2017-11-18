@@ -1,0 +1,5 @@
+---
+title: thequarantinelist
+crosslinks:
+- all
+---

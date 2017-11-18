@@ -1,0 +1,5 @@
+---
+title: WickSushSideStories
+crosslinks:
+- nosleep
+---

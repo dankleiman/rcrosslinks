@@ -1,0 +1,5 @@
+---
+title: GamingDeals
+crosslinks:
+- Kinguin
+---

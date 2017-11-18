@@ -1,0 +1,24 @@
+---
+title: Wellington
+crosslinks:
+- newzealand
+- marton
+- food
+- TheBucketFountain
+- palmy
+- hockey
+- aviation
+- gifs
+- canada
+- analog
+- AroValleyWellington
+- EDC
+- funny
+- Karori
+- photocritique
+- amazonecho
+- soccerstreams
+- PersonalFinanceNZ
+- OutOfTheLoop
+- outrun
+---

@@ -1,0 +1,5 @@
+---
+title: atarist
+crosslinks:
+- retrocomputing
+---

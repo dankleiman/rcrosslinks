@@ -1,0 +1,5 @@
+---
+title: carnistFUA
+crosslinks:
+- AskPhilosophyFAQ
+---

@@ -1,0 +1,5 @@
+---
+title: FOXNEWS
+crosslinks:
+- autotldr
+---

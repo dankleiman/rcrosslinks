@@ -1,0 +1,5 @@
+---
+title: FlaminHotMemes
+crosslinks:
+- autotldr
+---

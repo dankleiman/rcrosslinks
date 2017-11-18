@@ -1,0 +1,24 @@
+---
+title: technology
+crosslinks:
+- politics
+- The_Donald
+- zeronet
+- news
+- worldnews
+- IAmA
+- explainlikeimfive
+- AskReddit
+- Hewlett_Packard
+- todayilearned
+- pics
+- pcmasterrace
+- videos
+- OutOfTheLoop
+- conspiracy
+- Futurology
+- sysadmin
+- teslamotors
+- NeutralPolitics
+- VPN
+---

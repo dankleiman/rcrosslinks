@@ -1,0 +1,24 @@
+---
+title: boxoffice
+crosslinks:
+- autotldr
+- moviescirclejerk
+- marvelstudios
+- movies
+- DC_Cinematic
+- SuperheroCirclejerk
+- AskReddit
+- SAVEBRENDAN
+- SuicideSquad
+- YMS
+- DarkUniverse
+- Screenwriting
+- schmoesknow
+- titlegore
+- StarWarsLeaks
+- TelevisionRatings
+- UMCU
+- WeAreTeenagers
+- sharktank
+- nolife
+---

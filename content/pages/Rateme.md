@@ -1,0 +1,24 @@
+---
+title: Rateme
+crosslinks:
+- amiugly
+- hapas
+- SkincareAddiction
+- gainit
+- truerateme
+- Meditation
+- rate
+- curlyhair
+- Fitness
+- AsianBeauty
+- malehairadvice
+- PlasticSurgery
+- RoastMe
+- AskReddit
+- MakeupAddiction
+- OutOfTheLoop
+- shorthairedhotties
+- FreeCompliments
+- fatpeoplestories
+- UnpopularOpinions
+---

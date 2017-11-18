@@ -1,0 +1,5 @@
+---
+title: mobilephotography
+crosslinks:
+- Xiaomi
+---

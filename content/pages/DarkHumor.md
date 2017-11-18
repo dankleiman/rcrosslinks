@@ -1,0 +1,24 @@
+---
+title: DarkHumor
+crosslinks:
+- Jokes
+- autotldr
+- Punny
+- jesuschristreddit
+- BestOfReports
+- BrasilOnReddit
+- excgarated
+- livven
+- phonewallpapers
+- ImGoingToHellForThis
+- xkcd
+- ich_iel
+- TwoXChromosomes
+- CheeseandRiceReddit
+- TooMeIrlForMeIrl
+- gifs
+- DirtyJokes
+- Showerthoughts
+- darkjokes
+- facts
+---

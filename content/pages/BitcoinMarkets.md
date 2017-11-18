@@ -1,0 +1,24 @@
+---
+title: BitcoinMarkets
+crosslinks:
+- Bitcoin
+- ethtrader
+- KrakenSupport
+- ethereum
+- CryptoCurrency
+- mtgoxinsolvency
+- xkcd
+- CryptoMarkets
+- Buttcoin
+- Monero
+- litecoin
+- tippr
+- PoloniexForum
+- Futurology
+- investing
+- zeronet
+- CoinBase
+- ethtraderpro
+- AskReddit
+- dogecoin
+---

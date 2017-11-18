@@ -1,0 +1,24 @@
+---
+title: gardening
+crosslinks:
+- whatsthisplant
+- succulents
+- IndoorGarden
+- livven
+- Bonsai
+- HotPeppers
+- DIY
+- autotldr
+- hydro
+- Permaculture
+- funny
+- BackyardOrchard
+- lawncare
+- plantclinic
+- seedswap
+- tifu
+- marijuanaenthusiasts
+- trees
+- Beekeeping
+- AmericanPlantSwap
+---

@@ -1,0 +1,24 @@
+---
+title: casualnintendo
+crosslinks:
+- livven
+- NintendoSwitch
+- gaming
+- zelda
+- copypasta
+- consoleproletariat
+- nintendo
+- MarioMaker
+- pokemon
+- tomorrow
+- dontdeadopeninside
+- donkeykong
+- WhatsInThisThing
+- AskReddit
+- n64
+- SuperMarioRun
+- retrogaming
+- minines
+- nintendoswitch
+- 3DS
+---

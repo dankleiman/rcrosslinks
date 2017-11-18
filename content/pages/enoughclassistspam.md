@@ -1,0 +1,5 @@
+---
+title: enoughclassistspam
+crosslinks:
+- news
+---

@@ -1,0 +1,24 @@
+---
+title: wholesomeyuri
+crosslinks:
+- awwnime
+- Pixiv
+- livven
+- pharmercy
+- anime
+- yuri
+- handholding
+- RWBY
+- Animesuggest
+- u_ena9219
+- shoujoai
+- animegifs
+- MutualYuri
+- stevenuniverse
+- shorthairedwaifus
+- LoveLive
+- grandorder
+- Kyousaya
+- anime_irl
+- Akkordian
+---

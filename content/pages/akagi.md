@@ -1,0 +1,5 @@
+---
+title: akagi
+crosslinks:
+- Mahjong
+---

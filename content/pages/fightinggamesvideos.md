@@ -1,0 +1,5 @@
+---
+title: fightinggamesvideos
+crosslinks:
+- DragonBallFighters
+---

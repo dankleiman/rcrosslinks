@@ -1,0 +1,24 @@
+---
+title: Frugal
+crosslinks:
+- personalfinance
+- churning
+- AskReddit
+- cordcutters
+- wicked_edge
+- vandwellers
+- financialindependence
+- NoContract
+- HailCorporate
+- DumpsterDiving
+- EatCheapAndHealthy
+- IAmA
+- BuyItForLife
+- LifeProTips
+- goodyearwelt
+- patientgamers
+- autotldr
+- DIY
+- CricketGroups
+- legaladvice
+---

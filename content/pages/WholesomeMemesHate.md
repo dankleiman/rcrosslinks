@@ -1,0 +1,5 @@
+---
+title: WholesomeMemesHate
+crosslinks:
+- wholesomememes
+---

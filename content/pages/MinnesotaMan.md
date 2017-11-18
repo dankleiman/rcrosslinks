@@ -1,0 +1,5 @@
+---
+title: MinnesotaMan
+crosslinks:
+- UpliftingNews
+---

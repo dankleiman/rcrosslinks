@@ -1,0 +1,5 @@
+---
+title: BedThoughts
+crosslinks:
+- Showerthoughts
+---

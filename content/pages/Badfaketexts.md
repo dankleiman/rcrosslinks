@@ -1,0 +1,24 @@
+---
+title: Badfaketexts
+crosslinks:
+- GoodFakeTexts
+- ComedyCemetery
+- livven
+- DeepFriedMemes
+- emojipasta
+- ComedyNecrophilia
+- NotHowDrugsWork
+- coaxedintoasnafu
+- goodfaketexts
+- ChargeYourPhone
+- comedynecromancy
+- shitpost
+- unexpectedjihad
+- nothingeverhappens
+- ThePack
+- theydidthemath
+- tifu
+- AliensAmongUs
+- me_irl
+- ChoosingBeggars
+---

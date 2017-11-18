@@ -1,0 +1,5 @@
+---
+title: WhiskyDFW
+crosslinks:
+- whiskyinventory
+---

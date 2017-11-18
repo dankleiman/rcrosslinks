@@ -1,0 +1,5 @@
+---
+title: wintergear
+crosslinks:
+- skiing
+---

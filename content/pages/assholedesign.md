@@ -1,0 +1,24 @@
+---
+title: assholedesign
+crosslinks:
+- xkcd
+- softwaregore
+- livven
+- gaming
+- mildlyinfuriating
+- LateStageCapitalism
+- pihole
+- funny
+- microsoftsoftwareswap
+- StallmanWasRight
+- linuxmasterrace
+- ChargeYourPhone
+- CrappyDesign
+- Windows10Sucks
+- ProgrammerHumor
+- modnews
+- Ooer
+- programmerhumor
+- programmer
+- BoostForReddit
+---

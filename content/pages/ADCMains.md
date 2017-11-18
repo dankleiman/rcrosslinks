@@ -1,0 +1,5 @@
+---
+title: ADCMains
+crosslinks:
+- leagueoflegends
+---

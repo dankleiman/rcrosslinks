@@ -1,0 +1,5 @@
+---
+title: lotrtattoos
+crosslinks:
+- lotr
+---

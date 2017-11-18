@@ -1,0 +1,5 @@
+---
+title: Eliteserienfantasy
+crosslinks:
+- FantasyPL
+---

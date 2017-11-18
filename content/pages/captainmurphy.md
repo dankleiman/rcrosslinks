@@ -1,0 +1,5 @@
+---
+title: captainmurphy
+crosslinks:
+- Serendipity
+---

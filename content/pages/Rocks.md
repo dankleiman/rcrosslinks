@@ -1,0 +1,5 @@
+---
+title: Rocks
+crosslinks:
+- geology
+---

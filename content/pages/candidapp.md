@@ -1,0 +1,5 @@
+---
+title: candidapp
+crosslinks:
+- CandidOnReddit
+---

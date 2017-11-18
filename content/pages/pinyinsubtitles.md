@@ -1,0 +1,5 @@
+---
+title: pinyinsubtitles
+crosslinks:
+- MovieGuide
+---

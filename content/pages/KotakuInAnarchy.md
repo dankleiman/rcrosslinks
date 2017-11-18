@@ -1,0 +1,5 @@
+---
+title: KotakuInAnarchy
+crosslinks:
+- KotakuInAction
+---

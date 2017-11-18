@@ -1,0 +1,5 @@
+---
+title: ColdHurricane
+crosslinks:
+- REEEEEEEEEE
+---

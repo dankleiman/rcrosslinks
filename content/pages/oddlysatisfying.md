@@ -1,0 +1,24 @@
+---
+title: oddlysatisfying
+crosslinks:
+- livven
+- gifs
+- pics
+- mildlyinteresting
+- interestingasfuck
+- mildlyinfuriating
+- HailCorporate
+- xkcd
+- reallifedoodles
+- Simulated
+- funny
+- gifsthatendtoosoon
+- AskReddit
+- mechanical_gifs
+- gaming
+- aww
+- perfectloops
+- specializedtools
+- nocontext
+- GeometryIsNeat
+---

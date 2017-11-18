@@ -1,0 +1,5 @@
+---
+title: khanacademy
+crosslinks:
+- Khan
+---

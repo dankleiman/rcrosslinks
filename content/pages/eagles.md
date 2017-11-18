@@ -1,0 +1,24 @@
+---
+title: eagles
+crosslinks:
+- nfl
+- place
+- NFL_Draft
+- philadelphia
+- nflstreams
+- Flyers
+- chelseafc
+- livven
+- Tennesseetitans
+- CHIBears
+- reddit_stream
+- Saints
+- thefinalclean
+- tifu
+- AccidentalRenaissance
+- DenverBroncos
+- Browns
+- Redskins
+- Colts
+- sixers
+---

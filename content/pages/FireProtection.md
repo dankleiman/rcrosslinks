@@ -1,0 +1,5 @@
+---
+title: FireProtection
+crosslinks:
+- firePE
+---

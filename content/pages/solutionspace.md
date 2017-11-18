@@ -1,0 +1,5 @@
+---
+title: solutionspace
+crosslinks:
+- apolitics
+---

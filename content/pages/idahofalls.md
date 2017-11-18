@@ -1,0 +1,5 @@
+---
+title: idahofalls
+crosslinks:
+- WildernessBackpacking
+---

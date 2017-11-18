@@ -1,0 +1,5 @@
+---
+title: SchoolofBusiness
+crosslinks:
+- consulting
+---

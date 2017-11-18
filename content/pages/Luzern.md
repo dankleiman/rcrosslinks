@@ -1,0 +1,5 @@
+---
+title: Luzern
+crosslinks:
+- Switzerland
+---

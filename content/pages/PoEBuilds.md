@@ -1,0 +1,5 @@
+---
+title: PoEBuilds
+crosslinks:
+- pathofexile
+---

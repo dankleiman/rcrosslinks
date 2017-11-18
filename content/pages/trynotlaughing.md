@@ -1,0 +1,5 @@
+---
+title: trynotlaughing
+crosslinks:
+- TryNotToLaughYouLose
+---

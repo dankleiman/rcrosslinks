@@ -1,0 +1,24 @@
+---
+title: EnoughCapitalistSpam
+crosslinks:
+- Anarcho_Capitalism
+- worldnews
+- politics
+- autotldr
+- pics
+- AskReddit
+- EnoughCommieSpam
+- ChapoTrapHouse
+- Futurology
+- Conservative
+- Negareddit
+- Drama
+- AdviceAnimals
+- Physical_Removal
+- AnarchismOnline
+- news
+- 4chan
+- Comrade_IRL
+- LeftWithoutEdge
+- PropagandaPosters
+---

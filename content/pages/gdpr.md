@@ -1,0 +1,5 @@
+---
+title: gdpr
+crosslinks:
+- europrivacy
+---

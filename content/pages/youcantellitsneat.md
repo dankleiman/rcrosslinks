@@ -1,0 +1,5 @@
+---
+title: youcantellitsneat
+crosslinks:
+- interestingasfuck
+---

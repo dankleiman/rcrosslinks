@@ -1,0 +1,5 @@
+---
+title: ImaginaryFashion
+crosslinks:
+- ImaginaryWitcher
+---

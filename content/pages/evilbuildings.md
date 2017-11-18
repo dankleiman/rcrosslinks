@@ -1,0 +1,24 @@
+---
+title: evilbuildings
+crosslinks:
+- pics
+- OutOfTheLoop
+- xkcd
+- interestingasfuck
+- powerwashingporn
+- livven
+- WritingPrompts
+- creepy
+- ArchitecturePorn
+- itookapicture
+- NatureIsFuckingLit
+- tippr
+- Art
+- architecture
+- IAmA
+- ImaginaryLandscapes
+- funny
+- AskReddit
+- thesims
+- mildlypenis
+---

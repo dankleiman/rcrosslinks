@@ -1,0 +1,5 @@
+---
+title: politicalcomics
+crosslinks:
+- comics
+---

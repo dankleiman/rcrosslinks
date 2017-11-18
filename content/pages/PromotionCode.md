@@ -1,0 +1,5 @@
+---
+title: PromotionCode
+crosslinks:
+- freegames
+---

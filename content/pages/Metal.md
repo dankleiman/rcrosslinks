@@ -1,0 +1,24 @@
+---
+title: Metal
+crosslinks:
+- deathmetal
+- Deathmetal
+- BlackMetal
+- ShitTheFalseSay
+- Metalcore
+- TapeKvlt
+- Music
+- DungeonSynth
+- WarMetal
+- progmetal
+- heavyvinyl
+- '2013'
+- ClassicMetal
+- IAmA
+- Anarchism
+- doommetal
+- metaljerkcopypasta
+- PowerMetal
+- Dreamtheater
+- AnythingMetal
+---

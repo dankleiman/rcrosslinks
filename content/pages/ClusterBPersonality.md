@@ -1,0 +1,5 @@
+---
+title: ClusterBPersonality
+crosslinks:
+- sociopath
+---

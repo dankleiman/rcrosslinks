@@ -1,0 +1,24 @@
+---
+title: tressless
+crosslinks:
+- transdiy
+- explainlikeimfive
+- SwissTemples
+- HairLossNTransplant
+- steroids
+- asktransgender
+- iamverysmart
+- fymumf
+- Rateme
+- IAmA
+- alopecia_areata
+- Catholicism
+- PanicAttack
+- lostgeneration
+- curlyhair
+- titlegore
+- short
+- autotldr
+- nofap
+- TheseFuckingAccounts
+---

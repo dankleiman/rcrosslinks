@@ -1,0 +1,24 @@
+---
+title: indonesia
+crosslinks:
+- autotldr
+- IndoFinance
+- place
+- malaysia
+- worldnews
+- AskReddit
+- xkcd
+- OrangIndo
+- RepressedGoneWild
+- The_Donald
+- Marvel
+- IndonesiaCirclejerk
+- explainlikeimfive
+- exmuslim
+- islam
+- dwarffortress
+- indogonewild
+- IndonesianHotties
+- anime
+- Jakarta
+---

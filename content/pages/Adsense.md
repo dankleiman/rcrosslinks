@@ -1,0 +1,5 @@
+---
+title: Adsense
+crosslinks:
+- google
+---

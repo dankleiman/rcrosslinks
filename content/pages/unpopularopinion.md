@@ -1,0 +1,24 @@
+---
+title: unpopularopinion
+crosslinks:
+- idioticopinion
+- AsABlackMan
+- Drama
+- UnpopularOpinions
+- AskReddit
+- The_Donald
+- asktransgender
+- Gamingcirclejerk
+- childfree
+- vegan
+- atheism
+- REEEEEEEEEE
+- changemyview
+- ShitRedditSays
+- science
+- Anarchism
+- NoStupidQuestions
+- hapas
+- confession
+- xkcd
+---

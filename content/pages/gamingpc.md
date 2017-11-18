@@ -1,0 +1,24 @@
+---
+title: gamingpc
+crosslinks:
+- pcmasterrace
+- hardwareswap
+- livven
+- watercooling
+- multiwall
+- reactiongifs
+- accidentalswastika
+- titlegore
+- G502MasterRace
+- hardware
+- Whatisthis
+- decred
+- AyyMD
+- suggestapc
+- askscience
+- ultrawidemasterrace
+- pcmods
+- cirkeltrek
+- highqualitygifs
+- OutOfTheLoop
+---

@@ -1,0 +1,5 @@
+---
+title: PokecraftMD
+crosslinks:
+- Minecraft
+---

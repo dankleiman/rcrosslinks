@@ -1,0 +1,24 @@
+---
+title: india
+crosslinks:
+- tippr
+- xkcd
+- IndiaInvestments
+- AskReddit
+- IndianGaming
+- worldnews
+- place
+- AskHistorians
+- livven
+- IAmA
+- pics
+- antiaadhar
+- indianpeoplequora
+- MapPorn
+- explainlikeimfive
+- worldpolitics
+- getdisciplined
+- OutOfTheLoop
+- theunkillnetwork
+- ISRO
+---

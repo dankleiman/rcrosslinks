@@ -1,0 +1,24 @@
+---
+title: Physics
+crosslinks:
+- autotldr
+- askscience
+- AskPhysics
+- xkcd
+- math
+- gradadmissions
+- explainlikeimfive
+- space
+- livven
+- gifs
+- chemistry
+- arXiv_Plus
+- NoStupidQuestions
+- QuantumInformation
+- flatearth
+- philosophy
+- theydidthemath
+- compsci
+- CERN
+- technology
+---

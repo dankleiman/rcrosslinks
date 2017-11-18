@@ -1,0 +1,24 @@
+---
+title: natureismetal
+crosslinks:
+- livven
+- pics
+- gifs
+- WTF
+- metric_units
+- AskReddit
+- todayilearned
+- xkcd
+- NatureIsFuckingLit
+- aww
+- AccidentalRenaissance
+- nocontext
+- whatisthisthing
+- videos
+- AdviceAnimals
+- TwoRedditorsOneCup
+- AskHistorians
+- interestingasfuck
+- Drama
+- jesuschristreddit
+---

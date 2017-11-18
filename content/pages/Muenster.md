@@ -1,0 +1,5 @@
+---
+title: Muenster
+crosslinks:
+- de
+---

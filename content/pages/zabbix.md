@@ -1,0 +1,5 @@
+---
+title: zabbix
+crosslinks:
+- PostgreSQL
+---

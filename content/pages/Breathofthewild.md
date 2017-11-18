@@ -1,0 +1,5 @@
+---
+title: Breathofthewild
+crosslinks:
+- NintendoSwitch
+---

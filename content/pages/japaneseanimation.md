@@ -1,0 +1,5 @@
+---
+title: japaneseanimation
+crosslinks:
+- trueanime
+---

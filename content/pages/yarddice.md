@@ -1,0 +1,5 @@
+---
+title: yarddice
+crosslinks:
+- livven
+---

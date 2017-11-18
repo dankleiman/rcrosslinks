@@ -1,0 +1,24 @@
+---
+title: fantasywriters
+crosslinks:
+- writing
+- scifiwriting
+- Fantasy
+- WritingPrompts
+- YAwriters
+- conlangs
+- DestructiveReaders
+- promptoftheday
+- HFY
+- AskReddit
+- AskHistorians
+- fantasywriting
+- intotheslushpile
+- DnDBehindTheScreen
+- Eager_Question_Writes
+- Poetry
+- aww
+- csshelp
+- writerchat
+- DungeonWorld
+---

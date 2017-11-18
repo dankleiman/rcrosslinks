@@ -1,0 +1,24 @@
+---
+title: teenagers
+crosslinks:
+- livven
+- AskReddit
+- Pay_Respects
+- user_stats
+- me_irl
+- xkcd
+- REEEEEEEEEE
+- funny
+- pics
+- science
+- meirl
+- Incels
+- dankmemes
+- copypasta
+- 2meirl4meirl
+- TeenagersFanfiction
+- The_Donald
+- tifu
+- Drama
+- worldnews
+---

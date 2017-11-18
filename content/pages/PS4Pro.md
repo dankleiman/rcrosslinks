@@ -1,0 +1,24 @@
+---
+title: PS4Pro
+crosslinks:
+- PS4
+- PSVR
+- PS4Deals
+- pcmasterrace
+- WipeOut
+- techsupport
+- Catloaf
+- NexMachina
+- remoteplay
+- Televisions
+- livven
+- horizon
+- autotldr
+- gaming
+- hometheater
+- GameDeals
+- headphones
+- darksouls3
+- Monitors
+- DIY
+---

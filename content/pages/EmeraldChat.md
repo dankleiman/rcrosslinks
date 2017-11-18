@@ -1,0 +1,5 @@
+---
+title: EmeraldChat
+crosslinks:
+- omegle
+---

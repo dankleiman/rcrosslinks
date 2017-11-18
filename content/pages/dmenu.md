@@ -1,0 +1,5 @@
+---
+title: dmenu
+crosslinks:
+- archlinux
+---

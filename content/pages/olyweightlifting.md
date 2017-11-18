@@ -1,0 +1,5 @@
+---
+title: olyweightlifting
+crosslinks:
+- weightlifting
+---

@@ -1,0 +1,5 @@
+---
+title: SyFyChannelSucks
+crosslinks:
+- autotldr
+---

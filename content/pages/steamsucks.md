@@ -1,0 +1,5 @@
+---
+title: steamsucks
+crosslinks:
+- Steam
+---

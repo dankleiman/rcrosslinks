@@ -1,0 +1,5 @@
+---
+title: Rich
+crosslinks:
+- AskReddit
+---

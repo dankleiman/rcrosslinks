@@ -1,0 +1,24 @@
+---
+title: mealtimevideos
+crosslinks:
+- videos
+- japancirclejerk
+- Documentaries
+- AskHistorians
+- explainlikeimfive
+- xkcd
+- FashionReps
+- lectures
+- LateStageCapitalism
+- AWLIAS
+- philosophy
+- EnoughCommieSpam
+- WendoverProductions
+- askscience
+- lewronggeneration
+- BritainsGotTalent
+- IAmA
+- television
+- speedrun
+- killthosewhodisagree
+---

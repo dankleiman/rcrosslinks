@@ -1,0 +1,5 @@
+---
+title: WeWuzSuperior
+crosslinks:
+- hapas
+---

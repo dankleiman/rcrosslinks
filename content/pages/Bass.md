@@ -1,0 +1,24 @@
+---
+title: Bass
+crosslinks:
+- Guitar
+- ShadowBan
+- AMAAggregator
+- diypedals
+- headphones
+- guitarpedals
+- BassGuitar
+- guitarlessons
+- stonerrock
+- ShitTheFalseSay
+- rocksmith
+- audioengineering
+- Nashvillemusicians
+- redhotchilipeppers
+- jazzguitar
+- nocontext
+- RhythmGuitar
+- MGTOW
+- FrenchWestIndies
+- japan
+---

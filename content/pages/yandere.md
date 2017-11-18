@@ -1,0 +1,5 @@
+---
+title: yandere
+crosslinks:
+- Pixiv
+---

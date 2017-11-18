@@ -1,0 +1,5 @@
+---
+title: BestofCracked
+crosslinks:
+- Earwolf
+---

@@ -1,0 +1,24 @@
+---
+title: wholesomememes
+crosslinks:
+- livven
+- xkcd
+- AskReddit
+- funny
+- WritingPrompts
+- aww
+- pics
+- IAmA
+- comics
+- gifs
+- me_irl
+- mildlyinteresting
+- GetMotivated
+- Showerthoughts
+- gaming
+- 2meirl4meirl
+- todayilearned
+- dankmemes
+- MadeMeSmile
+- 4chan
+---

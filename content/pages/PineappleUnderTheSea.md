@@ -1,0 +1,5 @@
+---
+title: PineappleUnderTheSea
+crosslinks:
+- funny
+---

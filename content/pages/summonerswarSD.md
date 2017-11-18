@@ -1,0 +1,5 @@
+---
+title: summonerswarSD
+crosslinks:
+- swart
+---

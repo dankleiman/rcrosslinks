@@ -1,0 +1,5 @@
+---
+title: wagakkiband
+crosslinks:
+- folkmetal
+---

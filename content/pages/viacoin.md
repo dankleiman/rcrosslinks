@@ -1,0 +1,5 @@
+---
+title: viacoin
+crosslinks:
+- CryptoCurrencies
+---

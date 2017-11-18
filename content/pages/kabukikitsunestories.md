@@ -1,0 +1,5 @@
+---
+title: kabukikitsunestories
+crosslinks:
+- TalesFromTheSquadCar
+---

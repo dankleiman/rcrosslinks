@@ -1,0 +1,5 @@
+---
+title: scotcheggs
+crosslinks:
+- Egg
+---

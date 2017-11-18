@@ -1,0 +1,5 @@
+---
+title: automorphs
+crosslinks:
+- hmmm
+---

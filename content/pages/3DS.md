@@ -1,0 +1,24 @@
+---
+title: 3DS
+crosslinks:
+- 3dshacks
+- 3dsFCswap
+- 3DSdeals
+- nintendo
+- pokemon
+- MonsterHunter
+- 3DS_IPS_TN
+- pokemontrades
+- AnimalCrossing
+- NintendoSwitch
+- vita
+- JRPG
+- yokaiwatch
+- EtrianOdyssey
+- Metroid
+- casualnintendo
+- hardwareswap
+- Serendipity
+- Breath_of_the_Wild
+- 3dspiracy
+---

@@ -1,0 +1,5 @@
+---
+title: traditionalist
+crosslinks:
+- autotldr
+---

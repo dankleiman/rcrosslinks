@@ -1,0 +1,5 @@
+---
+title: jacobinmagazine
+crosslinks:
+- autotldr
+---

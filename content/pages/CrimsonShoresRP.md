@@ -1,0 +1,5 @@
+---
+title: CrimsonShoresRP
+crosslinks:
+- swdarktimes
+---

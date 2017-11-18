@@ -1,0 +1,24 @@
+---
+title: datascience
+crosslinks:
+- MachineLearning
+- autotldr
+- statistics
+- Python
+- datasets
+- AskStatistics
+- Serendipity
+- resumes
+- learnpython
+- OMSCS
+- BayesianProgramming
+- cscareerquestions
+- the_donald
+- math
+- Tools
+- ethtrader
+- academiceconomics
+- rstats
+- learnmachinelearning
+- c
+---

@@ -1,0 +1,24 @@
+---
+title: whatsthisrock
+crosslinks:
+- fossilid
+- rockhounds
+- geology
+- whatisthisthing
+- Arrowheads
+- MineralPorn
+- xkcd
+- meteorites
+- pics
+- Minerals
+- Archeology
+- 90sdesign
+- livven
+- itsslag
+- spam
+- Lapidary
+- casualiama
+- Crystals
+- Breadit
+- Whatisthis
+---

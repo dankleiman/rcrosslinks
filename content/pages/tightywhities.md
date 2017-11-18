@@ -1,0 +1,5 @@
+---
+title: tightywhities
+crosslinks:
+- softies
+---

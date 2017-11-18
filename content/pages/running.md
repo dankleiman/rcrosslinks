@@ -1,0 +1,24 @@
+---
+title: running
+crosslinks:
+- AdvancedRunning
+- C25K
+- artc
+- BarefootRunning
+- Fitness
+- trailrunning
+- autotldr
+- travelingsinglet
+- c25k
+- amileaday
+- triathlon
+- xxfitness
+- science
+- RunningWithDogs
+- runninglifestyle
+- loseit
+- socalhiking
+- ABraThatFits
+- pics
+- videos
+---

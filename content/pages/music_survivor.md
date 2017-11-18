@@ -1,0 +1,24 @@
+---
+title: music_survivor
+crosslinks:
+- Kanye
+- indieheads
+- FrankOcean
+- weezer
+- hhh
+- RnBHeads
+- TheStrokes
+- hiphopheads
+- KendrickLamar
+- qotsa
+- Eminem
+- Music
+- DaftPunk
+- arcticmonkeys
+- Jazz
+- ajj
+- mfdoom
+- radiohead
+- Hiphopcirclejerk
+- gorillaz
+---

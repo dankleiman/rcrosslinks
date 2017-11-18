@@ -1,0 +1,5 @@
+---
+title: spss
+crosslinks:
+- statistics
+---

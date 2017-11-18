@@ -1,0 +1,5 @@
+---
+title: collegecooking
+crosslinks:
+- spam
+---

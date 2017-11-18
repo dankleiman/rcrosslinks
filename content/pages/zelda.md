@@ -1,0 +1,24 @@
+---
+title: zelda
+crosslinks:
+- Breath_of_the_Wild
+- truezelda
+- NintendoSwitch
+- livven
+- nintendo
+- gaming
+- AskReddit
+- shitpost
+- Games
+- zelfies
+- WiiUHacks
+- wiiu
+- stevenuniverse
+- cemu
+- IAmA
+- Pixiv
+- speedrun
+- PrequelMemes
+- ProductPorn
+- Gamingcirclejerk
+---

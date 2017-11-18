@@ -1,0 +1,5 @@
+---
+title: Pins
+crosslinks:
+- pingame
+---

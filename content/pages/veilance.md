@@ -1,0 +1,5 @@
+---
+title: veilance
+crosslinks:
+- Outlier
+---

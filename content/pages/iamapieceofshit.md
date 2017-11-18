@@ -1,0 +1,5 @@
+---
+title: iamapieceofshit
+crosslinks:
+- definitelynotrussians
+---

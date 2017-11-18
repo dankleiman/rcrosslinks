@@ -1,0 +1,5 @@
+---
+title: shouldvebeenbernie
+crosslinks:
+- notcirclejerk
+---

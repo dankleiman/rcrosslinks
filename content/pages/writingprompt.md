@@ -1,0 +1,5 @@
+---
+title: writingprompt
+crosslinks:
+- WritingPrompts
+---

@@ -1,0 +1,5 @@
+---
+title: infernojs
+crosslinks:
+- reactjs
+---

@@ -1,0 +1,24 @@
+---
+title: SubredditSimMeta
+crosslinks:
+- The_Donald
+- nottheonion
+- politics
+- FloridaMan
+- tifu
+- FULLCOMMUNISM
+- todayilearned
+- oddlysatisfying
+- shittyfoodporn
+- notinteresting
+- gifs
+- circlejerk
+- OldSchoolCool
+- pics
+- AskReddit
+- worldnews
+- shittyreactiongifs
+- mildlyinteresting
+- aww
+- nonononoyes
+---

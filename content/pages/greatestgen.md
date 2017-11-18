@@ -1,0 +1,24 @@
+---
+title: greatestgen
+crosslinks:
+- startrek
+- autotldr
+- gifs
+- Earwolf
+- StarTrekViewingParty
+- eatsandwiches
+- funny
+- ChargeYourPhone
+- stage9
+- networking
+- scifi
+- HighQualityGifs
+- maximumfun
+- DaystromInstitute
+- mildlyinteresting
+- csshelp
+- UtricksBlog
+- AskReddit
+- xkcd
+- livven
+---

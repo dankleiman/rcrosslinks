@@ -1,0 +1,5 @@
+---
+title: CinematicTrauma
+crosslinks:
+- horror
+---

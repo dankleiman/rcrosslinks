@@ -1,0 +1,24 @@
+---
+title: pcgamingtechsupport
+crosslinks:
+- techsupport
+- pcmasterrace
+- nvidia
+- lowendgaming
+- Steam
+- SuggestALaptop
+- playrust
+- masseffect
+- pcgaming
+- xkcd
+- PUBATTLEGROUNDS
+- Amd
+- FalloutMods
+- ireland
+- cloudygamer
+- wow
+- Piracy
+- FreeGamesOnSteam
+- Tekken
+- Buildapc
+---

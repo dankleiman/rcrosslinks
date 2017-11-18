@@ -1,0 +1,5 @@
+---
+title: rituals
+crosslinks:
+- WTF
+---

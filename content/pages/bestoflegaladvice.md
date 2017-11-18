@@ -1,0 +1,24 @@
+---
+title: bestoflegaladvice
+crosslinks:
+- legaladvice
+- LegalAdviceUK
+- AskReddit
+- relationships
+- personalfinance
+- OutOfTheLoop
+- JUSTNOMIL
+- whatisthisthing
+- Shoplifting
+- askcarsales
+- news
+- houston
+- The_Donald
+- RealEstate
+- legaladviceofftopic
+- TheRedPill
+- talesfromtechsupport
+- MensRights
+- keepcarrollcatholic
+- IAmA
+---

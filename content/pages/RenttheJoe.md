@@ -1,0 +1,5 @@
+---
+title: RenttheJoe
+crosslinks:
+- hockey
+---

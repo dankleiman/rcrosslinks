@@ -1,0 +1,5 @@
+---
+title: Hebrides
+crosslinks:
+- Scotland
+---

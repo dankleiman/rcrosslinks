@@ -1,0 +1,24 @@
+---
+title: ShitPoliticsSays
+crosslinks:
+- politics
+- Shit_SPS_Says
+- The_Donald
+- worldnews
+- LateStageCapitalism
+- Physical_Removal
+- Drama
+- Conservative
+- PoliticalHumor
+- Anarchism
+- news
+- MarchAgainstTrump
+- killthosewhodisagree
+- EnoughTrumpSpam
+- pics
+- Shitstatistssay
+- ShitRConservativeSays
+- Fuckthealtright
+- all
+- BlackPeopleTwitter
+---

@@ -1,0 +1,5 @@
+---
+title: Arbeiterbewegung
+crosslinks:
+- de
+---

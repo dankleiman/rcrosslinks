@@ -1,0 +1,5 @@
+---
+title: DankMusicalMemes
+crosslinks:
+- Patrig
+---

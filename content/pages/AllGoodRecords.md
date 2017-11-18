@@ -1,0 +1,5 @@
+---
+title: AllGoodRecords
+crosslinks:
+- griz
+---

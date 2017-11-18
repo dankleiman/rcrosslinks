@@ -1,0 +1,24 @@
+---
+title: Cricket
+crosslinks:
+- reddit_stream
+- CricketShitpost
+- EIBWT
+- NoParticipation
+- sports
+- IndiaSpeaks
+- OutOfTheLoop
+- india
+- todayilearned
+- pakistan
+- Steve_Smith
+- Che_Pujara
+- videos
+- gifs
+- funny
+- '2013'
+- place
+- indianews
+- highqualitygifs
+- datasets
+---

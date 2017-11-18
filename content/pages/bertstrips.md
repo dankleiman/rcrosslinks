@@ -1,0 +1,24 @@
+---
+title: bertstrips
+crosslinks:
+- livven
+- WholesomeBertstrips
+- me_irl
+- Drama
+- jesuschristreddit
+- Gamingcirclejerk
+- toosoon
+- DankMemeArchive
+- SCPBertstrips
+- shitpost
+- AskOuija
+- SCP
+- titleporn
+- Tendies
+- todayilearned
+- EnoughInternet
+- DeepFriedMemes
+- news
+- television
+- theydidthefuckyou
+---

@@ -1,0 +1,5 @@
+---
+title: SubaruEmbassy
+crosslinks:
+- WRX
+---

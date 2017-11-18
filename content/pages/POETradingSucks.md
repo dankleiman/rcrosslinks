@@ -1,0 +1,5 @@
+---
+title: POETradingSucks
+crosslinks:
+- REEEEEEEEEE
+---

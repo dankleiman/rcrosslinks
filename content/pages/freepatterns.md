@@ -1,0 +1,5 @@
+---
+title: freepatterns
+crosslinks:
+- sewing
+---

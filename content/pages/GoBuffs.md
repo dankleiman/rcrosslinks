@@ -1,0 +1,5 @@
+---
+title: GoBuffs
+crosslinks:
+- golf
+---

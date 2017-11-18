@@ -1,0 +1,5 @@
+---
+title: NintendoUK
+crosslinks:
+- NintendoSwitch
+---

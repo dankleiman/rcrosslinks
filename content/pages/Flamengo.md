@@ -1,0 +1,5 @@
+---
+title: Flamengo
+crosslinks:
+- soccer
+---

@@ -1,0 +1,5 @@
+---
+title: study
+crosslinks:
+- Anki
+---

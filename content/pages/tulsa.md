@@ -1,0 +1,24 @@
+---
+title: tulsa
+crosslinks:
+- autotldr
+- oklahoma
+- xkcd
+- livven
+- cordcutters
+- AskReddit
+- UpliftingNews
+- Cooking
+- gifs
+- Portland
+- shittylegaladvice
+- uverse
+- sex
+- DarkNetMarkets
+- vexillology
+- KeepOurNetFree
+- movies
+- politics
+- technology
+- kansascity
+---

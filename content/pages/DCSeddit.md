@@ -1,0 +1,5 @@
+---
+title: DCSeddit
+crosslinks:
+- seduction
+---

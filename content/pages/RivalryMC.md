@@ -1,0 +1,5 @@
+---
+title: RivalryMC
+crosslinks:
+- arcane
+---

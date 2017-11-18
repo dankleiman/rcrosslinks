@@ -1,0 +1,5 @@
+---
+title: mystory
+crosslinks:
+- gonewildstories
+---

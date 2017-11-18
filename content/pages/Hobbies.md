@@ -1,0 +1,21 @@
+---
+title: Hobbies
+crosslinks:
+- WireWrapping
+- Warhammer40k
+- modelmakers
+- knitting
+- CNC
+- Diecast
+- Aquariums
+- duolingo
+- lego
+- Fishing
+- paracord
+- WritingPrompts
+- AskReddit
+- theocho
+- SketchDaily
+- cs50
+- Kayaking
+---

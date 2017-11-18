@@ -1,0 +1,24 @@
+---
+title: Kayaking
+crosslinks:
+- whitewater
+- livven
+- kayakfishing
+- canoeing
+- Iowa
+- diykayakfishing
+- Rowing
+- Portland
+- MensRights
+- canoecamping
+- dayton
+- Wales
+- NewZanada
+- kayamping
+- aww
+- Wrangler
+- BookCollecting
+- PaddleCalifornia
+- AskReddit
+- Georgia
+---

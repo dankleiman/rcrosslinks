@@ -1,0 +1,24 @@
+---
+title: walmart
+crosslinks:
+- livven
+- autotldr
+- funny
+- Shoplifting
+- WalmartLogistics
+- trashy
+- kroger
+- legal
+- Kentucky
+- ActionFigures
+- peopleofwalmart
+- LateStageCapitalism
+- thinkpad
+- REEEEEEEEEE
+- AskReddit
+- churning
+- OSHA
+- SuggestALaptop
+- Random_Acts_Of_Pizza
+- identity_theft
+---

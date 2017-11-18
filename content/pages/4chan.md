@@ -1,0 +1,24 @@
+---
+title: 4chan
+crosslinks:
+- AskReddit
+- livven
+- IAmA
+- ShrugLifeSyndicate
+- xkcd
+- copypasta
+- The_Donald
+- CringeAnarchy
+- classic4chan
+- funny
+- watchpeopledie
+- place
+- autotldr
+- announcements
+- gaming
+- gifs
+- greentext
+- nottheonion
+- WTF
+- videos
+---

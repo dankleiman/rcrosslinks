@@ -1,0 +1,5 @@
+---
+title: MongolianPolitics
+crosslinks:
+- mongolia
+---

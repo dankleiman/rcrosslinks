@@ -1,0 +1,24 @@
+---
+title: rant
+crosslinks:
+- ShitPoliticsSays
+- SuicideWatch
+- AskReddit
+- The_Donald
+- announcements
+- MGTOW
+- offmychest
+- pcmasterrace
+- Edmonton
+- niceguys
+- OutOfTheLoop
+- AskSocialScience
+- legaladvice
+- WayOfTheBern
+- lostgeneration
+- REEEEEEEEEE
+- vegan
+- ExplainMyDownvotes
+- confession
+- self
+---

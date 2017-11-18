@@ -1,0 +1,5 @@
+---
+title: PosterNews
+crosslinks:
+- Mondo
+---

@@ -1,0 +1,5 @@
+---
+title: aurochs
+crosslinks:
+- autotldr
+---

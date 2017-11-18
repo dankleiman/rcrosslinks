@@ -1,0 +1,5 @@
+---
+title: castration
+crosslinks:
+- cringepics
+---

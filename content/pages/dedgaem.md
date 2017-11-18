@@ -1,0 +1,5 @@
+---
+title: dedgaem
+crosslinks:
+- starcraft
+---

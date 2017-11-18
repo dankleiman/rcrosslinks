@@ -1,0 +1,24 @@
+---
+title: killthosewhodisagree
+crosslinks:
+- Physical_Removal
+- Drama
+- ShitPoliticsSays
+- AskReddit
+- The_Donald
+- gatekeeping
+- LateStageCapitalism
+- ComedyCemetery
+- AskFeminists
+- Anarchism
+- androidcirclejerk
+- PoliticalHumor
+- ShitAmericansSay
+- OopsDidntMeanTo
+- videos
+- FULLCOMMUNISM
+- True_reddit
+- COMPLETEANARCHY
+- japancirclejerk
+- StormfrontorSJW
+---

@@ -1,0 +1,5 @@
+---
+title: kys
+crosslinks:
+- wholesomemes
+---

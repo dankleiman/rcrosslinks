@@ -1,0 +1,5 @@
+---
+title: shooter
+crosslinks:
+- FlashTV
+---

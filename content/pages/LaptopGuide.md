@@ -1,0 +1,5 @@
+---
+title: LaptopGuide
+crosslinks:
+- Dell
+---

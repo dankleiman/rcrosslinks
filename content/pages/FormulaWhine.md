@@ -1,0 +1,5 @@
+---
+title: FormulaWhine
+crosslinks:
+- FormulaArmchairs
+---

@@ -1,0 +1,5 @@
+---
+title: FreeCSGOSkins
+crosslinks:
+- Referrals
+---

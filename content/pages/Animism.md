@@ -1,0 +1,5 @@
+---
+title: Animism
+crosslinks:
+- pagan
+---

@@ -1,0 +1,24 @@
+---
+title: hinduism
+crosslinks:
+- india
+- indianews
+- autotldr
+- Buddhism
+- ABCDesis
+- kriyayoga
+- hindoo
+- truehinduism
+- TheImperialCult
+- Creation
+- livven
+- AskHistorians
+- depression_help
+- AdvaitaVedanta
+- '2012'
+- religion
+- todayilearned
+- taoism
+- OutOfTheLoop
+- sanskrit
+---

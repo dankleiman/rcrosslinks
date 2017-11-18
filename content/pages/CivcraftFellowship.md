@@ -1,0 +1,5 @@
+---
+title: CivcraftFellowship
+crosslinks:
+- civclassics
+---

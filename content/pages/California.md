@@ -1,0 +1,24 @@
+---
+title: California
+crosslinks:
+- unitedstatesofamerica
+- Firearms
+- LosAngeles
+- politics
+- The_Donald
+- Roadcam
+- AskLosAngeles
+- news
+- GunsAreCool
+- AskReddit
+- japan
+- NOWTTYG
+- NotTheOnion
+- trees
+- orangecounty
+- watchpeopledie
+- Sacramento
+- civilengineering
+- childrensactivism
+- canadaguns
+---

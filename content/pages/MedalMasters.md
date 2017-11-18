@@ -1,0 +1,5 @@
+---
+title: MedalMasters
+crosslinks:
+- MedalHeroes
+---

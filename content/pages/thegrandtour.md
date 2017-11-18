@@ -1,0 +1,24 @@
+---
+title: thegrandtour
+crosslinks:
+- TopGear
+- livven
+- AskReddit
+- UKdocumentaries
+- pics
+- waze
+- WTF
+- Autos
+- videos
+- Kanye
+- teslamotors
+- IAmA
+- funny
+- ATBGE
+- notathing
+- gaming
+- maninthehighcastle
+- ShittyMapPorn
+- shittydarksouls
+- carpics
+---

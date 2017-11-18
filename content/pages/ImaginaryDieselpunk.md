@@ -1,0 +1,5 @@
+---
+title: ImaginaryDieselpunk
+crosslinks:
+- ImaginaryAviation
+---

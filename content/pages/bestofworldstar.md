@@ -1,0 +1,22 @@
+---
+title: bestofworldstar
+crosslinks:
+- TheImperialCult
+- NegativeWithGold
+- watchpeopledie
+- StreetFights
+- videos
+- iamversmart
+- whitepeoplegifs
+- islamcirclejerk
+- thisismylifenow
+- mildlysatisfying
+- JusticeServed
+- NotHowDrugsWork
+- BestOfLiveleak
+- Squatfuck
+- washingtondc
+- Drama
+- history
+- SummerReddit
+---

@@ -1,0 +1,24 @@
+---
+title: 49ers
+crosslinks:
+- nfl
+- reddit_stream
+- livven
+- NFL_Draft
+- EvilLeagueOfEvil
+- Redskins
+- nflstreams
+- eagles
+- Seahawks
+- Patriots
+- falcons
+- minnesotavikings
+- detroitlions
+- ImagesOfCalifornia
+- reactiongifs
+- GandSand
+- gifs
+- CHIBears
+- kings
+- place
+---

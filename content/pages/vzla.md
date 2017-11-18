@@ -1,0 +1,24 @@
+---
+title: vzla
+crosslinks:
+- autotldr
+- tippr
+- podemos
+- socialism
+- worldnews
+- pics
+- BrasilOnReddit
+- The_Donald
+- arepas
+- ZuliaMan
+- mexico
+- shitsocialismsays
+- venezuelancivilwar
+- Amd
+- pa
+- Bitcoin
+- argentina
+- redditores
+- FreeGamesOnSteam
+- AskReddit
+---

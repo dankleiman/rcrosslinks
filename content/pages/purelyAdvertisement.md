@@ -1,0 +1,5 @@
+---
+title: purelyAdvertisement
+crosslinks:
+- SuggestALaptop
+---

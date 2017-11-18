@@ -1,0 +1,5 @@
+---
+title: Ipsy
+crosslinks:
+- BeautyBoxes
+---

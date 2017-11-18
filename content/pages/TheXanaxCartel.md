@@ -1,0 +1,24 @@
+---
+title: TheXanaxCartel
+crosslinks:
+- DarkNetMarkets
+- DankNation
+- AlphaBayMarket
+- BartardNation
+- DNMUK
+- Bitcoin
+- AgMarketplace
+- cocaine
+- TheDarknetGateway
+- Stims
+- Drugs
+- yishan
+- Etizolam
+- TheXanxaCartel
+- opiates
+- TheBeginnerCartel
+- DNM_MEMES
+- Xanaxcartel
+- NoGovernmentSpying
+- SilkRoad
+---

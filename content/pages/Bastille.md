@@ -1,0 +1,5 @@
+---
+title: Bastille
+crosslinks:
+- Music
+---

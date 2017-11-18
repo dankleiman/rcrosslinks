@@ -1,0 +1,5 @@
+---
+title: DuelingCorner
+crosslinks:
+- TotalReddit
+---

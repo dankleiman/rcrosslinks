@@ -1,0 +1,5 @@
+---
+title: Renji
+crosslinks:
+- BleachBraveSouls
+---

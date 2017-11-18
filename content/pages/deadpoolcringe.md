@@ -1,0 +1,5 @@
+---
+title: deadpoolcringe
+crosslinks:
+- deadpool
+---

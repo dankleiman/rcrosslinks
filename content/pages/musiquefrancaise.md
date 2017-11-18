@@ -1,0 +1,5 @@
+---
+title: musiquefrancaise
+crosslinks:
+- france
+---

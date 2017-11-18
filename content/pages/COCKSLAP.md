@@ -1,0 +1,5 @@
+---
+title: COCKSLAP
+crosslinks:
+- livven
+---

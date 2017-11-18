@@ -1,0 +1,5 @@
+---
+title: TNLeft
+crosslinks:
+- technology
+---

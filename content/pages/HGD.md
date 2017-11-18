@@ -1,0 +1,5 @@
+---
+title: HGD
+crosslinks:
+- conspiracy
+---

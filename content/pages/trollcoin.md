@@ -1,0 +1,5 @@
+---
+title: trollcoin
+crosslinks:
+- CryptoCurrency
+---

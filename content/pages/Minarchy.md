@@ -1,0 +1,5 @@
+---
+title: Minarchy
+crosslinks:
+- autotldr
+---

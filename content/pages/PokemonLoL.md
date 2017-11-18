@@ -1,0 +1,5 @@
+---
+title: PokemonLoL
+crosslinks:
+- asoiaf
+---

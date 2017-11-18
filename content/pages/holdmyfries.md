@@ -1,0 +1,24 @@
+---
+title: holdmyfries
+crosslinks:
+- livven
+- Drama
+- holdmycosmo
+- todayilearned
+- UnethicalLifeProTips
+- WhyWereTheyFilming
+- science
+- AskReddit
+- pussypassdenied
+- ShitRedditSays
+- HoldMyWeave
+- Whatcouldgowrong
+- loseit
+- HMF
+- gifs
+- gifsthatendtoosoon
+- sadcringe
+- AdiposeAmigos
+- gatekeeping
+- noisygifs
+---

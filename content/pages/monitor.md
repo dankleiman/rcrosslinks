@@ -1,0 +1,5 @@
+---
+title: monitor
+crosslinks:
+- YourgamingMonitors
+---

@@ -1,0 +1,24 @@
+---
+title: GCdebatesQT
+crosslinks:
+- asktransgender
+- GenderCritical
+- GenderCynical
+- traaaaaaannnnnnnnnns
+- SampleSize
+- Drama
+- slatestarcodex
+- xkcd
+- transgendercirclejerk
+- MtF
+- Gender_Critical
+- AskHistorians
+- anarcha
+- changemyview
+- TheRedPill
+- AskReddit
+- science
+- TrueOtherkin
+- SlutJustice
+- transgender
+---

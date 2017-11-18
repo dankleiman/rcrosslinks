@@ -1,0 +1,24 @@
+---
+title: churning
+crosslinks:
+- awardtravel
+- shittychurning
+- personalfinance
+- AskReddit
+- churningcanada
+- autotldr
+- ChurningATL
+- CreditCards
+- hardcorechurning
+- videos
+- explainlikeimfive
+- Frugal
+- xkcd
+- LifeProTips
+- funny
+- todayilearned
+- IAmA
+- worldnews
+- mildlyinteresting
+- news
+---

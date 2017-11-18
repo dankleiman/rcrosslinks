@@ -1,0 +1,5 @@
+---
+title: acrylics
+crosslinks:
+- painting
+---

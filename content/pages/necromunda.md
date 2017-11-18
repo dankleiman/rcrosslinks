@@ -1,0 +1,5 @@
+---
+title: necromunda
+crosslinks:
+- ShadowWarArmageddon
+---

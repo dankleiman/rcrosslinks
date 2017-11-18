@@ -1,0 +1,24 @@
+---
+title: HouseOfCards
+crosslinks:
+- livven
+- FuckTammy
+- The_Donald
+- unexpectedhogwarts
+- ShitPoliticsSays
+- arrow
+- fuckolly
+- todayilearned
+- plotholes
+- gatekeeping
+- ManInTheHighCastle
+- NavyBlazer
+- firefly
+- Sherlock
+- JohnCena
+- FlashTV
+- dutchshitonreddit
+- Eggplantfree
+- AgainstKarmaWhores
+- Enough_Sanders_Spam
+---

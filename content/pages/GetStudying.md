@@ -1,0 +1,24 @@
+---
+title: GetStudying
+crosslinks:
+- GetMotivated
+- math
+- getdisciplined
+- simonfraser
+- theXeffect
+- LifeProTips
+- Foodforthought
+- MusicForConcentration
+- GED
+- AskReddit
+- dailyprogrammer
+- studytips
+- nursing
+- adhd
+- animewasamistake
+- YouShouldKnow
+- Korean
+- 3DS
+- OCD
+- selfimprovement
+---

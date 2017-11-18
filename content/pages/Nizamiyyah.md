@@ -1,0 +1,5 @@
+---
+title: Nizamiyyah
+crosslinks:
+- islam
+---

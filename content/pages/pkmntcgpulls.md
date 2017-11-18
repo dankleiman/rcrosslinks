@@ -1,0 +1,5 @@
+---
+title: pkmntcgpulls
+crosslinks:
+- pkmntcgcollections
+---

@@ -1,0 +1,5 @@
+---
+title: PublicCivility
+crosslinks:
+- cringe
+---

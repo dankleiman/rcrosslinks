@@ -1,0 +1,5 @@
+---
+title: teachphilosophy
+crosslinks:
+- OutOfTheLoop
+---

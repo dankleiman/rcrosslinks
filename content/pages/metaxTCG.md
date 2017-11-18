@@ -1,0 +1,5 @@
+---
+title: metaxTCG
+crosslinks:
+- tcgcollecting
+---

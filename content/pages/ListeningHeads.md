@@ -1,0 +1,24 @@
+---
+title: ListeningHeads
+crosslinks:
+- indieheads
+- popheads
+- hiphopheads
+- Music
+- gamerghazi
+- FrankOcean
+- TuneClash
+- Kanye
+- JulienBaker
+- KendrickLamar
+- hhh
+- fantanoforever
+- Broadway
+- IAmA
+- trueindieheads
+- Emo
+- iglooghost
+- FULLCOMMUNISM
+- Metal
+- AskReddit
+---

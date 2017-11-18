@@ -1,0 +1,24 @@
+---
+title: emacs
+crosslinks:
+- ShadowBan
+- unixporn
+- orgmode
+- xkcd
+- vim
+- programming
+- git
+- rust
+- guile
+- linux
+- Clojure
+- lisp
+- Python
+- remacs
+- gatekeeping
+- xmonad
+- RelayForReddit
+- sysadmin
+- PHP
+- javascript
+---

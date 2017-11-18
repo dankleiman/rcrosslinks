@@ -1,0 +1,24 @@
+---
+title: aws
+crosslinks:
+- autotldr
+- xkcd
+- sysadmin
+- learnprogramming
+- DevelEire
+- rust
+- Serendipity
+- sonatype
+- devel
+- apache
+- Cisco
+- PHP
+- DataHoarder
+- CrappyDesign
+- salesengineers
+- learnpython
+- gifs
+- alicloud
+- worldnews
+- lostgeneration
+---

@@ -1,0 +1,5 @@
+---
+title: CanadaHunting
+crosslinks:
+- Hunting
+---

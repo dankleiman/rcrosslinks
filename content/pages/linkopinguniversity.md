@@ -1,0 +1,5 @@
+---
+title: linkopinguniversity
+crosslinks:
+- pettyrevenge
+---

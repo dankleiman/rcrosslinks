@@ -1,0 +1,5 @@
+---
+title: dmd
+crosslinks:
+- litecoin
+---

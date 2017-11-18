@@ -1,0 +1,24 @@
+---
+title: Drugs
+crosslinks:
+- ReagentTesting
+- LSD
+- researchchemicals
+- Stims
+- SuicideWatch
+- goodlongposts
+- Nootropics
+- opiates
+- Psychonaut
+- Borax
+- MDMA
+- AskReddit
+- trees
+- drugscirclejerk
+- IAmA
+- DMT
+- DrugNerds
+- ShrugLifeSyndicate
+- Drama
+- DrugsOver30
+---

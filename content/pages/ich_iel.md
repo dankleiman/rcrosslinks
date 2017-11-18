@@ -1,0 +1,24 @@
+---
+title: ich_iel
+crosslinks:
+- de
+- Kopiernudeln
+- livven
+- deOhneRegeln
+- VeganDE
+- surrealmemes
+- coaxedintoasnafu
+- germantrees
+- jag_ivl
+- ik_ihe
+- Austria
+- zuerich_iel
+- wohltuendemaimais
+- misophonia
+- Switzerland
+- hmmm
+- KarmaCourt
+- kopiernudeln
+- FragReddit
+- sweden
+---

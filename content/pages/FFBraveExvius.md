@@ -1,0 +1,24 @@
+---
+title: FFBraveExvius
+crosslinks:
+- FFRecordKeeper
+- summonerswar
+- xkcd
+- noxappplayer
+- ffxiv
+- alchemistexistance
+- hearthstone
+- help
+- OutOfTheLoop
+- Games
+- GameDeals
+- FinalFantasy
+- outside
+- nier
+- funny
+- raerth
+- im14andthisisdeep
+- pitchforkemporium
+- PuzzleAndDragons
+- grandorder
+---

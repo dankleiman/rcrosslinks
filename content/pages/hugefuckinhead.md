@@ -1,0 +1,5 @@
+---
+title: hugefuckinhead
+crosslinks:
+- CrappyDesign
+---

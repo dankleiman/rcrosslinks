@@ -1,0 +1,5 @@
+---
+title: travelingsinglet
+crosslinks:
+- running
+---

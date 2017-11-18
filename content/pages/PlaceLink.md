@@ -1,0 +1,5 @@
+---
+title: PlaceLink
+crosslinks:
+- place
+---

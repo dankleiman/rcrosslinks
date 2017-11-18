@@ -1,0 +1,24 @@
+---
+title: askphilosophy
+crosslinks:
+- AskPhilosophyFAQ
+- philosophy
+- Plato
+- AskHistorians
+- changemyview
+- ExistentialChristian
+- AskSocialScience
+- askscience
+- marxism_101
+- GermanIdealism
+- HistoryofIdeas
+- AWLIAS
+- askpsychology
+- AcademicPhilosophy
+- logic
+- AIethics
+- AskReddit
+- EffectiveAltruism
+- todayilearned
+- JordanPeterson
+---

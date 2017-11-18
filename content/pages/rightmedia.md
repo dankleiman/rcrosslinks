@@ -1,0 +1,5 @@
+---
+title: rightmedia
+crosslinks:
+- autotldr
+---

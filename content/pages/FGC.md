@@ -1,0 +1,5 @@
+---
+title: FGC
+crosslinks:
+- StreetFighter
+---

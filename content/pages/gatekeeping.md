@@ -1,0 +1,24 @@
+---
+title: gatekeeping
+crosslinks:
+- xkcd
+- childfree
+- lewronggeneration
+- Metal
+- vegan
+- AskReddit
+- ComedyCemetery
+- Incels
+- pics
+- LateStageCapitalism
+- niceguys
+- nocontext
+- ihavesex
+- copypasta
+- iamverysmart
+- killthosewhodisagree
+- CringeAnarchy
+- OutOfTheLoop
+- fatlogic
+- ShitTheFalseSay
+---

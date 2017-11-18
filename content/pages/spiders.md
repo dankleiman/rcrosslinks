@@ -1,0 +1,24 @@
+---
+title: spiders
+crosslinks:
+- livven
+- tarantulas
+- wholesomememes
+- autotldr
+- NatureIsFuckingLit
+- AssistedLiving
+- NatureGifs
+- MacroPorn
+- hitmanimals
+- gardening
+- whatsthisspider
+- whatisthisthing
+- funny
+- Aquariums
+- awwnverts
+- Watches
+- JumpingKaren
+- WTF
+- mildlyinteresting
+- Whatisthis
+---

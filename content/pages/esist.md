@@ -1,0 +1,24 @@
+---
+title: esist
+crosslinks:
+- politics
+- autotldr
+- EnoughTrumpSpam
+- NeutralPolitics
+- conspiracy
+- Political_Revolution
+- worldnews
+- xkcd
+- TrumpInvestigation
+- The_Donald
+- ShitThe_DonaldSays
+- BlueMidterm2018
+- news
+- AntiTrumpAlliance
+- MarchAgainstTrump
+- Physical_Removal
+- AskTrumpSupporters
+- Trumpgret
+- PoliticalHumor
+- technology
+---

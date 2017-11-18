@@ -1,0 +1,5 @@
+---
+title: NSFWCaptions
+crosslinks:
+- Hotwifecaption
+---

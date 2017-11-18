@@ -1,0 +1,5 @@
+---
+title: electronicarts
+crosslinks:
+- EAStudios
+---

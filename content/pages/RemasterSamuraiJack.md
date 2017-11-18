@@ -1,0 +1,5 @@
+---
+title: RemasterSamuraiJack
+crosslinks:
+- samuraijack
+---

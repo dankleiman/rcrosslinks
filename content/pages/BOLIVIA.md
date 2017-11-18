@@ -1,0 +1,5 @@
+---
+title: BOLIVIA
+crosslinks:
+- worldpolitics
+---

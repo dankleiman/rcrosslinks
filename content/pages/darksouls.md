@@ -1,0 +1,24 @@
+---
+title: darksouls
+crosslinks:
+- darksouls3
+- DarkSouls2
+- shittydarksouls
+- snuggly
+- gaming
+- ProtectorsofPriscilla
+- DarkSoulsHelp
+- dadsouls
+- demonssouls
+- SummonSign
+- DarkSoulsMods
+- pcgaming
+- placestart
+- TwoBestFriendsPlay
+- sagesgrandarchives
+- techsupport
+- TheBlueCorner
+- PrequelMemes
+- darksoulspvp
+- copypasta
+---

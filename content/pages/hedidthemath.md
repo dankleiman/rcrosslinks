@@ -1,0 +1,5 @@
+---
+title: hedidthemath
+crosslinks:
+- science
+---

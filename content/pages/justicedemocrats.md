@@ -1,0 +1,24 @@
+---
+title: justicedemocrats
+crosslinks:
+- autotldr
+- Enough_Sanders_Spam
+- WayOfTheBern
+- Kossacks_for_Sanders
+- BlueMidterm2018
+- SandersForPresident
+- Political_Revolution
+- AMAAggregator
+- GGFreeForAll
+- hillaryclinton
+- MedicareForAll
+- EnoughTrumpSpam
+- Anarchy101
+- AdviceAnimals
+- USUnited
+- the_donald
+- NewOrleans
+- JusticeParty
+- politics
+- OurPresident
+---

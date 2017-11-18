@@ -1,0 +1,5 @@
+---
+title: AlcoholGifRecipes
+crosslinks:
+- GifRecipes
+---

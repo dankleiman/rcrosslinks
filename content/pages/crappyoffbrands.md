@@ -1,0 +1,24 @@
+---
+title: crappyoffbrands
+crosslinks:
+- coaxedintoasnafu
+- funny
+- nocontext
+- engrish
+- appstorearttheft
+- IsItButter
+- furry_irl
+- CrappyDesign
+- gaming
+- SuperiorOffBrands
+- xkcd
+- WackyTicTacs
+- todayilearned
+- AwesomeOffBrands
+- ofcoursethatsathing
+- MinionHate
+- DonutSteel
+- surrealmemes
+- mildlyinteresting
+- me_irl
+---

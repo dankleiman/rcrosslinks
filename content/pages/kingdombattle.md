@@ -1,0 +1,5 @@
+---
+title: kingdombattle
+crosslinks:
+- gaming
+---

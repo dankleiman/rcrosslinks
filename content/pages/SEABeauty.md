@@ -1,0 +1,5 @@
+---
+title: SEABeauty
+crosslinks:
+- AsianBeauty
+---

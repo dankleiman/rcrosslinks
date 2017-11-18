@@ -1,0 +1,24 @@
+---
+title: FantasyPL
+crosslinks:
+- soccer
+- fpldraft
+- reddevils
+- FIFAFPL
+- soccerstreams
+- DraftEPL
+- coys
+- SaintsFC
+- FantasyCL
+- fpl
+- Gunners
+- MCFC
+- livven
+- Hammers
+- AMAAggregator
+- metric_units
+- LiverpoolFC
+- AskReddit
+- Eliteserienfantasy
+- chelseafc
+---

@@ -1,0 +1,24 @@
+---
+title: singapore
+crosslinks:
+- autotldr
+- AskReddit
+- malaysia
+- AsianBeauty
+- IAmA
+- Yishun
+- nosleep
+- xkcd
+- explainlikeimfive
+- worldnews
+- askSingapore
+- shittysunsets
+- China
+- todayilearned
+- hapas
+- funny
+- AsianParentStories
+- anime
+- legaladvice
+- HelloInternet
+---

@@ -1,0 +1,5 @@
+---
+title: SpaceCompany
+crosslinks:
+- l
+---

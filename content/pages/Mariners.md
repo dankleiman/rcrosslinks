@@ -1,0 +1,24 @@
+---
+title: Mariners
+crosslinks:
+- nfl
+- '2013'
+- AskReddit
+- EdwinDiaz
+- funny
+- Seahawks
+- mildlyinteresting
+- Seattle
+- livven
+- '1277397'
+- phillies
+- copypasta
+- Cardinals
+- IAmA
+- xkcd
+- letsgofish
+- KCRoyals
+- Dodgers
+- KansasCityChiefs
+- MLBDraft
+---

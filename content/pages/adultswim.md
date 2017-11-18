@@ -1,0 +1,22 @@
+---
+title: adultswim
+crosslinks:
+- Toonami
+- autotldr
+- samuraijack
+- milliondollarextreme
+- 12ozmouse
+- videos
+- copypasta
+- President
+- Serendipity
+- megalinks
+- SurveillanceSolutions
+- SquaredCircle
+- delusionalartists
+- rickandmorty
+- Foodfight
+- TimAndEric
+- simpsonsdidit
+- indieheads
+---

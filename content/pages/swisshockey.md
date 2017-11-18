@@ -1,0 +1,5 @@
+---
+title: swisshockey
+crosslinks:
+- hockey
+---

@@ -1,0 +1,24 @@
+---
+title: ArchitecturePorn
+crosslinks:
+- PornOverlords
+- Lost_Architecture
+- pics
+- norwayonreddit
+- AccidentalWesAnderson
+- GeometryIsNeat
+- ExplorePakistan
+- DesignPorn
+- architecture
+- AerialPorn
+- fakehistoryporn
+- solarpunk
+- FoodPorn
+- BrasilOnReddit
+- ArtDeco
+- london
+- IndiaMain
+- livven
+- ArchitectureVids
+- europe
+---

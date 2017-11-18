@@ -1,0 +1,5 @@
+---
+title: deepstyle
+crosslinks:
+- ColorizedHistory
+---

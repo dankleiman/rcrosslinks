@@ -1,0 +1,24 @@
+---
+title: TheWire
+crosslinks:
+- IAmA
+- autotldr
+- livven
+- xkcd
+- FanTheories
+- todayilearned
+- reactiongifs
+- thewalkingdead
+- LearnUselessTalents
+- ShitAmericansSay
+- thesopranos
+- OutOfTheLoop
+- TrueDetective
+- keming
+- Serendipity
+- TheDeuceHBO
+- Stargate
+- television
+- harrypotter
+- fuckimold
+---

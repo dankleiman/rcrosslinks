@@ -1,0 +1,24 @@
+---
+title: ArtisanVideos
+crosslinks:
+- woodworking
+- videos
+- xkcd
+- restofthefuckingowl
+- homestead
+- chefknives
+- iamveryculinary
+- DIY
+- IAmA
+- gameofthrones
+- todayilearned
+- gatekeeping
+- explainlikeimfive
+- synthesizers
+- livven
+- mealtimevideos
+- goodyearwelt
+- cardistry
+- VideosWithoutSpeech
+- AskReddit
+---

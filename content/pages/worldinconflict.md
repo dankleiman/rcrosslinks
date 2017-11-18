@@ -1,0 +1,5 @@
+---
+title: worldinconflict
+crosslinks:
+- Massgate
+---

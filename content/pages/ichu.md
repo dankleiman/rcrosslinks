@@ -1,0 +1,5 @@
+---
+title: ichu
+crosslinks:
+- hearthstone
+---

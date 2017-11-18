@@ -1,0 +1,24 @@
+---
+title: Physical_Removal
+crosslinks:
+- The_Donald
+- Anarchism
+- Anarcho_Capitalism
+- zeronet
+- GoldandBlack
+- ShitPoliticsSays
+- conspiracy
+- EnoughCommieSpam
+- LateStageCapitalism
+- EnoughAntifaSpam
+- SocialistRA
+- AMAAggregator
+- news
+- CapitalismVSocialism
+- TopMindsOfReddit
+- livven
+- BestofPR
+- socialism
+- COMPLETEANARCHY
+- CommunistPedosexuals
+---

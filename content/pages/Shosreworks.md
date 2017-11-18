@@ -1,0 +1,5 @@
+---
+title: Shosreworks
+crosslinks:
+- Warframe
+---

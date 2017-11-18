@@ -1,0 +1,5 @@
+---
+title: ColossusCoin
+crosslinks:
+- ColossuscoinX
+---

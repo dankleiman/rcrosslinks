@@ -1,0 +1,5 @@
+---
+title: MaleRape
+crosslinks:
+- MenGetRapedToo
+---

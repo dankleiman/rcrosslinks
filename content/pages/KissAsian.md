@@ -1,0 +1,5 @@
+---
+title: KissAsian
+crosslinks:
+- KissCartoon
+---

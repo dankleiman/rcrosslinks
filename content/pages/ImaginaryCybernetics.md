@@ -1,0 +1,5 @@
+---
+title: ImaginaryCybernetics
+crosslinks:
+- ImaginaryScience
+---

@@ -1,0 +1,5 @@
+---
+title: ChampionMains
+crosslinks:
+- zedmains
+---

@@ -1,0 +1,24 @@
+---
+title: CrusaderKings
+crosslinks:
+- ShitCrusaderKingsSay
+- paradoxplaza
+- AskHistorians
+- eu4
+- place
+- nocontext
+- CK2GameOfthrones
+- PrequelMemes
+- aftertheendckii
+- CKCrusaders
+- paradoxpolitics
+- AskReddit
+- livven
+- dwarffortress
+- xkcd
+- Suomi
+- Catholicism
+- hfy
+- shitcrusaderkingssay
+- Stellaris
+---

@@ -1,0 +1,23 @@
+---
+title: udub
+crosslinks:
+- SeattleWA
+- xkcd
+- place
+- livven
+- videos
+- drama
+- NationalSocialism
+- funny
+- explainlikeimjive
+- canigetintouwcse
+- gatekeeping
+- autotldr
+- ApplyingToCollege
+- evergreenstate
+- Purdue
+- explainlikeimfive
+- Drama
+- NeutralPolitics
+- Seattle
+---

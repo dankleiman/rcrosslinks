@@ -1,0 +1,5 @@
+---
+title: Vyvanse
+crosslinks:
+- ADHD
+---

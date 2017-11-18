@@ -1,0 +1,5 @@
+---
+title: Pinochet
+crosslinks:
+- EnoughTrumpSpam
+---

@@ -1,0 +1,5 @@
+---
+title: Daigod
+crosslinks:
+- AMAAggregator
+---

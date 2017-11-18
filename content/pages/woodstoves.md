@@ -1,0 +1,5 @@
+---
+title: woodstoves
+crosslinks:
+- woodstoving
+---

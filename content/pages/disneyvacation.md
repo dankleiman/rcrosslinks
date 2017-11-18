@@ -1,0 +1,24 @@
+---
+title: disneyvacation
+crosslinks:
+- furry_irl
+- CrappyDesign
+- AskReddit
+- unexpectedoverwatch
+- weirdwikihow
+- wikiwhat
+- MemeEconomy
+- UnexpectedDeathNote
+- COMPLETEANARCHY
+- WTF
+- evenwithcontext
+- TooMeIrlForMeIrl
+- yiff
+- IsThisADonkey
+- UnexpectedOuija
+- traps
+- IAmA
+- disney
+- JamesBond
+- THE_PACK
+---

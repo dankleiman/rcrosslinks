@@ -1,0 +1,5 @@
+---
+title: necrophilia
+crosslinks:
+- EnoughInternet
+---

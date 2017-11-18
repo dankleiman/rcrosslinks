@@ -1,0 +1,24 @@
+---
+title: Paranormal
+crosslinks:
+- AskReddit
+- Glitch_in_the_Matrix
+- nosleep
+- Humanoidencounters
+- Thetruthishere
+- Ghosts
+- skinwalkers
+- Missing411
+- Psychic
+- DemonExperiences
+- TrueChristian
+- occult
+- explainlikeimfive
+- Sleepparalysis
+- NDE
+- AskAstrologers
+- GlitchInTheMatrix
+- legaladvice
+- AncientAliens
+- Cryptozoology
+---

@@ -1,0 +1,5 @@
+---
+title: spicymemes
+crosslinks:
+- funny
+---

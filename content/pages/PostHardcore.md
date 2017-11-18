@@ -1,0 +1,24 @@
+---
+title: PostHardcore
+crosslinks:
+- Metalcore
+- poppunkers
+- MelodicDeathMetal
+- corejerk
+- Emo
+- NuMetal
+- dancegavindance
+- skrillex
+- mathrock
+- Metal
+- posthardcorepunk
+- letlive
+- SuicideWatch
+- EnterShikari
+- Screamo
+- AskReddit
+- explainlikeimfive
+- Serendipity
+- gatekeeping
+- metalcore
+---

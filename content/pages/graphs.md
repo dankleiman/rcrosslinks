@@ -1,0 +1,5 @@
+---
+title: graphs
+crosslinks:
+- redditscripting
+---

@@ -1,0 +1,24 @@
+---
+title: festivals
+crosslinks:
+- Coachella
+- ElectricForest
+- OregonEclipse
+- Tipper
+- electricdaisycarnival
+- dashpay
+- MoonriseMusicFestival
+- VoodooFest
+- TheSimpsons
+- croatia
+- EDM
+- ssmf
+- BassCoast
+- LLMF
+- summercampfest
+- movies
+- explainlikeimfive
+- IAmA
+- hulaween
+- SoCalR4R
+---

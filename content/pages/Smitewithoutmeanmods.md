@@ -1,0 +1,5 @@
+---
+title: Smitewithoutmeanmods
+crosslinks:
+- Smite
+---

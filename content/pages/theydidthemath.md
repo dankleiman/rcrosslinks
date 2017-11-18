@@ -1,0 +1,24 @@
+---
+title: theydidthemath
+crosslinks:
+- livven
+- xkcd
+- theydidntdothemath
+- askscience
+- AskReddit
+- nocontext
+- funny
+- pics
+- shittyaskscience
+- askmath
+- todayilearned
+- Frugal_Jerk
+- mildlyinteresting
+- woahdude
+- vegan
+- theydidtheresearch
+- excgarated
+- Showerthoughts
+- LateStageCapitalism
+- videos
+---

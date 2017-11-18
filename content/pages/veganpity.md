@@ -1,0 +1,5 @@
+---
+title: veganpity
+crosslinks:
+- BurningMan
+---

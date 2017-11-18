@@ -1,0 +1,5 @@
+---
+title: classicyoutube
+crosslinks:
+- drums
+---

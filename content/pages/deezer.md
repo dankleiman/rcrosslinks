@@ -1,0 +1,5 @@
+---
+title: deezer
+crosslinks:
+- windows
+---

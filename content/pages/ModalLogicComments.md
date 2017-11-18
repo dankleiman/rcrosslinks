@@ -1,0 +1,24 @@
+---
+title: ModalLogicComments
+crosslinks:
+- askphilosophy
+- logic
+- math
+- AskReddit
+- dankchristianmemes
+- philosophy
+- atheism
+- askmath
+- slatestarcodex
+- The_Donald
+- programming
+- haskell
+- iamverysmart
+- Drama
+- matheducation
+- CapitalismVSocialism
+- Christianity
+- programmingcirclejerk
+- facepalm
+- Anarchism
+---

@@ -1,0 +1,5 @@
+---
+title: reddead
+crosslinks:
+- Games
+---

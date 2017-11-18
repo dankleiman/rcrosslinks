@@ -1,0 +1,5 @@
+---
+title: LindnerWichsvorlagen
+crosslinks:
+- de
+---

@@ -1,0 +1,24 @@
+---
+title: Winnipeg
+crosslinks:
+- autotldr
+- worldnews
+- onguardforthee
+- xkcd
+- winnipegjets
+- LateStageCapitalism
+- place
+- canada
+- MGTOW
+- IAmA
+- '2013'
+- AskReddit
+- movies
+- retrocomputing
+- wediditreddit
+- relationships
+- PersonalFinanceCanada
+- Jets
+- Calgary
+- CanadaPolitics
+---

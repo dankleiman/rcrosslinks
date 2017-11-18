@@ -1,0 +1,24 @@
+---
+title: ImagesOfNewMexico
+crosslinks:
+- EarthPorn
+- pics
+- imagesofnetwork
+- tattoos
+- itookapicture
+- whatsthisplant
+- mildlyinteresting
+- SkyPorn
+- TrainPorn
+- CampingandHiking
+- whatisthisthing
+- OldSchoolCool
+- analog
+- aww
+- skiing
+- PKGOAtlanta
+- spiders
+- funny
+- hiking
+- Fishing
+---

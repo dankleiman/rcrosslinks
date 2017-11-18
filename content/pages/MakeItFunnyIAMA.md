@@ -1,0 +1,5 @@
+---
+title: MakeItFunnyIAMA
+crosslinks:
+- AMAAggregator
+---

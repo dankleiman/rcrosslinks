@@ -1,0 +1,21 @@
+---
+title: Instagram
+crosslinks:
+- hiking
+- autotldr
+- Serendipity
+- me_irl
+- itookapicture
+- minimalism
+- naturepics
+- IAmA
+- motorcycles
+- livven
+- Suomi
+- findareddit
+- help
+- learnprogramming
+- androidapps
+- AMAAggregator
+- photocritique
+---

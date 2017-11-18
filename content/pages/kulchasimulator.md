@@ -1,0 +1,24 @@
+---
+title: kulchasimulator
+crosslinks:
+- TweetPoster
+- kolkata
+- india
+- russian
+- atheismindia
+- atheism
+- IndiaSpeaks
+- indianews
+- autotldr
+- livven
+- hinduism
+- ShitAmericansSay
+- languagelearning
+- Vore
+- KotakuInAction
+- ATBGE
+- unnecessaryhypeman
+- IndiaMain
+- Ooer
+- theydidthemaths
+---

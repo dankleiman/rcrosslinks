@@ -1,0 +1,5 @@
+---
+title: trolleyproblem
+crosslinks:
+- misanthropy
+---

@@ -1,0 +1,5 @@
+---
+title: AcidRock
+crosslinks:
+- MetalPlaylists
+---

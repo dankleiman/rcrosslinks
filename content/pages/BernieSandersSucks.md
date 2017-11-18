@@ -1,0 +1,5 @@
+---
+title: BernieSandersSucks
+crosslinks:
+- quotes
+---

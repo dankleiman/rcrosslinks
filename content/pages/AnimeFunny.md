@@ -1,0 +1,5 @@
+---
+title: AnimeFunny
+crosslinks:
+- livven
+---

@@ -1,0 +1,24 @@
+---
+title: riverdale
+crosslinks:
+- FlashTV
+- arrow
+- livven
+- wow
+- iamversmart
+- autotldr
+- TerrariumTV
+- AnimalCrossing
+- nosleep
+- halifax
+- PrettyLittleLiars
+- lilireinhart
+- glee
+- fansofriverdale
+- rupaulsdragrace
+- PhotoshopRequest
+- SuicideBereavement
+- elinternado
+- funkopop
+- archiecomics
+---

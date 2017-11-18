@@ -1,0 +1,24 @@
+---
+title: Punny
+crosslinks:
+- funny
+- WorstPuns
+- ShittyAnimalFacts
+- puns
+- me_irl
+- AskReddit
+- WordAvalanches
+- Jokes
+- youdontsurf
+- niceguys
+- gaming
+- thingsforants
+- HailCorporate
+- comics
+- BrasilOnReddit
+- UnnecessaryQuotes
+- EmpireDidNothingWrong
+- gardening
+- drunk
+- FunnyandSad
+---

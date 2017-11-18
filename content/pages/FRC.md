@@ -1,0 +1,24 @@
+---
+title: FRC
+crosslinks:
+- livven
+- FTC
+- xkcd
+- place
+- gwent
+- ProgrammerHumor
+- frcmemes
+- gaming
+- CrusaderKings
+- techsupportgore
+- gangstaswithwaifus
+- south
+- ScenesFromAHat
+- politics
+- '4519'
+- titanfall
+- Kevin
+- ShittyLifeProTips
+- autotldr
+- SequelMemes
+---

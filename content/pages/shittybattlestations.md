@@ -1,0 +1,23 @@
+---
+title: shittybattlestations
+crosslinks:
+- AverageBattlestations
+- sffpc
+- nosleep
+- LaptopOnDesk
+- Battletops
+- G502MasterRace
+- 2007scape
+- todayilearned
+- wallpaperdump
+- lanparty
+- themountaingoats
+- me_irl
+- Rainmeter
+- techsupportmacgyver
+- pcmasterrace
+- workstations
+- copypasta
+- factorio
+- wallpapers
+---

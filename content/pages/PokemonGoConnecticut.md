@@ -1,0 +1,5 @@
+---
+title: PokemonGoConnecticut
+crosslinks:
+- TheSilphRoad
+---

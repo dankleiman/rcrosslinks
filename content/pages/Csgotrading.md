@@ -1,0 +1,5 @@
+---
+title: Csgotrading
+crosslinks:
+- GOTradeReport
+---

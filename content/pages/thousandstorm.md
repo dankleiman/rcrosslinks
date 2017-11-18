@@ -1,0 +1,5 @@
+---
+title: thousandstorm
+crosslinks:
+- OnePieceTC
+---

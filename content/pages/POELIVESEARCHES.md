@@ -1,0 +1,5 @@
+---
+title: POELIVESEARCHES
+crosslinks:
+- pathofexile
+---

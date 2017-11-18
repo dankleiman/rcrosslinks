@@ -1,0 +1,5 @@
+---
+title: becomingvegan
+crosslinks:
+- vegan
+---

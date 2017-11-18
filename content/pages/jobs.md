@@ -1,0 +1,24 @@
+---
+title: jobs
+crosslinks:
+- personalfinance
+- resumes
+- AskReddit
+- legaladvice
+- autotldr
+- cscareerquestions
+- financialindependence
+- recruitinghell
+- WorkOnline
+- LateStageCapitalism
+- IAmA
+- xkcd
+- unitedkingdom
+- AMAAggregator
+- Career_Advice
+- Incels
+- LegalAdviceUK
+- me_irl
+- GetMotivated
+- humanresources
+---

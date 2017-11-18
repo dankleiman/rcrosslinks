@@ -1,0 +1,5 @@
+---
+title: MCAmbrosia
+crosslinks:
+- Serendipity
+---

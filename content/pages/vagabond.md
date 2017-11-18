@@ -1,0 +1,24 @@
+---
+title: vagabond
+crosslinks:
+- hitchhiking
+- vandwellers
+- digitalnomad
+- theydidthemath
+- Documentaries
+- casualiama
+- GoRVing
+- Train_Service
+- usedpanties
+- Busking
+- Velo
+- ActLikeYouBelong
+- myog
+- livven
+- SummerReddit
+- latestagecapitalism
+- DumpsterDiving
+- personalfinance
+- homeless
+- BollywoodRealism
+---

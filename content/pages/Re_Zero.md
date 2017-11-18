@@ -1,0 +1,24 @@
+---
+title: Re_Zero
+crosslinks:
+- anime
+- Pixiv
+- OneTrueEmilia
+- livven
+- silverhair
+- Animewallpaper
+- help
+- awwnime
+- pouts
+- fatestaynight
+- TsundereSharks
+- OutOfTheLoop
+- nopan
+- steinsgate
+- Moescape
+- ToolBand
+- de
+- Megumin
+- Fairy_Tail
+- francophonie
+---

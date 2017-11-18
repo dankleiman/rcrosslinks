@@ -1,0 +1,24 @@
+---
+title: RedHotChiliPeppers
+crosslinks:
+- rhcpcirclejerk
+- livven
+- BABYMETAL
+- red_hot_chili_peppers
+- John_Frusciante
+- place
+- radiohead
+- JhinMains
+- me_irl
+- gatekeeping
+- NASCAR
+- Psychonaut
+- pearljam
+- ronpaulshops
+- KarmaCourt
+- lewronggeneration
+- WTF
+- hockey
+- VinylCollectors
+- puns
+---

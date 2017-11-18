@@ -1,0 +1,5 @@
+---
+title: smashmouth
+crosslinks:
+- coversongs
+---

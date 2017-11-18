@@ -1,0 +1,5 @@
+---
+title: shibari
+crosslinks:
+- ArtGW
+---

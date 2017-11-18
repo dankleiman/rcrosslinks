@@ -1,0 +1,24 @@
+---
+title: osugame
+crosslinks:
+- OsuSkins
+- osureport
+- place
+- livven
+- OSU
+- YeXD
+- osumapping
+- titlegore
+- lunaticrave2
+- coldgreeneyes
+- pcmasterrace
+- all
+- me_irl
+- ShadowBan
+- placestart
+- osuplace
+- 2007scape
+- VoHiYo
+- anime
+- leagueoflegends
+---

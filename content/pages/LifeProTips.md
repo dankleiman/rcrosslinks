@@ -1,0 +1,24 @@
+---
+title: LifeProTips
+crosslinks:
+- AskReddit
+- ShittyLifeProTips
+- WTF
+- tifu
+- personalfinance
+- explainlikeimfive
+- IAmA
+- Showerthoughts
+- mildlyinteresting
+- funny
+- OutOfTheLoop
+- UnethicalLifeProTips
+- gifs
+- pics
+- videos
+- AdviceAnimals
+- askscience
+- todayilearned
+- science
+- Jokes
+---

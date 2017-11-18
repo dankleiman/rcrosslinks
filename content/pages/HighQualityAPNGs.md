@@ -1,0 +1,5 @@
+---
+title: HighQualityAPNGs
+crosslinks:
+- HighQualityGifs
+---

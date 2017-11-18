@@ -1,0 +1,5 @@
+---
+title: RimWorldSeeds
+crosslinks:
+- RimWorld
+---

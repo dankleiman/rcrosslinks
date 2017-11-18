@@ -1,0 +1,24 @@
+---
+title: FloridaMan
+crosslinks:
+- autotldr
+- EnoughTrumpSpam
+- The_Donald
+- wholesomefloridaman
+- floridawoman
+- news
+- photography
+- trashy
+- nocontext
+- tampa
+- army
+- WTF_Florida
+- DownvotesMcGoats
+- IAmA
+- killthosewhodisagree
+- Shitty_Car_Mods
+- florida
+- gatekeeping
+- titleporn
+- FunnyandSad
+---

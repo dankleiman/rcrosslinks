@@ -1,0 +1,24 @@
+---
+title: MarchForScience
+crosslinks:
+- autotldr
+- xkcd
+- politics
+- science
+- MarchForScienceBoston
+- IAmA
+- MarchForScienceATL
+- EnoughCommieSpam
+- esist
+- ScientistsMarch
+- Trump_TheMovie
+- skeptic
+- ShitAmericansSay
+- TrueReddit
+- The_Donald
+- MarchforScienceChi
+- HoustonScienceMarch
+- sciencepolicy
+- im14andthisisdeep
+- crochet
+---

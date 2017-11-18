@@ -1,0 +1,24 @@
+---
+title: Fighters
+crosslinks:
+- Kappa
+- fightsticks
+- Tekken
+- StreetFighter
+- Guiltygear
+- FantasyStrike
+- salty
+- kof
+- Games
+- stReetfighter
+- mvci
+- localmultiplayergames
+- Skullgirls
+- fightcade
+- clayfighter
+- StreetFights
+- whowouldwin
+- Wyt10
+- ufc
+- GuiltyGearXRD
+---

@@ -1,0 +1,24 @@
+---
+title: rockhounds
+crosslinks:
+- whatsthisrock
+- Lapidary
+- MineralPorn
+- geology
+- Crystals
+- pics
+- stevenuniverse
+- xkcd
+- jewelry
+- fossilid
+- relationships
+- Minerals
+- trees
+- mildlypenis
+- mining
+- snakes
+- pathofexile
+- oddlysatisfying
+- RockhoundExchange
+- metaldetecting
+---

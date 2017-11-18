@@ -1,0 +1,5 @@
+---
+title: classictrucks
+crosslinks:
+- Serendipity
+---

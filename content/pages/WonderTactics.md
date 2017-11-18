@@ -1,0 +1,5 @@
+---
+title: WonderTactics
+crosslinks:
+- WonderTacticsRPG
+---

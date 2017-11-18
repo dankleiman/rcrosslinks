@@ -1,0 +1,5 @@
+---
+title: CrittersLFG
+crosslinks:
+- lfg
+---

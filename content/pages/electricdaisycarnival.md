@@ -1,0 +1,24 @@
+---
+title: electricdaisycarnival
+crosslinks:
+- EDCLeaks
+- aves
+- EDCTickets
+- electronicmusic
+- livven
+- vegas
+- Coachella
+- UMF
+- Drugs
+- EDM
+- MDMA
+- AMAAggregator
+- EDCOrlando
+- lasik
+- trap
+- DrugNerds
+- shuffle
+- xTrill
+- EDC
+- hardstyle
+---

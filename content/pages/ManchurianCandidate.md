@@ -1,0 +1,5 @@
+---
+title: ManchurianCandidate
+crosslinks:
+- Hwachaut
+---

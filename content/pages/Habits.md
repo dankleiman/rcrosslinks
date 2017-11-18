@@ -1,0 +1,5 @@
+---
+title: Habits
+crosslinks:
+- ofcoursethatsathing
+---

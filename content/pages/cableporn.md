@@ -1,0 +1,24 @@
+---
+title: cableporn
+crosslinks:
+- conduitporn
+- engineering
+- techsupportgore
+- pics
+- pcmasterrace
+- electricians
+- livven
+- askscience
+- lanparty
+- mildlyvagina
+- oddlysatisfying
+- interestingasfuck
+- comingout
+- puns
+- Real_Amateurs
+- Nautical
+- mildlyinteresting
+- keming
+- aviation
+- cordcutters
+---

@@ -1,0 +1,24 @@
+---
+title: runescape
+crosslinks:
+- 2007scape
+- livven
+- RS3Ironmen
+- RSKakamile
+- AskReddit
+- xkcd
+- NemiForest
+- IAmA
+- Chigz
+- RSDarkscape
+- freeplayers
+- place
+- CrackTheClue
+- pcmasterrace
+- leagueoflegends
+- OutOfTheLoop
+- RSChronicle
+- World60Pengs
+- Mustang
+- worldnews
+---

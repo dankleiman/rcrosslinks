@@ -1,0 +1,5 @@
+---
+title: ModaChampion
+crosslinks:
+- modafinil
+---

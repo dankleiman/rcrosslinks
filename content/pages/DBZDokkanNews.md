@@ -1,0 +1,5 @@
+---
+title: DBZDokkanNews
+crosslinks:
+- DBZDokkanBattle
+---

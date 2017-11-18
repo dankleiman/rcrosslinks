@@ -1,0 +1,24 @@
+---
+title: Switzerland
+crosslinks:
+- travel
+- AskReddit
+- place
+- autotldr
+- europe
+- The_Donald
+- askswitzerland
+- MapPorn
+- europrivacy
+- science
+- BUENZLI
+- ShadowBan
+- vaud
+- papertowns
+- OutOfTheLoop
+- answers
+- espionage
+- GameDeals
+- conspiracy
+- ConspiracyFacts
+---

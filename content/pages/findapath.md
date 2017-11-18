@@ -1,0 +1,24 @@
+---
+title: findapath
+crosslinks:
+- AskReddit
+- Existentialism
+- personalfinance
+- AmItheAsshole
+- cscareerquestions
+- learnpython
+- careerguidance
+- college
+- PersonalFinanceCanada
+- getdisciplined
+- unitedkingdom
+- itcareerquestions
+- me_irl
+- learnprogramming
+- sca
+- TEFL
+- gis
+- asmr
+- antinatalism
+- freelanceWriters
+---

@@ -1,0 +1,5 @@
+---
+title: afterlife
+crosslinks:
+- death
+---

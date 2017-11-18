@@ -1,0 +1,24 @@
+---
+title: greentext
+crosslinks:
+- 4chan
+- AskReddit
+- Jokes
+- wholesomegreentext
+- classic4chan
+- Wholesome4chan
+- funny
+- Tendies
+- runescape
+- kachow
+- IAmA
+- HailCorporate
+- Shoplifting
+- SummerReddit
+- TrumpGold
+- gaming
+- UnexpectedJoJo
+- gifs
+- ProRevenge
+- childfree
+---

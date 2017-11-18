@@ -1,0 +1,5 @@
+---
+title: ArtForChrist
+crosslinks:
+- ChristianArt
+---

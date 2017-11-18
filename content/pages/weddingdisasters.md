@@ -1,0 +1,5 @@
+---
+title: weddingdisasters
+crosslinks:
+- funny
+---

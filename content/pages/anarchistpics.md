@@ -1,0 +1,5 @@
+---
+title: anarchistpics
+crosslinks:
+- CartoonsEditorial
+---

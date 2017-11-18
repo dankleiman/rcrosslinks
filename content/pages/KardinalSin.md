@@ -1,0 +1,5 @@
+---
+title: KardinalSin
+crosslinks:
+- gonewildaudio
+---

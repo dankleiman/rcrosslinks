@@ -1,0 +1,5 @@
+---
+title: purepathofexile
+crosslinks:
+- PathOfExileBuilds
+---

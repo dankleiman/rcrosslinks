@@ -1,0 +1,5 @@
+---
+title: ninjagaiden
+crosslinks:
+- Nioh
+---

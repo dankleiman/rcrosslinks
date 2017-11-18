@@ -1,0 +1,24 @@
+---
+title: thingsforants
+crosslinks:
+- livven
+- mildlyinteresting
+- pics
+- Steam
+- meormyson
+- worldnews
+- aww
+- HailCorporate
+- KarmaConspiracy
+- Pizza
+- WTF
+- titlegore
+- redneckengineering
+- UnexpectedOuija
+- untrustworthypoptarts
+- nottheonion
+- somethingimade
+- NatureIsFuckingLit
+- lego
+- crafts
+---

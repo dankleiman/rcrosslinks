@@ -1,0 +1,5 @@
+---
+title: Pundertale
+crosslinks:
+- oneshot
+---

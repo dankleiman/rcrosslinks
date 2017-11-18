@@ -1,0 +1,5 @@
+---
+title: swinghouse
+crosslinks:
+- House
+---

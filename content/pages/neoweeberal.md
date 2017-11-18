@@ -1,0 +1,5 @@
+---
+title: neoweeberal
+crosslinks:
+- GaoGaiGar
+---

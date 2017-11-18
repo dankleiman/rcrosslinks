@@ -1,0 +1,24 @@
+---
+title: PvZHeroes
+crosslinks:
+- ClashRoyale
+- hearthstone
+- Diepio
+- MetaDiepio
+- noxappplayer
+- test
+- DiepioPartyLinks
+- PokemonShuffle
+- splatoon
+- TheTestingReddit
+- PvZGardenWarfare
+- dwarffortress
+- 30ws1u1
+- todayilearned
+- REEEEEEEEEE
+- KarmaKourt
+- FeelsBadMan
+- sadcringe
+- ShovelKnight
+- Scorpio
+---

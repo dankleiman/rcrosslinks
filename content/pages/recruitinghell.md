@@ -1,0 +1,24 @@
+---
+title: recruitinghell
+crosslinks:
+- xkcd
+- cscareerquestions
+- ChoosingBeggars
+- INAT
+- Accounting
+- creepyPMs
+- vancouver
+- PrequelMemes
+- IWantToLearn
+- JordanPeterson
+- freelance
+- resumes
+- legaladvice
+- copypasta
+- autotldr
+- AskReddit
+- careerguidance
+- FuckImOld
+- cringepics
+- LateStageCapitalism
+---

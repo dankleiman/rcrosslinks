@@ -1,0 +1,5 @@
+---
+title: weirdanimals
+crosslinks:
+- comics
+---

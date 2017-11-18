@@ -1,0 +1,24 @@
+---
+title: ucla
+crosslinks:
+- UCSD
+- autotldr
+- place
+- The_Donald
+- LosAngeles
+- taeyskadiedoaHAV
+- studentloandefaulters
+- causeWhyNotMate
+- TheBlueCorner
+- danganronpa
+- Accounting
+- soccer
+- IAmA
+- 2me4ndt
+- streetwear
+- Filmmakers
+- EatCheapAndHealthy
+- Art
+- PictureGame
+- Serendipity
+---

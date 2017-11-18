@@ -1,0 +1,24 @@
+---
+title: Michigan
+crosslinks:
+- autotldr
+- MIWeatherCircleJerk
+- Detroit
+- politics
+- kzoo
+- The_Donald
+- LateStageCapitalism
+- EarthPorn
+- flint
+- grandrapids
+- OutOfTheLoop
+- CampAndHikeMichigan
+- childfree
+- ShitPoliticsSays
+- traversecity
+- altright
+- WashtenawCountyMI
+- vexillology
+- AmericanPlantSwap
+- masl
+---

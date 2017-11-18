@@ -1,0 +1,5 @@
+---
+title: SlotNSlot
+crosslinks:
+- ethereum
+---

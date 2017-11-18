@@ -1,0 +1,24 @@
+---
+title: bdsm
+crosslinks:
+- BDSMcommunity
+- autotldr
+- MaxineSapphire
+- freeuse
+- gonewildaudio
+- eyecontact
+- ElfiqueAdaeze
+- SexWorkers
+- TheBigBearGuy
+- hentaifemdom
+- BDSM_Smiles
+- femalechastity
+- tipofmypenis
+- sensipearl
+- drupal
+- place
+- BdsmDIY
+- sex
+- Bondage
+- estim
+---

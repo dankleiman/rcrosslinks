@@ -1,0 +1,5 @@
+---
+title: Pluralism
+crosslinks:
+- awakened
+---

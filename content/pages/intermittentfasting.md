@@ -1,0 +1,24 @@
+---
+title: intermittentfasting
+crosslinks:
+- keto
+- fasting
+- ketogains
+- Fitness
+- ketoscience
+- leangains
+- loseit
+- science
+- DrJasonFung
+- IAmA
+- Buddhism
+- skeptic
+- metric_units
+- SkincareAddiction
+- omad
+- 1200isplenty
+- me_irl
+- Coffee
+- gainit
+- ketoandif
+---

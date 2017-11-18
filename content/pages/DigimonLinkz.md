@@ -1,0 +1,5 @@
+---
+title: DigimonLinkz
+crosslinks:
+- OnePieceTC
+---

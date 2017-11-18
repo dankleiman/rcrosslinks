@@ -1,0 +1,5 @@
+---
+title: destinylegacy
+crosslinks:
+- DestinyTheGame
+---

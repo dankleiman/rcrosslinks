@@ -1,0 +1,24 @@
+---
+title: DIY_eJuice
+crosslinks:
+- electronic_cigarette
+- Deeper_DIY
+- DIY_classifieds
+- CloudCollective
+- ShakeAndVape
+- CBD
+- Canadian_ecigarette
+- Vaping
+- diy_eliquid
+- ecr_eu
+- aussievapers
+- ModestMonday
+- raerth
+- shitty_DIY_eJuice
+- ecigclassifieds
+- Vaping101
+- highdeas
+- mentionhelper
+- concentrade
+- dessert
+---

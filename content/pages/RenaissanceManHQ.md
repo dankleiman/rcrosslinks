@@ -1,0 +1,5 @@
+---
+title: RenaissanceManHQ
+crosslinks:
+- Polymath
+---

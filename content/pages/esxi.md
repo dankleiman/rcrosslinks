@@ -1,0 +1,5 @@
+---
+title: esxi
+crosslinks:
+- vmware
+---

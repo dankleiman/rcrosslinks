@@ -1,0 +1,5 @@
+---
+title: Seinen
+crosslinks:
+- manga
+---

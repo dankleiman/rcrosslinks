@@ -1,0 +1,24 @@
+---
+title: australia
+crosslinks:
+- sydney
+- newzealand
+- worldnews
+- The_Donald
+- pics
+- AskHistorians
+- IAmA
+- auslaw
+- AskReddit
+- AustralianPolitics
+- explainlikeimfive
+- straya
+- technology
+- OutOfTheLoop
+- trueaustralia
+- videos
+- place
+- conspiracy
+- politics
+- MapPorn
+---

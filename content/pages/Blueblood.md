@@ -1,0 +1,5 @@
+---
+title: Blueblood
+crosslinks:
+- mylittlepony
+---

@@ -1,0 +1,5 @@
+---
+title: Touhougore
+crosslinks:
+- Pixiv
+---

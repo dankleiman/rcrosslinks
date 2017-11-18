@@ -1,0 +1,5 @@
+---
+title: ArgentinaSubcampeon
+crosslinks:
+- AMAAggregator
+---

@@ -1,0 +1,5 @@
+---
+title: kagepro
+crosslinks:
+- Vocaloid
+---

@@ -1,0 +1,5 @@
+---
+title: Kaijudo
+crosslinks:
+- magicTCG
+---

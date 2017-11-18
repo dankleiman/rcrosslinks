@@ -1,0 +1,24 @@
+---
+title: borussiadortmund
+crosslinks:
+- soccer
+- ussoccer
+- de
+- schalke04
+- soccerstreams
+- placestart
+- autotldr
+- livven
+- Gunners
+- ChurchOfSchmelle
+- Bundesliga
+- place
+- LiverpoolFC
+- metric_units
+- WTF
+- gay_soccer
+- Hammers
+- interestingasfuck
+- reddevils
+- pics
+---

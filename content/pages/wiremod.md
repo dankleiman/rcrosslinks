@@ -1,0 +1,5 @@
+---
+title: wiremod
+crosslinks:
+- gmod
+---

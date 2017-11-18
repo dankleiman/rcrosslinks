@@ -1,0 +1,5 @@
+---
+title: mandelajerk
+crosslinks:
+- MandelaEffect
+---

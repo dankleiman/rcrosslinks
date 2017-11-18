@@ -1,0 +1,24 @@
+---
+title: TMBR
+crosslinks:
+- vegan
+- islam
+- asktransgender
+- AskPhilosophyFAQ
+- changemyview
+- randomshit
+- todayilearned
+- unpopularopinion
+- amiugly
+- Transhuman
+- AskReddit
+- Anarchism
+- AskHistorians
+- politics
+- Godfound
+- Badanthropology
+- askscience
+- MensRights
+- undelete
+- philosophy
+---

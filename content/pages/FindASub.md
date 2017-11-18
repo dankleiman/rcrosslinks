@@ -1,0 +1,5 @@
+---
+title: FindASub
+crosslinks:
+- findareddit
+---

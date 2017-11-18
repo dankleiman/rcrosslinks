@@ -1,0 +1,24 @@
+---
+title: DarkSouls2
+crosslinks:
+- darksouls3
+- darksouls
+- wheelanddeal
+- SummonSign
+- fashionsouls
+- FuckShrineOfAmana
+- darkestdungeon
+- patientgamers
+- AskReddit
+- dadjokes
+- DarkSoulsHelp
+- pcmasterrace
+- DkS2Builds
+- UpliftingNews
+- MeetmeinMaluja
+- SoulsSliders
+- 1zyhehl
+- milliondollarextreme
+- aysoc1
+- Showerthoughts
+---

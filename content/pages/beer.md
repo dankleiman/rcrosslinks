@@ -1,0 +1,24 @@
+---
+title: beer
+crosslinks:
+- AustinBeer
+- xkcd
+- AskReddit
+- COBeer
+- FloridaBrew
+- TheBrewery
+- IAmA
+- gaming
+- cider
+- graphic_design
+- Dallas
+- EarthPorn
+- Munich
+- NewOrleans
+- Cleveland
+- Portland
+- killthosewhodisagree
+- cringe
+- CraftBeer
+- hashhouseharriers
+---

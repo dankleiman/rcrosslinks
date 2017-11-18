@@ -1,0 +1,5 @@
+---
+title: theydidthemonstermeth
+crosslinks:
+- madlads
+---

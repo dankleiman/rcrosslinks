@@ -1,0 +1,5 @@
+---
+title: Netatmo
+crosslinks:
+- myweatherstation
+---

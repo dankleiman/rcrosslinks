@@ -1,0 +1,24 @@
+---
+title: medical
+crosslinks:
+- Dermatology
+- autotldr
+- AskDocs
+- DiagnoseMe
+- medicine
+- ADHD
+- Endo
+- explainlikeimfive
+- Stargate
+- HealthInsurance
+- ChronicPain
+- Herpes
+- lifehacks
+- Fitness
+- deaf
+- IAmA
+- HealthAnxiety
+- soylent
+- Stoicism
+- loseit
+---

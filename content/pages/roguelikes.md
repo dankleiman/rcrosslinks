@@ -1,0 +1,24 @@
+---
+title: roguelikes
+crosslinks:
+- roguelikedev
+- roguelites
+- dcss
+- cataclysmdda
+- Cogmind
+- InfraArcana
+- xkcd
+- gameideas
+- allGamers
+- pathos_nethack
+- rpg_gamers
+- RimWorld
+- SilRL
+- isleward
+- livven
+- SonsOfTheVoid
+- ASCII_porn
+- nethack
+- javelinrl
+- ProgrammerHumor
+---

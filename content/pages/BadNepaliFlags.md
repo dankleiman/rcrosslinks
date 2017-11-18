@@ -1,0 +1,5 @@
+---
+title: BadNepaliFlags
+crosslinks:
+- vexillology
+---

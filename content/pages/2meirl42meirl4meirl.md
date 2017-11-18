@@ -1,0 +1,24 @@
+---
+title: 2meirl42meirl4meirl
+crosslinks:
+- SanctionedSuicide
+- livven
+- 2meirl4meirl
+- MadeOfStyrofoam
+- ReallyWackyTicTacs
+- gatekeeping
+- 2meirl42meirl42meirl4meirl
+- xkcd
+- surrealmemes
+- SuicideWatch
+- explainlikeimfive
+- teenagers
+- depression_memes
+- furry_irl
+- DarkNetMarkets
+- wowthanksimcured
+- sadcringe
+- depression
+- anime
+- MakeNewFriendsHere
+---

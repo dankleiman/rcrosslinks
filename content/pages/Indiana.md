@@ -1,0 +1,24 @@
+---
+title: Indiana
+crosslinks:
+- autotldr
+- TrueCrimeDiscussion
+- indianapolis
+- ShitPoliticsSays
+- Political_Revolution
+- technology
+- nottheonion
+- chargeyourphone
+- DeMotte
+- hiking
+- SouthBend
+- GreenLattice
+- Enough_Sanders_Spam
+- The_Donald
+- NSFWIAMA
+- WTF
+- AmericanPlantSwap
+- fortwayne
+- illinois
+- OldSchoolCool
+---

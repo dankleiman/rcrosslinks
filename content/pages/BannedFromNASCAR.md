@@ -1,0 +1,5 @@
+---
+title: BannedFromNASCAR
+crosslinks:
+- NASCAR
+---

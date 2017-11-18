@@ -1,0 +1,5 @@
+---
+title: SportPsychology
+crosslinks:
+- autotldr
+---

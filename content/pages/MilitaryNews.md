@@ -1,0 +1,5 @@
+---
+title: MilitaryNews
+crosslinks:
+- autotldr
+---

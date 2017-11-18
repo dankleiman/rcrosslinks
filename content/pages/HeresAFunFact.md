@@ -1,0 +1,5 @@
+---
+title: HeresAFunFact
+crosslinks:
+- aww
+---

@@ -1,0 +1,5 @@
+---
+title: GoldenRealm
+crosslinks:
+- openterraingen
+---

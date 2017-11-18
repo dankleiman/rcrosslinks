@@ -1,0 +1,5 @@
+---
+title: UbuntuGnome
+crosslinks:
+- gnome
+---

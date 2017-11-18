@@ -1,0 +1,5 @@
+---
+title: appledash
+crosslinks:
+- mylittlepony
+---

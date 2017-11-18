@@ -1,0 +1,5 @@
+---
+title: doublethink
+crosslinks:
+- PoliticalHumor
+---

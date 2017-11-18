@@ -1,0 +1,24 @@
+---
+title: spaceporn
+crosslinks:
+- PornOverlords
+- astrophotography
+- pics
+- livven
+- space
+- EarthPorn
+- askscience
+- explainlikeimfive
+- flatearth
+- MapsWithoutNZ
+- ExposurePorn
+- Linky_links
+- spaceflightporn
+- worldpolitics
+- titlegore
+- ImaginaryStarscapes
+- LandscapeAstro
+- gifs
+- ImaginaryStarships
+- glitch_art
+---

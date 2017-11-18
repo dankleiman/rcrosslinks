@@ -1,0 +1,24 @@
+---
+title: ImaginaryMindscapes
+crosslinks:
+- BirdsForScale
+- Art
+- CharacterPrompt
+- ImaginaryAirships
+- UnusualArt
+- ImaginaryFood
+- ImaginaryIslands
+- ImaginaryStarscapes
+- Miniworlds
+- xdfp
+- LateStageCapitalism
+- ImaginaryScience
+- ImaginaryBodyscapes
+- ImaginaryCityscapes
+- Imaginaryvessels
+- ImaginaryHorrors
+- Marooned
+- ImaginaryFuturism
+- SpecArt
+- ImaginaryGiants
+---

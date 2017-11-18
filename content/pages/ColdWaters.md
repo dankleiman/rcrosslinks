@@ -1,0 +1,5 @@
+---
+title: ColdWaters
+crosslinks:
+- EliteDangerous
+---

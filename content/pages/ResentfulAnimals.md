@@ -1,0 +1,5 @@
+---
+title: ResentfulAnimals
+crosslinks:
+- funny
+---

@@ -1,0 +1,24 @@
+---
+title: standupshots
+crosslinks:
+- gatekeeping
+- xkcd
+- opieandanthony
+- AskReddit
+- Drama
+- ComedyCemetery
+- Jokes
+- The_Donald
+- livven
+- ShitAmericansSay
+- niceguys
+- funny
+- todayilearned
+- Cumtown
+- videos
+- childfree
+- Showerthoughts
+- IAmA
+- PoliticalHumor
+- nazi
+---

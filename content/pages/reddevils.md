@@ -1,0 +1,24 @@
+---
+title: reddevils
+crosslinks:
+- soccer
+- chelseafc
+- soccerstreams
+- Gunners
+- LiverpoolFC
+- livven
+- MCFC
+- place
+- 2yki3w5
+- Everton
+- mourinhogifs
+- realmadrid
+- coys
+- FIFA
+- AskReddit
+- acesoccerstreams
+- OutOfTheLoop
+- manchesterunitednews
+- autotldr
+- The_Donald
+---

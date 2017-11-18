@@ -1,0 +1,5 @@
+---
+title: ClashRoyaleideas
+crosslinks:
+- ClashRoyale
+---

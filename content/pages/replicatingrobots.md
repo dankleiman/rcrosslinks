@@ -1,0 +1,5 @@
+---
+title: replicatingrobots
+crosslinks:
+- collapse
+---

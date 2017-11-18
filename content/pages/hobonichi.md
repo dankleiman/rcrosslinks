@@ -1,0 +1,5 @@
+---
+title: hobonichi
+crosslinks:
+- fountainpens
+---

@@ -1,0 +1,24 @@
+---
+title: Habs
+crosslinks:
+- hockey
+- place
+- reddit_stream
+- Predators
+- CalgaryFlames
+- EdmontonOilers
+- leafs
+- canucks
+- montreal
+- NHLstatheads
+- Curling
+- nhl_games
+- BostonBruins
+- castiron
+- civ
+- gifsthatendtoosoon
+- devils
+- NHLHUT
+- wildhockey
+- penguins
+---

@@ -1,0 +1,5 @@
+---
+title: deadbedroomtalk
+crosslinks:
+- TheRedPill
+---

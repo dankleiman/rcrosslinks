@@ -1,0 +1,24 @@
+---
+title: Edinburgh
+crosslinks:
+- Scotland
+- gifs
+- glasgow
+- WordAvalanches
+- manchester
+- gonewild
+- California
+- Doner
+- headphones
+- LifeProTips
+- knitting
+- BoycottEdinFest
+- pocketsand
+- sex
+- theworldisflat
+- ukpolitics
+- foodnyc
+- avocadosgonewild
+- doner
+- AskUK
+---

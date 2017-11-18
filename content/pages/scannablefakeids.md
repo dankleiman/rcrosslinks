@@ -1,0 +1,5 @@
+---
+title: scannablefakeids
+crosslinks:
+- fakeid
+---

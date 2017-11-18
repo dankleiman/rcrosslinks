@@ -1,0 +1,22 @@
+---
+title: TalesFromTheSquadCar
+crosslinks:
+- ProtectAndServe
+- MilitaryStories
+- AskLEO
+- flashlight
+- pussypassdenied
+- talesfromprintandcopy
+- BurningMan
+- spam
+- dog_irl
+- ccw
+- gifs
+- JUSTNOMIL
+- Eve
+- elmonorojo
+- instantkarma
+- JusticeServed
+- wholesome
+- hfy
+---

@@ -1,0 +1,5 @@
+---
+title: laughter
+crosslinks:
+- xkcd
+---

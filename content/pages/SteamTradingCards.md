@@ -1,0 +1,5 @@
+---
+title: SteamTradingCards
+crosslinks:
+- indiegameswap
+---

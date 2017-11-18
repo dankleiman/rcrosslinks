@@ -1,0 +1,21 @@
+---
+title: WarplanePorn
+crosslinks:
+- cockpits
+- WarshipPorn
+- aviation
+- CapturedWeapons
+- WWIIplanes
+- BrasilOnReddit
+- BearIntercepts
+- MilitaryPorn
+- AirCraftPorn
+- livven
+- xkcd
+- eurofighterworld
+- shittyHDR
+- IAmA
+- india
+- MilitaryGfys
+- FighterJets
+---

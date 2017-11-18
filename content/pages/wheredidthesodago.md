@@ -1,0 +1,24 @@
+---
+title: wheredidthesodago
+crosslinks:
+- funny
+- xkcd
+- explainlikeimfive
+- AskReddit
+- titleporn
+- mildlyinteresting
+- ThatPeelingFeeling
+- pics
+- ofcoursethatsathing
+- PeopleFuckingDying
+- wicked_edge
+- insertions
+- hmmm
+- analogygifs
+- wholesomememes
+- escafrisky
+- gifs
+- Frugal
+- YouShouldKnow
+- ShittyLifeProTips
+---

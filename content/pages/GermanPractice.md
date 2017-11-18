@@ -1,0 +1,5 @@
+---
+title: GermanPractice
+crosslinks:
+- LanguageBuds
+---

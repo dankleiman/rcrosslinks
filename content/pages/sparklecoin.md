@@ -1,0 +1,5 @@
+---
+title: sparklecoin
+crosslinks:
+- CryptoCurrency
+---

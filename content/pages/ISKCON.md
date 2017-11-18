@@ -1,0 +1,5 @@
+---
+title: ISKCON
+crosslinks:
+- hinduism
+---

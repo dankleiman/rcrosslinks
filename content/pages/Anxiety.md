@@ -1,0 +1,24 @@
+---
+title: Anxiety
+crosslinks:
+- SWResources
+- ADHD
+- HealthAnxiety
+- worldnews
+- AskReddit
+- getdisciplined
+- SuicideWatch
+- Nootropics
+- KindVoice
+- theXeffect
+- calmhands
+- LateStageCapitalism
+- depression
+- socialanxiety
+- Meditation
+- Kava
+- asmr
+- autotldr
+- kratom
+- LifeProTips
+---

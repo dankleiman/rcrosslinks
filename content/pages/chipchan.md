@@ -1,0 +1,5 @@
+---
+title: chipchan
+crosslinks:
+- translator
+---

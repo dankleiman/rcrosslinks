@@ -1,0 +1,24 @@
+---
+title: OldSchoolCool
+crosslinks:
+- pics
+- shitpost
+- HistoryPorn
+- AskReddit
+- IAmA
+- todayilearned
+- lewronggeneration
+- funny
+- The_Donald
+- TheWayWeWere
+- livven
+- AskHistorians
+- xkcd
+- AgainstKarmaWhores
+- ShitRedditSays
+- Colorization
+- nocontext
+- OldSchoolCoolNSFW
+- Drama
+- ColorizedHistory
+---

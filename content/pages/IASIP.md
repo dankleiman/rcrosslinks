@@ -1,0 +1,24 @@
+---
+title: IASIP
+crosslinks:
+- autotldr
+- funny
+- The_Dennis
+- AskReddit
+- todayilearned
+- IAmA
+- me_irl
+- HighQualityGifs
+- redditwritessunny
+- FanTheories
+- CrossStitch
+- pics
+- television
+- The_Donald
+- gaming
+- videos
+- movies
+- WTF
+- mildlyinteresting
+- gatekeeping
+---

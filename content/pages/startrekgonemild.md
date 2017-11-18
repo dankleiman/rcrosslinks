@@ -1,0 +1,5 @@
+---
+title: startrekgonemild
+crosslinks:
+- startrek
+---

@@ -1,0 +1,24 @@
+---
+title: baltimore
+crosslinks:
+- orioles
+- maryland
+- politics
+- cats
+- The_Donald
+- conspiracy
+- nottheonion
+- lfg
+- jhu
+- Annapolis
+- washingtondc
+- news
+- Showerthoughts
+- LifeProTips
+- Comcast_Xfinity
+- AskReddit
+- OutOfTheLoop
+- Political_Revolution
+- CasualConversation
+- MuseumOfReddit
+---

@@ -1,0 +1,22 @@
+---
+title: learnjavascript
+crosslinks:
+- javascript
+- learnprogramming
+- node
+- learnpython
+- xkcd
+- c2JSpi
+- ProgrammerHumor
+- learnphp
+- groupdeals
+- typescript
+- roguelikes
+- programming
+- ProgrammerTIL
+- Funko
+- actionscript
+- HTML
+- livven
+- learnjava
+---

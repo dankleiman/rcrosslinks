@@ -1,0 +1,24 @@
+---
+title: PUBG
+crosslinks:
+- PUBATTLEGROUNDS
+- livven
+- Battlegrounds
+- REEEEEEEEEE
+- pcmasterrace
+- gaming
+- PhonesAreBad
+- TheUniversim
+- darksouls
+- patientgamers
+- SampleSize
+- me_irl
+- spain
+- gif
+- G502MasterRace
+- gatekeeping
+- tinfoilhat
+- dayz
+- starcitizen
+- hardwareswap
+---

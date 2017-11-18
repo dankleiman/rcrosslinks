@@ -1,0 +1,5 @@
+---
+title: SubmitYourWriting
+crosslinks:
+- writing
+---

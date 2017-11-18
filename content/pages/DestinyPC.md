@@ -1,0 +1,5 @@
+---
+title: DestinyPC
+crosslinks:
+- DestinyTheGame
+---

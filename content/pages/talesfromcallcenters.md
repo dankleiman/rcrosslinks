@@ -1,0 +1,21 @@
+---
+title: talesfromcallcenters
+crosslinks:
+- callcentres
+- MaliciousCompliance
+- TalesFromTheFrontDesk
+- AskReddit
+- TalesFromTheCustomer
+- talesfromcavesupport
+- Serendipity
+- xkcd
+- Random_Acts_Of_Amazon
+- talesfromthecustomer
+- talesfromtechsupport
+- JusticeBoner
+- ChoosingBeggars
+- SuicideWatch
+- Drugs
+- vandwellers
+- talesfromcustomers
+---

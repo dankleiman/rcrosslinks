@@ -1,0 +1,5 @@
+---
+title: PSComposition
+crosslinks:
+- interestingasfuck
+---

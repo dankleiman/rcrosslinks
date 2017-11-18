@@ -1,0 +1,5 @@
+---
+title: PsychLaw
+crosslinks:
+- SampleSize
+---

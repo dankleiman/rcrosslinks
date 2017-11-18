@@ -1,0 +1,5 @@
+---
+title: catalan
+crosslinks:
+- linguistics
+---

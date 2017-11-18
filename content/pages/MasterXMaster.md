@@ -1,0 +1,5 @@
+---
+title: MasterXMaster
+crosslinks:
+- PlayMXM
+---

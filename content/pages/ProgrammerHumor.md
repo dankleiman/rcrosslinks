@@ -1,0 +1,24 @@
+---
+title: ProgrammerHumor
+crosslinks:
+- xkcd
+- livven
+- softwaregore
+- programming
+- lolphp
+- ProgrammerDadJokes
+- itsaunixsystem
+- AskReddit
+- programme_irl
+- programminghorror
+- gatekeeping
+- funny
+- talesfromtechsupport
+- cscareerquestions
+- assholedesign
+- linuxmasterrace
+- mildlyinfuriating
+- keming
+- pics
+- programmerhumour
+---

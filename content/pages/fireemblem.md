@@ -1,0 +1,24 @@
+---
+title: fireemblem
+crosslinks:
+- livven
+- place
+- IAmA
+- NintendoSwitch
+- 3dshacks
+- pokemon
+- xkcd
+- AskReddit
+- User_Simulator
+- tales
+- MyNintendo
+- nintendo
+- Unexpected
+- MyCastleFE
+- leagueoflegends
+- gamedesign
+- danganronpa
+- tf2
+- '2013'
+- OutOfTheLoop
+---

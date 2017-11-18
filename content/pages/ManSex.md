@@ -1,0 +1,5 @@
+---
+title: ManSex
+crosslinks:
+- gaypornhunters
+---

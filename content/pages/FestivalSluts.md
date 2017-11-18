@@ -1,0 +1,24 @@
+---
+title: FestivalSluts
+crosslinks:
+- livven
+- NegativeWithGold
+- ChristianGirls
+- thathappened
+- BurningManNudes
+- AsABlackMan
+- FestivalVoyeur
+- newzealand
+- WTF
+- Hotwife
+- seduction
+- comics
+- The_Donald
+- DeadRedditors
+- MicaelaSchaefer
+- MakeupAddiction
+- ElfiqueAdaeze
+- taeyskadiedoaHAV
+- SpankSafe
+- starterpack
+---

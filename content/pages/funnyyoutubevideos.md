@@ -1,0 +1,5 @@
+---
+title: funnyyoutubevideos
+crosslinks:
+- fidgetspin
+---

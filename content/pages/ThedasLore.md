@@ -1,0 +1,5 @@
+---
+title: ThedasLore
+crosslinks:
+- dragonage
+---

@@ -1,0 +1,5 @@
+---
+title: CFBVegas
+crosslinks:
+- CFB
+---

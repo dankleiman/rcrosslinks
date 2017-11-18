@@ -1,0 +1,5 @@
+---
+title: UnfuckTheWorld
+crosslinks:
+- autotldr
+---

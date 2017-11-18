@@ -1,0 +1,5 @@
+---
+title: DaFuckIsLife
+crosslinks:
+- livven
+---

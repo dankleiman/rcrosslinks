@@ -1,0 +1,24 @@
+---
+title: ChapoTrapHouse
+crosslinks:
+- autotldr
+- politics
+- Enough_Sanders_Spam
+- The_Donald
+- socialism
+- LeftWithoutEdge
+- ESS
+- Drama
+- LateStageCapitalism
+- Anarchism
+- pics
+- PoliticalHumor
+- Anarcho_Capitalism
+- EnoughTrumpSpam
+- Cumtown
+- news
+- livven
+- BadSocialScience
+- worldnews
+- KotakuInAction
+---

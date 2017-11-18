@@ -1,0 +1,24 @@
+---
+title: Barcelona
+crosslinks:
+- autotldr
+- zeronet
+- europe
+- catalunya
+- ukpolitics
+- AskEurope
+- Barca
+- place
+- CataloniaPics
+- pics
+- QUETERUNYA
+- ShitAmericansSay
+- catalonia
+- WatchRedditDie
+- spain
+- italy
+- me_irl
+- primaverasound
+- LucidDreaming
+- licht
+---

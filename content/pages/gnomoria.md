@@ -1,0 +1,5 @@
+---
+title: gnomoria
+crosslinks:
+- ingnomia
+---

@@ -1,0 +1,24 @@
+---
+title: shutupandtakemymoney
+crosslinks:
+- Entrepreneur
+- Dogtraining
+- underpopular
+- Scams
+- AskReddit
+- TheseFuckingAccounts
+- pics
+- WondersOfChina
+- Watches
+- headphones
+- mallninjashit
+- GongFuTea
+- shittykickstarters
+- wheredidthesodago
+- EnamelPins
+- startups
+- hatchery
+- Etsy
+- trashy
+- im14andthisiscool
+---

@@ -1,0 +1,5 @@
+---
+title: ifixit
+crosslinks:
+- wiiu
+---

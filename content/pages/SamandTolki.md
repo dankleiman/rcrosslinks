@@ -1,0 +1,24 @@
+---
+title: SamandTolki
+crosslinks:
+- speedrun
+- NarcissaCriticism
+- LivestreamFail
+- Stickless
+- fuckwaffle
+- gamegrumps
+- TheRedPill
+- legaladvice
+- CringeAnarchy
+- soylent
+- RWhiteGoose
+- videos
+- livven
+- LGBTeens
+- showvideogames
+- cosmowright
+- 2007scape
+- TheSVGCommunity
+- Drama
+- todayilearned
+---

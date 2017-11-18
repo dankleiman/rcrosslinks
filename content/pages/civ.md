@@ -1,0 +1,24 @@
+---
+title: civ
+crosslinks:
+- grandCoalition
+- civ6mods
+- civsaves
+- GrandCoalition
+- eu4
+- AskHistorians
+- nqmod
+- xkcd
+- Gamingcirclejerk
+- CrusaderKings
+- tf2
+- gaming
+- civ_memes
+- livven
+- Steam
+- AskReddit
+- CivStrategy
+- pcmasterrace
+- civvoxpopuli
+- civcirclejerk
+---

@@ -1,0 +1,5 @@
+---
+title: GuiltyGearXRD
+crosslinks:
+- Guiltygear
+---

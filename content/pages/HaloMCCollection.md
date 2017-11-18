@@ -1,0 +1,5 @@
+---
+title: HaloMCCollection
+crosslinks:
+- halo
+---

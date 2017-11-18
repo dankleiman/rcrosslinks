@@ -1,0 +1,5 @@
+---
+title: eizo
+crosslinks:
+- kaizotrap
+---

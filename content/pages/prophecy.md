@@ -1,0 +1,5 @@
+---
+title: prophecy
+crosslinks:
+- TiesThatBind
+---

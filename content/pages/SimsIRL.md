@@ -1,0 +1,5 @@
+---
+title: SimsIRL
+crosslinks:
+- trashy
+---

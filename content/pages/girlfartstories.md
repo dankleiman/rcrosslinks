@@ -1,0 +1,5 @@
+---
+title: girlfartstories
+crosslinks:
+- eroticliterature
+---

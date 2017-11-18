@@ -1,0 +1,5 @@
+---
+title: CaptionedGifs
+crosslinks:
+- reactiongifs
+---

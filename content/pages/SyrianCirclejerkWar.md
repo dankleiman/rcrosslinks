@@ -1,0 +1,24 @@
+---
+title: SyrianCirclejerkWar
+crosslinks:
+- syriancivilwar
+- livven
+- autotldr
+- REEEEEEEEEE
+- Turkey
+- AssadistWatch
+- AMAAggregator
+- NoFap
+- syrianconflict
+- shitjihadissay
+- japanlife
+- LevantineWar
+- AskReddit
+- worldnews
+- islam
+- FULLCOMMUNISM
+- TurkishCirclejerk
+- IranianCircleJerkWar
+- turkishcivilwar
+- rational
+---

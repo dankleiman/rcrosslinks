@@ -1,0 +1,5 @@
+---
+title: EveryonesGayForNick
+crosslinks:
+- yiff
+---

@@ -1,0 +1,24 @@
+---
+title: arizona
+crosslinks:
+- phoenix
+- autotldr
+- news
+- worldnews
+- Serendipity
+- politics
+- DeepGreenResistance
+- AskEconomics
+- PhoenixEclipseCharter
+- AskAnAmerican
+- pics
+- WatchRedditDie
+- livven
+- Marijuana
+- todayilearned
+- relationshipadvice
+- Military
+- HIFW
+- arizonapolitics
+- AmericanPlantSwap
+---

@@ -1,0 +1,22 @@
+---
+title: fcbayern
+crosslinks:
+- soccer
+- realmadrid
+- BrasilOnReddit
+- Juve
+- Gunners
+- MCFC
+- German
+- modnews
+- Munich
+- Bundesliga
+- chelseafc
+- lecutinsideman
+- pics
+- swanseacity
+- place
+- livven
+- soccerstreams
+- MLS
+---

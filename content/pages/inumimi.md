@@ -1,0 +1,5 @@
+---
+title: inumimi
+crosslinks:
+- Pixiv
+---

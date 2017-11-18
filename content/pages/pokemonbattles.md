@@ -1,0 +1,5 @@
+---
+title: pokemonbattles
+crosslinks:
+- Serendipity
+---

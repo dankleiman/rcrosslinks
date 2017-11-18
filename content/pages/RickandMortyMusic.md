@@ -1,0 +1,5 @@
+---
+title: RickandMortyMusic
+crosslinks:
+- spotify
+---

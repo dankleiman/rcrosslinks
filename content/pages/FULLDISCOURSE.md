@@ -1,0 +1,24 @@
+---
+title: FULLDISCOURSE
+crosslinks:
+- communism
+- FULLCOMMUNISM
+- autotldr
+- communism101
+- LateStageCapitalism
+- azureScapegoat
+- Anarchism
+- SeattleWA
+- SandersForPresident
+- communists
+- assassinscreed
+- xkcd
+- socialism
+- ChapoTrapHouse
+- syriancivilwar
+- marxism_101
+- space
+- startrek
+- PoliticalRevolutionMA
+- TROLLXCOMMUNISM
+---

@@ -1,0 +1,24 @@
+---
+title: Trucks
+crosslinks:
+- cars
+- livven
+- AutoDetailing
+- metric_units
+- ATBGE
+- ram_trucks
+- autotldr
+- trucking
+- Hookit
+- Shitty_Car_Mods
+- SUV
+- overlanding
+- 4x4
+- Diesel
+- Truckers
+- slammedtrucks
+- Nexus6P
+- CarAV
+- f150
+- BlackPeopleTwitter
+---

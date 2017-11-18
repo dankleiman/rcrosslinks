@@ -1,0 +1,5 @@
+---
+title: Mandelaeffectdecoded
+crosslinks:
+- conspiracy
+---

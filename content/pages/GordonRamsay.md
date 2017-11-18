@@ -1,0 +1,5 @@
+---
+title: GordonRamsay
+crosslinks:
+- IAmA
+---

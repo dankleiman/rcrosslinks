@@ -1,0 +1,5 @@
+---
+title: shittykickstarter
+crosslinks:
+- kickstarter
+---

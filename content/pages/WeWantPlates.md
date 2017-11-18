@@ -1,0 +1,24 @@
+---
+title: WeWantPlates
+crosslinks:
+- food
+- StupidFood
+- wewantcups
+- IsItBullshit
+- vegan
+- grilledcheese
+- iamveryculinary
+- shittyfoodporn
+- mildlyinteresting
+- MildRedditDrama
+- KarmaConspiracy
+- nocontext
+- restomemes
+- Frugal_Jerk
+- ComedyCemetery
+- livven
+- CasualUK
+- commentgore
+- gatekeeping
+- RepostBurns
+---

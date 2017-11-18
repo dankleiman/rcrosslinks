@@ -1,0 +1,24 @@
+---
+title: Indiemakeupandmore
+crosslinks:
+- IndieExchangeFlair
+- mueflair
+- makeupexchange
+- IndieExchange
+- AsianBeauty
+- newfangl3d
+- MakeupAddiction
+- DIYfragrance
+- femalefashionadvice
+- kratom
+- imamdiscussion
+- RedditLaqueristas
+- SkincareAddiction
+- IAmA
+- e
+- PaleMUA
+- OliveMUA
+- dragonage
+- worldnews
+- BigCatGifs
+---

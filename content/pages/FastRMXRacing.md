@@ -1,0 +1,5 @@
+---
+title: FastRMXRacing
+crosslinks:
+- NintendoSwitch
+---

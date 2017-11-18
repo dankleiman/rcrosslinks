@@ -1,0 +1,24 @@
+---
+title: askMRP
+crosslinks:
+- marriedredpill
+- TheRedPill
+- TheBluePill
+- asktrp
+- RedPillWomen
+- DeadBedrooms
+- RPChristians
+- fucktheredpill
+- relationships
+- sex
+- TwoXChromosomes
+- slutwife
+- adultery
+- AMA
+- keto
+- Incels
+- steroids
+- intermittentfasting
+- everymanshouldknow
+- AskMen
+---

@@ -1,0 +1,24 @@
+---
+title: firefly
+crosslinks:
+- xkcd
+- livven
+- FanTheories
+- DIY
+- IAmA
+- FireflyGifs
+- HighQualityGifs
+- firstworldanarchists
+- AMAAggregator
+- gatekeeping
+- jewelstaite
+- CrusaderKings
+- niceguys
+- OnlyTheHottestGirls
+- starwars
+- ProductPorn
+- ActionFigures
+- unexpectedfirefly
+- BSG
+- Frugal_Jerk
+---

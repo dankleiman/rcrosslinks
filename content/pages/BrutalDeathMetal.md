@@ -1,0 +1,5 @@
+---
+title: BrutalDeathMetal
+crosslinks:
+- Deathcore
+---

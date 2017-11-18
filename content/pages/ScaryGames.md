@@ -1,0 +1,5 @@
+---
+title: ScaryGames
+crosslinks:
+- Gameplay
+---

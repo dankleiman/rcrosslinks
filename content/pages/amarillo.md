@@ -1,0 +1,5 @@
+---
+title: amarillo
+crosslinks:
+- ICoveredASong
+---

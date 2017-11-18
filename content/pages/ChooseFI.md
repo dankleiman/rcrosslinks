@@ -1,0 +1,5 @@
+---
+title: ChooseFI
+crosslinks:
+- financialindependence
+---

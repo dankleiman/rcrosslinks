@@ -1,0 +1,5 @@
+---
+title: OobeyDooBadoobySWGOH
+crosslinks:
+- SWGalaxyOfHeroes
+---

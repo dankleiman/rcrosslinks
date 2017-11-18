@@ -1,0 +1,5 @@
+---
+title: grisaia
+crosslinks:
+- visualnovels
+---

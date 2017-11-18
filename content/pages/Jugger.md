@@ -1,0 +1,5 @@
+---
+title: Jugger
+crosslinks:
+- LARP
+---

@@ -1,0 +1,5 @@
+---
+title: transgendersteam
+crosslinks:
+- copypasta
+---

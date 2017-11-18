@@ -1,0 +1,5 @@
+---
+title: dirtyprojectors
+crosslinks:
+- indieheads
+---

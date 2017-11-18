@@ -1,0 +1,5 @@
+---
+title: GakkouGurashi
+crosslinks:
+- Pixiv
+---

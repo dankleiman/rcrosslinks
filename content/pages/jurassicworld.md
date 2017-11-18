@@ -1,0 +1,5 @@
+---
+title: jurassicworld
+crosslinks:
+- JurassicPark
+---

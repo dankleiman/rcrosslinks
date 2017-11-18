@@ -1,0 +1,5 @@
+---
+title: COfishing
+crosslinks:
+- Hunting
+---

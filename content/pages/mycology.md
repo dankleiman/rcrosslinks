@@ -1,0 +1,24 @@
+---
+title: mycology
+crosslinks:
+- Mushrooms
+- terrariums
+- MushroomGrowers
+- autotldr
+- livven
+- mildlyinteresting
+- Slimemolds
+- whatisthismushroom
+- fatsquirrelhate
+- KotakuInAction
+- iamverysmart
+- Awwducational
+- species
+- KitchenConfidential
+- whatisthisthing
+- me_irl
+- food
+- ShroomID
+- Bonsai
+- xkcd
+---

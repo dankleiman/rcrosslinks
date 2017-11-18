@@ -1,0 +1,24 @@
+---
+title: ManyATrueNerd
+crosslinks:
+- livven
+- totalwar
+- JonTron
+- PrequelMemes
+- xkcd
+- paradoxplaza
+- skyrim
+- Fallout
+- explainlikeimfive
+- LifeasanNPC
+- TsundereSharks
+- IAmA
+- aoe2
+- mildlyinteresting
+- indiegames
+- whowouldwin
+- csshelp
+- gaming
+- IgnorantImgur
+- gameideas
+---

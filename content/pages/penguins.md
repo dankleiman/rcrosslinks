@@ -1,0 +1,24 @@
+---
+title: penguins
+crosslinks:
+- hockey
+- livven
+- NHLStreams
+- hockeyjerseys
+- puckstreams
+- caps
+- Predators
+- penstickets
+- nhl
+- HELOE
+- OttawaSenators
+- LazyMan
+- funny
+- anaheimducks
+- reddit_stream
+- SanJoseSharks
+- TampaBayLightning
+- shitpensfanssay
+- leafs
+- AnaheimDucks
+---

@@ -1,0 +1,5 @@
+---
+title: BestPony
+crosslinks:
+- hmmm
+---

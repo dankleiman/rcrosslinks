@@ -1,0 +1,5 @@
+---
+title: ModelHeritage
+crosslinks:
+- ModelUSPress
+---

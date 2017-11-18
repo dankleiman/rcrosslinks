@@ -1,0 +1,24 @@
+---
+title: Liberal
+crosslinks:
+- The_Donald
+- Conservative
+- politics
+- esist
+- EnoughTrumpSpam
+- xkcd
+- Bad_Cop_No_Donut
+- uncensorednews
+- Anarchism
+- explainlikeimfive
+- Economics
+- skeptic
+- Military
+- news
+- POTUSWatch
+- Documentaries
+- MakeNewFriendsHere
+- pics
+- NeverTrump
+- democrats
+---

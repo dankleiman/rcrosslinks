@@ -1,0 +1,5 @@
+---
+title: InfraArcana
+crosslinks:
+- roguelikes
+---

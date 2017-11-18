@@ -1,0 +1,5 @@
+---
+title: solresol
+crosslinks:
+- auxlangs
+---

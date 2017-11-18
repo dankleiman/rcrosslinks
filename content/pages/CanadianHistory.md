@@ -1,0 +1,5 @@
+---
+title: CanadianHistory
+crosslinks:
+- canada
+---

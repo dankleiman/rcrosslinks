@@ -1,0 +1,24 @@
+---
+title: SeriousConversation
+crosslinks:
+- CasualConversation
+- SuicideWatch
+- trees
+- SWResources
+- Mindfulness
+- DrugNerds
+- OutOfTheLoop
+- coincidence
+- Fire
+- EOOD
+- studentloandefaulters
+- IAmA
+- AsianParentStories
+- NightOwls
+- AskWomen
+- medical_advice
+- stopdrinking
+- explainlikeimfive
+- personalfinance
+- RoastMe
+---

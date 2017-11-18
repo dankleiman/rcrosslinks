@@ -1,0 +1,23 @@
+---
+title: photoshop
+crosslinks:
+- postprocessing
+- PhotoshopRequest
+- PhotoshopTutorials
+- glitch_art
+- photography
+- SFM
+- TheseFuckingAccounts
+- ArcherFX
+- humanresources
+- DigitalPainting
+- interestingasfuck
+- wacom
+- 3DScanning
+- YookaLaylee
+- rhino
+- picrequests
+- Colorization
+- logorequests
+- explainlikeimfive
+---

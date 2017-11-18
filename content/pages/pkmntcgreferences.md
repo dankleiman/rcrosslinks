@@ -1,0 +1,5 @@
+---
+title: pkmntcgreferences
+crosslinks:
+- pkmntcgtrades
+---

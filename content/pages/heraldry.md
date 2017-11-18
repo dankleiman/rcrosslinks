@@ -1,0 +1,23 @@
+---
+title: heraldry
+crosslinks:
+- vexillology
+- europe
+- heraldrycirclejerk
+- PassportPorn
+- Wales
+- pics
+- AskHistorians
+- Esperanto
+- finlandConspiracy
+- eu4
+- Genealogy
+- mapporncirclejerk
+- place
+- de
+- philadelphia
+- Archeology
+- WomensSoccer
+- MapFans
+- asklinguistics
+---

@@ -1,0 +1,5 @@
+---
+title: frenchrock
+crosslinks:
+- france
+---

@@ -1,0 +1,24 @@
+---
+title: buildapc
+crosslinks:
+- Amd
+- pcmasterrace
+- hardwareswap
+- nvidia
+- Monitors
+- hardware
+- overclocking
+- techsupport
+- PCMasterRace
+- sffpc
+- SuggestALaptop
+- pcgaming
+- headphones
+- Competitiveoverwatch
+- 600x450
+- watercooling
+- PUBATTLEGROUNDS
+- Overwatch
+- intel
+- techsupportgore
+---

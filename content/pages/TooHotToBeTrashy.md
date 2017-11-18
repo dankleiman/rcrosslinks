@@ -1,0 +1,5 @@
+---
+title: TooHotToBeTrashy
+crosslinks:
+- TrashyPorn
+---

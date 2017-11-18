@@ -1,0 +1,22 @@
+---
+title: tf2shitposterclub
+crosslinks:
+- tf2
+- OverwatchCirclejerk
+- REEEEEEEEEE
+- DeepFriedMemes
+- playtf2
+- civ
+- HealSluts
+- livven
+- forsen
+- ComedyNecrophilia
+- CringeAnarchy
+- paladins
+- tf2circlejerk
+- NTJerkCircle
+- gayfortodd
+- hearthstonecirclejerk
+- Ooer
+- SFM
+---

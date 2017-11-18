@@ -1,0 +1,5 @@
+---
+title: ChicagoPics
+crosslinks:
+- MostBeautiful
+---

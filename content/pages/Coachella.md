@@ -1,0 +1,24 @@
+---
+title: Coachella
+crosslinks:
+- hiphopheads
+- aves
+- trap
+- festivals
+- radiohead
+- starterpacks
+- livesound
+- personalfinance
+- FrankOcean
+- EDM
+- DJs
+- ElectricForest
+- autotldr
+- Music
+- lewronggeneration
+- hhh
+- Drugs
+- electronicmusic
+- pics
+- OutsideLands
+---

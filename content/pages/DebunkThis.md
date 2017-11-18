@@ -1,0 +1,21 @@
+---
+title: DebunkThis
+crosslinks:
+- skeptic
+- xkcd
+- the_donald
+- Missing411
+- explainlikeimfive
+- evolution
+- conspiracy
+- AskAnthropology
+- creepy
+- OnePiece
+- VACCINES
+- Denmark
+- Trumpgret
+- theydidthemath
+- forwardsfromgrandma
+- askscience
+- WatchRedditDie
+---

@@ -1,0 +1,24 @@
+---
+title: SSBM
+crosslinks:
+- SSBPM
+- smashgifs
+- Kappa
+- xdfp
+- xkcd
+- smashcirclejerk
+- FuckFalco
+- AskReddit
+- livven
+- AskElectronics
+- gaming
+- hiphopheads
+- legalizepokefloats
+- todayilearned
+- customGCC
+- copypasta
+- kappa
+- nintendo
+- GreenMarths
+- customgcc
+---

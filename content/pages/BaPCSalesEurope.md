@@ -1,0 +1,5 @@
+---
+title: BaPCSalesEurope
+crosslinks:
+- Amd
+---

@@ -1,0 +1,5 @@
+---
+title: FuckJedYork
+crosslinks:
+- SpaceFeminists
+---

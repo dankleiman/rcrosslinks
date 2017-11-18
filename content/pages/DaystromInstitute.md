@@ -1,0 +1,24 @@
+---
+title: DaystromInstitute
+crosslinks:
+- startrek
+- AskScienceFiction
+- FanTheories
+- DeepSpaceNine
+- startrekgifs
+- askscience
+- PostScarcity
+- arrow
+- space
+- HFY
+- tlhInganHol
+- videos
+- whowouldwin
+- StarTrekViewingParty
+- oddlysatisfying
+- holodeck
+- MirrorDaystrom
+- rickandmorty
+- WritingPrompts
+- science
+---

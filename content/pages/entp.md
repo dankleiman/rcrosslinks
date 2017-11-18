@@ -1,0 +1,24 @@
+---
+title: entp
+crosslinks:
+- INTP
+- infj
+- intj
+- infp
+- xkcd
+- ENFP
+- asktransgender
+- entj
+- istp
+- The48LawsOfPower
+- LateStageCapitalism
+- shittyMBTI
+- TheRedPill
+- sensor
+- changemyview
+- Nootropics
+- funny
+- autotldr
+- AskReddit
+- AskPhilosophyFAQ
+---

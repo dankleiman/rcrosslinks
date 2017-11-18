@@ -1,0 +1,5 @@
+---
+title: fossilpantheon
+crosslinks:
+- twitchplayspokemon
+---

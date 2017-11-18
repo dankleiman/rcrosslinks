@@ -1,0 +1,5 @@
+---
+title: nchchockey
+crosslinks:
+- hockey
+---

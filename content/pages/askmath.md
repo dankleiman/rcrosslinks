@@ -1,0 +1,23 @@
+---
+title: askmath
+crosslinks:
+- learnmath
+- math
+- askscience
+- AskPhysics
+- xkcd
+- theydidthemath
+- unexpectedfactorial
+- Buttcoin
+- MathHelp
+- HomeworkHelp
+- Serendipity
+- Minecraft
+- pathofexile
+- legaladvice
+- AskStatistics
+- cheatatmathhomework
+- answers
+- musictheory
+- apps
+---

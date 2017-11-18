@@ -1,0 +1,24 @@
+---
+title: outside
+crosslinks:
+- xkcd
+- mildlyinteresting
+- PersonalGame
+- unnecessaryhypeman
+- ADHD
+- nocontext
+- atheism
+- BlackTapeProject
+- Inside
+- Unexpected
+- UnexpectedHamilton
+- pokemongo
+- exmormon
+- WTF
+- starcraft
+- fountainpens
+- gardening
+- ShittyLifeProTips
+- pathofexile
+- aviation
+---

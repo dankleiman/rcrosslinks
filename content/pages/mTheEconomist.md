@@ -1,0 +1,5 @@
+---
+title: mTheEconomist
+crosslinks:
+- ModelUSPress
+---

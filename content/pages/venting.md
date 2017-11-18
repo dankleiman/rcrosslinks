@@ -1,0 +1,5 @@
+---
+title: venting
+crosslinks:
+- watchpeopledie
+---

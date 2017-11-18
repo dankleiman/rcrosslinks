@@ -1,0 +1,5 @@
+---
+title: squiddlediddlers
+crosslinks:
+- homestuck
+---

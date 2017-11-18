@@ -1,0 +1,5 @@
+---
+title: DaronMalakian
+crosslinks:
+- systemofadown
+---

@@ -1,0 +1,24 @@
+---
+title: buffalobills
+crosslinks:
+- nfl
+- livven
+- The_Cardale
+- panthers
+- 716Place
+- place
+- reddit_stream
+- pics
+- Jaguars
+- NFL_Draft
+- announcements
+- all
+- Buffalo
+- AskReddit
+- raiders
+- Patriots
+- LosAngelesRams
+- PoliticalHumor
+- EvilLeagueOfEvil
+- snapchat_sluts
+---

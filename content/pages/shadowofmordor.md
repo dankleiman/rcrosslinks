@@ -1,0 +1,24 @@
+---
+title: shadowofmordor
+crosslinks:
+- shadow_of_war
+- livven
+- gaming
+- Gamingcirclejerk
+- dawnofwar
+- patientgamers
+- PrequelMemes
+- forhonor
+- GameDeals
+- IAmA
+- dwarffortress
+- ShadowOfScreenshots
+- gatekeeping
+- witcher
+- ihavesex
+- AskHistorians
+- sadcringe
+- Pay_Respects
+- tolkienfans
+- causeWhyNotMate
+---

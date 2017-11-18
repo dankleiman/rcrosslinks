@@ -1,0 +1,24 @@
+---
+title: TalesFromTheCustomer
+crosslinks:
+- IDontWorkHereLady
+- TalesFromRetail
+- MaliciousCompliance
+- talesfromtechsupport
+- TalesFromTheFrontDesk
+- CatsNamedToothless
+- gatekeeping
+- news
+- TalesFromYourServer
+- announcements
+- curlyhair
+- JusticeServed
+- todayilearned
+- Advice
+- ABraThatFits
+- Jokes
+- Ooer
+- myevilplan
+- AsABlackMan
+- the_cheeto
+---

@@ -1,0 +1,5 @@
+---
+title: Parabola
+crosslinks:
+- Paranoid
+---

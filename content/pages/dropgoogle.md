@@ -1,0 +1,5 @@
+---
+title: dropgoogle
+crosslinks:
+- xkcd
+---

@@ -1,0 +1,5 @@
+---
+title: Composition
+crosslinks:
+- musictheory
+---

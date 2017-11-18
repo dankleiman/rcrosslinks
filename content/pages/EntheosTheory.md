@@ -1,0 +1,5 @@
+---
+title: EntheosTheory
+crosslinks:
+- PsychedelicStudies
+---

@@ -1,0 +1,24 @@
+---
+title: greenday
+crosslinks:
+- weezer
+- The_Donald
+- AskReddit
+- Music
+- RedHotChiliPeppers
+- 4PanelCringe
+- definitelynotmeirl
+- TheDearHunter
+- thesims
+- Blink182
+- EnoughTrumpSpam
+- gaming
+- TwistMyAMA
+- Guitar
+- autotldr
+- Muse
+- place
+- livven
+- DetroitRedWings
+- GoForGold
+---

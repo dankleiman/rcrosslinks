@@ -1,0 +1,5 @@
+---
+title: HOLO
+crosslinks:
+- SpiceandWolf
+---

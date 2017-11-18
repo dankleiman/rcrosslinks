@@ -1,0 +1,24 @@
+---
+title: darkjokes
+crosslinks:
+- AntiJokes
+- Jokes
+- toosoon
+- UnexpectedOuija
+- SummerReddit
+- AntiAntiJokes
+- REEEEEEEEEE
+- AskReddit
+- TrueFacts
+- UnexpectedlyWholesome
+- DarkHumor
+- antijokes
+- funny
+- OffensiveMemes
+- ImGoingToHellForThis
+- lies
+- dontfuckingsayit
+- Unclejokes
+- noshitouija
+- jokes
+---

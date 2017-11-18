@@ -1,0 +1,5 @@
+---
+title: ChangeLogHumor
+crosslinks:
+- ProgrammerHumor
+---

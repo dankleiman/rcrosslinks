@@ -1,0 +1,5 @@
+---
+title: Brandy
+crosslinks:
+- ScotchSwap
+---

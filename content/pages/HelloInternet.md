@@ -1,0 +1,24 @@
+---
+title: HelloInternet
+crosslinks:
+- vexillology
+- CGPGrey
+- autotldr
+- livven
+- xkcd
+- Flaggyflag
+- CGPGrey2
+- interestingasfuck
+- place
+- unexpectedfactorial
+- vexillologycirclejerk
+- mildlyinteresting
+- AskReddit
+- Timfoolery
+- Cortex
+- eu4
+- meirl
+- EmpireDidNothingWrong
+- me_irl
+- LifeProTips
+---

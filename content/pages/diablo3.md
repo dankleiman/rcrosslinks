@@ -1,0 +1,24 @@
+---
+title: diablo3
+crosslinks:
+- D3PS4
+- pathofexile
+- TacosandDragons
+- d3ps4
+- xkcd
+- dresdenfiles
+- hearthstone
+- pcmasterrace
+- threats
+- mentalhealth
+- gonewildaudio
+- nocontext
+- shitposts
+- RGBProfiles
+- me_irl
+- place
+- titlegore
+- pcgaming
+- StreetFighter
+- hedidthemath
+---

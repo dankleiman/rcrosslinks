@@ -1,0 +1,24 @@
+---
+title: AZCardinals
+crosslinks:
+- nfl
+- livven
+- EvilLeagueOfEvil
+- reddit_stream
+- toosoon
+- suns
+- ravens
+- NFL_Draft
+- poltics
+- lookatmydog
+- Madden
+- Serendipity
+- pics
+- UpliftingNews
+- 4thdowncolts
+- Jaguars
+- Patriots
+- AndreEllington4eva
+- modnews
+- nflstreams
+---

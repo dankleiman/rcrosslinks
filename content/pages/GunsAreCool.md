@@ -1,0 +1,24 @@
+---
+title: GunsAreCool
+crosslinks:
+- autotldr
+- shitguncontrollerssay
+- NotSouthPark
+- ShitPoliticsSays
+- Alec
+- GunOops
+- dgu
+- Shitstatistssay
+- ShitAmericansSay
+- news
+- Firearms
+- AnythingGoesNews
+- politics
+- rising
+- iamverysmart
+- CringeAnarchy
+- NoShitSherlock
+- GGwaG
+- lists
+- flashlight
+---

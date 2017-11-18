@@ -1,0 +1,24 @@
+---
+title: GoForGold
+crosslinks:
+- AutoMauderator
+- NoStupidQuestions
+- redditlogos
+- counting
+- Kanye
+- wholesomememes
+- gifs
+- AppleMusic
+- PuzzleAndDragons
+- Huawei
+- lounge
+- dota2castit
+- tipofmytongue
+- imaginarynetwork
+- icantdrawthat
+- getdisciplined
+- worstof
+- PhotoshopRequest
+- aprilfools
+- freegold
+---

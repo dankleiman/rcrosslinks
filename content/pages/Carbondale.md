@@ -1,0 +1,5 @@
+---
+title: Carbondale
+crosslinks:
+- SIUC
+---

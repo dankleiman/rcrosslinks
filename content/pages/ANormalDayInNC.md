@@ -1,0 +1,5 @@
+---
+title: ANormalDayInNC
+crosslinks:
+- Charlotte
+---

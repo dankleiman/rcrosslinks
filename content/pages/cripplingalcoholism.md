@@ -1,0 +1,24 @@
+---
+title: cripplingalcoholism
+crosslinks:
+- drunk
+- dryalcoholics
+- stopdrinking
+- cagonewild
+- ca
+- CAart
+- SpaceAids
+- livven
+- kratom
+- emojipasta
+- researchchemicals
+- The_Donald
+- FULLCOMMUNISM
+- OutlandishAlcoholics
+- BaclofenForAlcoholism
+- soylent
+- RepressedGoneWild
+- Aquariums
+- folkpunk
+- HighQualityGifs
+---

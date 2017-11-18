@@ -1,0 +1,5 @@
+---
+title: MyBody
+crosslinks:
+- gonewild
+---

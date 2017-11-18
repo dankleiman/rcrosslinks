@@ -1,0 +1,5 @@
+---
+title: FreeProWrestling
+crosslinks:
+- stardomjoshi
+---

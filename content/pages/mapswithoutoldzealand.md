@@ -1,0 +1,5 @@
+---
+title: mapswithoutoldzealand
+crosslinks:
+- mildlyinteresting
+---

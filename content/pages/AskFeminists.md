@@ -1,0 +1,24 @@
+---
+title: AskFeminists
+crosslinks:
+- MensRights
+- Feminism
+- asktransgender
+- againstmensrights
+- BadSocialScience
+- TwoXChromosomes
+- TheRedPill
+- Negareddit
+- AskWomen
+- changemyview
+- socialjustice101
+- GenderCritical
+- Economics
+- Socialism_101
+- AskReddit
+- xkcd
+- mensrights
+- Intactivists
+- offmychest
+- AskHistorians
+---

@@ -1,0 +1,5 @@
+---
+title: IPython
+crosslinks:
+- Python
+---

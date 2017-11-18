@@ -1,0 +1,5 @@
+---
+title: GameAndKeyGiveaways
+crosslinks:
+- freegames
+---

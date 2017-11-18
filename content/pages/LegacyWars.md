@@ -1,0 +1,5 @@
+---
+title: LegacyWars
+crosslinks:
+- powerrangers
+---

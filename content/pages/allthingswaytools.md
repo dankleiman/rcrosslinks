@@ -1,0 +1,5 @@
+---
+title: allthingswaytools
+crosslinks:
+- xkcd
+---

@@ -1,0 +1,5 @@
+---
+title: fuckthemods
+crosslinks:
+- circlejerk
+---

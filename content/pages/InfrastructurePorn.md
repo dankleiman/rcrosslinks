@@ -1,0 +1,24 @@
+---
+title: InfrastructurePorn
+crosslinks:
+- PornOverlords
+- BrasilOnReddit
+- CitiesSkylines
+- engineteststands
+- nyc
+- intersectionporn
+- TomScott
+- Normandie
+- interestingasfuck
+- london
+- Pareidolia
+- EarthPorn
+- DesirePath
+- RoadPorn
+- europe
+- nocontext
+- OldPhotosInRealLife
+- surrealmemes
+- TheseFuckingAccounts
+- videos
+---

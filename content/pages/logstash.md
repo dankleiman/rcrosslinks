@@ -1,0 +1,5 @@
+---
+title: logstash
+crosslinks:
+- elasticsearch
+---

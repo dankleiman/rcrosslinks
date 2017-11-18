@@ -1,0 +1,24 @@
+---
+title: forhire
+crosslinks:
+- testimonials
+- DistritoFederal
+- HireaWriter
+- worldnews
+- TheseFuckingAccounts
+- hacking
+- iOSProgramming
+- WorkOnline
+- csgo
+- lasercutting
+- mechmarket
+- Buttcoin
+- AskReddit
+- fakenews
+- gifs
+- logorequests
+- PhotoshopRequest
+- digitalnomad
+- vegas
+- DeadRedditors
+---

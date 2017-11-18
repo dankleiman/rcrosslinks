@@ -1,0 +1,24 @@
+---
+title: PleX
+crosslinks:
+- DataHoarder
+- PlexACD
+- linuxserver
+- Chromecast
+- sonarr
+- AndroidTV
+- cordcutters
+- megalinks
+- unRAID
+- xkcd
+- JDM_WAAAT
+- synology
+- selfhosted
+- Piracy
+- autotldr
+- Lidarr
+- HomeNetworking
+- MoviemaniaHQ
+- pihole
+- rickscherer
+---

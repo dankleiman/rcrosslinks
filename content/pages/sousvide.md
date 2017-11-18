@@ -1,0 +1,24 @@
+---
+title: sousvide
+crosslinks:
+- food
+- smoking
+- AskCulinary
+- ramen
+- ShadowBan
+- steak
+- seriouseats
+- ketorecipes
+- keto
+- amazonecho
+- todayilearned
+- LifeProTips
+- Cooking
+- Canning
+- PressureCooking
+- askscience
+- DIY
+- IndianFood
+- WeWantPlates
+- Serendipity
+---

@@ -1,0 +1,5 @@
+---
+title: nexusmods
+crosslinks:
+- FalloutMods
+---

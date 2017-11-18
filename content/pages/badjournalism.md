@@ -1,0 +1,5 @@
+---
+title: badjournalism
+crosslinks:
+- conspiracy
+---

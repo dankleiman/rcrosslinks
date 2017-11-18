@@ -1,0 +1,24 @@
+---
+title: nin
+crosslinks:
+- nincirclejerk
+- nin_arg
+- vinyl
+- radiohead
+- IAmA
+- place
+- lewronggeneration
+- livven
+- codes
+- The_Donald
+- '2013'
+- theitalyplace
+- ToolBand
+- RedHotChiliPeppers
+- 3teeth
+- Awwww
+- OldSchoolCool
+- places
+- houston
+- REEEEEE
+---

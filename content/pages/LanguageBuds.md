@@ -1,0 +1,5 @@
+---
+title: LanguageBuds
+crosslinks:
+- Serendipity
+---

@@ -1,0 +1,5 @@
+---
+title: crappymovieposters
+crosslinks:
+- MovieGuide
+---

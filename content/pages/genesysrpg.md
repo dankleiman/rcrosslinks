@@ -1,0 +1,5 @@
+---
+title: genesysrpg
+crosslinks:
+- FantasyFlightGames
+---

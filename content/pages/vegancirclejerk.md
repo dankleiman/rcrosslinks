@@ -1,0 +1,24 @@
+---
+title: vegancirclejerk
+crosslinks:
+- vegan
+- vegetarian
+- livven
+- autotldr
+- EatCheapAndHealthy
+- interestingasfuck
+- AskReddit
+- gifs
+- todayilearned
+- Buddhism
+- CringeAnarchy
+- news
+- Futurology
+- food
+- Pescetarian
+- LifeProTips
+- LACTOOVO
+- salty
+- VeganChill
+- keto
+---

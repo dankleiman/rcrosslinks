@@ -1,0 +1,5 @@
+---
+title: SeptagonJerk
+crosslinks:
+- oddlysatisfying
+---

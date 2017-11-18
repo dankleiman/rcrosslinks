@@ -1,0 +1,5 @@
+---
+title: rumpelztiltskin
+crosslinks:
+- niceguys
+---

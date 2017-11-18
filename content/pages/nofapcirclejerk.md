@@ -1,0 +1,5 @@
+---
+title: nofapcirclejerk
+crosslinks:
+- NoFap
+---

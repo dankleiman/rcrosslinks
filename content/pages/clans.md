@@ -1,0 +1,5 @@
+---
+title: clans
+crosslinks:
+- ImpactGamingCommunity
+---

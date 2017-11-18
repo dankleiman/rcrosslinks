@@ -1,0 +1,24 @@
+---
+title: Ultraleft
+crosslinks:
+- marxism_101
+- shitleftistssay
+- leftcommunism
+- FULLCOMMUNISM
+- COMPLETEANARCHY
+- socialism
+- altright
+- xkcd
+- shittankiessay
+- u_melem
+- ImagesOfThe1910s
+- EnoughBrocialistSpam
+- PartyParrot
+- Anarchism
+- redpreppers
+- KotakuInAction
+- forwardsfromgrandma
+- ChapoTrapHouse
+- Anarchy101
+- communists
+---

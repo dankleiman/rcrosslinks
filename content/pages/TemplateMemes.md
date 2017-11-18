@@ -1,0 +1,5 @@
+---
+title: TemplateMemes
+crosslinks:
+- dankmemes
+---

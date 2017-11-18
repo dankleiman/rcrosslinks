@@ -1,0 +1,5 @@
+---
+title: ChurchofRise
+crosslinks:
+- Pixiv
+---

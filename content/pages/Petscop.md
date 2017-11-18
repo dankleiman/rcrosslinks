@@ -1,0 +1,22 @@
+---
+title: Petscop
+crosslinks:
+- creepygaming
+- tipofmyjoystick
+- ARG
+- livven
+- fivenightsatfreddys
+- UnexpectedHomestuck
+- rule34
+- CrappyDesign
+- nocontext
+- Pikmin
+- csshelp
+- dank_meme
+- JonTron
+- CringeAnarchy
+- HalfLife
+- retrogaming
+- PetscopREVEAL
+- The_Donald
+---

@@ -1,0 +1,5 @@
+---
+title: DeathBeaters
+crosslinks:
+- hogwartswerewolvesB
+---

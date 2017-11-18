@@ -1,0 +1,5 @@
+---
+title: Freakonomics
+crosslinks:
+- autotldr
+---

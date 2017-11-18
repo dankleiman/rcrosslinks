@@ -1,0 +1,24 @@
+---
+title: Amoledbackgrounds
+crosslinks:
+- wallpapers
+- Verticalwallpapers
+- androidthemes
+- space
+- Art
+- oneplus
+- PixelArt
+- gaming
+- Nexus6P
+- EarthPorn
+- pics
+- textlessposters
+- destinythegame
+- pokemon
+- GalaxyS8
+- dontdeadopeninside
+- wow
+- FocusST
+- titanfall
+- GetMotivated
+---

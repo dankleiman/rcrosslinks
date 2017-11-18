@@ -1,0 +1,24 @@
+---
+title: beetlejuicing
+crosslinks:
+- AskReddit
+- funny
+- Showerthoughts
+- Jokes
+- pics
+- todayilearned
+- IAmA
+- gifs
+- mildlyinteresting
+- WTF
+- interestingasfuck
+- gaming
+- aww
+- videos
+- tifu
+- CrappyDesign
+- me_irl
+- Music
+- Tinder
+- HighQualityGifs
+---

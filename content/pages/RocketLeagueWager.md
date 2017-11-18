@@ -1,0 +1,5 @@
+---
+title: RocketLeagueWager
+crosslinks:
+- RocketLeagueExchange
+---

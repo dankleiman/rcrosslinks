@@ -1,0 +1,5 @@
+---
+title: fuckswithducks
+crosslinks:
+- place
+---

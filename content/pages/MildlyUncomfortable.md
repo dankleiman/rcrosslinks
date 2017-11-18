@@ -1,0 +1,5 @@
+---
+title: MildlyUncomfortable
+crosslinks:
+- ShittyPhotoshop
+---

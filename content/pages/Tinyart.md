@@ -1,0 +1,5 @@
+---
+title: Tinyart
+crosslinks:
+- Art
+---

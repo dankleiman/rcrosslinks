@@ -1,0 +1,5 @@
+---
+title: Kwaderno
+crosslinks:
+- BoredandIgnored
+---

@@ -1,0 +1,5 @@
+---
+title: kentuckyfriedchicken
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,24 @@
+---
+title: electronics
+crosslinks:
+- AskElectronics
+- videos
+- xkcd
+- networking
+- IgnorantImgur
+- StallmanWasRight
+- Appliances
+- ECE
+- MachinePorn
+- mildlyinteresting
+- electronic_cigarette
+- mod
+- AskMen
+- interestingasfuck
+- VXJunkies
+- vintage_electronics
+- AskReddit
+- arduino
+- programming
+- modnews
+---

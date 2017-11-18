@@ -1,0 +1,5 @@
+---
+title: InfectedMushroom
+crosslinks:
+- pics
+---

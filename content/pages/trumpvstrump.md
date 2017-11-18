@@ -1,0 +1,5 @@
+---
+title: trumpvstrump
+crosslinks:
+- facepalm
+---

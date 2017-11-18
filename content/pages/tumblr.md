@@ -1,0 +1,24 @@
+---
+title: tumblr
+crosslinks:
+- xkcd
+- AskReddit
+- tippr
+- WritingPrompts
+- funny
+- livven
+- pics
+- HFY
+- nocontext
+- todayilearned
+- AskHistorians
+- Jokes
+- DnDGreentext
+- ShitRedditSays
+- IAmA
+- science
+- nosleep
+- VoxTriarii
+- Showerthoughts
+- rpg
+---

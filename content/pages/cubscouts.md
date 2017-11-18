@@ -1,0 +1,5 @@
+---
+title: cubscouts
+crosslinks:
+- Serendipity
+---

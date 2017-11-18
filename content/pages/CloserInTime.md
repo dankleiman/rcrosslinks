@@ -1,0 +1,5 @@
+---
+title: CloserInTime
+crosslinks:
+- POLITIC
+---

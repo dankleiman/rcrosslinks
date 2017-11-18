@@ -1,0 +1,24 @@
+---
+title: batman
+crosslinks:
+- autotldr
+- lego
+- livven
+- DCcomics
+- movies
+- DC_Cinematic
+- pics
+- BatmanTest
+- AskReddit
+- funkopop
+- MovieDetails
+- funny
+- BatmanArkham
+- Brampton
+- dc_cinematic
+- HailCorporate
+- PrettyOlderWomen
+- gotham
+- IAmA
+- WeHateMovies
+---

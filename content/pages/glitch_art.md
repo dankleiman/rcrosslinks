@@ -1,0 +1,24 @@
+---
+title: glitch_art
+crosslinks:
+- livven
+- intothetunnel
+- pixelsorting
+- pics
+- mildlyinteresting
+- wallpapers
+- Art
+- VaporwaveArt
+- VaporwaveAesthetics
+- EarthPorn
+- PixelArt
+- softwaregore
+- space
+- HumanPorn
+- gifs
+- Vaporwave
+- OldSchoolCool
+- causeWhyNotMate
+- Graffiti
+- outrun
+---

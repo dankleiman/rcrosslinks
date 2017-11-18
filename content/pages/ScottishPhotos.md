@@ -1,0 +1,5 @@
+---
+title: ScottishPhotos
+crosslinks:
+- EarthPorn
+---

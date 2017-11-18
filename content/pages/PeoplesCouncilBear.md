@@ -1,0 +1,5 @@
+---
+title: PeoplesCouncilBear
+crosslinks:
+- BearGame
+---

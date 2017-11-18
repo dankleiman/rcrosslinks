@@ -1,0 +1,5 @@
+---
+title: CountOnceAYear
+crosslinks:
+- CountOnceADay
+---

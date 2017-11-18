@@ -1,0 +1,5 @@
+---
+title: LogicMonitor
+crosslinks:
+- teslamotors
+---

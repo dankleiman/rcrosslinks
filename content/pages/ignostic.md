@@ -1,0 +1,5 @@
+---
+title: ignostic
+crosslinks:
+- pantheism
+---

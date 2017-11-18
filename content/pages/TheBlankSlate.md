@@ -1,0 +1,5 @@
+---
+title: TheBlankSlate
+crosslinks:
+- TheBlankSlaters
+---

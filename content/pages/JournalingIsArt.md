@@ -1,0 +1,5 @@
+---
+title: JournalingIsArt
+crosslinks:
+- livven
+---

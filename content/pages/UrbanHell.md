@@ -1,0 +1,24 @@
+---
+title: UrbanHell
+crosslinks:
+- CityPorn
+- BrasilOnReddit
+- ANormalDayInRussia
+- antinatalism
+- Detroit
+- ShitAmericansSay
+- CitiesSkylines
+- collapse
+- mycology
+- shittyHDR
+- drunk
+- malefashionadvice
+- japancirclejerk
+- BeAmazed
+- SummerReddit
+- China
+- apocalympics2016
+- ArchitecturePorn
+- vancouver
+- truestory
+---

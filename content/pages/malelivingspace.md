@@ -1,0 +1,24 @@
+---
+title: malelivingspace
+crosslinks:
+- AmateurRoomPorn
+- DIY
+- audiophile
+- Mid_Century
+- AskReddit
+- Zeos
+- xkcd
+- ThriftStoreHauls
+- vinyl
+- Hue
+- hometheater
+- TinyHouses
+- Frugal_Jerk
+- woodworking
+- headphones
+- succulents
+- toomanypillows
+- picturesonawall
+- outrun
+- RetroFuturism
+---

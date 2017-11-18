@@ -1,0 +1,24 @@
+---
+title: metalworking
+crosslinks:
+- DIY
+- Welding
+- spam
+- Blacksmith
+- Skookum
+- wallart
+- Serendipity
+- MetalCasting
+- metallurgy
+- jewelers
+- whatsthisrock
+- AskAnEngineer
+- woodworking
+- wheredidthesodago
+- livven
+- HVAC
+- SneakyBackgroundFeet
+- Machinists
+- jewelry
+- mallninjashit
+---

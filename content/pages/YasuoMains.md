@@ -1,0 +1,24 @@
+---
+title: YasuoMains
+crosslinks:
+- leagueoflegends
+- summonerschool
+- Rivenmains
+- KoreanAdvice
+- fizzmains
+- lol
+- ChampionMains
+- gangplankmains
+- zedmains
+- TwistedFateMains
+- akalimains
+- Jaxmains
+- Pay_Respects
+- Overwatch
+- lolMidLane
+- LeagueOfMemes
+- REEEEEEEEEE
+- FioraMains
+- ekkomains
+- LoLCoaching
+---

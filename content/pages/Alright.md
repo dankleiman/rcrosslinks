@@ -1,0 +1,5 @@
+---
+title: Alright
+crosslinks:
+- ggggg
+---

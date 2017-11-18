@@ -1,0 +1,5 @@
+---
+title: Issaquah
+crosslinks:
+- SeattleWA
+---

@@ -1,6 +1,7 @@
 title = "Top Crosslinked Subreddits"
 baseURL = "/"
 languageCode = "en-us"
+publishDir = "docs"
 
 [permalinks]
   pages = "/r/:title/"

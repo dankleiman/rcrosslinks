@@ -1,0 +1,24 @@
+---
+title: Music
+crosslinks:
+- IAmA
+- Metal
+- hiphopheads
+- videos
+- AskReddit
+- vinyl
+- lewronggeneration
+- todayilearned
+- xkcd
+- tipofmytongue
+- WeAreTheMusicMakers
+- KendrickLamar
+- outrun
+- OutOfTheLoop
+- gatekeeping
+- funny
+- listentothis
+- news
+- gorillaz
+- indieheads
+---

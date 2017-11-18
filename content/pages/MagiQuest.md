@@ -1,0 +1,5 @@
+---
+title: MagiQuest
+crosslinks:
+- casualiama
+---

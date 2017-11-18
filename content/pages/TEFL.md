@@ -1,0 +1,24 @@
+---
+title: TEFL
+crosslinks:
+- China
+- japancirclejerk
+- TEFL_TIPS_TRAPS_SCAMS
+- ChinaScamCentral
+- Chinavisa
+- VietNam
+- taiwan
+- teachinginjapan
+- HongKong
+- Korean
+- AMAAggregator
+- Thailand
+- ccj2
+- '5555555'
+- digitalnomad
+- travel
+- teflteachers
+- languagelearning
+- Teachers
+- Serendipity
+---

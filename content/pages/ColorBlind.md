@@ -1,0 +1,24 @@
+---
+title: ColorBlind
+crosslinks:
+- funny
+- woahdude
+- askscience
+- Prosopagnosia
+- acne
+- firstworldanarchists
+- MapPorn
+- onetruegod
+- gifs
+- pokemongo
+- AskReddit
+- discordapp
+- india
+- cryptography
+- europe
+- canes
+- CFB
+- oddlysatisfying
+- sweetfx
+- livven
+---

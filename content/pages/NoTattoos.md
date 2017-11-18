@@ -1,0 +1,5 @@
+---
+title: NoTattoos
+crosslinks:
+- nsfwr
+---

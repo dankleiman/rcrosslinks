@@ -1,0 +1,5 @@
+---
+title: goldenkronehotel
+crosslinks:
+- roguelikes
+---

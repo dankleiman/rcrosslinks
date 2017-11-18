@@ -1,0 +1,5 @@
+---
+title: bobssoapyfrogwank
+crosslinks:
+- allthingswaytools
+---

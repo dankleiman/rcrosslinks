@@ -1,0 +1,5 @@
+---
+title: teachersgonewild
+crosslinks:
+- gaming
+---

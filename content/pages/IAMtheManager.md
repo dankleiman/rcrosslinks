@@ -1,0 +1,5 @@
+---
+title: IAMtheManager
+crosslinks:
+- xkcd
+---

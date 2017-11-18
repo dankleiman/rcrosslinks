@@ -1,0 +1,5 @@
+---
+title: hqmgames
+crosslinks:
+- hockeyquestionjerk
+---

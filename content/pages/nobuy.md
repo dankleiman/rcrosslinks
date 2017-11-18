@@ -1,0 +1,5 @@
+---
+title: nobuy
+crosslinks:
+- thexeffect
+---

@@ -1,0 +1,5 @@
+---
+title: Party
+crosslinks:
+- ProtestWithFood
+---

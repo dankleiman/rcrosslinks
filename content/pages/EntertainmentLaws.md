@@ -1,0 +1,5 @@
+---
+title: EntertainmentLaws
+crosslinks:
+- autotldr
+---

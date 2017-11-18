@@ -1,0 +1,5 @@
+---
+title: riseofagon
+crosslinks:
+- Darkfall
+---

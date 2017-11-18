@@ -1,0 +1,5 @@
+---
+title: OfficialDPSub
+crosslinks:
+- DrunkenPeasantsDP
+---

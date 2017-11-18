@@ -1,0 +1,5 @@
+---
+title: funnyfartstories
+crosslinks:
+- livven
+---

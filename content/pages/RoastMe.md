@@ -1,0 +1,24 @@
+---
+title: RoastMe
+crosslinks:
+- SwordOrSheath
+- toastme
+- DirtySnapchat
+- AskReddit
+- IAmA
+- Roast_Me
+- jesuschristreddit
+- amiugly
+- NegativeWithGold
+- unnecessaryhypeman
+- funny
+- pics
+- TrollXChromosomes
+- Fiveheads
+- niceguys
+- Rateme
+- sadcringe
+- ShitRedditSays
+- xkcd
+- SuicideWatch
+---

@@ -1,0 +1,5 @@
+---
+title: NomSaying
+crosslinks:
+- KingOfTheHill
+---

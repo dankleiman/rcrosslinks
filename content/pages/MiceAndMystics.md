@@ -1,0 +1,5 @@
+---
+title: MiceAndMystics
+crosslinks:
+- minipainting
+---

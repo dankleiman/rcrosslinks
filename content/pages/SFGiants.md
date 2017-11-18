@@ -1,0 +1,24 @@
+---
+title: SFGiants
+crosslinks:
+- MLBStreams
+- Brewers
+- livven
+- '2013'
+- tifu
+- Dodgers
+- sfgiantscirclejerk
+- ShitEvilModsSay
+- sanfrancisco
+- 49ers
+- warriors
+- nfl
+- motorcitykitties
+- SFEvents
+- Nationals
+- OaklandAthletics
+- BrasilOnReddit
+- LazyMan
+- sfwpornnetwork
+- weekendgunnit
+---

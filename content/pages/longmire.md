@@ -1,0 +1,5 @@
+---
+title: longmire
+crosslinks:
+- duluth
+---

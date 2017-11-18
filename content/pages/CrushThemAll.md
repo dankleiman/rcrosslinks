@@ -1,0 +1,5 @@
+---
+title: CrushThemAll
+crosslinks:
+- CrushEmIdleKings
+---

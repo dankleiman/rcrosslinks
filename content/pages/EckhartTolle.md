@@ -1,0 +1,5 @@
+---
+title: EckhartTolle
+crosslinks:
+- GetMotivated
+---

@@ -1,0 +1,24 @@
+---
+title: HistoryMemes
+crosslinks:
+- eu4
+- EnoughCommieSpam
+- dankmemes
+- FULLCOMMUNISM
+- me_irl
+- finlandConspiracy
+- COMPLETEANARCHY
+- paradoxplaza
+- FakeHistory
+- RocketLeagueMemes
+- straya
+- shittankiessay
+- SimmondsCave
+- ImGoingToHellForThis
+- AskHistorians
+- WorldOfWarships
+- FlorkofCowsOfficial
+- armenia
+- MemesOfTheGreatWar
+- sjwhate
+---

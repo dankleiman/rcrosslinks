@@ -1,0 +1,5 @@
+---
+title: totallynotmimikyus
+crosslinks:
+- pokemon
+---

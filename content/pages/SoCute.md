@@ -1,0 +1,5 @@
+---
+title: SoCute
+crosslinks:
+- livven
+---

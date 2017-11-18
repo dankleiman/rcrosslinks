@@ -1,0 +1,5 @@
+---
+title: NSFWTanGirls
+crosslinks:
+- CandyCovered
+---

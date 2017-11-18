@@ -1,0 +1,24 @@
+---
+title: GalaxyNote8
+crosslinks:
+- GalaxyS8
+- livven
+- GalaxyS7
+- galaxyphotography
+- samsung
+- Android
+- androidthemes
+- GalaxyNote7
+- galaxys8
+- Gear360
+- autotldr
+- iphone
+- IrelandonReddit
+- frugalmalefashion
+- tasker
+- HailCorporate
+- shotonandroid
+- redditgetsdrawn
+- ATT
+- astrophotography
+---

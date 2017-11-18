@@ -1,0 +1,5 @@
+---
+title: largeformat
+crosslinks:
+- photography
+---

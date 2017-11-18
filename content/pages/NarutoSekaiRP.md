@@ -1,0 +1,5 @@
+---
+title: NarutoSekaiRP
+crosslinks:
+- KonohaSunriseRP
+---

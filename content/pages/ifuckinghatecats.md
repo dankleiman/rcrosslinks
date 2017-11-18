@@ -1,0 +1,5 @@
+---
+title: ifuckinghatecats
+crosslinks:
+- emo
+---

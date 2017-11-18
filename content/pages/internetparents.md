@@ -1,0 +1,24 @@
+---
+title: internetparents
+crosslinks:
+- personalfinance
+- MegaLounge
+- LifeAfterNarcissism
+- Anxiety
+- resumes
+- Teachers
+- ABraThatFits
+- rapecounseling
+- declutter
+- daddit
+- almosthomeless
+- CapeCod
+- AskUK
+- getdisciplined
+- angry
+- AskReddit
+- Art
+- TrueOffMyChest
+- legaladvice
+- Serendipity
+---

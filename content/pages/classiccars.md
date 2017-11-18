@@ -1,0 +1,24 @@
+---
+title: classiccars
+crosslinks:
+- ClassicFord
+- classicmustangs
+- carporn
+- pics
+- NovaParking
+- projectcar
+- RatRods
+- gatekeeping
+- namethatcar
+- spotted
+- cars
+- vandwellers
+- tractors
+- unimog
+- RetroFuturism
+- Ford
+- shittyHDR
+- AutoDetailing
+- montreal
+- TinyHouses
+---

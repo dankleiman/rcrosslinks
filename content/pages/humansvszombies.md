@@ -1,0 +1,5 @@
+---
+title: humansvszombies
+crosslinks:
+- Nerf
+---

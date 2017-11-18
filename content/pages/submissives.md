@@ -1,0 +1,5 @@
+---
+title: submissives
+crosslinks:
+- BDSMpersonals
+---

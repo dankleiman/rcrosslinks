@@ -1,0 +1,5 @@
+---
+title: budgetweddings
+crosslinks:
+- weddingplanning
+---

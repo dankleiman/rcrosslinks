@@ -1,0 +1,5 @@
+---
+title: gokarts
+crosslinks:
+- Karting
+---

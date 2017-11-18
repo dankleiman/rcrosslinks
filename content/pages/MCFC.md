@@ -1,0 +1,24 @@
+---
+title: MCFC
+crosslinks:
+- soccer
+- BrasilOnReddit
+- Gunners
+- reddevils
+- soccerstreams
+- coys
+- realmadrid
+- PostPreview
+- videos
+- help
+- excgarated
+- ImagesOfWales
+- place
+- 2007scape
+- LiverpoolFC
+- stadiumporn
+- soccercourt
+- FantasyPL
+- TheoryOfReddit
+- art
+---

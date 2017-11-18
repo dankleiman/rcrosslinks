@@ -1,0 +1,24 @@
+---
+title: Negareddit
+crosslinks:
+- news
+- SRSsucks
+- The_Donald
+- movies
+- gaming
+- AskHistorians
+- WeWuzSuperior
+- canada
+- AskReddit
+- KotakuInAction
+- EnoughCommieSpam
+- Physical_Removal
+- socialism
+- Drama
+- politics
+- TiADiscussion
+- funny
+- pussypassdenied
+- self
+- BlackPeopleTwitter
+---

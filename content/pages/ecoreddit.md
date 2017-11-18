@@ -1,0 +1,5 @@
+---
+title: ecoreddit
+crosslinks:
+- Green
+---

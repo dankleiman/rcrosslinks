@@ -1,0 +1,5 @@
+---
+title: PokemonGOK
+crosslinks:
+- TheSilphRoad
+---

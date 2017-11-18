@@ -1,0 +1,5 @@
+---
+title: Blitzcash
+crosslinks:
+- CryptoCurrency
+---

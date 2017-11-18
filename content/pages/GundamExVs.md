@@ -1,0 +1,5 @@
+---
+title: GundamExVs
+crosslinks:
+- Gundam
+---

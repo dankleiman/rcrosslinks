@@ -1,0 +1,5 @@
+---
+title: oldschoolhippy
+crosslinks:
+- OldSchoolCool
+---

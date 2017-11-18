@@ -1,0 +1,5 @@
+---
+title: Kynseed
+crosslinks:
+- kynseedrpg
+---

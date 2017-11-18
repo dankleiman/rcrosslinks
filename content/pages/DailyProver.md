@@ -1,0 +1,5 @@
+---
+title: DailyProver
+crosslinks:
+- Coq
+---

@@ -1,0 +1,24 @@
+---
+title: WebGames
+crosslinks:
+- nitroclashio
+- gaming
+- slayone
+- freegames
+- incremental_games
+- ExitCorners
+- Gatsio
+- cosmocio
+- TheOnion
+- astroe
+- unixporn
+- politicalgames
+- EternalAscended
+- Jigsawpuzzles
+- Evadesio
+- LateStageCapitalism
+- tipofmyjoystick
+- matheducation
+- Games
+- kazapio
+---

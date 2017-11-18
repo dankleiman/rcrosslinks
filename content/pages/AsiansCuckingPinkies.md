@@ -1,0 +1,5 @@
+---
+title: AsiansCuckingPinkies
+crosslinks:
+- WMAF
+---

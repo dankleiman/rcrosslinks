@@ -1,0 +1,5 @@
+---
+title: worldofnintendoswap
+crosslinks:
+- WorldOfNintendo
+---

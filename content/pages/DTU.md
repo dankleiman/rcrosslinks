@@ -1,0 +1,5 @@
+---
+title: DTU
+crosslinks:
+- copenhagen
+---

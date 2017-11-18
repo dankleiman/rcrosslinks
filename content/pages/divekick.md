@@ -1,0 +1,5 @@
+---
+title: divekick
+crosslinks:
+- FantasyStrike
+---

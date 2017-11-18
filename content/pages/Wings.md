@@ -1,0 +1,5 @@
+---
+title: Wings
+crosslinks:
+- grilledcheese
+---

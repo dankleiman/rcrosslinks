@@ -1,0 +1,5 @@
+---
+title: WelcomeToTheBedroom
+crosslinks:
+- BDSMcommunity
+---

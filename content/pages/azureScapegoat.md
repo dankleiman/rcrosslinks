@@ -1,0 +1,5 @@
+---
+title: azureScapegoat
+crosslinks:
+- communism
+---

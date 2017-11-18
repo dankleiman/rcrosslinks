@@ -1,0 +1,5 @@
+---
+title: singlespeed
+crosslinks:
+- FixedGearBicycle
+---

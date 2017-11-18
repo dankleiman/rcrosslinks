@@ -1,0 +1,22 @@
+---
+title: Guiltygear
+crosslinks:
+- Kappa
+- pcmasterrace
+- fightsticks
+- kof
+- Fighters
+- StreetFighter
+- rule63
+- PhotoshopRequest
+- IAmA
+- Steam
+- drunk
+- puns
+- soccerspirits
+- sweatermeat
+- learnart
+- forhonor
+- Serendipity
+- montreal
+---

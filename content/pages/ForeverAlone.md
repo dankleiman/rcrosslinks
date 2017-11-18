@@ -1,0 +1,24 @@
+---
+title: ForeverAlone
+crosslinks:
+- amiugly
+- AskReddit
+- ForeverAloneDating
+- 2meirl4meirl
+- progresspics
+- adulthate
+- confession
+- anime
+- Rateme
+- cscareerquestions
+- opiates
+- MGTOW
+- GetMotivated
+- starterpacks
+- socialskills
+- foreveralonedating
+- todayilearned
+- NoFap
+- TooMeIrlForMeIrl
+- self
+---

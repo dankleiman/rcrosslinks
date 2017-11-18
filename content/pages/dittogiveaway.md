@@ -1,0 +1,5 @@
+---
+title: dittogiveaway
+crosslinks:
+- pokemontrades
+---

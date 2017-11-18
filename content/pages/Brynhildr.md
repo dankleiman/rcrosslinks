@@ -1,0 +1,5 @@
+---
+title: Brynhildr
+crosslinks:
+- ffxiv
+---

@@ -1,0 +1,5 @@
+---
+title: decals
+crosslinks:
+- LifeProTips
+---

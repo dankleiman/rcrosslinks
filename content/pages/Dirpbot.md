@@ -1,0 +1,5 @@
+---
+title: Dirpbot
+crosslinks:
+- xkcd
+---

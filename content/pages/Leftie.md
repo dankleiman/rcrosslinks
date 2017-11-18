@@ -1,0 +1,5 @@
+---
+title: Leftie
+crosslinks:
+- conspiracy
+---

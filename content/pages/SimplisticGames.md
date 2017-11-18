@@ -1,0 +1,5 @@
+---
+title: SimplisticGames
+crosslinks:
+- counting
+---

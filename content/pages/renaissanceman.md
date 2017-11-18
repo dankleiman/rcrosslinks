@@ -1,0 +1,5 @@
+---
+title: renaissanceman
+crosslinks:
+- AskHistorians
+---

@@ -1,0 +1,5 @@
+---
+title: HellfireTBC
+crosslinks:
+- wowservers
+---

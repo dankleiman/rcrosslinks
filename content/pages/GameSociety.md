@@ -1,0 +1,5 @@
+---
+title: GameSociety
+crosslinks:
+- gamingsuggestions
+---

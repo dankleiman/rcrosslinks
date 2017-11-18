@@ -1,0 +1,5 @@
+---
+title: Detroitcityfc
+crosslinks:
+- NPSL
+---

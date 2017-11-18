@@ -1,0 +1,24 @@
+---
+title: collared
+crosslinks:
+- livven
+- MrLionMissBunny
+- petplay
+- ShinyPorn
+- EnoughTrumpSpam
+- missdollyleigh
+- SpankSafe
+- BDSMGW
+- cumsluts
+- tailplug
+- MelisaMendiny
+- InvertedNipples
+- Oilporn
+- Sexsells
+- lesdom
+- HandB_nsfw
+- distension
+- BondageGIFS_HighRES
+- eyecontact
+- traps
+---

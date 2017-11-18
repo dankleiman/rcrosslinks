@@ -1,0 +1,24 @@
+---
+title: 40kLore
+crosslinks:
+- Warhammer40k
+- Grimdank
+- Warhammer
+- AskHistorians
+- 40kOrkScience
+- whowouldwin
+- respectthreads
+- livven
+- AskScienceFiction
+- Drama
+- xkcd
+- highqualitygifs
+- Warhammer30k
+- ImaginaryWarhammer
+- 40krpg
+- PrequelMemes
+- TerrainBuilding
+- aww
+- conspiracy
+- im14andthisisedgy
+---

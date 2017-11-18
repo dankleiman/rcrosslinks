@@ -1,0 +1,24 @@
+---
+title: wallpapers
+crosslinks:
+- outrun
+- pics
+- Art
+- space
+- castles
+- shittyHDR
+- WallpaperRequests
+- xkcd
+- EarthPorn
+- Rainmeter
+- pokemon
+- VaporwaveAesthetics
+- gaming
+- rickandmorty
+- mildlyinteresting
+- custommagic
+- Offensive_Wallpapers
+- iWallpaper
+- 13dagger
+- TheseFuckingAccounts
+---

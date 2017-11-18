@@ -1,0 +1,5 @@
+---
+title: ModelFinancialTimes
+crosslinks:
+- ModelUSPress
+---

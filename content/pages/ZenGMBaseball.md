@@ -1,0 +1,5 @@
+---
+title: ZenGMBaseball
+crosslinks:
+- zengmlol
+---

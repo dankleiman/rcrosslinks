@@ -1,0 +1,5 @@
+---
+title: SmilingAnimals
+crosslinks:
+- Sneks
+---

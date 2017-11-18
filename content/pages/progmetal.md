@@ -1,0 +1,24 @@
+---
+title: progmetal
+crosslinks:
+- Metal
+- ShitTheFalseSay
+- progrockmusic
+- TheDearHunter
+- Opeth
+- progmetaljerk
+- Djent
+- gatekeeping
+- BetweenTheBuriedAndMe
+- corelia
+- Metalcore
+- Dreamtheater
+- Music
+- Ayreon
+- VinylCollectors
+- TimAndEric
+- gamemusic
+- me_irl
+- devintownsend
+- GojiraMusic
+---

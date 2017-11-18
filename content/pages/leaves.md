@@ -1,0 +1,24 @@
+---
+title: leaves
+crosslinks:
+- Petioles
+- getdisciplined
+- stopdrinking
+- petioles
+- Drugs
+- NoFap
+- OCD
+- Fitness
+- Anxiety
+- Psychonaut
+- SuicideWatch
+- LifeProTips
+- gatekeeping
+- askphilosophy
+- loseit
+- Paleo
+- socialanxiety
+- schizophrenia
+- C_S_T
+- pornfree
+---

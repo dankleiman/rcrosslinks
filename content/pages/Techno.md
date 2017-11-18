@@ -1,0 +1,24 @@
+---
+title: Techno
+crosslinks:
+- tech_house
+- oldtechno
+- TechnoProduction
+- MovementDEMF
+- livven
+- autotldr
+- indie
+- acidtechno
+- srofaguy
+- Industrialtechno
+- realproghouse
+- EDM
+- House
+- edmproduction
+- deephouse
+- vinyl
+- toronto
+- electro
+- trap
+- MDMA
+---

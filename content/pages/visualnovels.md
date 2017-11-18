@@ -1,0 +1,24 @@
+---
+title: visualnovels
+crosslinks:
+- steinsgate
+- fatestaynight
+- otomegames
+- vita
+- grisaia
+- Games
+- vnsuggest
+- Serendipity
+- fourleafstudios
+- katawashoujo
+- animepcgaming
+- xkcd
+- MyLittleHouseOfFun
+- Eiyuu_Senki
+- DRPG
+- PrequelMemes
+- LearnJapanese
+- visualnovelsuggest
+- Higurashinonakakoroni
+- pc98
+---

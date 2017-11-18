@@ -1,0 +1,5 @@
+---
+title: badlitreads
+crosslinks:
+- samharris
+---

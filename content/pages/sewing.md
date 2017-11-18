@@ -1,0 +1,24 @@
+---
+title: sewing
+crosslinks:
+- Leathercraft
+- ostomy
+- upholstery
+- DIY
+- ABraThatFits
+- Drag
+- sewhelp
+- vintagesewing
+- quilting
+- crafts
+- Tailors
+- knitting
+- HistoricalCostuming
+- Bonsai
+- redditgetsdrawn
+- nothingeverhappens
+- ArtefactPorn
+- CraftyTrolls
+- gonwild
+- gifs
+---

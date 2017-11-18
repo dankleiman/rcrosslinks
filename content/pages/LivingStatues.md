@@ -1,0 +1,5 @@
+---
+title: LivingStatues
+crosslinks:
+- livven
+---

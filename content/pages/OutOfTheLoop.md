@@ -1,0 +1,24 @@
+---
+title: OutOfTheLoop
+crosslinks:
+- help
+- AskReddit
+- pics
+- The_Donald
+- IAmA
+- announcements
+- videos
+- me_irl
+- modnews
+- politics
+- conspiracy
+- gifs
+- pcmasterrace
+- mildlyinteresting
+- AskHistorians
+- tifu
+- EnoughTrumpSpam
+- funny
+- gaming
+- AdviceAnimals
+---

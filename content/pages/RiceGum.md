@@ -1,0 +1,5 @@
+---
+title: RiceGum
+crosslinks:
+- shitpost
+---

@@ -1,0 +1,5 @@
+---
+title: ComedyIncinerator
+crosslinks:
+- Fuckgnome
+---

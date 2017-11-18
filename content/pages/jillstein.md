@@ -1,0 +1,24 @@
+---
+title: jillstein
+crosslinks:
+- autotldr
+- AnarchismOnline
+- WayOfTheBern
+- GreenParty
+- FriendsofthePod
+- LeftWithoutEdge
+- HailCorporate
+- MargaretFlowers
+- FreePolDiscussion
+- ShitPoliticsSays
+- permaculture
+- MD_for_JillStein
+- AjamuBaraka
+- Enough_Sanders_Spam
+- CA_for_JillStein
+- evolutionReddit
+- cooperatives
+- AnythingGoesNews
+- ModelUSGov
+- CheriHonkala
+---

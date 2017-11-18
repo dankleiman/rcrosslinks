@@ -1,0 +1,5 @@
+---
+title: TheSilmarillion
+crosslinks:
+- lotr
+---

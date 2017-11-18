@@ -1,0 +1,21 @@
+---
+title: singing
+crosslinks:
+- WeAreTheMusicMakers
+- overtonesinging
+- musictheory
+- JudgeMyAccent
+- slp
+- lewronggeneration
+- CVT
+- audioengineering
+- ICoveredASong
+- todayilearned
+- FindABand
+- arcticmonkeys
+- screaming
+- musicians
+- hownottogiveafuck
+- ClassicalSinger
+- audiophile
+---

@@ -1,0 +1,21 @@
+---
+title: NavyBlazer
+crosslinks:
+- malefashionadvice
+- NavyBlazer_irl
+- Watchexchange
+- Watches
+- preppy
+- supremeclothing
+- gundeals
+- Volvo
+- DeepFriedMemes
+- malelivingspace
+- Drama
+- Serendipity
+- Atlanta
+- goodyearwelt
+- whitepeoplegifs
+- frugalmalefashion
+- teenagers
+---

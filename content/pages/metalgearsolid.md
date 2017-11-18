@@ -1,0 +1,24 @@
+---
+title: metalgearsolid
+crosslinks:
+- NeverBeGameOver
+- livven
+- gaming
+- GameDeals
+- MetalGearAntiNuclear
+- SolidSnakes
+- DeathStranding
+- place
+- residentevil
+- HailCorporate
+- pics
+- Gamingcirclejerk
+- nocontext
+- xkcd
+- mgo
+- TwoBestFriendsPlay
+- freefolk
+- PrequelMemes
+- rpcs3
+- Games
+---

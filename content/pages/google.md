@@ -1,0 +1,24 @@
+---
+title: google
+crosslinks:
+- xkcd
+- Android
+- softwaregore
+- livven
+- Nexus6P
+- kansascity
+- TheoryOfReddit
+- AndroidQuestions
+- ShitRedditSays
+- technology
+- math
+- mildlyinfuriating
+- The_Donald
+- awwssistant
+- techsupport
+- pics
+- googleplaydeals
+- KotakuInAction
+- worldnews
+- androidcirclejerk
+---

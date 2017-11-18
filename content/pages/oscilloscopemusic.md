@@ -1,0 +1,5 @@
+---
+title: oscilloscopemusic
+crosslinks:
+- ECE
+---

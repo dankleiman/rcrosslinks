@@ -1,0 +1,5 @@
+---
+title: thehardtimes
+crosslinks:
+- autotldr
+---

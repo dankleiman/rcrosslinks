@@ -1,0 +1,24 @@
+---
+title: SchoolIdolFestival
+crosslinks:
+- LoveLive
+- place
+- Pixiv
+- SIFTrain
+- SIFTrades
+- Otonokizaka
+- LoveLiveCustoms
+- placehearts
+- CustomBeatmapFestival
+- StarlightStage
+- lovelivecovers
+- llsif
+- lovelive
+- science
+- help
+- AnimeFigures
+- FFRecordKeeper
+- towerofsaviors
+- GalaxyS8
+- FFBraveExvius
+---

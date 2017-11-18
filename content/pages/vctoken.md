@@ -1,0 +1,5 @@
+---
+title: vctoken
+crosslinks:
+- ethtrader
+---

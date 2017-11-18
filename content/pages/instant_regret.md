@@ -1,0 +1,24 @@
+---
+title: instant_regret
+crosslinks:
+- livven
+- gifs
+- funny
+- Whatcouldgowrong
+- pics
+- videos
+- AskReddit
+- WhyWereTheyFilming
+- BetterEveryLoop
+- IAmA
+- WTF
+- xkcd
+- Instantregret
+- nononono
+- OutOfTheLoop
+- aww
+- Wellthatsucks
+- Showerthoughts
+- nocontext
+- instantkarma
+---

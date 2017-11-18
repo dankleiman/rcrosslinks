@@ -1,0 +1,5 @@
+---
+title: RIPmildlyinteresting
+crosslinks:
+- mildlyinteresting
+---

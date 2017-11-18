@@ -1,0 +1,5 @@
+---
+title: FNAFships
+crosslinks:
+- fivenightsatfreddys
+---

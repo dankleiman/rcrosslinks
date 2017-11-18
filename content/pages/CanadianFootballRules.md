@@ -1,0 +1,5 @@
+---
+title: CanadianFootballRules
+crosslinks:
+- CFB
+---

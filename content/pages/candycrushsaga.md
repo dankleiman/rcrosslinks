@@ -1,0 +1,5 @@
+---
+title: candycrushsaga
+crosslinks:
+- AMAAggregator
+---

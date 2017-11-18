@@ -1,0 +1,24 @@
+---
+title: LinkinPark
+crosslinks:
+- AskReddit
+- Muse
+- Music
+- pics
+- radiohead
+- Gundam
+- news
+- highqualitygifs
+- MelanieMartinez
+- WordAvalanches
+- aww
+- HollywoodUndead
+- Metalcore
+- 15gs11e
+- Foofighters
+- mildlyinteresting
+- Soundgarden
+- popheads
+- twentyonepilots
+- SuicideWatch
+---

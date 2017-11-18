@@ -1,0 +1,5 @@
+---
+title: VeganVideos
+crosslinks:
+- vegan
+---

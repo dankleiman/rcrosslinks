@@ -1,0 +1,5 @@
+---
+title: musicology
+crosslinks:
+- classicalmusic
+---

@@ -1,0 +1,5 @@
+---
+title: SurpriseGuitarSolo
+crosslinks:
+- livven
+---

@@ -1,0 +1,24 @@
+---
+title: homeautomation
+crosslinks:
+- homeassistant
+- amazonecho
+- autotldr
+- xkcd
+- SmartThings
+- googlehome
+- PleX
+- '0x7B1DEA01'
+- homesecurity
+- HomeAutomationTrade
+- IKEA
+- networking
+- technology
+- SmartHomeDeals
+- tasker
+- smarthome
+- esp8266
+- lawncare
+- livven
+- electricians
+---

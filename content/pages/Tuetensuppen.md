@@ -1,0 +1,5 @@
+---
+title: Tuetensuppen
+crosslinks:
+- armstadt
+---

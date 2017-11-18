@@ -1,0 +1,5 @@
+---
+title: learnlinux
+crosslinks:
+- xkcd
+---

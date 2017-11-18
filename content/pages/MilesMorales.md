@@ -1,0 +1,5 @@
+---
+title: MilesMorales
+crosslinks:
+- Spiderman
+---

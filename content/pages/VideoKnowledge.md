@@ -1,0 +1,5 @@
+---
+title: VideoKnowledge
+crosslinks:
+- synthesizers
+---

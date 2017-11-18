@@ -1,0 +1,5 @@
+---
+title: howtotransition
+crosslinks:
+- Permaculture
+---

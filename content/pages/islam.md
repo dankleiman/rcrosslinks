@@ -1,0 +1,24 @@
+---
+title: islam
+crosslinks:
+- autotldr
+- exmuslim
+- news
+- worldnews
+- Izlam
+- religion
+- Christianity
+- The_Donald
+- pakistan
+- AskHistorians
+- AskReddit
+- Islaam
+- politics
+- LearnIslaam
+- MuslimNoFap
+- videos
+- pics
+- explainlikeimfive
+- TheRedPill
+- syriancivilwar
+---

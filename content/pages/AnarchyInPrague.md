@@ -1,0 +1,5 @@
+---
+title: AnarchyInPrague
+crosslinks:
+- ComedyCemetery
+---

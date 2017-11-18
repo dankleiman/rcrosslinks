@@ -1,0 +1,24 @@
+---
+title: AskHistorians
+crosslinks:
+- AskAnthropology
+- history
+- IndianCountry
+- AskFoodHistorians
+- askscience
+- OldSchoolCool
+- EarlyModernEurope
+- WarCollege
+- IAmA
+- AskSocialScience
+- linguistics
+- todayilearned
+- MapPorn
+- AskReddit
+- WWIIplanes
+- BattleOfTheNations
+- DestroyedTanks
+- AskLiteraryStudies
+- vexillology
+- communism
+---

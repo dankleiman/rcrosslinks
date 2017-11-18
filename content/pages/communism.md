@@ -1,0 +1,24 @@
+---
+title: communism
+crosslinks:
+- communism101
+- socialism
+- FULLCOMMUNISM
+- SovietHistory
+- politics
+- Anarchism
+- AskReddit
+- LateStageCapitalism
+- AskHistorians
+- intlleftalliance
+- worldnews
+- TheSimpsons
+- The_Donald
+- syriancivilwar
+- Cascadia
+- TheRedPill
+- xkcd
+- Drama
+- atheism
+- CriticalTheory
+---

@@ -1,0 +1,5 @@
+---
+title: vodka
+crosslinks:
+- alcohol
+---

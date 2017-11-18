@@ -1,0 +1,24 @@
+---
+title: GenderCritical
+crosslinks:
+- autotldr
+- asktransgender
+- science
+- GenderCriticalGuys
+- Radical_Feminists
+- Gender_Critical
+- anarcha
+- GenderCynical
+- AskReddit
+- TwoXChromosomes
+- news
+- changemyview
+- traaaaaaannnnnnnnnns
+- atheism
+- AskFeminists
+- socialism
+- feminist_videos
+- KotakuInAction
+- MensRights
+- RadFemMothering
+---

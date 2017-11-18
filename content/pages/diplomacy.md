@@ -1,0 +1,5 @@
+---
+title: diplomacy
+crosslinks:
+- Stellacracy
+---

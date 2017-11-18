@@ -1,0 +1,5 @@
+---
+title: GYM
+crosslinks:
+- Fitness
+---

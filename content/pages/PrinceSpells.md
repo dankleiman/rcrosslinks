@@ -1,0 +1,5 @@
+---
+title: PrinceSpells
+crosslinks:
+- titlegore
+---

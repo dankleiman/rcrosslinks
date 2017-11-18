@@ -1,0 +1,5 @@
+---
+title: firePE
+crosslinks:
+- firealarms
+---

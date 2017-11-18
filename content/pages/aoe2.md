@@ -1,0 +1,24 @@
+---
+title: aoe2
+crosslinks:
+- livven
+- place
+- aoe
+- aoe4
+- aoecomics
+- gaming
+- xkcd
+- empiresapart
+- titlegore
+- hearthstone
+- MilitaryStrategy
+- AMAAggregator
+- pics
+- gameofthrones
+- DotaVods
+- CompetitiveAoE2
+- IAmA
+- aoe3
+- Gamingcirclejerk
+- islam
+---

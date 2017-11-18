@@ -1,0 +1,5 @@
+---
+title: RealBondage
+crosslinks:
+- BDSMGW
+---

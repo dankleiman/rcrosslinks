@@ -1,0 +1,5 @@
+---
+title: ambientidm
+crosslinks:
+- oldtechno
+---

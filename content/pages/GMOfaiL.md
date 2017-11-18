@@ -1,0 +1,5 @@
+---
+title: GMOfaiL
+crosslinks:
+- Serendipity
+---

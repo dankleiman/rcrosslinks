@@ -1,0 +1,5 @@
+---
+title: pokemongoblueMN
+crosslinks:
+- PokemonGoMPLS
+---

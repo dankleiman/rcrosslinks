@@ -1,0 +1,24 @@
+---
+title: the_schulz
+crosslinks:
+- de
+- livven
+- autotldr
+- germany
+- europe
+- the_schulz_meta
+- worldnews
+- EnoughSchulzSpam
+- SPDde
+- EnoughTrumpSpam
+- kreiswichs
+- videos
+- modnews
+- unitedkingdom
+- wholesomememes
+- yurop
+- The_Donald
+- YUROP
+- place
+- all
+---

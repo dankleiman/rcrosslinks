@@ -1,0 +1,24 @@
+---
+title: Femdom
+crosslinks:
+- livven
+- FemdomCommunity
+- JavDownloadCenter
+- chastity
+- BDSMpersonals
+- gentlefemdom
+- Pain
+- hentaifemdom
+- femdomcaptions
+- BDSMcommunity
+- assworship
+- cei
+- BallBusting
+- FapDeciders
+- couplesgonewild
+- averagedickporn
+- thegoddesseris
+- postorgasm
+- femdompersonals
+- TotalWorldFemdom
+---

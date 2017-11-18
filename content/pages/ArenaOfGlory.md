@@ -1,0 +1,5 @@
+---
+title: ArenaOfGlory
+crosslinks:
+- gameDevClassifieds
+---

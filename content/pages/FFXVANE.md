@@ -1,0 +1,5 @@
+---
+title: FFXVANE
+crosslinks:
+- FFXVANewEmpire
+---

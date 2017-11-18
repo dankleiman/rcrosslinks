@@ -1,0 +1,23 @@
+---
+title: ParadoxExtra
+crosslinks:
+- livven
+- eu4
+- paradoxplaza
+- autotldr
+- comics
+- Kaiserreich
+- NattyComics
+- victoria2
+- eu3
+- mapporncirclejerk
+- europe
+- ComedyNecrophilia
+- CrusaderKings
+- antimeme
+- reversehistory
+- surrealmemes
+- xkcd
+- MemeEconomy
+- familyguy
+---

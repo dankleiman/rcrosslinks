@@ -1,0 +1,5 @@
+---
+title: livewallpapers
+crosslinks:
+- fidgetspin
+---

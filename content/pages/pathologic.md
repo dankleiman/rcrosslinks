@@ -1,0 +1,5 @@
+---
+title: pathologic
+crosslinks:
+- pics
+---

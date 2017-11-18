@@ -1,0 +1,5 @@
+---
+title: twoxjapan
+crosslinks:
+- GayJapan
+---

@@ -1,0 +1,24 @@
+---
+title: podemos
+crosslinks:
+- Plaza_Podemos
+- vzla
+- argentina
+- circuloplazapodemos
+- PlazaEuskadi
+- BrasilOnReddit
+- PlazaCatalunya
+- PortugalOnReddit
+- GODO
+- '0'
+- europe
+- Madrid
+- AMAAggregator
+- PlazaAndalucia
+- spain
+- PlazaExtremadura
+- ModelUSGov
+- PodemosExterior
+- xkcd
+- autotldr
+---

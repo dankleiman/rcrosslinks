@@ -1,0 +1,5 @@
+---
+title: shittyoperators
+crosslinks:
+- CatastrophicFailure
+---

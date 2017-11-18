@@ -1,0 +1,5 @@
+---
+title: EdmontonGoneWild
+crosslinks:
+- edmontonpersonals
+---

@@ -1,0 +1,21 @@
+---
+title: arcticmonkeys
+crosslinks:
+- livven
+- qotsa
+- titlegore
+- TheBlueCorner
+- Rainmeter
+- Hair
+- weezer
+- amcirclejerk
+- malefashionadvice
+- PATV
+- ArcticMonkeysRule34
+- place
+- autotldr
+- The_Donald
+- Kanye
+- OopsDidntMeanTo
+- LSD
+---

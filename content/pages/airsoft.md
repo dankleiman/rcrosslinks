@@ -1,0 +1,24 @@
+---
+title: airsoft
+crosslinks:
+- airsoftmarket
+- airsoftcirclejerk
+- livven
+- weekendgunnit
+- airsoftgore
+- airsoftmarketcanada
+- airguns
+- masseffect
+- MilitaryPorn
+- shittyHDR
+- Suomi
+- videos
+- tarotaro
+- headphones
+- USMC
+- HighEndGear
+- e
+- VaporwaveAesthetics
+- Vive
+- azunyan
+---

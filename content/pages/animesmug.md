@@ -1,0 +1,5 @@
+---
+title: animesmug
+crosslinks:
+- Pixiv
+---

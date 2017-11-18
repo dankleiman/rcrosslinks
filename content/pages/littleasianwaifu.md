@@ -1,0 +1,5 @@
+---
+title: littleasianwaifu
+crosslinks:
+- AsiansGoneWild
+---

@@ -1,0 +1,24 @@
+---
+title: gamemusic
+crosslinks:
+- Music
+- psx
+- gameDevClassifieds
+- nintendomusic
+- teamsemperfi
+- gaming
+- snes
+- gameofthrones
+- audiodrama
+- me_irl
+- MapleStory2
+- NintendoSwitch
+- oculus
+- Mario
+- Games
+- FinalFantasy
+- soundtracks
+- ThisIsOurMusic
+- gamemaker
+- AMAAggregator
+---

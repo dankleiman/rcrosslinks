@@ -1,0 +1,24 @@
+---
+title: PipeTobacco
+crosslinks:
+- pipemaking
+- cigars
+- Coffee
+- OldSchoolCool
+- nocontext
+- wicked_edge
+- mildlyinteresting
+- starterpacks
+- Vaping
+- florida
+- Blacksmith
+- Serendipity
+- Pipes
+- TrollXChromosomes
+- electronic_cigarette
+- knives
+- discworld
+- Omaha
+- GirlsWithPipes
+- vaporents
+---

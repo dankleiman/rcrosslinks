@@ -1,0 +1,24 @@
+---
+title: battlecats
+crosslinks:
+- BattleCatsCheats
+- livven
+- gamatoto
+- place
+- NoFaceHere
+- reeeeee
+- mentionhelper
+- AskReddit
+- FanTheories
+- crash_fever
+- StashThis
+- OutOfTheLoop
+- RocketLeagueExchange
+- expectedfactorial
+- Structura
+- modnews
+- KingdomHearts
+- ShadowBan
+- mildlyinteresting
+- StarWars
+---

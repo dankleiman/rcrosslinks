@@ -1,0 +1,24 @@
+---
+title: onejob
+crosslinks:
+- CrappyDesign
+- mildlyinfuriating
+- funny
+- mildlypenis
+- dontdeadopeninside
+- india
+- DoesNotTranslate
+- australia
+- vexillology
+- wallpaperrequests
+- 2HealthBars
+- PictureGame
+- Recursion
+- Birmingham
+- Tools
+- Badfaketexts
+- Ooer
+- gaaaaaaayyyyyyyyyyyy
+- keming
+- assholedesign
+---

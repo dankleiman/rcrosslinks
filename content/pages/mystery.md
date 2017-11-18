@@ -1,0 +1,5 @@
+---
+title: mystery
+crosslinks:
+- Showerthoughts
+---

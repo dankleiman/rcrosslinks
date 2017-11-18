@@ -1,0 +1,5 @@
+---
+title: mobx
+crosslinks:
+- reactjs
+---

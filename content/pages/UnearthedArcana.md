@@ -1,0 +1,24 @@
+---
+title: UnearthedArcana
+crosslinks:
+- dndnext
+- DnD
+- DnDBehindTheScreen
+- monsteraday
+- ImaginaryMonsters
+- DnDGreentext
+- OutlandishAdventure
+- dndgreentext
+- spelljammer
+- DMAcademy
+- ImaginaryClerics
+- metric_units
+- help
+- worldjerking
+- creepy
+- dndmemes
+- Pathfinder_RPG
+- RedditBeastiary
+- HFY
+- sterlingvermin
+---

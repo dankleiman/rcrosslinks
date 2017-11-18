@@ -1,0 +1,5 @@
+---
+title: albury
+crosslinks:
+- sydney
+---

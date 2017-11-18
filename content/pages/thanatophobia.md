@@ -1,0 +1,5 @@
+---
+title: thanatophobia
+crosslinks:
+- xkcd
+---

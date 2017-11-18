@@ -1,0 +1,21 @@
+---
+title: deathnote
+crosslinks:
+- moviescirclejerk
+- movies
+- WTF
+- HouseOfCards
+- user
+- AsianAmericanIssues
+- AsABlackMan
+- narcissism
+- fullmetalalchemist
+- TownofSalemgame
+- snoovatars
+- DeathNoteMemes
+- KissAnime
+- ShitRedditSays
+- autotldr
+- animememes
+- DeathNoteNetflix
+---

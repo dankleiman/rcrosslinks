@@ -1,0 +1,5 @@
+---
+title: EuroCoins
+crosslinks:
+- coins
+---

@@ -1,0 +1,5 @@
+---
+title: holyfuck
+crosslinks:
+- FuckingWithNature
+---

@@ -1,0 +1,5 @@
+---
+title: TraditionalNinjutsu
+crosslinks:
+- martialarts
+---

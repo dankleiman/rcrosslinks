@@ -1,0 +1,23 @@
+---
+title: Paramore
+crosslinks:
+- popheads
+- gatekeeping
+- livven
+- place
+- greenday
+- namethatcar
+- SampleSize
+- gorillaz
+- Blink182
+- MadeMeSmile
+- 33li4hl
+- NegativeWithGold
+- xkcd
+- jfdisc
+- ProCSS
+- hiphopheads
+- PKA
+- ronswanson
+- vinyl
+---

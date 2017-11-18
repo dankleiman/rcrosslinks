@@ -1,0 +1,5 @@
+---
+title: Onlytekno
+crosslinks:
+- oldtechno
+---

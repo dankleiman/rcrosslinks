@@ -1,0 +1,5 @@
+---
+title: stonermetal
+crosslinks:
+- Serendipity
+---

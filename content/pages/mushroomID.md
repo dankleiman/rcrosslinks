@@ -1,0 +1,5 @@
+---
+title: mushroomID
+crosslinks:
+- mycology
+---

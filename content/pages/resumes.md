@@ -1,0 +1,24 @@
+---
+title: resumes
+crosslinks:
+- consulting
+- IAmA
+- cscareerquestions
+- Resume
+- ITCareerQuestions
+- compsci
+- GetEmployed
+- marketing
+- homeschool
+- korea
+- Serendipity
+- Chefit
+- editors
+- 1zdxj0i
+- FinancialCareers
+- Rezi
+- languagelearning
+- japancirclejerk
+- sadcringe
+- coolguides
+---

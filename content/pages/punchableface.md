@@ -1,0 +1,22 @@
+---
+title: punchableface
+crosslinks:
+- excgarated
+- The_Donald
+- livven
+- Music
+- Ice_Poseidon
+- xkcd
+- Alot
+- h3h3productions
+- LateStageCapitalism
+- Roadcam
+- FULLCOMMUNISM
+- politics
+- AntiJakes
+- cringe
+- depression
+- ShitAmericansSay
+- TopMindsOfReddit
+- funny
+---

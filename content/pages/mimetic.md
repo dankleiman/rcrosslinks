@@ -1,0 +1,5 @@
+---
+title: mimetic
+crosslinks:
+- askphilosophy
+---

@@ -1,0 +1,24 @@
+---
+title: stocks
+crosslinks:
+- investing
+- Stock_Picks
+- personalfinance
+- weedstocks
+- StockMarket
+- options
+- Forex
+- videos
+- pennystocks
+- Iota
+- CryptoCurrency
+- apple
+- freeformost
+- BestOfInvesting
+- conspiracy
+- Investing101
+- The_Donald
+- PersonalFinanceCanada
+- canada
+- oculus
+---

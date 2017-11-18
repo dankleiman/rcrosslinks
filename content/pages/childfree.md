@@ -1,0 +1,24 @@
+---
+title: childfree
+crosslinks:
+- autotldr
+- legaladvice
+- funny
+- cf4cf
+- truechildfree
+- pics
+- Fencesitter
+- AdviceAnimals
+- niceguys
+- petfree
+- starterpacks
+- gaming
+- MGTOW
+- science
+- antinatalism
+- Tinder
+- comics
+- confession
+- aww
+- AnimalAww
+---

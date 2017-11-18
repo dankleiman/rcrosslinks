@@ -1,0 +1,5 @@
+---
+title: DecStack
+crosslinks:
+- autotldr
+---

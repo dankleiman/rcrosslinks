@@ -1,0 +1,23 @@
+---
+title: Gamecube
+crosslinks:
+- gameswap
+- GameSale
+- gamecollecting
+- crtgaming
+- WiiHacks
+- funny
+- SSBM
+- n64
+- cemu
+- PSO
+- Fzero
+- customGCC
+- mildlyinteresting
+- SSX
+- DolphinEmulator
+- place
+- zelda
+- GameTrade
+- wii
+---

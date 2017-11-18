@@ -1,0 +1,24 @@
+---
+title: fasting
+crosslinks:
+- keto
+- intermittentfasting
+- ketogains
+- IAmA
+- DMT
+- PSMF
+- omad
+- leangains
+- ketoscience
+- science
+- xxketo
+- Fitness
+- ketorecipes
+- vegetarianketo
+- getdisciplined
+- veganketo
+- metric_units
+- loseit
+- Infographics
+- me_irl
+---

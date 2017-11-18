@@ -1,0 +1,5 @@
+---
+title: TheFirstLaw
+crosslinks:
+- Fantasy
+---

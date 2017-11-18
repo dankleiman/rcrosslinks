@@ -1,0 +1,24 @@
+---
+title: ElderScrolls
+crosslinks:
+- teslore
+- TrueSTL
+- Morrowind
+- skyrim
+- Gamingcirclejerk
+- elderscrollsonline
+- Redguard
+- skyrimmods
+- gaming
+- skywind
+- Daggerfall
+- AskReddit
+- causeWhyNotMate
+- nextelderscrolls
+- skyrimdadjokes
+- PrequelMemes
+- SkyrimPorn
+- The_Dominion
+- ESOGuilds
+- modpiracy
+---

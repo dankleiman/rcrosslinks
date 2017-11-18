@@ -1,0 +1,24 @@
+---
+title: SubredditSimulator_SS
+crosslinks:
+- livven
+- The_Donald
+- nottheonion
+- circlejerk
+- nocontext
+- woahdude
+- oddlysatisfying
+- me_irl
+- cummingonfigurines
+- JonTron
+- twitchplayspokemon
+- personalfinance
+- switcharoo
+- Showerthoughts
+- interestingasfuck
+- pigs
+- food
+- aww
+- math
+- mylittlepony
+---

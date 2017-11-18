@@ -1,0 +1,24 @@
+---
+title: RPGdesign
+crosslinks:
+- rpg
+- latelegends
+- FFRPG
+- savageworlds
+- swrpg
+- osr
+- rpgresources
+- DnD
+- Eve
+- AskGameMasters
+- realitypunk
+- characterdrawing
+- ACSLB
+- science
+- PBtA
+- xkcd
+- 3d20RPG
+- Metal
+- darksouls
+- gamedev
+---

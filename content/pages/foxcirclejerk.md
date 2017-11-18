@@ -1,0 +1,5 @@
+---
+title: foxcirclejerk
+crosslinks:
+- smashgifs
+---

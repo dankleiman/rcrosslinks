@@ -1,0 +1,5 @@
+---
+title: CumHentai
+crosslinks:
+- hentai
+---

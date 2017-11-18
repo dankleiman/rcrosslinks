@@ -1,0 +1,24 @@
+---
+title: PokePorn
+crosslinks:
+- Pixiv
+- livven
+- FeralPokePorn
+- Rule34FMK
+- spnati
+- PokeFutanari
+- Paizuri
+- Palpz
+- pettankohentai
+- OppaiLove
+- Vore
+- lactation
+- furrypasta
+- LipstickSkidMarks
+- freeuse
+- HypnoHentai
+- sexystories
+- rule34_comics
+- kawamono
+- FuckPokePorn
+---

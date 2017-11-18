@@ -1,0 +1,24 @@
+---
+title: badeconomics
+crosslinks:
+- Economics
+- AskEconomics
+- LateStageCapitalism
+- The_Donald
+- politics
+- explainlikeimfive
+- canada
+- Futurology
+- Bitcoin
+- AskReddit
+- PoliticalDiscussion
+- ukpolitics
+- TrueReddit
+- worldnews
+- CanadaPolitics
+- EconCopyPasta
+- SandersForPresident
+- AskHistorians
+- todayilearned
+- news
+---

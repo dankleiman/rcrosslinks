@@ -1,0 +1,5 @@
+---
+title: bananagoopi
+crosslinks:
+- panthers
+---

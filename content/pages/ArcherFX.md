@@ -1,0 +1,24 @@
+---
+title: ArcherFX
+crosslinks:
+- livven
+- autotldr
+- ComedyCemetery
+- todayilearned
+- pics
+- pamwashere
+- NetflixViaVPN
+- Adelaide
+- mildlyinteresting
+- Skookum
+- Scotch
+- xkcd
+- translator
+- photocritique
+- TalesFromThePizzaGuy
+- CrusaderKings
+- ireland
+- DrinkingGames
+- '2013'
+- RedDwarf
+---

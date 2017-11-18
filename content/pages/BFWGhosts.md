@@ -1,0 +1,5 @@
+---
+title: BFWGhosts
+crosslinks:
+- BlackFridayWerewolves
+---

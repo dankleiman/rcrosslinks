@@ -1,0 +1,5 @@
+---
+title: Allsvenskan
+crosslinks:
+- soccerstreams
+---

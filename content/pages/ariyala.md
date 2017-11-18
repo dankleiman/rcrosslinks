@@ -1,0 +1,5 @@
+---
+title: ariyala
+crosslinks:
+- ffxiv
+---

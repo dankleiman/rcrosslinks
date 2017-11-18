@@ -1,0 +1,5 @@
+---
+title: foerster
+crosslinks:
+- de
+---

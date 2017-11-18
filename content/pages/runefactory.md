@@ -1,0 +1,5 @@
+---
+title: runefactory
+crosslinks:
+- nintendo
+---

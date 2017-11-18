@@ -1,0 +1,24 @@
+---
+title: ShrugLifeSyndicate
+crosslinks:
+- Psychonaut
+- sorceryofthespectacle
+- C_S_T
+- Drugs
+- occult
+- awakened
+- holofractal
+- conspiracy
+- DigitalCartel
+- RationalPsychonaut
+- Echerdex
+- Stargnoc
+- LSD
+- ShrugLyfeSyndicate
+- zen
+- autotldr
+- ImagesOfThe1950s
+- ChildrenOfTheLight
+- MonaLeslie
+- philosophy
+---

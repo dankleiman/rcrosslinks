@@ -1,0 +1,24 @@
+---
+title: researchchemicals
+crosslinks:
+- Drugs
+- ReagentTesting
+- Stims
+- Nootropics
+- DrugNerds
+- microdosing
+- drugs
+- noids
+- NovelDissos
+- DrugsOver30
+- fentanyl
+- plugging
+- LSD
+- MDMA
+- drugscirclejerk
+- electronic_cigarette
+- opiates
+- DrugStashes
+- IAmA
+- Borax
+---

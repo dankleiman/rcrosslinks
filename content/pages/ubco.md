@@ -1,0 +1,5 @@
+---
+title: ubco
+crosslinks:
+- KelownaBC
+---

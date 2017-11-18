@@ -1,0 +1,5 @@
+---
+title: WorldReport
+crosslinks:
+- autotldr
+---

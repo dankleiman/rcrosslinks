@@ -1,0 +1,5 @@
+---
+title: zengmlol
+crosslinks:
+- LOLML
+---

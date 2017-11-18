@@ -1,0 +1,22 @@
+---
+title: mildyinteresting
+crosslinks:
+- livven
+- pics
+- WeWantPlates
+- ThePack
+- place
+- LosAngeles
+- politics
+- Odlysatisfying
+- mildlyinteresting
+- nevertellmetheodds
+- thingsforants
+- untrustworthypoptarts
+- RealLifeShinies
+- OopsDidntMeanTo
+- SignalYourVirtue
+- gifs
+- woahdude
+- perfectcircles
+---

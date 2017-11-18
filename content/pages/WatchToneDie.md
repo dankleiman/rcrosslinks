@@ -1,0 +1,5 @@
+---
+title: WatchToneDie
+crosslinks:
+- titanfall
+---

@@ -1,0 +1,5 @@
+---
+title: videoludado
+crosslinks:
+- Esperanto
+---

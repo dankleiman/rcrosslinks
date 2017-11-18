@@ -1,0 +1,24 @@
+---
+title: navyseals
+crosslinks:
+- Pararescue
+- army
+- IAmA
+- running
+- newtothenavy
+- AirForce
+- JustBootThings
+- Random_Acts_Of_Sex
+- highqualitygifs
+- AskReddit
+- TacticalAthlete
+- militaryfitness
+- specialtactics
+- Fitness
+- reactiongifs
+- nationalguard
+- AMA
+- surfing
+- Minecraft
+- slavs_squatting
+---

@@ -1,0 +1,5 @@
+---
+title: entomophagy
+crosslinks:
+- insects
+---

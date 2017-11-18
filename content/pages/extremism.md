@@ -1,0 +1,5 @@
+---
+title: extremism
+crosslinks:
+- autotldr
+---

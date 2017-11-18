@@ -1,0 +1,24 @@
+---
+title: StoriesAboutKevin
+crosslinks:
+- HarmReductionExperts
+- mylittleandysonic1
+- AskReddit
+- tifu
+- MaliciousCompliance
+- flying
+- IAmA
+- talesofmike
+- talesfromtechsupport
+- TalesFromTheFrontDesk
+- livven
+- excgarated
+- JUSTNOMIL
+- Whatcouldgowrong
+- The_Kevin
+- AVoid5
+- DnDSteve
+- wtfdidijustread
+- AccidentalWesAnderson
+- rpghorrorstories
+---

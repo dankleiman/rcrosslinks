@@ -1,0 +1,23 @@
+---
+title: ArtCrit
+crosslinks:
+- learnart
+- redditgetsdrawn
+- livven
+- Art
+- ArtFundamentals
+- pics
+- '2015'
+- kei0q9
+- painting
+- Breath_of_the_Wild
+- PutAnEggOnIt
+- hmmm
+- ArtProgressPics
+- Illustration
+- DigitalPainting
+- a
+- characterdrawing
+- SketchDaily
+- AccidentalRenaissance
+---

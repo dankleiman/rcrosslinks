@@ -1,0 +1,5 @@
+---
+title: kafuka
+crosslinks:
+- Pixiv
+---

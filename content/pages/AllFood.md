@@ -1,0 +1,5 @@
+---
+title: AllFood
+crosslinks:
+- autotldr
+---

@@ -1,0 +1,5 @@
+---
+title: carpenterbrut
+crosslinks:
+- outrun
+---

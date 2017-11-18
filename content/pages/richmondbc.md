@@ -1,0 +1,5 @@
+---
+title: richmondbc
+crosslinks:
+- vancouver
+---

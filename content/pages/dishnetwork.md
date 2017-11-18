@@ -1,0 +1,5 @@
+---
+title: dishnetwork
+crosslinks:
+- funny
+---

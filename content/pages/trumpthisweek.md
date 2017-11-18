@@ -1,0 +1,5 @@
+---
+title: trumpthisweek
+crosslinks:
+- autotldr
+---

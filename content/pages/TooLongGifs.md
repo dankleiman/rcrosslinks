@@ -1,0 +1,5 @@
+---
+title: TooLongGifs
+crosslinks:
+- Skookum
+---

@@ -1,0 +1,5 @@
+---
+title: SpotifyMyGame
+crosslinks:
+- MetalPlaylists
+---

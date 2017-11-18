@@ -1,0 +1,5 @@
+---
+title: PINAC
+crosslinks:
+- autotldr
+---

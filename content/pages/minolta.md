@@ -1,0 +1,5 @@
+---
+title: minolta
+crosslinks:
+- analog
+---

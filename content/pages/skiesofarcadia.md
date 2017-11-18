@@ -1,0 +1,5 @@
+---
+title: skiesofarcadia
+crosslinks:
+- niceguys
+---

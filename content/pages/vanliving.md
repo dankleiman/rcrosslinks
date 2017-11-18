@@ -1,0 +1,5 @@
+---
+title: vanliving
+crosslinks:
+- samharris
+---

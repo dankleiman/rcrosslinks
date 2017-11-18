@@ -1,0 +1,24 @@
+---
+title: itsaunixsystem
+crosslinks:
+- xkcd
+- interject
+- livven
+- videos
+- StallmanWasRight
+- comedynecromancy
+- sysadmin
+- internetofshit
+- continuityporn
+- theydidthecode
+- Futurology
+- Serendipity
+- VXJunkies
+- softwaregore
+- DeskCorners
+- Stargate
+- Sherlock
+- todayilearned
+- PopCornTime
+- limitless
+---

@@ -1,0 +1,5 @@
+---
+title: DiscussingIslam
+crosslinks:
+- islam
+---

@@ -1,0 +1,5 @@
+---
+title: economicdemocracy
+crosslinks:
+- LateStageCapitalism
+---

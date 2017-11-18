@@ -1,0 +1,5 @@
+---
+title: SmiteLFM
+crosslinks:
+- Smite
+---

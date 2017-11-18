@@ -1,0 +1,5 @@
+---
+title: PUBATTLEGROUNDS_LFG
+crosslinks:
+- PUBATTLEGROUNDS
+---

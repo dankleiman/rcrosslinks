@@ -1,0 +1,5 @@
+---
+title: CognitionCorp
+crosslinks:
+- starcitizen
+---

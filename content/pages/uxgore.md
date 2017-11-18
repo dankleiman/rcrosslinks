@@ -1,0 +1,5 @@
+---
+title: uxgore
+crosslinks:
+- shittyprogramming
+---

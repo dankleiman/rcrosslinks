@@ -1,0 +1,5 @@
+---
+title: saltstack
+crosslinks:
+- sysadmin
+---

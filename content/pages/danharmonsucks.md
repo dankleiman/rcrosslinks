@@ -1,0 +1,5 @@
+---
+title: danharmonsucks
+crosslinks:
+- rickandmorty
+---

@@ -1,0 +1,24 @@
+---
+title: bayarea
+crosslinks:
+- sanfrancisco
+- oakland
+- EnoughTrumpSpam
+- xkcd
+- RealEstate
+- SanJose
+- conspiracy
+- santarosa
+- livven
+- gatekeeping
+- SanFranciscoII
+- legaladvice
+- warriors
+- Roadcam
+- SJEarthquakes
+- learnprogramming
+- motorcycles
+- calexit
+- todayilearned
+- PeopleFuckingDying
+---

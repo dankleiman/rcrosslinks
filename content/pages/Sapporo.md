@@ -1,0 +1,5 @@
+---
+title: Sapporo
+crosslinks:
+- JapanTravel
+---

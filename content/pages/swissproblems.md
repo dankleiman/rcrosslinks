@@ -1,0 +1,5 @@
+---
+title: swissproblems
+crosslinks:
+- swissarmy
+---

@@ -1,0 +1,24 @@
+---
+title: rit
+crosslinks:
+- livven
+- technology
+- TheSilphRoad
+- INTP
+- FuckMechanics
+- netneutrality
+- hillaryclinton
+- CringeAnarchy
+- europe
+- COSI
+- MemeEconomy
+- ApplyingToCollege
+- funny
+- fireTV
+- Piracy
+- TagPro
+- DesirePath
+- SanJose
+- CFBStreams
+- RITeSports
+---

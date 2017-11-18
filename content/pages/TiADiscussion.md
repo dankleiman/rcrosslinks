@@ -1,0 +1,24 @@
+---
+title: TiADiscussion
+crosslinks:
+- AskReddit
+- HBD
+- KotakuInAction
+- ShitEvilModsSay
+- The_Donald
+- islam
+- philosophy
+- lewronggeneration
+- news
+- COMPLETEANARCHY
+- IAmA
+- CringeAnarchy
+- japan
+- Negareddit
+- pussypassdenied
+- xkcd
+- EnoughCommieSpam
+- PoliticalDiscussion
+- BestOfOutrageCulture
+- Bad_Cop_No_Donut
+---

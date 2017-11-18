@@ -1,0 +1,24 @@
+---
+title: japan
+crosslinks:
+- japancirclejerk
+- autotldr
+- japanlife
+- JapanTravel
+- worldnews
+- korea
+- movingtojapan
+- AskReddit
+- place
+- newsokur
+- Drama
+- Tokyo
+- LearnJapanese
+- hapas
+- jetprogramme
+- xkcd
+- translator
+- Judaism
+- TopMindsOfReddit
+- afinil
+---

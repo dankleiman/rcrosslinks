@@ -1,0 +1,5 @@
+---
+title: Flamewanker
+crosslinks:
+- customhearthstone
+---

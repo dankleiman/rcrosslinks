@@ -1,0 +1,24 @@
+---
+title: BuyItForLife
+crosslinks:
+- flairer
+- goodyearwelt
+- malefashionadvice
+- IAmA
+- Watches
+- HailCorporate
+- wicked_edge
+- Leathercraft
+- castiron
+- AskReddit
+- frugalmalefashion
+- VacuumCleaners
+- headphones
+- Coffee
+- DIY
+- Watchexchange
+- travel
+- mildlyinteresting
+- TalesFromTheCustomer
+- titlegore
+---

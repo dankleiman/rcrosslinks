@@ -1,0 +1,5 @@
+---
+title: BlackEyedKidsStories
+crosslinks:
+- nosleep
+---

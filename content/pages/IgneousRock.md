@@ -1,0 +1,5 @@
+---
+title: IgneousRock
+crosslinks:
+- mylittlepony
+---

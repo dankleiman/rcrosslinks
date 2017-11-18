@@ -1,0 +1,5 @@
+---
+title: CogDis
+crosslinks:
+- politics
+---

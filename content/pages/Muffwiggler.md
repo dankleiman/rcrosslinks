@@ -1,0 +1,5 @@
+---
+title: Muffwiggler
+crosslinks:
+- modular
+---

@@ -1,0 +1,5 @@
+---
+title: FazCo
+crosslinks:
+- fivenightsatfreddys
+---

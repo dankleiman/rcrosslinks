@@ -1,0 +1,5 @@
+---
+title: extendedmusictheory
+crosslinks:
+- musictheory
+---

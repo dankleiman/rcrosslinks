@@ -1,0 +1,5 @@
+---
+title: Gregfuckedarock
+crosslinks:
+- stevenuniverse
+---

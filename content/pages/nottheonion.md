@@ -1,0 +1,24 @@
+---
+title: nottheonion
+crosslinks:
+- The_Donald
+- AskReddit
+- politics
+- news
+- IAmA
+- pics
+- todayilearned
+- funny
+- videos
+- worldnews
+- tifu
+- Jokes
+- mildlyinteresting
+- explainlikeimfive
+- AskHistorians
+- ProtectAndServe
+- gifs
+- Showerthoughts
+- NOWTTYG
+- nosleep
+---

@@ -1,0 +1,5 @@
+---
+title: KHUx
+crosslinks:
+- KingdomHearts
+---

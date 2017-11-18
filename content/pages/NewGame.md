@@ -1,0 +1,5 @@
+---
+title: NewGame
+crosslinks:
+- wacom
+---

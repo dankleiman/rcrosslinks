@@ -1,0 +1,5 @@
+---
+title: TheWarZ
+crosslinks:
+- playnewz
+---

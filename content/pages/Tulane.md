@@ -1,0 +1,5 @@
+---
+title: Tulane
+crosslinks:
+- NewOrleans
+---

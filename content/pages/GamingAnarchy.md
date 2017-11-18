@@ -1,0 +1,5 @@
+---
+title: GamingAnarchy
+crosslinks:
+- titanfall
+---

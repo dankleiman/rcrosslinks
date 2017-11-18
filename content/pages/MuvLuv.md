@@ -1,0 +1,5 @@
+---
+title: MuvLuv
+crosslinks:
+- visualnovelsuggest
+---

@@ -1,0 +1,5 @@
+---
+title: GreecePics
+crosslinks:
+- InstagramShots
+---

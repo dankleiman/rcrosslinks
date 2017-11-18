@@ -1,0 +1,5 @@
+---
+title: HelloNeighborGame
+crosslinks:
+- translator
+---

@@ -1,0 +1,5 @@
+---
+title: skulls
+crosslinks:
+- goth
+---

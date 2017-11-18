@@ -1,0 +1,24 @@
+---
+title: Xiaomi
+crosslinks:
+- Android
+- chinaphones
+- headphones
+- PickAnAndroidForMe
+- AndroidQuestions
+- LineageOS
+- lineageos
+- Mi4c
+- android
+- EmulationOnAndroid
+- autotldr
+- xdacirclejerk
+- MotoG
+- 2428s5z
+- NotKenM
+- linux
+- kodi
+- googlepixel
+- javascript
+- iphone
+---
