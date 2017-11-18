@@ -6,7 +6,7 @@
         <ol>
         {{ range .Params.crosslinks }}
             {{ $sub := . }}
-            {{ if in $.Site.Data.subreddits.r $sub }}
+            {{ if in $.Site.Data.subreddits $sub }}
               <li><a href="/r/{{lower $sub }}">{{ $sub }}</a></li>
             {{ else }}
               <li>{{ $sub }}</li>
