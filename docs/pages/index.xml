@@ -9,15 +9,6 @@
     <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>0000000027544444</title>
-      <link>/r/0000000027544444/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/r/0000000027544444/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>00sRock</title>
       <link>/r/00srock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -140,6 +131,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/r/100sexiest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>100yearclub</title>
+      <link>/r/100yearclub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/r/100yearclub/</guid>
       <description></description>
     </item>
     
