@@ -4,7 +4,6 @@ crosslinks:
 - Ultralight
 - PacificCrestTrail
 - GearTrade
-- livven
 - UKhopefuls
 - FrenchWestIndies
 - pics

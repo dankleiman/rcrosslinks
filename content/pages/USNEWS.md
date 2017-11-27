@@ -1,7 +1,6 @@
 ---
 title: USNEWS
 crosslinks:
-- autotldr
 - politics
 - The_Donald
 - Salted_Crime

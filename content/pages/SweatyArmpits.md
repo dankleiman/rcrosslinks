@@ -1,5 +1,0 @@
----
-title: SweatyArmpits
-crosslinks:
-- livven
----

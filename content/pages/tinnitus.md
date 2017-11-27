@@ -17,5 +17,4 @@ crosslinks:
 - Serendipity
 - audiology
 - LifeProTips
-- autotldr
 ---

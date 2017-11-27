@@ -13,7 +13,6 @@ crosslinks:
 - whatisthisthing
 - papertowns
 - Utrecht
-- livven
 - Bitcoin
 - europe
 - amsterdamcirclejerk

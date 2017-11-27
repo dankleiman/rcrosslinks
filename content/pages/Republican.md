@@ -1,7 +1,6 @@
 ---
 title: Republican
 crosslinks:
-- autotldr
 - PoliticalDiscussion
 - Conservative
 - politics

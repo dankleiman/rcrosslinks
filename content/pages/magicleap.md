@@ -1,7 +1,6 @@
 ---
 title: magicleap
 crosslinks:
-- autotldr
 - MVIS
 - HoloLens
 - oculus
@@ -16,7 +15,6 @@ crosslinks:
 - ARKitCreators
 - PastorArrested
 - OsterhoutDesignGroup
-- livven
 - BlockChain
 - metric_units
 - apple

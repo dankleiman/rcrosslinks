@@ -1,7 +1,6 @@
 ---
 title: androidthemes
 crosslinks:
-- livven
 - kustom
 - iOSthemes
 - googleplaydeals

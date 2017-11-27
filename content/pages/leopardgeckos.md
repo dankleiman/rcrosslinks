@@ -1,7 +1,6 @@
 ---
 title: leopardgeckos
 crosslinks:
-- livven
 - reptiles
 - CrestedGecko
 - geckos

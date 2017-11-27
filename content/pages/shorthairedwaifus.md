@@ -6,7 +6,6 @@ crosslinks:
 - LoveLive
 - pantsu
 - wholesomeyuri
-- livven
 - anime_irl
 - GIRLSundPANZER
 - Megumin

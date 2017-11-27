@@ -1,7 +1,6 @@
 ---
 title: thingsforants
 crosslinks:
-- livven
 - mildlyinteresting
 - pics
 - Steam

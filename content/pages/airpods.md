@@ -12,7 +12,6 @@ crosslinks:
 - AppleWatch
 - ipad
 - nexus5x
-- autotldr
 - androidcirclejerk
 - woahdude
 - HailCorporate

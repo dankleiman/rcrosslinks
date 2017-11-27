@@ -1,5 +1,0 @@
----
-title: MultiKills
-crosslinks:
-- livven
----

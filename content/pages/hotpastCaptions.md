@@ -1,5 +1,0 @@
----
-title: hotpastCaptions
-crosslinks:
-- livven
----

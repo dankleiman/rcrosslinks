@@ -7,7 +7,6 @@ crosslinks:
 - DNMUK
 - DankNation
 - TheXanaxCartel
-- autotldr
 - Dream_Market
 - WallStreet_Market
 - themarketplace

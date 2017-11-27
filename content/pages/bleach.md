@@ -5,7 +5,6 @@ crosslinks:
 - manga
 - whowouldwin
 - Renji
-- livven
 - Naruto
 - CharacterRant
 - OtakuVisualArts

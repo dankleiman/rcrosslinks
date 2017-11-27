@@ -15,7 +15,6 @@ crosslinks:
 - synology
 - selfhosted
 - Piracy
-- autotldr
 - Lidarr
 - HomeNetworking
 - MoviemaniaHQ

@@ -1,7 +1,6 @@
 ---
 title: awwtf
 crosslinks:
-- livven
 - awwwtf
 - WTF
 - gifs

@@ -1,5 +1,0 @@
----
-title: TawneeStone
-crosslinks:
-- livven
----

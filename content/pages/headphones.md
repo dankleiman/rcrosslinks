@@ -12,7 +12,6 @@ crosslinks:
 - Headphoneporn
 - avexchange
 - EarSpeakers
-- autotldr
 - technology
 - vinyl
 - me_irl

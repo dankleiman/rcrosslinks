@@ -1,5 +1,0 @@
----
-title: Telephobia
-crosslinks:
-- autotldr
----

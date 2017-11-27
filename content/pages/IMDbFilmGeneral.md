@@ -1,7 +1,6 @@
 ---
 title: IMDbFilmGeneral
 crosslinks:
-- autotldr
 - movies
 - TrueFilm
 - titlegore

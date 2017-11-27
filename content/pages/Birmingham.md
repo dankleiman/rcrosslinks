@@ -1,10 +1,8 @@
 ---
 title: Birmingham
 crosslinks:
-- autotldr
 - imaginarymaps
 - AskReddit
-- livven
 - NeutralPolitics
 - MLS
 - ShitPoliticsSays

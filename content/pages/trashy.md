@@ -3,10 +3,8 @@ title: trashy
 crosslinks:
 - WTF
 - AskReddit
-- livven
 - funny
 - IAmA
-- autotldr
 - The_Donald
 - ATBGE
 - Drama

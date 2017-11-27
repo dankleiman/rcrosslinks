@@ -1,5 +1,0 @@
----
-title: SidewalkBeauty
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: AdrianaChechik
 crosslinks:
-- livven
 - Exxxtras
 - SloppySeconds
 - TSonFM

@@ -2,7 +2,6 @@
 title: digitalnomad
 crosslinks:
 - NoNonsenseNomad
-- autotldr
 - vandwellers
 - VPN
 - freelance

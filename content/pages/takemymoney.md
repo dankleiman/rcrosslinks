@@ -1,5 +1,0 @@
----
-title: takemymoney
-crosslinks:
-- autotldr
----

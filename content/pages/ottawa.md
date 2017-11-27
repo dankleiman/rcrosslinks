@@ -2,11 +2,9 @@
 title: ottawa
 crosslinks:
 - canada
-- autotldr
 - LoudNoisesOttawa
 - OandD
 - AskReddit
-- livven
 - OttawaMusic
 - OttawaFishing
 - LifeProTips

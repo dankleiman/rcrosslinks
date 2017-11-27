@@ -1,7 +1,6 @@
 ---
 title: BorderCollie
 crosslinks:
-- livven
 - Dogtraining
 - WiggleButts
 - dogpictures

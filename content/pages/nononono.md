@@ -1,7 +1,6 @@
 ---
 title: nononono
 crosslinks:
-- livven
 - WTF
 - gifs
 - Whatcouldgowrong

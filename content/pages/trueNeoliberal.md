@@ -1,5 +1,0 @@
----
-title: trueNeoliberal
-crosslinks:
-- livven
----

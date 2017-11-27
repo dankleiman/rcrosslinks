@@ -11,7 +11,6 @@ crosslinks:
 - PS4
 - JRPG
 - ffxiv
-- livven
 - funny
 - RocketLeague
 - dissidia

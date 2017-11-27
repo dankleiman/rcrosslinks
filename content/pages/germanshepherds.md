@@ -1,7 +1,6 @@
 ---
 title: germanshepherds
 crosslinks:
-- livven
 - dogs
 - aww
 - puppy101

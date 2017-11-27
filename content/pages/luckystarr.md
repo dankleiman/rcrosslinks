@@ -1,5 +1,0 @@
----
-title: luckystarr
-crosslinks:
-- autotldr
----

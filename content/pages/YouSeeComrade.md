@@ -1,7 +1,6 @@
 ---
 title: YouSeeComrade
 crosslinks:
-- livven
 - funny
 - unexpectedoverwatch
 - 2me4meirl

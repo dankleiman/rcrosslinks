@@ -10,6 +10,5 @@ crosslinks:
 - forsale
 - fffffffuuuuuuuuuuuu
 - madlads
-- livven
 - peanuts
 ---

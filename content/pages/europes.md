@@ -1,7 +1,6 @@
 ---
 title: europes
 crosslinks:
-- autotldr
 - europrivacy
 - news
 - geopolitics

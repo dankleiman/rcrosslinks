@@ -1,7 +1,6 @@
 ---
 title: wholesomememes
 crosslinks:
-- livven
 - xkcd
 - AskReddit
 - funny

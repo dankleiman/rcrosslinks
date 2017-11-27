@@ -1,7 +1,6 @@
 ---
 title: ClimbingCircleJerk
 crosslinks:
-- livven
 - aidcirclejerk
 - theocho
 - aww

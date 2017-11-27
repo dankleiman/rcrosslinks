@@ -6,7 +6,6 @@ crosslinks:
 - WTF
 - Unexpected
 - interestingasfuck
-- livven
 - AnimalsBeingJerks
 - StartledCats
 - ANormalDayInRussia

@@ -1,14 +1,12 @@
 ---
 title: Stargate
 crosslinks:
-- livven
 - IAmA
 - place
 - startrek
 - StargateGifs
 - xkcd
 - gifs
-- autotldr
 - pics
 - announcements
 - DarkMatter

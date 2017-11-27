@@ -1,7 +1,6 @@
 ---
 title: grandrapids
 crosslinks:
-- autotldr
 - The_Donald
 - BikeGrandRapids
 - The_City
@@ -14,7 +13,6 @@ crosslinks:
 - JusticeServed
 - hockey
 - trashy
-- livven
 - esports
 - nocontext
 - GRHousing

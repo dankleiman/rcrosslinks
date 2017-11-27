@@ -1,5 +1,0 @@
----
-title: douglass
-crosslinks:
-- livven
----

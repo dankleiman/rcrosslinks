@@ -1,5 +1,0 @@
----
-title: gifsthatendedtoosoon
-crosslinks:
-- livven
----

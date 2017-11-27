@@ -1,5 +1,0 @@
----
-title: theslimekingstower
-crosslinks:
-- livven
----

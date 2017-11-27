@@ -1,7 +1,6 @@
 ---
 title: FreeCascadia
 crosslinks:
-- autotldr
 - Anarchism
 - Cascadia
 - IndianCountry

@@ -1,7 +1,6 @@
 ---
 title: architecture
 crosslinks:
-- autotldr
 - ArchitectureVids
 - GeometryIsNeat
 - pics

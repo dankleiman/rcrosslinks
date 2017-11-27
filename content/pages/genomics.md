@@ -1,5 +1,0 @@
----
-title: genomics
-crosslinks:
-- autotldr
----

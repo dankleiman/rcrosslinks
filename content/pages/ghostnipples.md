@@ -2,7 +2,6 @@
 title: ghostnipples
 crosslinks:
 - nsfw
-- livven
 - SexyFlowerWater
 - venezuelangirls
 - sarah_xxx

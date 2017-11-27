@@ -1,7 +1,6 @@
 ---
 title: skinnytail
 crosslinks:
-- livven
 - KatyaClover
 - MyFairyLove
 - shorthairchicks

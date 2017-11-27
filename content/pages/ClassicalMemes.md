@@ -6,6 +6,5 @@ crosslinks:
 - surrealmemes
 - choralmusic
 - musicmemes
-- livven
 - classicalmusic
 ---

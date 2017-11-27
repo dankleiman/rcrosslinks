@@ -1,5 +1,0 @@
----
-title: IndieGDev
-crosslinks:
-- livven
----

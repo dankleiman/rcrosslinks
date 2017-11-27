@@ -1,5 +1,0 @@
----
-title: paintballcirclejerk
-crosslinks:
-- livven
----

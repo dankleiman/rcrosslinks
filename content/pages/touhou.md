@@ -2,7 +2,6 @@
 title: touhou
 crosslinks:
 - Pixiv
-- livven
 - place
 - Touhoujerk
 - de
@@ -18,7 +17,6 @@ crosslinks:
 - thighdeology
 - anime
 - civ
-- autotldr
 - PC98touhou
 - Serendipity
 ---

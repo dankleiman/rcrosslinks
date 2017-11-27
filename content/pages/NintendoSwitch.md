@@ -16,7 +16,6 @@ crosslinks:
 - AskReddit
 - nocontext
 - RocketLeague
-- livven
 - wiiu
 - pcmasterrace
 - tomorrow

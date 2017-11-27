@@ -1,7 +1,6 @@
 ---
 title: CatTaps
 crosslinks:
-- livven
 - aww
 - gifs
 - CatSlaps

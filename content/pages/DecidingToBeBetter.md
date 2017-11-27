@@ -2,7 +2,6 @@
 title: DecidingToBeBetter
 crosslinks:
 - getdisciplined
-- autotldr
 - theXeffect
 - GetMotivated
 - NoFap

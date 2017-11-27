@@ -1,5 +1,0 @@
----
-title: BDS
-crosslinks:
-- autotldr
----

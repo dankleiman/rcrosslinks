@@ -7,7 +7,6 @@ crosslinks:
 - AutoDetailing
 - Forex
 - tastytrade
-- autotldr
 - tradeXIV
 - forex
 - FashionReps

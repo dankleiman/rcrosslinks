@@ -1,5 +1,0 @@
----
-title: markov
-crosslinks:
-- livven
----

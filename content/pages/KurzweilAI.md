@@ -1,5 +1,0 @@
----
-title: KurzweilAI
-crosslinks:
-- autotldr
----

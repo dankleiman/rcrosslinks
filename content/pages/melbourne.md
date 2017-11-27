@@ -2,10 +2,8 @@
 title: melbourne
 crosslinks:
 - australia
-- autotldr
 - nottheonion
 - AskReddit
-- livven
 - AFL
 - sydney
 - australianplants

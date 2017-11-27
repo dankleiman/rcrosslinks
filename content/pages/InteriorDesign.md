@@ -7,7 +7,6 @@ crosslinks:
 - CozyPlaces
 - Catan
 - Art
-- livven
 - RoomPorn
 - interiordecorating
 - mildlyinteresting

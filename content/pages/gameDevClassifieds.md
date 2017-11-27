@@ -3,7 +3,6 @@ title: gameDevClassifieds
 crosslinks:
 - INAT
 - gameideas
-- livven
 - PixelBlacksmith
 - gamedev
 - Anger

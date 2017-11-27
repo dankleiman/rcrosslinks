@@ -17,7 +17,6 @@ crosslinks:
 - dxm
 - CBD
 - mallninjashit
-- livven
 - MDMA
 - drugscirclejerk
 - mildlyvagina

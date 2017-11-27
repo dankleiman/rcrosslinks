@@ -1,5 +1,0 @@
----
-title: PicardforPresident
-crosslinks:
-- livven
----

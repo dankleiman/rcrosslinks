@@ -1,5 +1,0 @@
----
-title: ScannerNews
-crosslinks:
-- autotldr
----

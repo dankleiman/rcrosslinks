@@ -15,7 +15,6 @@ crosslinks:
 - gameswap
 - Falcom
 - limitedrun
-- livven
 - patientgamers
 - playstation
 - ChurchofChie

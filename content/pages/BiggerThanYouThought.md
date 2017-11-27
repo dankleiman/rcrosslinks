@@ -1,7 +1,6 @@
 ---
 title: BiggerThanYouThought
 crosslinks:
-- livven
 - NSFW_GIF
 - SmallerThanYouThought
 - AlyssaAtNightFans

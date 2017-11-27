@@ -1,5 +1,0 @@
----
-title: Evadesio
-crosslinks:
-- livven
----

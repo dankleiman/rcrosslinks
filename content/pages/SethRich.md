@@ -1,7 +1,6 @@
 ---
 title: SethRich
 crosslinks:
-- autotldr
 - POLITIC
 - SethRichMurder
 - TheDonaldUltra

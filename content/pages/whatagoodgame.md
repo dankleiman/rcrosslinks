@@ -1,5 +1,0 @@
----
-title: whatagoodgame
-crosslinks:
-- livven
----

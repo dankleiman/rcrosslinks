@@ -12,7 +12,6 @@ crosslinks:
 - DarkNetMarketsLinks
 - Dream_Market
 - Darknet_Markets
-- autotldr
 - BitcoinBeginners
 - SpaceBuckets
 - grams

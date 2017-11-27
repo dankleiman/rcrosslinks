@@ -1,5 +1,0 @@
----
-title: WeWhoAreAboutToDie
-crosslinks:
-- livven
----

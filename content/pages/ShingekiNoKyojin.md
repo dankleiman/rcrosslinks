@@ -3,7 +3,6 @@ title: ShingekiNoKyojin
 crosslinks:
 - attack_on_titan
 - anime
-- livven
 - attackontitan
 - The_Brothald
 - nocontext

@@ -11,7 +11,6 @@ crosslinks:
 - horror
 - dvdcollection
 - OutOfTheLoop
-- autotldr
 - videos
 - videoessay
 - FanTheories

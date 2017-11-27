@@ -1,7 +1,6 @@
 ---
 title: bootypetite
 crosslinks:
-- livven
 - allisoncalvaruso
 - ThatPerfectAss
 - theratio

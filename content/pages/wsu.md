@@ -3,7 +3,6 @@ title: wsu
 crosslinks:
 - teenagers
 - nottheonion
-- livven
 - Spokane
 - changemyview
 - Futurology

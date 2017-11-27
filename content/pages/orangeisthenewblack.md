@@ -1,8 +1,6 @@
 ---
 title: orangeisthenewblack
 crosslinks:
-- livven
-- autotldr
 - Guildwars2
 - television
 - printSF

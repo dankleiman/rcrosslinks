@@ -3,7 +3,6 @@ title: Handwriting
 crosslinks:
 - fountainpens
 - PenmanshipPorn
-- livven
 - Calligraphy
 - penmanshipporn
 - shorthand

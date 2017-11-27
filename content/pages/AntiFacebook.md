@@ -1,7 +1,6 @@
 ---
 title: AntiFacebook
 crosslinks:
-- autotldr
 - europrivacy
 - antigoogle
 - privacy

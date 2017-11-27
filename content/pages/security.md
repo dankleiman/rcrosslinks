@@ -1,7 +1,6 @@
 ---
 title: security
 crosslinks:
-- autotldr
 - zeronet
 - xkcd
 - netsec

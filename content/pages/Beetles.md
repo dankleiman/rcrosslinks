@@ -1,5 +1,0 @@
----
-title: Beetles
-crosslinks:
-- livven
----

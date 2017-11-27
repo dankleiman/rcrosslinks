@@ -1,7 +1,6 @@
 ---
 title: StarWarsForceArena
 crosslinks:
-- livven
 - EmpireDidNothingWrong
 - nl_Kripparrian
 - iPhone

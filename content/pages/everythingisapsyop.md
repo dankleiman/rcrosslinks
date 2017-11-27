@@ -1,5 +1,0 @@
----
-title: everythingisapsyop
-crosslinks:
-- autotldr
----

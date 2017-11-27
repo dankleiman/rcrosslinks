@@ -2,7 +2,6 @@
 title: desmoines
 crosslinks:
 - Iowa
-- autotldr
 - iamversmart
 - todayilearned
 - lfg

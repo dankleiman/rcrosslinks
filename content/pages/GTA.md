@@ -1,7 +1,6 @@
 ---
 title: GTA
 crosslinks:
-- livven
 - gtaonline
 - GrandTheftAutoV
 - gaming
@@ -9,7 +8,6 @@ crosslinks:
 - GARNER2015
 - GTAGivers
 - chiliadmystery
-- autotldr
 - FrankOcean
 - GrandTheftAutoV_PC
 - OutOfTheLoop

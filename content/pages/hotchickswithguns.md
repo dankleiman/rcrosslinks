@@ -1,5 +1,0 @@
----
-title: hotchickswithguns
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: CulinaryHistory
-crosslinks:
-- autotldr
----

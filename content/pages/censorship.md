@@ -1,7 +1,6 @@
 ---
 title: censorship
 crosslinks:
-- autotldr
 - conspiracy
 - AskThe_Donald
 - Conservative

@@ -1,5 +1,0 @@
----
-title: northrupphoto
-crosslinks:
-- autotldr
----

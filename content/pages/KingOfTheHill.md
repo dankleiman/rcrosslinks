@@ -1,7 +1,6 @@
 ---
 title: KingOfTheHill
 crosslinks:
-- livven
 - pocketsand
 - UGCrowns
 - Alternativerock

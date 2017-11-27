@@ -9,7 +9,6 @@ crosslinks:
 - datasets
 - xkcd
 - startups
-- autotldr
 - Rowing
 - SuggestALaptop
 ---

@@ -2,7 +2,6 @@
 title: InternetCommentEtiq
 crosslinks:
 - videos
-- autotldr
 - LadyBoners
 - AskDocs
 - iamverysmart

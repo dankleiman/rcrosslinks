@@ -1,7 +1,6 @@
 ---
 title: worldanarchism
 crosslinks:
-- autotldr
 - AnarchoPacifism
 - AnarchismOnline
 - Anarchism

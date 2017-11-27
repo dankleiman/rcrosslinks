@@ -12,5 +12,4 @@ crosslinks:
 - giftcardexchange
 - FuckTammy
 - AskCulinary
-- livven
 ---

@@ -1,5 +1,0 @@
----
-title: StopResisting
-crosslinks:
-- livven
----

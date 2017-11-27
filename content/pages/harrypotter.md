@@ -5,7 +5,6 @@ crosslinks:
 - FanTheories
 - PottermoreWritings
 - HPRankdown
-- livven
 - hprankdown2
 - Wandsmith
 - AskReddit
@@ -20,5 +19,4 @@ crosslinks:
 - harrypotterdadjokes
 - HarryandGinny
 - explainlikeimfive
-- autotldr
 ---

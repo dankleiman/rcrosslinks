@@ -1,8 +1,6 @@
 ---
 title: videogames
 crosslinks:
-- autotldr
-- livven
 - me_irl
 - chairs
 - InfiniteCenturyGames

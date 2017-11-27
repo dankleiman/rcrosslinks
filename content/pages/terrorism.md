@@ -1,7 +1,6 @@
 ---
 title: terrorism
 crosslinks:
-- autotldr
 - afghanistan
 - Lawfare
 - SouthAsia

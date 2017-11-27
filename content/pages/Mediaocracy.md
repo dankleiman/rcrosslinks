@@ -1,5 +1,0 @@
----
-title: Mediaocracy
-crosslinks:
-- autotldr
----

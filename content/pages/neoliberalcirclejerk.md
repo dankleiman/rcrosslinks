@@ -1,5 +1,0 @@
----
-title: neoliberalcirclejerk
-crosslinks:
-- livven
----

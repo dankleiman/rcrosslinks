@@ -19,6 +19,5 @@ crosslinks:
 - Flyers
 - '2013'
 - placehearts
-- livven
 - CalgaryFlames
 ---

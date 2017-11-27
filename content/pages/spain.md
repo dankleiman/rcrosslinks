@@ -1,7 +1,6 @@
 ---
 title: spain
 crosslinks:
-- autotldr
 - podemos
 - Barcelona
 - europe

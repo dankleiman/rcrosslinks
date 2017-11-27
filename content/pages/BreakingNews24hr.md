@@ -1,7 +1,6 @@
 ---
 title: BreakingNews24hr
 crosslinks:
-- autotldr
 - ReddLineNews
 - me_irl
 - politics
@@ -15,7 +14,6 @@ crosslinks:
 - BenJealous
 - news
 - raws
-- livven
 - worldnews
 - Bad_Cop_No_Donut
 - Agitative

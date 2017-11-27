@@ -1,7 +1,6 @@
 ---
 title: Assyria
 crosslinks:
-- autotldr
 - genetics
 - india
 - syriancivilwar

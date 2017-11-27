@@ -4,7 +4,6 @@ crosslinks:
 - IAmA
 - zeropointmodule
 - guitarpedals
-- autotldr
 - deadmalls
 - maximumfun
 - AskHistorians

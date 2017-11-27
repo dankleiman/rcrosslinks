@@ -5,6 +5,5 @@ crosslinks:
 - YokaiSwap
 - titlegore
 - 3dshacks
-- livven
 - place
 ---

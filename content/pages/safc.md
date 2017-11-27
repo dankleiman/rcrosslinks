@@ -1,7 +1,6 @@
 ---
 title: safc
 crosslinks:
-- livven
 - reddevils
 - soccer
 - CasualUK

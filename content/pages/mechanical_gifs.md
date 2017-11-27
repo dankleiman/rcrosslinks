@@ -1,7 +1,6 @@
 ---
 title: mechanical_gifs
 crosslinks:
-- livven
 - gifs
 - xkcd
 - specializedtools

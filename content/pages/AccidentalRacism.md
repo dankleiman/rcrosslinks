@@ -5,7 +5,6 @@ crosslinks:
 - CrappyDesign
 - NegativeWithGold
 - CorporateFacepalm
-- livven
 - nevertellmetheodds
 - videos
 - finlandConspiracy

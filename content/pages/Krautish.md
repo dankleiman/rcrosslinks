@@ -1,5 +1,0 @@
----
-title: Krautish
-crosslinks:
-- livven
----

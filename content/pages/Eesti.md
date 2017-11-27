@@ -3,7 +3,6 @@ title: Eesti
 crosslinks:
 - loltyler1
 - place
-- autotldr
 - europe
 - russia
 - AskPhilosophyFAQ

@@ -1,7 +1,6 @@
 ---
 title: humanism
 crosslinks:
-- autotldr
 - uncensorednews
 - transhumanism
 - Drama

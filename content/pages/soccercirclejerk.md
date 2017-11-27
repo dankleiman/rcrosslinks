@@ -2,7 +2,6 @@
 title: soccercirclejerk
 crosslinks:
 - soccer
-- livven
 - Gunners
 - jesuschristreddit
 - OutOfTheLoop

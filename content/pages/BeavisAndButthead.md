@@ -1,5 +1,0 @@
----
-title: BeavisAndButthead
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: educationalgifs
 crosslinks:
-- livven
 - restofthefuckingowl
 - xkcd
 - interestingasfuck

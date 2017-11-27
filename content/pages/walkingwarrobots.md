@@ -2,7 +2,6 @@
 title: walkingwarrobots
 crosslinks:
 - TrueReddit
-- livven
 - gamedesign
 - DestinyTheGame
 - aww

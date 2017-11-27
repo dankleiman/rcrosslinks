@@ -1,5 +1,0 @@
----
-title: skywatch
-crosslinks:
-- autotldr
----

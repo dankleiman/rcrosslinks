@@ -1,14 +1,12 @@
 ---
 title: The_Dennis
 crosslinks:
-- livven
 - The_Donald
 - announcements
 - iasip
 - IASIP
 - OutOfTheLoop
 - engrish
-- autotldr
 - IAmA
 - hero0fwar
 - Utah

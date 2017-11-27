@@ -1,7 +1,6 @@
 ---
 title: translation
 crosslinks:
-- translatorBOT
 - translator
 - Kurrent
 - spam

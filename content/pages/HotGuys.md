@@ -1,5 +1,0 @@
----
-title: HotGuys
-crosslinks:
-- livven
----

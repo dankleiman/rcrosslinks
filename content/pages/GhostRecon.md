@@ -1,7 +1,6 @@
 ---
 title: GhostRecon
 crosslinks:
-- livven
 - ghostreconLFG
 - Wildlands
 - thedivision

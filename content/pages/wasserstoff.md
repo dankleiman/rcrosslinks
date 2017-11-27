@@ -1,5 +1,0 @@
----
-title: wasserstoff
-crosslinks:
-- autotldr
----

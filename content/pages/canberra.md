@@ -2,13 +2,11 @@
 title: canberra
 crosslinks:
 - australia
-- autotldr
 - videos
 - ShittyLifeProTips
 - aws
 - marijuanaenthusiasts
 - NorthKoreaNews
-- livven
 - Adelaide
 - Breadit
 - magicTCG

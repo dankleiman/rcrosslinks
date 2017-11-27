@@ -11,7 +11,6 @@ crosslinks:
 - IAmA
 - AskPhilosophyFAQ
 - gorillaz
-- livven
 - sadlygokarts
 - NameThatSong
 - xkcd

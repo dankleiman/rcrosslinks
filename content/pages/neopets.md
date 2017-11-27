@@ -4,9 +4,7 @@ crosslinks:
 - IAmA
 - place
 - neopetsmeta
-- livven
 - TheFarLeftSide
-- autotldr
 - ShadowBan
 - gifts
 - Antshares

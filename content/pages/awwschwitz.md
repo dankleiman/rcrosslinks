@@ -1,7 +1,6 @@
 ---
 title: awwschwitz
 crosslinks:
-- livven
 - InternetHitlers
 - DerScheisser
 - heilcorporate

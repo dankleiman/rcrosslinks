@@ -4,7 +4,6 @@ crosslinks:
 - asktransgender
 - NonBinary
 - malefashionadvice
-- livven
 - MtF
 - androgyny
 - crossdressing

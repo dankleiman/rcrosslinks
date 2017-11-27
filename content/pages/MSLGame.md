@@ -3,7 +3,6 @@ title: MSLGame
 crosslinks:
 - FLAGFlagstaff
 - summonerswar
-- livven
 - xkcd
 - MRW
 - AndroidGaming

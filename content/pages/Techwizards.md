@@ -1,5 +1,0 @@
----
-title: Techwizards
-crosslinks:
-- autotldr
----

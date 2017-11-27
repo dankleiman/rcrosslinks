@@ -2,7 +2,6 @@
 title: araragi
 crosslinks:
 - anime
-- livven
 - manga
 - AnimeFigures
 - araragigirls

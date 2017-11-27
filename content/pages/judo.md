@@ -1,7 +1,6 @@
 ---
 title: judo
 crosslinks:
-- livven
 - Fitness
 - gaming
 - martialarts
@@ -16,7 +15,6 @@ crosslinks:
 - MMA
 - lifedrawing
 - JapanTravel
-- autotldr
 - karate
 - freeformost
 ---

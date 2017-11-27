@@ -7,7 +7,6 @@ crosslinks:
 - ATT
 - GalaxyS8
 - verizon
-- livven
 - AndroidQuestions
 - HTC10
 - htcu11

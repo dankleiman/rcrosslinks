@@ -1,7 +1,6 @@
 ---
 title: Firefighting
 crosslinks:
-- autotldr
 - Wildfire
 - ems
 - rfaf

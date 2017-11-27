@@ -1,7 +1,6 @@
 ---
 title: SonicTheHedgehog
 crosslinks:
-- livven
 - NintendoSwitch
 - place
 - axew

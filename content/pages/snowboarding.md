@@ -1,7 +1,6 @@
 ---
 title: snowboarding
 crosslinks:
-- livven
 - skiing
 - gifs
 - Spliddit

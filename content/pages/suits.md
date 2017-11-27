@@ -2,7 +2,6 @@
 title: suits
 crosslinks:
 - legaladvice
-- autotldr
 - thegrandtour
 - SiliconValleyHBO
 - fuckolly

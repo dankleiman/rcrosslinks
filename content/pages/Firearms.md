@@ -2,8 +2,6 @@
 title: Firearms
 crosslinks:
 - guns
-- autotldr
-- livven
 - gundeals
 - CCW
 - ar15

@@ -1,5 +1,0 @@
----
-title: teamecchi
-crosslinks:
-- livven
----

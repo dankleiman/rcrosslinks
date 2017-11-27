@@ -1,7 +1,6 @@
 ---
 title: BarefootRunning
 crosslinks:
-- livven
 - Dudeism
 - videos
 - Esoteric

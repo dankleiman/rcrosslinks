@@ -1,5 +1,0 @@
----
-title: ConsciousEarthlings
-crosslinks:
-- autotldr
----

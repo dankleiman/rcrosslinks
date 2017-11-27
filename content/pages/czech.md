@@ -9,7 +9,6 @@ crosslinks:
 - cesky
 - texas
 - unitedkingdom
-- autotldr
 - cirkeltrek
 - OutOfTheLoop
 - poland

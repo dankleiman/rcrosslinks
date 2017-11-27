@@ -3,12 +3,10 @@ title: Frisson
 crosslinks:
 - videos
 - pics
-- livven
 - xkcd
 - BritainsGotTalent
 - happycrowds
 - space
-- autotldr
 - wholesomememes
 - Art
 - IAmA

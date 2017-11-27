@@ -1,7 +1,6 @@
 ---
 title: Floof
 crosslinks:
-- livven
 - curledfeetsies
 - aww
 - cats

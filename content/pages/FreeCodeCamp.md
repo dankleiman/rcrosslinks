@@ -4,5 +4,4 @@ crosslinks:
 - dailyprogrammer
 - learnprogramming
 - ProgrammerHumor
-- autotldr
 ---

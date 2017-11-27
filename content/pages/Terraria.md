@@ -2,7 +2,6 @@
 title: Terraria
 crosslinks:
 - terrasavr
-- livven
 - TerrariaSeedoftheWeek
 - ShittyTerraria
 - xkcd

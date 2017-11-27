@@ -1,7 +1,6 @@
 ---
 title: steak
 crosslinks:
-- livven
 - PutAnEggOnIt
 - meat
 - sousvide

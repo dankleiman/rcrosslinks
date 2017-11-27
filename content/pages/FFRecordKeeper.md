@@ -1,7 +1,6 @@
 ---
 title: FFRecordKeeper
 crosslinks:
-- livven
 - FinalFantasy
 - FFBraveExvius
 - FFRK

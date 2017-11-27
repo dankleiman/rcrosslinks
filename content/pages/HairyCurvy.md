@@ -1,5 +1,0 @@
----
-title: HairyCurvy
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: cottontails
 crosslinks:
-- livven
 - thegoodcrack
 - CuteLittleButts
 - tanlines

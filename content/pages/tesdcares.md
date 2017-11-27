@@ -1,8 +1,6 @@
 ---
 title: tesdcares
 crosslinks:
-- autotldr
-- livven
 - OldSchoolCool
 - xkcd
 - ImpracticalJokers

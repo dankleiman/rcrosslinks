@@ -1,7 +1,6 @@
 ---
 title: Expected
 crosslinks:
-- livven
 - gifs
 - gaming
 - Unexpected

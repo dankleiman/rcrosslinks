@@ -1,7 +1,6 @@
 ---
 title: corgi
 crosslinks:
-- livven
 - PuppySmiles
 - dogs
 - sploot

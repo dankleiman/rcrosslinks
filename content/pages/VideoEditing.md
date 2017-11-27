@@ -3,7 +3,6 @@ title: VideoEditing
 crosslinks:
 - editors
 - SuggestALaptop
-- livven
 - videography
 - pcmasterrace
 - Filmmakers

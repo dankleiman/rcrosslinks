@@ -3,7 +3,6 @@ title: unixporn
 crosslinks:
 - wallpapers
 - i3wm
-- livven
 - zeronet
 - archlinux
 - linux

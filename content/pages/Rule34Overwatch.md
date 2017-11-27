@@ -2,7 +2,6 @@
 title: Rule34Overwatch
 crosslinks:
 - Palpz
-- livven
 - rule34
 - futanari
 - OverwatchCirclejerk

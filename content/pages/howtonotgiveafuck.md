@@ -3,12 +3,10 @@ title: howtonotgiveafuck
 crosslinks:
 - Stoicism
 - getdisciplined
-- autotldr
 - TheRedPill
 - videos
 - AskReddit
 - hatchery
-- livven
 - Meditation
 - Serendipity
 - ExNoContact

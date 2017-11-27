@@ -1,5 +1,0 @@
----
-title: swinginggifs
-crosslinks:
-- livven
----

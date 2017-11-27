@@ -2,7 +2,6 @@
 title: Seaofthieves
 crosslinks:
 - Ooer
-- livven
 - explainlikeimfive
 - Windows10
 - pcmasterrace

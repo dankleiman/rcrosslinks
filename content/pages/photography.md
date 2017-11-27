@@ -3,7 +3,6 @@ title: photography
 crosslinks:
 - itookapicture
 - analog
-- autotldr
 - pics
 - SonyAlpha
 - photocritique

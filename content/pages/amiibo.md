@@ -4,7 +4,6 @@ crosslinks:
 - zelda
 - NintendoSwitch
 - nintendo
-- livven
 - WorldOfNintendo
 - AnimalCrossing
 - gaming

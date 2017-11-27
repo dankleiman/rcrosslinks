@@ -5,7 +5,6 @@ crosslinks:
 - linux
 - linuxmasterrace
 - unixporn
-- livven
 - BashRMS
 - Fuckgnome
 - place

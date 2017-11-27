@@ -1,7 +1,6 @@
 ---
 title: shooting_stars
 crosslinks:
-- livven
 - FrenchWestIndies
 - holdmycatnip
 - todayilearned

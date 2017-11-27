@@ -5,5 +5,4 @@ crosslinks:
 - Alzheimers
 - AMAAggregator
 - IAmA
-- autotldr
 ---

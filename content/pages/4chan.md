@@ -2,7 +2,6 @@
 title: 4chan
 crosslinks:
 - AskReddit
-- livven
 - IAmA
 - ShrugLifeSyndicate
 - xkcd
@@ -13,7 +12,6 @@ crosslinks:
 - funny
 - watchpeopledie
 - place
-- autotldr
 - announcements
 - gaming
 - gifs

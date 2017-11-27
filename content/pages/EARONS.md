@@ -7,7 +7,6 @@ crosslinks:
 - mysteriesoftheworld
 - learnprogramming
 - Ghosts
-- autotldr
 - ZodiacKiller
 - LISKiller
 - SwordScale

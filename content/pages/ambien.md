@@ -4,7 +4,6 @@ crosslinks:
 - drugscirclejerk
 - me_irl
 - Ooer
-- livven
 - AskDocs
 - kratom
 - Drama

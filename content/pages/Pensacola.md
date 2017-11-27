@@ -1,7 +1,6 @@
 ---
 title: Pensacola
 crosslinks:
-- autotldr
 - FloridaMan
 - DCcomics
 - sushi

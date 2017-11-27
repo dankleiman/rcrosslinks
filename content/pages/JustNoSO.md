@@ -8,7 +8,6 @@ crosslinks:
 - justnomil
 - widowers
 - JUSTNOFAMILY
-- livven
 - exmormon
 - sex
 - LifeAfterNarcissism

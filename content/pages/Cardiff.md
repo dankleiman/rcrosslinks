@@ -5,7 +5,6 @@ crosslinks:
 - HelloInternet
 - Serendipity
 - soccer
-- autotldr
 - vexillology
 - NewSkaters
 - CasualUK

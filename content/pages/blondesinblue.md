@@ -1,7 +1,6 @@
 ---
 title: blondesinblue
 crosslinks:
-- livven
 - nipples
 - PetiteGoneWild
 - swimsuitsex

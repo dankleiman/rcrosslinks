@@ -3,7 +3,6 @@ title: swtor
 crosslinks:
 - SWTORGuilds
 - elderscrollsonline
-- livven
 - EmpireDidNothingWrong
 - hearthstone
 - IAmA

@@ -3,7 +3,6 @@ title: Paramore
 crosslinks:
 - popheads
 - gatekeeping
-- livven
 - place
 - greenday
 - namethatcar

@@ -1,7 +1,6 @@
 ---
 title: BitchImATrain
 crosslinks:
-- livven
 - YouSeeComrade
 - trains
 - ANormalDayInRussia

@@ -8,7 +8,6 @@ crosslinks:
 - Zeroescapeclover
 - Steam
 - evangelion
-- livven
 - drawing
 - Megaten
 - visualnovels

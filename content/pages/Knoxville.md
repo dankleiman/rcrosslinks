@@ -2,7 +2,6 @@
 title: Knoxville
 crosslinks:
 - MidnightDiscovery
-- autotldr
 - WTF
 - environment
 - ockytop
@@ -15,7 +14,6 @@ crosslinks:
 - Anarcho_Capitalism
 - audiodrama
 - OSHA
-- livven
 - fakeid
 - progresspics
 - vols

@@ -15,7 +15,6 @@ crosslinks:
 - personalfinance
 - simpleliving
 - SmallHome
-- autotldr
 - Serendipity
 - LONESTAR
 - Austin

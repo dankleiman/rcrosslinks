@@ -2,7 +2,6 @@
 title: SugarPine7
 crosslinks:
 - stevensuptic
-- livven
 - DeFranco
 - thewalkingdead
 - NotHowDrugsWork

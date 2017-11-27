@@ -9,7 +9,6 @@ crosslinks:
 - CraftiaEmpire
 - CivAquila
 - place
-- livven
 - Minecraft
 - DevAthos
 - CivCityofHayek

@@ -1,7 +1,6 @@
 ---
 title: EscapefromTarkov
 crosslinks:
-- livven
 - TarkovTrading
 - dayz
 - StoriesFromTarkov

@@ -2,7 +2,6 @@
 title: RacialHypocrisy
 crosslinks:
 - hapas
-- autotldr
 - China
 - aznidentity
 - Fragility

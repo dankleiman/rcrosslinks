@@ -1,5 +1,0 @@
----
-title: AZAgainstTrumpAgenda
-crosslinks:
-- autotldr
----

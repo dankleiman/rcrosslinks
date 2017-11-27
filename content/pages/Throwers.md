@@ -1,7 +1,6 @@
 ---
 title: Throwers
 crosslinks:
-- livven
 - xkcd
 - StringMakerz
 - g2nation

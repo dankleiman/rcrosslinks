@@ -2,7 +2,6 @@
 title: TheWeeknd
 crosslinks:
 - hiphopheads
-- livven
 - IAmA
 - lanadelrey
 - FashionReps

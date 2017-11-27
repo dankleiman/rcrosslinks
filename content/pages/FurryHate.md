@@ -6,6 +6,5 @@ crosslinks:
 - furry_irl
 - Drama
 - NoStupidQuestions
-- autotldr
 - fillyfiddlers
 ---

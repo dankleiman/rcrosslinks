@@ -1,7 +1,6 @@
 ---
 title: startrekgifs
 crosslinks:
-- livven
 - startrek
 - HighQualityGifs
 - xkcd

@@ -7,5 +7,4 @@ crosslinks:
 - wikipedia_critical
 - modnews
 - SargonofAkkad
-- autotldr
 ---

@@ -3,7 +3,6 @@ title: bengals
 crosslinks:
 - nfl
 - steelers
-- livven
 - place
 - reddit_stream
 - NFL_Draft

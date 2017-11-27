@@ -1,5 +1,0 @@
----
-title: Mathematicians
-crosslinks:
-- autotldr
----

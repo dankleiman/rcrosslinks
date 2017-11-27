@@ -9,7 +9,6 @@ crosslinks:
 - thelongdark
 - Serendipity
 - OstrivGame
-- livven
 - tiltshift
 - howtotakeascreenshot
 ---

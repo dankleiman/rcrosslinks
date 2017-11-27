@@ -1,5 +1,0 @@
----
-title: TrumpHotties
-crosslinks:
-- autotldr
----

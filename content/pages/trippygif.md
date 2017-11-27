@@ -1,5 +1,0 @@
----
-title: trippygif
-crosslinks:
-- livven
----

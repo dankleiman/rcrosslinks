@@ -1,7 +1,6 @@
 ---
 title: Communalists
 crosslinks:
-- autotldr
 - EnoughBrocialistSpam
 - COMPLETEANARCHY
 - rojava

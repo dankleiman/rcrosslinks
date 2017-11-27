@@ -1,7 +1,6 @@
 ---
 title: ShittyAnimalFacts
 crosslinks:
-- livven
 - ShittierAnimalFacts
 - pics
 - aww

@@ -9,9 +9,7 @@ crosslinks:
 - SkincareAddiction
 - keto
 - AskReddit
-- autotldr
 - science
-- livven
 - cisparenttranskid
 - transgender
 - NonBinary

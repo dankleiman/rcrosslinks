@@ -1,5 +1,0 @@
----
-title: TRUMPERANDTHEWHITEGOP
-crosslinks:
-- autotldr
----

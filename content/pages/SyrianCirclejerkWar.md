@@ -2,8 +2,6 @@
 title: SyrianCirclejerkWar
 crosslinks:
 - syriancivilwar
-- livven
-- autotldr
 - REEEEEEEEEE
 - Turkey
 - AssadistWatch

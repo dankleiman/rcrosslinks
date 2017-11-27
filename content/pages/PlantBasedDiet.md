@@ -4,7 +4,6 @@ crosslinks:
 - vegan
 - todayilearned
 - veganfitness
-- autotldr
 - science
 - GifRecipes
 - veganrecipes

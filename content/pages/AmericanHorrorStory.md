@@ -1,10 +1,8 @@
 ---
 title: AmericanHorrorStory
 crosslinks:
-- autotldr
 - rupaulsdragrace
 - AHS
-- livven
 - pics
 - The_Donald
 - RPDRDRAMA

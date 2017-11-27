@@ -3,7 +3,6 @@ title: motorcitykitties
 crosslinks:
 - reddit_stream
 - MLBStreams
-- livven
 - detroitlions
 - Mariners
 - whitesox
@@ -18,7 +17,6 @@ crosslinks:
 - mets
 - KCRoyals
 - orioles
-- autotldr
 - nfl
 - ShitRedditSays
 ---

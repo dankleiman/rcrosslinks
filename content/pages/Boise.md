@@ -1,13 +1,11 @@
 ---
 title: Boise
 crosslinks:
-- autotldr
 - funny
 - videos
 - GrMD
 - Ohio
 - findareddit
-- livven
 - Spokane
 - KeepOurNetFree
 - excgarated

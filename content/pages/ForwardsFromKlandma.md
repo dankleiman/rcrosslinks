@@ -7,7 +7,6 @@ crosslinks:
 - ShitAmericansSay
 - forwardsfromgrandma
 - The_Donald
-- livven
 - assignedmale
 - dankmemes
 - TrueAltRight

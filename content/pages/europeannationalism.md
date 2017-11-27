@@ -1,7 +1,6 @@
 ---
 title: europeannationalism
 crosslinks:
-- autotldr
 - PussyPass
 - The_Donald
 - C_S_T
@@ -10,7 +9,6 @@ crosslinks:
 - OutOfTheLoop
 - interestingasfuck
 - chinesepolitics
-- livven
 - PoliticalVideo
 - conspiracy
 - asatru

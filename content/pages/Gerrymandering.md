@@ -1,5 +1,0 @@
----
-title: Gerrymandering
-crosslinks:
-- autotldr
----

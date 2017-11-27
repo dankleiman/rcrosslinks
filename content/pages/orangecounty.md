@@ -1,7 +1,6 @@
 ---
 title: orangecounty
 crosslinks:
-- autotldr
 - Missing411
 - LosAngeles
 - JoshuaTree

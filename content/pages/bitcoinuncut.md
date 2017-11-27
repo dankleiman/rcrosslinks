@@ -1,5 +1,0 @@
----
-title: bitcoinuncut
-crosslinks:
-- autotldr
----

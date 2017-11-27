@@ -4,7 +4,6 @@ crosslinks:
 - hockey
 - hockeyjerseys
 - NHLStreams
-- livven
 - TorontoMarlies
 - reddit_stream
 - rangers

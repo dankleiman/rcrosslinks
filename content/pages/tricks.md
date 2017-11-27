@@ -1,5 +1,0 @@
----
-title: tricks
-crosslinks:
-- livven
----

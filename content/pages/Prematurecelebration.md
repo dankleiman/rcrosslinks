@@ -1,7 +1,6 @@
 ---
 title: Prematurecelebration
 crosslinks:
-- livven
 - The_Donald
 - phoenix
 - news

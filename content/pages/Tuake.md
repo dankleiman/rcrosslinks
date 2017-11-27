@@ -1,5 +1,0 @@
----
-title: Tuake
-crosslinks:
-- autotldr
----

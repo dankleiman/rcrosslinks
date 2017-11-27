@@ -1,5 +1,0 @@
----
-title: madmayors
-crosslinks:
-- livven
----

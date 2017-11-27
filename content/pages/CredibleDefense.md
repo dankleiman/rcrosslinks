@@ -2,7 +2,6 @@
 title: CredibleDefense
 crosslinks:
 - Metageopolitics
-- autotldr
 - WarCollege
 - HephaestusAetnaean
 - AskHistorians

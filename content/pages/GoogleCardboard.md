@@ -9,7 +9,6 @@ crosslinks:
 - MotoG
 - virtualreality
 - linux
-- autotldr
 - uncharted
 - xkcd
 - oculusnsfw

@@ -1,7 +1,6 @@
 ---
 title: Acadiana
 crosslinks:
-- autotldr
 - ragincajuns
 - Louisiana
 - plexshares
@@ -9,7 +8,6 @@ crosslinks:
 - AcadianaFitness
 - NewOrleans
 - criticalrole
-- livven
 - starterpacks
 - AMAcadiana
 - nintendo

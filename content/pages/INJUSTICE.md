@@ -1,7 +1,6 @@
 ---
 title: INJUSTICE
 crosslinks:
-- livven
 - Kappa
 - respectthreads
 - SuperheroCirclejerk

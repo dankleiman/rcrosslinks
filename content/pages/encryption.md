@@ -1,7 +1,6 @@
 ---
 title: encryption
 crosslinks:
-- autotldr
 - codes
 - crypto
 - xkcd

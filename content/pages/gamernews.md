@@ -1,7 +1,6 @@
 ---
 title: gamernews
 crosslinks:
-- autotldr
 - Gamingcirclejerk
 - pathofexile
 - pcgaming

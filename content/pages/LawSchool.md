@@ -2,9 +2,7 @@
 title: LawSchool
 crosslinks:
 - lawschooladmissions
-- livven
 - LawSchoolOutlines
-- autotldr
 - IAmA
 - law
 - Anki

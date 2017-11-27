@@ -1,5 +1,0 @@
----
-title: IndianReaders
-crosslinks:
-- autotldr
----

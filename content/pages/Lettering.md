@@ -7,7 +7,6 @@ crosslinks:
 - Emo
 - Illustration
 - typography
-- livven
 - oddlysatisfying
 - tippr
 ---

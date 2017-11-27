@@ -1,5 +1,0 @@
----
-title: MetalBondage
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: Telegram
 crosslinks:
 - TelegramThemes
-- autotldr
 - Android
 - privacy
 - androidapps

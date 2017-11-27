@@ -1,7 +1,6 @@
 ---
 title: FlashingGirls
 crosslinks:
-- livven
 - AlisonAngel
 - LifeIsABeach
 - Jentis92

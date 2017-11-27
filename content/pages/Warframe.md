@@ -1,7 +1,6 @@
 ---
 title: Warframe
 crosslinks:
-- livven
 - RivenFrame
 - WarframeRunway
 - IAmA

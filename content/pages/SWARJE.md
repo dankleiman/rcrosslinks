@@ -4,7 +4,6 @@ crosslinks:
 - sweden
 - youdontsurf
 - place
-- livven
 - SwedditUniversalis
 - NORDVEI
 - DANMAG

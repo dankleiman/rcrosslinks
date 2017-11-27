@@ -1,5 +1,0 @@
----
-title: PoorShaming
-crosslinks:
-- autotldr
----

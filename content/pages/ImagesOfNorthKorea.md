@@ -13,7 +13,6 @@ crosslinks:
 - memes
 - CringeAnarchy
 - MilitaryPorn
-- livven
 - MemeEconomy
 - gaming
 - PrequelMemes

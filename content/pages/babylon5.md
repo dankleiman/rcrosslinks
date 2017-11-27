@@ -1,7 +1,6 @@
 ---
 title: babylon5
 crosslinks:
-- livven
 - firefly
 - AskReddit
 - esist

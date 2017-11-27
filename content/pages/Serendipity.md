@@ -1,8 +1,6 @@
 ---
 title: Serendipity
 crosslinks:
-- autotldr
-- livven
 - SampleSize
 - learntodraw
 - EDC

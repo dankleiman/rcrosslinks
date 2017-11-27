@@ -1,5 +1,0 @@
----
-title: BoltTheSuperdog
-crosslinks:
-- livven
----

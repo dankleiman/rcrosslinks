@@ -3,7 +3,6 @@ title: Hookers
 crosslinks:
 - SexWorkers
 - Escorts
-- autotldr
 - dirtyr4r
 - DeadBedrooms
 - TrueReddit

@@ -1,7 +1,6 @@
 ---
 title: Pictures
 crosslinks:
-- livven
 - pics
 - futureporn
 - funny

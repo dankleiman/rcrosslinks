@@ -1,5 +1,0 @@
----
-title: losgatos
-crosslinks:
-- autotldr
----

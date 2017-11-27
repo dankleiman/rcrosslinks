@@ -2,7 +2,6 @@
 title: ConservativeLounge
 crosslinks:
 - Conservative
-- autotldr
 - GoldandBlack
 - TrueAskReddit
 - ConservativeMeta

@@ -1,5 +1,0 @@
----
-title: knowpuppet
-crosslinks:
-- autotldr
----

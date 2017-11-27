@@ -5,5 +5,4 @@ crosslinks:
 - AndroidWear
 - Watches
 - GearS3
-- autotldr
 ---

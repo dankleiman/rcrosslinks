@@ -1,5 +1,0 @@
----
-title: AccurateHeadlines
-crosslinks:
-- autotldr
----

@@ -1,13 +1,11 @@
 ---
 title: SkyDiving
 crosslinks:
-- livven
 - videos
 - AskReddit
 - MTB
 - gifs
 - actualskydiving
-- autotldr
 - freeflight
 - fpvracing
 - funny

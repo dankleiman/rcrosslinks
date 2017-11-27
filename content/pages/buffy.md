@@ -2,8 +2,6 @@
 title: buffy
 crosslinks:
 - ANGEL
-- autotldr
-- livven
 - nerdist
 - whedon
 - IAmA

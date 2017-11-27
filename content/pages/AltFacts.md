@@ -2,7 +2,6 @@
 title: AltFacts
 crosslinks:
 - The_Donald
-- autotldr
 - altright
 - Alternativefacts
 - niggers

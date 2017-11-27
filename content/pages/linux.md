@@ -2,7 +2,6 @@
 title: linux
 crosslinks:
 - zeronet
-- autotldr
 - linuxmasterrace
 - linux_gaming
 - unixporn

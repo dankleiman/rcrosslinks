@@ -1,5 +1,0 @@
----
-title: NationalsGIFs
-crosslinks:
-- livven
----

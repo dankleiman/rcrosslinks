@@ -4,6 +4,5 @@ crosslinks:
 - ShittyPickupLines
 - emojipasta
 - AskReddit
-- livven
 - gatekeeping
 ---

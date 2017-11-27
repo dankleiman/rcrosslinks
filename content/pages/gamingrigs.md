@@ -1,5 +1,0 @@
----
-title: gamingrigs
-crosslinks:
-- livven
----

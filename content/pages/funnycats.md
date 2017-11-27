@@ -1,5 +1,0 @@
----
-title: funnycats
-crosslinks:
-- livven
----

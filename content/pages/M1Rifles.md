@@ -1,7 +1,6 @@
 ---
 title: M1Rifles
 crosslinks:
-- livven
 - DamnYouAutocorrect
 - guns
 - reloading

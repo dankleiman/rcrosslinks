@@ -2,7 +2,6 @@
 title: eos
 crosslinks:
 - ethtrader
-- autotldr
 - ethereum
 - Buttcoin
 - CryptoCurrency

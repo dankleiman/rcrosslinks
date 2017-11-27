@@ -2,7 +2,6 @@
 title: PuertoRico
 crosslinks:
 - PuertoRicoInformation
-- autotldr
 - PuertoRicoCharity
 - PuertoRicoVolunteers
 - PlaceNL
@@ -15,7 +14,6 @@ crosslinks:
 - BeautyQueens
 - Dominican
 - PuertoRicoTravel
-- livven
 - AHMAN
 - AskReddit
 - MURICA

@@ -5,7 +5,6 @@ crosslinks:
 - excel
 - MSAccess
 - programming
-- autotldr
 - learnSQL
 - mysql
 - datasets

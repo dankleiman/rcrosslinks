@@ -1,5 +1,0 @@
----
-title: CoolPhysics
-crosslinks:
-- autotldr
----

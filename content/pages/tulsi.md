@@ -1,7 +1,6 @@
 ---
 title: tulsi
 crosslinks:
-- autotldr
 - politics
 - ChapoTrapHouse
 - Political_Revolution

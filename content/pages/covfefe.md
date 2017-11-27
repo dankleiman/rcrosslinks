@@ -1,12 +1,10 @@
 ---
 title: covfefe
 crosslinks:
-- livven
 - The_Donald
 - PoliticalHumor
 - Stargate
 - de
-- autotldr
 - BannedFromThe_Donald
 - ofcoursethatsathing
 - collapse

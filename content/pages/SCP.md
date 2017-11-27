@@ -2,7 +2,6 @@
 title: SCP
 crosslinks:
 - SCPDeclassified
-- livven
 - DankMemesFromSite19
 - 093game
 - creepy

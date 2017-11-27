@@ -5,7 +5,6 @@ crosslinks:
 - anime
 - OnePunchMan
 - CodeGeass
-- livven
 - manga
 - FashionReps
 - OnePiece

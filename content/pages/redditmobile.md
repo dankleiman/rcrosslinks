@@ -8,7 +8,6 @@ crosslinks:
 - modnews
 - funny
 - NoStupidQuestions
-- livven
 - raerth
 - AlienBlue
 - AskReddit

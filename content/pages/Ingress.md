@@ -2,7 +2,6 @@
 title: Ingress
 crosslinks:
 - pokemongo
-- livven
 - TheSilphRoad
 - Goruck
 - Android

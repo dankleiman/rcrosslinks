@@ -2,7 +2,6 @@
 title: footballmanagergames
 crosslinks:
 - soccer
-- livven
 - MLS
 - titlegore
 - FifaCareers

@@ -1,7 +1,6 @@
 ---
 title: baduk
 crosslinks:
-- autotldr
 - reinforcementlearning
 - MachineLearning
 - xkcd
@@ -15,6 +14,5 @@ crosslinks:
 - BoardgamePorn
 - linux_gaming
 - MapPorn
-- livven
 - foundtheprogrammer
 ---

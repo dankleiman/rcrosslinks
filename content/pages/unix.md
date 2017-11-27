@@ -5,7 +5,6 @@ crosslinks:
 - linux
 - xkcd
 - programming
-- autotldr
 - ECE
 - hackernews
 ---

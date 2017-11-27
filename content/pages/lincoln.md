@@ -4,7 +4,6 @@ crosslinks:
 - pics
 - Omaha
 - Lincolnuk
-- autotldr
 - NASCAR
 - tattoo
 - MensRights

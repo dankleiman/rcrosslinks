@@ -8,7 +8,6 @@ crosslinks:
 - newzealand
 - The_Donald
 - politics
-- livven
 - AyyMD
 - esperanto
 - UpliftingNews

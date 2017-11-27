@@ -1,5 +1,0 @@
----
-title: ShitSeishinFinds
-crosslinks:
-- livven
----

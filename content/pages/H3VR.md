@@ -1,7 +1,6 @@
 ---
 title: H3VR
 crosslinks:
-- livven
 - Vive
 - tanks
 - pcgaming

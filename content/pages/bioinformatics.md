@@ -1,7 +1,6 @@
 ---
 title: bioinformatics
 crosslinks:
-- autotldr
 - science
 - xkcd
 - MachineLearning

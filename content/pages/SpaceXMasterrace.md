@@ -3,11 +3,9 @@ title: SpaceXMasterrace
 crosslinks:
 - spacex
 - SpaceXLounge
-- livven
 - teslamotors
 - REEEEEEEEEE
 - BlueOriginMasterrace
-- autotldr
 - xkcd
 - space_memes
 - KenM

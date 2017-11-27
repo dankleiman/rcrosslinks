@@ -1,7 +1,6 @@
 ---
 title: teslamotors
 crosslinks:
-- autotldr
 - xkcd
 - HighStakesTeslaMotors
 - electricvehicles
@@ -17,7 +16,6 @@ crosslinks:
 - place
 - metric_units
 - BoringCompany
-- livven
 - elonmusk
 - NegativeWithGold
 - leaf

@@ -2,10 +2,8 @@
 title: AdamCarolla
 crosslinks:
 - JoeRogan
-- livven
 - Carolla
 - opieandanthony
-- autotldr
 - londonontario
 - twoxchromosome
 - OldSchoolCool

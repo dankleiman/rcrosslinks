@@ -1,7 +1,6 @@
 ---
 title: MilitaryGfys
 crosslinks:
-- livven
 - HephaestusAetnaean
 - MilitaryPorn
 - aviation

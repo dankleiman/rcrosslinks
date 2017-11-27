@@ -1,5 +1,0 @@
----
-title: ghana
-crosslinks:
-- autotldr
----

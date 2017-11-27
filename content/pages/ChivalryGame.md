@@ -1,7 +1,6 @@
 ---
 title: ChivalryGame
 crosslinks:
-- livven
 - Gamingcirclejerk
 - MirageAW
 - Mordhau

@@ -1,5 +1,0 @@
----
-title: beasts
-crosslinks:
-- livven
----

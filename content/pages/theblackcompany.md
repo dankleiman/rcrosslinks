@@ -1,5 +1,0 @@
----
-title: theblackcompany
-crosslinks:
-- autotldr
----

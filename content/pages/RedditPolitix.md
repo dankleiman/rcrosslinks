@@ -1,5 +1,0 @@
----
-title: RedditPolitix
-crosslinks:
-- autotldr
----

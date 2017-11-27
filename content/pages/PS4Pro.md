@@ -11,9 +11,7 @@ crosslinks:
 - NexMachina
 - remoteplay
 - Televisions
-- livven
 - horizon
-- autotldr
 - gaming
 - hometheater
 - GameDeals

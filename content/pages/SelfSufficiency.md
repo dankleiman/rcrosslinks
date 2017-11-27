@@ -7,7 +7,6 @@ crosslinks:
 - OffGrid
 - DeepGreenResistance
 - vancouver
-- autotldr
 - vegancirclejerk
 - coolguides
 - AmericanPlantSwap

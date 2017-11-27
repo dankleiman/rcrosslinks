@@ -1,5 +1,0 @@
----
-title: AmericanReason
-crosslinks:
-- autotldr
----

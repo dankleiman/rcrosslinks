@@ -1,7 +1,6 @@
 ---
 title: SocialDemocracy
 crosslinks:
-- autotldr
 - EnoughCommieSpam
 - askphilosophy
 - socialism

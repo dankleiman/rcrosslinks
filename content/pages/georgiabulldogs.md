@@ -4,5 +4,4 @@ crosslinks:
 - CFB
 - theydidtheshittymath
 - UGA
-- livven
 ---

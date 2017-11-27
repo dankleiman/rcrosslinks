@@ -1,5 +1,0 @@
----
-title: StopFakeNews
-crosslinks:
-- autotldr
----

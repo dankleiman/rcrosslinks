@@ -1,5 +1,0 @@
----
-title: Nationalism
-crosslinks:
-- autotldr
----

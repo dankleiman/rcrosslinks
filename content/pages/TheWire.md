@@ -2,8 +2,6 @@
 title: TheWire
 crosslinks:
 - IAmA
-- autotldr
-- livven
 - xkcd
 - FanTheories
 - todayilearned

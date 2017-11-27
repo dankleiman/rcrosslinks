@@ -2,7 +2,6 @@
 title: hookah
 crosslinks:
 - HookahTrade
-- livven
 - place
 - IgnorantImgur
 - ANormalDayInRussia

@@ -1,5 +1,0 @@
----
-title: BachelorNation
-crosslinks:
-- autotldr
----

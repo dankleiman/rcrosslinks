@@ -14,7 +14,6 @@ crosslinks:
 - place
 - poker
 - TheLeftovers
-- livven
 - copypasta
 - atmidnight
 - hockey

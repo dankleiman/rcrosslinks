@@ -3,7 +3,6 @@ title: smoobypost
 crosslinks:
 - me_irl
 - JonTron
-- livven
 - gayfortodd
 - DankMemeArchive
 - GradeAUnderA

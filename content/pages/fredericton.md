@@ -5,7 +5,5 @@ crosslinks:
 - GreenPartyOfCanada
 - Piracy
 - Pizza
-- livven
-- autotldr
 - Serendipity
 ---

@@ -3,7 +3,6 @@ title: svenskpolitik
 crosslinks:
 - sweden
 - exmuslim
-- autotldr
 - europe
 - islam
 - NeutralPolitics

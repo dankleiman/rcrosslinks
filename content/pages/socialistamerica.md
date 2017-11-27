@@ -1,5 +1,0 @@
----
-title: socialistamerica
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: digitizing
-crosslinks:
-- livven
----

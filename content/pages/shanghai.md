@@ -9,7 +9,6 @@ crosslinks:
 - China2020
 - EasternSunRising
 - Entrepreneur
-- autotldr
 - Chinavisa
 - hiphopheads
 - ImaginaryLandscapes

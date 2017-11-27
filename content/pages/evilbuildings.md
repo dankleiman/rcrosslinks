@@ -6,7 +6,6 @@ crosslinks:
 - xkcd
 - interestingasfuck
 - powerwashingporn
-- livven
 - WritingPrompts
 - creepy
 - ArchitecturePorn

@@ -1,5 +1,0 @@
----
-title: Milhouse
-crosslinks:
-- livven
----

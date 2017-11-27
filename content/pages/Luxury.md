@@ -1,5 +1,0 @@
----
-title: Luxury
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: usa
 crosslinks:
-- autotldr
 - place
 - IWantOut
 - mayweather_mcgregors

@@ -1,7 +1,6 @@
 ---
 title: TownofSalemgame
 crosslinks:
-- livven
 - darkestdungeon
 - Townofcirclejerk
 - AskReddit

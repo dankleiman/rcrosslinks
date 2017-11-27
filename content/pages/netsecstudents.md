@@ -1,7 +1,6 @@
 ---
 title: netsecstudents
 crosslinks:
-- autotldr
 - AskNetsec
 - netsec
 - HowToHack

@@ -1,7 +1,6 @@
 ---
 title: reddeadredemption
 crosslinks:
-- livven
 - Games
 - Gamingcirclejerk
 - psychology

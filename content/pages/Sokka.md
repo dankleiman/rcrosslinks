@@ -1,5 +1,0 @@
----
-title: Sokka
-crosslinks:
-- livven
----

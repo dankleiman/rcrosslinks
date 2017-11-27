@@ -1,9 +1,7 @@
 ---
 title: Truckers
 crosslinks:
-- livven
 - TruckersLounge
-- autotldr
 - Tiresaretheenemy
 - zeronet
 - Trucking

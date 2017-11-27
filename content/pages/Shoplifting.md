@@ -3,7 +3,6 @@ title: Shoplifting
 crosslinks:
 - RedditAlternatives
 - Stealing
-- livven
 - lossprevention
 - fakeid
 - videos

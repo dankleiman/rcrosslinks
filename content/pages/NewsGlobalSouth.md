@@ -1,5 +1,0 @@
----
-title: NewsGlobalSouth
-crosslinks:
-- autotldr
----

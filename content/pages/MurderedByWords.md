@@ -4,7 +4,6 @@ crosslinks:
 - surfing
 - RoastMe
 - OutOfTheLoop
-- livven
 - xkcd
 - todayilearned
 - self

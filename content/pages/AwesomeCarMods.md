@@ -5,7 +5,6 @@ crosslinks:
 - UglyCarPictures
 - Shitty_Car_Mods
 - Battlecars
-- livven
 - vandwellers
 - delusionalcraigslist
 - cars

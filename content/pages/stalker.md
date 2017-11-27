@@ -2,7 +2,6 @@
 title: stalker
 crosslinks:
 - RotoristWorkShop
-- livven
 - titlegore
 - gifs
 - place

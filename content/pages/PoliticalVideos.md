@@ -1,7 +1,6 @@
 ---
 title: PoliticalVideos
 crosslinks:
-- autotldr
 - me_irl
 - SethKaperDale
 - FrenchWestIndies

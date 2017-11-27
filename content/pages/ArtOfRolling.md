@@ -1,7 +1,6 @@
 ---
 title: ArtOfRolling
 crosslinks:
-- livven
 - trees
 - gatekeeping
 - whoooosh

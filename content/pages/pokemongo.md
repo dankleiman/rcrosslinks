@@ -12,7 +12,6 @@ crosslinks:
 - thesilphroad
 - GoPlus
 - pokemongoLondon
-- autotldr
 - gaming
 - AskReddit
 - xkcd

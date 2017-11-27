@@ -1,5 +1,0 @@
----
-title: celebrityfakes
-crosslinks:
-- livven
----

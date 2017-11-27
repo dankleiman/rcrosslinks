@@ -4,7 +4,6 @@ crosslinks:
 - tokyo_ghoulre
 - manga
 - soledsnak
-- livven
 - HunterXHunter
 - marvelstudios
 - Pixiv

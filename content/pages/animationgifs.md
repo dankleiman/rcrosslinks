@@ -1,5 +1,0 @@
----
-title: animationgifs
-crosslinks:
-- livven
----

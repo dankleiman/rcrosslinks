@@ -1,7 +1,6 @@
 ---
 title: bois
 crosslinks:
-- livven
 - shorthairchicks
 - shorthairedhotties
 - theratio

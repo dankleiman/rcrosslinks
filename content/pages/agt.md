@@ -3,7 +3,6 @@ title: agt
 crosslinks:
 - changemyview
 - videos
-- livven
 - IAmA
 - AMAAggregator
 - onetruegod

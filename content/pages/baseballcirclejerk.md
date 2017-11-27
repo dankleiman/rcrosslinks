@@ -7,6 +7,5 @@ crosslinks:
 - ImagesOfThe2010s
 - the_donaldson
 - 518circlejerk
-- livven
 - marinerscirclejerk
 ---

@@ -12,7 +12,6 @@ crosslinks:
 - murk
 - u
 - xkcd
-- autotldr
 - SocialSecurity
 - Forex
 - AcademicPsychology

@@ -1,9 +1,7 @@
 ---
 title: comedy
 crosslinks:
-- autotldr
 - Serendipity
-- livven
 - fidgetspin
 - rarepuppers
 - FrenchWestIndies

@@ -1,5 +1,0 @@
----
-title: AllegraCole
-crosslinks:
-- livven
----

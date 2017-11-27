@@ -18,7 +18,6 @@ crosslinks:
 - pics
 - place
 - edstonehelper
-- autotldr
 - Mojira
 - explainlikeimfive
 ---

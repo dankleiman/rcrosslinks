@@ -2,7 +2,6 @@
 title: IndiaSpeaks
 crosslinks:
 - india
-- autotldr
 - indiadiscussion
 - IAmA
 - AskReddit

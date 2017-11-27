@@ -13,7 +13,6 @@ crosslinks:
 - wincest
 - Sneks
 - KarmaConspiracy
-- livven
 - surrealmemes
 - KarmaCourt
 - ATBGE

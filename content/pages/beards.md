@@ -1,7 +1,6 @@
 ---
 title: beards
 crosslinks:
-- livven
 - BeardPorn
 - FierceFlow
 - casualiama

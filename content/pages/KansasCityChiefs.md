@@ -3,7 +3,6 @@ title: KansasCityChiefs
 crosslinks:
 - nfl
 - steelers
-- livven
 - oaklandraiders
 - KCRoyals
 - nflstreams

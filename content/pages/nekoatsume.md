@@ -1,7 +1,6 @@
 ---
 title: nekoatsume
 crosslinks:
-- livven
 - GooglePixel
 - pokemon
 - Vaporwave

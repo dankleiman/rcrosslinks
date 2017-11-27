@@ -6,5 +6,4 @@ crosslinks:
 - rokugan
 - Netrunner
 - modnews
-- livven
 ---

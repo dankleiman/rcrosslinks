@@ -1,5 +1,0 @@
----
-title: politcs
-crosslinks:
-- autotldr
----

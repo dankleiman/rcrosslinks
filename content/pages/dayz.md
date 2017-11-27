@@ -3,7 +3,6 @@ title: dayz
 crosslinks:
 - dayzlfg
 - DayZmod
-- livven
 - gaming
 - pcmasterrace
 - PUBATTLEGROUNDS

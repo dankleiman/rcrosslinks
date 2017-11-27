@@ -4,7 +4,6 @@ crosslinks:
 - mildlyinteresting
 - nevertellmetheodds
 - conspiracy
-- livven
 - holofractal
 - videos
 ---

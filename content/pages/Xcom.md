@@ -3,7 +3,6 @@ title: Xcom
 crosslinks:
 - xcom2mods
 - XCOM2
-- livven
 - LongWar101
 - sexcom
 - PhoenixPoint

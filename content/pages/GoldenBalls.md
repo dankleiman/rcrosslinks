@@ -1,5 +1,0 @@
----
-title: GoldenBalls
-crosslinks:
-- livven
----

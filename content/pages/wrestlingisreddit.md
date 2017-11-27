@@ -1,7 +1,6 @@
 ---
 title: wrestlingisreddit
 crosslinks:
-- livven
 - WiRTWA
 - Serendipity
 - '2012'

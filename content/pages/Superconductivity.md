@@ -1,5 +1,0 @@
----
-title: Superconductivity
-crosslinks:
-- autotldr
----

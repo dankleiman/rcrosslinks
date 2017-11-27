@@ -1,7 +1,6 @@
 ---
 title: funnysigns
 crosslinks:
-- livven
 - keming
 - cringe
 - Recursion

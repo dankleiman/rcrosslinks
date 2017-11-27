@@ -2,7 +2,6 @@
 title: rocksmith
 crosslinks:
 - CustomsForge
-- livven
 - guitarcirclejerk
 - musictheory
 - pcmasterrace

@@ -1,5 +1,0 @@
----
-title: AgPolitic
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: dankruto
 crosslinks:
 - Naruto
-- livven
 - REEEEEEEEEE
 - naruto
 - MemeEconomy

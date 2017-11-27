@@ -3,7 +3,6 @@ title: EmpireDidNothingWrong
 crosslinks:
 - StarWars
 - PrequelMemes
-- livven
 - place
 - AskScienceFiction
 - alternativeart
@@ -17,7 +16,6 @@ crosslinks:
 - AskReddit
 - HailCorporate
 - FlashTV
-- autotldr
 - whowouldwin
 - theydidthemath
 - SequelMemes

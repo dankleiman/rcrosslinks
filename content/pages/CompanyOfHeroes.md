@@ -11,7 +11,6 @@ crosslinks:
 - starcraft
 - Drama
 - Warthunder
-- livven
 - pcmasterrace
 - Bfme2
 - wargame

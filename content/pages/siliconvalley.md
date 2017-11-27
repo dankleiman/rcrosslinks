@@ -1,5 +1,0 @@
----
-title: siliconvalley
-crosslinks:
-- autotldr
----

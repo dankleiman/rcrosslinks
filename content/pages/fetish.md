@@ -1,7 +1,6 @@
 ---
 title: fetish
 crosslinks:
-- livven
 - usedpanties
 - fethistory
 - littlespace
@@ -17,6 +16,5 @@ crosslinks:
 - Vore
 - FitAndNatural
 - feederism
-- autotldr
 - Nude_Selfie
 ---

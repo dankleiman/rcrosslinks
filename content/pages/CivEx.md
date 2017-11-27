@@ -6,7 +6,6 @@ crosslinks:
 - Icenia
 - TheRealmsMC
 - xkcd
-- livven
 - Civcraft
 - Medwedia
 - CivScarcity

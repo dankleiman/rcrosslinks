@@ -1,5 +1,0 @@
----
-title: KSPMemes
-crosslinks:
-- livven
----

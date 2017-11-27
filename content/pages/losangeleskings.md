@@ -8,7 +8,6 @@ crosslinks:
 - nhl
 - LosAngeles
 - chicksinhockeyjerseys
-- livven
 - hockeyplayers
 - causeWhyNotMate
 - OttawaSenators

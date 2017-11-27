@@ -2,7 +2,6 @@
 title: computerscience
 crosslinks:
 - learnprogramming
-- autotldr
 - cscareerquestions
 - SuggestALaptop
 - programming

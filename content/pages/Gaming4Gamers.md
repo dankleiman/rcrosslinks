@@ -4,7 +4,6 @@ crosslinks:
 - Games
 - gaming
 - patientgamers
-- autotldr
 - pcmasterrace
 - EmulationOnAndroid
 - gamemaker
@@ -14,7 +13,6 @@ crosslinks:
 - ZadocPaet
 - emulation
 - Steam
-- livven
 - metroidvania
 - JRPG
 - pics

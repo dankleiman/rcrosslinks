@@ -5,7 +5,6 @@ crosslinks:
 - RChain
 - ethereo
 - TheCosmos
-- autotldr
 - cryptonomics
 - amptrader
 ---

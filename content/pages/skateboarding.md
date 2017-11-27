@@ -1,7 +1,6 @@
 ---
 title: skateboarding
 crosslinks:
-- livven
 - NewSkaters
 - projectsession
 - gatekeeping

@@ -7,7 +7,6 @@ crosslinks:
 - TopMindsOfReddit
 - space
 - astrophotography
-- livven
 - Flatearther
 - conspiracy
 - askscience

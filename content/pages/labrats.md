@@ -2,9 +2,7 @@
 title: labrats
 crosslinks:
 - xkcd
-- livven
 - GradSchool
-- autotldr
 - mildlyinteresting
 - news
 - engineering

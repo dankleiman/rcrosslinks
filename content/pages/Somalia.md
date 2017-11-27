@@ -1,9 +1,7 @@
 ---
 title: Somalia
 crosslinks:
-- autotldr
 - geopolitics
-- livven
 - Anarcho_Capitalism
 - Somaliland
 - Drama

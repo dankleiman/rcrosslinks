@@ -1,5 +1,0 @@
----
-title: nicebeastie
-crosslinks:
-- livven
----

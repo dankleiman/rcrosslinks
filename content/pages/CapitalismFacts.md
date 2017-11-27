@@ -4,5 +4,4 @@ crosslinks:
 - communism
 - CommunismWorldwide
 - redflag
-- autotldr
 ---

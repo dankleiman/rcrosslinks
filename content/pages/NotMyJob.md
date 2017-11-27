@@ -1,7 +1,6 @@
 ---
 title: NotMyJob
 crosslinks:
-- livven
 - MaliciousCompliance
 - CrappyDesign
 - funny

@@ -4,7 +4,6 @@ crosslinks:
 - creepygaming
 - tipofmyjoystick
 - ARG
-- livven
 - fivenightsatfreddys
 - UnexpectedHomestuck
 - rule34

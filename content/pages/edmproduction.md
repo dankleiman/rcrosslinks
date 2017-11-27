@@ -14,7 +14,6 @@ crosslinks:
 - synthrecipes
 - MusicInTheMaking
 - electronicmusic
-- autotldr
 - Beatmatch
 - SongStems
 - MusicBattlestations

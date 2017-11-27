@@ -1,7 +1,6 @@
 ---
 title: Georgia
 crosslinks:
-- autotldr
 - Atlanta
 - Sakartvelo
 - askeconomists

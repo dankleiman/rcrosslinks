@@ -1,7 +1,6 @@
 ---
 title: LeftWithoutEdge
 crosslinks:
-- autotldr
 - AnarchismOnline
 - socialism
 - Anarchism

@@ -9,7 +9,6 @@ crosslinks:
 - leotard
 - longsleeveleotards
 - 1pcswims
-- livven
 - pelfie
 - AsianHotties
 - asianxxx

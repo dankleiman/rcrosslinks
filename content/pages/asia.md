@@ -1,7 +1,6 @@
 ---
 title: asia
 crosslinks:
-- autotldr
 - ThailandNews
 - asian
 - AnythingGoesNews

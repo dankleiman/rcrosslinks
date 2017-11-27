@@ -1,7 +1,6 @@
 ---
 title: Illustration
 crosslinks:
-- livven
 - IDAP
 - travel
 - armenia

@@ -2,7 +2,6 @@
 title: worldnews
 crosslinks:
 - help
-- autotldr
 - The_Donald
 - politics
 - xkcd

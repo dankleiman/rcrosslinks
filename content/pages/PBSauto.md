@@ -1,5 +1,0 @@
----
-title: PBSauto
-crosslinks:
-- autotldr
----

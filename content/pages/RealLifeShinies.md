@@ -3,7 +3,6 @@ title: RealLifeShinies
 crosslinks:
 - mildlyinteresting
 - pics
-- livven
 - KarmaCourt
 - Shitty_Car_Mods
 - Damnthatsinteresting

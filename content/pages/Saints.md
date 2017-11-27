@@ -13,7 +13,6 @@ crosslinks:
 - EvilLeagueOfEvil
 - eagles
 - NewOrleans
-- livven
 - reddit_stream
 - kuhn
 - nfl_draft

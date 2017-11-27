@@ -1,7 +1,6 @@
 ---
 title: DescentIntoTyranny
 crosslinks:
-- autotldr
 - conspiracy
 - TargetedEnergyWeapons
 - editorialcartoons

@@ -9,7 +9,6 @@ crosslinks:
 - xkcd
 - Android
 - typography
-- autotldr
 - shamanking
 - LearningRussian
 - AskReddit

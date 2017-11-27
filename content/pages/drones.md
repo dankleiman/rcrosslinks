@@ -1,9 +1,7 @@
 ---
 title: drones
 crosslinks:
-- autotldr
 - djiphantom
-- livven
 - GladiusAdventure
 - djimavic
 - dji

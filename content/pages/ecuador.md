@@ -6,6 +6,5 @@ crosslinks:
 - DeepGreenResistance
 - WikiLeaks
 - DigitalNomads
-- autotldr
 - notArgentina
 ---

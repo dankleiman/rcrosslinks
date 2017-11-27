@@ -3,7 +3,6 @@ title: rage
 crosslinks:
 - videos
 - pics
-- livven
 - JusticeServed
 - technology
 - watchpeopledie
@@ -14,7 +13,6 @@ crosslinks:
 - AskReddit
 - DataHoarder
 - WTF
-- autotldr
 - FloridaMan
 - running
 - copypasta

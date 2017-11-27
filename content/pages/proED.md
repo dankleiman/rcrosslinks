@@ -8,7 +8,6 @@ crosslinks:
 - loseit
 - nosleep
 - metric_units
-- livven
 - askscience
 - vegan1200isplenty
 - EatingDisorders

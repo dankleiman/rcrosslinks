@@ -8,7 +8,6 @@ crosslinks:
 - Drama
 - GamerGhazi
 - AskThe_Donald
-- autotldr
 - JoeRogan
 - JonTron
 - OutOfTheLoop

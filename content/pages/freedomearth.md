@@ -1,7 +1,6 @@
 ---
 title: freedomearth
 crosslinks:
-- autotldr
 - Serendipity
 - christianmysticism
 - EmeraldGuardians

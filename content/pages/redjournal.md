@@ -1,5 +1,0 @@
----
-title: redjournal
-crosslinks:
-- livven
----

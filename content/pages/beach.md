@@ -1,5 +1,0 @@
----
-title: beach
-crosslinks:
-- livven
----

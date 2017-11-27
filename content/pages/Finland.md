@@ -3,7 +3,6 @@ title: Finland
 crosslinks:
 - LearnFinnish
 - Suomi
-- autotldr
 - pics
 - IAmA
 - AskEurope

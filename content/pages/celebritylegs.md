@@ -2,7 +2,6 @@
 title: celebritylegs
 crosslinks:
 - schuhe
-- livven
 - TaylorSwiftsLegs
 - stockings
 - xkcd

@@ -4,9 +4,7 @@ crosslinks:
 - photomarket
 - photography
 - fujifilm
-- livven
 - Serendipity
-- autotldr
 - CozyPlaces
 - FrenchWestIndies
 - analog

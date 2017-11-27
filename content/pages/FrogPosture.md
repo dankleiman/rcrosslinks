@@ -1,5 +1,0 @@
----
-title: FrogPosture
-crosslinks:
-- livven
----

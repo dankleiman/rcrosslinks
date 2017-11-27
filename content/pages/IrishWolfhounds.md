@@ -1,5 +1,0 @@
----
-title: IrishWolfhounds
-crosslinks:
-- livven
----

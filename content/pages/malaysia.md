@@ -1,7 +1,6 @@
 ---
 title: malaysia
 crosslinks:
-- autotldr
 - singapore
 - indonesia
 - AskReddit

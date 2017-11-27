@@ -1,5 +1,0 @@
----
-title: CalPolitics
-crosslinks:
-- autotldr
----

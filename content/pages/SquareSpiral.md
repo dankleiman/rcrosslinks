@@ -8,7 +8,6 @@ crosslinks:
 - TheFarLeftSide
 - BrasilOnReddit
 - phish
-- livven
 - thefinalclean
 - dwarffortress
 - StarlightStage

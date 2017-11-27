@@ -11,7 +11,6 @@ crosslinks:
 - wildlifephotography
 - artstore
 - me_irl
-- livven
 - OnePiece
 - redditgetsdrawn
 - autodrawings

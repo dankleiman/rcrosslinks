@@ -1,7 +1,6 @@
 ---
 title: ClashOfClans
 crosslinks:
-- livven
 - RedditAllianceClans
 - RedditZuluCOC
 - ClashOfClansRecruit

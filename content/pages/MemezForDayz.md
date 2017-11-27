@@ -1,7 +1,6 @@
 ---
 title: MemezForDayz
 crosslinks:
-- livven
 - REEEEEEEEEE
 - Pay_Respects
 - fidgetspin

@@ -3,10 +3,8 @@ title: uwaterloo
 crosslinks:
 - UofT
 - waterloo
-- livven
 - xkcd
 - cscareerquestions
-- autotldr
 - sadcringe
 - modnews
 - todayilearned

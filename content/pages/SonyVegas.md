@@ -1,5 +1,0 @@
----
-title: SonyVegas
-crosslinks:
-- livven
----

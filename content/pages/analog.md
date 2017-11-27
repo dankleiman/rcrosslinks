@@ -3,7 +3,6 @@ title: analog
 crosslinks:
 - photomarket
 - photography
-- livven
 - Darkroom
 - streetphotography
 - AnalogCommunity

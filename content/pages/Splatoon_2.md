@@ -7,7 +7,6 @@ crosslinks:
 - LPT
 - Overwatch
 - tifu
-- livven
 - nintendo
 - gaming
 - Saltoon

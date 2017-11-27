@@ -5,7 +5,6 @@ crosslinks:
 - malaysia
 - VietNam
 - Lao
-- autotldr
 - southeastasia
 - myanmar
 ---

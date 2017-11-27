@@ -2,7 +2,6 @@
 title: the_meltdown
 crosslinks:
 - The_Donald
-- autotldr
 - politics
 - EnoughTrumpSpam
 - ShitPoliticsSays

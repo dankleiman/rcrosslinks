@@ -1,7 +1,6 @@
 ---
 title: randpaul
 crosslinks:
-- autotldr
 - The_Donald
 - JustinAmash
 - ShitAmericansSay

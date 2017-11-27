@@ -5,7 +5,6 @@ crosslinks:
 - medicine
 - SuicideWatch
 - EverythingScience
-- autotldr
 - inthenews
 - thethyroidmadness
 - fasting

@@ -5,6 +5,5 @@ crosslinks:
 - STPeach
 - Lordosis
 - InstagramBodies
-- livven
 - whiteknighting
 ---

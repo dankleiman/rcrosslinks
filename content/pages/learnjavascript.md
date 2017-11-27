@@ -17,6 +17,5 @@ crosslinks:
 - Funko
 - actionscript
 - HTML
-- livven
 - learnjava
 ---

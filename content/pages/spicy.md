@@ -3,7 +3,6 @@ title: spicy
 crosslinks:
 - HotPeppers
 - hotsauce
-- autotldr
 - Peppers
 - arresteddevelopment
 - hotsaucerecipes

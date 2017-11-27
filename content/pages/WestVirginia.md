@@ -1,7 +1,6 @@
 ---
 title: WestVirginia
 crosslinks:
-- autotldr
 - FULLCOMMUNISM
 - REEEEEE
 - AskReddit

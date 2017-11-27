@@ -1,7 +1,6 @@
 ---
 title: RoleReversal
 crosslinks:
-- livven
 - xkcd
 - theworldisflat
 - dragonsfuckingcars

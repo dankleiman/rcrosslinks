@@ -5,7 +5,6 @@ crosslinks:
 - space
 - videos
 - ukpolitics
-- livven
 - atheistvids
 - funny
 - news

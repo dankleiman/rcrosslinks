@@ -18,7 +18,6 @@ crosslinks:
 - juxtaposition
 - FierceFlow
 - OnePunchMan
-- livven
 - traps
 - FinalFantasy
 ---

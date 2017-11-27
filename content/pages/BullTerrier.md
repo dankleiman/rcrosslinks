@@ -1,5 +1,0 @@
----
-title: BullTerrier
-crosslinks:
-- livven
----

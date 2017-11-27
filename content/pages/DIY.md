@@ -9,7 +9,6 @@ crosslinks:
 - AskReddit
 - xkcd
 - DiWHY
-- livven
 - gaming
 - pcmasterrace
 - funny

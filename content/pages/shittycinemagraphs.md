@@ -1,5 +1,0 @@
----
-title: shittycinemagraphs
-crosslinks:
-- livven
----

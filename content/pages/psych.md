@@ -1,7 +1,6 @@
 ---
 title: psych
 crosslinks:
-- livven
 - announcements
 - Addons4Kodi
 - FanTheories
@@ -11,5 +10,4 @@ crosslinks:
 - xkcd
 - WarOnComcast
 - Hammocks
-- autotldr
 ---

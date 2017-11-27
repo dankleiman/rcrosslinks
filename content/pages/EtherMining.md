@@ -20,5 +20,4 @@ crosslinks:
 - Signatum
 - Bitcoin
 - ifttt
-- autotldr
 ---

@@ -1,7 +1,6 @@
 ---
 title: TheNewRight
 crosslinks:
-- autotldr
 - The_Donald
 - TopMindsOfReddit
 - EnoughTrumpSpam

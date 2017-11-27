@@ -12,7 +12,6 @@ crosslinks:
 - Assistance
 - daddit
 - xkcd
-- livven
 - AskReddit
 - HailCorporate
 - wholesomememes

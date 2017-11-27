@@ -4,7 +4,6 @@ crosslinks:
 - The_Donald
 - AskReddit
 - help
-- autotldr
 - aww
 - changelog
 - Jeopardy

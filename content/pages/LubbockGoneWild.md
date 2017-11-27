@@ -1,5 +1,0 @@
----
-title: LubbockGoneWild
-crosslinks:
-- livven
----

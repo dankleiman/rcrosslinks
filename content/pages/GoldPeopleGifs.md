@@ -1,5 +1,0 @@
----
-title: GoldPeopleGifs
-crosslinks:
-- livven
----

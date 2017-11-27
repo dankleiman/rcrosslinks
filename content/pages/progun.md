@@ -1,7 +1,6 @@
 ---
 title: progun
 crosslinks:
-- autotldr
 - dgu
 - shitguncontrollerssay
 - NOWTTYG

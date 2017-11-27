@@ -1,7 +1,6 @@
 ---
 title: GenderCritical
 crosslinks:
-- autotldr
 - asktransgender
 - science
 - GenderCriticalGuys

@@ -1,5 +1,0 @@
----
-title: trailcam
-crosslinks:
-- livven
----

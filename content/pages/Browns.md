@@ -4,7 +4,6 @@ crosslinks:
 - nfl
 - NFL_Draft
 - ReallyBigShow
-- livven
 - Texans
 - CFB
 - steelers

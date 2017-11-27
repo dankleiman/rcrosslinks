@@ -1,7 +1,6 @@
 ---
 title: nsfw_wtf
 crosslinks:
-- livven
 - StruggleFucking
 - AskAnthropology
 - AMA

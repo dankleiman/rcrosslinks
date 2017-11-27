@@ -2,7 +2,6 @@
 title: hentai_irl
 crosslinks:
 - doujinshi
-- livven
 - anime_irl
 - AskReddit
 - hentai

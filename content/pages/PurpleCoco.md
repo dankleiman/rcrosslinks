@@ -3,7 +3,6 @@ title: PurpleCoco
 crosslinks:
 - CrappyDesign
 - mildlyinteresting
-- livven
 - FuelRats
 - AskReddit
 - electricians

@@ -1,5 +1,0 @@
----
-title: sexagon
-crosslinks:
-- autotldr
----

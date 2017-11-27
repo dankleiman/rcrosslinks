@@ -1,5 +1,0 @@
----
-title: PoliticalHumour
-crosslinks:
-- livven
----

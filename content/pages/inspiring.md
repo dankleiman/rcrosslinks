@@ -1,5 +1,0 @@
----
-title: inspiring
-crosslinks:
-- livven
----

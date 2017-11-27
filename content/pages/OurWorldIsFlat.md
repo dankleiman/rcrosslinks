@@ -1,5 +1,0 @@
----
-title: OurWorldIsFlat
-crosslinks:
-- livven
----

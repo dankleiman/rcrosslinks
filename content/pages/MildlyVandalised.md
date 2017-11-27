@@ -7,7 +7,6 @@ crosslinks:
 - funny
 - dontdeadopeninside
 - modnews
-- livven
 - madlads
 - PostAndBecomeAMod
 - ProCSS

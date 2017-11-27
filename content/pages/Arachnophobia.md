@@ -1,5 +1,0 @@
----
-title: Arachnophobia
-crosslinks:
-- livven
----

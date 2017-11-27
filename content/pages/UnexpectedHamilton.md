@@ -15,7 +15,6 @@ crosslinks:
 - QuotesPorn
 - BlackPeopleTwitter
 - oneshotpodcast
-- autotldr
 - nevertellmetheodds
 - Jokes
 - unexpectedoverwatch

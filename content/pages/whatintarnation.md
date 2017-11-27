@@ -2,7 +2,6 @@
 title: whatintarnation
 crosslinks:
 - Blep
-- livven
 - funny
 - rarepuppers
 - kpopfap

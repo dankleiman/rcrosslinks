@@ -2,7 +2,6 @@
 title: coding
 crosslinks:
 - programming
-- autotldr
 - xkcd
 - learnprogramming
 - DataHoarder

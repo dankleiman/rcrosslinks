@@ -7,7 +7,6 @@ crosslinks:
 - damnthatsinteresting
 - RoastMe
 - Doppleganger
-- livven
 - FierceFlow
 - FreeCompliments
 - rateme

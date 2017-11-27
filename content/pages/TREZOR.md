@@ -10,7 +10,6 @@ crosslinks:
 - ethereum
 - ByteBall
 - tippr
-- autotldr
 - tails
 - jaxx
 - mingderwang

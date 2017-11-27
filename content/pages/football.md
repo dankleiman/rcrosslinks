@@ -1,7 +1,6 @@
 ---
 title: football
 crosslinks:
-- autotldr
 - soccer
 - soccercirclejerk
 - WomensSoccer

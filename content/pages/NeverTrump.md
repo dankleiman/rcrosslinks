@@ -1,7 +1,6 @@
 ---
 title: NeverTrump
 crosslinks:
-- autotldr
 - AntiTrumpAlliance
 - The_Donald
 - esist

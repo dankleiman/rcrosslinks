@@ -3,9 +3,7 @@ title: gatech
 crosslinks:
 - Atlanta
 - xkcd
-- autotldr
 - EngineeringStudents
-- livven
 - UGA
 - all
 - place_vandals

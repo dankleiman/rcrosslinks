@@ -18,7 +18,6 @@ crosslinks:
 - standupshots
 - explainlikeimfive
 - altright
-- livven
 - changemyview
 - OpenChristian
 ---

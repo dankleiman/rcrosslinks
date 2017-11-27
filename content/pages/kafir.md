@@ -1,5 +1,0 @@
----
-title: kafir
-crosslinks:
-- autotldr
----

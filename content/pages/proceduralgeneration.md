@@ -2,7 +2,6 @@
 title: proceduralgeneration
 crosslinks:
 - gamedev
-- livven
 - Unity3D
 - mapmaking
 - oculus

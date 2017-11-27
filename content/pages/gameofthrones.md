@@ -2,7 +2,6 @@
 title: gameofthrones
 crosslinks:
 - asoiaf
-- autotldr
 - AskHistorians
 - gottheories
 - IAmA

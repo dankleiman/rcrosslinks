@@ -3,7 +3,6 @@ title: PlantedTank
 crosslinks:
 - Aquariums
 - AquaSwap
-- livven
 - Jarrariums
 - shrimptank
 - aquaswap

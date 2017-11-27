@@ -13,5 +13,4 @@ crosslinks:
 - LearnUselessTalents
 - shittyfoodporn
 - keto
-- livven
 ---

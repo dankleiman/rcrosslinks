@@ -1,7 +1,6 @@
 ---
 title: thefighterandthekid
 crosslinks:
-- livven
 - JoeRogan
 - MMA
 - AMAAggregator

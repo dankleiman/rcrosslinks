@@ -6,5 +6,4 @@ crosslinks:
 - COMPLETEANARCHY
 - forwardsfromgrandma
 - communism
-- livven
 ---

@@ -1,5 +1,0 @@
----
-title: BfGfPoints
-crosslinks:
-- livven
----

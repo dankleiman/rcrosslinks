@@ -5,7 +5,6 @@ crosslinks:
 - mildlyinteresting
 - the_thundercock
 - nuggies
-- livven
 - chads
 - Wholesometendies
 - jesuschristreddit

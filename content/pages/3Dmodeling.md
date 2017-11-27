@@ -14,7 +14,6 @@ crosslinks:
 - computergraphics
 - Houdini
 - 3DMA
-- livven
 - Cinema4D
 - low_poly
 - photogrammetry

@@ -1,7 +1,6 @@
 ---
 title: badgovnofreedom
 crosslinks:
-- autotldr
 - europrivacy
 - politics
 - privacy

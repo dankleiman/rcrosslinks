@@ -4,7 +4,6 @@ crosslinks:
 - Breath_of_the_Wild
 - truezelda
 - NintendoSwitch
-- livven
 - nintendo
 - gaming
 - AskReddit

@@ -7,6 +7,5 @@ crosslinks:
 - ethtrader
 - Stratis
 - StratTrader
-- autotldr
 - factom
 ---

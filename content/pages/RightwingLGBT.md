@@ -2,7 +2,6 @@
 title: RightwingLGBT
 crosslinks:
 - The_Donald
-- autotldr
 - ConservativeLGBT
 - islam
 - ShitPoliticsSays

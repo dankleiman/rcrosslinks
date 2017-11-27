@@ -1,7 +1,6 @@
 ---
 title: UK_Politics
 crosslinks:
-- autotldr
 - socialism
 - wholesomereddit
 - GoldandBlack

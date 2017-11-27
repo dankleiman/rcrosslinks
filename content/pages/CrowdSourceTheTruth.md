@@ -1,5 +1,0 @@
----
-title: CrowdSourceTheTruth
-crosslinks:
-- autotldr
----

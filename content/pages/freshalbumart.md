@@ -5,7 +5,6 @@ crosslinks:
 - KendrickLamar
 - Kanye
 - gorillaz
-- livven
 - FilthyFrank
 - OFWGKTA
 - Art

@@ -1,7 +1,6 @@
 ---
 title: arcticmonkeys
 crosslinks:
-- livven
 - qotsa
 - titlegore
 - TheBlueCorner
@@ -13,7 +12,6 @@ crosslinks:
 - PATV
 - ArcticMonkeysRule34
 - place
-- autotldr
 - The_Donald
 - Kanye
 - OopsDidntMeanTo

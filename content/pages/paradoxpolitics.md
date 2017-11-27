@@ -1,7 +1,6 @@
 ---
 title: paradoxpolitics
 crosslinks:
-- autotldr
 - KotakuInAction
 - paradoxplaza
 - northkorea

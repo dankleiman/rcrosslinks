@@ -1,7 +1,6 @@
 ---
 title: windowsphone
 crosslinks:
-- autotldr
 - WinPhoneCirclejerk
 - Windows10
 - Android

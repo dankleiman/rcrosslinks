@@ -1,5 +1,0 @@
----
-title: FunnyDogEatAPepsi
-crosslinks:
-- livven
----

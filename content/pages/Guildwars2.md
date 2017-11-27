@@ -4,7 +4,6 @@ crosslinks:
 - guildrecruitment
 - GuildWars
 - TrahearneJokes
-- livven
 - GuildWars2Builds
 - xkcd
 - guildwarsgonewild

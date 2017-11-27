@@ -1,5 +1,0 @@
----
-title: SYRIZANews
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: EarthDisaster
-crosslinks:
-- livven
----

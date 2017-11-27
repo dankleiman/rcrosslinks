@@ -2,7 +2,6 @@
 title: GMOMyths
 crosslinks:
 - glyphosate
-- autotldr
 - mildlyinteresting
 - Documentaries
 - AskWomen

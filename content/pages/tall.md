@@ -2,7 +2,6 @@
 title: tall
 crosslinks:
 - short
-- livven
 - gainit
 - metric_units
 - tallfashionadvice
@@ -18,7 +17,6 @@ crosslinks:
 - TwoXChromosomes
 - chimichangas
 - gatekeeping
-- autotldr
 - MGTOW
 - mildlyinteresting
 ---

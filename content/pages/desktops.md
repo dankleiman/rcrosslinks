@@ -12,7 +12,6 @@ crosslinks:
 - tron
 - startpages
 - Animewallpaper
-- livven
 - Firewatch
 - shittyunixporn
 - Art

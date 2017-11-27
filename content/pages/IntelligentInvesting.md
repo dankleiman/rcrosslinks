@@ -1,5 +1,0 @@
----
-title: IntelligentInvesting
-crosslinks:
-- autotldr
----

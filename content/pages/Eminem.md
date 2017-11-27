@@ -3,7 +3,6 @@ title: Eminem
 crosslinks:
 - hiphopheads
 - Kanye
-- livven
 - FanTheories
 - KendrickLamar
 - hhh

@@ -3,7 +3,6 @@ title: wholesomeanimemes
 crosslinks:
 - anime_irl
 - Animemes
-- livven
 - headpats
 - handholding
 - HFY

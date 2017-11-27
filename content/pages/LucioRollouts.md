@@ -4,7 +4,6 @@ crosslinks:
 - luciomains
 - OverwatchUniversity
 - Overwatch
-- livven
 - Competitiveoverwatch
 - AMAAggregator
 ---

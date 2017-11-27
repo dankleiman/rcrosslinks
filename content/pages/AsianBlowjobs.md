@@ -10,6 +10,5 @@ crosslinks:
 - YuiHatano
 - AsianNSFW
 - NSFW_GIF
-- livven
 - NSFW_Hentai_n_Jav
 ---

@@ -1,5 +1,0 @@
----
-title: RojavaSocietyUK
-crosslinks:
-- autotldr
----

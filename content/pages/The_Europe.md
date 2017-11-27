@@ -1,7 +1,6 @@
 ---
 title: The_Europe
 crosslinks:
-- autotldr
 - WatchRedditDie
 - ireland
 - AskEurope

@@ -1,5 +1,0 @@
----
-title: WARCUBE
-crosslinks:
-- livven
----

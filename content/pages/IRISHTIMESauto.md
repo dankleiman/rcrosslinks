@@ -1,5 +1,0 @@
----
-title: IRISHTIMESauto
-crosslinks:
-- autotldr
----

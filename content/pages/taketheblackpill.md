@@ -1,5 +1,0 @@
----
-title: taketheblackpill
-crosslinks:
-- livven
----

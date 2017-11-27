@@ -1,7 +1,6 @@
 ---
 title: fuckingmanly
 crosslinks:
-- livven
 - OldSchoolCool
 - ColorizedHistory
 - Survival

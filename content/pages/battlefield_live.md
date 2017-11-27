@@ -6,7 +6,6 @@ crosslinks:
 - Battlefield_4_CTE
 - Amd
 - pcmasterrace
-- livven
 - metalgearsolid
 - joinsquad
 - KoreanAdvice

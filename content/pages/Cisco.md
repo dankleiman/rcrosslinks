@@ -6,7 +6,6 @@ crosslinks:
 - ciscoUC
 - ccie
 - ccna
-- autotldr
 - ccent
 - meraki
 - Serendipity

@@ -15,7 +15,6 @@ crosslinks:
 - jimmycuadra
 - firefox
 - wow
-- livven
 - dailyprogrammer
 - lua
 - dontyouknowwhoiam

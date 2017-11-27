@@ -1,7 +1,6 @@
 ---
 title: boop
 crosslinks:
-- livven
 - funny
 - aviation
 - aww

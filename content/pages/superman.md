@@ -5,9 +5,7 @@ crosslinks:
 - DC_Cinematic
 - movies
 - xkcd
-- livven
 - EmpireDidNothingWrong
-- autotldr
 - AskScienceFiction
 - mr2
 - INJUSTICE

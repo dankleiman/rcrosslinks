@@ -1,7 +1,6 @@
 ---
 title: saudiarabia
 crosslinks:
-- autotldr
 - islam
 - papertowns
 - Islaam
@@ -17,5 +16,4 @@ crosslinks:
 - UpvotedBecauseGirl
 - WTF
 - Pareidolia
-- livven
 ---

@@ -3,7 +3,6 @@ title: nukedmemes
 crosslinks:
 - DeepFriedMemes
 - surrealmemes
-- livven
 - dankmemes
 - whothefuckup
 - tifu

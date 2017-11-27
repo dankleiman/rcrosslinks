@@ -1,5 +1,0 @@
----
-title: Helminths
-crosslinks:
-- autotldr
----

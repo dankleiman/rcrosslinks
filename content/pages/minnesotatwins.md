@@ -2,7 +2,6 @@
 title: minnesotatwins
 crosslinks:
 - KCRoyals
-- livven
 - Mariners
 - MLBStreams
 - whitesox

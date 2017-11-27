@@ -1,5 +1,0 @@
----
-title: funnynewsstories
-crosslinks:
-- autotldr
----

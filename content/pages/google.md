@@ -4,7 +4,6 @@ crosslinks:
 - xkcd
 - Android
 - softwaregore
-- livven
 - Nexus6P
 - kansascity
 - TheoryOfReddit

@@ -1,5 +1,0 @@
----
-title: linukso
-crosslinks:
-- autotldr
----

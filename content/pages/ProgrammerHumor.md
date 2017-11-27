@@ -2,7 +2,6 @@
 title: ProgrammerHumor
 crosslinks:
 - xkcd
-- livven
 - softwaregore
 - programming
 - lolphp

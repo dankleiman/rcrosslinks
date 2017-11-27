@@ -3,7 +3,6 @@ title: SEO
 crosslinks:
 - Entrepreneur
 - retardedseo
-- autotldr
 - hireforseo
 - programming
 - '2013'

@@ -1,5 +1,0 @@
----
-title: cinematicuniverses
-crosslinks:
-- autotldr
----

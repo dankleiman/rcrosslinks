@@ -4,7 +4,6 @@ crosslinks:
 - Megaten
 - churchofmakoto
 - ChurchOfAnn
-- livven
 - Pixiv
 - PERSoNA
 - nier

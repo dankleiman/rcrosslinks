@@ -19,6 +19,5 @@ crosslinks:
 - emulation
 - macgaming
 - linuxquestions
-- livven
 - linuxhardware
 ---

@@ -1,5 +1,0 @@
----
-title: Posadism
-crosslinks:
-- autotldr
----

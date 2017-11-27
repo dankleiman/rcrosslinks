@@ -12,7 +12,6 @@ crosslinks:
 - HailCorporate
 - news
 - Enough_Sanders_Spam
-- autotldr
 - FULLCOMMUNISM
 - communism
 - Drama

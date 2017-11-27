@@ -2,7 +2,6 @@
 title: Norway
 crosslinks:
 - norge
-- autotldr
 - oslo
 - norsk
 - MapPorn

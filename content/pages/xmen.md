@@ -2,7 +2,6 @@
 title: xmen
 crosslinks:
 - Marvel
-- autotldr
 - Cyclopswasright
 - movies
 - yaoi

@@ -1,11 +1,9 @@
 ---
 title: instantkarma
 crosslinks:
-- livven
 - JusticeServed
 - Whatcouldgowrong
 - IAmA
-- autotldr
 - funny
 - gifs
 - instant_regret

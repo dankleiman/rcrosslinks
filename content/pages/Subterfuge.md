@@ -1,5 +1,0 @@
----
-title: Subterfuge
-crosslinks:
-- livven
----

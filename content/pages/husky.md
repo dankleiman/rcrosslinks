@@ -1,7 +1,6 @@
 ---
 title: husky
 crosslinks:
-- livven
 - puppy101
 - dogs
 - gifs

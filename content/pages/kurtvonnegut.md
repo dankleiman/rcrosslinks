@@ -1,5 +1,0 @@
----
-title: kurtvonnegut
-crosslinks:
-- autotldr
----

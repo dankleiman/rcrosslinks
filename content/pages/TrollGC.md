@@ -1,5 +1,0 @@
----
-title: TrollGC
-crosslinks:
-- livven
----

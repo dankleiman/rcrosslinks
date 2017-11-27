@@ -1,12 +1,10 @@
 ---
 title: boston
 crosslinks:
-- autotldr
 - BostonWeather
 - The_Donald
 - IAmA
 - AskReddit
-- livven
 - ApplyingToCollege
 - news
 - SeattleWA

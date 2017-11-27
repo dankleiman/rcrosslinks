@@ -1,5 +1,0 @@
----
-title: ChampClique
-crosslinks:
-- livven
----

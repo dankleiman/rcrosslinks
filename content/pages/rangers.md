@@ -3,7 +3,6 @@ title: rangers
 crosslinks:
 - hockey
 - hockeyjerseys
-- livven
 - DetroitRedWings
 - place
 - LazyMan

@@ -4,7 +4,6 @@ crosslinks:
 - FashionReps
 - streetwear
 - Sneakers
-- livven
 - FashionRepsBST
 - StreetwearSales
 - Ferrari

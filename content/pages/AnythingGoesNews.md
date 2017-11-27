@@ -2,7 +2,6 @@
 title: AnythingGoesNews
 crosslinks:
 - JustTheTopNews
-- autotldr
 - conspiracy
 - news
 - worldpolitics

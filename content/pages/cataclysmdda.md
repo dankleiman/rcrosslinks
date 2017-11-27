@@ -14,7 +14,6 @@ crosslinks:
 - roguelikes
 - characterdrawing
 - ATBGE
-- livven
 - Whatcouldgowrong
 - SCP
 - news

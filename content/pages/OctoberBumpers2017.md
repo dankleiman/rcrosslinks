@@ -3,7 +3,6 @@ title: OctoberBumpers2017
 crosslinks:
 - ABraThatFits
 - metric_units
-- livven
 - crochet
 - pregnant
 - CautiousBB

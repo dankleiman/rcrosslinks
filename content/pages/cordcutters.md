@@ -1,7 +1,6 @@
 ---
 title: cordcutters
 crosslinks:
-- autotldr
 - Vue
 - technology
 - AndroidTV

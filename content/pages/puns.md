@@ -9,7 +9,6 @@ crosslinks:
 - Punny
 - Minecraft
 - pics
-- livven
 - ShittyAnimalFacts
 - dadjokes
 - reactiongifs

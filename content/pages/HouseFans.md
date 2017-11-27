@@ -1,5 +1,0 @@
----
-title: HouseFans
-crosslinks:
-- autotldr
----

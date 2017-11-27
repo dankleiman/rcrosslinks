@@ -1,5 +1,0 @@
----
-title: polacks
-crosslinks:
-- autotldr
----

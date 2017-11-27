@@ -4,7 +4,6 @@ crosslinks:
 - disney
 - WaltDisneyWorld
 - FastPassCollectors
-- autotldr
 - DisneyPinSwap
 - IAmA
 - AskReddit

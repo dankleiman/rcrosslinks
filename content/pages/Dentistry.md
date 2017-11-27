@@ -4,7 +4,6 @@ crosslinks:
 - DentalHygiene
 - NeuroMuscularDent
 - me_irl
-- autotldr
 - AskDocs
 - NoStupidQuestions
 - Drugs

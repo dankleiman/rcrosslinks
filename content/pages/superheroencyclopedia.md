@@ -1,5 +1,0 @@
----
-title: superheroencyclopedia
-crosslinks:
-- autotldr
----

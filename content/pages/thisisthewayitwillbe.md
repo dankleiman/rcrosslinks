@@ -1,7 +1,6 @@
 ---
 title: thisisthewayitwillbe
 crosslinks:
-- autotldr
 - StarspawnsLocker
 - MachineLearning
 - explainlikeimfive

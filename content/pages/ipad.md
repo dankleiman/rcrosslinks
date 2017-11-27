@@ -4,7 +4,6 @@ crosslinks:
 - apple
 - iOSBeta
 - iphone
-- livven
 - Surface
 - AppHookup
 - changelog

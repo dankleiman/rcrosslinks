@@ -1,5 +1,0 @@
----
-title: Baywatch
-crosslinks:
-- autotldr
----

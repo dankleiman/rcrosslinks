@@ -11,7 +11,6 @@ crosslinks:
 - Christianity
 - marilynmanson
 - gatekeeping
-- livven
 - LadyGaga
 - The_Donald
 - MMCirclejerk

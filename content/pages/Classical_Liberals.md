@@ -2,7 +2,6 @@
 title: Classical_Liberals
 crosslinks:
 - samharris
-- autotldr
 - politics
 - Ausguns
 - videos

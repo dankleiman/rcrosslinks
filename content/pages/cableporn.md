@@ -7,7 +7,6 @@ crosslinks:
 - pics
 - pcmasterrace
 - electricians
-- livven
 - askscience
 - lanparty
 - mildlyvagina

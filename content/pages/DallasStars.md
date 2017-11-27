@@ -4,7 +4,6 @@ crosslinks:
 - hockey
 - wildhockey
 - ShotGlassBets
-- livven
 - '2013'
 - NHLStreams
 - snoovatars

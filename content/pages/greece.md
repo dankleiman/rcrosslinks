@@ -2,8 +2,6 @@
 title: greece
 crosslinks:
 - europe
-- autotldr
-- livven
 - worldnews
 - xkcd
 - OutOfTheLoop

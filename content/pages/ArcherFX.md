@@ -1,8 +1,6 @@
 ---
 title: ArcherFX
 crosslinks:
-- livven
-- autotldr
 - ComedyCemetery
 - todayilearned
 - pics

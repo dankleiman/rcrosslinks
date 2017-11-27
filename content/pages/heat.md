@@ -4,7 +4,6 @@ crosslinks:
 - HeatNews
 - torontoraptors
 - AtlantaHawks
-- livven
 - miamidolphins
 - rockets
 - GoNets

@@ -7,6 +7,5 @@ crosslinks:
 - h3h3productions
 - TitlePapercut
 - chemistry
-- livven
 - explainlikeimfive
 ---

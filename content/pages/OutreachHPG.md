@@ -3,7 +3,6 @@ title: OutreachHPG
 crosslinks:
 - mwo
 - mechwarrior
-- livven
 - '2013'
 - Battletechgame
 - origamidicks

@@ -1,5 +1,0 @@
----
-title: BlueShiftCommunity
-crosslinks:
-- livven
----

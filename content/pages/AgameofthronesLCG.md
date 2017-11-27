@@ -1,5 +1,0 @@
----
-title: AgameofthronesLCG
-crosslinks:
-- livven
----

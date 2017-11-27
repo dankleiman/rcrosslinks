@@ -2,7 +2,6 @@
 title: Letterkenny
 crosslinks:
 - FanTheories
-- livven
 - megalinks
 - FoodPorn
 - AskReddit

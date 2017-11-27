@@ -3,7 +3,6 @@ title: CozyPlaces
 crosslinks:
 - pics
 - raining
-- livven
 - japanpics
 - RoomPorn
 - AmateurRoomPorn

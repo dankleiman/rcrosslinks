@@ -1,5 +1,0 @@
----
-title: PitBarrelCooker
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: entertainmentnews
-crosslinks:
-- autotldr
----

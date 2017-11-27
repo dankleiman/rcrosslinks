@@ -1,5 +1,0 @@
----
-title: androidpolice
-crosslinks:
-- autotldr
----

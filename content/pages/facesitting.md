@@ -5,6 +5,5 @@ crosslinks:
 - NSFW_GIF
 - redditrequest
 - IncestGifs
-- livven
 - BoredandIgnored
 ---

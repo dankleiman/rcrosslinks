@@ -1,7 +1,6 @@
 ---
 title: Africa
 crosslinks:
-- autotldr
 - worldpolitics
 - southafrica
 - christianpersecution

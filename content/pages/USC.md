@@ -1,7 +1,6 @@
 ---
 title: USC
 crosslinks:
-- autotldr
 - accounting
 - ucla
 - videos

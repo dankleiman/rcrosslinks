@@ -5,5 +5,4 @@ crosslinks:
 - natureismetal
 - whatisthisthing
 - interestingasfuck
-- livven
 ---

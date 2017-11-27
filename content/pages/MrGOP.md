@@ -1,5 +1,0 @@
----
-title: MrGOP
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: OffensiveMemes
 crosslinks:
 - ConcentratedMemes
-- livven
 - Nerf
 - amazingdesign
 - SwordOrSheath

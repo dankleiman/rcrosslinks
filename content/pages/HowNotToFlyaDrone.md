@@ -1,5 +1,0 @@
----
-title: HowNotToFlyaDrone
-crosslinks:
-- livven
----

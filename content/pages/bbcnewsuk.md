@@ -1,5 +1,0 @@
----
-title: bbcnewsuk
-crosslinks:
-- autotldr
----

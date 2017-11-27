@@ -1,5 +1,0 @@
----
-title: MedicalEntomology
-crosslinks:
-- autotldr
----

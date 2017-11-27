@@ -1,5 +1,0 @@
----
-title: mountyourfriends
-crosslinks:
-- livven
----

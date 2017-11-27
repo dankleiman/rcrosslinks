@@ -4,6 +4,5 @@ crosslinks:
 - arielwinter
 - Serendipity
 - wholesomememes
-- autotldr
 - laughfactory
 ---

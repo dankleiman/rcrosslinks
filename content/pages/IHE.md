@@ -8,7 +8,6 @@ crosslinks:
 - me_irl
 - pics
 - furry_irl
-- livven
 - copypasta
 - gatekeeping
 - AskReddit

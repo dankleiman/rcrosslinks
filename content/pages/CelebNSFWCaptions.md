@@ -1,5 +1,0 @@
----
-title: CelebNSFWCaptions
-crosslinks:
-- livven
----

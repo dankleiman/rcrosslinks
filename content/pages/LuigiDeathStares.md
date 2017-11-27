@@ -1,5 +1,0 @@
----
-title: LuigiDeathStares
-crosslinks:
-- livven
----

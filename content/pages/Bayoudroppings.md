@@ -1,5 +1,0 @@
----
-title: Bayoudroppings
-crosslinks:
-- autotldr
----

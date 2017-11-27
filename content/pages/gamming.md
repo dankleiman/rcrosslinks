@@ -1,5 +1,0 @@
----
-title: gamming
-crosslinks:
-- autotldr
----

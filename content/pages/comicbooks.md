@@ -3,7 +3,6 @@ title: comicbooks
 crosslinks:
 - Marvel
 - DCcomics
-- autotldr
 - comicswap
 - valiant
 - xmen
@@ -11,7 +10,6 @@ crosslinks:
 - ImageComics
 - marvelstudios
 - comicreadingorders
-- livven
 - movies
 - whowouldwin
 - comics

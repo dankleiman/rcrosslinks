@@ -1,7 +1,6 @@
 ---
 title: LibertarianLeft
 crosslinks:
-- autotldr
 - gatekeeping
 - WayOfTheBern
 - Anarchism

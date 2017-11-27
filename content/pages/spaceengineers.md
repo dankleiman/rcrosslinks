@@ -4,7 +4,6 @@ crosslinks:
 - xkcd
 - skywanderers
 - SpaceEngineering
-- livven
 - Gamingcirclejerk
 - seservers
 - VisualScriptBuilder

@@ -6,7 +6,6 @@ crosslinks:
 - SolidWorks
 - engineering
 - shootingcars
-- livven
 - Fusion360
 - learnprogramming
 - Linky_links

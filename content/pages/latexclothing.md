@@ -1,5 +1,0 @@
----
-title: latexclothing
-crosslinks:
-- livven
----

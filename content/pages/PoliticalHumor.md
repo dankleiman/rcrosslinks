@@ -2,14 +2,12 @@
 title: PoliticalHumor
 crosslinks:
 - The_Donald
-- livven
 - politics
 - ShitPoliticsSays
 - comics
 - EnoughTrumpSpam
 - AdviceAnimals
 - xkcd
-- autotldr
 - news
 - Fuckthealtright
 - pics

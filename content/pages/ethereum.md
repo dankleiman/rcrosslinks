@@ -3,7 +3,6 @@ title: ethereum
 crosslinks:
 - ethtrader
 - ethdev
-- autotldr
 - Bitcoin
 - Buttcoin
 - EthereumClassic

@@ -1,5 +1,0 @@
----
-title: Nanagrams
-crosslinks:
-- livven
----

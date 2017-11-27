@@ -6,7 +6,6 @@ crosslinks:
 - programming
 - ProgrammerHumor
 - phpsec
-- autotldr
 - phphelp
 - learnprogramming
 - node

@@ -1,5 +1,0 @@
----
-title: LeagueGIFs
-crosslinks:
-- livven
----

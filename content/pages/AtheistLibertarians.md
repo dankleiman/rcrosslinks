@@ -1,5 +1,0 @@
----
-title: AtheistLibertarians
-crosslinks:
-- autotldr
----

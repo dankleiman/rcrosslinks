@@ -1,14 +1,12 @@
 ---
 title: firefox
 crosslinks:
-- autotldr
 - FirefoxCSS
 - uBlockOrigin
 - rust
 - linux
 - zeronet
 - waterfox
-- livven
 - chrome
 - programming
 - Enhancement

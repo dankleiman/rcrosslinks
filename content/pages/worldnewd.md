@@ -1,5 +1,0 @@
----
-title: worldnewd
-crosslinks:
-- autotldr
----

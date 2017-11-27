@@ -13,7 +13,6 @@ crosslinks:
 - ems
 - Random_Acts_Of_Amazon
 - tea
-- autotldr
 - epileptology
 - trees
 - asmr

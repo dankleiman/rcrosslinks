@@ -3,7 +3,6 @@ title: leafs
 crosslinks:
 - hockey
 - FrugalLeafs
-- livven
 - place
 - hockeyjerseys
 - TorontoMarlies

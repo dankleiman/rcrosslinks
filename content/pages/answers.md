@@ -13,7 +13,6 @@ crosslinks:
 - todayilearned
 - tipofmytongue
 - linguistics
-- translatorBOT
 - pics
 - announcements
 - help

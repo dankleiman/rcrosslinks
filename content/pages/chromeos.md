@@ -3,7 +3,6 @@ title: chromeos
 crosslinks:
 - Crouton
 - GalliumOS
-- autotldr
 - Android
 - chrome
 - hardwareswap

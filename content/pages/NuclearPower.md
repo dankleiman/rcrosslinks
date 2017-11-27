@@ -1,7 +1,6 @@
 ---
 title: NuclearPower
 crosslinks:
-- autotldr
 - lolspacedashspace
 - nuclear
 - worldnews

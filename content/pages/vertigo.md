@@ -1,5 +1,0 @@
----
-title: vertigo
-crosslinks:
-- livven
----

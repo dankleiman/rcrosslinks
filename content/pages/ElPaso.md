@@ -1,7 +1,6 @@
 ---
 title: ElPaso
 crosslinks:
-- livven
 - Infrastructurist
 - Atheism
 - movies

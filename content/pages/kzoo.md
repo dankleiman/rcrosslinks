@@ -2,7 +2,6 @@
 title: kzoo
 crosslinks:
 - WMU
-- autotldr
 - announcements
 - Political_Revolution
 - MechanicAdvice

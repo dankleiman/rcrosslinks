@@ -6,7 +6,6 @@ crosslinks:
 - StarWarsBattlefront
 - IAmA
 - movies
-- autotldr
 - StarWarsReference
 - legoleaks
 - SequelMemes

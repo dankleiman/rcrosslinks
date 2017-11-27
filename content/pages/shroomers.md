@@ -6,7 +6,6 @@ crosslinks:
 - sporetraders
 - MushroomGrowers
 - mycology
-- livven
 - DrugNerds
 - antifa
 - SporeSwap

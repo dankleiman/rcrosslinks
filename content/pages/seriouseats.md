@@ -4,7 +4,6 @@ crosslinks:
 - AskCulinary
 - sousvide
 - Pizza
-- livven
 - Charcuterie
 - xkcd
 - linguistics

@@ -1,7 +1,6 @@
 ---
 title: Emuwarflashbacks
 crosslinks:
-- livven
 - EmuUprising
 - AskReddit
 - argentina

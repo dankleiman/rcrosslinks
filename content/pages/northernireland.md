@@ -2,7 +2,6 @@
 title: northernireland
 crosslinks:
 - ireland
-- autotldr
 - unitedkingdom
 - Scotland
 - ukpolitics
@@ -10,7 +9,6 @@ crosslinks:
 - CelticUnion
 - vexillology
 - mensa
-- livven
 - MapPorn
 - UlsterHistory
 - AskHistorians

@@ -9,7 +9,6 @@ crosslinks:
 - WTF
 - DNCleaks
 - europe
-- livven
 - CringeAnarchy
 - worldnews
 - EnoughTrumpSpam

@@ -1,7 +1,6 @@
 ---
 title: trypophobia
 crosslinks:
-- livven
 - popping
 - mildlyinteresting
 - woahdude

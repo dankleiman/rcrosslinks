@@ -1,5 +1,0 @@
----
-title: weedstartups
-crosslinks:
-- autotldr
----

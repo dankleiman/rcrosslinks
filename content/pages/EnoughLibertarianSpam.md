@@ -3,7 +3,6 @@ title: EnoughLibertarianSpam
 crosslinks:
 - anarcho_capitalism
 - Anarcho_Capitalism
-- autotldr
 - politics
 - news
 - changemyview

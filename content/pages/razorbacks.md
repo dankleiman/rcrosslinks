@@ -4,8 +4,6 @@ crosslinks:
 - CFB
 - food
 - ronpaulshops
-- livven
-- autotldr
 - nfl
 - UniversityofArkansas
 ---

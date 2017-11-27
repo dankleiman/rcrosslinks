@@ -1,5 +1,0 @@
----
-title: yumi
-crosslinks:
-- livven
----

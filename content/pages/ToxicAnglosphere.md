@@ -5,5 +5,4 @@ crosslinks:
 - me_irl
 - aznidentity
 - AsianMasculinity
-- autotldr
 ---

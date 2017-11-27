@@ -1,5 +1,0 @@
----
-title: netzpolitik
-crosslinks:
-- autotldr
----

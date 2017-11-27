@@ -1,7 +1,6 @@
 ---
 title: EcoInternet
 crosslinks:
-- autotldr
 - me_irl
 - worldnews
 - environment

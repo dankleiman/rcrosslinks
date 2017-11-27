@@ -1,5 +1,0 @@
----
-title: nightmare
-crosslinks:
-- autotldr
----

@@ -5,7 +5,6 @@ crosslinks:
 - getdisciplined
 - leaves
 - electronic_cigarette
-- livven
 - AgainstKarmaWhores
 - Vaping101
 - Cigarettes

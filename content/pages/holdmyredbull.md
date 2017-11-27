@@ -1,7 +1,6 @@
 ---
 title: holdmyredbull
 crosslinks:
-- livven
 - askscience
 - gifs
 - videos

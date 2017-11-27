@@ -1,5 +1,0 @@
----
-title: librelife
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: UpliftingKhabre
 crosslinks:
 - IndiaSpeaks
-- autotldr
 - indianews
 - IndiaNonPolitical
 - indiadiscussion

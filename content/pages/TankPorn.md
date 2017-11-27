@@ -3,7 +3,6 @@ title: TankPorn
 crosslinks:
 - DestroyedTanks
 - Warthunder
-- livven
 - AskHistorians
 - MilitaryPorn
 - CapturedWeapons

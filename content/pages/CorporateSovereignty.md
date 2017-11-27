@@ -1,5 +1,0 @@
----
-title: CorporateSovereignty
-crosslinks:
-- autotldr
----

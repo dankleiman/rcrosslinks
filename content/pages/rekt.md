@@ -1,5 +1,0 @@
----
-title: rekt
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: pokemon
 crosslinks:
 - pokemontrades
-- livven
 - stunfisk
 - ShinyPokemon
 - gaming

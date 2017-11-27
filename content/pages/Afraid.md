@@ -1,5 +1,0 @@
----
-title: Afraid
-crosslinks:
-- autotldr
----

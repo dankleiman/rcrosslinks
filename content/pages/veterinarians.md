@@ -5,5 +5,4 @@ crosslinks:
 - SanctionedSuicide
 - funny
 - askvet
-- autotldr
 ---

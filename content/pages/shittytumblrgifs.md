@@ -1,7 +1,6 @@
 ---
 title: shittytumblrgifs
 crosslinks:
-- livven
 - redditposts
 - YanetGarcia
 - shittydarksouls

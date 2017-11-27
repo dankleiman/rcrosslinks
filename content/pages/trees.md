@@ -1,8 +1,6 @@
 ---
 title: trees
 crosslinks:
-- livven
-- autotldr
 - vaporents
 - microgrowery
 - StonerEngineering

@@ -1,5 +1,0 @@
----
-title: JacksonState
-crosslinks:
-- autotldr
----

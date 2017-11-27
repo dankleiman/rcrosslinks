@@ -1,7 +1,6 @@
 ---
 title: mfw
 crosslinks:
-- livven
 - copypasta
 - AnimalsBeingJerks
 - eclipse2017

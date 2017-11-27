@@ -8,7 +8,6 @@ crosslinks:
 - compsci
 - learndatascience
 - cscareerquestions
-- autotldr
 - xkcd
 - cs231n
 - BayesianProgramming

@@ -4,7 +4,6 @@ crosslinks:
 - NeverwinterTradePost
 - NWGuilds
 - LGPGNeverwinter
-- livven
 - DotA2
 - '909460'
 - neverwinternights

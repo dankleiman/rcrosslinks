@@ -1,7 +1,6 @@
 ---
 title: Death_By_SnuSnu
 crosslinks:
-- livven
 - CrossfitGirls
 - thick
 - BrasilOnReddit

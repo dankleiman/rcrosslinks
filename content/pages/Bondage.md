@@ -1,7 +1,6 @@
 ---
 title: Bondage
 crosslinks:
-- livven
 - HomemadeBDSM
 - GloriousCRTMasterRace
 - freeuse

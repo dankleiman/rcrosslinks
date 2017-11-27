@@ -1,7 +1,6 @@
 ---
 title: RhodeIsland
 crosslinks:
-- autotldr
 - providence
 - mildlyinteresting
 - Shitstatistssay

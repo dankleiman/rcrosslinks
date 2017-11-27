@@ -1,5 +1,0 @@
----
-title: masalacorner
-crosslinks:
-- livven
----

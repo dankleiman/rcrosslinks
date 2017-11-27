@@ -7,7 +7,6 @@ crosslinks:
 - roosterteeth
 - AskReddit
 - RWBYOC
-- livven
 - '2013'
 - DnDGreentext
 - RWBYPrompts

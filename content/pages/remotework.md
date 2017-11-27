@@ -1,5 +1,0 @@
----
-title: remotework
-crosslinks:
-- autotldr
----

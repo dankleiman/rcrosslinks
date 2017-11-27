@@ -1,7 +1,6 @@
 ---
 title: media_criticism
 crosslinks:
-- autotldr
 - shills
 - politics
 - conspiracy

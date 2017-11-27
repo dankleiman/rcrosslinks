@@ -1,7 +1,6 @@
 ---
 title: FootFetish
 crosslinks:
-- livven
 - feet
 - Katrina_Sunrise
 - sarah_xxx

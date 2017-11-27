@@ -1,7 +1,6 @@
 ---
 title: crypto
 crosslinks:
-- autotldr
 - netsec
 - math
 - privacy

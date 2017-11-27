@@ -5,7 +5,6 @@ crosslinks:
 - wildhockey
 - nightlypick
 - leafs
-- livven
 - '2013'
 - NHLStreams
 - penguins

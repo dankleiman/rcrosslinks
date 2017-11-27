@@ -4,8 +4,6 @@ crosslinks:
 - raimimemes
 - marvelstudios
 - Marvel
-- autotldr
-- livven
 - titlegore
 - cosplay
 - SpidermanPS4

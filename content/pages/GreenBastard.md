@@ -1,5 +1,0 @@
----
-title: GreenBastard
-crosslinks:
-- livven
----

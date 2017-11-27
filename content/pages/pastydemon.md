@@ -1,5 +1,0 @@
----
-title: pastydemon
-crosslinks:
-- livven
----

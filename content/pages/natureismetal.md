@@ -1,7 +1,6 @@
 ---
 title: natureismetal
 crosslinks:
-- livven
 - pics
 - gifs
 - WTF

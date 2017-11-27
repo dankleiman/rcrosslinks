@@ -1,7 +1,6 @@
 ---
 title: LibertarianSocialism
 crosslinks:
-- autotldr
 - anarcho_hackers
 - ModelUSGov
 - Communalists

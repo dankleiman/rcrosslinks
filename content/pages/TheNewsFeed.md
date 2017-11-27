@@ -1,7 +1,6 @@
 ---
 title: TheNewsFeed
 crosslinks:
-- autotldr
 - me_irl
 - media
 - fidgetspin

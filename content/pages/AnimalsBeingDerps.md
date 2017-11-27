@@ -1,7 +1,6 @@
 ---
 title: AnimalsBeingDerps
 crosslinks:
-- livven
 - aww
 - instant_regret
 - funny

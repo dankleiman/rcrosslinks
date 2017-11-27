@@ -1,7 +1,6 @@
 ---
 title: Political_Revolution
 crosslinks:
-- autotldr
 - SandersForPresident
 - WayOfTheBern
 - politics

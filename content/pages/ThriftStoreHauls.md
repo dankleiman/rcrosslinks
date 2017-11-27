@@ -4,7 +4,6 @@ crosslinks:
 - Flipping
 - analog
 - goodyearwelt
-- livven
 - vintageaudio
 - CoolCollections
 - AskReddit

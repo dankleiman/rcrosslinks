@@ -6,7 +6,6 @@ crosslinks:
 - CelticFC
 - glasgow
 - soccerstreams
-- livven
 - Pay_Respects
 - veganfitness
 - policeuk

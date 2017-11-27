@@ -1,5 +1,0 @@
----
-title: CSMauto
-crosslinks:
-- autotldr
----

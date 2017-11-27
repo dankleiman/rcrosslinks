@@ -7,7 +7,6 @@ crosslinks:
 - nexus5x
 - MotoE
 - lgv30
-- autotldr
 - Android
 - askscience
 - lgg6

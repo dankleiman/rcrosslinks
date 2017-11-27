@@ -15,7 +15,6 @@ crosslinks:
 - pcmasterrace
 - SuggestALaptop
 - guildrecruitment
-- autotldr
 - localmultiplayergames
 - armoredwomen
 - Eve

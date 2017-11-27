@@ -1,5 +1,0 @@
----
-title: Djibouti
-crosslinks:
-- autotldr
----

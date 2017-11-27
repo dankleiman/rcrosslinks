@@ -9,7 +9,6 @@ crosslinks:
 - hardwareswap
 - THINKPADSETUPS
 - naut
-- autotldr
 - LenovoMasterRace
 - razer
 - apple

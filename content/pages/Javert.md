@@ -1,5 +1,0 @@
----
-title: Javert
-crosslinks:
-- livven
----

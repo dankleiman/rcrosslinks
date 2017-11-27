@@ -6,7 +6,6 @@ crosslinks:
 - place
 - MapPorn
 - spacex
-- autotldr
 - 4chan
 - fusion
 - papertowns

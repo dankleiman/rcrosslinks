@@ -1,7 +1,6 @@
 ---
 title: astrophotography
 crosslinks:
-- livven
 - solareclipse
 - Spaceonly
 - Astronomy
@@ -10,7 +9,6 @@ crosslinks:
 - space
 - telescopes
 - spaceporn
-- autotldr
 - kpopfap
 - pics
 - tiara

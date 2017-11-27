@@ -1,14 +1,12 @@
 ---
 title: FidgetSpinners
 crosslinks:
-- livven
 - fidgettoys
 - flyawaytoys
 - EDC
 - FidgetSpinnersMarket
 - interestingasfuck
 - AskReddit
-- autotldr
 - electronic_cigarette
 - HailCorporate
 - CNC

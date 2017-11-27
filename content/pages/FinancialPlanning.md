@@ -10,7 +10,6 @@ crosslinks:
 - preppers
 - investing
 - Serendipity
-- autotldr
 - leanfire
 - TheEducatedPlanner
 - StudentLoans

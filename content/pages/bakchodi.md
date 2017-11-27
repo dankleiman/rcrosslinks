@@ -1,8 +1,6 @@
 ---
 title: bakchodi
 crosslinks:
-- livven
-- autotldr
 - india
 - indiadiscussion
 - pakistan

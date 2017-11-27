@@ -2,7 +2,6 @@
 title: Journaling
 crosslinks:
 - DiaryOfARedditor
-- livven
 - codes
 - Handwriting
 - LifeProTips

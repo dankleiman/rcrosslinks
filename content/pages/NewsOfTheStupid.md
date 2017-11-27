@@ -1,7 +1,6 @@
 ---
 title: NewsOfTheStupid
 crosslinks:
-- autotldr
 - facepalm
 - dgu
 - niceguys

@@ -8,7 +8,6 @@ crosslinks:
 - soccerstreams
 - BrasilOnReddit
 - coys
-- livven
 - panelshow
 - LiverpoolFC
 - FIFA

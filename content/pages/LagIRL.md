@@ -1,5 +1,0 @@
----
-title: LagIRL
-crosslinks:
-- livven
----

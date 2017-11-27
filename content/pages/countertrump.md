@@ -1,5 +1,0 @@
----
-title: countertrump
-crosslinks:
-- autotldr
----

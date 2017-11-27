@@ -2,7 +2,6 @@
 title: RedHotChiliPeppers
 crosslinks:
 - rhcpcirclejerk
-- livven
 - BABYMETAL
 - red_hot_chili_peppers
 - John_Frusciante

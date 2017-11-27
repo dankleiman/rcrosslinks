@@ -1,7 +1,6 @@
 ---
 title: Libertarian
 crosslinks:
-- autotldr
 - Shitstatistssay
 - Anarcho_Capitalism
 - LateStageCapitalism

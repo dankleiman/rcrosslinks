@@ -1,5 +1,0 @@
----
-title: NoWarButClassWar
-crosslinks:
-- autotldr
----

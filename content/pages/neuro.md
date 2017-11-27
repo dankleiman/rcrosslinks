@@ -1,7 +1,6 @@
 ---
 title: neuro
 crosslinks:
-- autotldr
 - Nootropics
 - neuroscience
 - askscience

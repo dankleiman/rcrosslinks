@@ -1,5 +1,0 @@
----
-title: MySoup
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: isometric
 crosslinks:
-- livven
 - Serendipity
 - fictionalfloorplans
 - PixelArt

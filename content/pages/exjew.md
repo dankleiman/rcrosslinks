@@ -12,7 +12,6 @@ crosslinks:
 - Legal_Papers
 - StreetEpistemology
 - funny
-- autotldr
 - Christianity
 - exmuslim
 - AskReddit

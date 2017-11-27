@@ -1,7 +1,6 @@
 ---
 title: UNBGBBIIVCHIDCTIICBG
 crosslinks:
-- livven
 - gifs
 - pics
 - AskReddit

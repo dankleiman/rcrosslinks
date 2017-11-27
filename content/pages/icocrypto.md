@@ -4,7 +4,6 @@ crosslinks:
 - ethtrader
 - ethereum
 - CryptoCurrency
-- autotldr
 - AMAAggregator
 - Maecenas
 - UTRUST_Official

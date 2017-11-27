@@ -1,7 +1,6 @@
 ---
 title: NewSkaters
 crosslinks:
-- livven
 - OldSkaters
 - me_irl
 - Skatemeetups

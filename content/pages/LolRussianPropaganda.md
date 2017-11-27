@@ -1,5 +1,0 @@
----
-title: LolRussianPropaganda
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: FullScorpion
 crosslinks:
-- livven
 - FullShrimp
 - Whatcouldgowrong
 - HadToHurt

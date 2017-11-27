@@ -1,7 +1,6 @@
 ---
 title: thelastofusfactions
 crosslinks:
-- livven
 - giefopensource
 - PS4
 - PS3

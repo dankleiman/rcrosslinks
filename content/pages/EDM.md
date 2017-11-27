@@ -14,7 +14,6 @@ crosslinks:
 - ericprydz
 - skrillex
 - popheads
-- autotldr
 - UMF
 - shallowhouse
 - meirl

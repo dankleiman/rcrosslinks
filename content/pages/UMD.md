@@ -4,7 +4,6 @@ crosslinks:
 - Piracy
 - cscareerquestions
 - cheatatmathhomework
-- autotldr
 - laptops
 - TheB1G
 - The_Donald

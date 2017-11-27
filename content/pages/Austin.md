@@ -1,7 +1,6 @@
 ---
 title: Austin
 crosslinks:
-- autotldr
 - The_Donald
 - houston
 - Chilis
@@ -9,7 +8,6 @@ crosslinks:
 - austincirclejerk
 - AskReddit
 - UTAustin
-- livven
 - sanantonio
 - announcements
 - HailCorporate

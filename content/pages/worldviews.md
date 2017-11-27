@@ -1,5 +1,0 @@
----
-title: worldviews
-crosslinks:
-- autotldr
----

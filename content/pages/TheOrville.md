@@ -3,7 +3,6 @@ title: TheOrville
 crosslinks:
 - startrek
 - IAmA
-- autotldr
 - television
 - cordcutters
 - DaystromInstitute
@@ -11,7 +10,6 @@ crosslinks:
 - SciFiModels
 - Masterchef
 - Stargate
-- livven
 - iama
 - Drama
 - ShittyDaystrom

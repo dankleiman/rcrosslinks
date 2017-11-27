@@ -1,7 +1,6 @@
 ---
 title: indonesia
 crosslinks:
-- autotldr
 - IndoFinance
 - place
 - malaysia

@@ -1,5 +1,0 @@
----
-title: TalesFromTheMortuary
-crosslinks:
-- autotldr
----

@@ -3,7 +3,6 @@ title: thereifixedit
 crosslinks:
 - techsupportmacgyver
 - drivermacgyver
-- livven
 - Wellthatsucks
 - shittydiy
 - electricians

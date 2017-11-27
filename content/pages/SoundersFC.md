@@ -6,7 +6,6 @@ crosslinks:
 - Seattle
 - Seahawks
 - Mariners
-- livven
 - whitecapsfc
 - ripcity
 - suspiciousquotes

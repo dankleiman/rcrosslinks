@@ -5,6 +5,5 @@ crosslinks:
 - Coldplay
 - radiohead
 - Soundgarden
-- livven
 - gatekeeping
 ---

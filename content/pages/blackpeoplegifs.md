@@ -1,7 +1,6 @@
 ---
 title: blackpeoplegifs
 crosslinks:
-- livven
 - reactiongifs
 - AskReddit
 - whitepeoplegifs

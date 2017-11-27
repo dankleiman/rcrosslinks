@@ -1,5 +1,0 @@
----
-title: latinos
-crosslinks:
-- autotldr
----

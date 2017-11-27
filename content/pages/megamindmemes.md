@@ -1,5 +1,0 @@
----
-title: megamindmemes
-crosslinks:
-- livven
----

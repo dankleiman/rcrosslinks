@@ -2,7 +2,6 @@
 title: wow
 crosslinks:
 - wowmods
-- livven
 - woweconomy
 - wowguilds
 - Transmogrification

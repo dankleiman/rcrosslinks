@@ -2,7 +2,6 @@
 title: Shadowverse
 crosslinks:
 - hearthstone
-- livven
 - iPad
 - Vania
 - Pixiv

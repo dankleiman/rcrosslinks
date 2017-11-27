@@ -1,7 +1,6 @@
 ---
 title: MedicareForAll
 crosslinks:
-- autotldr
 - SandersForPresident
 - BetoORourke
 - Political_Revolution

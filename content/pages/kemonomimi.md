@@ -4,7 +4,6 @@ crosslinks:
 - awwnime
 - awoo
 - oddeye
-- livven
 - Pixiv
 - onetrueidol
 - cutelittlefangs

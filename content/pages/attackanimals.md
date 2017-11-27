@@ -1,5 +1,0 @@
----
-title: attackanimals
-crosslinks:
-- livven
----

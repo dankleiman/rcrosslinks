@@ -1,5 +1,0 @@
----
-title: SickGames
-crosslinks:
-- autotldr
----

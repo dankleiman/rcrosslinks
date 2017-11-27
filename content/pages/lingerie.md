@@ -4,7 +4,6 @@ crosslinks:
 - stocking_paradise
 - NaughtyDressGirls
 - LingerieAddiction
-- livven
 - whitelingerie
 - cameltoe
 - NekoIRL

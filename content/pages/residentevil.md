@@ -1,7 +1,6 @@
 ---
 title: residentevil
 crosslinks:
-- livven
 - gaming
 - metalgearsolid
 - silenthill

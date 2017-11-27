@@ -1,5 +1,0 @@
----
-title: kevinspacey
-crosslinks:
-- livven
----

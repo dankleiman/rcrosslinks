@@ -1,7 +1,6 @@
 ---
 title: shinypants
 crosslinks:
-- livven
 - ShinyPorn
 - LucyCat
 - lynnchu

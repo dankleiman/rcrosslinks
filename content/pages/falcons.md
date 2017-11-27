@@ -2,7 +2,6 @@
 title: falcons
 crosslinks:
 - nfl
-- livven
 - Patriots
 - detroitlions
 - Atlanta

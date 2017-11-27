@@ -1,5 +1,0 @@
----
-title: MyLifeIsBoring
-crosslinks:
-- livven
----

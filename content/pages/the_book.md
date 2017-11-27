@@ -6,5 +6,4 @@ crosslinks:
 - AskThe_Donald
 - The_GreatMemeWar
 - RedditAlternatives
-- autotldr
 ---

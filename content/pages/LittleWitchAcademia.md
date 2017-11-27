@@ -3,7 +3,6 @@ title: LittleWitchAcademia
 crosslinks:
 - LilWitchSpankademia
 - Akkordian
-- livven
 - anime
 - KillLaKill
 - AnimalCrossing

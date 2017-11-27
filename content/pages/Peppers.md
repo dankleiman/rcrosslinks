@@ -1,5 +1,0 @@
----
-title: Peppers
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: thesearemyshitposts
-crosslinks:
-- livven
----

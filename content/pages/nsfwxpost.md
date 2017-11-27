@@ -1,5 +1,0 @@
----
-title: nsfwxpost
-crosslinks:
-- livven
----

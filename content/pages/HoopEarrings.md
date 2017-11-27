@@ -1,5 +1,0 @@
----
-title: HoopEarrings
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: kurdishcivilwar
-crosslinks:
-- autotldr
----

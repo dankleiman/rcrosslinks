@@ -1,5 +1,0 @@
----
-title: batterypowered
-crosslinks:
-- autotldr
----

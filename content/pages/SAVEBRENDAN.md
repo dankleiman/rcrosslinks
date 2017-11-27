@@ -1,8 +1,6 @@
 ---
 title: SAVEBRENDAN
 crosslinks:
-- livven
-- autotldr
 - CringeAnarchy
 - movies
 - Drama

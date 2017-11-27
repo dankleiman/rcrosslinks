@@ -1,5 +1,0 @@
----
-title: microkernel
-crosslinks:
-- autotldr
----

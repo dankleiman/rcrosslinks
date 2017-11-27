@@ -2,7 +2,6 @@
 title: AndroidMasterRace
 crosslinks:
 - androidcirclejerk
-- livven
 - Android
 - applecirclejerk
 - linuxmasterrace
@@ -10,7 +9,6 @@ crosslinks:
 - androidthemes
 - sirifails
 - AndroidGaming
-- autotldr
 - lifehacks
 - LateStageCapitalism
 - xkcd

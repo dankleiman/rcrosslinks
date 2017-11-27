@@ -2,7 +2,6 @@
 title: KendrickLamar
 crosslinks:
 - Kanye
-- livven
 - hiphopheads
 - FrankOcean
 - hhh
@@ -11,7 +10,6 @@ crosslinks:
 - HipHopImages
 - Coachella
 - leakthreads
-- autotldr
 - Eminem
 - lewronggeneration
 - music_survivor

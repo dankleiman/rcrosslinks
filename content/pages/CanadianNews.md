@@ -1,5 +1,0 @@
----
-title: CanadianNews
-crosslinks:
-- autotldr
----

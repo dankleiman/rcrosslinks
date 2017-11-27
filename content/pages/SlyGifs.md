@@ -1,7 +1,6 @@
 ---
 title: SlyGifs
 crosslinks:
-- livven
 - gifs
 - sports
 - BetterEveryLoop

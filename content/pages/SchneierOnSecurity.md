@@ -1,5 +1,0 @@
----
-title: SchneierOnSecurity
-crosslinks:
-- autotldr
----

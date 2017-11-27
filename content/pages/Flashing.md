@@ -1,5 +1,0 @@
----
-title: Flashing
-crosslinks:
-- livven
----

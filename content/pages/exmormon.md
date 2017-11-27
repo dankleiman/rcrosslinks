@@ -7,7 +7,6 @@ crosslinks:
 - atheism
 - latterdaysaints
 - xkcd
-- autotldr
 - MormonismKillsLove
 - exjw
 - ExitStories

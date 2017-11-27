@@ -1,5 +1,0 @@
----
-title: Tanner
-crosslinks:
-- livven
----

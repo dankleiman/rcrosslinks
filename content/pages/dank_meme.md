@@ -4,7 +4,6 @@ crosslinks:
 - i_irl
 - dankmemes
 - REEEEEEEEEE
-- livven
 - ComedyCemetery
 - BrasilOnReddit
 - finlandConspiracy

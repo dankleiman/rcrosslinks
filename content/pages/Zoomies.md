@@ -1,7 +1,6 @@
 ---
 title: Zoomies
 crosslinks:
-- livven
 - Pigifs
 - aww
 - exmormon

@@ -12,8 +12,6 @@ crosslinks:
 - Cartalk
 - askcarsales
 - RX7
-- livven
-- autotldr
 - InCarAwesome
 - explainlikeimfive
 - kenm

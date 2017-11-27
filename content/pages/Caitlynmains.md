@@ -4,7 +4,6 @@ crosslinks:
 - summonerschool
 - leagueoflegends
 - IreliaMains
-- livven
 - ahritime
 - DravenMains
 ---

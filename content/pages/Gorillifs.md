@@ -1,5 +1,0 @@
----
-title: Gorillifs
-crosslinks:
-- livven
----

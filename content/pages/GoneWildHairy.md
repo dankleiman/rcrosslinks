@@ -1,7 +1,6 @@
 ---
 title: GoneWildHairy
 crosslinks:
-- livven
 - angelinacourtney
 - AvalynJade
 - FrancescaOcean

@@ -2,7 +2,6 @@
 title: rs2vietnam
 crosslinks:
 - redorchestra
-- livven
 - CallOfDuty
 - GameDeals
 - AsABlackMan

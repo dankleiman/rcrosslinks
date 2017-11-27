@@ -1,5 +1,0 @@
----
-title: AryanSkynet
-crosslinks:
-- autotldr
----

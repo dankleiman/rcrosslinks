@@ -1,7 +1,6 @@
 ---
 title: BeamNG
 crosslinks:
-- livven
 - titlegore
 - modnews
 - CoolGamesInc

@@ -12,7 +12,6 @@ crosslinks:
 - NeutralPolitics
 - ConservativeLounge
 - KasichForPresident
-- autotldr
 - AskTrumpSupporters
 - Oppression
 - ShitPoliticsSays

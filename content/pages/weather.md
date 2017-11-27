@@ -1,8 +1,6 @@
 ---
 title: weather
 crosslinks:
-- autotldr
-- livven
 - TropicalWeather
 - woahdude
 - xkcd

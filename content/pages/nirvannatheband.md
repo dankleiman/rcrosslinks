@@ -1,5 +1,0 @@
----
-title: nirvannatheband
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: torontoraptors
 crosslinks:
 - raptorscirclejerk
-- livven
 - MkeBucks
 - BrasilOnReddit
 - NYKnicks

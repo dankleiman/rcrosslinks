@@ -1,7 +1,6 @@
 ---
 title: Waifu
 crosslinks:
-- livven
 - waifuism
 - WaifuDiscussion
 - japancirclejerk

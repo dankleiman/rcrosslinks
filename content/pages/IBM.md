@@ -1,7 +1,6 @@
 ---
 title: IBM
 crosslinks:
-- autotldr
 - newIBM
 - mainframe
 - Pyongyang

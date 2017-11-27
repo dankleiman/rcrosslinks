@@ -4,7 +4,6 @@ crosslinks:
 - IAmA
 - MonsterHunter
 - xkcd
-- livven
 - modnews
 - themes
 - linux_gaming

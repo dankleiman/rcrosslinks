@@ -5,7 +5,6 @@ crosslinks:
 - europe
 - xkcd
 - MapPorn
-- livven
 - Laos_map
 - australia
 - etymologymaps

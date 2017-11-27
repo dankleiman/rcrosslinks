@@ -1,5 +1,0 @@
----
-title: softscience
-crosslinks:
-- autotldr
----

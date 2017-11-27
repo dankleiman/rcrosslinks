@@ -2,7 +2,6 @@
 title: TheLastAirbender
 crosslinks:
 - LakeLaogai
-- livven
 - RemasteringATLA
 - BendingWallpapers
 - xkcd
@@ -20,5 +19,4 @@ crosslinks:
 - Unity3D
 - TVDetails
 - MovieDetails
-- autotldr
 ---

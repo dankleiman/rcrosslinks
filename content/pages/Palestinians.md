@@ -1,5 +1,0 @@
----
-title: Palestinians
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: OldManDog
 crosslinks:
 - aww
-- livven
 - DisneyEyes
 - MasterReturns
 - unexpectedfactorial

@@ -1,7 +1,6 @@
 ---
 title: redpandas
 crosslinks:
-- livven
 - reallifedoodles
 - RedPandasStandingUp
 - Blup

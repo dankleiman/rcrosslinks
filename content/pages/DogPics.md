@@ -1,5 +1,0 @@
----
-title: DogPics
-crosslinks:
-- livven
----

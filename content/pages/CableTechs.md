@@ -1,5 +1,0 @@
----
-title: CableTechs
-crosslinks:
-- autotldr
----

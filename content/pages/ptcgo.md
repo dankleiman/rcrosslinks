@@ -4,7 +4,6 @@ crosslinks:
 - pkmntcg
 - poketcgonlinetrading
 - pkmntcgtrades
-- livven
 - AskReddit
 - PkmnTCGCardConcepts
 - PokemonTCG

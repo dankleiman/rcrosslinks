@@ -1,7 +1,6 @@
 ---
 title: whitepeoplegifs
 crosslinks:
-- livven
 - gifs
 - ShitRedditSays
 - funny

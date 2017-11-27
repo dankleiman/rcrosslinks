@@ -1,7 +1,6 @@
 ---
 title: FreeKarmas
 crosslinks:
-- livven
 - FreeKarma4U
 - FreeKarma4You
 - FashionReps

@@ -1,5 +1,0 @@
----
-title: LoganGoneWild
-crosslinks:
-- livven
----

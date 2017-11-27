@@ -1,5 +1,0 @@
----
-title: corgis
-crosslinks:
-- livven
----

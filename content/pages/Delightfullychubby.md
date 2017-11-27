@@ -1,7 +1,6 @@
 ---
 title: Delightfullychubby
 crosslinks:
-- livven
 - Catloaf
 - aww
 - sploot

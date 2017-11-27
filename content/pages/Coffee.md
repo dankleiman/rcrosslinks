@@ -1,12 +1,10 @@
 ---
 title: Coffee
 crosslinks:
-- livven
 - xkcd
 - roasting
 - AskReddit
 - coffeestations
-- autotldr
 - explainlikeimfive
 - trees
 - fountainpens

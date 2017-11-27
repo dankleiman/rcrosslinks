@@ -6,7 +6,6 @@ crosslinks:
 - interestingasfuck
 - funny
 - videos
-- autotldr
 - mildlyinteresting
 - aww
 - nevertellmetheodds

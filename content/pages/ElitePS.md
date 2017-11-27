@@ -11,7 +11,6 @@ crosslinks:
 - FuelRats
 - EliteHudson
 - EliteWings
-- livven
 - eliteoutfitters
 - NoMansSkyTheGame
 - 3Dprinting

@@ -1,7 +1,6 @@
 ---
 title: TuxedoCats
 crosslinks:
-- livven
 - curledfeetsies
 - teefies
 - Flamepoints

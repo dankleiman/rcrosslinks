@@ -11,5 +11,4 @@ crosslinks:
 - iamverysmart
 - cscareerquestions
 - dankmemes
-- autotldr
 ---

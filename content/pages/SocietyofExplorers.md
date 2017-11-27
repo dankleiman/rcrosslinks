@@ -1,5 +1,0 @@
----
-title: SocietyofExplorers
-crosslinks:
-- autotldr
----

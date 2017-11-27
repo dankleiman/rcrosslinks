@@ -2,7 +2,6 @@
 title: PedoGate
 crosslinks:
 - conspiracy
-- autotldr
 - The_Donald
 - TopMindsOfReddit
 - CoincidenceTheorist

@@ -15,7 +15,6 @@ crosslinks:
 - hockey
 - shorthairedwaifus
 - LewdLive
-- livven
 - SakurauchiRiko
 - AnimeProduction
 - awwnime

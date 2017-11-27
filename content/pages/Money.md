@@ -2,7 +2,6 @@
 title: Money
 crosslinks:
 - personalfinance
-- autotldr
 - Assistance
 - OutOfTheLoop
 - poor

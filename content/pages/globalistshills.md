@@ -3,7 +3,6 @@ title: globalistshills
 crosslinks:
 - Economics
 - AskEconomics
-- autotldr
 - The_Donald
 - PoliticalDiscussion
 - Trumpgret

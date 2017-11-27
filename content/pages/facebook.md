@@ -1,7 +1,6 @@
 ---
 title: facebook
 crosslinks:
-- autotldr
 - Android
 - BadMensAnatomy
 - nocontext

@@ -3,7 +3,6 @@ title: MCPE
 crosslinks:
 - Minecraft
 - minecraftsuggestions
-- livven
 - MCPEMultiplayer
 - windowsphone
 - me_irl

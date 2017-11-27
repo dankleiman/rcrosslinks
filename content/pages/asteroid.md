@@ -1,5 +1,0 @@
----
-title: asteroid
-crosslinks:
-- autotldr
----

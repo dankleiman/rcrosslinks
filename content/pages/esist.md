@@ -2,7 +2,6 @@
 title: esist
 crosslinks:
 - politics
-- autotldr
 - EnoughTrumpSpam
 - NeutralPolitics
 - conspiracy

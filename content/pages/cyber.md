@@ -1,7 +1,6 @@
 ---
 title: cyber
 crosslinks:
-- autotldr
 - europe
 - TechWar
 - privacy

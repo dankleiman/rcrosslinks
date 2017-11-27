@@ -2,7 +2,6 @@
 title: polyamory
 crosslinks:
 - nonmonogamy
-- livven
 - herpes
 - Swingers
 - Drama

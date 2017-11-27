@@ -1,5 +1,0 @@
----
-title: trampimals
-crosslinks:
-- livven
----

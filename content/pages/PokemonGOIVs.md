@@ -6,7 +6,6 @@ crosslinks:
 - GoIV
 - pokemongodev
 - PokemonGOToronto
-- livven
 - pokemongocirclejerk
 - pokedesk
 - '923'

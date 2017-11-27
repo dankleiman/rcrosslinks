@@ -1,7 +1,6 @@
 ---
 title: happycowgifs
 crosslinks:
-- livven
 - aww
 - likeus
 - Pigifs

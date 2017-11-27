@@ -2,7 +2,6 @@
 title: EngineeringStudents
 crosslinks:
 - xkcd
-- livven
 - AskEngineers
 - engineering
 - AskReddit
@@ -14,7 +13,6 @@ crosslinks:
 - civilengineering
 - chanceme
 - linuxmasterrace
-- autotldr
 - excel
 - EatCheapAndHealthy
 - Skookum

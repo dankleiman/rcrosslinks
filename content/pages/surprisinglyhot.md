@@ -1,5 +1,0 @@
----
-title: surprisinglyhot
-crosslinks:
-- livven
----

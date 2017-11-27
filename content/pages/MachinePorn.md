@@ -2,7 +2,6 @@
 title: MachinePorn
 crosslinks:
 - PornOverlords
-- livven
 - aviation
 - specializedtools
 - engineteststands

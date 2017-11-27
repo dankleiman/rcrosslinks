@@ -1,7 +1,6 @@
 ---
 title: ImpracticalJokers
 crosslinks:
-- livven
 - tesdcares
 - BestOfReports
 - OutOfTheLoop

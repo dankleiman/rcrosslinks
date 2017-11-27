@@ -1,7 +1,6 @@
 ---
 title: bigboye
 crosslinks:
-- livven
 - aww
 - likeus
 - gifs

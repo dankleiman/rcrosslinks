@@ -1,5 +1,0 @@
----
-title: ForTheMany
-crosslinks:
-- autotldr
----

@@ -4,7 +4,6 @@ crosslinks:
 - Pixiv
 - Palpz
 - wholesomeyuri
-- livven
 - shoujoai
 - shrinkingwomen
 - pharmercy

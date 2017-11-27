@@ -1,5 +1,0 @@
----
-title: QuadruplePenetration
-crosslinks:
-- livven
----

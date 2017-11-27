@@ -8,7 +8,6 @@ crosslinks:
 - 4PanelCringe
 - THE_PACK
 - deepfriedwholesomemes
-- livven
 - ReallyWackyTicTacs
 - deepfriedsurrealmemes
 - me_irl

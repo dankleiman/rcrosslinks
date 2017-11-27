@@ -1,5 +1,0 @@
----
-title: shutupandsitdown
-crosslinks:
-- livven
----

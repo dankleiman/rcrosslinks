@@ -1,7 +1,6 @@
 ---
 title: redhead
 crosslinks:
-- livven
 - Gingerpuss
 - natalielust
 - PlayMe

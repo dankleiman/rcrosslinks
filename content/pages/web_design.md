@@ -2,7 +2,6 @@
 title: web_design
 crosslinks:
 - xkcd
-- autotldr
 - graphic_design
 - programming
 - explainlikeimfive
@@ -10,7 +9,6 @@ crosslinks:
 - Wordpress
 - css
 - pics
-- livven
 - Entrepreneur
 - userexperience
 - PHP

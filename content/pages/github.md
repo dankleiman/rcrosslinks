@@ -9,6 +9,5 @@ crosslinks:
 - xkcd
 - firefox
 - artificial
-- autotldr
 - aws
 ---

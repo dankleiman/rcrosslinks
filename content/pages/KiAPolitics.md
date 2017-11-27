@@ -1,5 +1,0 @@
----
-title: KiAPolitics
-crosslinks:
-- autotldr
----

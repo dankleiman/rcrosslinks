@@ -1,9 +1,7 @@
 ---
 title: zombies
 crosslinks:
-- autotldr
 - audiodrama
-- livven
 - Rainmeter
 - HorrorMovies
 - RadioTransmissions

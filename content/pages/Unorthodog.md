@@ -1,7 +1,6 @@
 ---
 title: Unorthodog
 crosslinks:
-- livven
 - funny
 - AgainstKarmaWhores
 - mlem

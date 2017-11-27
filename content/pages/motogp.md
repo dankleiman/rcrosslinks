@@ -1,7 +1,6 @@
 ---
 title: motogp
 crosslinks:
-- livven
 - motorcycles
 - formula1
 - Cinemagraphs

@@ -13,7 +13,6 @@ crosslinks:
 - DHExchange
 - OSMC
 - Kodivpn
-- autotldr
 - explainlikeimfive
 - networking
 - addons4kodi

@@ -1,7 +1,6 @@
 ---
 title: IdiotsFightingThings
 crosslinks:
-- livven
 - WhyWereTheyFilming
 - videos
 - Whatcouldgowrong

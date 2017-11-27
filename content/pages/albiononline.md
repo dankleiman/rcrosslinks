@@ -2,7 +2,6 @@
 title: albiononline
 crosslinks:
 - MMORPG
-- livven
 - REEEEEEEEEE
 - Eve
 - playrust

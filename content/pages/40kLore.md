@@ -8,7 +8,6 @@ crosslinks:
 - 40kOrkScience
 - whowouldwin
 - respectthreads
-- livven
 - AskScienceFiction
 - Drama
 - xkcd

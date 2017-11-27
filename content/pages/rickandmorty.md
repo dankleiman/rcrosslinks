@@ -2,14 +2,12 @@
 title: rickandmorty
 crosslinks:
 - IAmA
-- livven
 - SzechuanSauceSeekers
 - shitpost
 - xkcd
 - videos
 - c137
 - AskReddit
-- autotldr
 - HailCorporate
 - FuckTammy
 - rickandmorty_C137

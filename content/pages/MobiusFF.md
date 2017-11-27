@@ -1,7 +1,6 @@
 ---
 title: MobiusFF
 crosslinks:
-- livven
 - FFRecordKeeper
 - xkcd
 - FFBraveExvius

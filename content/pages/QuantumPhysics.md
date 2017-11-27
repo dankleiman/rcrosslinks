@@ -1,5 +1,0 @@
----
-title: QuantumPhysics
-crosslinks:
-- autotldr
----

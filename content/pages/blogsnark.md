@@ -11,7 +11,6 @@ crosslinks:
 - politics
 - getdisciplined
 - loseit
-- autotldr
 - exmormon
 - Drama
 - xxfitness

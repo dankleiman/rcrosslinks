@@ -1,5 +1,0 @@
----
-title: Yendis
-crosslinks:
-- livven
----

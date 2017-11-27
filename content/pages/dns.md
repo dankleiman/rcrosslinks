@@ -1,5 +1,0 @@
----
-title: dns
-crosslinks:
-- autotldr
----

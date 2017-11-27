@@ -1,5 +1,0 @@
----
-title: GreenEnergy
-crosslinks:
-- autotldr
----

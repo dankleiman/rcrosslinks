@@ -6,7 +6,6 @@ crosslinks:
 - jilling
 - Exxxtras
 - WatchItForThePlot
-- livven
 - todayilearned
 - '2013'
 - shitpost

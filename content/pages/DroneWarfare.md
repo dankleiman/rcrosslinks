@@ -1,5 +1,0 @@
----
-title: DroneWarfare
-crosslinks:
-- autotldr
----

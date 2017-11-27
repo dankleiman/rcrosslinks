@@ -19,6 +19,5 @@ crosslinks:
 - ShittyMapPorn
 - CrappyDesign
 - mapporncirclejerk
-- livven
 - mapswithNZ
 ---

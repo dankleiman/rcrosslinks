@@ -1,7 +1,6 @@
 ---
 title: hackernews
 crosslinks:
-- autotldr
 - Parkinsons
 - datascience
 - Hewlett_Packard

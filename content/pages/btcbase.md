@@ -1,5 +1,0 @@
----
-title: btcbase
-crosslinks:
-- autotldr
----

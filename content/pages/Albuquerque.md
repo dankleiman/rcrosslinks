@@ -2,7 +2,6 @@
 title: Albuquerque
 crosslinks:
 - AskReddit
-- livven
 - IAmA
 - hardwareswap
 - 505Nerds

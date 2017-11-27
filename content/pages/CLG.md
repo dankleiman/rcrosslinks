@@ -15,7 +15,6 @@ crosslinks:
 - LoLeventVoDs
 - funny
 - legaladvice
-- livven
 - mylittlepony
 - Humanity
 - nonononoyes

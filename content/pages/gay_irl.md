@@ -1,7 +1,6 @@
 ---
 title: gay_irl
 crosslinks:
-- livven
 - furry_irl
 - teenagers
 - AnimalsBeingJerks

@@ -1,5 +1,0 @@
----
-title: BernieSandersVetting
-crosslinks:
-- autotldr
----

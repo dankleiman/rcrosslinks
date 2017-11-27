@@ -1,7 +1,6 @@
 ---
 title: Overwatchmemes
 crosslinks:
-- livven
 - OverwatchCirclejerk
 - DeepFriedMemes
 - Overwatch_Memes

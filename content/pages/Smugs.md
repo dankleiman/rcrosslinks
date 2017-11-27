@@ -1,7 +1,6 @@
 ---
 title: Smugs
 crosslinks:
-- livven
 - smuganimegirls
 - animenocontext
 - awwnime

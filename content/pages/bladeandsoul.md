@@ -1,7 +1,6 @@
 ---
 title: bladeandsoul
 crosslinks:
-- livven
 - BladeAndSoulMods
 - NationalSocialism
 - LivestreamFail

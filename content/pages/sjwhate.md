@@ -2,7 +2,6 @@
 title: sjwhate
 crosslinks:
 - The_Donald
-- livven
 - philosophy
 - news
 - FuckAMotherfucker

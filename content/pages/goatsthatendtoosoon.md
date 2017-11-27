@@ -1,5 +1,0 @@
----
-title: goatsthatendtoosoon
-crosslinks:
-- livven
----

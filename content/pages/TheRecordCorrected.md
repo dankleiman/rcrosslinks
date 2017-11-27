@@ -2,7 +2,6 @@
 title: TheRecordCorrected
 crosslinks:
 - politics
-- autotldr
 - shills
 - xkcd
 - pol

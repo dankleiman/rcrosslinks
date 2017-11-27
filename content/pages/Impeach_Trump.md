@@ -4,7 +4,6 @@ crosslinks:
 - help
 - The_Donald
 - politics
-- autotldr
 - EnoughTrumpSpam
 - esist
 - JonTron

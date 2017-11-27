@@ -1,5 +1,0 @@
----
-title: TitSlapping
-crosslinks:
-- livven
----

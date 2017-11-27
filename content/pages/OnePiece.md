@@ -2,7 +2,6 @@
 title: OnePiece
 crosslinks:
 - one_piece
-- livven
 - OnePieceCircleJerk
 - manga
 - anime

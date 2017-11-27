@@ -3,7 +3,6 @@ title: shittyfoodporn
 crosslinks:
 - food
 - WeWantPlates
-- livven
 - FoodPorn
 - mildlyinteresting
 - ketchuphate

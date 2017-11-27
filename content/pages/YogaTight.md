@@ -1,5 +1,0 @@
----
-title: YogaTight
-crosslinks:
-- livven
----

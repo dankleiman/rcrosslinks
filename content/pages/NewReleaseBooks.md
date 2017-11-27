@@ -1,5 +1,0 @@
----
-title: NewReleaseBooks
-crosslinks:
-- autotldr
----

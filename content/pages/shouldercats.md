@@ -1,7 +1,6 @@
 ---
 title: shouldercats
 crosslinks:
-- livven
 - aww
 - cats
 - gifs

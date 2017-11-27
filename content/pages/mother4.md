@@ -1,7 +1,6 @@
 ---
 title: mother4
 crosslinks:
-- livven
 - BravestWarriors
 - JonTron
 - homestuck

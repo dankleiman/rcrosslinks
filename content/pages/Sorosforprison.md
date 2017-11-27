@@ -1,7 +1,6 @@
 ---
 title: Sorosforprison
 crosslinks:
-- autotldr
 - The_Donald
 - conspiracy
 - pol

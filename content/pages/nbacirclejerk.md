@@ -1,7 +1,6 @@
 ---
 title: nbacirclejerk
 crosslinks:
-- livven
 - pavers
 - Pay_Respects
 - rockets

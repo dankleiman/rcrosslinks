@@ -2,7 +2,6 @@
 title: Stims
 crosslinks:
 - Drugs
-- livven
 - Nootropics
 - researchchemicals
 - DarkNetMarkets
@@ -15,7 +14,6 @@ crosslinks:
 - RCSources
 - RCVendors
 - kratom
-- autotldr
 - trashy
 - steroids
 - selffuck

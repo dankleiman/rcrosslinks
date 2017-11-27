@@ -7,7 +7,6 @@ crosslinks:
 - ffxi
 - FFRecordKeeper
 - FinalFantasyXII
-- livven
 - france
 - Gamingcirclejerk
 - KingdomHearts

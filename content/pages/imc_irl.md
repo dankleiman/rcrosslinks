@@ -2,7 +2,6 @@
 title: imc_irl
 crosslinks:
 - titanfall
-- livven
 - DeepFriedMemes
 - Titanporn
 - Xcom

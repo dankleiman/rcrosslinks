@@ -1,5 +1,0 @@
----
-title: SteelFighting
-crosslinks:
-- livven
----

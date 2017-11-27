@@ -1,7 +1,6 @@
 ---
 title: DFO
 crosslinks:
-- livven
 - RedditAlternatives
 - truegaming
 - LifeProTips

@@ -1,5 +1,0 @@
----
-title: BitcoinDE
-crosslinks:
-- autotldr
----

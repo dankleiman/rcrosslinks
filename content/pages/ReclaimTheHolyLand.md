@@ -10,7 +10,6 @@ crosslinks:
 - ledootgeneration
 - forhonor
 - CKCrusaders
-- livven
 - 2007scape
 - darkestdungeon
 - redditlogos

@@ -2,13 +2,11 @@
 title: ReverseEngineering
 crosslinks:
 - Malware
-- autotldr
 - TOR
 - delphi
 - netsec
 - thrashmetal
 - programming
-- livven
 - REGames
 - rust
 - Serendipity

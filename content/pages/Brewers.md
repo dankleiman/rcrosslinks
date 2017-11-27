@@ -2,7 +2,6 @@
 title: Brewers
 crosslinks:
 - nfl
-- livven
 - '2013'
 - reddit_stream
 - Dodgers

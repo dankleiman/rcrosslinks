@@ -2,7 +2,6 @@
 title: MonsterGirl
 crosslinks:
 - Pixiv
-- livven
 - Rule34FMK
 - MonsterSex
 - visualnovels

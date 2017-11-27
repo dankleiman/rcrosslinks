@@ -13,6 +13,5 @@ crosslinks:
 - announcements
 - samuraijack
 - incremental_games
-- livven
 - Serendipity
 ---

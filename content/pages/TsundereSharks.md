@@ -4,7 +4,6 @@ crosslinks:
 - place
 - ziaplace
 - PartyParrot
-- livven
 - Art
 - furry_irl
 - pics

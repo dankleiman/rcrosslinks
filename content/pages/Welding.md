@@ -1,7 +1,6 @@
 ---
 title: Welding
 crosslinks:
-- livven
 - spam
 - Skookum
 - WTF

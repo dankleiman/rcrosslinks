@@ -1,7 +1,6 @@
 ---
 title: BatesMotel
 crosslinks:
-- autotldr
 - Catholicism
 - hail
 - shitpost

@@ -2,7 +2,6 @@
 title: marchingband
 crosslinks:
 - drumcorps
-- livven
 - explainlikeimfive
 - AMAAggregator
 - OutOfTheLoop

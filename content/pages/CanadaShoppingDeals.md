@@ -1,5 +1,0 @@
----
-title: CanadaShoppingDeals
-crosslinks:
-- livven
----

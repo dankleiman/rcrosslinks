@@ -10,7 +10,6 @@ crosslinks:
 - videos
 - newreddits
 - vids
-- autotldr
 - thisisourmusic
 - DOLV_Oasis
 - CringeAnarchy

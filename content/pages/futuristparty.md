@@ -1,7 +1,6 @@
 ---
 title: futuristparty
 crosslinks:
-- autotldr
 - quotes
 - transhumanism
 - unpopularopinion

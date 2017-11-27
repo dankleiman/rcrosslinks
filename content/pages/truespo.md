@@ -1,5 +1,0 @@
----
-title: truespo
-crosslinks:
-- livven
----

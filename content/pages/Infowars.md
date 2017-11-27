@@ -2,9 +2,7 @@
 title: Infowars
 crosslinks:
 - Drama
-- autotldr
 - The_Donald
-- livven
 - JRE
 - Screenwriting
 - CoincidenceTheorist

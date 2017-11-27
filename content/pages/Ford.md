@@ -2,7 +2,6 @@
 title: Ford
 crosslinks:
 - ClassicFord
-- autotldr
 - teslamotors
 - AutoDetailing
 - FordFocus

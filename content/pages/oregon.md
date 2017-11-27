@@ -1,7 +1,6 @@
 ---
 title: oregon
 crosslinks:
-- autotldr
 - Portland
 - Eugene
 - corvallis

@@ -10,7 +10,6 @@ crosslinks:
 - videos
 - politics
 - gifs
-- livven
 - IAmA
 - todayilearned
 - worldnews

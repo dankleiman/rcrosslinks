@@ -4,5 +4,4 @@ crosslinks:
 - soylent
 - jimmyjoy
 - tech
-- autotldr
 ---

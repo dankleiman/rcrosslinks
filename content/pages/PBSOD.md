@@ -14,7 +14,6 @@ crosslinks:
 - sanfrancisco
 - AyyyMD
 - Windows10
-- livven
 - itsaunixsystem
 - ooerintensifies
 - lego

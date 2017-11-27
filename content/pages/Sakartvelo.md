@@ -4,7 +4,6 @@ crosslinks:
 - armenia
 - Kavkaz
 - europe
-- autotldr
 - indonesia
 - ANormalDayInRussia
 - EarthPorn

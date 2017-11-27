@@ -3,7 +3,6 @@ title: CalPoly
 crosslinks:
 - CalPolyPomona
 - SLO
-- autotldr
 - chemhelp
 - SuicideWatch
 - cheatatmathhomework

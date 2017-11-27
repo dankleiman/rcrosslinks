@@ -10,7 +10,6 @@ crosslinks:
 - asoiaf
 - movies
 - gameofthrones
-- livven
 - Cricket
 - philosophy
 - AMAAggregator

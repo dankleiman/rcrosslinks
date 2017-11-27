@@ -1,5 +1,0 @@
----
-title: beinglibertarian
-crosslinks:
-- autotldr
----

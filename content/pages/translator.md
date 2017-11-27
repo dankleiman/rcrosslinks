@@ -1,7 +1,6 @@
 ---
 title: translator
 crosslinks:
-- translatorBOT
 - Kurrent
 - ChineseLanguage
 - whatisthisthing

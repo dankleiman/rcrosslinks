@@ -3,7 +3,6 @@ title: MtvChallenge
 crosslinks:
 - MtvStranded
 - survivor
-- livven
 - AreYouTheOne
 - ChallengePics
 - metric_units

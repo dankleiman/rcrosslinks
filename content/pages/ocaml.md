@@ -6,5 +6,4 @@ crosslinks:
 - haskell
 - agda
 - fstar
-- autotldr
 ---

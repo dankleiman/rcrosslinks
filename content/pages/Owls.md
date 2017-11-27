@@ -1,7 +1,6 @@
 ---
 title: Owls
 crosslinks:
-- livven
 - pics
 - animalssmiling
 - natureismental

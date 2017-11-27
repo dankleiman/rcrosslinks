@@ -1,5 +1,0 @@
----
-title: ANSAauto
-crosslinks:
-- autotldr
----

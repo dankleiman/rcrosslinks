@@ -8,7 +8,6 @@ crosslinks:
 - AskMe
 - gamedev
 - SampleSize
-- autotldr
 - ReverseEngineering
 - JRPG
 - restofthefuckingowl

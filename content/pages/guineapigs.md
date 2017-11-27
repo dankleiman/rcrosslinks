@@ -1,7 +1,6 @@
 ---
 title: guineapigs
 crosslinks:
-- livven
 - cavycirclejerk
 - leagueoflegends
 - G502MasterRace

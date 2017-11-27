@@ -1,5 +1,0 @@
----
-title: TheMiddleNewsNetwork
-crosslinks:
-- autotldr
----

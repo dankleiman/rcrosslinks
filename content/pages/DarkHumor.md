@@ -2,13 +2,11 @@
 title: DarkHumor
 crosslinks:
 - Jokes
-- autotldr
 - Punny
 - jesuschristreddit
 - BestOfReports
 - BrasilOnReddit
 - excgarated
-- livven
 - phonewallpapers
 - ImGoingToHellForThis
 - xkcd

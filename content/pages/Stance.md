@@ -3,7 +3,6 @@ title: Stance
 crosslinks:
 - Serendipity
 - Volkswagen
-- livven
 - outrun
 - funny
 - offroad

@@ -1,7 +1,6 @@
 ---
 title: chemicalreactiongifs
 crosslinks:
-- livven
 - xkcd
 - gifs
 - physicsgifs

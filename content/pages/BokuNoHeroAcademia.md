@@ -9,7 +9,6 @@ crosslinks:
 - BnHASmashTap
 - Naruto
 - manga
-- livven
 - OnePiece
 - HunterXHunter
 - anime_irl

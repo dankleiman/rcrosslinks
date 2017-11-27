@@ -10,7 +10,6 @@ crosslinks:
 - lepin
 - titlegore
 - legodeals
-- livven
 - www
 - StarWars
 - legodeal

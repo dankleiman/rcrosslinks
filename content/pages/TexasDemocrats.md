@@ -1,5 +1,0 @@
----
-title: TexasDemocrats
-crosslinks:
-- autotldr
----

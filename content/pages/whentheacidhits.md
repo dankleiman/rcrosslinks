@@ -1,5 +1,0 @@
----
-title: whentheacidhits
-crosslinks:
-- livven
----

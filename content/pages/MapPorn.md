@@ -7,7 +7,6 @@ crosslinks:
 - AskHistorians
 - ShittyMapPorn
 - imaginarymaps
-- livven
 - dutchshitonreddit
 - mapporncirclejerk
 - papertowns

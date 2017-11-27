@@ -4,7 +4,6 @@ crosslinks:
 - spacex
 - askscience
 - astrophotography
-- livven
 - IAmA
 - pics
 - Astronomy

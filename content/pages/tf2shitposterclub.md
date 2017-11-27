@@ -8,7 +8,6 @@ crosslinks:
 - playtf2
 - civ
 - HealSluts
-- livven
 - forsen
 - ComedyNecrophilia
 - CringeAnarchy

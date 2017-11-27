@@ -2,7 +2,6 @@
 title: Wrangler
 crosslinks:
 - Jeep
-- livven
 - SuicideBereavement
 - JeepDIY
 - heep

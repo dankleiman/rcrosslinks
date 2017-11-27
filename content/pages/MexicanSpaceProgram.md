@@ -9,6 +9,5 @@ crosslinks:
 - fatpeoplestories
 - drunk
 - RoastMe
-- autotldr
 - LosAngeles
 ---

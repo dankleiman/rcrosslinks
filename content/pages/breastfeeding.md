@@ -1,8 +1,6 @@
 ---
 title: breastfeeding
 crosslinks:
-- autotldr
-- livven
 - keto
 - JUSTNOMIL
 - moderatelygranolamoms

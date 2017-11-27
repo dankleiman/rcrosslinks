@@ -4,7 +4,6 @@ crosslinks:
 - Dell
 - pcmasterrace
 - ChromaProfiles
-- livven
 - gamingpc
 - microsoft
 - Surface
@@ -16,7 +15,6 @@ crosslinks:
 - PSVRHack
 - Twitch
 - MouseReview
-- autotldr
 - Battletops
 - mechmarket
 - RocketLeague

@@ -3,8 +3,6 @@ title: 13ReasonsWhy
 crosslinks:
 - SuicideWatch
 - science
-- livven
-- autotldr
 - arrow
 - 2meirl4meirl
 - television

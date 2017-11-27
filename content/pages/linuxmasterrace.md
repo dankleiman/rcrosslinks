@@ -11,7 +11,6 @@ crosslinks:
 - archlinux
 - linux_cucks
 - ProgrammerHumor
-- autotldr
 - Windows10
 - LinuxCirclejerk
 - techsupport

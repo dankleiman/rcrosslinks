@@ -1,7 +1,6 @@
 ---
 title: immigration
 crosslinks:
-- autotldr
 - IWantOut
 - legaladvice
 - USCIS

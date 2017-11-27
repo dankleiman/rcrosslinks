@@ -1,5 +1,0 @@
----
-title: CHINADAILYauto
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: CanadaTalksPolitics
-crosslinks:
-- autotldr
----

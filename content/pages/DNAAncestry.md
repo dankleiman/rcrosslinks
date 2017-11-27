@@ -1,5 +1,0 @@
----
-title: DNAAncestry
-crosslinks:
-- autotldr
----

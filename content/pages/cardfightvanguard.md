@@ -5,7 +5,6 @@ crosslinks:
 - yugioh
 - cardfight_hentai
 - ThreadKillers
-- livven
 - CFV
 - AMAAggregator
 - darksouls3

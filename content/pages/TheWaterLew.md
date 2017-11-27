@@ -2,7 +2,6 @@
 title: TheWaterLew
 crosslinks:
 - dankmemes
-- livven
 - surrealmemes
 - DeepFriedMemes
 - ERRC

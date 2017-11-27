@@ -1,7 +1,6 @@
 ---
 title: TheMajorityReport
 crosslinks:
-- autotldr
 - ireland
 - The_Donald
 - the

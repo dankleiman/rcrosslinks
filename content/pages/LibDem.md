@@ -2,7 +2,6 @@
 title: LibDem
 crosslinks:
 - ukpolitics
-- autotldr
 - unitedkingdom
 - CoopUK
 - BrexitActivism

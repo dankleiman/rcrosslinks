@@ -1,5 +1,0 @@
----
-title: forensicanthropology
-crosslinks:
-- autotldr
----

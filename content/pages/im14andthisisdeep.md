@@ -10,7 +10,6 @@ crosslinks:
 - niceguys
 - pics
 - GetMotivated
-- livven
 - ThatsHowThingsWork
 - DeepFriedMemes
 - Showerthoughts

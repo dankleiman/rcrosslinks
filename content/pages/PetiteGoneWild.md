@@ -1,7 +1,6 @@
 ---
 title: PetiteGoneWild
 crosslinks:
-- livven
 - funsizedasian
 - Dollywinks
 - gonewild

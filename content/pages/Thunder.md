@@ -3,7 +3,6 @@ title: Thunder
 crosslinks:
 - rockets
 - warriors
-- livven
 - UtahJazz
 - Rocket
 - pacers
@@ -13,6 +12,5 @@ crosslinks:
 - clevelandcavs
 - NBA2k
 - LAClippers
-- autotldr
 - AskReddit
 ---

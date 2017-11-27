@@ -15,7 +15,6 @@ crosslinks:
 - silentcinema
 - CriterionMemes
 - csshelp
-- autotldr
 - MoviePosterPorn
 - gatekeeping
 - rpg

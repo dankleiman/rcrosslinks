@@ -1,7 +1,6 @@
 ---
 title: nope
 crosslinks:
-- livven
 - WTF
 - funny
 - videos

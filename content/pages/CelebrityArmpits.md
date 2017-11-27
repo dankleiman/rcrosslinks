@@ -1,7 +1,6 @@
 ---
 title: CelebrityArmpits
 crosslinks:
-- livven
 - Serendipity
 - rickandmorty
 - HaileeSteinfeld

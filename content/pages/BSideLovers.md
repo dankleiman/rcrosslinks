@@ -1,5 +1,0 @@
----
-title: BSideLovers
-crosslinks:
-- livven
----

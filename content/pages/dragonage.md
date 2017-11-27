@@ -12,7 +12,6 @@ crosslinks:
 - rupaulsdragrace
 - CrusaderKings
 - macgaming
-- livven
 - witcher
 - '2013'
 - CorypheusMancers

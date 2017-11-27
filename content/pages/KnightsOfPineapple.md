@@ -1,7 +1,6 @@
 ---
 title: KnightsOfPineapple
 crosslinks:
-- livven
 - GifRecipes
 - trees
 - shittyfoodporn
@@ -15,7 +14,6 @@ crosslinks:
 - aww
 - CatsStandingUp
 - androidthemes
-- autotldr
 - vegangifrecipes
 - keming
 - titlegore

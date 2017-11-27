@@ -1,5 +1,0 @@
----
-title: WindowsSucks
-crosslinks:
-- livven
----

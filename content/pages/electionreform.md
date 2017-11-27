@@ -1,7 +1,6 @@
 ---
 title: electionreform
 crosslinks:
-- autotldr
 - EndFPTP
 - GreenParty
 - politics

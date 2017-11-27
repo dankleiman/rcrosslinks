@@ -1,5 +1,0 @@
----
-title: RetailNews
-crosslinks:
-- autotldr
----

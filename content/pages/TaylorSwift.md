@@ -1,7 +1,6 @@
 ---
 title: TaylorSwift
 crosslinks:
-- livven
 - Kanye
 - HighQualityGifs
 - popheads

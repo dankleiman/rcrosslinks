@@ -1,5 +1,0 @@
----
-title: nosyntax
-crosslinks:
-- autotldr
----

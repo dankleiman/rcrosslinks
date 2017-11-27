@@ -3,7 +3,6 @@ title: liberta
 crosslinks:
 - ukraina
 - theUkrainians
-- autotldr
 - worldnews
 - politota
 - alliterasie

@@ -1,7 +1,6 @@
 ---
 title: VaporwaveAesthetics
 crosslinks:
-- livven
 - intothetunnel
 - outrun
 - pics

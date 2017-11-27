@@ -5,5 +5,4 @@ crosslinks:
 - KendrickLamar
 - ImGoingToHellForThis
 - PokemongoSeattle
-- livven
 ---

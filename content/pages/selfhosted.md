@@ -11,7 +11,6 @@ crosslinks:
 - DataHoarder
 - privacytoolsIO
 - programming
-- autotldr
 - afian
 - firefox
 - airsonic

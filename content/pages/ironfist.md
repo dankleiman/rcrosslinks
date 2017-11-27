@@ -1,7 +1,6 @@
 ---
 title: ironfist
 crosslinks:
-- livven
 - mistyfront
 - Defenders
 - forhonor

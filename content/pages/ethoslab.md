@@ -6,7 +6,6 @@ crosslinks:
 - AskReddit
 - place
 - Minecraft
-- livven
 - gifs
 - JonTron
 - '2013'

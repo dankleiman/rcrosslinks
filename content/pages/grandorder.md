@@ -6,7 +6,6 @@ crosslinks:
 - fatestaynight
 - FGOfanart
 - anime
-- livven
 - PuzzleAndDragons
 - ffxiv
 - DBZDokkanBattle

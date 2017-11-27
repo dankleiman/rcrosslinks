@@ -1,7 +1,6 @@
 ---
 title: creativecoding
 crosslinks:
-- livven
 - microtonal
 - learnprogramming
 - GoodFolks

@@ -9,7 +9,6 @@ crosslinks:
 - NoStupidQuestions
 - coaxedintoasnafu
 - Emo
-- autotldr
 - Hiphopcirclejerk
 - Drama
 - ShitRedditSays

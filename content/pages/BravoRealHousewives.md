@@ -2,7 +2,6 @@
 title: BravoRealHousewives
 crosslinks:
 - IAmA
-- livven
 - AskReddit
 - '2013'
 - Baking
@@ -18,7 +17,6 @@ crosslinks:
 - Thetruthishere
 - REDDITORSINRECOVERY
 - OldSchoolCool
-- autotldr
 - ImagesOfNewYork
 - '2016'
 ---

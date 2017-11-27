@@ -1,5 +1,0 @@
----
-title: wholesomemurders
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: politicalgifs
-crosslinks:
-- livven
----

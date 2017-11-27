@@ -2,7 +2,6 @@
 title: starwarsmemes
 crosslinks:
 - PrequelMemes
-- livven
 - KarmaCourt
 - EwokAdventuresMemes
 - PoliticalHumor

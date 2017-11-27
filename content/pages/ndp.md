@@ -4,7 +4,6 @@ crosslinks:
 - CanadaPolitics
 - canada
 - redditrequest
-- autotldr
 - metacanada
 - LPC
 - Kierkegaard_irl

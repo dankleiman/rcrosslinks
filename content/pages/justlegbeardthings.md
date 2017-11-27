@@ -19,6 +19,5 @@ crosslinks:
 - PussyPass
 - SignalYourVirtue
 - Adam_fkn_Ellis_again
-- FATOROBOTO
 - nightvale
 ---

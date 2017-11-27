@@ -6,7 +6,6 @@ crosslinks:
 - weekendgunnit
 - Firearms
 - CCW
-- livven
 - WA_guns
 - Gunsforsale
 - FullMetalGunnit

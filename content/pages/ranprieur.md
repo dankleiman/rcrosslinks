@@ -1,7 +1,6 @@
 ---
 title: ranprieur
 crosslinks:
-- autotldr
 - accountt1234
 - simpleliving
 - DarkFuturology

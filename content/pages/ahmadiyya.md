@@ -1,7 +1,6 @@
 ---
 title: ahmadiyya
 crosslinks:
-- autotldr
 - freespeech_ahmadiyya
 - Christianity
 - religion

@@ -1,7 +1,6 @@
 ---
 title: snek_irl
 crosslinks:
-- livven
 - Unexpected
 - pics
 - wtfstockphotos

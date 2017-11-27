@@ -1,5 +1,0 @@
----
-title: BethLily
-crosslinks:
-- livven
----

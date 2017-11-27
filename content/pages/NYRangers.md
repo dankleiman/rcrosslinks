@@ -1,5 +1,0 @@
----
-title: NYRangers
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: transhumanism
 crosslinks:
-- autotldr
 - Futurology
 - science
 - Incel

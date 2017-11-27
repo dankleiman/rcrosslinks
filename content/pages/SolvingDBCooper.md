@@ -1,5 +1,0 @@
----
-title: SolvingDBCooper
-crosslinks:
-- autotldr
----

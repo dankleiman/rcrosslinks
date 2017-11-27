@@ -1,7 +1,6 @@
 ---
 title: thinspo
 crosslinks:
-- livven
 - TastefulBeauties
 - AlexisRen
 - RealGirls

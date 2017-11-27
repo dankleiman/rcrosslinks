@@ -7,7 +7,6 @@ crosslinks:
 - CFA
 - math
 - finance
-- autotldr
 - Advice
 - personalfinance
 - motivation

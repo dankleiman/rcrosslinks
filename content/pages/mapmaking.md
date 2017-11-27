@@ -14,7 +14,6 @@ crosslinks:
 - monsteraday
 - Map_Porn
 - Ronuos
-- livven
 - arresteddevelopment
 - skyrim
 - loremasters

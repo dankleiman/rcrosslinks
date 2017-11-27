@@ -2,7 +2,6 @@
 title: trebuchetmemes
 crosslinks:
 - DankMemeArchive
-- livven
 - KarmaCourt
 - GarlicBreadMemes
 - pics

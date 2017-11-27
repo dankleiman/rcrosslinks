@@ -2,7 +2,6 @@
 title: darkestdungeon
 crosslinks:
 - Games
-- livven
 - Xcom
 - hearthstone
 - Christianity

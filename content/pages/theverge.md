@@ -1,5 +1,0 @@
----
-title: theverge
-crosslinks:
-- autotldr
----

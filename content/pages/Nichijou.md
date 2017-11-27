@@ -2,7 +2,6 @@
 title: Nichijou
 crosslinks:
 - Pixiv
-- livven
 - azureScapegoat
 - wildhockey
 - rockets

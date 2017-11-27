@@ -4,7 +4,6 @@ crosslinks:
 - djimavic
 - djiphantom
 - DJISpark
-- autotldr
 - drones
 - interestingasfuck
 - Quadcopters

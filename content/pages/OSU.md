@@ -6,7 +6,6 @@ crosslinks:
 - place
 - news
 - cscareerquestions
-- livven
 - Frugal_Jerk
 - Serendipity
 - clevelandcavs

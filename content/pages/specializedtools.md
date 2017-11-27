@@ -1,7 +1,6 @@
 ---
 title: specializedtools
 crosslinks:
-- livven
 - ProductPorn
 - EngineeringPorn
 - oddlysatisfying

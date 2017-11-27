@@ -1,7 +1,6 @@
 ---
 title: mobilerepair
 crosslinks:
-- autotldr
 - soldering
 - technology
 - GalaxyS8

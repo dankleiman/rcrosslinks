@@ -2,7 +2,6 @@
 title: Tekken
 crosslinks:
 - Kappa
-- livven
 - fightsticks
 - StreetFighter
 - VirtualCosplay

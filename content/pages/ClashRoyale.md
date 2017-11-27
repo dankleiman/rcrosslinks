@@ -1,7 +1,6 @@
 ---
 title: ClashRoyale
 crosslinks:
-- livven
 - RoyaleRecruit
 - TrueClashRoyale
 - LootRoyale

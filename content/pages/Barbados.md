@@ -1,5 +1,0 @@
----
-title: Barbados
-crosslinks:
-- autotldr
----

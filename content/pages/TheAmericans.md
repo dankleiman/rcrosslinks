@@ -1,7 +1,6 @@
 ---
 title: TheAmericans
 crosslinks:
-- autotldr
 - coolguides
 - AMAAggregator
 - Alonetv

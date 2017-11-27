@@ -1,5 +1,0 @@
----
-title: christofascism
-crosslinks:
-- autotldr
----

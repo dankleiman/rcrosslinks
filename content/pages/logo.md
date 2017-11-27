@@ -1,5 +1,0 @@
----
-title: logo
-crosslinks:
-- livven
----

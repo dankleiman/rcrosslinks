@@ -1,7 +1,6 @@
 ---
 title: DoingTheMost
 crosslinks:
-- livven
 - gifs
 - funny
 - MINI

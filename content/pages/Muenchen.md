@@ -1,5 +1,0 @@
----
-title: Muenchen
-crosslinks:
-- livven
----

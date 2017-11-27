@@ -1,7 +1,6 @@
 ---
 title: Neuropsychology
 crosslinks:
-- autotldr
 - neuro
 - Intactivists
 - ShrugLifeSyndicate

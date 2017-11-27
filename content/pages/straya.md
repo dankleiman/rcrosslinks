@@ -3,9 +3,7 @@ title: straya
 crosslinks:
 - place
 - Parahumans
-- autotldr
 - australia
-- livven
 - AskReddit
 - funny
 - sydney

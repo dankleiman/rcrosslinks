@@ -2,7 +2,6 @@
 title: santacruz
 crosslinks:
 - mycology
-- autotldr
 - AutoDetailing
 - surfing
 - Multicopter

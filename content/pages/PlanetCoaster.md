@@ -1,12 +1,10 @@
 ---
 title: PlanetCoaster
 crosslinks:
-- livven
 - unitedkingdom
 - PlanetCoasterModding
 - pcmasterrace
 - rollercoasters
-- autotldr
 - wow
 - EiteDagerous
 - shittyplanetcoaster

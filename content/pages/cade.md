@@ -20,5 +20,4 @@ crosslinks:
 - Stepmania
 - wikipedia
 - pcgaming
-- autotldr
 ---

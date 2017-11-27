@@ -1,5 +1,0 @@
----
-title: athletictraining
-crosslinks:
-- autotldr
----

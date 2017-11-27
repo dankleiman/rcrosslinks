@@ -1,5 +1,0 @@
----
-title: animaloddities
-crosslinks:
-- livven
----

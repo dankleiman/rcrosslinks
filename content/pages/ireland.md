@@ -2,7 +2,6 @@
 title: ireland
 crosslinks:
 - irishtourism
-- autotldr
 - place
 - northernireland
 - me_ira

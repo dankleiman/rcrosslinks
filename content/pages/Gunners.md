@@ -3,7 +3,6 @@ title: Gunners
 crosslinks:
 - soccer
 - reddevils
-- livven
 - MCFC
 - WholesomeGunners
 - soccerstreams

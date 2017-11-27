@@ -2,7 +2,6 @@
 title: AMD_Stock
 crosslinks:
 - Amd
-- autotldr
 - EtherMining
 - hardware
 - pcmasterrace

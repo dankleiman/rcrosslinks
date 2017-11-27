@@ -8,7 +8,6 @@ crosslinks:
 - IOTAFaucet
 - Bitcoin
 - ledgerwallet
-- autotldr
 - zec
 - modnews
 - Monero

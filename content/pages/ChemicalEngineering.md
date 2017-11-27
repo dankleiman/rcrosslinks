@@ -1,7 +1,6 @@
 ---
 title: ChemicalEngineering
 crosslinks:
-- autotldr
 - LifeProTips
 - videos
 - PLC

@@ -1,7 +1,6 @@
 ---
 title: TrollXGirlGamers
 crosslinks:
-- livven
 - xkcd
 - pcmasterrace
 - LivestreamFail

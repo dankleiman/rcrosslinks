@@ -1,5 +1,0 @@
----
-title: LatexMania
-crosslinks:
-- livven
----

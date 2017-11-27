@@ -18,7 +18,6 @@ crosslinks:
 - cEDH
 - CustomEDH
 - mtgporn
-- livven
 - modnews
 - spikes
 ---

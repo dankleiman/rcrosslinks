@@ -1,7 +1,6 @@
 ---
 title: gtaonline
 crosslinks:
-- livven
 - GrandTheftAutoV
 - gtaglitches
 - CEOfriendly

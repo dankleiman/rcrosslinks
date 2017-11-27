@@ -17,7 +17,6 @@ crosslinks:
 - paradoxes
 - GoneWildHairy
 - CasualConversation
-- livven
 - me_irl
 - secondshittyideas
 - CrazyIdeas

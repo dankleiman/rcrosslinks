@@ -1,7 +1,6 @@
 ---
 title: Buffalo
 crosslinks:
-- autotldr
 - AskReddit
 - Southtowns
 - technology

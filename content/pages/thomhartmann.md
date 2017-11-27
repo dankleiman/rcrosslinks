@@ -1,5 +1,0 @@
----
-title: thomhartmann
-crosslinks:
-- autotldr
----

@@ -4,7 +4,6 @@ crosslinks:
 - de
 - translator
 - germany
-- autotldr
 - DACH
 - LanguageBuds
 - germusic

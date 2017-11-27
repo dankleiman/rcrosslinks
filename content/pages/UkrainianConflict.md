@@ -1,7 +1,6 @@
 ---
 title: UkrainianConflict
 crosslinks:
-- autotldr
 - syriancivilwar
 - europe
 - russia

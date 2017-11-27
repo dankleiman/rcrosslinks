@@ -2,14 +2,12 @@
 title: NewOrleans
 crosslinks:
 - AskNOLA
-- autotldr
 - houston
 - uncensorednews
 - TropicalWeather
 - news
 - WTF
 - PoliticalHumor
-- livven
 - AskReddit
 - LivestreamFail
 - videos

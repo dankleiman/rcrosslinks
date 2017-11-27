@@ -1,5 +1,0 @@
----
-title: AmericaProud
-crosslinks:
-- livven
----

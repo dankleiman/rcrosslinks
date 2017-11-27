@@ -1,5 +1,0 @@
----
-title: snowglobe
-crosslinks:
-- livven
----

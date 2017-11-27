@@ -4,7 +4,6 @@ crosslinks:
 - AskVet
 - dogs
 - IAmA
-- autotldr
 - puppy101
 - aww
 - personalfinance

@@ -1,5 +1,0 @@
----
-title: politicalchange
-crosslinks:
-- autotldr
----

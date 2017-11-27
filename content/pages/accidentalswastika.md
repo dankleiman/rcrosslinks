@@ -1,7 +1,6 @@
 ---
 title: accidentalswastika
 crosslinks:
-- livven
 - intentionalswastika
 - pics
 - excgarated
@@ -9,7 +8,6 @@ crosslinks:
 - vexillologycirclejerk
 - croatia
 - mildlyswastika
-- autotldr
 - dwarffortress
 - CatsStandingUp
 - evangelionmemes

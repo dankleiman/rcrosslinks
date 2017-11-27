@@ -7,7 +7,6 @@ crosslinks:
 - catalonia
 - europe
 - spain
-- livven
 - GODO
 - dwarffortress
 - homelessfan

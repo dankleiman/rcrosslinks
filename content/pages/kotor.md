@@ -4,7 +4,6 @@ crosslinks:
 - IAmA
 - PrequelMemes
 - me_irl
-- livven
 - empiredidnothingwrong
 - Morrowind
 - GameDeals

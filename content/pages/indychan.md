@@ -1,5 +1,0 @@
----
-title: indychan
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: TomHardy
-crosslinks:
-- autotldr
----

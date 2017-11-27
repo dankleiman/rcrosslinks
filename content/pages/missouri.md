@@ -1,7 +1,6 @@
 ---
 title: missouri
 crosslinks:
-- autotldr
 - StLouis
 - kansascity
 - pics

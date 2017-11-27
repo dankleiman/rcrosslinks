@@ -1,7 +1,6 @@
 ---
 title: Unity2D
 crosslinks:
-- livven
 - Unity3D
 - gamedev
 - gameDevClassifieds

@@ -1,7 +1,6 @@
 ---
 title: ImpeachTrump
 crosslinks:
-- autotldr
 - NeutralPolitics
 - WayOfTheBern
 - whitepeoplegifs

@@ -7,7 +7,6 @@ crosslinks:
 - theydidthemath
 - interestingasfuck
 - OTMemes
-- livven
 - HitBoxPorn
 - Warthunder
 ---

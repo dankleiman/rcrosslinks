@@ -1,5 +1,0 @@
----
-title: JSIL
-crosslinks:
-- autotldr
----

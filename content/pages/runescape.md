@@ -2,7 +2,6 @@
 title: runescape
 crosslinks:
 - 2007scape
-- livven
 - RS3Ironmen
 - RSKakamile
 - AskReddit

@@ -3,7 +3,6 @@ title: everyfuckingthread
 crosslinks:
 - starterpacks
 - interestingasfuck
-- livven
 - AskReddit
 - NeutralPolitics
 - Jokes

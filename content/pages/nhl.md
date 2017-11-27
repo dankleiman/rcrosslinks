@@ -1,13 +1,11 @@
 ---
 title: nhl
 crosslinks:
-- livven
 - hockey
 - NHLStreams
 - penguins
 - Predators
 - caps
-- autotldr
 - puckstreams
 - BostonBruins
 - hockeyjerseys

@@ -1,8 +1,6 @@
 ---
 title: MasterofNone
 crosslinks:
-- autotldr
-- livven
 - teenagers
 - IAmA
 - exmuslim

@@ -1,5 +1,0 @@
----
-title: InnovationAnarchy
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: ColinsLastStand
 crosslinks:
-- autotldr
 - kindafunny
 - KotakuInAction
 - FULLCOMMUNISM

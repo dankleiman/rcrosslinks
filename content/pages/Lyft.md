@@ -2,7 +2,6 @@
 title: Lyft
 crosslinks:
 - lyftdrivers
-- autotldr
 - legaladvice
 - AskReddit
 - aww

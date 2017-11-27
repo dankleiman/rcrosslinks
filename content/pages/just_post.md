@@ -1,7 +1,6 @@
 ---
 title: just_post
 crosslinks:
-- livven
 - raiseyourdongers
 - xkcd
 - iamveryculinary

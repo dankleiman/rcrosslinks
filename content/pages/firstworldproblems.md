@@ -5,8 +5,6 @@ crosslinks:
 - AskReddit
 - pics
 - financialindependence
-- autotldr
-- livven
 - childfree
 - The_Donald
 - ShittyLifeProTips

@@ -3,7 +3,6 @@ title: paris
 crosslinks:
 - SocialParis
 - france
-- autotldr
 - ShitAmericansSay
 - psg
 - europe

@@ -5,7 +5,6 @@ crosslinks:
 - doujinshi
 - hentaiforniphilia
 - hentai
-- livven
 - Pixiv
 - ecchi
 - as109

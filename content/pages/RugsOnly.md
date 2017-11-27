@@ -2,7 +2,6 @@
 title: RugsOnly
 crosslinks:
 - nsfw
-- livven
 - ShittyLifeProTips
 - sexyfrex
 - LilyIvy

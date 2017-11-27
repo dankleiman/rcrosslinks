@@ -5,7 +5,6 @@ crosslinks:
 - AdviceAnimals
 - Kappa
 - MvCinfinite
-- livven
 - MvC3
 - Injusticegame
 - StreetFighter

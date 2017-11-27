@@ -6,7 +6,6 @@ crosslinks:
 - torrents
 - Piracy
 - technology
-- autotldr
 - DataHoarder
 - usenet
 - OutOfTheLoop

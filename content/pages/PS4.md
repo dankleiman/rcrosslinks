@@ -8,7 +8,6 @@ crosslinks:
 - Gamingcirclejerk
 - Games
 - PSVR
-- livven
 - PS4Pro
 - RedditAlternatives
 - PlayStationPlus

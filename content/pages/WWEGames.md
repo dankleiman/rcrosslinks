@@ -1,7 +1,6 @@
 ---
 title: WWEGames
 crosslinks:
-- livven
 - SquaredCircle
 - WrestlingCaptions
 - EA_NHL

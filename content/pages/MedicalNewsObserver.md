@@ -1,5 +1,0 @@
----
-title: MedicalNewsObserver
-crosslinks:
-- autotldr
----

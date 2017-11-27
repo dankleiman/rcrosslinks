@@ -1,5 +1,0 @@
----
-title: BCI
-crosslinks:
-- autotldr
----

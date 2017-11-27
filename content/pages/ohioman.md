@@ -1,5 +1,0 @@
----
-title: ohioman
-crosslinks:
-- autotldr
----

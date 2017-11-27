@@ -8,7 +8,6 @@ crosslinks:
 - ketouk
 - PSMF
 - soylent
-- livven
 - personalfinance
 - Survival
 - nutrition

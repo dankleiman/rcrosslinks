@@ -2,7 +2,6 @@
 title: SymmetraMains
 crosslinks:
 - Overwatch
-- livven
 - chimichangas
 - OverwatchUniversity
 - taeyskadiedoaHAV

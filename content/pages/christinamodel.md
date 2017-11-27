@@ -1,5 +1,0 @@
----
-title: christinamodel
-crosslinks:
-- livven
----

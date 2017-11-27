@@ -2,7 +2,6 @@
 title: CandyCovered
 crosslinks:
 - titty_sprinkles
-- livven
 - pseudofellatio
 - hersheyskisstits
 - LexiBelle

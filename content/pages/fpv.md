@@ -2,7 +2,6 @@
 title: fpv
 crosslinks:
 - Multicopter
-- livven
 - multicopter
 - radiocontrol
 - PrintedCircuitBoard

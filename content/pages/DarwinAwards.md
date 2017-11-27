@@ -1,7 +1,6 @@
 ---
 title: DarwinAwards
 crosslinks:
-- autotldr
 - nottheonion
 - Whatcouldgowrong
 - BlondeJokes

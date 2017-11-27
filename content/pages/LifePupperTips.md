@@ -1,7 +1,6 @@
 ---
 title: LifePupperTips
 crosslinks:
-- livven
 - aww
 - goldenretrievers
 - lookatmydog

@@ -1,9 +1,7 @@
 ---
 title: venturebros
 crosslinks:
-- livven
 - SampleBank
-- autotldr
 - VentureBstreampauses
 - BeAmazed
 - TwoBestFriendsPlay

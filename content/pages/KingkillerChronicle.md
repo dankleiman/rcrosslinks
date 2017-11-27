@@ -2,7 +2,6 @@
 title: KingkillerChronicle
 crosslinks:
 - Fantasy
-- livven
 - explainlikeimfive
 - xkcd
 - kingkillerchronicles

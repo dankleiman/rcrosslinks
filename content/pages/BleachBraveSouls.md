@@ -5,7 +5,6 @@ crosslinks:
 - OnePieceTC
 - BnHASmashTap
 - e
-- livven
 - '2012'
 - MemoryDefrag
 - NarutoBlazing

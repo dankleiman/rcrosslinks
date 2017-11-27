@@ -1,5 +1,0 @@
----
-title: Develovers
-crosslinks:
-- autotldr
----

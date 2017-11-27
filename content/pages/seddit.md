@@ -10,7 +10,6 @@ crosslinks:
 - shitleftistssay
 - Anarchism
 - xkcd
-- livven
 - melenchon
 - leftcommunism
 ---

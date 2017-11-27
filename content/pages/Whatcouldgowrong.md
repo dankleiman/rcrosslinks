@@ -1,7 +1,6 @@
 ---
 title: Whatcouldgowrong
 crosslinks:
-- livven
 - AskReddit
 - gifs
 - xkcd

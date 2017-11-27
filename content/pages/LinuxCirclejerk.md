@@ -8,7 +8,6 @@ crosslinks:
 - technology
 - Fuckgnome
 - programmingcirclejerk
-- autotldr
 - linux_irl
 - MathCirclejerk
 - placestart

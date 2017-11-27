@@ -1,8 +1,6 @@
 ---
 title: Beekeeping
 crosslinks:
-- autotldr
-- livven
 - WTF
 - mead
 - xkcd

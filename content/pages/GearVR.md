@@ -12,7 +12,6 @@ crosslinks:
 - Games
 - Gear360
 - Vive
-- autotldr
 - quakegearvr
 - Nexus6P
 - vrgamedeals

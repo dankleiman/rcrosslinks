@@ -1,7 +1,6 @@
 ---
 title: Kossacks_for_Sanders
 crosslinks:
-- autotldr
 - WayOfTheBern
 - Political_Revolution
 - SandersForPresident
@@ -13,7 +12,6 @@ crosslinks:
 - ProgressiveActivists
 - justicedemocrats
 - DNCleaks
-- livven
 - Anarchism
 - SeattleWA
 - The_Donald

@@ -1,8 +1,6 @@
 ---
 title: MST3K
 crosslinks:
-- autotldr
-- livven
 - place
 - todayilearned
 - minipainting

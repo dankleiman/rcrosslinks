@@ -1,5 +1,0 @@
----
-title: TheOldWest
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: OpenChristian
 crosslinks:
 - Christianity
-- autotldr
 - RadicalChristianity
 - Anglicanism
 - ChristianUniversalism

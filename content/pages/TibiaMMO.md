@@ -15,7 +15,6 @@ crosslinks:
 - Serendipity
 - Steam
 - arma
-- translatorBOT
 - wow
 - REEEEEEEEEE
 - gamedev

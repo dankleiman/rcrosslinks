@@ -1,5 +1,0 @@
----
-title: PeriodPlot
-crosslinks:
-- livven
----

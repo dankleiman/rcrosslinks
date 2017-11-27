@@ -1,7 +1,6 @@
 ---
 title: grool
 crosslinks:
-- livven
 - GROOLGW
 - SpankSafe
 - JacquelineDevries

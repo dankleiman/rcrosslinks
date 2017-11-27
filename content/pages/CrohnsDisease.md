@@ -1,8 +1,6 @@
 ---
 title: CrohnsDisease
 crosslinks:
-- livven
-- autotldr
 - Infographics
 - ostomy
 - motivation

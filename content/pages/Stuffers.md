@@ -1,7 +1,6 @@
 ---
 title: Stuffers
 crosslinks:
-- livven
 - BellyExpansion
 - ProgressiveGrowth
 - AskMen

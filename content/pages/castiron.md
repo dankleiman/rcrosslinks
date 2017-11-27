@@ -1,7 +1,6 @@
 ---
 title: castiron
 crosslinks:
-- livven
 - grilledcheese
 - food
 - UGLYandHammered

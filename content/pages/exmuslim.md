@@ -2,7 +2,6 @@
 title: exmuslim
 crosslinks:
 - islam
-- autotldr
 - atheism
 - The_Donald
 - AskHistorians

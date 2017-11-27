@@ -2,7 +2,6 @@
 title: yuruyuri
 crosslinks:
 - Pixiv
-- livven
 - ChinatsuYoshikawa
 - anime_irl
 - dontdeadopeninside

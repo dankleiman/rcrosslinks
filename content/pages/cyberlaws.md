@@ -1,7 +1,6 @@
 ---
 title: cyberlaws
 crosslinks:
-- autotldr
 - europrivacy
 - technology
 - law

@@ -1,7 +1,6 @@
 ---
 title: physicsgifs
 crosslinks:
-- livven
 - gifs
 - xkcd
 - AskPhysics

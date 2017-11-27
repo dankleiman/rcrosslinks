@@ -8,7 +8,6 @@ crosslinks:
 - Drama
 - FreeCompliments
 - truerateme
-- livven
 - kindvoice
 - TrueFMK
 - MakeupAddiction

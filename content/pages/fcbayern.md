@@ -16,7 +16,6 @@ crosslinks:
 - pics
 - swanseacity
 - place
-- livven
 - soccerstreams
 - MLS
 ---

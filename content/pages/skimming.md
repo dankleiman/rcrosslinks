@@ -1,5 +1,0 @@
----
-title: skimming
-crosslinks:
-- autotldr
----

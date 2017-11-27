@@ -1,7 +1,6 @@
 ---
 title: StillSandersForPres
 crosslinks:
-- autotldr
 - Enough_Sanders_Spam
 - WayOfTheBern
 - Kossacks_for_Sanders
@@ -12,7 +11,6 @@ crosslinks:
 - notcirclejerk
 - hillaryclinton
 - The_Donald
-- livven
 - ShitPoliticsSays
 - DNCleaks
 - TrumpInvestigation

@@ -3,7 +3,6 @@ title: Volvo
 crosslinks:
 - cars
 - sweden
-- livven
 - Shitty_Car_Mods
 - OldSchoolCool
 - vandweller
@@ -13,7 +12,6 @@ crosslinks:
 - help
 - denverautoenthusiasts
 - namethatcar
-- autotldr
 - Whatcouldgowrong
 - nonononoyes
 - ems

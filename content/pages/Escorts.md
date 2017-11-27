@@ -9,5 +9,4 @@ crosslinks:
 - EngineeringStudents
 - tifu
 - NSFWIAMA
-- autotldr
 ---

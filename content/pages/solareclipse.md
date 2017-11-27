@@ -2,8 +2,6 @@
 title: solareclipse
 crosslinks:
 - pics
-- autotldr
-- livven
 - space
 - IAmA
 - Skookum

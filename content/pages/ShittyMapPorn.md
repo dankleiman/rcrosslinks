@@ -18,7 +18,6 @@ crosslinks:
 - geography
 - CrappyDesign
 - PropagandaPosters
-- livven
 - UnexpectedHamilton
 - cirkeltrek
 ---

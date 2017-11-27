@@ -6,7 +6,6 @@ crosslinks:
 - TwoBestFriendsPlay
 - history
 - Suomi
-- livven
 - Tokyo
 - hapas
 - Pixiv

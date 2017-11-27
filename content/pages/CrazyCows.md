@@ -1,5 +1,0 @@
----
-title: CrazyCows
-crosslinks:
-- livven
----

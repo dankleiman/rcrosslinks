@@ -1,7 +1,6 @@
 ---
 title: Newfoundlander
 crosslinks:
-- livven
 - aww
 - pics
 - newfoundland

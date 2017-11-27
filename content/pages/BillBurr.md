@@ -2,9 +2,7 @@
 title: BillBurr
 crosslinks:
 - opieandanthony
-- livven
 - JoeRogan
-- autotldr
 - videos
 - ravens
 - sfgiants

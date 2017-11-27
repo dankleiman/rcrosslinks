@@ -3,12 +3,10 @@ title: latterdaysaints
 crosslinks:
 - exmormon
 - mormon
-- autotldr
 - Christianity
 - lds
 - xkcd
 - funny
-- livven
 - lds_irl
 - transhumanism
 - weddingplanning

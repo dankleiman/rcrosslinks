@@ -1,5 +1,0 @@
----
-title: office
-crosslinks:
-- autotldr
----

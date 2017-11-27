@@ -5,7 +5,6 @@ crosslinks:
 - Serendipity
 - TaylorWhite
 - relationship_advice
-- autotldr
 - PleaseCallMe
 - socks
 - livestreamersgonewild

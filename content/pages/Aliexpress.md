@@ -16,5 +16,4 @@ crosslinks:
 - hardware
 - alitronics
 - Entrepreneur
-- livven
 ---

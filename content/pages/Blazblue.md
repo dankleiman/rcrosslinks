@@ -5,7 +5,6 @@ crosslinks:
 - fightsticks
 - salty
 - Guiltygear
-- livven
 - INJUSTICE
 - Fighters
 - OtakuVisualArts

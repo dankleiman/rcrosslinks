@@ -1,7 +1,6 @@
 ---
 title: blop
 crosslinks:
-- livven
 - aww
 - uglypuppers
 - funny

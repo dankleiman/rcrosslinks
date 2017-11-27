@@ -2,7 +2,6 @@
 title: freemasonry
 crosslinks:
 - xkcd
-- livven
 - IAmA
 - history
 - scottishrite

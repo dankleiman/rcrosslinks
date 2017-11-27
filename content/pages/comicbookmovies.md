@@ -1,7 +1,6 @@
 ---
 title: comicbookmovies
 crosslinks:
-- autotldr
 - DC_Cinematic
 - moviescirclejerk
 - movies
@@ -9,7 +8,6 @@ crosslinks:
 - LearnUselessTalents
 - gatekeeping
 - DC_Shazam
-- livven
 - Supergirl
 - LegionFX
 - Marvel

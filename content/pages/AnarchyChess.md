@@ -2,7 +2,6 @@
 title: AnarchyChess
 crosslinks:
 - chess
-- livven
 - PlayMe
 - interestingasfuck
 - makinghiphop
@@ -10,6 +9,5 @@ crosslinks:
 - funny
 - xkcd
 - gifs
-- autotldr
 - malaysia
 ---

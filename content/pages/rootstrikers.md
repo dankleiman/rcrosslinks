@@ -1,5 +1,0 @@
----
-title: rootstrikers
-crosslinks:
-- autotldr
----

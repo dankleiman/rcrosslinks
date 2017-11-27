@@ -1,5 +1,0 @@
----
-title: wyld
-crosslinks:
-- livven
----

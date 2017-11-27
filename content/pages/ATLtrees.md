@@ -7,7 +7,6 @@ crosslinks:
 - Pieces
 - telescopes
 - rosin
-- autotldr
 - vaporents
 - see
 - Breadit

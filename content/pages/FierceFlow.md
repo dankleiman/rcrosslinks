@@ -6,7 +6,6 @@ crosslinks:
 - NoPoo
 - redditgetsdrawn
 - Hair
-- livven
 - HaircareScience
 - tressless
 - BeardPorn

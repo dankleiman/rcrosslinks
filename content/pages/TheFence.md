@@ -4,7 +4,6 @@ crosslinks:
 - Music
 - vinyl
 - rush
-- livven
 - thedearhunter
 - space
 - tattoos

@@ -3,7 +3,6 @@ title: AFL
 crosslinks:
 - westcoasteagles
 - AFLCircleJerk
-- livven
 - FremantleFC
 - AskReddit
 - GeelongCats

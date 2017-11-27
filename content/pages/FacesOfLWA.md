@@ -1,5 +1,0 @@
----
-title: FacesOfLWA
-crosslinks:
-- livven
----

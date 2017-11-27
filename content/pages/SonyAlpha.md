@@ -4,7 +4,6 @@ crosslinks:
 - photography
 - photomarket
 - videography
-- livven
 - analog
 - itookapicture
 - Cameras

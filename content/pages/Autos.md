@@ -3,7 +3,6 @@ title: Autos
 crosslinks:
 - cars
 - carporn
-- autotldr
 - spotted
 - Shitty_Car_Mods
 - ATBGE

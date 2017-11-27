@@ -1,5 +1,0 @@
----
-title: angryvillagers
-crosslinks:
-- autotldr
----

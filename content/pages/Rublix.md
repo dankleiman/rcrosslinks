@@ -1,5 +1,0 @@
----
-title: Rublix
-crosslinks:
-- autotldr
----

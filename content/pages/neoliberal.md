@@ -8,7 +8,6 @@ crosslinks:
 - ChapoTrapHouse
 - ukpolitics
 - europe
-- autotldr
 - worldnews
 - socialism
 - Drama

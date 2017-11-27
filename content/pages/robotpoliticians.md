@@ -1,5 +1,0 @@
----
-title: robotpoliticians
-crosslinks:
-- livven
----

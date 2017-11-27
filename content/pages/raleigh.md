@@ -2,7 +2,6 @@
 title: raleigh
 crosslinks:
 - triangle
-- autotldr
 - NorthCarolina
 - LifeProTips
 - runraleigh
@@ -12,7 +11,6 @@ crosslinks:
 - redditposts
 - gso
 - lostpetsraleigh
-- livven
 - NHLStreams
 - todayilearned
 - politics

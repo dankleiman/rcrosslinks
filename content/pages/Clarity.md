@@ -1,5 +1,0 @@
----
-title: Clarity
-crosslinks:
-- autotldr
----

@@ -1,11 +1,9 @@
 ---
 title: seinfeld
 crosslinks:
-- livven
 - gifs
 - seinfeldgifs
 - pics
-- autotldr
 - howyoudoin
 - AgainstKarmaWhores
 - IAmA

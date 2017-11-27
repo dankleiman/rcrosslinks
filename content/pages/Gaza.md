@@ -1,5 +1,0 @@
----
-title: Gaza
-crosslinks:
-- autotldr
----

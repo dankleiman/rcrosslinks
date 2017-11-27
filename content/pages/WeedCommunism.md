@@ -1,5 +1,0 @@
----
-title: WeedCommunism
-crosslinks:
-- autotldr
----

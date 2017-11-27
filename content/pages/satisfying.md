@@ -1,5 +1,0 @@
----
-title: satisfying
-crosslinks:
-- livven
----

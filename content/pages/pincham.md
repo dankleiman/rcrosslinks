@@ -1,5 +1,0 @@
----
-title: pincham
-crosslinks:
-- livven
----

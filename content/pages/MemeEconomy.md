@@ -3,7 +3,6 @@ title: MemeEconomy
 crosslinks:
 - i_irl
 - dankmemes
-- livven
 - DeepFriedMemes
 - me_irl
 - surrealmemes

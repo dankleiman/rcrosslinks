@@ -1,5 +1,0 @@
----
-title: deadmalls
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: ControlProblem
 crosslinks:
-- autotldr
 - AIethics
 - artificial
 - slatestarcodex

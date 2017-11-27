@@ -2,7 +2,6 @@
 title: Gangstalking
 crosslinks:
 - TargetedEnergyWeapons
-- autotldr
 - psychotronics
 - nosleep
 - TwoXChromosomes

@@ -1,7 +1,6 @@
 ---
 title: foxes
 crosslinks:
-- livven
 - aww
 - place
 - gaming

@@ -3,7 +3,6 @@ title: lost
 crosslinks:
 - WhyICorrectBryanPCox
 - TheLeftovers
-- livven
 - IAmA
 - Screenwriting
 - FanTheories

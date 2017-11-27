@@ -8,7 +8,6 @@ crosslinks:
 - startrek
 - xkcd
 - explainlikeimfive
-- livven
 - PrequelMemes
 - pcmasterrace
 - swtor

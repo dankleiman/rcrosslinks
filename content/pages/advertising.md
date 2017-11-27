@@ -1,7 +1,6 @@
 ---
 title: advertising
 crosslinks:
-- autotldr
 - Entrepreneur
 - mildlyinteresting
 - legrownassman

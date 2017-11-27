@@ -12,7 +12,6 @@ crosslinks:
 - nuclearweapons
 - WarshipPorn
 - atomicporn
-- livven
 - papertowns
 - architecture
 - rustyrails

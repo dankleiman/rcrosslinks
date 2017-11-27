@@ -1,5 +1,0 @@
----
-title: XNTP
-crosslinks:
-- autotldr
----

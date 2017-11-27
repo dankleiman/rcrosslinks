@@ -1,5 +1,0 @@
----
-title: criticalgifs
-crosslinks:
-- livven
----

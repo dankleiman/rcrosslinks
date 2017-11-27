@@ -1,5 +1,0 @@
----
-title: southchinasea
-crosslinks:
-- autotldr
----

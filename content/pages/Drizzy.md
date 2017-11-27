@@ -3,7 +3,6 @@ title: Drizzy
 crosslinks:
 - hiphopheads
 - Kanye
-- livven
 - FrankOcean
 - toronto
 - NoStupidQuestions

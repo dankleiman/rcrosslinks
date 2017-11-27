@@ -1,5 +1,0 @@
----
-title: JPGibbs
-crosslinks:
-- autotldr
----

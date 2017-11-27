@@ -1,7 +1,6 @@
 ---
 title: Tiresaretheenemy
 crosslinks:
-- livven
 - formula1
 - watchpeopledie
 - mildlyinteresting

@@ -1,10 +1,8 @@
 ---
 title: spiders
 crosslinks:
-- livven
 - tarantulas
 - wholesomememes
-- autotldr
 - NatureIsFuckingLit
 - AssistedLiving
 - NatureGifs

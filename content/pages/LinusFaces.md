@@ -5,6 +5,5 @@ crosslinks:
 - megalinks
 - ProCSS
 - patientgamers
-- livven
 - TelegramStickersShare
 ---

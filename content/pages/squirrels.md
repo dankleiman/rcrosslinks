@@ -1,7 +1,6 @@
 ---
 title: squirrels
 crosslinks:
-- livven
 - videos
 - aww
 - fatsquirreltolerate

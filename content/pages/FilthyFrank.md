@@ -2,7 +2,6 @@
 title: FilthyFrank
 crosslinks:
 - PinkOmega
-- livven
 - hiphopheads
 - place
 - TrueSTL

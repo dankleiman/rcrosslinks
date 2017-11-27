@@ -1,7 +1,6 @@
 ---
 title: RubeGoldbergFails
 crosslinks:
-- livven
 - Whatcouldgowrong
 - nononono
 - WhyWereTheyFilming

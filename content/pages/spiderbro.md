@@ -2,7 +2,6 @@
 title: spiderbro
 crosslinks:
 - spiders
-- livven
 - gifs
 - tarantulas
 - xkcd

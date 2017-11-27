@@ -1,7 +1,6 @@
 ---
 title: SecurityAnalysis
 crosslinks:
-- autotldr
 - investing
 - VSEG
 - Bitcoin

@@ -9,7 +9,6 @@ crosslinks:
 - cars
 - FordFocus
 - plastidip
-- livven
 - projectcar
 - advice
 - VXJunkies

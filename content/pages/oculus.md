@@ -2,9 +2,7 @@
 title: oculus
 crosslinks:
 - Vive
-- autotldr
 - virtualreality
-- livven
 - EliteDangerous
 - EchoArena
 - PSVR

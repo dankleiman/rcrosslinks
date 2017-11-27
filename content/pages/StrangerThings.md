@@ -1,7 +1,6 @@
 ---
 title: StrangerThings
 crosslinks:
-- autotldr
 - pics
 - thewalkingdead
 - xkcd

@@ -1,7 +1,6 @@
 ---
 title: CNNmemes
 crosslinks:
-- livven
 - The_Donald
 - REEEEEEEEEE
 - ShitPoliticsSays

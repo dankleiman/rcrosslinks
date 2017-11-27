@@ -4,7 +4,6 @@ crosslinks:
 - Kappa
 - fightsticks
 - StreetFighter
-- livven
 - iconsgg
 - unpopularopinion
 - streetfighter

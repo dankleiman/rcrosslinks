@@ -1,7 +1,6 @@
 ---
 title: NewPatriotism
 crosslinks:
-- autotldr
 - politics
 - EnoughTrumpSpam
 - PoliticalHumor

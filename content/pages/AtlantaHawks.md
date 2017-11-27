@@ -1,7 +1,6 @@
 ---
 title: AtlantaHawks
 crosslinks:
-- livven
 - CharlotteHornets
 - reddit_stream
 - oaklandraiders

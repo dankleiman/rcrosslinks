@@ -1,7 +1,6 @@
 ---
 title: billiards
 crosslinks:
-- livven
 - AMAAggregator
 - onepocket
 - gopro

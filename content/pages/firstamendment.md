@@ -1,5 +1,0 @@
----
-title: firstamendment
-crosslinks:
-- autotldr
----

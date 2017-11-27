@@ -11,7 +11,6 @@ crosslinks:
 - Serendipity
 - armoredwomen
 - ImaginaryDragons
-- livven
 - IDAP
 - mildlyinteresting
 - Fantasy

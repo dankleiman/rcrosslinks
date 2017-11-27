@@ -1,5 +1,0 @@
----
-title: ladydevs
-crosslinks:
-- autotldr
----

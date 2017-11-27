@@ -5,7 +5,6 @@ crosslinks:
 - legaladvice
 - xkcd
 - academia
-- autotldr
 - Aerials
 - knitting
 - chemistry

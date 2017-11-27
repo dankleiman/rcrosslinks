@@ -1,7 +1,6 @@
 ---
 title: dbxv
 crosslinks:
-- livven
 - gametales
 - RedLetterMedia
 - DragonBallXenoverse2

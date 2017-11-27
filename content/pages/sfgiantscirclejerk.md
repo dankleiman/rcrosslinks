@@ -1,5 +1,0 @@
----
-title: sfgiantscirclejerk
-crosslinks:
-- livven
----

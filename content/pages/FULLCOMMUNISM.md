@@ -1,8 +1,6 @@
 ---
 title: FULLCOMMUNISM
 crosslinks:
-- livven
-- autotldr
 - communism
 - communism101
 - FULLDISCOURSE

@@ -1,5 +1,0 @@
----
-title: ZOG
-crosslinks:
-- autotldr
----

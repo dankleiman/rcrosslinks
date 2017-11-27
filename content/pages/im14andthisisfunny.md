@@ -3,7 +3,6 @@ title: im14andthisisfunny
 crosslinks:
 - DankMemeArchive
 - me_irl
-- autotldr
 - lewronggeneration
 - funny
 - outside
@@ -13,7 +12,6 @@ crosslinks:
 - wildlypenis
 - iFunny
 - pics
-- livven
 - AskReddit
 - nincirclejerk
 - igtmsft

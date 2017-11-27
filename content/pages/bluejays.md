@@ -1,5 +1,0 @@
----
-title: bluejays
-crosslinks:
-- livven
----

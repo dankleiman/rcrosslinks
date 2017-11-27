@@ -1,5 +1,0 @@
----
-title: straightedge
-crosslinks:
-- autotldr
----

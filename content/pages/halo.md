@@ -1,7 +1,6 @@
 ---
 title: halo
 crosslinks:
-- livven
 - HaloWars
 - HaloOnline
 - HaloStory

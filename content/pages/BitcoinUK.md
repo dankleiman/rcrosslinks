@@ -4,7 +4,6 @@ crosslinks:
 - ethtrader
 - UKPersonalFinance
 - Bitcoin
-- autotldr
 - KrakenSupport
 - TenX
 - ethereum

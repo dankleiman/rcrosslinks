@@ -1,5 +1,0 @@
----
-title: sudoku
-crosslinks:
-- livven
----

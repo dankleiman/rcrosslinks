@@ -2,7 +2,6 @@
 title: lifehacks
 crosslinks:
 - xkcd
-- livven
 - pics
 - funny
 - AskReddit
@@ -15,7 +14,6 @@ crosslinks:
 - talesfromtechsupport
 - SkincareAddiction
 - FoodPorn
-- autotldr
 - hatchery
 - wholesomememes
 - personalfinance

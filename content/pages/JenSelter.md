@@ -1,5 +1,0 @@
----
-title: JenSelter
-crosslinks:
-- livven
----

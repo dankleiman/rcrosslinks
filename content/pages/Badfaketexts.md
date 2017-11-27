@@ -3,7 +3,6 @@ title: Badfaketexts
 crosslinks:
 - GoodFakeTexts
 - ComedyCemetery
-- livven
 - DeepFriedMemes
 - emojipasta
 - ComedyNecrophilia

@@ -1,5 +1,0 @@
----
-title: WeirdPolitics
-crosslinks:
-- autotldr
----

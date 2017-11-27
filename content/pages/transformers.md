@@ -4,7 +4,6 @@ crosslinks:
 - idwtransformers
 - toyexchange
 - ActionFigures
-- livven
 - Kenya
 - TransformersTrading
 - nswf

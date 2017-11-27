@@ -1,5 +1,0 @@
----
-title: AnimalsInPredicaments
-crosslinks:
-- autotldr
----

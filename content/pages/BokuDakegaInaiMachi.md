@@ -1,5 +1,0 @@
----
-title: BokuDakegaInaiMachi
-crosslinks:
-- livven
----

@@ -5,7 +5,6 @@ crosslinks:
 - nomanshigh
 - NMSPortals
 - chiliadmystery
-- livven
 - NoMansSkyMods
 - Games
 - NMS_Zoology

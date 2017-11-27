@@ -1,7 +1,6 @@
 ---
 title: LinuxActionShow
 crosslinks:
-- autotldr
 - linux
 - unfilter
 - linuxmasterrace
@@ -15,7 +14,6 @@ crosslinks:
 - SolusProject
 - MXLinux
 - linux_gaming
-- livven
 - gnome
 - privacy
 - CrackWatch

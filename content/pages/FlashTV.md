@@ -2,7 +2,6 @@
 title: FlashTV
 crosslinks:
 - arrow
-- livven
 - ReverseFlashTV
 - caitlinsfaces
 - LegendsOfTomorrow

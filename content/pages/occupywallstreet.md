@@ -1,7 +1,6 @@
 ---
 title: occupywallstreet
 crosslinks:
-- autotldr
 - EnoughTrumpSpam
 - worldpolitics
 - Anarchism

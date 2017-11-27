@@ -12,7 +12,6 @@ crosslinks:
 - MarieClaire
 - anightinwesteros
 - AlishaWhite
-- livven
 - Fruit_n_Honey
 - TheDivineMissPanty
 - Countrygirl92

@@ -3,7 +3,6 @@ title: fatlogic
 crosslinks:
 - loseit
 - Fitness
-- livven
 - askscience
 - 4chan
 - thatHappened

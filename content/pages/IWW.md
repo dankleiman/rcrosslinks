@@ -1,7 +1,6 @@
 ---
 title: IWW
 crosslinks:
-- autotldr
 - AustralianSocialism
 - GreenParty
 - GigUnion

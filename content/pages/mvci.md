@@ -5,7 +5,6 @@ crosslinks:
 - marvelvscapcom
 - MvC3
 - StreetFighter
-- livven
 - GameDeals
 - MvCinfinite
 - funkopop

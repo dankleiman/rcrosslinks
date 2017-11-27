@@ -1,7 +1,6 @@
 ---
 title: insertions
 crosslinks:
-- livven
 - Slink
 - ButtSharpies
 - SpankSafe

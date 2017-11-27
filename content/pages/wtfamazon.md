@@ -1,5 +1,0 @@
----
-title: wtfamazon
-crosslinks:
-- autotldr
----

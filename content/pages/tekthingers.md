@@ -1,5 +1,0 @@
----
-title: tekthingers
-crosslinks:
-- autotldr
----

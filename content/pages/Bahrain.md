@@ -1,7 +1,6 @@
 ---
 title: Bahrain
 crosslinks:
-- autotldr
 - WorldDailyTops
 - GolfGTI
 - AskReddit

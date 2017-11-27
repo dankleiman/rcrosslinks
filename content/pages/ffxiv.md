@@ -2,7 +2,6 @@
 title: ffxiv
 crosslinks:
 - FFXIVRECRUITMENT
-- livven
 - FFXIVGlamours
 - ACTOverlayPlugin
 - ffxivraf

@@ -2,7 +2,6 @@
 title: RedditLaqueristas
 crosslinks:
 - malepolish
-- livven
 - HailCorporate
 - RandomActsOfPolish
 - SoakOff

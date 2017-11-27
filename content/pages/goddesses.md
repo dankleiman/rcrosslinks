@@ -1,7 +1,6 @@
 ---
 title: goddesses
 crosslinks:
-- livven
 - InternetStars
 - mavrinmodels
 - sexygirls

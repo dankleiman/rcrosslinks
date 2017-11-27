@@ -1,5 +1,0 @@
----
-title: Hemophilia
-crosslinks:
-- autotldr
----

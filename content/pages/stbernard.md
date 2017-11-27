@@ -1,5 +1,0 @@
----
-title: stbernard
-crosslinks:
-- livven
----

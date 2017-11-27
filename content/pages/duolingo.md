@@ -7,7 +7,6 @@ crosslinks:
 - gaeilge
 - German
 - Spanish
-- livven
 - AskReddit
 - Korean
 - getdisciplined

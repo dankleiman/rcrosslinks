@@ -6,7 +6,6 @@ crosslinks:
 - NeuroMuscularDent
 - CBD
 - ehlersdanlos
-- autotldr
 - AskReddit
 - medicine
 - CrohnsDisease

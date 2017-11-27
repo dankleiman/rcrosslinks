@@ -8,5 +8,4 @@ crosslinks:
 - todayilearned
 - worldnews
 - MindBodySpirit
-- autotldr
 ---

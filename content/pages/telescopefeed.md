@@ -1,5 +1,0 @@
----
-title: telescopefeed
-crosslinks:
-- autotldr
----

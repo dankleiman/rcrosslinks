@@ -1,7 +1,6 @@
 ---
 title: Superbowl
 crosslinks:
-- livven
 - aww
 - pics
 - gifs

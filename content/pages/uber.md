@@ -1,7 +1,6 @@
 ---
 title: uber
 crosslinks:
-- autotldr
 - Lyft
 - Triggered
 - personalfinance

@@ -1,5 +1,0 @@
----
-title: heroic
-crosslinks:
-- livven
----

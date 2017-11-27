@@ -1,5 +1,0 @@
----
-title: AvaDevine
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: cock
 crosslinks:
-- livven
 - GayGiles
 - RedditorCum
 - gonewildstories

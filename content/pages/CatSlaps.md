@@ -1,7 +1,6 @@
 ---
 title: CatSlaps
 crosslinks:
-- livven
 - aww
 - AnimalsBeingJerks
 - CatTaps

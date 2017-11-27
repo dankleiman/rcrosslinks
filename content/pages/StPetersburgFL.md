@@ -7,7 +7,6 @@ crosslinks:
 - conspiracy
 - Entrepreneur
 - lfg
-- livven
 - watchpeopledie
 - tampa
 - Anatomy

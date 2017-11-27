@@ -1,7 +1,6 @@
 ---
 title: FIFA
 crosslinks:
-- livven
 - soccer
 - FifaCareers
 - FIFA17UT

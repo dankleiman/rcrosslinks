@@ -1,5 +1,0 @@
----
-title: NewsWorm
-crosslinks:
-- autotldr
----

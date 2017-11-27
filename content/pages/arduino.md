@@ -3,7 +3,6 @@ title: arduino
 crosslinks:
 - AskElectronics
 - esp8266
-- livven
 - electronics
 - 3Dprinting
 - homeautomation

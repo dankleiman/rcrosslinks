@@ -1,7 +1,6 @@
 ---
 title: uncommonposes
 crosslinks:
-- livven
 - LifeIsABeach
 - katyaclover
 - FlexiGirls

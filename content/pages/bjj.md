@@ -1,7 +1,6 @@
 ---
 title: bjj
 crosslinks:
-- livven
 - judo
 - MMA
 - Fitness
@@ -9,7 +8,6 @@ crosslinks:
 - ketogains
 - xkcd
 - gifs
-- autotldr
 - GripTraining
 - '2013'
 - NoNewsMMA

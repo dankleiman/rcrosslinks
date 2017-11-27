@@ -5,6 +5,4 @@ crosslinks:
 - normaldayinjapan
 - japancirclejerk
 - escapedtires
-- autotldr
-- livven
 ---

@@ -1,7 +1,6 @@
 ---
 title: providence
 crosslinks:
-- autotldr
 - RhodeIsland
 - DIY
 - metric_units

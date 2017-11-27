@@ -1,7 +1,6 @@
 ---
 title: somethingimade
 crosslinks:
-- livven
 - DIY
 - crafts
 - pics

@@ -1,7 +1,6 @@
 ---
 title: EndangeredSpecies
 crosslinks:
-- autotldr
 - vegan
 - DeepGreenResistance
 - conservation

@@ -1,7 +1,6 @@
 ---
 title: SuddenlyGay
 crosslinks:
-- livven
 - TotallyStraight
 - gifs
 - todayilearned

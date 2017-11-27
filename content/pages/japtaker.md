@@ -1,5 +1,0 @@
----
-title: japtaker
-crosslinks:
-- autotldr
----

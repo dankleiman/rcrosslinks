@@ -1,7 +1,6 @@
 ---
 title: shockwaveporn
 crosslinks:
-- livven
 - AtomicPorn
 - videos
 - Physics

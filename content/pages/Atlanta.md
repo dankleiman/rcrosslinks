@@ -2,10 +2,8 @@
 title: Atlanta
 crosslinks:
 - AtlantaCircleJerk
-- autotldr
 - gatech
 - atlantar4r
-- livven
 - GAPol
 - Comcast_Xfinity
 - AtlantaUnited

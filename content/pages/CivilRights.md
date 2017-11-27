@@ -1,5 +1,0 @@
----
-title: CivilRights
-crosslinks:
-- autotldr
----

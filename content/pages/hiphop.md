@@ -4,7 +4,6 @@ crosslinks:
 - Music
 - indieheads
 - videos
-- autotldr
 - fidgetspin
 - SoundsLikeMusic
 - KendrickLamar

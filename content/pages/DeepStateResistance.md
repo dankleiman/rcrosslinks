@@ -1,5 +1,0 @@
----
-title: DeepStateResistance
-crosslinks:
-- autotldr
----

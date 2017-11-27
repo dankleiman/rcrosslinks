@@ -1,5 +1,0 @@
----
-title: gaygingers
-crosslinks:
-- livven
----

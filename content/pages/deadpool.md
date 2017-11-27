@@ -2,9 +2,7 @@
 title: deadpool
 crosslinks:
 - marvelstudios
-- livven
 - videos
-- autotldr
 - place
 - im12andthisisfunny
 - BadDragon

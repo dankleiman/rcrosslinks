@@ -2,7 +2,6 @@
 title: ApocalypseRising
 crosslinks:
 - unturned
-- livven
 - PhantomForces
 - copypasta
 - place

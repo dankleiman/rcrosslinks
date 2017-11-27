@@ -1,7 +1,6 @@
 ---
 title: tippytaps
 crosslinks:
-- livven
 - aww
 - gifs
 - Zoomies

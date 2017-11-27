@@ -1,7 +1,6 @@
 ---
 title: NoShitSherlock
 crosslinks:
-- autotldr
 - ShitAmericansSay
 - Conservative
 - economy

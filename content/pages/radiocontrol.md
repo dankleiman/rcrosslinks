@@ -11,9 +11,7 @@ crosslinks:
 - drone
 - metric_units
 - interestingasfuck
-- livven
 - radiocontrolcar
 - Volvo
 - RCAirplane
-- autotldr
 ---

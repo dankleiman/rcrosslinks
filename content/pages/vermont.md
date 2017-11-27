@@ -1,7 +1,6 @@
 ---
 title: vermont
 crosslinks:
-- autotldr
 - trees
 - humanism
 - NOWTTYG
@@ -12,7 +11,6 @@ crosslinks:
 - IAmA
 - MLS
 - The_Donald
-- livven
 - redditrequest
 - Random_Acts_Of_Pizza
 - xkcd

@@ -1,5 +1,0 @@
----
-title: AmazingTechnologyGIFs
-crosslinks:
-- livven
----

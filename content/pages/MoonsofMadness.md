@@ -1,5 +1,0 @@
----
-title: MoonsofMadness
-crosslinks:
-- livven
----

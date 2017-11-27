@@ -1,7 +1,6 @@
 ---
 title: Teleshits
 crosslinks:
-- livven
 - CodeLyoko
 - EVEX
 - zootopia

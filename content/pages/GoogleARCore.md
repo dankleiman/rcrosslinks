@@ -1,5 +1,0 @@
----
-title: GoogleARCore
-crosslinks:
-- autotldr
----

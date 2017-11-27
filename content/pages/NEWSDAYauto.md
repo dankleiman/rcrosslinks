@@ -1,5 +1,0 @@
----
-title: NEWSDAYauto
-crosslinks:
-- autotldr
----

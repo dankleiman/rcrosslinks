@@ -9,7 +9,6 @@ crosslinks:
 - OtakuVisualArts
 - me_irl
 - gaming
-- livven
 - INJUSTICE
 - indiegameswap
 - OhioGamers

@@ -1,7 +1,6 @@
 ---
 title: lifeisstrange
 crosslinks:
-- livven
 - lifeisstrangeleaks
 - Games
 - Pricefield
@@ -13,7 +12,6 @@ crosslinks:
 - KarmaCourt
 - telltale
 - AMAAggregator
-- autotldr
 - AskReddit
 - xkcd
 - linux_gaming

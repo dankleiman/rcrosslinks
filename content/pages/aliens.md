@@ -5,7 +5,6 @@ crosslinks:
 - Missing411
 - conspiracy
 - UFOs
-- autotldr
 - CosmicDisclosure
 - RedditAlternatives
 - Paranormal

@@ -1,7 +1,6 @@
 ---
 title: blackdesertonline
 crosslinks:
-- livven
 - BDOGuilds
 - MMORPG
 - DFO

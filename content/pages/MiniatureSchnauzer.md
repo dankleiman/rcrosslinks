@@ -1,5 +1,0 @@
----
-title: MiniatureSchnauzer
-crosslinks:
-- livven
----

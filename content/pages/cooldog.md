@@ -1,5 +1,0 @@
----
-title: cooldog
-crosslinks:
-- livven
----

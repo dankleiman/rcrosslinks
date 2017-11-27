@@ -1,5 +1,0 @@
----
-title: StealyAnimals
-crosslinks:
-- livven
----

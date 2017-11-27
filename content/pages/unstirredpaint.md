@@ -11,7 +11,6 @@ crosslinks:
 - PareidoliaGoneWild
 - stirredpaint
 - nukedmemes
-- livven
 - painting
 - mildlypenis
 - pics

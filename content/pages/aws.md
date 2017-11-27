@@ -1,7 +1,6 @@
 ---
 title: aws
 crosslinks:
-- autotldr
 - xkcd
 - sysadmin
 - learnprogramming

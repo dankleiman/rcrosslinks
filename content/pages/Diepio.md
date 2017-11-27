@@ -1,7 +1,6 @@
 ---
 title: Diepio
 crosslinks:
-- livven
 - DiepioSuggestions
 - Diepiothemes
 - DiepioPartyLinks

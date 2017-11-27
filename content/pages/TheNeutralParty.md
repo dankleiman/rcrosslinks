@@ -1,5 +1,0 @@
----
-title: TheNeutralParty
-crosslinks:
-- livven
----

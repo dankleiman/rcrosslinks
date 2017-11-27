@@ -7,9 +7,7 @@ crosslinks:
 - ADSB
 - stratux
 - netsec
-- livven
 - RoastMe
-- autotldr
 - talesfromtechsupport
 - radioastronomy
 - HamFest

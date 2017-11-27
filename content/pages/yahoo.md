@@ -1,5 +1,0 @@
----
-title: yahoo
-crosslinks:
-- autotldr
----

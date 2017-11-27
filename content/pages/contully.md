@@ -1,5 +1,0 @@
----
-title: contully
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: slavs_squatting
 crosslinks:
-- livven
 - hatchery
 - croatia
 - MemeEconomy

@@ -1,14 +1,12 @@
 ---
 title: MadeMeSmile
 crosslinks:
-- livven
 - gifs
 - aww
 - videos
 - funny
 - AskReddit
 - pics
-- autotldr
 - PeopleFuckingDying
 - HailCorporate
 - BritainsGotTalent

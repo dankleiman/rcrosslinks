@@ -1,7 +1,6 @@
 ---
 title: Cinemagraphs
 crosslinks:
-- livven
 - perfectloops
 - Plastuer
 - HailCorporate

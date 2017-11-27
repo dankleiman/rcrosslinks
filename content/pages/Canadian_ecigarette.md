@@ -11,7 +11,6 @@ crosslinks:
 - redheads
 - ScienceHumour
 - OpTicGaming
-- livven
 - montreal
 - startrekgifs
 - firstworldanarchists

@@ -1,5 +1,0 @@
----
-title: altnews
-crosslinks:
-- autotldr
----

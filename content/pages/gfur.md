@@ -1,7 +1,6 @@
 ---
 title: gfur
 crosslinks:
-- livven
 - Drawn_Horsecock
 - FurryArtSchool
 - autofellatio

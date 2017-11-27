@@ -7,7 +7,6 @@ crosslinks:
 - changemyview
 - progresspics
 - cartoons
-- autotldr
 - todayilearned
 - teslamotors
 ---

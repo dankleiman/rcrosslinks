@@ -1,5 +1,0 @@
----
-title: ChristyMack
-crosslinks:
-- livven
----

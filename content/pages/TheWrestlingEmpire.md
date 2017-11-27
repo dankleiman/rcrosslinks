@@ -1,5 +1,0 @@
----
-title: TheWrestlingEmpire
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: hiking
 crosslinks:
 - CampingandHiking
-- autotldr
 - Ultralight
 - PacificCrestTrail
 - AppalachianTrail

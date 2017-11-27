@@ -1,7 +1,6 @@
 ---
 title: ManyATrueNerd
 crosslinks:
-- livven
 - totalwar
 - JonTron
 - PrequelMemes

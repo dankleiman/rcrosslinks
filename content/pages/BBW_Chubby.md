@@ -1,7 +1,6 @@
 ---
 title: BBW_Chubby
 crosslinks:
-- livven
 - thick
 - DzireMoore
 - HighQualityGifs

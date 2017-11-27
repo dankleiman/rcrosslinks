@@ -3,7 +3,6 @@ title: CalgaryFlames
 crosslinks:
 - hockey
 - canucks
-- livven
 - NHLStreams
 - place
 - EdmontonOilers

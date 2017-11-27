@@ -2,7 +2,6 @@
 title: JonTron
 crosslinks:
 - The_Donald
-- livven
 - KotakuInAction
 - ShitAmericansSay
 - politics

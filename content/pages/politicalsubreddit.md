@@ -1,5 +1,0 @@
----
-title: politicalsubreddit
-crosslinks:
-- livven
----

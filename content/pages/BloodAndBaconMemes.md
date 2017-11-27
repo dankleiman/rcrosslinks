@@ -1,5 +1,0 @@
----
-title: BloodAndBaconMemes
-crosslinks:
-- livven
----

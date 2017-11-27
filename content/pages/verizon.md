@@ -3,7 +3,6 @@ title: verizon
 crosslinks:
 - VerizonUDP
 - Sprint
-- autotldr
 - ATT
 - Fios
 - NoContract

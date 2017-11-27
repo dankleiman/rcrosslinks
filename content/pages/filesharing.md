@@ -6,7 +6,6 @@ crosslinks:
 - megalinks
 - BestLifeHack
 - Piracy
-- autotldr
 - Download
 - trackers
 ---

@@ -1,5 +1,0 @@
----
-title: inspirationalquotes
-crosslinks:
-- livven
----

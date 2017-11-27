@@ -7,7 +7,6 @@ crosslinks:
 - whatisthisthing
 - SolidWorks
 - CNC
-- livven
 - VXJunkies
 - xkcd
 - AutoDetailing
@@ -19,6 +18,5 @@ crosslinks:
 - Drugs
 - diysound
 - futurology
-- autotldr
 - electricians
 ---

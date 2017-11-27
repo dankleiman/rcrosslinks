@@ -9,8 +9,6 @@ crosslinks:
 - tasker
 - androidthemes
 - Galaxy_S8
-- livven
-- autotldr
 - Nexus6P
 - GearVR
 - GalaxyNote8

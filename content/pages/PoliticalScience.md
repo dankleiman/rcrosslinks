@@ -1,7 +1,6 @@
 ---
 title: PoliticalScience
 crosslinks:
-- autotldr
 - communism101
 - IRstudies
 - Finland

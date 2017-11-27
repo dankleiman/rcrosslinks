@@ -9,7 +9,6 @@ crosslinks:
 - AskReddit
 - EcouteCa
 - CajunFrench
-- autotldr
 - Showerthoughts
 - Enhancement
 - TESOL

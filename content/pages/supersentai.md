@@ -8,6 +8,5 @@ crosslinks:
 - rpg
 - garo
 - GODZILLA
-- livven
 - unexpectedstannis
 ---

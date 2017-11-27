@@ -2,7 +2,6 @@
 title: greatestgen
 crosslinks:
 - startrek
-- autotldr
 - gifs
 - Earwolf
 - StarTrekViewingParty
@@ -20,5 +19,4 @@ crosslinks:
 - UtricksBlog
 - AskReddit
 - xkcd
-- livven
 ---

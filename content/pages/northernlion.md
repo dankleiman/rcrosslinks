@@ -3,7 +3,6 @@ title: northernlion
 crosslinks:
 - NLSSCircleJerk
 - zelda
-- livven
 - LivestreamFail
 - factorio
 - xkcd

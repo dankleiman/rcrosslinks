@@ -2,7 +2,6 @@
 title: pic
 crosslinks:
 - pics
-- livven
 - AccidentalRenaissance
 - schweiz
 - CityPorn

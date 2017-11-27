@@ -1,7 +1,6 @@
 ---
 title: PartyParrot
 crosslinks:
-- livven
 - aww
 - parrots
 - TheFarLeftSide

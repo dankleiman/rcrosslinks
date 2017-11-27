@@ -1,5 +1,0 @@
----
-title: OMGCosplay
-crosslinks:
-- livven
----

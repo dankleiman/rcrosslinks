@@ -2,7 +2,6 @@
 title: live
 crosslinks:
 - JustTheTopNews
-- autotldr
 - worldnews
 - oknotizie
 - uncharted

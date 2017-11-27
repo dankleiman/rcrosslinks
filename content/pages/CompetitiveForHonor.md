@@ -4,7 +4,6 @@ crosslinks:
 - forhonor
 - ForHonorPTS
 - PS4
-- livven
 - ForHonorSamurai
 - StreetFighter
 - ForHonorRants

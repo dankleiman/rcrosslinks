@@ -1,5 +1,0 @@
----
-title: EurocoreRevival
-crosslinks:
-- livven
----

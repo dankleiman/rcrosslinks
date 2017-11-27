@@ -7,7 +7,6 @@ crosslinks:
 - fastfood
 - trippinthroughtime
 - HighQualityGifs
-- livven
 - gaming
 - redditrequest
 - avoid5

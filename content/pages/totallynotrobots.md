@@ -1,9 +1,6 @@
 ---
 title: totallynotrobots
 crosslinks:
-- livven
-- TOTALLYROBOTS
-- autotldr
 - pics
 - xkcd
 - mildlyinteresting

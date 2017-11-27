@@ -1,7 +1,6 @@
 ---
 title: bird
 crosslinks:
-- livven
 - peacocks
 - Veterinary
 - parrots

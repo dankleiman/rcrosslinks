@@ -3,8 +3,6 @@ title: shield
 crosslinks:
 - marvelstudios
 - shieldsynopsis
-- livven
-- autotldr
 - arrow
 - IAmA
 - xkcd

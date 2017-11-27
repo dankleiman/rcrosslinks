@@ -1,5 +1,0 @@
----
-title: jindal
-crosslinks:
-- autotldr
----

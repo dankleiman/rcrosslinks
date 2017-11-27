@@ -2,12 +2,10 @@
 title: Trucks
 crosslinks:
 - cars
-- livven
 - AutoDetailing
 - metric_units
 - ATBGE
 - ram_trucks
-- autotldr
 - trucking
 - Hookit
 - Shitty_Car_Mods

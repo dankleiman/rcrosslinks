@@ -14,7 +14,6 @@ crosslinks:
 - PraiseAnokuu
 - DiepioPartyLinks_
 - Cows
-- livven
 - 2meirl4meirl
 - modnews
 - screenshots

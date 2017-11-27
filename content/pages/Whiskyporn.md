@@ -8,7 +8,6 @@ crosslinks:
 - worldwhisky
 - cognac
 - pdxwhisky
-- livven
 - whiskyeurope
 - pitchforkemporium
 - Houseporn

@@ -16,7 +16,6 @@ crosslinks:
 - wiki
 - AmericaAplication
 - doggerlundt
-- autotldr
 - Doggerlundt
 - armenia
 - ronpaulshops

@@ -1,12 +1,10 @@
 ---
 title: indianapolis
 crosslinks:
-- autotldr
 - Indiana
 - personalfinance
 - depression
 - gencon
-- livven
 - swordartonline
 - AskReddit
 - Buddhism

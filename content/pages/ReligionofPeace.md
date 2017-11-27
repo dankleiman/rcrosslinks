@@ -1,5 +1,0 @@
----
-title: ReligionofPeace
-crosslinks:
-- autotldr
----

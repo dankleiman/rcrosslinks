@@ -4,6 +4,5 @@ crosslinks:
 - YIMO
 - TheVastayaMains
 - Kennenmains
-- livven
 - TeemoTalk
 ---

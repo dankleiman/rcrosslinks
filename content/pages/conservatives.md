@@ -15,7 +15,6 @@ crosslinks:
 - Conservative
 - askaconservative
 - AskScienceFiction
-- livven
 - dgu
 - climate
 - BestoftheRight

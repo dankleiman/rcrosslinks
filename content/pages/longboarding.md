@@ -1,7 +1,6 @@
 ---
 title: longboarding
 crosslinks:
-- livven
 - NewSkaters
 - LSD
 - nameaserver

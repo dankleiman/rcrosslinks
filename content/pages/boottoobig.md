@@ -1,7 +1,6 @@
 ---
 title: boottoobig
 crosslinks:
-- livven
 - AskReddit
 - ComedyCemetery
 - tifu

@@ -1,7 +1,6 @@
 ---
 title: prolife
 crosslinks:
-- autotldr
 - prochoice
 - TwoXChromosomes
 - pics

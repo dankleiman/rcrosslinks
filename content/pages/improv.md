@@ -10,7 +10,6 @@ crosslinks:
 - chanceme
 - modnews
 - tellmeastoryapp
-- autotldr
 - redditrequest
 - Harold
 - Earwolf

@@ -1,7 +1,6 @@
 ---
 title: Mindfulness
 crosslinks:
-- autotldr
 - Meditation
 - getdisciplined
 - xkcd
@@ -13,7 +12,6 @@ crosslinks:
 - ADHD
 - getting_over_it
 - Art
-- livven
 - Psychonaut
 - LSD
 - microdosing

@@ -3,7 +3,6 @@ title: powerrangers
 crosslinks:
 - supersentai
 - funkopop
-- autotldr
 - movies
 - ProCSS
 - HailCorporate

@@ -1,5 +1,0 @@
----
-title: LivingBackgrounds
-crosslinks:
-- livven
----

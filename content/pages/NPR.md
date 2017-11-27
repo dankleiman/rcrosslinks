@@ -1,7 +1,6 @@
 ---
 title: NPR
 crosslinks:
-- autotldr
 - The_Donald
 - media_criticism
 - place

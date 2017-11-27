@@ -1,7 +1,6 @@
 ---
 title: qualitynews
 crosslinks:
-- autotldr
 - worldnews
 - NewsYouShouldKnow
 - privacy

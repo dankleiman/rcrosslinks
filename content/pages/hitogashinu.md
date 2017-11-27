@@ -1,5 +1,0 @@
----
-title: hitogashinu
-crosslinks:
-- livven
----

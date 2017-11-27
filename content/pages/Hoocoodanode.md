@@ -2,7 +2,6 @@
 title: Hoocoodanode
 crosslinks:
 - WayOfTheBern
-- autotldr
 - IBO
 - KotakuInAction
 - Patriots

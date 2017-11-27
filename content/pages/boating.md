@@ -1,7 +1,6 @@
 ---
 title: boating
 crosslinks:
-- livven
 - BurningMan
 - metric_units
 - PrimitiveTechnology

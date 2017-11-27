@@ -5,8 +5,6 @@ crosslinks:
 - Bitcoin
 - BitcoinMarkets
 - CryptoCurrency
-- autotldr
-- livven
 - ethtraderpro
 - etheroll
 - omise_go

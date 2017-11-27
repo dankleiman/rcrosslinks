@@ -1,5 +1,0 @@
----
-title: AnybodyButHillary
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: Justrolledintotheshop
 crosslinks:
-- livven
 - Shitty_Car_Mods
 - xkcd
 - AskReddit

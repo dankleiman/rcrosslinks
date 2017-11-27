@@ -2,7 +2,6 @@
 title: Archery
 crosslinks:
 - Bowyer
-- livven
 - funny
 - Leathercraft
 - PVCBowyer
@@ -16,7 +15,6 @@ crosslinks:
 - WTF
 - nonose
 - pics
-- autotldr
 - AskHistorians
 - ArtisanVideos
 - plastidip

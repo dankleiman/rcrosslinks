@@ -1,7 +1,6 @@
 ---
 title: FuckYou
 crosslinks:
-- livven
 - KarmaCourt
 - fuckyouone
 - copypasta

@@ -4,7 +4,6 @@ crosslinks:
 - anime
 - Pixiv
 - OneTrueEmilia
-- livven
 - silverhair
 - Animewallpaper
 - help

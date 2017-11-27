@@ -9,7 +9,6 @@ crosslinks:
 - taiwan
 - Paleo
 - keto
-- livven
 - CrohnsDisease
 - predaddit
 - skeptic

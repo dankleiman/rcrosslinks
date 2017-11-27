@@ -1,7 +1,6 @@
 ---
 title: wyoming
 crosslinks:
-- autotldr
 - laramie
 - worldpolitics
 - pics

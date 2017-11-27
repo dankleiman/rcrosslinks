@@ -1,5 +1,0 @@
----
-title: Snopes
-crosslinks:
-- autotldr
----

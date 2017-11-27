@@ -2,7 +2,6 @@
 title: thesims
 crosslinks:
 - nocontext
-- livven
 - thesimscc
 - TheSimsNoContext
 - TheSimsBuilding

@@ -4,6 +4,5 @@ crosslinks:
 - OasisUSIC
 - amazon
 - imagehosting
-- autotldr
 - MasterLegend
 ---

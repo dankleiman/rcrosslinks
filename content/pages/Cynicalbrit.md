@@ -17,7 +17,6 @@ crosslinks:
 - lewronggeneration
 - gamedev
 - GameSpot
-- livven
 - PUBATTLEGROUNDS
 - UnexpectedDS9
 - AdviceAnimals

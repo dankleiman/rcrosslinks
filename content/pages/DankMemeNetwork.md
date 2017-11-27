@@ -3,7 +3,6 @@ title: DankMemeNetwork
 crosslinks:
 - dankmemes
 - REEEEEEEEEE
-- livven
 - DeepFriedMemes
 - dank_meme
 - me_irl

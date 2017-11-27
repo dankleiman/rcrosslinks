@@ -17,7 +17,6 @@ crosslinks:
 - mexico
 - OutOfTheLoop
 - ChileCringe
-- livven
 - askreddit
 - texas
 - Fallout

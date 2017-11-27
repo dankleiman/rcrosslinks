@@ -1,7 +1,6 @@
 ---
 title: PenmanshipPorn
 crosslinks:
-- livven
 - Handwriting
 - fountainpens
 - Calligraphy

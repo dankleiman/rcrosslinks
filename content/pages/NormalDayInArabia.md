@@ -1,5 +1,0 @@
----
-title: NormalDayInArabia
-crosslinks:
-- livven
----

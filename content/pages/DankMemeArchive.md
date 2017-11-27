@@ -1,11 +1,9 @@
 ---
 title: DankMemeArchive
 crosslinks:
-- livven
 - TotallyNotGoats
 - me_irl
 - lewronggeneration
-- autotldr
 - Suomi
 - dankmemes
 - Animemes

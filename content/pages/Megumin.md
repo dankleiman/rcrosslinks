@@ -6,7 +6,6 @@ crosslinks:
 - place
 - Animemes
 - TheBlueCorner
-- livven
 - nsfwMegumin
 - de
 - ahegao

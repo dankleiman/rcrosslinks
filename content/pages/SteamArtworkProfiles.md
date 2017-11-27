@@ -2,7 +2,6 @@
 title: SteamArtworkProfiles
 crosslinks:
 - Steam
-- livven
 - onnocreeper
 - SteamTradingCards
 - DeadOrAlive

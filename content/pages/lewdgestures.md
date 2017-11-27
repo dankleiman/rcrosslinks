@@ -1,7 +1,6 @@
 ---
 title: lewdgestures
 crosslinks:
-- livven
 - CandyCovered
 - YoungMonroe
 - ConfusedBoners

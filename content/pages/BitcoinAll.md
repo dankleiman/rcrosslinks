@@ -2,13 +2,11 @@
 title: BitcoinAll
 crosslinks:
 - Bitcoin
-- autotldr
 - Bitcoincash
 - BitcoinMarkets
 - BitcoinMining
 - BitcoinJustUseIt
 - CryptoCurrency
-- livven
 - BitcoinTechnology
 - BTCuncensored
 - BitcoinTV

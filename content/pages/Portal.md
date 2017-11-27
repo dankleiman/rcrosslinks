@@ -3,7 +3,6 @@ title: Portal
 crosslinks:
 - HalfLife
 - gaming
-- livven
 - redditrequest
 - modnews
 - valve

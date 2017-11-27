@@ -1,5 +1,0 @@
----
-title: ratemyjump
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: nationalist
-crosslinks:
-- autotldr
----

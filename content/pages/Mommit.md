@@ -7,7 +7,6 @@ crosslinks:
 - SAHP
 - nanny
 - MealPrepSunday
-- autotldr
 - Bitcoin
 - NICUParents
 - Assistance

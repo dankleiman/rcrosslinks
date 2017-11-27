@@ -9,7 +9,6 @@ crosslinks:
 - smashcirclejerk
 - FuckFalco
 - AskReddit
-- livven
 - AskElectronics
 - gaming
 - hiphopheads

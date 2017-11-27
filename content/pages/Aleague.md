@@ -5,9 +5,7 @@ crosslinks:
 - BrasilOnReddit
 - soccerstreams
 - AleagueGoneWild
-- livven
 - NewcastleUnitedJets
-- autotldr
 - nrl
 - JLeague
 - SydneyFC

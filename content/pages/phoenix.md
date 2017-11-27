@@ -2,8 +2,6 @@
 title: phoenix
 crosslinks:
 - arizona
-- autotldr
-- livven
 - PHXMusic
 - AskReddit
 - ASU

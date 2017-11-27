@@ -2,13 +2,11 @@
 title: FuckUnitedAirlines
 crosslinks:
 - Physical_Removal
-- autotldr
 - shitpost
 - Drama
 - gifs
 - AskHistorians
 - SocialistRA
-- livven
 - DotA2
 - todayilearned
 - DeathtoAmeriKKKa

@@ -1,7 +1,6 @@
 ---
 title: IDAP
 crosslinks:
-- livven
 - redditgetsdrawn
 - Suralya
 - Art

@@ -1,7 +1,6 @@
 ---
 title: programmerreactions
 crosslinks:
-- livven
 - gifs
 - ScratchyScratchy
 - Whatcouldgowrong

@@ -1,7 +1,6 @@
 ---
 title: brokengifs
 crosslinks:
-- livven
 - woahdude
 - glitch_art
 - HighQualityGifs

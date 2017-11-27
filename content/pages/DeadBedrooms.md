@@ -13,7 +13,6 @@ crosslinks:
 - DeadBedroomHookUps
 - karezza
 - science
-- autotldr
 - RPChristians
 - naughtyfromneglect
 - AskMen

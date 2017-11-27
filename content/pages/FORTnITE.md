@@ -4,7 +4,6 @@ crosslinks:
 - FortNiteBR
 - FortNiteLFG
 - FNBattleRoyale
-- livven
 - Games
 - Fortniters
 - FortniteFleaMarket

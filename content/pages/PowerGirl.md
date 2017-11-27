@@ -1,5 +1,0 @@
----
-title: PowerGirl
-crosslinks:
-- livven
----

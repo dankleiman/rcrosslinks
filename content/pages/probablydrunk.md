@@ -1,5 +1,0 @@
----
-title: probablydrunk
-crosslinks:
-- livven
----

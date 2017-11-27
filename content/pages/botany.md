@@ -9,7 +9,6 @@ crosslinks:
 - succulents
 - DeepGreenResistance
 - amorphophallus
-- autotldr
 - SavageGarden
 - veterinarians
 - mildyvagina

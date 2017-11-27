@@ -2,7 +2,6 @@
 title: castles
 crosslinks:
 - TinyCastles
-- livven
 - papertowns
 - NoShitSherlock
 - gardening

@@ -1,5 +1,0 @@
----
-title: CHICubsGIFS
-crosslinks:
-- livven
----

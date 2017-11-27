@@ -2,7 +2,6 @@
 title: cardistry
 crosslinks:
 - playingcards
-- livven
 - PlayingCardsMarket
 - cardmagic
 - AskReddit

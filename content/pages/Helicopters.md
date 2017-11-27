@@ -3,7 +3,6 @@ title: Helicopters
 crosslinks:
 - medicine
 - flying
-- livven
 - army
 - gadgets
 - nursing

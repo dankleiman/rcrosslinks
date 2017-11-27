@@ -5,7 +5,6 @@ crosslinks:
 - whatsthisplant
 - gardening
 - marijuanaenthusiasts
-- autotldr
 - me_irl
 - mead
 - fermentation

@@ -1,5 +1,0 @@
----
-title: Ethbits
-crosslinks:
-- livven
----

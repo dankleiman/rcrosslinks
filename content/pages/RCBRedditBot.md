@@ -3,7 +3,6 @@ title: RCBRedditBot
 crosslinks:
 - node
 - javascript
-- autotldr
 - reactjs
 - Frontend
 - coding
@@ -12,7 +11,6 @@ crosslinks:
 - rust
 - elixir
 - Design
-- livven
 - aureliajs
 - typescript
 - xkcd

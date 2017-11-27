@@ -2,7 +2,6 @@
 title: tightdresses
 crosslinks:
 - NaughtyDressGirls
-- livven
 - sarah_xxx
 - uncannyvalley
 - nsfw_gifs

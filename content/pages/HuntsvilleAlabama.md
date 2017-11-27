@@ -1,7 +1,6 @@
 ---
 title: HuntsvilleAlabama
 crosslinks:
-- autotldr
 - Birmingham
 - HSVGrMD
 - cocktails

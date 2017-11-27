@@ -4,7 +4,6 @@ crosslinks:
 - fountainpens
 - AskReddit
 - aww
-- livven
 - wholesomememes
 - mildlyinteresting
 - iamverysmart

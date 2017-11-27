@@ -1,7 +1,6 @@
 ---
 title: cutegirlgifs
 crosslinks:
-- livven
 - PrettyGirls
 - sexyhair
 - DodgerGifs

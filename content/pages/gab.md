@@ -1,5 +1,0 @@
----
-title: gab
-crosslinks:
-- autotldr
----

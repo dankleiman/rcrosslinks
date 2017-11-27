@@ -4,7 +4,6 @@ crosslinks:
 - techsupport
 - Twitch
 - TronScript
-- autotldr
 - chrome
 - Malware
 - CrackWatch

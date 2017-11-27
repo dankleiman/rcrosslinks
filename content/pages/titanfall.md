@@ -1,7 +1,6 @@
 ---
 title: titanfall
 crosslinks:
-- livven
 - imc_irl
 - gaming
 - WatchToneDie

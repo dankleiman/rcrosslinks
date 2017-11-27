@@ -14,7 +14,6 @@ crosslinks:
 - Inkscape
 - forhire
 - redditgetsdrawn
-- livven
 - VaporwaveArt
 - SCREENPRINTING
 - modnews

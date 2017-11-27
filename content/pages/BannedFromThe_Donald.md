@@ -7,9 +7,7 @@ crosslinks:
 - EnoughTrumpSpam
 - AskTrumpSupporters
 - politics
-- autotldr
 - MarchAgainstTrump
-- livven
 - Conservative
 - announcements
 - esist

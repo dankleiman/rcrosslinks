@@ -6,7 +6,6 @@ crosslinks:
 - AskReddit
 - CocoaBeanCountries
 - Wellthatsucks
-- livven
 - Yamity
 - YamMilitary
 - HouseOfYams

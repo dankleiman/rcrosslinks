@@ -1,5 +1,0 @@
----
-title: MortgagesCanada
-crosslinks:
-- autotldr
----

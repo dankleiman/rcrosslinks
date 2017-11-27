@@ -2,7 +2,6 @@
 title: lanadelrey
 crosslinks:
 - popheads
-- livven
 - place
 - pics
 - LanaDelReyPictures

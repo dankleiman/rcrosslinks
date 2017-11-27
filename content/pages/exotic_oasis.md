@@ -5,5 +5,4 @@ crosslinks:
 - NavelNSFW
 - NSFWfashion
 - CandyCovered
-- livven
 ---

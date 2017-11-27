@@ -9,7 +9,6 @@ crosslinks:
 - NoStupidQuestions
 - AlphaBay
 - xkcd
-- autotldr
 - Darknet_Markets
 - legaladvice
 - islam

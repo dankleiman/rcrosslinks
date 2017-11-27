@@ -3,7 +3,6 @@ title: commandandconquer
 crosslinks:
 - openra
 - redalert2
-- livven
 - pcgaming
 - modnews
 - europe

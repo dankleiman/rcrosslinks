@@ -1,7 +1,6 @@
 ---
 title: HadToHurt
 crosslinks:
-- livven
 - Whatcouldgowrong
 - gifs
 - FullScorpion

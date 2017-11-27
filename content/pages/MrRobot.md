@@ -3,7 +3,6 @@ title: MrRobot
 crosslinks:
 - ARGsociety
 - twinpeaks
-- autotldr
 - DID
 - WhyICorrectBryanPCox
 - funkopop

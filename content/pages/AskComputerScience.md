@@ -13,7 +13,6 @@ crosslinks:
 - spam
 - AskReddit
 - philosophy
-- autotldr
 - AMAAggregator
 - suggestapc
 - ComputerEngineering

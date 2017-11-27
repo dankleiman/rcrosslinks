@@ -3,7 +3,6 @@ title: weezer
 crosslinks:
 - shyvanamains
 - radiohead
-- livven
 - WeezerCircleJerk
 - indieheads
 - surrealmemes

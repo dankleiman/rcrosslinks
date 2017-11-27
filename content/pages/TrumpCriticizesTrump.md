@@ -15,7 +15,6 @@ crosslinks:
 - DumpTrump
 - lifeinapost
 - RussiaLoveCircleJerk
-- autotldr
 - television
 - TheoryOfReddit
 - arksd

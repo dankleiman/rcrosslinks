@@ -1,8 +1,6 @@
 ---
 title: tampa
 crosslinks:
-- autotldr
-- livven
 - TropicalWeather
 - IAmA
 - wtf

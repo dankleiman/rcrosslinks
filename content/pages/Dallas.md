@@ -1,11 +1,9 @@
 ---
 title: Dallas
 crosslinks:
-- autotldr
 - houston
 - news
 - dallasisawesome
-- livven
 - Austin
 - FortWorth
 - traps

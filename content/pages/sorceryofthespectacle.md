@@ -2,7 +2,6 @@
 title: sorceryofthespectacle
 crosslinks:
 - ShrugLifeSyndicate
-- autotldr
 - ByTheBookofThySelf
 - askphilosophy
 - funny

@@ -1,8 +1,6 @@
 ---
 title: Twitter
 crosslinks:
-- autotldr
-- livven
 - Serendipity
 - Enhancement
 - newsokur

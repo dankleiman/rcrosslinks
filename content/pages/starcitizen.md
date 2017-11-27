@@ -4,7 +4,6 @@ crosslinks:
 - starcitizen_refunds
 - DerekSmart
 - Starcitizen_trades
-- livven
 - EliteDangerous
 - Eve
 - xkcd

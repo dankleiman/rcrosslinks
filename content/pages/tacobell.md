@@ -1,8 +1,6 @@
 ---
 title: tacobell
 crosslinks:
-- livven
-- autotldr
 - xkcd
 - KarmaConspiracy
 - RandomActsOfTacoBell

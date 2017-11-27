@@ -1,7 +1,6 @@
 ---
 title: low_poly
 crosslinks:
-- livven
 - projecthedra
 - Unity3D
 - hyperlightdrifter

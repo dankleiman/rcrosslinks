@@ -1,5 +1,0 @@
----
-title: Blackdick
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: cybersecurity
 crosslinks:
-- autotldr
 - PatrolX
 - linux
 - xkcd

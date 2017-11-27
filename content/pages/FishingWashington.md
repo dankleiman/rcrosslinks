@@ -1,5 +1,0 @@
----
-title: FishingWashington
-crosslinks:
-- autotldr
----

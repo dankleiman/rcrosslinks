@@ -1,5 +1,0 @@
----
-title: votegifs
-crosslinks:
-- livven
----

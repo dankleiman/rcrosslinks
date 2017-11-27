@@ -1,7 +1,6 @@
 ---
 title: POTUSWatch
 crosslinks:
-- autotldr
 - POTUSWatchMods
 - The_Donald
 - TrumpCriticizesTrump

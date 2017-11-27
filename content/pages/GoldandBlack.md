@@ -3,7 +3,6 @@ title: GoldandBlack
 crosslinks:
 - zeronet
 - Anarcho_Capitalism
-- autotldr
 - Polycentric_Law
 - Bitcoin
 - Shitstatistssay

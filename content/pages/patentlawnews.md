@@ -1,5 +1,0 @@
----
-title: patentlawnews
-crosslinks:
-- autotldr
----

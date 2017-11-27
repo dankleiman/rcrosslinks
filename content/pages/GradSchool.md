@@ -3,10 +3,8 @@ title: GradSchool
 crosslinks:
 - gradadmissions
 - xkcd
-- autotldr
 - college
 - GRE
-- livven
 - AskReddit
 - AskAcademia
 - cscareerquestions

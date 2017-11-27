@@ -1,10 +1,8 @@
 ---
 title: olympics
 crosslinks:
-- autotldr
 - ShitAmericansSay
 - BrasilOnReddit
-- livven
 - paralympics
 - gifs
 - theocho

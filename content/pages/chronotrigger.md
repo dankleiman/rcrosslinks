@@ -10,7 +10,6 @@ crosslinks:
 - FinalFantasy
 - fanart
 - masseffect
-- livven
 - JRPGs
 - VGCovers
 ---

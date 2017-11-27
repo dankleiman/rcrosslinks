@@ -11,7 +11,6 @@ crosslinks:
 - talesofmike
 - talesfromtechsupport
 - TalesFromTheFrontDesk
-- livven
 - excgarated
 - JUSTNOMIL
 - Whatcouldgowrong

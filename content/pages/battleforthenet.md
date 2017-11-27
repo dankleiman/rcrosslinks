@@ -1,5 +1,0 @@
----
-title: battleforthenet
-crosslinks:
-- autotldr
----

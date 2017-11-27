@@ -5,7 +5,6 @@ crosslinks:
 - Bitcoin
 - ethtrader
 - ethereum
-- autotldr
 - KrakenSupport
 - RippleTalk
 - Stellar

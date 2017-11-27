@@ -1,8 +1,6 @@
 ---
 title: betterCallSaul
 crosslinks:
-- livven
-- autotldr
 - IAmA
 - FuckChuck
 - SuicideWatch

@@ -9,7 +9,6 @@ crosslinks:
 - translator
 - germany
 - NYKnicks
-- autotldr
 - Eesti
 - Kaiserreich
 ---

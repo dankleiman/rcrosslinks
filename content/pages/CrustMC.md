@@ -1,5 +1,0 @@
----
-title: CrustMC
-crosslinks:
-- livven
----

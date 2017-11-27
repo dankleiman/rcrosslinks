@@ -1,5 +1,0 @@
----
-title: MadelineFord
-crosslinks:
-- livven
----

@@ -4,7 +4,6 @@ crosslinks:
 - xkcd
 - javascript
 - programming
-- autotldr
 - groupdeals
 - learnprogramming
 - sysadmin

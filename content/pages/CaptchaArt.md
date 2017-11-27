@@ -1,5 +1,0 @@
----
-title: CaptchaArt
-crosslinks:
-- livven
----

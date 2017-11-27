@@ -6,7 +6,6 @@ crosslinks:
 - rule34
 - spnati
 - AndroidNSFWgaming
-- livven
 - Futanari_Games
 - PixelArtNSFW
 - AIFCentral

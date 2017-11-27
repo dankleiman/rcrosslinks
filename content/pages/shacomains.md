@@ -2,7 +2,6 @@
 title: shacomains
 crosslinks:
 - leagueoflegends
-- livven
 - KoreanAdvice
 - AMAAggregator
 - Talonmains

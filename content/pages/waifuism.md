@@ -3,7 +3,6 @@ title: waifuism
 crosslinks:
 - SuperSonico
 - LoveLive
-- livven
 - japancirclejerk
 - Re_Zero
 - LucidDreaming

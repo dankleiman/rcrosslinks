@@ -17,7 +17,6 @@ crosslinks:
 - xkcd
 - OverwatchHeroConcepts
 - pcmasterrace
-- livven
 - SymmetraMains
 - truegaming
 - OutOfTheLoop

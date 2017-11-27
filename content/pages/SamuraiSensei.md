@@ -1,5 +1,0 @@
----
-title: SamuraiSensei
-crosslinks:
-- livven
----

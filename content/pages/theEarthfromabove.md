@@ -1,5 +1,0 @@
----
-title: theEarthfromabove
-crosslinks:
-- livven
----

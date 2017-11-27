@@ -6,7 +6,6 @@ crosslinks:
 - ethereum
 - OMGTraders
 - NEO
-- autotldr
 - OMGtrader
 - AMAAggregator
 - omg_trader
@@ -18,7 +17,6 @@ crosslinks:
 - AskReddit
 - Qtum
 - Bancor
-- livven
 - Bitspark
 - MURICA
 ---

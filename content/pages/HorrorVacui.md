@@ -1,5 +1,0 @@
----
-title: HorrorVacui
-crosslinks:
-- autotldr
----

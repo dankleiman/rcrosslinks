@@ -1,5 +1,0 @@
----
-title: bannination
-crosslinks:
-- autotldr
----

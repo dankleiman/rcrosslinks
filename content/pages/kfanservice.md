@@ -1,5 +1,0 @@
----
-title: kfanservice
-crosslinks:
-- livven
----

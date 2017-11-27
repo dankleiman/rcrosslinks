@@ -1,7 +1,6 @@
 ---
 title: taiwan
 crosslinks:
-- autotldr
 - place
 - China
 - hapas

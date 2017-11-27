@@ -15,7 +15,6 @@ crosslinks:
 - accounting
 - Cricket
 - expectedfactorial
-- livven
 - nonononoyes
 - dailyprogrammer
 ---

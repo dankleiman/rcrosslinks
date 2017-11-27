@@ -1,9 +1,7 @@
 ---
 title: Bitcoin
 crosslinks:
-- autotldr
 - BitcoinMarkets
-- livven
 - xkcd
 - ethereum
 - CryptoCurrency

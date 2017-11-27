@@ -16,7 +16,6 @@ crosslinks:
 - numenera
 - wholesomemes
 - totalwar
-- livven
 - Serendipity
 - lfg
 ---

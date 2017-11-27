@@ -7,6 +7,5 @@ crosslinks:
 - norge
 - Serendipity
 - Norway
-- autotldr
 - texas
 ---

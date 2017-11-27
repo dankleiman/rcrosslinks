@@ -1,5 +1,0 @@
----
-title: joincolony
-crosslinks:
-- autotldr
----

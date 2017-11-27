@@ -1,7 +1,6 @@
 ---
 title: stephenking
 crosslinks:
-- autotldr
 - TheDarkTower
 - ItTheMovie
 - movies

@@ -1,14 +1,12 @@
 ---
 title: unfilter
 crosslinks:
-- autotldr
 - TopMindsOfReddit
 - The_Donald
 - unfilter2
 - KotakuInAction
 - conspiracy
 - AskReddit
-- livven
 - EnoughTrumpSpam
 - IAmA
 - imgoingtoshellforthis

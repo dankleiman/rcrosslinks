@@ -1,5 +1,0 @@
----
-title: funnypro
-crosslinks:
-- livven
----

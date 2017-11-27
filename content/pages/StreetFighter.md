@@ -3,7 +3,6 @@ title: StreetFighter
 crosslinks:
 - Kappa
 - StreetFighterMods
-- livven
 - SF4
 - ModFighters
 - GameDeals

@@ -10,7 +10,5 @@ crosslinks:
 - screenshotsarehard
 - needamod
 - TeddyBearMods
-- autotldr
-- livven
 - 13ReasonsWhy
 ---

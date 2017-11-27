@@ -1,5 +1,0 @@
----
-title: probprog
-crosslinks:
-- autotldr
----

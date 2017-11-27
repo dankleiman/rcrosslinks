@@ -1,5 +1,0 @@
----
-title: accidentaltrickshot
-crosslinks:
-- livven
----

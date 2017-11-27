@@ -7,7 +7,6 @@ crosslinks:
 - Gaming4Gamers
 - Apicem
 - FFXV
-- livven
 - ProCSS
 - canadia
 - gamedev

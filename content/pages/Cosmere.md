@@ -9,7 +9,6 @@ crosslinks:
 - truegaming
 - KingkillerChronicle
 - AskReddit
-- livven
 - Physics
 - stormlightarchive
 ---

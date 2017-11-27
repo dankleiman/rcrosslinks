@@ -12,7 +12,6 @@ crosslinks:
 - TropicalWeather
 - HamFest
 - Baofeng
-- livven
 - trees
 - '2013'
 - signalidentification

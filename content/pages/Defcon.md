@@ -3,7 +3,6 @@ title: Defcon
 crosslinks:
 - amateurradio
 - hacking
-- autotldr
 - netsec
 - hackerspaces
 - Documentaries

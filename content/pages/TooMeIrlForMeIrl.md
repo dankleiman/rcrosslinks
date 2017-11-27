@@ -2,7 +2,6 @@
 title: TooMeIrlForMeIrl
 crosslinks:
 - DankMemeArchive
-- livven
 - 2meirl42meirl4meirl
 - AskReddit
 - gatekeeping

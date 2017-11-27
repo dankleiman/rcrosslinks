@@ -1,5 +1,0 @@
----
-title: abetterworldnews
-crosslinks:
-- autotldr
----

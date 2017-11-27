@@ -5,7 +5,6 @@ crosslinks:
 - 4Runner
 - cars
 - Autos
-- autotldr
 - autodetailing
 - Watches
 - explainlikeimfive

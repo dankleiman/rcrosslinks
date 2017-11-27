@@ -1,7 +1,6 @@
 ---
 title: BlockChain
 crosslinks:
-- autotldr
 - ethereum
 - ethdev
 - ARToken

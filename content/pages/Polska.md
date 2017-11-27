@@ -3,7 +3,6 @@ title: Polska
 crosslinks:
 - europe
 - poland
-- livven
 - xkcd
 - worldnews
 - The_Donald
@@ -19,6 +18,5 @@ crosslinks:
 - IAmA
 - '1'
 - ShitAmericansSay
-- autotldr
 - gifs
 ---

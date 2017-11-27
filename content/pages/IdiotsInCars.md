@@ -2,7 +2,6 @@
 title: IdiotsInCars
 crosslinks:
 - Roadcam
-- livven
 - WTF
 - gifs
 - Whatcouldgowrong

@@ -2,7 +2,6 @@
 title: redditdata
 crosslinks:
 - place
-- autotldr
 - CFB
 - datasets
 - programming

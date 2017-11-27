@@ -1,5 +1,0 @@
----
-title: HappySkirmish
-crosslinks:
-- livven
----

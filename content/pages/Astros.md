@@ -10,7 +10,6 @@ crosslinks:
 - BJLG
 - thewestwing
 - nfl
-- livven
 - '2013'
 - MFWFiers
 - Atlanta

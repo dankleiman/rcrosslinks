@@ -1,5 +1,0 @@
----
-title: btcclassic
-crosslinks:
-- livven
----

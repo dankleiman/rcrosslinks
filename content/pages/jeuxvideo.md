@@ -7,5 +7,4 @@ crosslinks:
 - FreeGamesOnSteam
 - GameDealsMeta
 - NoMansSkyTheGame
-- autotldr
 ---

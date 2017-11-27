@@ -6,6 +6,5 @@ crosslinks:
 - reactiongifs
 - kansas
 - Pareidolia
-- autotldr
 - IdiotsFightingThings
 ---

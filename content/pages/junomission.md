@@ -1,7 +1,6 @@
 ---
 title: junomission
 crosslinks:
-- autotldr
 - space
 - askscience
 - ConspiracyII

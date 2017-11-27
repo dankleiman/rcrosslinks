@@ -10,6 +10,5 @@ crosslinks:
 - videos
 - newsokur
 - penpals
-- livven
 - translator
 ---

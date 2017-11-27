@@ -3,7 +3,6 @@ title: radioheadcirclejerk
 crosslinks:
 - radiohead
 - radioheadfanfic
-- livven
 - Muse
 - FuckChuck
 - copypasta

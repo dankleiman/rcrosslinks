@@ -3,7 +3,6 @@ title: Colorization
 crosslinks:
 - colorizationrequests
 - OldSchoolCool
-- livven
 - AskHistorians
 - SovietHistory
 - BrasilOnReddit

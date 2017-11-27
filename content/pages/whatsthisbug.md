@@ -2,7 +2,6 @@
 title: whatsthisbug
 crosslinks:
 - spiders
-- livven
 - whatsthisplant
 - whatisthisthing
 - awwnverts

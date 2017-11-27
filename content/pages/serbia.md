@@ -14,7 +14,6 @@ crosslinks:
 - Xiaomi
 - Piracy
 - dankmemes
-- autotldr
 - ShadowBan
 - Slovenia
 - modnews

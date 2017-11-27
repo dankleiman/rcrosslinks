@@ -6,7 +6,6 @@ crosslinks:
 - personalfinance
 - AskReddit
 - churningcanada
-- autotldr
 - ChurningATL
 - CreditCards
 - hardcorechurning

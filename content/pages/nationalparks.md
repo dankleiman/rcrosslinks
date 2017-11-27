@@ -1,7 +1,6 @@
 ---
 title: nationalparks
 crosslinks:
-- autotldr
 - Missing411
 - worldpolitics
 - ExposurePorn

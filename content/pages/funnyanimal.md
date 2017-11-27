@@ -1,5 +1,0 @@
----
-title: funnyanimal
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: Bulges
 crosslinks:
-- livven
 - semseg101
 - MassiveCock
 - me_irl

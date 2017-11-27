@@ -1,7 +1,6 @@
 ---
 title: TinyTrumps
 crosslinks:
-- livven
 - The_Donald
 - EnoughTrumpSpam
 - announcements

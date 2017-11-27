@@ -1,5 +1,0 @@
----
-title: LatexWomen
-crosslinks:
-- livven
----

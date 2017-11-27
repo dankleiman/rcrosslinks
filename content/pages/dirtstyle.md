@@ -1,5 +1,0 @@
----
-title: dirtstyle
-crosslinks:
-- livven
----

@@ -4,7 +4,6 @@ crosslinks:
 - tytonreddit
 - TalcumX
 - TYTPolitics
-- autotldr
 - shittheyoungturkssay
 - europe
 - RIPtodayilearned

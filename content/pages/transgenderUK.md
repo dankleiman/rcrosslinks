@@ -14,7 +14,6 @@ crosslinks:
 - ftm
 - transtimelines
 - transvoice
-- autotldr
 - WTF
 - AskReddit
 ---

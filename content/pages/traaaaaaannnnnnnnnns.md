@@ -1,7 +1,6 @@
 ---
 title: traaaaaaannnnnnnnnns
 crosslinks:
-- livven
 - anime_irl
 - asktransgender
 - xkcd

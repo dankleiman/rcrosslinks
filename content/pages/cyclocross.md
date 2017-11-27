@@ -7,6 +7,5 @@ crosslinks:
 - cycling
 - BikeShop
 - peloton
-- livven
 - randonneuring
 ---

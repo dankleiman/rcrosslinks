@@ -1,7 +1,6 @@
 ---
 title: GoneWildTrans
 crosslinks:
-- livven
 - traps
 - FtMPorn
 - ducksintheway

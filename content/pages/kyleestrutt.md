@@ -1,5 +1,0 @@
----
-title: kyleestrutt
-crosslinks:
-- livven
----

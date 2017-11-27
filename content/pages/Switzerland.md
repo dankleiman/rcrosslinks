@@ -4,7 +4,6 @@ crosslinks:
 - travel
 - AskReddit
 - place
-- autotldr
 - europe
 - The_Donald
 - askswitzerland

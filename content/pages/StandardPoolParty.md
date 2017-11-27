@@ -1,5 +1,0 @@
----
-title: StandardPoolParty
-crosslinks:
-- autotldr
----

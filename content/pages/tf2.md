@@ -1,7 +1,6 @@
 ---
 title: tf2
 crosslinks:
-- livven
 - truetf2
 - Overwatch
 - TF2WeaponIdeas

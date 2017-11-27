@@ -1,7 +1,6 @@
 ---
 title: norfolk
 crosslinks:
-- autotldr
 - VirginiaBeach
 - HamptonRoads
 - Virginia

@@ -1,5 +1,0 @@
----
-title: bestofportugal
-crosslinks:
-- livven
----

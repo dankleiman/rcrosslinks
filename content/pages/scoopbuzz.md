@@ -1,5 +1,0 @@
----
-title: scoopbuzz
-crosslinks:
-- autotldr
----

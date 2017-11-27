@@ -1,7 +1,6 @@
 ---
 title: BollywoodRealism
 crosslinks:
-- livven
 - india
 - gifsthatendtoosoon
 - WhitePeopleReddit

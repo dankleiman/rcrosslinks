@@ -7,7 +7,6 @@ crosslinks:
 - teaching
 - LSD
 - counselling
-- autotldr
 - science
 - BehaviorAnalysis
 - medicine

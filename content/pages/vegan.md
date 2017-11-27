@@ -5,7 +5,6 @@ crosslinks:
 - veganfitness
 - veganrecipes
 - PlantBasedDiet
-- autotldr
 - veganketo
 - vegetarian
 - AskReddit

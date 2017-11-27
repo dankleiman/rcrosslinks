@@ -11,7 +11,6 @@ crosslinks:
 - Infowars
 - AskReddit
 - explainlikeimfive
-- livven
 - worldnews
 - metalgearsolid
 ---

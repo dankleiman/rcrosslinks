@@ -1,7 +1,6 @@
 ---
 title: strapon
 crosslinks:
-- livven
 - HiddenStrapon
 - tipofmypenis
 - CattieCandescent

@@ -1,7 +1,6 @@
 ---
 title: chinalife
 crosslinks:
-- autotldr
 - Chinavisa
 - hapas
 - ChinaScamCentral

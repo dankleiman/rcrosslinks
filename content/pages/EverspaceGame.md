@@ -1,5 +1,0 @@
----
-title: EverspaceGame
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: MECoOp
 crosslinks:
 - masseffect
-- livven
 - xkcd
 - excgarated
 - dragonage

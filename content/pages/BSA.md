@@ -1,7 +1,6 @@
 ---
 title: BSA
 crosslinks:
-- autotldr
 - BoyScouts
 - EagleScouts
 - Donald

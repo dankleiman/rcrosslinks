@@ -1,5 +1,0 @@
----
-title: droneoftheday
-crosslinks:
-- autotldr
----

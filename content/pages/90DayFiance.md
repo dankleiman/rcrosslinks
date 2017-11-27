@@ -1,7 +1,6 @@
 ---
 title: 90DayFiance
 crosslinks:
-- livven
 - AMAAggregator
 - xkcd
 - Snapped
@@ -18,7 +17,6 @@ crosslinks:
 - BravoRealHousewives
 - Thailand
 - PokemonGoLouisville
-- autotldr
 - weddingplanning
 - teenmom
 ---

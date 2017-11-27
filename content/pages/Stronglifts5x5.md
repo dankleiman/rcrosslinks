@@ -7,7 +7,6 @@ crosslinks:
 - metric_units
 - leangains
 - AndroidWear
-- livven
 - GripTraining
 - keto
 - redditrequest

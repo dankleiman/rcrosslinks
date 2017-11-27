@@ -1,5 +1,0 @@
----
-title: TinderConspiracy
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: Hookit
 crosslinks:
-- livven
 - MechanicAdvice
 - legaladvice
 - Justrolledintotheshop

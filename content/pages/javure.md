@@ -1,5 +1,0 @@
----
-title: javure
-crosslinks:
-- livven
----

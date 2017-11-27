@@ -1,5 +1,0 @@
----
-title: stickanimation
-crosslinks:
-- livven
----

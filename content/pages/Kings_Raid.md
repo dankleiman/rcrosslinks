@@ -10,7 +10,6 @@ crosslinks:
 - FFBraveExvius
 - StopClickingThis
 - MGTOW
-- livven
 - soccerspirits
 - xkcd
 ---

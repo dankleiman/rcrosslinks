@@ -10,7 +10,6 @@ crosslinks:
 - HelloInternet
 - pics
 - place
-- livven
 - LateStageCapitalism
 - imaginarymaps
 - MapPorn

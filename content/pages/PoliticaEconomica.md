@@ -1,5 +1,0 @@
----
-title: PoliticaEconomica
-crosslinks:
-- autotldr
----

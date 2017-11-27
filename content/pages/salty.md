@@ -2,7 +2,6 @@
 title: salty
 crosslinks:
 - Kappa
-- livven
 - VoHiYo
 - StreetFighter
 - Tekken

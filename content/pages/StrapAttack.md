@@ -1,5 +1,0 @@
----
-title: StrapAttack
-crosslinks:
-- livven
----

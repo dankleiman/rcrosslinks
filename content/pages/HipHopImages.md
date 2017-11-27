@@ -1,7 +1,6 @@
 ---
 title: HipHopImages
 crosslinks:
-- livven
 - rapperadayproject
 - Kanye
 - Hiphopcirclejerk

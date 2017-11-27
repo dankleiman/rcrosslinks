@@ -1,7 +1,6 @@
 ---
 title: SargonofAkkad
 crosslinks:
-- autotldr
 - KotakuInAction
 - The_Donald
 - ukpolitics

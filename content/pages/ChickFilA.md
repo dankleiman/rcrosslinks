@@ -1,5 +1,0 @@
----
-title: ChickFilA
-crosslinks:
-- autotldr
----

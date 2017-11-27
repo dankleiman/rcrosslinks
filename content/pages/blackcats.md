@@ -1,7 +1,6 @@
 ---
 title: blackcats
 crosslinks:
-- livven
 - Catloaf
 - Floof
 - aww

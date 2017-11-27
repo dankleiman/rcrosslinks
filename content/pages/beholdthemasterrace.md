@@ -2,7 +2,6 @@
 title: beholdthemasterrace
 crosslinks:
 - The_Donald
-- autotldr
 - Drama
 - hapas
 - onguardforthee

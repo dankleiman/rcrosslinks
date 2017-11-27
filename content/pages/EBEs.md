@@ -2,7 +2,6 @@
 title: EBEs
 crosslinks:
 - aliens
-- autotldr
 - UFOs
 - DangmaDzyu
 - CosmicDisclosure

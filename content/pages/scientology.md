@@ -1,7 +1,6 @@
 ---
 title: scientology
 crosslinks:
-- autotldr
 - IAmA
 - exmormon
 - help

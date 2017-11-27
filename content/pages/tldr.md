@@ -8,7 +8,6 @@ crosslinks:
 - IAmA
 - redditscripting
 - ImaginaryBehemoths
-- autotldr
 - tifu
 - justaquicktestisall
 - xkcd

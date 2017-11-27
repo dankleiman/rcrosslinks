@@ -5,6 +5,5 @@ crosslinks:
 - gif
 - ConfusedBoners
 - fuckolly
-- livven
 - LoveChuck
 ---

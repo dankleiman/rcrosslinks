@@ -2,7 +2,6 @@
 title: weedstocks
 crosslinks:
 - canadients
-- autotldr
 - CanadaWeedStocks
 - TODispensaries
 - canada
@@ -17,7 +16,6 @@ crosslinks:
 - news
 - COTreeGifting
 - realweedstocks
-- livven
 - CanadianMOMs
 - madlads
 - ITdept

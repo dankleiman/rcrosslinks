@@ -2,7 +2,6 @@
 title: wholesomeoverwatch
 crosslinks:
 - Overwatch
-- livven
 - OverwatchUniversity
 - BrasilOnReddit
 - BrainMemes

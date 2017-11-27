@@ -1,5 +1,0 @@
----
-title: lanadapter
-crosslinks:
-- autotldr
----

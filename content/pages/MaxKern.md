@@ -1,5 +1,0 @@
----
-title: MaxKern
-crosslinks:
-- livven
----

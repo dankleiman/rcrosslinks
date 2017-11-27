@@ -1,7 +1,6 @@
 ---
 title: processing
 crosslinks:
-- livven
 - gamedev
 - creativecoding
 - proceduralgeneration

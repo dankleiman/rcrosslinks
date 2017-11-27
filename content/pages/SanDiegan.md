@@ -1,7 +1,6 @@
 ---
 title: SanDiegan
 crosslinks:
-- autotldr
 - canada
 - ShitPoliticsSays
 - Seattle

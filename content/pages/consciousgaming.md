@@ -1,5 +1,0 @@
----
-title: consciousgaming
-crosslinks:
-- autotldr
----

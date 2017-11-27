@@ -1,7 +1,6 @@
 ---
 title: LevantineWar
 crosslinks:
-- autotldr
 - worldpolitics
 - The_DonaldUnleashed
 - Syria

@@ -1,5 +1,0 @@
----
-title: windturbine
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: trashdoves
-crosslinks:
-- livven
----

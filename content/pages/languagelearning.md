@@ -12,8 +12,6 @@ crosslinks:
 - German
 - Portuguese
 - language_exchange
-- autotldr
-- translatorBOT
 - gaeilge
 - learnwelsh
 - Spanish

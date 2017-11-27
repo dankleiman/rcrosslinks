@@ -2,7 +2,6 @@
 title: kings
 crosslinks:
 - Kingsringleader
-- livven
 - denvernuggets
 - sixers
 - NYKnicks

@@ -2,7 +2,6 @@
 title: Gundam
 crosslinks:
 - Gunpla
-- livven
 - ThreeTimesFaster
 - anime
 - Pixiv

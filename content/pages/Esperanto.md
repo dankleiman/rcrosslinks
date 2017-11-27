@@ -5,7 +5,6 @@ crosslinks:
 - place
 - BonajMemeoj
 - Volapuk
-- autotldr
 - Monero
 - linukso
 - vexillology

@@ -3,7 +3,6 @@ title: redacted
 crosslinks:
 - The_Donald
 - politics
-- autotldr
 - AskThe_Donald
 - canada
 - EnoughTrumpSpam

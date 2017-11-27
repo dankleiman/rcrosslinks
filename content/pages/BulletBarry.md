@@ -8,7 +8,6 @@ crosslinks:
 - lowspecgamer
 - thatHappened
 - emulators
-- autotldr
 - Steam
 - emulation
 - consoles
@@ -18,7 +17,6 @@ crosslinks:
 - ayymd
 - pcgaming
 - Jokes
-- livven
 - gaming
 - AyyMD
 ---

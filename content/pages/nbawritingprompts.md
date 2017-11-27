@@ -1,5 +1,0 @@
----
-title: nbawritingprompts
-crosslinks:
-- livven
----

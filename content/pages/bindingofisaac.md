@@ -1,7 +1,6 @@
 ---
 title: bindingofisaac
 crosslinks:
-- livven
 - themoddingofisaac
 - homestuck
 - FUCKBLOAT

@@ -1,11 +1,9 @@
 ---
 title: britishcolumbia
 crosslinks:
-- autotldr
 - vancouver
 - WilliamsLakeNews
 - canada
-- livven
 - VictoriaBC
 - PersonalFinanceCanada
 - metacanada

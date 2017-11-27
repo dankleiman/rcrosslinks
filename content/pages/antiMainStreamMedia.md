@@ -1,5 +1,0 @@
----
-title: antiMainStreamMedia
-crosslinks:
-- autotldr
----

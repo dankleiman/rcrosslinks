@@ -7,7 +7,6 @@ crosslinks:
 - nintendo
 - miniSNES
 - metric_units
-- autotldr
 - nesclassicmods
 - miniSNESmods
 - SegaSaturn

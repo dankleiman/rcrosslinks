@@ -1,5 +1,0 @@
----
-title: mimic
-crosslinks:
-- livven
----

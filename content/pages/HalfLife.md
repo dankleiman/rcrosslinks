@@ -4,7 +4,6 @@ crosslinks:
 - dreamsofhalflife3
 - gaming
 - Portal
-- livven
 - IAmA
 - Vive
 - DotA2

@@ -1,11 +1,9 @@
 ---
 title: alaska
 crosslinks:
-- autotldr
 - anchorage
 - IAmA
 - news
-- livven
 - Hawaii
 - Justrolledintotheshop
 - Juneau

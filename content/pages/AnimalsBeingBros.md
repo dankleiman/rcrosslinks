@@ -1,7 +1,6 @@
 ---
 title: AnimalsBeingBros
 crosslinks:
-- livven
 - aww
 - AskReddit
 - gifs

@@ -1,7 +1,6 @@
 ---
 title: iran
 crosslinks:
-- autotldr
 - OnThisDateInBahai
 - etymology
 - magicskyfairy
@@ -10,7 +9,6 @@ crosslinks:
 - worldnews
 - islam
 - pakistan
-- livven
 - armenia
 - Egypt
 - poetry_critics

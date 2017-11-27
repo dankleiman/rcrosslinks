@@ -2,7 +2,6 @@
 title: GreenBayPackers
 crosslinks:
 - nfl
-- livven
 - EvilLeagueOfEvil
 - CHIBears
 - NFL_Draft

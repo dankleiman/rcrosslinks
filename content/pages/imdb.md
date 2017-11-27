@@ -1,5 +1,0 @@
----
-title: imdb
-crosslinks:
-- autotldr
----

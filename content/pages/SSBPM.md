@@ -1,7 +1,6 @@
 ---
 title: SSBPM
 crosslinks:
-- livven
 - SSBM
 - customsmash
 - smashgifs

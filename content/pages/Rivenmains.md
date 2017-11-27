@@ -5,7 +5,6 @@ crosslinks:
 - summonerschool
 - gangplankmains
 - YasuoMains
-- livven
 - osugame
 - vaynemains
 - AMAAggregator

@@ -1,5 +1,0 @@
----
-title: Richardson
-crosslinks:
-- autotldr
----

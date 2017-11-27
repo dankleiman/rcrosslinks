@@ -12,7 +12,6 @@ crosslinks:
 - ChloeSells
 - peachesdoe97
 - scarvesandstuff
-- livven
 - anniespantiesxx
 - titshansen
 - AsianC

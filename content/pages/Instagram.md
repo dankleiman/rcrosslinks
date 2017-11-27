@@ -2,7 +2,6 @@
 title: Instagram
 crosslinks:
 - hiking
-- autotldr
 - Serendipity
 - me_irl
 - itookapicture
@@ -10,7 +9,6 @@ crosslinks:
 - naturepics
 - IAmA
 - motorcycles
-- livven
 - Suomi
 - findareddit
 - help

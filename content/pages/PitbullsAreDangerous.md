@@ -1,5 +1,0 @@
----
-title: PitbullsAreDangerous
-crosslinks:
-- autotldr
----

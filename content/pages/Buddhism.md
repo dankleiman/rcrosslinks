@@ -7,7 +7,6 @@ crosslinks:
 - thaiforest
 - streamentry
 - dhammawheel
-- autotldr
 - vegan
 - TheMindIlluminated
 - vajrayana

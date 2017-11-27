@@ -5,7 +5,6 @@ crosslinks:
 - EliteCG
 - eliteexplorers
 - EliteMiners
-- livven
 - eliteoutfitters
 - Canonn
 - Vive

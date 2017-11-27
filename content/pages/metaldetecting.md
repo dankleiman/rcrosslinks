@@ -12,7 +12,6 @@ crosslinks:
 - history
 - marijuanaenthusiasts
 - hiking
-- autotldr
 - pics
 - Skookum
 - Calligraphy

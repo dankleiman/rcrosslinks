@@ -2,7 +2,6 @@
 title: RedditForGrownups
 crosslinks:
 - AskMenOver30
-- autotldr
 - xkcd
 - marriedredpill
 - AskOldPeople

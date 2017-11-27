@@ -1,7 +1,6 @@
 ---
 title: metal_me_irl
 crosslinks:
-- livven
 - metalmemes
 - WTF
 - CoffeeWithJesus

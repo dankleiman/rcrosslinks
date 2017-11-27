@@ -5,7 +5,6 @@ crosslinks:
 - redditrequest
 - fpgagaming
 - xkcd
-- autotldr
 - digitalelectronics
 - arduino
 - OpenCL

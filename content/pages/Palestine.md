@@ -1,7 +1,6 @@
 ---
 title: Palestine
 crosslinks:
-- autotldr
 - IsraelPalestine
 - Israel
 - place

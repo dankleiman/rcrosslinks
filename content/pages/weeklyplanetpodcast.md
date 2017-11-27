@@ -1,8 +1,6 @@
 ---
 title: weeklyplanetpodcast
 crosslinks:
-- autotldr
-- livven
 - PlanetBroadcasting
 - podcasts
 - RedLetterMedia

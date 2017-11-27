@@ -1,7 +1,6 @@
 ---
 title: Damnthatsinteresting
 crosslinks:
-- livven
 - gifs
 - pics
 - interestingasfuck

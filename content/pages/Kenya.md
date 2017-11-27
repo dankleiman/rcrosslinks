@@ -1,7 +1,6 @@
 ---
 title: Kenya
 crosslinks:
-- autotldr
 - place
 - AskReddit
 - nottheonion

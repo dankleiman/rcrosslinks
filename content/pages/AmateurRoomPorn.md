@@ -11,7 +11,6 @@ crosslinks:
 - iamveryedgy
 - causeWhyNotMate
 - macsetups
-- livven
 - westworld
 - relationships
 - terrariums

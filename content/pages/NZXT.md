@@ -4,7 +4,6 @@ crosslinks:
 - pcmasterrace
 - pcgaming
 - overclocking
-- livven
 - Amd
 - watercooling
 - pcmods

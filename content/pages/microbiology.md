@@ -1,7 +1,6 @@
 ---
 title: microbiology
 crosslinks:
-- autotldr
 - Serendipity
 - Frugal
 - help

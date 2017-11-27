@@ -3,7 +3,6 @@ title: iOSProgramming
 crosslinks:
 - swift
 - programming
-- autotldr
 - androiddev
 - Entrepreneur
 - cscareerquestions

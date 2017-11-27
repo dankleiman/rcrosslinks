@@ -12,7 +12,6 @@ crosslinks:
 - Warhammer30k
 - yoyhammer
 - WarhammerCompetitive
-- livven
 - TerrainBuilding
 - ShadowWarArmageddon
 - SpaceWolves

@@ -3,7 +3,6 @@ title: smarthome
 crosslinks:
 - homeautomation
 - amazonecho
-- autotldr
 - Hue
 - DIY
 - GoogleWiFi

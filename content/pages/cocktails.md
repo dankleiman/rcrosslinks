@@ -6,7 +6,6 @@ crosslinks:
 - Gin
 - Zerosuminfinity
 - rum
-- livven
 - SouthBayLA
 - FictionalVittles
 - alcohol

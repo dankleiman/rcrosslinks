@@ -5,5 +5,4 @@ crosslinks:
 - UnresolvedMysteries
 - SandersForPresident
 - space
-- autotldr
 ---

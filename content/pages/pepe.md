@@ -1,7 +1,6 @@
 ---
 title: pepe
 crosslinks:
-- livven
 - REEEEEEEEEE
 - The_Donald
 - pepethefrog
@@ -9,7 +8,6 @@ crosslinks:
 - titlegore
 - rarepepemarket
 - angryguy
-- autotldr
 - iasip
 - sweden
 - Religion_of_Kek

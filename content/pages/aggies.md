@@ -6,7 +6,6 @@ crosslinks:
 - The_Donald
 - place
 - UTAustin
-- livven
 - Atlanta
 - texas
 - Serendipity

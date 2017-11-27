@@ -2,7 +2,6 @@
 title: hmmmgifs
 crosslinks:
 - hmmm
-- livven
 - Simulated
 - perfectloops
 - IAmA

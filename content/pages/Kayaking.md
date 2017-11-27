@@ -2,7 +2,6 @@
 title: Kayaking
 crosslinks:
 - whitewater
-- livven
 - kayakfishing
 - canoeing
 - Iowa

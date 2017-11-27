@@ -11,6 +11,5 @@ crosslinks:
 - nhl_games
 - NHLstatheads
 - BlueJackets
-- livven
 - puckstreams
 ---

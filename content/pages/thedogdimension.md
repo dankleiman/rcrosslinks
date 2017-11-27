@@ -1,5 +1,0 @@
----
-title: thedogdimension
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: slimerancher
 crosslinks:
-- livven
 - StardewValley
 - ProCSS
 - flash

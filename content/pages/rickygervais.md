@@ -1,8 +1,6 @@
 ---
 title: rickygervais
 crosslinks:
-- autotldr
-- livven
 - funny
 - IAmA
 - space

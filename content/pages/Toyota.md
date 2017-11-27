@@ -16,7 +16,6 @@ crosslinks:
 - Justrolledintotheshop
 - ToyotaTundra
 - overlanding
-- autotldr
 - 4Runner
 - 4x4
 - Celica

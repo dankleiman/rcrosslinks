@@ -1,7 +1,6 @@
 ---
 title: send_nudes
 crosslinks:
-- livven
 - Simulated
 - gifs
 - thenetherlands

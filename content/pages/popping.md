@@ -1,7 +1,6 @@
 ---
 title: popping
 crosslinks:
-- livven
 - WTF
 - tonsilstones
 - nocontext

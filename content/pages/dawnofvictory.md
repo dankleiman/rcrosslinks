@@ -1,5 +1,0 @@
----
-title: dawnofvictory
-crosslinks:
-- livven
----

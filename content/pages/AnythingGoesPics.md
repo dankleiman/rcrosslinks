@@ -5,7 +5,6 @@ crosslinks:
 - Drama
 - Advice
 - BeautifulTitsAndAss
-- livven
 - trashy
 - elaina_chan
 - LuvianLee

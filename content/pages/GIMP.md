@@ -1,7 +1,6 @@
 ---
 title: GIMP
 crosslinks:
-- livven
 - learnpython
 - dragonsfuckingcars
 - oddlysatisfying

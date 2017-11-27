@@ -1,7 +1,6 @@
 ---
 title: forza
 crosslinks:
-- livven
 - FM4
 - forzahorizon3
 - pcgaming

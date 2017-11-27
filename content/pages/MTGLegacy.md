@@ -11,7 +11,6 @@ crosslinks:
 - pathofexile
 - CasualMTG
 - CompetitiveHS
-- autotldr
 - mtgalters
 - EDH
 - MTGDredge

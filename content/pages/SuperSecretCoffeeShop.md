@@ -1,5 +1,0 @@
----
-title: SuperSecretCoffeeShop
-crosslinks:
-- autotldr
----

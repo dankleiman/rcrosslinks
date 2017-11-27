@@ -1,7 +1,6 @@
 ---
 title: Ozark
 crosslinks:
-- livven
 - ozarks
 - Italian
 - TVDetails

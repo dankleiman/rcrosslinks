@@ -2,7 +2,6 @@
 title: brockhampton
 crosslinks:
 - hiphopheads
-- livven
 - FrankOcean
 - hhh
 - Kanye

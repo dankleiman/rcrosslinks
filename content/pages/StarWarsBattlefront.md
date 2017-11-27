@@ -1,7 +1,6 @@
 ---
 title: StarWarsBattlefront
 crosslinks:
-- livven
 - StarWars
 - EmpireDidNothingWrong
 - Gamingcirclejerk

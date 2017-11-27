@@ -5,7 +5,6 @@ crosslinks:
 - Berserk
 - LightNovels
 - ThatBoldnessEmpire
-- livven
 - fatestaynight
 - TrueFilm
 - casualiama

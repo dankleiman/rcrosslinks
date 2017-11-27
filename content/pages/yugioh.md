@@ -5,7 +5,6 @@ crosslinks:
 - YGOSales
 - Yugioh101
 - MetaYGO
-- livven
 - YuGiOh_Manga
 - yugijerk
 - customyugioh

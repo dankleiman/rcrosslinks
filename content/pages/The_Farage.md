@@ -1,7 +1,6 @@
 ---
 title: The_Farage
 crosslinks:
-- autotldr
 - The_Donald
 - The_Europe
 - unitedkingdom

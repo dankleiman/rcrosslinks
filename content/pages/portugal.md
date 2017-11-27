@@ -7,8 +7,6 @@ crosslinks:
 - europe
 - PastaPortuguesa
 - xkcd
-- autotldr
-- livven
 - IST
 - IAmA
 - AskHistorians

@@ -13,7 +13,6 @@ crosslinks:
 - OopsDidntMeanTo
 - japanpics
 - funny
-- livven
 - sushi
 - translator
 - JapaneseFood

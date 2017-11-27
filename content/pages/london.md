@@ -1,7 +1,6 @@
 ---
 title: london
 crosslinks:
-- autotldr
 - unitedkingdom
 - UKPersonalFinance
 - LegalAdviceUK
@@ -20,5 +19,4 @@ crosslinks:
 - Gunners
 - policeuk
 - LondonPics
-- livven
 ---

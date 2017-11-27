@@ -2,7 +2,6 @@
 title: Gintama
 crosslinks:
 - anime
-- livven
 - Hanamaru
 - Pixiv
 - OnePiece

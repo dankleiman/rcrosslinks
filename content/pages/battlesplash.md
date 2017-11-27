@@ -1,5 +1,0 @@
----
-title: battlesplash
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: mildyinteresting
 crosslinks:
-- livven
 - pics
 - WeWantPlates
 - ThePack

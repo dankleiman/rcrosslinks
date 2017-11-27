@@ -1,5 +1,0 @@
----
-title: bitcoininvesting
-crosslinks:
-- autotldr
----

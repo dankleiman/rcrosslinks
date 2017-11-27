@@ -1,5 +1,0 @@
----
-title: deepomega
-crosslinks:
-- livven
----

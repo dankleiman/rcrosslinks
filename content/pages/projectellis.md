@@ -1,5 +1,0 @@
----
-title: projectellis
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: iOSBeta
 crosslinks:
 - apple
-- livven
 - ios
 - EarthPorn
 - workflow

@@ -1,5 +1,0 @@
----
-title: SFWArt
-crosslinks:
-- livven
----

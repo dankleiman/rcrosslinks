@@ -16,7 +16,6 @@ crosslinks:
 - Snowcats
 - funny
 - Battlecars
-- livven
 - amceagle
 - BrasilOnReddit
 - vandwellers

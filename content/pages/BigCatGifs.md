@@ -1,7 +1,6 @@
 ---
 title: BigCatGifs
 crosslinks:
-- livven
 - gifs
 - AnimalsBeingBros
 - furry_irl

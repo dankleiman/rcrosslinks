@@ -7,7 +7,6 @@ crosslinks:
 - BackofthePackRacing
 - racecrashes
 - wec
-- autotldr
 - IAmA
 - interestingasfuck
 - cars
@@ -15,7 +14,6 @@ crosslinks:
 - ShitPoliticsSays
 - thingsforants
 - xkcd
-- livven
 - Watches
 - USCR
 - nascar

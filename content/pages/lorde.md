@@ -2,7 +2,6 @@
 title: lorde
 crosslinks:
 - popheads
-- livven
 - ListeningHeads
 - analog
 - SongStems

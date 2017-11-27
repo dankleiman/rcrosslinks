@@ -1,5 +1,0 @@
----
-title: peruvian
-crosslinks:
-- autotldr
----

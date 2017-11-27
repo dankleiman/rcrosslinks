@@ -1,5 +1,0 @@
----
-title: Putin
-crosslinks:
-- autotldr
----

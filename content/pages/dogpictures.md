@@ -1,7 +1,6 @@
 ---
 title: dogpictures
 crosslinks:
-- livven
 - aww
 - OldManDog
 - Chihuahua
@@ -12,7 +11,6 @@ crosslinks:
 - dogswearinghats
 - mildlyinteresting
 - WiggleButts
-- autotldr
 - AustralianCattleDog
 - Dachshund
 - Awww

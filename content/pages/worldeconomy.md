@@ -1,5 +1,0 @@
----
-title: worldeconomy
-crosslinks:
-- autotldr
----

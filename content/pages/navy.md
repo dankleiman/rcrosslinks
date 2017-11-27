@@ -2,7 +2,6 @@
 title: navy
 crosslinks:
 - newtothenavy
-- autotldr
 - Military
 - WarshipPorn
 - Amry

@@ -13,7 +13,6 @@ crosslinks:
 - ShrugLifeSyndicate
 - New_Movement
 - CryptoCurrency
-- autotldr
 - c_s_t
 - science
 - worldpolitics

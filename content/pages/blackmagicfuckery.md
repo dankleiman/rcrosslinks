@@ -1,7 +1,6 @@
 ---
 title: blackmagicfuckery
 crosslinks:
-- livven
 - gifs
 - interestingasfuck
 - woahdude

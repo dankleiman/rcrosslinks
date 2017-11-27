@@ -1,7 +1,6 @@
 ---
 title: skiing
 crosslinks:
-- livven
 - Backcountry
 - icecoast
 - videos
@@ -15,7 +14,6 @@ crosslinks:
 - Wellthatsucks
 - momentskis
 - Cinemagraphs
-- autotldr
 - ThingsCutInHalfPorn
 - funny
 - Slackline

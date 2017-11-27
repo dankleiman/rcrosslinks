@@ -5,7 +5,6 @@ crosslinks:
 - ThriftStoreHauls
 - midcentury
 - AmateurRoomPorn
-- livven
 - HailCorporate
 - MidCenturyDesign
 - food

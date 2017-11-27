@@ -1,7 +1,6 @@
 ---
 title: USPS
 crosslinks:
-- livven
 - LosAngeles
 - DarkNetMarkets
 - TalesfromtheMail

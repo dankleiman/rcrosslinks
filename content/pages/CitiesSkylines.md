@@ -1,7 +1,6 @@
 ---
 title: CitiesSkylines
 crosslinks:
-- livven
 - IAmA
 - CitiesSkylinesModding
 - InfrastructurePorn

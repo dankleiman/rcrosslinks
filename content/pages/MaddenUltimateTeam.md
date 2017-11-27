@@ -1,7 +1,6 @@
 ---
 title: MaddenUltimateTeam
 crosslinks:
-- livven
 - Madden
 - MCSPlaystation
 - nfl

@@ -1,5 +1,0 @@
----
-title: inspirationscience
-crosslinks:
-- autotldr
----

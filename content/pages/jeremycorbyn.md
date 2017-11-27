@@ -1,5 +1,0 @@
----
-title: jeremycorbyn
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: penspinning
 crosslinks:
-- livven
 - gifs
 - Flipping
 - gatekeeping

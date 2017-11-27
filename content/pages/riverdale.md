@@ -3,10 +3,8 @@ title: riverdale
 crosslinks:
 - FlashTV
 - arrow
-- livven
 - wow
 - iamversmart
-- autotldr
 - TerrariumTV
 - AnimalCrossing
 - nosleep

@@ -19,6 +19,5 @@ crosslinks:
 - ArcherFX
 - SigSauer
 - thewestwing
-- livven
 - reloading
 ---

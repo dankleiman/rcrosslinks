@@ -3,7 +3,6 @@ title: btc
 crosslinks:
 - Bitcoin
 - tippr
-- autotldr
 - Buttcoin
 - BitcoinMarkets
 - ethereum
@@ -18,7 +17,6 @@ crosslinks:
 - BCore
 - BitcoinABC
 - ethereumfraud
-- livven
 - xkcd
 - dashpay
 ---

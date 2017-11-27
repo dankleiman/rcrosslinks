@@ -10,5 +10,4 @@ crosslinks:
 - churning
 - pokemongodev
 - thesilphroad
-- livven
 ---

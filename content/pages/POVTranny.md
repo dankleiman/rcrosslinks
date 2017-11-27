@@ -1,5 +1,0 @@
----
-title: POVTranny
-crosslinks:
-- livven
----

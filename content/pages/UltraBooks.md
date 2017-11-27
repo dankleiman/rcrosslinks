@@ -10,7 +10,6 @@ crosslinks:
 - Xiaomi
 - newzealand
 - thinkpad
-- autotldr
 - SuggestAlaptop
 - pcmasterrace
 - causeWhyNotMate

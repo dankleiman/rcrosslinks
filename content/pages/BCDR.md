@@ -1,5 +1,0 @@
----
-title: BCDR
-crosslinks:
-- autotldr
----

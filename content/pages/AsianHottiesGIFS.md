@@ -1,7 +1,6 @@
 ---
 title: AsianHottiesGIFS
 crosslinks:
-- livven
 - AsianHotties
 - Asuka_Kirara
 - GarterBelts

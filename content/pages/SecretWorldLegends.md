@@ -3,7 +3,6 @@ title: SecretWorldLegends
 crosslinks:
 - TheSecretWorld
 - IAmA
-- livven
 - MMORPG
 - Warframe
 - themes
@@ -17,7 +16,6 @@ crosslinks:
 - swtor
 - TheSecretWorldLegends
 - xkcd
-- autotldr
 - n6syz9
 - gatekeeping
 ---

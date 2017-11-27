@@ -3,7 +3,6 @@ title: birdswitharms
 crosslinks:
 - ArmedBirds
 - pics
-- livven
 - natureismetal
 - KarmaCourt
 - FuckTammy

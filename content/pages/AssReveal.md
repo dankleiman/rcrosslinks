@@ -1,5 +1,0 @@
----
-title: AssReveal
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: slapping
-crosslinks:
-- livven
----

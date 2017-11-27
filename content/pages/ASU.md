@@ -4,7 +4,6 @@ crosslinks:
 - cscareerquestions
 - phoenix
 - hardwareswap
-- autotldr
 - conspiracy
 - teenagers
 - UnresolvedMysteries

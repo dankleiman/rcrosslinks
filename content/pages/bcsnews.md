@@ -1,5 +1,0 @@
----
-title: bcsnews
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: AnimalsBeingGeniuses
 crosslinks:
-- livven
 - gifs
 - slygifs
 - theocho

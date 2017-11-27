@@ -1,7 +1,6 @@
 ---
 title: Israel
 crosslinks:
-- autotldr
 - Palestine
 - place
 - europe

@@ -1,5 +1,0 @@
----
-title: goingthewrongway
-crosslinks:
-- livven
----

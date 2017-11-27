@@ -14,7 +14,6 @@ crosslinks:
 - dashpay
 - siacoin
 - dashmarket
-- autotldr
 - Buttcoin
 - shapeshiftio
 - AlphaBayMarket

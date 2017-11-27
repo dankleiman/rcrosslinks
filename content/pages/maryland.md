@@ -1,7 +1,6 @@
 ---
 title: maryland
 crosslinks:
-- autotldr
 - sweden
 - SwedenOnPlace
 - frederickmd
@@ -12,7 +11,6 @@ crosslinks:
 - MapPorn
 - AMAAggregator
 - IAmA
-- livven
 - rants
 - kratom
 - Drama

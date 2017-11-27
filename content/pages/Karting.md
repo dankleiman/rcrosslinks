@@ -1,7 +1,6 @@
 ---
 title: Karting
 crosslinks:
-- livven
 - F1FeederSeries
 - racing
 - scooters

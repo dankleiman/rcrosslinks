@@ -1,5 +1,0 @@
----
-title: DirecTV
-crosslinks:
-- autotldr
----

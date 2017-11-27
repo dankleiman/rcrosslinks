@@ -5,7 +5,6 @@ crosslinks:
 - ChinaScamCentral
 - MNTrolls
 - google
-- autotldr
 - antiMLM
 - TravelScams
 - hacking

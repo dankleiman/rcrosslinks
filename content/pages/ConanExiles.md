@@ -8,7 +8,6 @@ crosslinks:
 - Ginfo
 - playrust
 - conanreapers
-- livven
 - playark
 - WeaselsServer
 - ConanModding

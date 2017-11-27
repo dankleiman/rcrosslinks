@@ -1,7 +1,6 @@
 ---
 title: bee_irl
 crosslinks:
-- livven
 - comics
 - COMPLETEANARCHY
 - me_irl_neue

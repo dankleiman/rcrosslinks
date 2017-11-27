@@ -2,7 +2,6 @@
 title: papertowns
 crosslinks:
 - MapPorn
-- livven
 - history
 - Colorado
 - europe

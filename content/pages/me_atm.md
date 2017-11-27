@@ -1,7 +1,6 @@
 ---
 title: me_atm
 crosslinks:
-- livven
 - IAmA
 - mildlyinteresting
 - androidcirclejerk

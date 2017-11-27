@@ -1,7 +1,6 @@
 ---
 title: transgender
 crosslinks:
-- autotldr
 - asktransgender
 - The_Donald
 - science

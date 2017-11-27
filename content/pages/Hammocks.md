@@ -5,7 +5,6 @@ crosslinks:
 - hammockcamping
 - myog
 - KSU
-- livven
 - Slackline
 - IAmA
 - DesignPorn

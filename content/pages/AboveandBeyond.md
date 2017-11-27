@@ -4,7 +4,6 @@ crosslinks:
 - trance
 - electronicmusic
 - IAmA
-- livven
 - Serendipity
 - Twitch
 - reddevils

@@ -2,7 +2,6 @@
 title: redneckengineering
 crosslinks:
 - xkcd
-- livven
 - AskReddit
 - videos
 - funny

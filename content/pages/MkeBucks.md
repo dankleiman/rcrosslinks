@@ -3,7 +3,6 @@ title: MkeBucks
 crosslinks:
 - torontoraptors
 - sixers
-- livven
 - GreenBayPackers
 - nfl
 - NYKnicks

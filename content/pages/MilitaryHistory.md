@@ -1,7 +1,6 @@
 ---
 title: MilitaryHistory
 crosslinks:
-- autotldr
 - Eve
 - Militariacollecting
 - hoi4

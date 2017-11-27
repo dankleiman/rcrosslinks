@@ -4,7 +4,6 @@ crosslinks:
 - Xcom
 - xcom2mods
 - excgarated
-- livven
 - playmygame
 - VPN
 - IAmA

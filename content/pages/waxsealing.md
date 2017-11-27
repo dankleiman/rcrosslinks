@@ -1,5 +1,0 @@
----
-title: waxsealing
-crosslinks:
-- livven
----

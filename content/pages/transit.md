@@ -1,7 +1,6 @@
 ---
 title: transit
 crosslinks:
-- autotldr
 - LosAngeles
 - aviation
 - Austin
@@ -11,7 +10,6 @@ crosslinks:
 - vancouver
 - london
 - Calgary
-- livven
 - TheHourchive
 - SeattleWA
 ---

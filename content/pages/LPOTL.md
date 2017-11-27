@@ -8,7 +8,6 @@ crosslinks:
 - incels
 - CrimeScene
 - Bizarre_States
-- livven
 - ShitAmericansSay
 - me_irl
 - WTF

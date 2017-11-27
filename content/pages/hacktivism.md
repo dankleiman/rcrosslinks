@@ -1,5 +1,0 @@
----
-title: hacktivism
-crosslinks:
-- autotldr
----

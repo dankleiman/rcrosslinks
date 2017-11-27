@@ -4,7 +4,6 @@ crosslinks:
 - gaming
 - nintendo
 - JonTron
-- livven
 - place
 - Pixiv
 - osuplace

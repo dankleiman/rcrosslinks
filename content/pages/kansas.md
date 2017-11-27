@@ -1,7 +1,6 @@
 ---
 title: kansas
 crosslinks:
-- autotldr
 - CrazyIdeas
 - kansascity
 - UpliftingNews

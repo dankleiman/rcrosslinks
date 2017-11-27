@@ -2,7 +2,6 @@
 title: formula1
 crosslinks:
 - motorsportsstreams
-- livven
 - INDYCAR
 - MotorsportsReplays
 - xkcd
@@ -17,7 +16,6 @@ crosslinks:
 - FormulaE
 - NASCAR
 - place
-- autotldr
 - funny
 - AskReddit
 - F1Technical

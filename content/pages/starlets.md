@@ -5,7 +5,6 @@ crosslinks:
 - Jordyn_Jones
 - Jade_Chynoweth
 - larsenthompson
-- livven
 - AnneWinters
 - AlexisBurnett
 - lexeesmith

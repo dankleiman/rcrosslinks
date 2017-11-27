@@ -1,8 +1,6 @@
 ---
 title: jakeandamir
 crosslinks:
-- livven
-- autotldr
 - AMAAggregator
 - aww
 - HumansBeingBros

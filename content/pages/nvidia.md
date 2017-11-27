@@ -10,7 +10,6 @@ crosslinks:
 - techsupport
 - EtherMining
 - Windows10
-- livven
 - masseffect
 - Monitors
 - NintendoSwitch

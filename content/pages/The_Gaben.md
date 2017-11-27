@@ -3,7 +3,6 @@ title: The_Gaben
 crosslinks:
 - HalfLife
 - DotA2
-- livven
 - tf2
 - Steam
 - IAmA

@@ -2,7 +2,6 @@
 title: BlackPink
 crosslinks:
 - kpop
-- livven
 - pics
 - koreanvariety
 - kpics

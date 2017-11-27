@@ -2,7 +2,6 @@
 title: acteuropa
 crosslinks:
 - alleu
-- autotldr
 - EuropeanFederalists
 - europe
 - poland

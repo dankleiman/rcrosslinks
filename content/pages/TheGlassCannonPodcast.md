@@ -1,7 +1,6 @@
 ---
 title: TheGlassCannonPodcast
 crosslinks:
-- livven
 - Pathfinder_RPG
 - regenerate
 - ActualPlayRPG

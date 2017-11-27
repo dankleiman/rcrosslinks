@@ -2,9 +2,7 @@
 title: boostedboards
 crosslinks:
 - store
-- livven
 - metric_units
-- autotldr
 - BoostedBoardsUK
 - AMAAggregator
 - EBoardMarketplace

@@ -1,5 +1,0 @@
----
-title: defundcbc
-crosslinks:
-- autotldr
----

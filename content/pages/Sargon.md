@@ -1,5 +1,0 @@
----
-title: Sargon
-crosslinks:
-- autotldr
----

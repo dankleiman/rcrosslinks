@@ -2,7 +2,6 @@
 title: nsfwcelebs
 crosslinks:
 - YeOldeNudes
-- livven
 - NudieWorld
 - OutOfTheLoop
 - NiykeeHeaton

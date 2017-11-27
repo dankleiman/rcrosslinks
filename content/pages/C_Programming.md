@@ -8,7 +8,6 @@ crosslinks:
 - dailyprogrammer
 - Cplusplus
 - macprogramming
-- autotldr
 - opengl
 - linux
 - xkcd

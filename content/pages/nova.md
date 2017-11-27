@@ -2,7 +2,6 @@
 title: nova
 crosslinks:
 - washingtondc
-- autotldr
 - Roadcam
 - VAGuns
 - VirginiaPolitics
@@ -14,7 +13,6 @@ crosslinks:
 - ShitRedditSays
 - AutoDetailing
 - interestingplates
-- livven
 - Dashcam
 - cars
 - ShadowBan

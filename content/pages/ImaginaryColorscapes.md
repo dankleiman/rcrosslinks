@@ -3,7 +3,6 @@ title: ImaginaryColorscapes
 crosslinks:
 - outrun
 - Art
-- livven
 - ImaginaryArtists
 - ImaginarySeascapes
 - anime

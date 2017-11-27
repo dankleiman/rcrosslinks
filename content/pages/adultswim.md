@@ -2,7 +2,6 @@
 title: adultswim
 crosslinks:
 - Toonami
-- autotldr
 - samuraijack
 - milliondollarextreme
 - 12ozmouse

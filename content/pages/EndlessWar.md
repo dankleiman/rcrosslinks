@@ -1,7 +1,6 @@
 ---
 title: EndlessWar
 crosslinks:
-- autotldr
 - antiwar
 - conspiracy
 - WayOfTheBern

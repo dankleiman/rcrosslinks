@@ -1,7 +1,6 @@
 ---
 title: FireEmblemHeroes
 crosslinks:
-- livven
 - FFBraveExvius
 - xkcd
 - FFRecordKeeper

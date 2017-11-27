@@ -1,5 +1,0 @@
----
-title: WrestlingCaptions
-crosslinks:
-- livven
----

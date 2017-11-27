@@ -8,7 +8,6 @@ crosslinks:
 - MemeEconomy
 - Pixiv
 - AnimeFigures
-- livven
 - Animemes
 - DoMyBest
 - Blizzard

@@ -4,7 +4,6 @@ crosslinks:
 - fakeid
 - AskReddit
 - Incels
-- autotldr
 - NegativeWithGold
 - ShitRedditSays
 - PennStateUniversity

@@ -1,9 +1,7 @@
 ---
 title: TotalReddit
 crosslinks:
-- autotldr
 - CringeAnarchy
-- livven
 - worstof
 - ExNoContact
 - DuelingCorner

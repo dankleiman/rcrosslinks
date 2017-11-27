@@ -1,5 +1,0 @@
----
-title: CaveatEmptor
-crosslinks:
-- autotldr
----

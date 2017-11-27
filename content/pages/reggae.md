@@ -5,5 +5,4 @@ crosslinks:
 - Skinhead
 - RootsReggae
 - twinpeaks
-- autotldr
 ---

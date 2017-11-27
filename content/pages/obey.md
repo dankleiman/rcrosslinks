@@ -1,5 +1,0 @@
----
-title: obey
-crosslinks:
-- livven
----

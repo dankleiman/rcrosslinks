@@ -1,5 +1,0 @@
----
-title: starjerk
-crosslinks:
-- livven
----

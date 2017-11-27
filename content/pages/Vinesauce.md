@@ -7,7 +7,6 @@ crosslinks:
 - StardustCrusaders
 - ProCSS
 - GiIvaSunner
-- livven
 - JonTron
 - nintendo
 - Undertale

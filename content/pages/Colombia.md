@@ -1,7 +1,6 @@
 ---
 title: Colombia
 crosslinks:
-- autotldr
 - MapPorn
 - argentina
 - notArgentina

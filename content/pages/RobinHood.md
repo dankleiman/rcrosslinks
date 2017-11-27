@@ -5,8 +5,6 @@ crosslinks:
 - stocks
 - pennystocks
 - personalfinance
-- livven
-- autotldr
 - tradeXIV
 - AMD_Stock
 - MemeEconomy

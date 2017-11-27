@@ -4,7 +4,6 @@ crosslinks:
 - Anarcho_Capitalism
 - worldnews
 - politics
-- autotldr
 - pics
 - AskReddit
 - EnoughCommieSpam

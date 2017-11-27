@@ -1,7 +1,6 @@
 ---
 title: TrumpForPrison
 crosslinks:
-- autotldr
 - The_Donald
 - opiates
 - EnoughTrumpSpam

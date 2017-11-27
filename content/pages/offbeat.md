@@ -1,7 +1,6 @@
 ---
 title: offbeat
 crosslinks:
-- autotldr
 - worldpolitics
 - Missing411
 - AskReddit

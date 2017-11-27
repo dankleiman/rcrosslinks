@@ -2,12 +2,10 @@
 title: Minneapolis
 crosslinks:
 - TwinCities
-- autotldr
 - minnesota
 - The_Donald
 - CyclingMSP
 - ProtectAndServe
-- livven
 - Multicopter
 - AskReddit
 - xkcd

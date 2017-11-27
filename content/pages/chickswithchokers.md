@@ -1,7 +1,6 @@
 ---
 title: chickswithchokers
 crosslinks:
-- livven
 - torpedotits
 - nsfw
 - TinyTits

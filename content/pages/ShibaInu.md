@@ -1,5 +1,0 @@
----
-title: ShibaInu
-crosslinks:
-- livven
----

@@ -3,7 +3,6 @@ title: FreeKarma4You
 crosslinks:
 - hacking
 - BestLifeHack
-- livven
 - YGOSales
 - FreeKarma4U
 - hearthstone

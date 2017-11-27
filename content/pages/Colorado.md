@@ -2,7 +2,6 @@
 title: Colorado
 crosslinks:
 - Denver
-- autotldr
 - IAmA
 - focoprogress
 - technology

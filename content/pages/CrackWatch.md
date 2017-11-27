@@ -8,7 +8,6 @@ crosslinks:
 - pcgaming
 - pcmasterrace
 - trackers
-- autotldr
 - Games
 - SoftwarePiracy
 - cemu
@@ -17,7 +16,6 @@ crosslinks:
 - ConanExiles
 - HaloOnline
 - megalinks
-- livven
 - patientgamers
 - nier
 - xkcd

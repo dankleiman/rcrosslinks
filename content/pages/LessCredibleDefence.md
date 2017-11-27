@@ -1,7 +1,6 @@
 ---
 title: LessCredibleDefence
 crosslinks:
-- autotldr
 - india
 - navy
 - Dragon029

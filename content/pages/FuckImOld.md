@@ -14,7 +14,6 @@ crosslinks:
 - gatekeeping
 - videos
 - TrollXChromosomes
-- livven
 - Guitar
 - aoe2
 - WritingPrompts

@@ -4,5 +4,4 @@ crosslinks:
 - geopolitics
 - kurdistan
 - iranian
-- autotldr
 ---

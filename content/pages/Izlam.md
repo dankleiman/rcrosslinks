@@ -2,7 +2,6 @@
 title: Izlam
 crosslinks:
 - islam
-- livven
 - exmuslim
 - vegan
 - dankchristianmemes

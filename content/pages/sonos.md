@@ -12,6 +12,5 @@ crosslinks:
 - pedant
 - hometheater
 - homeassistant
-- autotldr
 - Zeos
 ---

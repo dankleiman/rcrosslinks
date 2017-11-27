@@ -7,7 +7,6 @@ crosslinks:
 - 3dshacks
 - place
 - Serendipity
-- livven
 - nocontext
 - indieheads
 - LofiHipHop

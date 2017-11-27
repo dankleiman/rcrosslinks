@@ -4,7 +4,6 @@ crosslinks:
 - science
 - MarchForScience
 - worldnews
-- livven
 - videos
 - news
 - The_Donald

@@ -1,5 +1,0 @@
----
-title: primatology
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: PopularMechanics
-crosslinks:
-- autotldr
----

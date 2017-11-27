@@ -1,5 +1,0 @@
----
-title: funy
-crosslinks:
-- livven
----

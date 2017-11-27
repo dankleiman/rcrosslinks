@@ -2,7 +2,6 @@
 title: IWasWrongAllAlong
 crosslinks:
 - facepalm
-- livven
 - Ask_Politics
 - EnoughTrumpSpam
 - redditisland

@@ -2,7 +2,6 @@
 title: SonyXperia
 crosslinks:
 - Android
-- autotldr
 - TheSilphRoad
 - Serendipity
 - GooglePixel

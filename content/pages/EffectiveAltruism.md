@@ -3,7 +3,6 @@ title: EffectiveAltruism
 crosslinks:
 - askphilosophy
 - philosophy
-- autotldr
 - Frontier_Colonization
 - Futurology
 - smartgiving

@@ -7,7 +7,6 @@ crosslinks:
 - Atlanta
 - trackers
 - gifs
-- autotldr
 - WTF
 - LandscapeArchitecture
 - woahdude

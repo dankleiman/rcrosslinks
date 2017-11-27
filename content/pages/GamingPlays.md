@@ -8,7 +8,6 @@ crosslinks:
 - leagueoflegends
 - BattleRite
 - QuakeChampions
-- livven
 - RivalsOfAether
 - halo
 - QuakeLive

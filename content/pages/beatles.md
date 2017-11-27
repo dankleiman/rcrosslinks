@@ -1,9 +1,7 @@
 ---
 title: beatles
 crosslinks:
-- livven
 - vinyl
-- autotldr
 - titlegore
 - led_zeppelin
 - weezer

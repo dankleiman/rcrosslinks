@@ -1,10 +1,8 @@
 ---
 title: drunkenpeasants
 crosslinks:
-- autotldr
 - OfficialDP
 - The_Donald
-- livven
 - SargonofAkkad
 - DrunkenPeasantsDP
 - 1T6O

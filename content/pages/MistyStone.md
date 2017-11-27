@@ -1,5 +1,0 @@
----
-title: MistyStone
-crosslinks:
-- livven
----

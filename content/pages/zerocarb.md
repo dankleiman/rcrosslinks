@@ -14,7 +14,6 @@ crosslinks:
 - NoFap
 - technology
 - Paleo
-- autotldr
 - FoodPorn
 - veganfitness
 - worldnews

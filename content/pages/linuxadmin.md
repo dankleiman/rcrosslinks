@@ -5,7 +5,6 @@ crosslinks:
 - linux
 - xkcd
 - netsec
-- autotldr
 - PHP
 - linuxquestions
 - fXOgL5

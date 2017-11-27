@@ -2,7 +2,6 @@
 title: LongDistance
 crosslinks:
 - IWantOut
-- livven
 - pcmasterrace
 - relationships
 - LifeProTips

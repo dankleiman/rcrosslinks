@@ -9,5 +9,4 @@ crosslinks:
 - actcirclejerk
 - AMAAggregator
 - chanceme
-- autotldr
 ---

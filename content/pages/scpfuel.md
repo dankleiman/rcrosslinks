@@ -1,5 +1,0 @@
----
-title: scpfuel
-crosslinks:
-- livven
----

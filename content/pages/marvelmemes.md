@@ -1,7 +1,6 @@
 ---
 title: marvelmemes
 crosslinks:
-- livven
 - marvelstudios
 - MemeEconomy
 - funhaus

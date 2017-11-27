@@ -1,5 +1,0 @@
----
-title: FullNelson
-crosslinks:
-- livven
----

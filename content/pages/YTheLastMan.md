@@ -1,5 +1,0 @@
----
-title: YTheLastMan
-crosslinks:
-- autotldr
----

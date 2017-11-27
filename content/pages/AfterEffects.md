@@ -1,7 +1,6 @@
 ---
 title: AfterEffects
 crosslinks:
-- livven
 - animation
 - VideoEditing
 - HighQualityGifs

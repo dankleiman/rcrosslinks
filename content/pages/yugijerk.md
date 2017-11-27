@@ -6,5 +6,4 @@ crosslinks:
 - magicthecirclejerking
 - AMAAggregator
 - IncelReddit
-- livven
 ---

@@ -1,7 +1,6 @@
 ---
 title: CatholicPolitics
 crosslinks:
-- autotldr
 - ABCDesis
 - Catholicism
 - SeattleWA

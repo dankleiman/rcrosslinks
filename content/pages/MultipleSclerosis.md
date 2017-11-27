@@ -1,7 +1,6 @@
 ---
 title: MultipleSclerosis
 crosslinks:
-- autotldr
 - Nootropics
 - IWantOut
 - Hand_Of_Fate

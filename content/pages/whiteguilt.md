@@ -1,5 +1,0 @@
----
-title: whiteguilt
-crosslinks:
-- autotldr
----

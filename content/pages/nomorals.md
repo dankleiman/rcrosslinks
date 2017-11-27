@@ -1,7 +1,6 @@
 ---
 title: nomorals
 crosslinks:
-- livven
 - CrimeScene
 - law13
 - ImGoingToHellForThis
@@ -13,7 +12,6 @@ crosslinks:
 - hotamputees
 - Jokes
 - guro
-- FATOROBOTO
 - ButtSharpies
 - Normal
 - wtfstockphotos

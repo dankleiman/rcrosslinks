@@ -10,7 +10,6 @@ crosslinks:
 - FunnyandSad
 - OopsDidntMeanTo
 - GayWincest
-- autotldr
 - engrish
 - ChargeYourPhone
 - onetruegod

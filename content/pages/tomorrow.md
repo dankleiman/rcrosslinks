@@ -1,7 +1,6 @@
 ---
 title: tomorrow
 crosslinks:
-- livven
 - NintendoSwitch
 - CasualSwitch
 - Breath_of_the_Wild

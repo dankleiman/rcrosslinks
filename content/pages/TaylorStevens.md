@@ -1,5 +1,0 @@
----
-title: TaylorStevens
-crosslinks:
-- livven
----

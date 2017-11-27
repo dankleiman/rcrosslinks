@@ -10,7 +10,6 @@ crosslinks:
 - alishawhite
 - FrancescaOcean
 - Emmycity
-- livven
 - anightinwesteros
 - KikiPawg
 - MarieClaire

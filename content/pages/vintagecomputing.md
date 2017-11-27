@@ -1,7 +1,6 @@
 ---
 title: vintagecomputing
 crosslinks:
-- autotldr
 - VintageApple
 - m68k
 - apple2

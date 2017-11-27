@@ -1,5 +1,0 @@
----
-title: soccerontv
-crosslinks:
-- autotldr
----

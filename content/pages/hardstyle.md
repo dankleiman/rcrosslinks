@@ -5,7 +5,6 @@ crosslinks:
 - edmproduction
 - headphones
 - EDM
-- livven
 - gifs
 - GreenLattice
 - madlad

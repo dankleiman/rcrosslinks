@@ -15,7 +15,6 @@ crosslinks:
 - resumes
 - legaladvice
 - copypasta
-- autotldr
 - AskReddit
 - careerguidance
 - FuckImOld

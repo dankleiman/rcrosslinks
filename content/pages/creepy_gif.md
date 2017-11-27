@@ -1,7 +1,6 @@
 ---
 title: creepy_gif
 crosslinks:
-- livven
 - distension
 - hellnah
 - GhostAdventures

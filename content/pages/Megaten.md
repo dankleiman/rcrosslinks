@@ -6,7 +6,6 @@ crosslinks:
 - demifiendnocturne
 - personajerk
 - PERSoNA
-- livven
 - JRPG
 - ShinMegamiHentai
 - Ninto55

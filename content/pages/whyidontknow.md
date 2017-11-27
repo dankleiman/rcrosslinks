@@ -1,5 +1,0 @@
----
-title: whyidontknow
-crosslinks:
-- livven
----

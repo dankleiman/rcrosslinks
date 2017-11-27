@@ -13,7 +13,6 @@ crosslinks:
 - soylent
 - RWhiteGoose
 - videos
-- livven
 - LGBTeens
 - showvideogames
 - cosmowright

@@ -1,5 +1,0 @@
----
-title: Neuromancer
-crosslinks:
-- autotldr
----

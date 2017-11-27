@@ -1,12 +1,10 @@
 ---
 title: AntiTrumpAlliance
 crosslinks:
-- autotldr
 - EnoughTrumpSpam
 - all
 - BannedFromThe_Donald
 - politics
-- livven
 - BlueMidterm2018
 - esist
 - The_Donald

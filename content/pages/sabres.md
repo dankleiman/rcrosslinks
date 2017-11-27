@@ -2,7 +2,6 @@
 title: sabres
 crosslinks:
 - hockey
-- livven
 - leafs
 - canes
 - Buffalo
@@ -18,7 +17,6 @@ crosslinks:
 - BlueJackets
 - anarchocapitalism
 - homegym
-- autotldr
 - NHLStreams
 - devils
 ---

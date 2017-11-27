@@ -16,9 +16,7 @@ crosslinks:
 - ComedyCemetery
 - PhonesAreGood
 - applesucks
-- livven
 - videos
 - androidcirclejerk
-- autotldr
 - kerning
 ---

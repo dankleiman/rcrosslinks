@@ -1,5 +1,0 @@
----
-title: stagesofdeath
-crosslinks:
-- livven
----

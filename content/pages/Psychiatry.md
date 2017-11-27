@@ -2,7 +2,6 @@
 title: Psychiatry
 crosslinks:
 - Antipsychiatry
-- autotldr
 - AcademicPsychology
 - medicine
 - titlegore

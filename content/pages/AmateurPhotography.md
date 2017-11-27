@@ -7,6 +7,5 @@ crosslinks:
 - photography
 - amiugly
 - photoclass
-- livven
 - hiking
 ---

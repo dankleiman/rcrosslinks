@@ -2,14 +2,12 @@
 title: lockpicking
 crosslinks:
 - locksport
-- livven
 - LockPickBazaar
 - flashlight
 - Locksmith
 - AskReddit
 - LearnUselessTalents
 - OldSchoolCool
-- autotldr
 - locksmith
 - rickandmorty
 - motorcycles

@@ -1,5 +1,0 @@
----
-title: kidssuck
-crosslinks:
-- livven
----

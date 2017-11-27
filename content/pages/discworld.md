@@ -20,5 +20,4 @@ crosslinks:
 - SwedenOnPlace
 - PlaceTwo
 - GNUTerryPratchett
-- livven
 ---

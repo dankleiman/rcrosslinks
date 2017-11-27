@@ -1,5 +1,0 @@
----
-title: itsnotrealsocialism
-crosslinks:
-- livven
----

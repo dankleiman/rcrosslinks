@@ -3,7 +3,6 @@ title: SFGiants
 crosslinks:
 - MLBStreams
 - Brewers
-- livven
 - '2013'
 - tifu
 - Dodgers

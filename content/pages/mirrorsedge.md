@@ -8,5 +8,4 @@ crosslinks:
 - linux_gaming
 - gifs
 - spidersimulator17
-- livven
 ---

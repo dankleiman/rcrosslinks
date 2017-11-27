@@ -1,5 +1,0 @@
----
-title: FuckFluoride
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: HorriblyDepressing
 crosslinks:
-- autotldr
 - toosoon
 - confession
 - AdviceAnimals

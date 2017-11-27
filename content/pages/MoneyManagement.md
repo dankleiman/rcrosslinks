@@ -1,5 +1,0 @@
----
-title: MoneyManagement
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: studentloandefaulters
 crosslinks:
-- autotldr
 - StudentLoans
 - personalfinance
 - IAmA

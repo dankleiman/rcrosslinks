@@ -1,7 +1,6 @@
 ---
 title: GaryJohnson
 crosslinks:
-- autotldr
 - ModelUSGov
 - spam
 - politics

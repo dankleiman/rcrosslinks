@@ -1,5 +1,0 @@
----
-title: trannycopters
-crosslinks:
-- livven
----

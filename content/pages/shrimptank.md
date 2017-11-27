@@ -2,7 +2,6 @@
 title: shrimptank
 crosslinks:
 - Aquariums
-- livven
 - AquaSwap
 - Jarrariums
 - PlantedTank

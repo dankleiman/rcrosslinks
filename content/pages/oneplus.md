@@ -8,7 +8,6 @@ crosslinks:
 - androidthemes
 - Nexus6P
 - androidapps
-- autotldr
 - GalaxyS7
 - OnePlus3T
 - lgg6

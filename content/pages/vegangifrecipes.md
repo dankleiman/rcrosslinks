@@ -1,7 +1,6 @@
 ---
 title: vegangifrecipes
 crosslinks:
-- livven
 - vegan
 - GifRecipes
 - WeWantPlates

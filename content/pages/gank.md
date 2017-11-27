@@ -1,7 +1,6 @@
 ---
 title: gank
 crosslinks:
-- livven
 - PrequelMemes
 - smite
 - gaming

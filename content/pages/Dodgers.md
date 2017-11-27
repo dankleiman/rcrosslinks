@@ -1,7 +1,6 @@
 ---
 title: Dodgers
 crosslinks:
-- livven
 - Reds
 - SFGiants
 - NewYorkMets

@@ -1,7 +1,6 @@
 ---
 title: highereducation
 crosslinks:
-- autotldr
 - WGU
 - worldpolitics
 - news

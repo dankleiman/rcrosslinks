@@ -2,7 +2,6 @@
 title: coins
 crosslinks:
 - translator
-- translatorBOT
 - CRH
 - AncientCoins
 - whatisthisthing

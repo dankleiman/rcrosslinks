@@ -1,7 +1,6 @@
 ---
 title: TruthLeaks
 crosslinks:
-- autotldr
 - conspiracy
 - WayOfTheBern
 - CoincidenceTheorist

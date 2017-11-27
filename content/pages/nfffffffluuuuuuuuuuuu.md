@@ -1,7 +1,6 @@
 ---
 title: nfffffffluuuuuuuuuuuu
 crosslinks:
-- livven
 - panthers
 - '2017'
 - reactiongifs

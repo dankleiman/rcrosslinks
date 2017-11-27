@@ -1,5 +1,0 @@
----
-title: VolumetricVideo
-crosslinks:
-- autotldr
----

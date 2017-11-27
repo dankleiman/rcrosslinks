@@ -3,7 +3,6 @@ title: OttawaSenators
 crosslinks:
 - hockey
 - penguins
-- livven
 - canucks
 - OneTurrisGod
 - BostonBruins

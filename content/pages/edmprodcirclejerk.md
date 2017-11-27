@@ -12,7 +12,6 @@ crosslinks:
 - enlightenedclockmen
 - trapproduction
 - yandere_simulator
-- livven
 - AdvancedProduction
 - Ooer
 - OutOfTheLoop

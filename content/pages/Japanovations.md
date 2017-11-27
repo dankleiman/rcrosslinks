@@ -1,5 +1,0 @@
----
-title: Japanovations
-crosslinks:
-- livven
----

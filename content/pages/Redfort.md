@@ -1,5 +1,0 @@
----
-title: Redfort
-crosslinks:
-- livven
----

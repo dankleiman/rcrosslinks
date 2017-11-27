@@ -1,7 +1,6 @@
 ---
 title: Tgifs
 crosslinks:
-- livven
 - miran
 - tflop
 - Tgirls

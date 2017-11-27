@@ -12,7 +12,6 @@ crosslinks:
 - PoliticalHumor
 - CrappyDesign
 - trippinthroughtime
-- livven
 - nsfw
 - AdviceAnimals
 - instant_regret

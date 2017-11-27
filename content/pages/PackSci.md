@@ -14,7 +14,6 @@ crosslinks:
 - science
 - UpliftingNews
 - Sneakers
-- livven
 - 3Dprinting
 - interestingasfuck
 - mildlyinfuriating

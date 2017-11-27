@@ -1,7 +1,6 @@
 ---
 title: BoomBeach
 crosslinks:
-- livven
 - xkcd
 - BlueStacks
 - RimWorld

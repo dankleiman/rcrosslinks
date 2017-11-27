@@ -2,7 +2,6 @@
 title: vegetarian
 crosslinks:
 - vegan
-- autotldr
 - vegancirclejerk
 - veganfitness
 - GifRecipes
@@ -13,7 +12,6 @@ crosslinks:
 - vegangifrecipes
 - Pescetarian
 - science
-- livven
 - Detroit
 - MeatlessMealPrep
 - VeganSchools

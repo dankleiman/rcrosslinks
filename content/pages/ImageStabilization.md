@@ -1,7 +1,6 @@
 ---
 title: ImageStabilization
 crosslinks:
-- livven
 - gifs
 - EgocentricVideoApp
 - PanoGifs

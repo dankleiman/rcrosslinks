@@ -1,7 +1,6 @@
 ---
 title: SmallDickHumiliation
 crosslinks:
-- livven
 - sph
 - tinydick
 - AskReddit

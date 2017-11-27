@@ -1,5 +1,0 @@
----
-title: satellites
-crosslinks:
-- autotldr
----

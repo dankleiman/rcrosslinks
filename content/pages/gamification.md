@@ -1,5 +1,0 @@
----
-title: gamification
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: zootopia
 crosslinks:
 - Pixiv
-- livven
 - furry_irl
 - furry
 - xkcd

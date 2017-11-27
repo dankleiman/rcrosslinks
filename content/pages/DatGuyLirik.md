@@ -8,7 +8,6 @@ crosslinks:
 - fuckwaffle
 - PUBATTLEGROUNDS
 - Ice_Poseidon
-- livven
 - Games
 - gaming
 - GrandTheftAutoV

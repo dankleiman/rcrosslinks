@@ -1,5 +1,0 @@
----
-title: nuclearwar
-crosslinks:
-- autotldr
----

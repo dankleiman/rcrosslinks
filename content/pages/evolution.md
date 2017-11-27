@@ -1,7 +1,6 @@
 ---
 title: evolution
 crosslinks:
-- autotldr
 - exjw
 - xkcd
 - Creation

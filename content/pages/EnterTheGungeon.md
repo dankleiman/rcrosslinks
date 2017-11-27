@@ -1,7 +1,6 @@
 ---
 title: EnterTheGungeon
 crosslinks:
-- livven
 - NintendoSwitch
 - titlegore
 - Games

@@ -1,14 +1,12 @@
 ---
 title: france
 crosslinks:
-- autotldr
 - europe
 - The_Donald
 - xkcd
 - worldnews
 - AskReddit
 - quefaitlapolice
-- livven
 - mecsfous
 - Le_Pen
 - de

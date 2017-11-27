@@ -1,5 +1,0 @@
----
-title: Brain
-crosslinks:
-- autotldr
----

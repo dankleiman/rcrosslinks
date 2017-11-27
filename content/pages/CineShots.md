@@ -2,7 +2,6 @@
 title: CineShots
 crosslinks:
 - MovieGuide
-- livven
 - outrun
 - Cinemagraphs
 - MovieDetails

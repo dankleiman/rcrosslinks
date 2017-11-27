@@ -6,7 +6,6 @@ crosslinks:
 - Italian_Prog
 - Genesis
 - discoverprog
-- autotldr
 - worldnews
 - kingcrimson
 - kgatlw

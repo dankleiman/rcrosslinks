@@ -1,7 +1,6 @@
 ---
 title: papermario
 crosslinks:
-- livven
 - tf2
 - JonTron
 - riversidestation

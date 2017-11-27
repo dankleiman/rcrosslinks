@@ -19,6 +19,4 @@ crosslinks:
 - norcalhiking
 - ZionNP
 - trailpost
-- livven
-- autotldr
 ---

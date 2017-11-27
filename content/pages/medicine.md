@@ -2,7 +2,6 @@
 title: medicine
 crosslinks:
 - medicalschool
-- autotldr
 - xkcd
 - AskReddit
 - AskDocs

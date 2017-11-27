@@ -1,12 +1,10 @@
 ---
 title: oklahoma
 crosslinks:
-- autotldr
 - okc
 - AskHistorians
 - nottheonion
 - interestingasfuck
-- livven
 - technology
 - IAmA
 - wtfdidijustread

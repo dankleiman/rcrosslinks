@@ -6,7 +6,6 @@ crosslinks:
 - Sprint
 - GCXRep
 - Android
-- autotldr
 - GooglePixel
 - ProjectFi
 - legaladvice

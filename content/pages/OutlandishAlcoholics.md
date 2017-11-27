@@ -1,8 +1,6 @@
 ---
 title: OutlandishAlcoholics
 crosslinks:
-- livven
-- autotldr
 - onetruegod
 - cripplingalcoholism
 - EmpireDidNothingWrong

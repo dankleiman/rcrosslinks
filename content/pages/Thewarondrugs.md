@@ -1,5 +1,0 @@
----
-title: Thewarondrugs
-crosslinks:
-- autotldr
----

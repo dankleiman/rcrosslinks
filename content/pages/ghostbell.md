@@ -1,5 +1,0 @@
----
-title: ghostbell
-crosslinks:
-- livven
----

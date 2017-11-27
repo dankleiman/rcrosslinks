@@ -1,7 +1,6 @@
 ---
 title: yiff
 crosslinks:
-- livven
 - HornyDinos
 - gfur
 - furry_irl

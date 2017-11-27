@@ -5,8 +5,6 @@ crosslinks:
 - oldtechno
 - TechnoProduction
 - MovementDEMF
-- livven
-- autotldr
 - indie
 - acidtechno
 - srofaguy

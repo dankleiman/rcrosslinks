@@ -1,7 +1,6 @@
 ---
 title: memphis
 crosslinks:
-- autotldr
 - Infographics
 - pics
 - toronto

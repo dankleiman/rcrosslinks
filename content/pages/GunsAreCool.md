@@ -1,7 +1,6 @@
 ---
 title: GunsAreCool
 crosslinks:
-- autotldr
 - shitguncontrollerssay
 - NotSouthPark
 - ShitPoliticsSays

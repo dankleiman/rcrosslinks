@@ -1,7 +1,6 @@
 ---
 title: geekheads
 crosslinks:
-- autotldr
 - popheads
 - movies
 - Showerthoughts

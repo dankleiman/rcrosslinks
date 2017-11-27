@@ -1,7 +1,6 @@
 ---
 title: randomsexygifs
 crosslinks:
-- livven
 - magdaangel
 - FitAndNatural
 - AlexCurry

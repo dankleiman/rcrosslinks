@@ -1,7 +1,6 @@
 ---
 title: OddlyArousing
 crosslinks:
-- livven
 - gifs
 - mechanical_gifs
 - popping

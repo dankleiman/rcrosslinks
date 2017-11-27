@@ -4,7 +4,6 @@ crosslinks:
 - nfl
 - NFL_Draft
 - Texans
-- livven
 - nflstreams
 - eagles
 - AskReddit

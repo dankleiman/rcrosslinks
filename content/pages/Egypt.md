@@ -1,7 +1,6 @@
 ---
 title: Egypt
 crosslinks:
-- autotldr
 - islam
 - AskReddit
 - pics

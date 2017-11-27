@@ -2,7 +2,6 @@
 title: ProtonVPN
 crosslinks:
 - VPN
-- autotldr
 - PFSENSE
 - privacy
 - ProtonDrive

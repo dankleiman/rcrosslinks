@@ -1,7 +1,6 @@
 ---
 title: Economics
 crosslinks:
-- autotldr
 - zeronet
 - Shitstatistssay
 - BasicIncome

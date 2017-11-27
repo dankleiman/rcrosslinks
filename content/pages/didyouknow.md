@@ -1,5 +1,0 @@
----
-title: didyouknow
-crosslinks:
-- autotldr
----

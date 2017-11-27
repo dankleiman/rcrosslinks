@@ -7,7 +7,6 @@ crosslinks:
 - YIMO
 - ViMains
 - gangplankmains
-- livven
 - Dariusmains
 - YasuoMains
 - KoreanAdvice

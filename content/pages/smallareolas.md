@@ -1,5 +1,0 @@
----
-title: smallareolas
-crosslinks:
-- livven
----

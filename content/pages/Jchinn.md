@@ -1,5 +1,0 @@
----
-title: Jchinn
-crosslinks:
-- livven
----

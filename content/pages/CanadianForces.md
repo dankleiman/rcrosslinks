@@ -1,8 +1,6 @@
 ---
 title: CanadianForces
 crosslinks:
-- autotldr
-- livven
 - canada
 - navy
 - AirForce

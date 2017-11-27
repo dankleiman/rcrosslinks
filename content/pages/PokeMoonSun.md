@@ -17,7 +17,6 @@ crosslinks:
 - 3DS
 - 3dshacks
 - PokemonLeague3DS
-- livven
 - letsplay
 - PokemonQRCodes
 - PokemonBattleTree

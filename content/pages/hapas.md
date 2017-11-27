@@ -11,7 +11,6 @@ crosslinks:
 - WMAF
 - China
 - The_Donald
-- autotldr
 - TrueReddit
 - singapore
 - HalfBlack

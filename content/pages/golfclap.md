@@ -1,5 +1,0 @@
----
-title: golfclap
-crosslinks:
-- autotldr
----

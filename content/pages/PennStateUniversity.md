@@ -6,7 +6,6 @@ crosslinks:
 - Pitt
 - CFB
 - citizenjournalism
-- autotldr
 - CHIBears
 - IAmA
 - UPenn

@@ -1,7 +1,6 @@
 ---
 title: boxoffice
 crosslinks:
-- autotldr
 - moviescirclejerk
 - marvelstudios
 - movies

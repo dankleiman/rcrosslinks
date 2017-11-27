@@ -2,7 +2,6 @@
 title: qotsa
 crosslinks:
 - radiohead
-- livven
 - stonerrock
 - 15zmd5e
 - indieheads

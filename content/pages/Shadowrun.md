@@ -2,7 +2,6 @@
 title: Shadowrun
 crosslinks:
 - SixthWorld
-- autotldr
 - rpg
 - talesfromtechsupport
 - gametales

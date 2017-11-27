@@ -1,7 +1,6 @@
 ---
 title: WomenWearingShirts
 crosslinks:
-- livven
 - GirlsinSchoolUniforms
 - Indiana_A
 - BridgetteB

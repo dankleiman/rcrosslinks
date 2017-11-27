@@ -1,5 +1,0 @@
----
-title: macrumorsofficial
-crosslinks:
-- autotldr
----

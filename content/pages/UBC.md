@@ -3,7 +3,6 @@ title: UBC
 crosslinks:
 - vancouver
 - place
-- livven
 - xkcd
 - canada
 - uwaterloo

@@ -1,7 +1,6 @@
 ---
 title: toledo
 crosslinks:
-- autotldr
 - personalfinance
 - titlegore
 - legaladvice

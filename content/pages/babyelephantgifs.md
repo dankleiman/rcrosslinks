@@ -1,7 +1,6 @@
 ---
 title: babyelephantgifs
 crosslinks:
-- livven
 - pics
 - Pigifs
 - likeus

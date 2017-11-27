@@ -1,5 +1,0 @@
----
-title: minisegway
-crosslinks:
-- livven
----

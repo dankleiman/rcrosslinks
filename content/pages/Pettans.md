@@ -1,5 +1,0 @@
----
-title: Pettans
-crosslinks:
-- livven
----

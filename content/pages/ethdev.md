@@ -5,7 +5,6 @@ crosslinks:
 - ethtrader
 - BlockChain
 - etheroll
-- autotldr
 - OpenANX
 - Angular2
 - Bitcoin

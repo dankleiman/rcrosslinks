@@ -1,11 +1,9 @@
 ---
 title: PussyPass
 crosslinks:
-- autotldr
 - PussyPassNeutral
 - pussypassdenied
 - TopMindsOfReddit
-- livven
 - The_Donald
 - nazi
 - OutOfTheLoop

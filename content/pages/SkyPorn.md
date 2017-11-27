@@ -13,7 +13,6 @@ crosslinks:
 - ToyotaTacoma
 - portugal
 - Suomi
-- livven
 - NoSillySuffix
 - atoptics
 - VaporwaveAesthetics

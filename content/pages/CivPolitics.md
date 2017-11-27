@@ -1,7 +1,6 @@
 ---
 title: CivPolitics
 crosslinks:
-- autotldr
 - UnexpectedHamilton
 - Serendipity
 - BrasilOnReddit

@@ -5,7 +5,6 @@ crosslinks:
 - france
 - xkcd
 - place
-- autotldr
 - placecanada
 - CanadaPolitics
 - worldnews
@@ -19,6 +18,5 @@ crosslinks:
 - personalfinance
 - hockey
 - vancouver
-- livven
 - funny
 ---

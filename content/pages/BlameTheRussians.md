@@ -1,5 +1,0 @@
----
-title: BlameTheRussians
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: teenmom
 crosslinks:
 - shittyteenmom
-- livven
 - trashy
 - IAmA
 - AskReddit

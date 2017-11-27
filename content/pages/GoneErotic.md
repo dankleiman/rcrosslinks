@@ -1,7 +1,6 @@
 ---
 title: GoneErotic
 crosslinks:
-- livven
 - TeenyGinger
 - TheBananaButcher
 - IAmA

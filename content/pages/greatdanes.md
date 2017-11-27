@@ -1,7 +1,6 @@
 ---
 title: greatdanes
 crosslinks:
-- livven
 - Zoomies
 - Serendipity
 - VetTech

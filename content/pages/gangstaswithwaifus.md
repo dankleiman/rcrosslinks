@@ -1,5 +1,0 @@
----
-title: gangstaswithwaifus
-crosslinks:
-- livven
----

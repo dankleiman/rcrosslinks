@@ -1,5 +1,0 @@
----
-title: RenaissanceArt
-crosslinks:
-- autotldr
----

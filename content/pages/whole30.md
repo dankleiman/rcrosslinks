@@ -5,7 +5,6 @@ crosslinks:
 - Reduction
 - Serendipity
 - FODMAPS
-- livven
 - yoga
 - stopdrinking
 ---

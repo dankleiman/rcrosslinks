@@ -1,5 +1,0 @@
----
-title: TimCook
-crosslinks:
-- autotldr
----

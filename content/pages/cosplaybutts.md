@@ -2,7 +2,6 @@
 title: cosplaybutts
 crosslinks:
 - cosplaygirls
-- livven
 - latexcosplay
 - YuzuMiko
 - JessicaNigri2

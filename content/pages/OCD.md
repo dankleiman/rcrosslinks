@@ -5,7 +5,6 @@ crosslinks:
 - TheRedPill
 - SuicideWatch
 - Anxiety
-- autotldr
 - AskReddit
 - aspergers
 - HealthAnxiety

@@ -1,7 +1,6 @@
 ---
 title: climatechange
 crosslinks:
-- autotldr
 - climateskeptics
 - askscience
 - ZeroWaste

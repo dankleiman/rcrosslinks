@@ -2,7 +2,6 @@
 title: VictoriaBC
 crosslinks:
 - canada
-- livven
 - PersonalFinanceCanada
 - AskCulinary
 - vancouver

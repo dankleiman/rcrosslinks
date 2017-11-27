@@ -1,5 +1,0 @@
----
-title: mountgeryon
-crosslinks:
-- livven
----

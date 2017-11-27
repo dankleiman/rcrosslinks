@@ -1,7 +1,6 @@
 ---
 title: multiculturalcancer
 crosslinks:
-- autotldr
 - conspiracy
 - ChristiansAwake2NWO
 - The_Sweden

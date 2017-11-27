@@ -15,7 +15,6 @@ crosslinks:
 - freenas
 - HomeServer
 - talesfromtechsupport
-- autotldr
 - hardwareswap
 - linuxserver
 - pcmasterrace

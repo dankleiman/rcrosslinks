@@ -2,7 +2,6 @@
 title: bravefrontier
 crosslinks:
 - FFBraveExvius
-- livven
 - ShadowBan
 - AskReddit
 - LivestreamFail

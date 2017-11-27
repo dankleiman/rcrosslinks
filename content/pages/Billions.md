@@ -1,10 +1,8 @@
 ---
 title: Billions
 crosslinks:
-- livven
 - SquaredCircle
 - FuckChuck
-- autotldr
 - television
 - pics
 - StarWars

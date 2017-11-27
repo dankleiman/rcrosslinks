@@ -12,7 +12,6 @@ crosslinks:
 - alishawhite
 - anniespantiesxx
 - SonjaHaze
-- livven
 - laineylove
 - TheDivineMissPanty
 - SilverQueenDaenerys

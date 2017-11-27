@@ -1,5 +1,0 @@
----
-title: AnimalsArentFood
-crosslinks:
-- livven
----

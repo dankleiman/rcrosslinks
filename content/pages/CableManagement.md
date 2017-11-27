@@ -7,7 +7,6 @@ crosslinks:
 - pcmasterrace
 - techsupportgore
 - hardwareswap
-- livven
 - Ice_Poseidon
 - HomeNetworking
 - Amd

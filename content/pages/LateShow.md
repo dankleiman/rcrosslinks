@@ -1,9 +1,7 @@
 ---
 title: LateShow
 crosslinks:
-- autotldr
 - lastweektonight
-- livven
 - Jazz
 - Tesla
 - BigBrother

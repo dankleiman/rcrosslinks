@@ -8,7 +8,6 @@ crosslinks:
 - PSVR
 - Masochism
 - assettocorsa
-- livven
 - hmmm
 - CasualConversation
 ---

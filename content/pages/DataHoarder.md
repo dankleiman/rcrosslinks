@@ -2,7 +2,6 @@
 title: DataHoarder
 crosslinks:
 - PleX
-- autotldr
 - opendirectories
 - xkcd
 - PlexACD

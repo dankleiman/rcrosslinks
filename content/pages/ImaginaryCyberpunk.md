@@ -8,6 +8,5 @@ crosslinks:
 - AskScienceFiction
 - perfectloops
 - gameofthrones
-- livven
 - ImaginaryVehicles
 ---

@@ -1,5 +1,0 @@
----
-title: FootWorship
-crosslinks:
-- livven
----

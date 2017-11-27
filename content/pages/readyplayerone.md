@@ -15,6 +15,5 @@ crosslinks:
 - TwoRedditorsOneCup
 - FindingFennsGold
 - Damnthatsinteresting
-- livven
 - printSF
 ---

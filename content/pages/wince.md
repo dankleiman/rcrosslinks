@@ -1,7 +1,6 @@
 ---
 title: wince
 crosslinks:
-- livven
 - watchpeopledie
 - nononono
 - Whatcouldgowrong

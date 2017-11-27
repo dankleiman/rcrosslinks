@@ -6,7 +6,6 @@ crosslinks:
 - cayke
 - OverwatchUniversity
 - OverwatchLFT
-- livven
 - OWConsole
 - xkcd
 - heroesofthestorm

@@ -1,7 +1,6 @@
 ---
 title: Gifts
 crosslinks:
-- livven
 - ICanDrawThat
 - WTF
 - artstore

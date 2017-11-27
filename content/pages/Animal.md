@@ -1,5 +1,0 @@
----
-title: Animal
-crosslinks:
-- livven
----

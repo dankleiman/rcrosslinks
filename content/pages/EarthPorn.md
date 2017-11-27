@@ -15,7 +15,6 @@ crosslinks:
 - picsofwaterandthesky
 - me_irl
 - mildlyinteresting
-- livven
 - CityPorn
 - xkcd
 - gaming

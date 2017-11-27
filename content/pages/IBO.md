@@ -2,7 +2,6 @@
 title: IBO
 crosslinks:
 - ShadowBan
-- livven
 - getdisciplined
 - SampleSize
 - AMAAggregator

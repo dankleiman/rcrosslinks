@@ -1,5 +1,0 @@
----
-title: whiteeurope
-crosslinks:
-- autotldr
----

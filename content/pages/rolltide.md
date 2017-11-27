@@ -4,6 +4,5 @@ crosslinks:
 - CFB
 - SaltySportsFans
 - falcons
-- livven
 - Serendipity
 ---

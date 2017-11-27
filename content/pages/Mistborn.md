@@ -5,7 +5,6 @@ crosslinks:
 - Fantasy
 - cosmere
 - Stormlight_Archive
-- livven
 - Minecraft
 - lego
 - explainlikeimfive

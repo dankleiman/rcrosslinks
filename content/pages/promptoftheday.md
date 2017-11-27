@@ -5,7 +5,6 @@ crosslinks:
 - Cinemagraphs
 - fantasywriting
 - space
-- livven
 - WritingPrompts
 - ImaginaryPortals
 - reizoukinwrites

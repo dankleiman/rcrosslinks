@@ -1,5 +1,0 @@
----
-title: WhitePeopleAndLawns
-crosslinks:
-- livven
----

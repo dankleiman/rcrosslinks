@@ -1,12 +1,10 @@
 ---
 title: theocho
 crosslinks:
-- livven
 - videos
 - UNBGBBIIVCHIDCTIICBG
 - gifs
 - interestingasfuck
-- autotldr
 - Multicopter
 - mallninjashit
 - Damnthatsinteresting

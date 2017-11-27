@@ -1,7 +1,6 @@
 ---
 title: minnesota
 crosslinks:
-- autotldr
 - Minneapolis
 - The_Donald
 - ShitPoliticsSays
@@ -11,7 +10,6 @@ crosslinks:
 - FargoMoorhead
 - xkcd
 - NorthShoreMN
-- livven
 - wildhockey
 - wisconsin
 - politics

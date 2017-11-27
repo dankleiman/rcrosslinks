@@ -4,7 +4,6 @@ crosslinks:
 - KotakuInAction
 - Xcom
 - Unitale
-- autotldr
 - Skullgirls
 - Deusex
 - DotA2

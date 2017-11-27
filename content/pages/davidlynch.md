@@ -4,6 +4,5 @@ crosslinks:
 - twinpeaks
 - AMAAggregator
 - IAmA
-- autotldr
 - ExtraLife
 ---

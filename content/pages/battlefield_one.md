@@ -1,7 +1,6 @@
 ---
 title: battlefield_one
 crosslinks:
-- livven
 - Battlefield
 - BF1AdvancedTactics
 - gaming

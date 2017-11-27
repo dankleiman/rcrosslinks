@@ -2,7 +2,6 @@
 title: DuelLinks
 crosslinks:
 - yugioh
-- livven
 - CompetitiveDL
 - pokemon
 - TeraOnline

@@ -1,5 +1,0 @@
----
-title: blackjack
-crosslinks:
-- autotldr
----

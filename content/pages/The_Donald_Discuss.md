@@ -2,8 +2,6 @@
 title: The_Donald_Discuss
 crosslinks:
 - The_Donald
-- autotldr
-- livven
 - REEEEEEEEEE
 - worldnews
 - AMAAggregator

@@ -6,7 +6,6 @@ crosslinks:
 - mallninjashit
 - Fiveheads
 - OldSchoolCool
-- livven
 - WTF
 - gifs
 ---

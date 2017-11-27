@@ -1,5 +1,0 @@
----
-title: LibertarianNews
-crosslinks:
-- autotldr
----

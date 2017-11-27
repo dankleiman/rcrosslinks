@@ -1,7 +1,6 @@
 ---
 title: Broadway
 crosslinks:
-- autotldr
 - thegreatcomet
 - musicals
 - hamiltonmusical

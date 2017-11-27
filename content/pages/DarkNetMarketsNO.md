@@ -9,7 +9,6 @@ crosslinks:
 - darknetmarkets
 - Drugs
 - microdosing
-- autotldr
 - AskDrugNerds
 - Nootropics
 - DMT

@@ -1,5 +1,0 @@
----
-title: maga
-crosslinks:
-- livven
----

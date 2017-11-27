@@ -5,7 +5,6 @@ crosslinks:
 - LivestreamFail
 - VictoriaSG
 - SamandTolki
-- livven
 - LivestreamFails
 - angryjoeshow
 - TheBluePill

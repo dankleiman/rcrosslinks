@@ -4,7 +4,6 @@ crosslinks:
 - vinyl
 - VinylCollectors
 - VinylDeals
-- livven
 - KendrickLamar
 - TheWeeknd
 - vinylcollectors

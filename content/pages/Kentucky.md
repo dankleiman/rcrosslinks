@@ -1,7 +1,6 @@
 ---
 title: Kentucky
 crosslinks:
-- autotldr
 - Louisville
 - Indiana
 - kentuckysocialists

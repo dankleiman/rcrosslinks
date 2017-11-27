@@ -13,9 +13,7 @@ crosslinks:
 - politics
 - movies
 - IncelTears
-- livven
 - ChapoTrapHouse
-- autotldr
 - PoliticalVideo
 - comedy
 - Drama

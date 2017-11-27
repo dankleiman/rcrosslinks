@@ -1,5 +1,0 @@
----
-title: DecentralizedWeb
-crosslinks:
-- autotldr
----

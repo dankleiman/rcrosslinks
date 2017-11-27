@@ -1,7 +1,6 @@
 ---
 title: NorthCarolina
 crosslinks:
-- autotldr
 - WNC
 - Charlotte
 - news

@@ -1,7 +1,6 @@
 ---
 title: i_irl
 crosslinks:
-- livven
 - me_irl
 - surrealmemes
 - YouthInAsia

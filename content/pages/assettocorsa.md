@@ -4,7 +4,6 @@ crosslinks:
 - simracing
 - acrl
 - oculus
-- livven
 - pcmasterrace
 - iRacing
 - Serendipity

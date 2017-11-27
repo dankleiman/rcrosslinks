@@ -1,7 +1,6 @@
 ---
 title: GalaxyNote7
 crosslinks:
-- autotldr
 - GalaxyNote8
 - Android
 - Drama

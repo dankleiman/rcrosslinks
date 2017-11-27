@@ -1,5 +1,0 @@
----
-title: SophieIsBad
-crosslinks:
-- livven
----

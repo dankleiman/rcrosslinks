@@ -6,5 +6,4 @@ crosslinks:
 - AnarchFrenchWorkshop
 - Ultraleft
 - cooperatives
-- autotldr
 ---

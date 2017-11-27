@@ -1,5 +1,0 @@
----
-title: CreativeProcess
-crosslinks:
-- autotldr
----

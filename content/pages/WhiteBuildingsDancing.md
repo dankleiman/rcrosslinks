@@ -1,5 +1,0 @@
----
-title: WhiteBuildingsDancing
-crosslinks:
-- livven
----

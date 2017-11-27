@@ -5,7 +5,6 @@ crosslinks:
 - collapse
 - fidelitypdx
 - PDFs
-- autotldr
 - guns
 - amateurradio
 - TropicalWeather

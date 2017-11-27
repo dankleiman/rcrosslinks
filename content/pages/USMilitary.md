@@ -1,5 +1,0 @@
----
-title: USMilitary
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: mindreading
-crosslinks:
-- autotldr
----

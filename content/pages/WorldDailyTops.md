@@ -1,8 +1,6 @@
 ---
 title: WorldDailyTops
 crosslinks:
-- autotldr
-- livven
 - ukpolitics
 - worldGlance
 - HistoryPorn

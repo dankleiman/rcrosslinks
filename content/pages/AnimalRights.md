@@ -1,7 +1,6 @@
 ---
 title: AnimalRights
 crosslinks:
-- autotldr
 - vegan
 - animalwelfare
 - AnimalIndustry

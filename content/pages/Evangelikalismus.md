@@ -1,5 +1,0 @@
----
-title: Evangelikalismus
-crosslinks:
-- autotldr
----

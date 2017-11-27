@@ -7,7 +7,6 @@ crosslinks:
 - AMAAggregator
 - Socialism_101
 - AskHistorians
-- livven
 - socialism
 - Anglicanism
 - religion

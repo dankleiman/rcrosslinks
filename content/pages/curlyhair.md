@@ -5,7 +5,6 @@ crosslinks:
 - NoPoo
 - FancyFollicles
 - Naturalhair
-- livven
 - haircareexchange
 - FierceFlow
 - redditrequest

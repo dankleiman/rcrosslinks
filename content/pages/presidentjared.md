@@ -1,5 +1,0 @@
----
-title: presidentjared
-crosslinks:
-- autotldr
----

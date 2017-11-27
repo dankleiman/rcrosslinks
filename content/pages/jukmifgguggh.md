@@ -2,7 +2,6 @@
 title: jukmifgguggh
 crosslinks:
 - Showerthoughts
-- livven
 - todayilearned
 - dontfuckingsayit
 - titleporn

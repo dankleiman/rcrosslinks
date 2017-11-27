@@ -1,7 +1,6 @@
 ---
 title: Voltron
 crosslinks:
-- livven
 - VoltronSlowWatch
 - stevenuniverse
 - homestuck

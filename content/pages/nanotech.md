@@ -1,7 +1,6 @@
 ---
 title: nanotech
 crosslinks:
-- autotldr
 - Biophysics
 - chipdesign
 - additive

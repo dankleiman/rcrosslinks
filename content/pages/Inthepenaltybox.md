@@ -1,5 +1,0 @@
----
-title: Inthepenaltybox
-crosslinks:
-- livven
----

@@ -7,7 +7,6 @@ crosslinks:
 - LateStageCapitalism
 - OSHA
 - BattleNetwork
-- livven
 - MildlyVandalised
 - halloween
 - dontdeadopeninside

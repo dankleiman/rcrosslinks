@@ -1,5 +1,0 @@
----
-title: superhumanmoments
-crosslinks:
-- livven
----

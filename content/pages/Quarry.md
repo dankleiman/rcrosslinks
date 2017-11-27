@@ -1,5 +1,0 @@
----
-title: Quarry
-crosslinks:
-- livven
----

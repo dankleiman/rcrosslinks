@@ -4,7 +4,6 @@ crosslinks:
 - DankMemeArchive
 - gifs
 - PolygonFans
-- livven
 - AskReddit
 - me_irl
 - OutOfTheLoop

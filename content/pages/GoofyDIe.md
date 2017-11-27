@@ -1,5 +1,0 @@
----
-title: GoofyDIe
-crosslinks:
-- livven
----

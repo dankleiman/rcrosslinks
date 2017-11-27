@@ -1,5 +1,0 @@
----
-title: Thor
-crosslinks:
-- livven
----

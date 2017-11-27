@@ -16,7 +16,6 @@ crosslinks:
 - GoNets
 - '2016'
 - AskReddit
-- autotldr
 - NBAHalftime
 - Thunder
 - videos

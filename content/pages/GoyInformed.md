@@ -1,5 +1,0 @@
----
-title: GoyInformed
-crosslinks:
-- autotldr
----

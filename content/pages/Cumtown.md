@@ -2,10 +2,8 @@
 title: Cumtown
 crosslinks:
 - opieandanthony
-- autotldr
 - ChapoTrapHouse
 - LegionOfSkanks
-- livven
 - Feminism
 - milliondollarextreme
 - hapas

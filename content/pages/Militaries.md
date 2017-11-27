@@ -1,5 +1,0 @@
----
-title: Militaries
-crosslinks:
-- autotldr
----

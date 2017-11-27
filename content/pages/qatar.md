@@ -1,7 +1,6 @@
 ---
 title: qatar
 crosslinks:
-- autotldr
 - Serendipity
 - place
 - dicksoutforpepe

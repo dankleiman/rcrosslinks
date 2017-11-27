@@ -1,7 +1,6 @@
 ---
 title: Judaism
 crosslinks:
-- autotldr
 - xkcd
 - ReformJews
 - The_Donald

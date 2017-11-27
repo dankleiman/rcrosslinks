@@ -1,5 +1,0 @@
----
-title: goodboys
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: yesyesyesyesno
 crosslinks:
-- livven
 - gifs
 - BetterEveryLoop
 - PeopleFuckingDying

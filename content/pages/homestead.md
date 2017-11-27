@@ -5,7 +5,6 @@ crosslinks:
 - Homesteading
 - Permaculture
 - gardening
-- autotldr
 - Axecraft
 - DIY
 - MapsWithoutNZ

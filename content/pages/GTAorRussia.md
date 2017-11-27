@@ -1,7 +1,6 @@
 ---
 title: GTAorRussia
 crosslinks:
-- livven
 - WTF
 - ANormalDayInRussia
 - Roadcam

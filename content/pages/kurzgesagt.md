@@ -5,7 +5,6 @@ crosslinks:
 - space
 - multiwall
 - ConcentrationOfWealth
-- autotldr
 - Design
 - titlegore
 - ethereum

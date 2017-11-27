@@ -2,7 +2,6 @@
 title: TheCinemassacre
 crosslinks:
 - TheCinemassacreTruth
-- autotldr
 - '2012'
 - Gamingcirclejerk
 - shestillsucking
@@ -12,6 +11,5 @@ crosslinks:
 - ProCSS
 - titlegore
 - OutOfTheLoop
-- livven
 - cringepics
 ---

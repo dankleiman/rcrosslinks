@@ -12,7 +12,6 @@ crosslinks:
 - Bitcoin
 - Daytrading
 - CryptoMarkets
-- autotldr
 - smoknfx
 - financialindependence
 ---

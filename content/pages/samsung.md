@@ -1,7 +1,6 @@
 ---
 title: samsung
 crosslinks:
-- autotldr
 - GalaxyS8
 - GalaxyS7
 - Android
@@ -16,7 +15,6 @@ crosslinks:
 - S7Edge
 - androidthemes
 - hometheater
-- livven
 - note7
 - hardwareswap
 - technology

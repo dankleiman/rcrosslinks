@@ -1,5 +1,0 @@
----
-title: SPLCenter
-crosslinks:
-- autotldr
----

@@ -7,7 +7,6 @@ crosslinks:
 - REEEEEEEEEE
 - deeeepio
 - MightyOrca
-- livven
 - Inactivity
 - moomooio
 - pokemon

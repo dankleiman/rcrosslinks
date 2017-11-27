@@ -2,7 +2,6 @@
 title: legaladviceofftopic
 crosslinks:
 - legaladvice
-- autotldr
 - ProtectAndServe
 - zapopa
 - AskScienceFiction

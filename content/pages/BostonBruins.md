@@ -2,7 +2,6 @@
 title: BostonBruins
 crosslinks:
 - hockey
-- livven
 - puckstreams
 - OttawaSenators
 - place

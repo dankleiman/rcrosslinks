@@ -1,7 +1,6 @@
 ---
 title: SexPositive
 crosslinks:
-- autotldr
 - orgasmcontrol
 - VirginityExchange
 - swingers

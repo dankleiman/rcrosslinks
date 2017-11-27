@@ -17,7 +17,6 @@ crosslinks:
 - Hustles
 - dataisugly
 - Addons4Kodi
-- livven
 - NoShitSherlock
 - CoinBase
 - ethtrader

@@ -4,7 +4,6 @@ crosslinks:
 - FutureFight
 - FutureFight_Unions
 - futurefightextra
-- livven
 - ContestOfChampions
 - Marvel
 - FFSpiderman

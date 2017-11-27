@@ -2,7 +2,6 @@
 title: drawing
 crosslinks:
 - Art
-- livven
 - ArtFundamentals
 - pics
 - delusionalartists

@@ -9,7 +9,6 @@ crosslinks:
 - cherokeexj_forsale
 - jeepdogs
 - VEDC
-- livven
 - Shitty_Car_Mods
 - Serendipity
 - WTF

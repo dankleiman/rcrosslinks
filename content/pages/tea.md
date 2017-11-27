@@ -4,7 +4,6 @@ crosslinks:
 - teasales
 - teaexchange
 - treas
-- livven
 - tea_irl
 - puer
 - translator
@@ -17,7 +16,6 @@ crosslinks:
 - TeaPictures
 - Kava
 - ThriftStoreHauls
-- autotldr
 - nocontext
 - GongFuTea
 - Bandnames

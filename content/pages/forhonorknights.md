@@ -4,7 +4,6 @@ crosslinks:
 - forhonor
 - ForHonorVikings
 - ForHonorSamurai
-- livven
 - ForFashion
 - PrequelMemes
 - place
@@ -14,7 +13,6 @@ crosslinks:
 - forhonormemes
 - REEEEEE
 - AskHistorians
-- autotldr
 - mallninjashit
 - CrusaderKings
 - MemeEconomy

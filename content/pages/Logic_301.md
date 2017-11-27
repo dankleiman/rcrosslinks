@@ -17,6 +17,5 @@ crosslinks:
 - logic
 - Jessica_Andrea
 - Sneakers
-- livven
 - Kanye
 ---

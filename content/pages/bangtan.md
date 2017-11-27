@@ -2,7 +2,6 @@
 title: bangtan
 crosslinks:
 - kpop
-- livven
 - BrasilOnReddit
 - kpophelp
 - AsianBeauty

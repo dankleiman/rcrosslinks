@@ -4,7 +4,6 @@ crosslinks:
 - guns
 - gundeals
 - ar15
-- autotldr
 - Anarchy101
 - syriancivilwar
 - canadaguns
@@ -16,7 +15,6 @@ crosslinks:
 - Socialism_101
 - AskReddit
 - Firearms
-- livven
 - communism
 - Agorism
 - CCW

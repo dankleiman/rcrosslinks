@@ -1,5 +1,0 @@
----
-title: comixgallery
-crosslinks:
-- livven
----

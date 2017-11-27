@@ -1,7 +1,6 @@
 ---
 title: MarshallBrain
 crosslinks:
-- autotldr
 - philosophy
 - television
 - motorcycles

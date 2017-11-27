@@ -9,7 +9,6 @@ crosslinks:
 - seduction
 - Drama
 - Jokes
-- livven
 - jesuschristreddit
 - me_irl
 - RoastMe

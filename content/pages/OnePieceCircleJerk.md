@@ -3,7 +3,6 @@ title: OnePieceCircleJerk
 crosslinks:
 - OnePiece
 - BnHACirclejerk
-- livven
 - ComedyCemetery
 - MeTooThanks
 - wow

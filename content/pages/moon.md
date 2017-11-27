@@ -1,5 +1,0 @@
----
-title: moon
-crosslinks:
-- autotldr
----

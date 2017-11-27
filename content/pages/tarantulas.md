@@ -1,7 +1,6 @@
 ---
 title: tarantulas
 crosslinks:
-- livven
 - frogs
 - InvertPets
 - electroforming

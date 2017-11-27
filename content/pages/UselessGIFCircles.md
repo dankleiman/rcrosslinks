@@ -1,5 +1,0 @@
----
-title: UselessGIFCircles
-crosslinks:
-- livven
----

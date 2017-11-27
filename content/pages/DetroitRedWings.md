@@ -5,7 +5,6 @@ crosslinks:
 - place
 - NHLStreams
 - Detroit
-- livven
 - LazyMan
 - Kanye
 - lazyman

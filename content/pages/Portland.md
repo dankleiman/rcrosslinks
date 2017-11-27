@@ -9,7 +9,6 @@ crosslinks:
 - IAmA
 - MapPorn
 - fidelitypdx
-- livven
 - AskReddit
 - circlejerkpdx
 - BatFacts

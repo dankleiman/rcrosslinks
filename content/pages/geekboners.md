@@ -7,7 +7,6 @@ crosslinks:
 - JodieWhittaker
 - ProCSS
 - FitAndNatural
-- livven
 - SkinTightCotton
 - weekendgunnit
 ---

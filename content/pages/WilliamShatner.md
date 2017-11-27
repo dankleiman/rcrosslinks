@@ -1,5 +1,0 @@
----
-title: WilliamShatner
-crosslinks:
-- autotldr
----

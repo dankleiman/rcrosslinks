@@ -4,7 +4,6 @@ crosslinks:
 - PornOverlords
 - astrophotography
 - pics
-- livven
 - space
 - EarthPorn
 - askscience

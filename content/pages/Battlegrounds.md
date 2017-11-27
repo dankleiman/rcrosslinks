@@ -2,7 +2,6 @@
 title: Battlegrounds
 crosslinks:
 - PUBATTLEGROUNDS
-- livven
 - Pay_Respects
 - ultrawidemasterrace
 - PUBG

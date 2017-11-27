@@ -1,5 +1,0 @@
----
-title: Bulge
-crosslinks:
-- livven
----

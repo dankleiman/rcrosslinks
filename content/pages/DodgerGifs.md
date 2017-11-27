@@ -1,5 +1,0 @@
----
-title: DodgerGifs
-crosslinks:
-- livven
----

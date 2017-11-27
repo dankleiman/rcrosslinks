@@ -1,7 +1,6 @@
 ---
 title: Intactivists
 crosslinks:
-- autotldr
 - Foregen
 - MensRights
 - foreskin_restoration

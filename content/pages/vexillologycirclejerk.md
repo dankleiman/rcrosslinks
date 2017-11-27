@@ -7,7 +7,6 @@ crosslinks:
 - BrasilOnReddit
 - lossedits
 - place
-- livven
 - OutOfTheLoop
 - starterpacks
 - LateStageCapitalism

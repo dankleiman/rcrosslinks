@@ -6,5 +6,4 @@ crosslinks:
 - pokemongodev
 - pokemongoNYC
 - xkcd
-- livven
 ---

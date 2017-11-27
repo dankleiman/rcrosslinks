@@ -1,7 +1,6 @@
 ---
 title: Alabama
 crosslinks:
-- autotldr
 - todayilearned
 - worldpolitics
 - AmericanPlantSwap

@@ -1,7 +1,6 @@
 ---
 title: nsfwcosplay
 crosslinks:
-- livven
 - cosplaygirls
 - SpankSafe
 - funsizedasian

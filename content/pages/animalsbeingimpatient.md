@@ -1,5 +1,0 @@
----
-title: animalsbeingimpatient
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: HQMemes
-crosslinks:
-- livven
----

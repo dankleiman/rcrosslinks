@@ -3,7 +3,6 @@ title: jerma985
 crosslinks:
 - place
 - tf2
-- livven
 - JonTron
 - gamingcirclejerk
 - JermaHatHair

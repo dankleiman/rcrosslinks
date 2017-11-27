@@ -3,7 +3,6 @@ title: lakers
 crosslinks:
 - pacers
 - sixers
-- livven
 - suns
 - BBB
 - NBA_Draft

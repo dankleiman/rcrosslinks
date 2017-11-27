@@ -7,7 +7,6 @@ crosslinks:
 - clothdiaps
 - Mildlynomil
 - assholedesign
-- livven
 - LetsNotMeet
 - moderatelygranolamoms
 - metric_units

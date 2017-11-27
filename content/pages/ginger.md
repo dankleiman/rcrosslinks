@@ -1,7 +1,6 @@
 ---
 title: ginger
 crosslinks:
-- livven
 - SpankSafe
 - redheads
 - nsfw

@@ -1,5 +1,0 @@
----
-title: techforyou
-crosslinks:
-- autotldr
----

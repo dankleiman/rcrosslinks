@@ -1,11 +1,9 @@
 ---
 title: chicago
 crosslinks:
-- autotldr
 - ChicagoNWside
 - The_Donald
 - IAmA
-- livven
 - OutOfTheLoop
 - greatNWside
 - AskReddit

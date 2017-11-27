@@ -17,7 +17,6 @@ crosslinks:
 - IAmA
 - CryptoMarkets
 - ComputerMining
-- autotldr
 - ethereum
 - DataHoarder
 - CoinBase

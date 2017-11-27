@@ -4,7 +4,6 @@ crosslinks:
 - Tendies
 - mallninjashit
 - pics
-- livven
 - WTF
 - niceguys
 - funny

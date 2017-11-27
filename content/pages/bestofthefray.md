@@ -1,7 +1,6 @@
 ---
 title: bestofthefray
 crosslinks:
-- autotldr
 - TheIntercept
 - canada
 - videos

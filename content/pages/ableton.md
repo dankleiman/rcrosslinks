@@ -10,7 +10,6 @@ crosslinks:
 - makingvaporwave
 - synthesizers
 - AdvancedProduction
-- livven
 - explainlikeimfive
 - MusicBattlestations
 - xkcd

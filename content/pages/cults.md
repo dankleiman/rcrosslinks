@@ -7,6 +7,5 @@ crosslinks:
 - Nithyananda
 - LosAngeles
 - ChapoTrapHouse
-- autotldr
 - explainlikeimfive
 ---

@@ -5,5 +5,4 @@ crosslinks:
 - self
 - optometry
 - AskDocs
-- autotldr
 ---

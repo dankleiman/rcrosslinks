@@ -1,7 +1,6 @@
 ---
 title: Marxism
 crosslinks:
-- autotldr
 - Ultraleft
 - copypasta
 - mgtow

@@ -2,7 +2,6 @@
 title: hoggit
 crosslinks:
 - hotas
-- livven
 - flightsim
 - aviation
 - arma

@@ -5,7 +5,6 @@ crosslinks:
 - videos
 - rickandmorty
 - CleverEdits
-- livven
 - mealtimevideos
 - DankMemeArchive
 - xkcd

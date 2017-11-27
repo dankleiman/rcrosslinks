@@ -2,7 +2,6 @@
 title: Art
 crosslinks:
 - pics
-- livven
 - StarWars
 - thefinalclean
 - AskReddit
@@ -13,7 +12,6 @@ crosslinks:
 - xkcd
 - creepy
 - place
-- autotldr
 - redditgetsdrawn
 - aww
 - ImaginaryWildlands

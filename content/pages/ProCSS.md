@@ -17,8 +17,6 @@ crosslinks:
 - AntiCSS
 - mylittlepony
 - dankmemes
-- autotldr
 - Enhancement
-- livven
 - MarchAgainstTrump
 ---

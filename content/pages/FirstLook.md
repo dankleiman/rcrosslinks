@@ -1,7 +1,6 @@
 ---
 title: FirstLook
 crosslinks:
-- autotldr
 - technology
 - environment
 - news

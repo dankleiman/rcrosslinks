@@ -1,7 +1,6 @@
 ---
 title: babybigcatgifs
 crosslinks:
-- livven
 - aww
 - BigCatGifs
 - Serendipity

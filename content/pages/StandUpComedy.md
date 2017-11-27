@@ -3,7 +3,6 @@ title: StandUpComedy
 crosslinks:
 - topjokes
 - Standup
-- autotldr
 - fullmoviesonanything
 - opieandanthony
 - videos

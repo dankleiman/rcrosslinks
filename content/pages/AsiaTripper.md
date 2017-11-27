@@ -7,7 +7,6 @@ crosslinks:
 - LSD
 - vaporents
 - gardening
-- autotldr
 - MDMA
 - vaporent
 ---

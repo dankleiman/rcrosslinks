@@ -3,7 +3,6 @@ title: iRacing
 crosslinks:
 - RiL
 - simracing
-- livven
 - pcmasterrace
 - NASCAROffseasonSeries
 - assettocorsa

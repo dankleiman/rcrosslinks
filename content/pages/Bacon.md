@@ -1,7 +1,6 @@
 ---
 title: Bacon
 crosslinks:
-- livven
 - gifs
 - food
 - grilledcheese

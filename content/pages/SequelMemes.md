@@ -5,7 +5,6 @@ crosslinks:
 - anthologymemes
 - OTMemes
 - equelMemes
-- livven
 - EmpireDidNothingWrong
 - starwarsmemes
 - BattlefrontMemes

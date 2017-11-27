@@ -1,7 +1,6 @@
 ---
 title: Vermintide
 crosslinks:
-- livven
 - VermintideLFG
 - totalwar
 - ImaginaryWarhammer

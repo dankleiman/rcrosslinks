@@ -1,8 +1,6 @@
 ---
 title: The_Donald
 crosslinks:
-- livven
-- autotldr
 - conspiracy
 - AskThe_Donald
 - worldnews

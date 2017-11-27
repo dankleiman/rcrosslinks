@@ -14,7 +14,6 @@ crosslinks:
 - loreleilee
 - gag_spit
 - anal
-- livven
 - theSourcer
 - NSFWFunny
 - deepthroat

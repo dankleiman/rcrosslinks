@@ -1,5 +1,0 @@
----
-title: ConfusingHeadlines
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: netnegative
-crosslinks:
-- autotldr
----

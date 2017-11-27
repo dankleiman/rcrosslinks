@@ -1,7 +1,6 @@
 ---
 title: worldpolitics
 crosslinks:
-- autotldr
 - conspiracy
 - Missing411
 - politics

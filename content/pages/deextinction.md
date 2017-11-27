@@ -1,5 +1,0 @@
----
-title: deextinction
-crosslinks:
-- autotldr
----

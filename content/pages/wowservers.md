@@ -10,7 +10,6 @@ crosslinks:
 - WoWServersRecruitment
 - Nostalrius
 - Nostralia
-- livven
 - RemedyOfficial
 - vanillawowservers
 - MMORPG

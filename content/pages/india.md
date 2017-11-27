@@ -9,7 +9,6 @@ crosslinks:
 - worldnews
 - place
 - AskHistorians
-- livven
 - IAmA
 - pics
 - antiaadhar

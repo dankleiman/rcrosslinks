@@ -6,7 +6,6 @@ crosslinks:
 - place
 - vainglorygame
 - lol
-- livven
 - TeamDignitas
 - xkcd
 - fasting

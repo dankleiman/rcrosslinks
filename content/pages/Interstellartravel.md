@@ -1,5 +1,0 @@
----
-title: Interstellartravel
-crosslinks:
-- autotldr
----

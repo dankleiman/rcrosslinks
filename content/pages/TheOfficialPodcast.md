@@ -2,7 +2,6 @@
 title: TheOfficialPodcast
 crosslinks:
 - AskReddit
-- livven
 - hmmm
 - jerma985
 - WTF

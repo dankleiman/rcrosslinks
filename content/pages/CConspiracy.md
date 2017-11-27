@@ -1,5 +1,0 @@
----
-title: CConspiracy
-crosslinks:
-- autotldr
----

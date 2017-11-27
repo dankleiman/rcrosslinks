@@ -14,7 +14,6 @@ crosslinks:
 - securityguards
 - gunpolitics
 - StolenValor
-- autotldr
 - WinStupidPrizes
 - vegaslocals
 ---

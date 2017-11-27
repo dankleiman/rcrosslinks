@@ -9,7 +9,6 @@ crosslinks:
 - PSVRHack
 - PS4Pro
 - dirtgame
-- livven
 - BridgeCrew
 - virtualreality
 - TrinusVR

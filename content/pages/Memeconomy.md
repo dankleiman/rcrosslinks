@@ -1,9 +1,7 @@
 ---
 title: Memeconomy
 crosslinks:
-- livven
 - MemeEconomy
-- autotldr
 - nukedmemes
 - shittydarksouls
 - memeeconomy

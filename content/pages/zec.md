@@ -12,7 +12,6 @@ crosslinks:
 - LPT
 - BitcoinMarkets
 - Bitcoin
-- autotldr
 - Monero
 - Antshares
 - nvezos

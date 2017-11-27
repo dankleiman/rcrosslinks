@@ -1,7 +1,6 @@
 ---
 title: ITdept
 crosslinks:
-- autotldr
 - linuxadmin
 - xkcd
 - HailCorporate

@@ -3,7 +3,6 @@ title: Accutane
 crosslinks:
 - SkincareAddiction
 - acne
-- livven
 - AsianBeauty
 - Testosterone
 - Dermatology

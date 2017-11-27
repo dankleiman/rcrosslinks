@@ -1,5 +1,0 @@
----
-title: BasicIncomeActivism
-crosslinks:
-- autotldr
----

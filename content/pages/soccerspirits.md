@@ -2,7 +2,6 @@
 title: soccerspirits
 crosslinks:
 - SoccerSpiritsTrading
-- livven
 - summonerswar
 - HailCorporate
 - ggggg

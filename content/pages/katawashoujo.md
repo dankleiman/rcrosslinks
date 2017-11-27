@@ -1,7 +1,6 @@
 ---
 title: katawashoujo
 crosslinks:
-- livven
 - AskReddit
 - Palpz
 - StardustCrusaders

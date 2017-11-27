@@ -1,7 +1,6 @@
 ---
 title: Simulated
 crosslinks:
-- livven
 - shittysimulated
 - oddlysatisfying
 - xkcd

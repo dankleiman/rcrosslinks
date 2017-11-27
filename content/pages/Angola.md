@@ -1,5 +1,0 @@
----
-title: Angola
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: BattlefrontMemes
 crosslinks:
 - PrequelMemes
-- livven
 - StarWarsBattlefront
 - KOTORmemes
 - equelMemes

@@ -2,7 +2,6 @@
 title: WahoosTipi
 crosslinks:
 - reddit_stream
-- livven
 - orioles
 - MLBStreams
 - KCRoyals

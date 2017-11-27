@@ -5,7 +5,6 @@ crosslinks:
 - photography
 - xkcd
 - EarthPorn
-- autotldr
 - instax
 - Sufjan
 ---

@@ -1,7 +1,6 @@
 ---
 title: alleu
 crosslinks:
-- autotldr
 - acteuropa
 - europe
 - YUROP

@@ -1,5 +1,0 @@
----
-title: samespeciesgay
-crosslinks:
-- livven
----

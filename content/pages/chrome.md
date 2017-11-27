@@ -2,7 +2,6 @@
 title: chrome
 crosslinks:
 - techsupport
-- autotldr
 - uBlockOrigin
 - firefox
 - google

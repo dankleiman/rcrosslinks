@@ -1,5 +1,0 @@
----
-title: starsector
-crosslinks:
-- livven
----

@@ -6,7 +6,6 @@ crosslinks:
 - SmallGroups
 - ar15
 - reloading
-- autotldr
 - Gunsforsale
 - EuroOptic
 - TankPorn

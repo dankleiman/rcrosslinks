@@ -1,7 +1,6 @@
 ---
 title: IdiotsNearlyDying
 crosslinks:
-- livven
 - WTF
 - SweatyPalms
 - nonononoyes

@@ -1,7 +1,6 @@
 ---
 title: misleadingthumbnails
 crosslinks:
-- livven
 - pics
 - mildlyinteresting
 - aww

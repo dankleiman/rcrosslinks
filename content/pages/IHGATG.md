@@ -1,5 +1,0 @@
----
-title: IHGATG
-crosslinks:
-- livven
----

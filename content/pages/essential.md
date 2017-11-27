@@ -3,7 +3,6 @@ title: essential
 crosslinks:
 - Android
 - IAmA
-- autotldr
 - Sprint
 - AMAAggregator
 - GearS3

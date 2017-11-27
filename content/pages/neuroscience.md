@@ -1,7 +1,6 @@
 ---
 title: neuroscience
 crosslinks:
-- autotldr
 - askscience
 - neuro
 - psychology

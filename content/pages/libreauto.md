@@ -1,5 +1,0 @@
----
-title: libreauto
-crosslinks:
-- autotldr
----

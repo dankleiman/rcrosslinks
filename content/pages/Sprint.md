@@ -4,7 +4,6 @@ crosslinks:
 - NoContract
 - verizon
 - SprintFramily
-- autotldr
 - ATT
 - explainlikeimfive
 - Sprinting

@@ -9,7 +9,6 @@ crosslinks:
 - EnterTheGungeon
 - Warhammer
 - BokuNoHeroAcademia
-- livven
 - Paladins
 - RWBY
 - maker

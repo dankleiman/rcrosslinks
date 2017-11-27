@@ -1,5 +1,0 @@
----
-title: battlefieldone
-crosslinks:
-- livven
----

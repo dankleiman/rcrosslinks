@@ -1,5 +1,0 @@
----
-title: Hatewhenthathappens
-crosslinks:
-- autotldr
----

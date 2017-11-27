@@ -1,5 +1,0 @@
----
-title: Destroyingshit
-crosslinks:
-- livven
----

@@ -5,7 +5,6 @@ crosslinks:
 - enfj
 - personalfinance
 - financialindependence
-- livven
 - Anarcho_Capitalism
 - infj
 - dadjokes

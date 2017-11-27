@@ -4,7 +4,6 @@ crosslinks:
 - SupermodelCats
 - cats
 - catswithmustaches
-- livven
 - supermodelcats
 - catsareliquid
 - aww

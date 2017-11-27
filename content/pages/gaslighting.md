@@ -1,5 +1,0 @@
----
-title: gaslighting
-crosslinks:
-- autotldr
----

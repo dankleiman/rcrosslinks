@@ -1,7 +1,6 @@
 ---
 title: combinedgifs
 crosslinks:
-- livven
 - funny
 - gifs
 - xkcd

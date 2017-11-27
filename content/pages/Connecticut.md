@@ -1,9 +1,7 @@
 ---
 title: Connecticut
 crosslinks:
-- autotldr
 - newhaven
-- livven
 - cordcutters
 - funny
 - videos

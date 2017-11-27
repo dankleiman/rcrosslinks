@@ -1,5 +1,0 @@
----
-title: JudgeDreddMegaCityOne
-crosslinks:
-- autotldr
----

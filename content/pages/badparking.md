@@ -1,7 +1,6 @@
 ---
 title: badparking
 crosslinks:
-- livven
 - mazda
 - mildlyinteresting
 - JusticeServed

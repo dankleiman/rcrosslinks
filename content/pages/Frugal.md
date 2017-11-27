@@ -17,7 +17,6 @@ crosslinks:
 - LifeProTips
 - goodyearwelt
 - patientgamers
-- autotldr
 - DIY
 - CricketGroups
 - legaladvice

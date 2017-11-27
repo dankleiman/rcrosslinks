@@ -1,7 +1,6 @@
 ---
 title: sportsarefun
 crosslinks:
-- livven
 - hockey
 - sports
 - videos

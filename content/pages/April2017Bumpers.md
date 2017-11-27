@@ -1,7 +1,6 @@
 ---
 title: April2017Bumpers
 crosslinks:
-- livven
 - namenerds
 - JUSTNOMIL
 - clothdiaps

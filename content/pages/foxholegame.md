@@ -7,6 +7,5 @@ crosslinks:
 - jesuschristreddit
 - me_irl
 - joinsquad
-- livven
 - nocontext
 ---

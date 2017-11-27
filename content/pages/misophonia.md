@@ -3,7 +3,6 @@ title: misophonia
 crosslinks:
 - WTF
 - SuicideWatch
-- autotldr
 - TitlePapercut
 - offmychest
 - wheredidtheveggiego

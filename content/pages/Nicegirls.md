@@ -19,5 +19,4 @@ crosslinks:
 - goldenshower
 - jesuschristreddit
 - CringeAnarchy
-- translatorBOT
 ---

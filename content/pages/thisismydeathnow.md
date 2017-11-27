@@ -1,5 +1,0 @@
----
-title: thisismydeathnow
-crosslinks:
-- livven
----

@@ -6,7 +6,6 @@ crosslinks:
 - Competitiveoverwatch
 - OverwatchUniversity
 - REEEEEEEEEE
-- livven
 - MercyMains
 - Gamingcirclejerk
 - KarmaCourt

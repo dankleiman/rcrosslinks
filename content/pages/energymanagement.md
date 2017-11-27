@@ -1,5 +1,0 @@
----
-title: energymanagement
-crosslinks:
-- autotldr
----

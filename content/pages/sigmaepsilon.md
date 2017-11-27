@@ -1,5 +1,0 @@
----
-title: sigmaepsilon
-crosslinks:
-- autotldr
----

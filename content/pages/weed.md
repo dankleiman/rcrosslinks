@@ -2,9 +2,7 @@
 title: weed
 crosslinks:
 - trees
-- livven
 - microgrowery
-- autotldr
 - vaporents
 - leaves
 - StonerEngineering

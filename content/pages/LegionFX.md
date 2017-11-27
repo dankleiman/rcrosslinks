@@ -1,8 +1,6 @@
 ---
 title: LegionFX
 crosslinks:
-- livven
-- autotldr
 - arrow
 - FlashTV
 - identifythisfont

@@ -2,7 +2,6 @@
 title: Paladins
 crosslinks:
 - DrYoshiyahu
-- livven
 - Smite
 - PaladinsLore
 - Overwatch

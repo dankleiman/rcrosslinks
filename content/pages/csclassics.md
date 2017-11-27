@@ -1,5 +1,0 @@
----
-title: csclassics
-crosslinks:
-- autotldr
----

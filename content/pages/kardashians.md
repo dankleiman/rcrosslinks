@@ -1,5 +1,0 @@
----
-title: kardashians
-crosslinks:
-- autotldr
----

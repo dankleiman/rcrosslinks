@@ -1,5 +1,0 @@
----
-title: GMOscience
-crosslinks:
-- autotldr
----

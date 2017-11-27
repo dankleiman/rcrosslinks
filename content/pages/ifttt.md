@@ -2,7 +2,6 @@
 title: ifttt
 crosslinks:
 - tasker
-- livven
 - discordapp
 - MapPorn
 - googlehome

@@ -2,7 +2,6 @@
 title: Greekgodx
 crosslinks:
 - loltyler1
-- livven
 - Ice_Poseidon
 - Twitch
 - REEEEEEEEEE

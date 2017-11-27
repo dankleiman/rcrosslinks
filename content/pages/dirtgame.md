@@ -1,7 +1,6 @@
 ---
 title: dirtgame
 crosslinks:
-- livven
 - simracing
 - PSVR
 - simrally

@@ -2,7 +2,6 @@
 title: AnaheimDucks
 crosslinks:
 - hockey
-- livven
 - EdmontonOilers
 - CalgaryFlames
 - nhl_games

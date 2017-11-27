@@ -1,7 +1,6 @@
 ---
 title: PatientDogs
 crosslinks:
-- livven
 - aww
 - wholesomegifs
 - funny

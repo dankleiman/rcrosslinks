@@ -2,7 +2,6 @@
 title: radiohead
 crosslinks:
 - radioheadcirclejerk
-- livven
 - IAmA
 - radioheadfanfic
 - indieheads
@@ -12,7 +11,6 @@ crosslinks:
 - chelseafc
 - RadioheadAudio
 - Kanye
-- autotldr
 - vinyl
 - KendrickLamar
 - TagPro

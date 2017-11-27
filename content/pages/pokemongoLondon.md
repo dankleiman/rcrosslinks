@@ -7,6 +7,5 @@ crosslinks:
 - PokemonGoMystic
 - ChargeYourPhone
 - pokemongoyellow
-- autotldr
 - GoPlus
 ---

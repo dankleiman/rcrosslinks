@@ -2,11 +2,9 @@
 title: newfoundland
 crosslinks:
 - CanadianMOMs
-- autotldr
 - canada
 - AskReddit
 - todayilearned
-- livven
 - nottheonion
 - Newfoundlander
 - place

@@ -1,7 +1,6 @@
 ---
 title: IRstudies
 crosslinks:
-- autotldr
 - Lawfare
 - geopolitics
 - Geopolitics

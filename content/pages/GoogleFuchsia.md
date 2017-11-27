@@ -1,5 +1,0 @@
----
-title: GoogleFuchsia
-crosslinks:
-- autotldr
----

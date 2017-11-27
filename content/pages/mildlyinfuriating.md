@@ -1,7 +1,6 @@
 ---
 title: mildlyinfuriating
 crosslinks:
-- livven
 - xkcd
 - AskReddit
 - mildlyinteresting
@@ -15,7 +14,6 @@ crosslinks:
 - gifs
 - firstworldanarchists
 - LateStageCapitalism
-- autotldr
 - announcements
 - Showerthoughts
 - me_irl

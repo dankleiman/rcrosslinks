@@ -10,7 +10,6 @@ crosslinks:
 - BearIntercepts
 - MilitaryPorn
 - AirCraftPorn
-- livven
 - xkcd
 - eurofighterworld
 - shittyHDR

@@ -1,8 +1,6 @@
 ---
 title: spongebob
 crosslinks:
-- livven
-- autotldr
 - DeepFriedMemes
 - place
 - flashlight

@@ -1,7 +1,6 @@
 ---
 title: Swimming
 crosslinks:
-- autotldr
 - Fitness
 - woahdude
 - titlegore

@@ -2,7 +2,6 @@
 title: chomsky
 crosslinks:
 - Anarchism
-- autotldr
 - askphilosophy
 - AnarchismOnline
 - lectures

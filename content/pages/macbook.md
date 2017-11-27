@@ -7,7 +7,6 @@ crosslinks:
 - applehelp
 - eGPU
 - Dell
-- autotldr
 - appleswap
 - SuggestALaptop
 - shittykickstarters

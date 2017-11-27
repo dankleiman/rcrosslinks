@@ -1,5 +1,0 @@
----
-title: MuslimIssues
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: GlobalFuturistParty
-crosslinks:
-- autotldr
----

@@ -7,7 +7,6 @@ crosslinks:
 - vegan
 - misanthropy
 - collapse
-- autotldr
 - Mainlander
 - Drama
 - LateStageCapitalism

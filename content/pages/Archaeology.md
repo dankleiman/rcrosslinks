@@ -1,7 +1,6 @@
 ---
 title: Archaeology
 crosslinks:
-- autotldr
 - worldpolitics
 - pics
 - AskHistorians

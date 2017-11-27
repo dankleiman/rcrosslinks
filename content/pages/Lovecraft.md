@@ -17,7 +17,6 @@ crosslinks:
 - science
 - Archive81
 - vinyl
-- livven
 - gifs
 - HFY
 - nosleep

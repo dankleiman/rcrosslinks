@@ -18,7 +18,6 @@ crosslinks:
 - videos
 - unitedkingdom
 - Economics
-- livven
 - rationalwiki
 - keto
 ---

@@ -1,10 +1,8 @@
 ---
 title: UnitedBeatsDoctors
 crosslinks:
-- autotldr
 - medicalschool
 - unitedairlines
-- livven
 - conspiracy
 - news
 - FuckUnitedAirlines

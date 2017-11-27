@@ -1,7 +1,6 @@
 ---
 title: Virginia
 crosslinks:
-- autotldr
 - VirginiaPolitics
 - RalphNortham
 - norfolk

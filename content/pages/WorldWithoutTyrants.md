@@ -1,5 +1,0 @@
----
-title: WorldWithoutTyrants
-crosslinks:
-- autotldr
----

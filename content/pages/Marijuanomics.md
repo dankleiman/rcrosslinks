@@ -1,5 +1,0 @@
----
-title: Marijuanomics
-crosslinks:
-- autotldr
----

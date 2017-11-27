@@ -1,7 +1,6 @@
 ---
 title: ThanksObama
 crosslinks:
-- autotldr
 - downvotesreally
 - EnoughTrumpSpam
 - Foodforthought

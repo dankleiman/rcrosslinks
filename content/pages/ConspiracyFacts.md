@@ -1,7 +1,6 @@
 ---
 title: ConspiracyFacts
 crosslinks:
-- autotldr
 - The_Donald
 - politics
 - WayOfTheBern

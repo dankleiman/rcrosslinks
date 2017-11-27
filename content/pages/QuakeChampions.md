@@ -2,7 +2,6 @@
 title: QuakeChampions
 crosslinks:
 - ArenaFPS
-- livven
 - Competitiveoverwatch
 - Overwatch
 - reflex

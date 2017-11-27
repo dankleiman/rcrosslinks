@@ -1,7 +1,6 @@
 ---
 title: JessicaNigri
 crosslinks:
-- livven
 - Serendipity
 - ConfusedBoners
 - VickiLi

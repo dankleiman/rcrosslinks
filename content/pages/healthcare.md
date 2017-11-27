@@ -1,7 +1,6 @@
 ---
 title: healthcare
 crosslinks:
-- autotldr
 - medical
 - AskDocs
 - healthinsurance

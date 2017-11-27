@@ -9,7 +9,6 @@ crosslinks:
 - tf2
 - Enhancement
 - ArtifactGame
-- livven
 - HalfLife
 - artifact_game
 - redditrequest

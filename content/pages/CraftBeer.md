@@ -7,7 +7,6 @@ crosslinks:
 - frogdogs
 - popcorn
 - tennis
-- livven
 - CanuckEmpire
 - mildyinteresting
 - CatsAreAssholes
@@ -15,7 +14,6 @@ crosslinks:
 - DIY
 - sandiego
 - Whatisthis
-- autotldr
 - mead
 - hops
 - keto

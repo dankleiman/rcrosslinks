@@ -1,5 +1,0 @@
----
-title: celebgeist
-crosslinks:
-- livven
----

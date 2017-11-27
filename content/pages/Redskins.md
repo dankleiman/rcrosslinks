@@ -2,7 +2,6 @@
 title: Redskins
 crosslinks:
 - nfl
-- livven
 - NFL_Draft
 - highqualitygifs
 - nflstreams

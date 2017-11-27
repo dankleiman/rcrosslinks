@@ -5,7 +5,6 @@ crosslinks:
 - MakeupAddiction
 - curlyhair
 - transtimelines
-- livven
 - asktransgender
 - transvoice
 - ABraThatFits

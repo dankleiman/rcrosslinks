@@ -2,7 +2,6 @@
 title: IWantOut
 crosslinks:
 - germany
-- autotldr
 - TEFL
 - ShitAmericansSay
 - digitalnomad

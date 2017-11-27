@@ -2,7 +2,6 @@
 title: OnePieceTC
 crosslinks:
 - OnePiece
-- livven
 - DBZDokkanBattle
 - gaming
 - BleachBraveSouls

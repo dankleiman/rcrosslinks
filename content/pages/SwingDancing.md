@@ -8,7 +8,6 @@ crosslinks:
 - WestCoastSwing
 - dancing
 - askphilosophy
-- livven
 - QuotesPorn
 - Salsa
 ---

@@ -1,11 +1,9 @@
 ---
 title: florida
 crosslinks:
-- autotldr
 - TropicalWeather
 - FLgovernment
 - tampa
-- livven
 - news
 - orlando
 - weather

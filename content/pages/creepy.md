@@ -14,7 +14,6 @@ crosslinks:
 - WritingPrompts
 - AskHistorians
 - ImaginaryMonsters
-- autotldr
 - xkcd
 - ImaginaryLeviathans
 - funny

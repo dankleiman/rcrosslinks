@@ -2,7 +2,6 @@
 title: memes
 crosslinks:
 - i_irl
-- livven
 - me_irl
 - funny
 - dankmemes

@@ -1,7 +1,6 @@
 ---
 title: Soundgarden
 crosslinks:
-- livven
 - grunge
 - LinkinPark
 - stonerrock

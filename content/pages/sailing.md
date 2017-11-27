@@ -1,8 +1,6 @@
 ---
 title: sailing
 crosslinks:
-- livven
-- autotldr
 - HeavySeas
 - mildlyinteresting
 - whatisthisthing

@@ -2,7 +2,6 @@
 title: 6thForm
 crosslinks:
 - GCSE
-- livven
 - Imperial
 - UniUK
 - AskReddit
@@ -12,7 +11,6 @@ crosslinks:
 - teenagers
 - NewSpecMaths
 - ukpolitics
-- autotldr
 - ShitTSRSays
 - gifs
 - madlads

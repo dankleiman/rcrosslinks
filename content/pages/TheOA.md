@@ -1,7 +1,6 @@
 ---
 title: TheOA
 crosslinks:
-- livven
 - raerth
 - IAmA
 - Sense8

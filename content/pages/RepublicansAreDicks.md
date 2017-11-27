@@ -1,5 +1,0 @@
----
-title: RepublicansAreDicks
-crosslinks:
-- autotldr
----

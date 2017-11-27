@@ -1,5 +1,0 @@
----
-title: Neocommufascism
-crosslinks:
-- autotldr
----

@@ -1,8 +1,6 @@
 ---
 title: longisland
 crosslinks:
-- autotldr
-- livven
 - funny
 - Roadcam
 - lawncare

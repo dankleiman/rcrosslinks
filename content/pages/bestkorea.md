@@ -1,5 +1,0 @@
----
-title: bestkorea
-crosslinks:
-- autotldr
----

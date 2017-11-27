@@ -6,5 +6,4 @@ crosslinks:
 - AskElectronics
 - ECE
 - HoloLens
-- autotldr
 ---

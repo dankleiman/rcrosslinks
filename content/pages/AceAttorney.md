@@ -2,7 +2,6 @@
 title: AceAttorney
 crosslinks:
 - AceAttorneyCirclejerk
-- livven
 - 3dshacks
 - place
 - self

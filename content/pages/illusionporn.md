@@ -1,7 +1,6 @@
 ---
 title: illusionporn
 crosslinks:
-- livven
 - mildlyinteresting
 - MagicEye
 - hmmm

@@ -3,7 +3,6 @@ title: Comcast
 crosslinks:
 - Comcast_Xfinity
 - ShadowBan
-- autotldr
 - cordcutters
 - pussypassdenied
 - comcast_xfinity
@@ -17,7 +16,6 @@ crosslinks:
 - news
 - xkcd
 - Twitch
-- livven
 - techsupport
 - electricians
 - HighQualityGifs

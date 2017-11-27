@@ -1,5 +1,0 @@
----
-title: mechaphilia
-crosslinks:
-- livven
----

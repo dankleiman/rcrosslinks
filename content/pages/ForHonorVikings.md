@@ -2,7 +2,6 @@
 title: ForHonorVikings
 crosslinks:
 - forhonor
-- livven
 - CompetitiveForHonor
 - forhonorknights
 - ForHonorSamurai

@@ -1,7 +1,6 @@
 ---
 title: BasicIncome
 crosslinks:
-- autotldr
 - Futurology
 - LateStageCapitalism
 - IAmA
@@ -12,7 +11,6 @@ crosslinks:
 - Economics
 - changemyview
 - citizenswage
-- livven
 - SandersForPresident
 - WayOfTheBern
 - freeformost

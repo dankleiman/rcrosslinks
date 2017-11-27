@@ -1,8 +1,6 @@
 ---
 title: sidj2025blog
 crosslinks:
-- autotldr
-- livven
 - fidgetspin
 - pics
 - mildlyinteresting

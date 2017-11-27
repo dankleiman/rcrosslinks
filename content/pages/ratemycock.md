@@ -2,7 +2,6 @@
 title: ratemycock
 crosslinks:
 - announcements
-- livven
 - GayGiles
 - Rate_my_dick
 - MassiveCock

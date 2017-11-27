@@ -1,7 +1,6 @@
 ---
 title: Maps
 crosslinks:
-- autotldr
 - MapPorn
 - xkcd
 - oldmaps

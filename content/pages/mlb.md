@@ -5,8 +5,6 @@ crosslinks:
 - SLRep
 - nfl
 - MLBStreams
-- livven
-- autotldr
 - WahoosTipi
 - Mariners
 - whatisthisthing

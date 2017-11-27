@@ -18,7 +18,6 @@ crosslinks:
 - KiCad
 - avr
 - arduino
-- autotldr
 - AyyMD
 - islam
 ---

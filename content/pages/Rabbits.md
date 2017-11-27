@@ -1,7 +1,6 @@
 ---
 title: Rabbits
 crosslinks:
-- livven
 - aww
 - xkcd
 - ShadowBan
@@ -17,7 +16,6 @@ crosslinks:
 - PeopleFuckingDying
 - Austin
 - MadokaMagica
-- autotldr
 - lifehacks
 - Hedgehog
 - mildlyinteresting

@@ -6,7 +6,6 @@ crosslinks:
 - EveryDayRide
 - BicycleGear
 - FixedGearBicycle
-- autotldr
 - myog
 - Serendipity
 - Velo

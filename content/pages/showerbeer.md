@@ -3,7 +3,6 @@ title: showerbeer
 crosslinks:
 - FoundersAllDayIPA
 - ShowerOrange
-- livven
 - ShowerBeerGoneWild
 - showercoffee
 - transpassing

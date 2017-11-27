@@ -1,7 +1,6 @@
 ---
 title: Labour
 crosslinks:
-- autotldr
 - socialism
 - unitedkingdom
 - media_criticism

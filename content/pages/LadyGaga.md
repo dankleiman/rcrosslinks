@@ -1,7 +1,6 @@
 ---
 title: LadyGaga
 crosslinks:
-- livven
 - vinyl
 - popheads
 - lorde

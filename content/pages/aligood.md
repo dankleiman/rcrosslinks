@@ -1,5 +1,0 @@
----
-title: aligood
-crosslinks:
-- livven
----

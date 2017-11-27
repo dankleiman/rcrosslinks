@@ -1,5 +1,0 @@
----
-title: CatsFunnyPic
-crosslinks:
-- livven
----

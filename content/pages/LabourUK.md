@@ -5,7 +5,6 @@ crosslinks:
 - unitedkingdom
 - Enough_Sanders_Spam
 - SKZCartoons
-- livven
 - Milifans
 - ChapoTrapHouse
 - SocialDemocracy

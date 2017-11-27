@@ -1,5 +1,0 @@
----
-title: Galavant
-crosslinks:
-- livven
----

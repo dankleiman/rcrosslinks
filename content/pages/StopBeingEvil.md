@@ -1,7 +1,6 @@
 ---
 title: StopBeingEvil
 crosslinks:
-- autotldr
 - hatchery
 - xkcd
 - KotakuInAction

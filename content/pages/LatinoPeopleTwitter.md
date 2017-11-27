@@ -4,7 +4,6 @@ crosslinks:
 - mexico
 - zeronet
 - BlackPeopleTwitter
-- livven
 - AskReddit
 - yo_elvr
 - PERU

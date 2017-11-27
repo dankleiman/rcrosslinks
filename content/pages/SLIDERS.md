@@ -1,5 +1,0 @@
----
-title: SLIDERS
-crosslinks:
-- livven
----

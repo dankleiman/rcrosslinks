@@ -5,6 +5,5 @@ crosslinks:
 - DankMemeArchive
 - REEEEEEEEEE
 - playertodev
-- livven
 - gaming
 ---

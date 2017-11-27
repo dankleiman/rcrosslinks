@@ -11,7 +11,6 @@ crosslinks:
 - AppleWatch
 - w8q80w
 - loseit
-- livven
 - BTFC
 - progresspics
 - 1200isplenty

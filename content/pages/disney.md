@@ -1,7 +1,6 @@
 ---
 title: disney
 crosslinks:
-- autotldr
 - WaltDisneyWorld
 - Disneyland
 - modnews
@@ -18,7 +17,6 @@ crosslinks:
 - IAmA
 - HighQualityGifs
 - pics
-- livven
 - alternativeart
 - KarmaConspiracy
 ---

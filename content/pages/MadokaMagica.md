@@ -3,7 +3,6 @@ title: MadokaMagica
 crosslinks:
 - Pixiv
 - anime
-- livven
 - magiarecord
 - ToTheStars
 - homura

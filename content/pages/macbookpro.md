@@ -14,5 +14,4 @@ crosslinks:
 - Dell
 - privacy
 - PleX
-- autotldr
 ---

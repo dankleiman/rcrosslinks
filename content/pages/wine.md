@@ -16,6 +16,5 @@ crosslinks:
 - Tucson
 - winemaking
 - coolguides
-- autotldr
 - pics
 ---

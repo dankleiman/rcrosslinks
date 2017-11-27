@@ -12,7 +12,6 @@ crosslinks:
 - changemyview
 - opendirectories
 - SaltLakeCity
-- autotldr
 - news
 - stopdrinking
 - StudentLoans

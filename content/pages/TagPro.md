@@ -6,7 +6,6 @@ crosslinks:
 - place
 - ELTP
 - EggLeague
-- livven
 - videos
 - AskReddit
 - announcements

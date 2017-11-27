@@ -1,7 +1,6 @@
 ---
 title: Bossfight
 crosslinks:
-- livven
 - hmmm
 - OldSchoolCool
 - outside

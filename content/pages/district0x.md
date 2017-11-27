@@ -10,7 +10,6 @@ crosslinks:
 - ICONOMI
 - ArkEcosystem
 - ethereum
-- livven
 - Tenant
 - Crypto_Currency_News
 - aragonproject

@@ -1,7 +1,6 @@
 ---
 title: springfieldMO
 crosslinks:
-- autotldr
 - pics
 - askscience
 - adviceanimals

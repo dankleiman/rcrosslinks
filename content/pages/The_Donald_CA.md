@@ -2,7 +2,6 @@
 title: The_Donald_CA
 crosslinks:
 - The_Donald
-- autotldr
 - AskThe_Donald
 - Sacramentopede
 - all
@@ -16,7 +15,6 @@ crosslinks:
 - conservatives
 - movies
 - Physical_Removal
-- livven
 - The_Donald_BayArea
 - uncensorednews
 - Bitcoin

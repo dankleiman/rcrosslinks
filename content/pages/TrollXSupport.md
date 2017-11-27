@@ -1,7 +1,6 @@
 ---
 title: TrollXSupport
 crosslinks:
-- livven
 - alone
 - stopdrinking
 - BurningMan

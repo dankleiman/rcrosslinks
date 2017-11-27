@@ -1,7 +1,6 @@
 ---
 title: Friendzone
 crosslinks:
-- livven
 - teenagers
 - Serendipity
 - WhereAreAllTheGoodMen

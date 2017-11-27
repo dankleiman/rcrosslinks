@@ -1,5 +1,0 @@
----
-title: GuysInHighSocks
-crosslinks:
-- livven
----

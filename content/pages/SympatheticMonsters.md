@@ -15,7 +15,6 @@ crosslinks:
 - Beetlejuice
 - ItsADnDMonsterNow
 - ImaginaryBehemoths
-- livven
 - ImaginaryMindscapes
 - graphic_design
 - DecidingToBeBetter

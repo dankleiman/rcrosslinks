@@ -10,7 +10,6 @@ crosslinks:
 - Showerthoughts
 - pics
 - Frugal_Jerk
-- livven
 - DeathProTips
 - videos
 - Jokes

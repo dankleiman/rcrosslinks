@@ -6,7 +6,6 @@ crosslinks:
 - xkcd
 - mildlyinteresting
 - Serendipity
-- autotldr
 - AskReddit
 - unexpectedrunescape
 - HelpMeFind

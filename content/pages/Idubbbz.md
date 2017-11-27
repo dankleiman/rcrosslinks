@@ -2,7 +2,6 @@
 title: Idubbbz
 crosslinks:
 - h3h3productions
-- livven
 - JonTron
 - FilthyFrank
 - shittykickstarters

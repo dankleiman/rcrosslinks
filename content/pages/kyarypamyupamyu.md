@@ -1,5 +1,0 @@
----
-title: kyarypamyupamyu
-crosslinks:
-- livven
----

@@ -6,7 +6,6 @@ crosslinks:
 - Battlecars
 - WeirdWheels
 - WTF
-- livven
 - DiWHY
 - delusionalcraigslist
 - trashy

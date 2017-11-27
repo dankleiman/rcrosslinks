@@ -5,7 +5,6 @@ crosslinks:
 - holofractal
 - FringeTheory
 - C_S_T
-- autotldr
 - worldnews
 - HistoricalStreetView
 - Echerdex

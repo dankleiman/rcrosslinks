@@ -7,7 +7,6 @@ crosslinks:
 - Drama
 - EasternSunRising
 - AsianMasculinity
-- autotldr
 - asiantwoX
 - CrimesAgainstAsianity
 - korea

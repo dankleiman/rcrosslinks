@@ -2,7 +2,6 @@
 title: burma
 crosslinks:
 - worldnews
-- autotldr
 - myanmar
 - Games
 - Yangon

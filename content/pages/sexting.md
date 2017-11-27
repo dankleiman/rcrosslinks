@@ -10,7 +10,6 @@ crosslinks:
 - cheeky_olive
 - SkypeShows
 - Sexsells
-- livven
 - anniespantiesxx
 - CarliKanePorn
 - alittlekink

@@ -1,7 +1,6 @@
 ---
 title: guro
 crosslinks:
-- livven
 - Pixiv
 - Vore
 - Tentai

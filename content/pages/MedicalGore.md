@@ -1,7 +1,6 @@
 ---
 title: MedicalGore
 crosslinks:
-- livven
 - popping
 - Anatomy
 - WTF

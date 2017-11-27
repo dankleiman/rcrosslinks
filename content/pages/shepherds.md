@@ -1,5 +1,0 @@
----
-title: shepherds
-crosslinks:
-- livven
----

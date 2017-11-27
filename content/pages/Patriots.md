@@ -2,14 +2,12 @@
 title: Patriots
 crosslinks:
 - nfl
-- livven
 - place
 - falcons
 - EvilLeagueOfEvil
 - nflstreams
 - The_Donald
 - heroesofthestorm
-- autotldr
 - steelers
 - Texans
 - GandSand

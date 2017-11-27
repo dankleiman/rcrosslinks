@@ -5,7 +5,6 @@ crosslinks:
 - thelastofus
 - Gamingcirclejerk
 - PS4
-- livven
 - HistoryPorn
 - iamreallysmart
 - lewronggeneration
@@ -17,5 +16,4 @@ crosslinks:
 - horizon
 - KarmaConspiracy
 - OutOfTheLoop
-- autotldr
 ---

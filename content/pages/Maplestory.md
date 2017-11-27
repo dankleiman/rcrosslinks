@@ -1,7 +1,6 @@
 ---
 title: Maplestory
 crosslinks:
-- livven
 - wow
 - REEEEEEEEEE
 - AdvancedMicroDevices
@@ -14,7 +13,6 @@ crosslinks:
 - personalfinance
 - 2007scape
 - me_irl
-- autotldr
 - wat
 - PrequelMemes
 - '2013'

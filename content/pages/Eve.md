@@ -1,7 +1,6 @@
 ---
 title: Eve
 crosslinks:
-- livven
 - xkcd
 - fittings
 - ProjectDiscovery
@@ -19,6 +18,5 @@ crosslinks:
 - place
 - ShitRedditSays
 - pcmasterrace
-- autotldr
 - playark
 ---

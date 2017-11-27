@@ -1,7 +1,6 @@
 ---
 title: SaltLakeCity
 crosslinks:
-- autotldr
 - exmormon
 - Utah
 - politics

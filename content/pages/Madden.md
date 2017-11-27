@@ -2,7 +2,6 @@
 title: Madden
 crosslinks:
 - MaddenUltimateTeam
-- livven
 - CFMmadden
 - MaddenGMs
 - NBA2k

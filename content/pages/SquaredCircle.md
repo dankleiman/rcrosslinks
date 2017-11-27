@@ -1,7 +1,6 @@
 ---
 title: SquaredCircle
 crosslinks:
-- livven
 - SCJerk
 - WrestleWithThePlot
 - njpw

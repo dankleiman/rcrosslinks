@@ -5,7 +5,6 @@ crosslinks:
 - algotrading
 - tradingmemes
 - IAmA
-- livven
 - forexfactory
 - Advice
 - FinancialCareers

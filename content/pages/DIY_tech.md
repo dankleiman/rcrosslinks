@@ -1,7 +1,6 @@
 ---
 title: DIY_tech
 crosslinks:
-- livven
 - BudgetAudiophile
 - audioengineering
 - mildlyinteresting
@@ -9,7 +8,6 @@ crosslinks:
 - tasker
 - EducativeVideos
 - diysound
-- autotldr
 - homeautomation
 - electronics
 - selfhosted

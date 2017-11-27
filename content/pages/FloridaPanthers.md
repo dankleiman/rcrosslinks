@@ -6,7 +6,6 @@ crosslinks:
 - hockeyjerseys
 - SanJoseSharks
 - NHLstatheads
-- livven
 - highqualitygifs
 - RenttheJoe
 - Serendipity

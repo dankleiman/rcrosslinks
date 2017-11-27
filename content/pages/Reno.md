@@ -1,8 +1,6 @@
 ---
 title: Reno
 crosslinks:
-- livven
-- autotldr
 - FML
 - appliancerepair
 - SJEarthquakes

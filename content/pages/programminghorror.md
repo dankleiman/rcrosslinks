@@ -16,7 +16,6 @@ crosslinks:
 - wewanttypes
 - forwardsfromgrandma
 - TalesFromYourServer
-- livven
 - ExplainMyDownvotes
 - startups
 - MaliciousCompliance

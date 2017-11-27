@@ -1,5 +1,0 @@
----
-title: PsychedelicLaws
-crosslinks:
-- autotldr
----

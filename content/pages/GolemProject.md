@@ -7,7 +7,6 @@ crosslinks:
 - CryptoCurrency
 - omise_go
 - TREZOR
-- autotldr
 - XEL
 - gnttrader
 - xkcd

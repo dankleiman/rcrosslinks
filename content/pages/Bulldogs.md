@@ -1,7 +1,6 @@
 ---
 title: Bulldogs
 crosslinks:
-- livven
 - aww
 - pics
 - AnimalsBeingDerps

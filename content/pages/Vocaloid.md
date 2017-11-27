@@ -5,7 +5,6 @@ crosslinks:
 - placestart
 - OtakuVisualArts
 - Android
-- livven
 - imaginarymaps
 - learnanimation
 - audiophile

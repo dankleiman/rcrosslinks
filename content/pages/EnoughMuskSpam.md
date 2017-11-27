@@ -1,7 +1,6 @@
 ---
 title: EnoughMuskSpam
 crosslinks:
-- autotldr
 - spacex
 - space
 - Futurology

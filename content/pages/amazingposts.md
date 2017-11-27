@@ -1,5 +1,0 @@
----
-title: amazingposts
-crosslinks:
-- livven
----

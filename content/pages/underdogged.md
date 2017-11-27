@@ -1,5 +1,0 @@
----
-title: underdogged
-crosslinks:
-- livven
----

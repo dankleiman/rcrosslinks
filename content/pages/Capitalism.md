@@ -3,7 +3,6 @@ title: Capitalism
 crosslinks:
 - socialism
 - Socialism_101
-- autotldr
 - LateStageCapitalism
 - Anarcho_Capitalism
 - QualitySocialism

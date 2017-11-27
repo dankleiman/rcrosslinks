@@ -15,7 +15,6 @@ crosslinks:
 - gatekeeping
 - Techno
 - psytrance
-- autotldr
 - AMAAggregator
 - synthesizers
 - futurefunkairlines

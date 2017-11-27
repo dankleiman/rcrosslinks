@@ -5,7 +5,6 @@ crosslinks:
 - Wicca
 - HermeticsInAction
 - offthemap
-- autotldr
 - news
 - alexandria
 ---

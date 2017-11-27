@@ -1,5 +1,0 @@
----
-title: nudeselfie
-crosslinks:
-- livven
----

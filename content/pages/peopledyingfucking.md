@@ -1,5 +1,0 @@
----
-title: peopledyingfucking
-crosslinks:
-- livven
----

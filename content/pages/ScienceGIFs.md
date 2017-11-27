@@ -1,5 +1,0 @@
----
-title: ScienceGIFs
-crosslinks:
-- livven
----

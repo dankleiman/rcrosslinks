@@ -1,7 +1,6 @@
 ---
 title: bertstrips
 crosslinks:
-- livven
 - WholesomeBertstrips
 - me_irl
 - Drama

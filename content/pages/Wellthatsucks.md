@@ -1,7 +1,6 @@
 ---
 title: Wellthatsucks
 crosslinks:
-- livven
 - WhyWereTheyFilming
 - gifs
 - xkcd

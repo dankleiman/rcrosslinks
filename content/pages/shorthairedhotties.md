@@ -1,7 +1,6 @@
 ---
 title: shorthairedhotties
 crosslinks:
-- livven
 - GirlsWithBuzzCuts
 - FancyFollicles
 - OldSchoolCool

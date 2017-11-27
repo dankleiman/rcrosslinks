@@ -1,5 +1,0 @@
----
-title: dwarffortressart
-crosslinks:
-- livven
----

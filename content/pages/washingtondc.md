@@ -1,14 +1,12 @@
 ---
 title: washingtondc
 crosslinks:
-- autotldr
 - newdcgirls
 - nova
 - DCover30
 - The_Donald
 - pics
 - news
-- livven
 - DCents
 - excel
 - IAmA

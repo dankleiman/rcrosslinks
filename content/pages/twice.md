@@ -1,7 +1,6 @@
 ---
 title: twice
 crosslinks:
-- livven
 - kpop
 - kpics
 - place

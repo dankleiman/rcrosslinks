@@ -9,7 +9,6 @@ crosslinks:
 - socialism
 - TheyDidTheMaps
 - papertowns
-- livven
 - politics
 - technology
 - Drama
@@ -19,6 +18,5 @@ crosslinks:
 - Archaeology
 - ApplyingToCollege
 - AgainstGamerGate
-- TOTALLYROBOTS
 - unfilter
 ---

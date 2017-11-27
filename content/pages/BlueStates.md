@@ -1,5 +1,0 @@
----
-title: BlueStates
-crosslinks:
-- autotldr
----

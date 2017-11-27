@@ -3,7 +3,6 @@ title: boardgamescirclejerk
 crosslinks:
 - AMAAggregator
 - magicTCG
-- livven
 - xkcd
 - Shoplifting
 - gifs

@@ -7,7 +7,6 @@ crosslinks:
 - INJUSTICE
 - stevenuniverse
 - theraycwseed
-- autotldr
 - DCcomics
 - flash
 - jesuschristreddit

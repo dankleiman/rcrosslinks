@@ -1,5 +1,0 @@
----
-title: DESERETauto
-crosslinks:
-- autotldr
----

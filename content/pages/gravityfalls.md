@@ -1,7 +1,6 @@
 ---
 title: gravityfalls
 crosslinks:
-- livven
 - StarVStheForcesofEvil
 - Dipcifica
 - stevenuniverse

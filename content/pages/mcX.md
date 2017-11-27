@@ -1,5 +1,0 @@
----
-title: mcX
-crosslinks:
-- autotldr
----

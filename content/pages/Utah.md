@@ -1,11 +1,9 @@
 ---
 title: Utah
 crosslinks:
-- autotldr
 - SaltLakeCity
 - exmormon
 - ogden
-- livven
 - polyamory
 - AmericanPlantSwap
 - EndFPTP

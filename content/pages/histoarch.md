@@ -1,5 +1,0 @@
----
-title: histoarch
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: BeachCity
 crosslinks:
 - stevenuniverse
-- autotldr
 - samuraijack
 - StarVStheForcesofEvil
 - programming

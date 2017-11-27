@@ -1,5 +1,0 @@
----
-title: HelpMeHodl
-crosslinks:
-- autotldr
----

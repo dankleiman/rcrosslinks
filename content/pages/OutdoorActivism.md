@@ -1,5 +1,0 @@
----
-title: OutdoorActivism
-crosslinks:
-- autotldr
----

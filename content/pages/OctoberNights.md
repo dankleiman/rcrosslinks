@@ -1,5 +1,0 @@
----
-title: OctoberNights
-crosslinks:
-- livven
----

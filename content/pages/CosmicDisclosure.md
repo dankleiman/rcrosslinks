@@ -3,7 +3,6 @@ title: CosmicDisclosure
 crosslinks:
 - fringediscussion
 - conspiracy
-- autotldr
 - holofractal
 - aliens
 - deepdreamers

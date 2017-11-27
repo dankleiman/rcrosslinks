@@ -5,5 +5,4 @@ crosslinks:
 - corejerk
 - hardcorejerk
 - MetalMemes
-- livven
 ---

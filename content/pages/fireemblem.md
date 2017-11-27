@@ -1,7 +1,6 @@
 ---
 title: fireemblem
 crosslinks:
-- livven
 - place
 - IAmA
 - NintendoSwitch

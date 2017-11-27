@@ -6,9 +6,7 @@ crosslinks:
 - placeTARDIS
 - xkcd
 - DoctorWhumour
-- livven
 - place
-- autotldr
 - gatekeeping
 - dontdeadopeninside
 - gallifreyan

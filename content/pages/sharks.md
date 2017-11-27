@@ -1,8 +1,6 @@
 ---
 title: sharks
 crosslinks:
-- autotldr
-- livven
 - wallpapers
 - pics
 - HumansBeingBros

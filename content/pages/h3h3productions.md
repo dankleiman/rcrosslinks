@@ -1,7 +1,6 @@
 ---
 title: h3h3productions
 crosslinks:
-- livven
 - JonTron
 - videos
 - IAmA
@@ -16,7 +15,6 @@ crosslinks:
 - funny
 - Drama
 - Ice_Poseidon
-- autotldr
 - conspiracy
 - HailCorporate
 - dankmemes

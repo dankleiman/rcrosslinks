@@ -2,7 +2,6 @@
 title: saskatchewan
 crosslinks:
 - saskatoon
-- autotldr
 - regina
 - canada
 - rickandmorty

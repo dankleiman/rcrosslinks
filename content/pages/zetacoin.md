@@ -1,5 +1,0 @@
----
-title: zetacoin
-crosslinks:
-- livven
----

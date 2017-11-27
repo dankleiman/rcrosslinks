@@ -4,7 +4,6 @@ crosslinks:
 - justFPthings
 - Braves
 - NationalsGIFs
-- livven
 - MLBStreams
 - washingtondc
 - danielmurphygifs

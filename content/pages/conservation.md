@@ -1,7 +1,6 @@
 ---
 title: conservation
 crosslinks:
-- autotldr
 - environment
 - DeepGreenResistance
 - MapPorn

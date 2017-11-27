@@ -2,7 +2,6 @@
 title: uscg
 crosslinks:
 - RescueSwimmer
-- autotldr
 - Pararescue
 - IAmA
 - Military

@@ -2,7 +2,6 @@
 title: ucla
 crosslinks:
 - UCSD
-- autotldr
 - place
 - The_Donald
 - LosAngeles

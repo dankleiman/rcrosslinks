@@ -5,7 +5,6 @@ crosslinks:
 - TalesFromRetail
 - gamecollecting
 - IAmA
-- livven
 - gaming
 - CompTIA
 - PS4
@@ -18,7 +17,6 @@ crosslinks:
 - gamingsuggestions
 - DestinyTheGame
 - churning
-- autotldr
 - Target
 - KingdomHearts
 ---

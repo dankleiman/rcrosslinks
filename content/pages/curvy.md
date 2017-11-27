@@ -1,7 +1,6 @@
 ---
 title: curvy
 crosslinks:
-- livven
 - sarah_xxx
 - BustyNaturalPornstars
 - MassiveTitsnAss

@@ -4,9 +4,7 @@ crosslinks:
 - guns
 - gundeals
 - ar15
-- livven
 - PETA
-- autotldr
 - The_Donald
 - aww
 - Firearms

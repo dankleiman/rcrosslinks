@@ -2,7 +2,6 @@
 title: medlabprofessionals
 crosslinks:
 - medicine
-- autotldr
 - nursing
 - Nurses
 - resumes

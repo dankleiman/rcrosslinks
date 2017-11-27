@@ -1,10 +1,8 @@
 ---
 title: philadelphia
 crosslinks:
-- autotldr
 - The_Donald
 - philly
-- livven
 - pics
 - xkcd
 - Drama

@@ -1,7 +1,6 @@
 ---
 title: inthemorning
 crosslinks:
-- autotldr
 - The_Donald
 - Trumpgret
 - Enhancement
@@ -11,6 +10,5 @@ crosslinks:
 - todayilearned
 - foreignaffairs
 - funny
-- livven
 - changemyview
 ---

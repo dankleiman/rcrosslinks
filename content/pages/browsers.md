@@ -4,6 +4,5 @@ crosslinks:
 - xkcd
 - firefox
 - waterfox
-- autotldr
 - place
 ---

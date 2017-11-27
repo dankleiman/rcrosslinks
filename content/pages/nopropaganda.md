@@ -1,5 +1,0 @@
----
-title: nopropaganda
-crosslinks:
-- autotldr
----

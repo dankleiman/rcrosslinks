@@ -1,5 +1,0 @@
----
-title: lightbulbs
-crosslinks:
-- livven
----

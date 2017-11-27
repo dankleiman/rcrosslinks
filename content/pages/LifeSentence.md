@@ -1,5 +1,0 @@
----
-title: LifeSentence
-crosslinks:
-- autotldr
----

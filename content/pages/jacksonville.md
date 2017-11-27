@@ -1,7 +1,6 @@
 ---
 title: jacksonville
 crosslinks:
-- autotldr
 - JaxBrew
 - orlando
 - Bad_Cop_No_Donut
@@ -19,6 +18,5 @@ crosslinks:
 - nfl
 - personalfinance
 - florida
-- livven
 - conspiratard
 ---

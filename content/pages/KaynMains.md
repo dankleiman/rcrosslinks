@@ -2,7 +2,6 @@
 title: KaynMains
 crosslinks:
 - leagueoflegends
-- livven
 - Kindred
 - TaliyahMains
 - AMAAggregator

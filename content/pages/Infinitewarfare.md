@@ -1,7 +1,6 @@
 ---
 title: Infinitewarfare
 crosslinks:
-- livven
 - CoDCompetitive
 - iwcheats
 - WWII

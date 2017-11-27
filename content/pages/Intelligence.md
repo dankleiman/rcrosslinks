@@ -1,7 +1,6 @@
 ---
 title: Intelligence
 crosslinks:
-- autotldr
 - geopolitics
 - politics
 - todayilearned

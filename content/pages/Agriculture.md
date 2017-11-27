@@ -1,7 +1,6 @@
 ---
 title: Agriculture
 crosslinks:
-- autotldr
 - Green_Anarchism
 - technology
 - farming

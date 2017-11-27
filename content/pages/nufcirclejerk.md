@@ -1,7 +1,6 @@
 ---
 title: nufcirclejerk
 crosslinks:
-- livven
 - AskReddit
 - Championship
 - NUFC

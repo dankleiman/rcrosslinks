@@ -4,7 +4,6 @@ crosslinks:
 - microgrowery
 - drugai
 - DNMUK
-- autotldr
 - DarkNetMarkets
 - RCSources
 - Drugs

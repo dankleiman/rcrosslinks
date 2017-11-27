@@ -2,7 +2,6 @@
 title: traphentai
 crosslinks:
 - DeliciousTraps
-- livven
 - HungTraps
 - CringeAnarchy
 - anime_irl

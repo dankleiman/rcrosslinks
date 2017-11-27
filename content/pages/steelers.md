@@ -2,7 +2,6 @@
 title: steelers
 crosslinks:
 - nfl
-- livven
 - Patriots
 - EvilLeagueOfEvil
 - NFL_Draft
@@ -13,7 +12,6 @@ crosslinks:
 - Browns
 - CoalitionAgainstEvil
 - penguins
-- autotldr
 - evilleagueofevil
 - CHIBears
 - TheManyFacesOfTomlin

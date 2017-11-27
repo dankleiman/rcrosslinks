@@ -1,5 +1,0 @@
----
-title: starshot
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: donaldglover
 crosslinks:
 - Kanye
-- livven
 - AskReddit
 - FrankOcean
 - hhh

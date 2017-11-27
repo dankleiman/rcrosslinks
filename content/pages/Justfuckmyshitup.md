@@ -3,7 +3,6 @@ title: Justfuckmyshitup
 crosslinks:
 - ATBGE
 - pics
-- livven
 - SwordOrSheath
 - WTF
 - fakehistoryporn

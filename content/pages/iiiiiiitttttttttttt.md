@@ -3,7 +3,6 @@ title: iiiiiiitttttttttttt
 crosslinks:
 - xkcd
 - talesfromtechsupport
-- livven
 - MaliciousCompliance
 - pcmasterrace
 - techsupportmacgyver

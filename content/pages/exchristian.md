@@ -5,7 +5,6 @@ crosslinks:
 - Christianity
 - xkcd
 - exmormon
-- autotldr
 - exjw
 - exmuslim
 - exchristianr4r

@@ -1,5 +1,0 @@
----
-title: PoliticalRevolutionPA
-crosslinks:
-- autotldr
----

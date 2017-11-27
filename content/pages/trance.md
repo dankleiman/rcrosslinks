@@ -10,7 +10,6 @@ crosslinks:
 - ericprydz
 - ClassicTrance
 - Techno
-- autotldr
 - headphones
 - ModSupport
 - hardtrance

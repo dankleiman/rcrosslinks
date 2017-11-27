@@ -1,7 +1,6 @@
 ---
 title: 4Runner
 crosslinks:
-- livven
 - 4x4
 - 4Runner_1stGen
 - metric_units

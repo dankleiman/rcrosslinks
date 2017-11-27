@@ -1,7 +1,6 @@
 ---
 title: TheReportOfTheWeek
 crosslinks:
-- livven
 - LittleBig
 - '2013'
 - hotones

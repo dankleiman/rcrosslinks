@@ -5,7 +5,6 @@ crosslinks:
 - yiff
 - jesuschristreddit
 - DragonsFuckingDragons
-- livven
 - furry
 - NegativeWithGold
 - WTF

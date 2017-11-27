@@ -1,7 +1,6 @@
 ---
 title: uspolitics
 crosslinks:
-- autotldr
 - The_Donald
 - politics
 - todayilearned

@@ -1,5 +1,0 @@
----
-title: Skimmers
-crosslinks:
-- autotldr
----

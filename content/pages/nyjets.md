@@ -2,7 +2,6 @@
 title: nyjets
 crosslinks:
 - nfl
-- livven
 - NFL_Draft
 - the_darnold
 - Patriots

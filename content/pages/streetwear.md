@@ -11,7 +11,6 @@ crosslinks:
 - femalefashionadvice
 - funny
 - streetweardiscussion
-- livven
 - hiphopheads
 - womensstreetwear
 - frugalmalefashion

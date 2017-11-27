@@ -1,5 +1,0 @@
----
-title: puppyoftheday
-crosslinks:
-- livven
----

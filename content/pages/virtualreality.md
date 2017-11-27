@@ -3,8 +3,6 @@ title: virtualreality
 crosslinks:
 - oculus
 - Vive
-- autotldr
-- livven
 - pcmasterrace
 - GearVR
 - PSVR

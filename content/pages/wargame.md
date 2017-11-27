@@ -2,7 +2,6 @@
 title: wargame
 crosslinks:
 - Steel_Division
-- livven
 - MemeEconomy
 - gaming
 - Warthunder

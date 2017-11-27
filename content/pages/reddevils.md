@@ -6,7 +6,6 @@ crosslinks:
 - soccerstreams
 - Gunners
 - LiverpoolFC
-- livven
 - MCFC
 - place
 - 2yki3w5
@@ -19,6 +18,5 @@ crosslinks:
 - acesoccerstreams
 - OutOfTheLoop
 - manchesterunitednews
-- autotldr
 - The_Donald
 ---

@@ -5,7 +5,6 @@ crosslinks:
 - AskEurope
 - ShitAmericansSay
 - videos
-- autotldr
 - todayilearned
 - AskReddit
 - shitamericanssay

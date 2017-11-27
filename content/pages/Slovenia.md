@@ -10,7 +10,6 @@ crosslinks:
 - sevnica
 - CoinBase
 - AskEurope
-- autotldr
 - argentina
 - todayilearned
 - Yugoslavia

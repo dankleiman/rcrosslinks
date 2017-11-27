@@ -1,7 +1,6 @@
 ---
 title: EuropeanFederalists
 crosslinks:
-- autotldr
 - acteuropa
 - europe
 - DiEM25

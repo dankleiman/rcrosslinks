@@ -1,5 +1,0 @@
----
-title: mobilepayments
-crosslinks:
-- autotldr
----

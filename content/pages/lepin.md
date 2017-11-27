@@ -5,7 +5,6 @@ crosslinks:
 - lego
 - LegoStorage
 - startrek
-- autotldr
 - Aliexpress
 - legodeal
 - FashionReps

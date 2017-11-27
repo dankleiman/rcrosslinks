@@ -14,9 +14,7 @@ crosslinks:
 - dashcams
 - JUSTNOFAMILY
 - keto
-- autotldr
 - pickuplines
-- livven
 - sewing
 - KitchenPrivilege
 - talesfromthelaw

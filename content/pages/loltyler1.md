@@ -12,7 +12,6 @@ crosslinks:
 - Emoney
 - VoHiYo
 - REEEEEEEEEE
-- livven
 - osugame
 - GreenLattice
 - EuropePlace

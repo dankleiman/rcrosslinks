@@ -17,7 +17,6 @@ crosslinks:
 - trashy
 - tifu
 - worldnews
-- autotldr
 - WTF
 - creepyPMs
 - GenderCritical

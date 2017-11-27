@@ -1,7 +1,6 @@
 ---
 title: StallmanWasRight
 crosslinks:
-- autotldr
 - privacy
 - xkcd
 - linuxmasterrace

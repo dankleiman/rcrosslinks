@@ -8,7 +8,6 @@ crosslinks:
 - serialpodcast
 - RickyHcase
 - InnocenceandInjustice
-- autotldr
 - ScottPetersonCase
 - Toni_Anderson
 - askscience

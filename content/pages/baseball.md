@@ -2,7 +2,6 @@
 title: baseball
 crosslinks:
 - NYYankees
-- livven
 - Mariners
 - '2013'
 - redsox
@@ -18,7 +17,6 @@ crosslinks:
 - Astros
 - letsgofish
 - ColoradoRockies
-- autotldr
 - NPB
 - Nationals
 ---

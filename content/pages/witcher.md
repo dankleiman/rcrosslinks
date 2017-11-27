@@ -1,7 +1,6 @@
 ---
 title: witcher
 crosslinks:
-- livven
 - gwent
 - gaming
 - Gamingcirclejerk

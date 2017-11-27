@@ -2,7 +2,6 @@
 title: SULeaks
 crosslinks:
 - stevenuniverse
-- livven
 - Gregfuckedarock
 - gravityfalls
 - IAmA

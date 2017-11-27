@@ -12,7 +12,6 @@ crosslinks:
 - AznLivesMatter
 - korea
 - asianamerican
-- autotldr
 - Fragility
 - asianfeminism
 - CIWO

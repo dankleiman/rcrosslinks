@@ -1,7 +1,6 @@
 ---
 title: Ooer
 crosslinks:
-- livven
 - AskOuija
 - COMPLETEANARCHY
 - ooerintensifies
@@ -10,7 +9,6 @@ crosslinks:
 - underpopular
 - BigHotDog
 - animemes
-- autotldr
 - jesuschristouija
 - pcmasterrac
 - Oeer

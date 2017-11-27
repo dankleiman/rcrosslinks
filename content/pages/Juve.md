@@ -13,6 +13,5 @@ crosslinks:
 - galatasaray
 - juventus
 - Design
-- livven
 - place
 ---

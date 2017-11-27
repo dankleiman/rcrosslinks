@@ -15,7 +15,6 @@ crosslinks:
 - '0x7B1DEA01'
 - sysadmin
 - mirin
-- livven
 - Accounting
 - OMSCS
 ---

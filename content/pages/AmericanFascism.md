@@ -1,5 +1,0 @@
----
-title: AmericanFascism
-crosslinks:
-- autotldr
----

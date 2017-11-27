@@ -2,7 +2,6 @@
 title: deaf
 crosslinks:
 - asl
-- autotldr
 - xkcd
 - KingOfTheHill
 - Blind
@@ -13,7 +12,6 @@ crosslinks:
 - science
 - DeafSkype
 - wow
-- livven
 - relationships
 - matt
 - Military

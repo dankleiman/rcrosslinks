@@ -1,5 +1,0 @@
----
-title: alkeszbuzik
-crosslinks:
-- livven
----

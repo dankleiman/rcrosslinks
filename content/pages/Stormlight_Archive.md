@@ -8,7 +8,6 @@ crosslinks:
 - xkcd
 - EarthPorn
 - pics
-- livven
 - Art
 - '2013'
 - asoiaf

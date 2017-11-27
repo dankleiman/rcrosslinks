@@ -7,7 +7,6 @@ crosslinks:
 - HailCorporate
 - videos
 - ffxiv
-- livven
 - '2013'
 - announcements
 - Eve

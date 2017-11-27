@@ -5,7 +5,6 @@ crosslinks:
 - Draven
 - malphitemains
 - AnnieMains
-- livven
 - LeBlancMains
 - ChampionMains
 - flairs

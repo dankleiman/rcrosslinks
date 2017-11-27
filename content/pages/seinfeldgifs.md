@@ -1,7 +1,6 @@
 ---
 title: seinfeldgifs
 crosslinks:
-- livven
 - HighQualityGifs
 - videos
 - RedditWritesSeinfeld

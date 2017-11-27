@@ -7,7 +7,6 @@ crosslinks:
 - intel
 - AMDHelp
 - AyyMD
-- autotldr
 - AMDRadeon
 - GAAB350
 - pcgaming
@@ -20,5 +19,4 @@ crosslinks:
 - hardwareswap
 - 600x450
 - PUBATTLEGROUNDS
-- livven
 ---

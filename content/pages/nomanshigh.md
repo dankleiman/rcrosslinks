@@ -8,7 +8,6 @@ crosslinks:
 - NMSPortals
 - NoMansSkyMyJourney
 - NMS_Bases
-- livven
 - nomansskyshots
 - no_mans_sky
 - NMSSuggestions

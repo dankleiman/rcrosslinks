@@ -4,6 +4,5 @@ crosslinks:
 - MadokaMagica
 - Kyousaya
 - OutOfTheLoop
-- livven
 - magiarecord
 ---

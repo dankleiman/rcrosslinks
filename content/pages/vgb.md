@@ -1,7 +1,6 @@
 ---
 title: vgb
 crosslinks:
-- livven
 - ABraThatFits
 - Colorization
 - BeautyQueens

@@ -1,5 +1,0 @@
----
-title: TurkeyvsISIS
-crosslinks:
-- autotldr
----

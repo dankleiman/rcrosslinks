@@ -1,5 +1,0 @@
----
-title: ClassicSpooky
-crosslinks:
-- livven
----

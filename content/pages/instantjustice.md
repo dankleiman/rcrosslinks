@@ -1,5 +1,0 @@
----
-title: instantjustice
-crosslinks:
-- livven
----

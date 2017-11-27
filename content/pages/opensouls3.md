@@ -5,7 +5,6 @@ crosslinks:
 - shittydarksouls
 - pumparum
 - darksouls
-- livven
 - DkS3Builds
 - fashionsouls
 - nocontext

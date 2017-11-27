@@ -1,5 +1,0 @@
----
-title: radicalecology
-crosslinks:
-- autotldr
----

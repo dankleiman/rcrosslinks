@@ -3,12 +3,10 @@ title: Windows10
 crosslinks:
 - Surface
 - techsupport
-- autotldr
 - windows
 - windowsinsiders
 - windowsphone
 - pcmasterrace
-- livven
 - xkcd
 - nvidia
 - sysadmin

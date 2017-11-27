@@ -1,7 +1,6 @@
 ---
 title: fyrefestival
 crosslinks:
-- autotldr
 - Anarchy101
 - commonsense
 - mallninjashit
@@ -12,7 +11,6 @@ crosslinks:
 - lostgeneration
 - todayilearned
 - The_Bogdanoff
-- livven
 - shittykickstarters
 - funny
 - meth

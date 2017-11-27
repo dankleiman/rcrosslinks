@@ -2,7 +2,6 @@
 title: ravens
 crosslinks:
 - nfl
-- livven
 - NFL_Draft
 - nflstreams
 - reddit_stream

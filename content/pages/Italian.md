@@ -4,7 +4,6 @@ crosslinks:
 - italy
 - perlediritaly
 - perlediritalian
-- autotldr
 - ShitEvilModsSay
 - Italia
 - television

@@ -13,7 +13,6 @@ crosslinks:
 - darksouls
 - starryknights
 - GreenLattice
-- livven
 - thepointing
 - transformers
 - FRC

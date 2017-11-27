@@ -1,7 +1,6 @@
 ---
 title: ProperAnimalNames
 crosslinks:
-- livven
 - natureismetal
 - oddlysatisfying
 - SCP

@@ -1,7 +1,6 @@
 ---
 title: goldenretrievers
 crosslinks:
-- livven
 - aww
 - Dogtraining
 - rarepuppers

@@ -18,5 +18,4 @@ crosslinks:
 - im14andthisisfunny
 - pokemonduel
 - JoJoDiamondRecords
-- livven
 ---

@@ -14,7 +14,6 @@ crosslinks:
 - shittykickstarters
 - redditrequest
 - EBoardMarketplace
-- autotldr
 - electronic_cigarette
 - askscience
 - AMAAggregator

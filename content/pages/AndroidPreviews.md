@@ -7,8 +7,6 @@ crosslinks:
 - Nexus6P
 - me_irl
 - nexus5x
-- livven
-- autotldr
 - androidapps
 - nexus6
 ---

@@ -1,7 +1,6 @@
 ---
 title: artificial
 crosslinks:
-- autotldr
 - MachineLearning
 - agi
 - xkcd

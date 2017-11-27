@@ -1,7 +1,6 @@
 ---
 title: ActiveMeasures
 crosslinks:
-- autotldr
 - NeutralPolitics
 - Sino
 - politics

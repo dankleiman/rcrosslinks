@@ -1,5 +1,0 @@
----
-title: Druid
-crosslinks:
-- autotldr
----

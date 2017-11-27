@@ -5,7 +5,6 @@ crosslinks:
 - JUSTNOMIL
 - Mommit
 - xxfitness
-- livven
 - infertility
 - AugustBumpers2017
 - food

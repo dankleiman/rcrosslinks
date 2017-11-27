@@ -1,7 +1,6 @@
 ---
 title: MLBTheShow
 crosslinks:
-- livven
 - BestOfMLBTheShow
 - MLBtheShowLogos
 - AMAAggregator

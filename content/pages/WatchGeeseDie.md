@@ -1,5 +1,0 @@
----
-title: WatchGeeseDie
-crosslinks:
-- livven
----

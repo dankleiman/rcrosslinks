@@ -1,7 +1,6 @@
 ---
 title: loadingicon
 crosslinks:
-- livven
 - gifs
 - oddlysatisfying
 - perfectloops

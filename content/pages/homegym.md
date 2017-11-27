@@ -5,7 +5,6 @@ crosslinks:
 - weightroom
 - crossfit
 - weightlifting
-- livven
 - delusionalcraigslist
 - f
 - HomeImprovement

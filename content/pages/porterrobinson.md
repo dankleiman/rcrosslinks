@@ -3,7 +3,6 @@ title: porterrobinson
 crosslinks:
 - madeon
 - xTrill
-- livven
 - anime
 - Odesza
 - JonTron

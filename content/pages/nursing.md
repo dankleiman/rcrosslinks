@@ -1,11 +1,9 @@
 ---
 title: nursing
 crosslinks:
-- livven
 - StudentNurse
 - cna
 - medicine
-- autotldr
 - ems
 - medicalschool
 - tifu

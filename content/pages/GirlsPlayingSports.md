@@ -1,7 +1,6 @@
 ---
 title: GirlsPlayingSports
 crosslinks:
-- livven
 - HottestFemaleAthletes
 - Serendipity
 - tiannag

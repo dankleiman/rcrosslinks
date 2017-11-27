@@ -5,7 +5,6 @@ crosslinks:
 - resumes
 - AskReddit
 - legaladvice
-- autotldr
 - cscareerquestions
 - financialindependence
 - recruitinghell

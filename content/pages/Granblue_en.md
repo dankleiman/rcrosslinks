@@ -1,7 +1,6 @@
 ---
 title: Granblue_en
 crosslinks:
-- livven
 - PokemonGoSpoofing
 - Pixiv
 - kancolle

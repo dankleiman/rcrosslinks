@@ -1,5 +1,0 @@
----
-title: Petroleum
-crosslinks:
-- autotldr
----

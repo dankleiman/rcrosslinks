@@ -15,7 +15,6 @@ crosslinks:
 - WTF
 - gatekeeping
 - Frugal_Jerk
-- livven
 - HailCorporate
 - PurpleCoco
 - somethingimade

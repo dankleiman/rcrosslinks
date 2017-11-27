@@ -1,7 +1,6 @@
 ---
 title: Physics
 crosslinks:
-- autotldr
 - askscience
 - AskPhysics
 - xkcd
@@ -9,7 +8,6 @@ crosslinks:
 - gradadmissions
 - explainlikeimfive
 - space
-- livven
 - gifs
 - chemistry
 - arXiv_Plus

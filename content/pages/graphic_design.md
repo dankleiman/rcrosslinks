@@ -1,10 +1,8 @@
 ---
 title: graphic_design
 crosslinks:
-- livven
 - identifythisfont
 - design_critiques
-- autotldr
 - Design
 - illustration
 - idesignedthis

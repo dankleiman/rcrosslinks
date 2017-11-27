@@ -13,7 +13,6 @@ crosslinks:
 - BlancNoir
 - Ashe_Maree
 - AlexaPearl
-- livven
 - fuck
 - georgie_lyall
 - SexyWomanOfTheDay

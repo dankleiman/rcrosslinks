@@ -1,5 +1,0 @@
----
-title: BravesGIFs
-crosslinks:
-- livven
----

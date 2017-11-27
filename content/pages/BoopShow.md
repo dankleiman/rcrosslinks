@@ -1,5 +1,0 @@
----
-title: BoopShow
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: entwives
 crosslinks:
-- livven
 - vaporents
 - all
 - MuseumOfReddit

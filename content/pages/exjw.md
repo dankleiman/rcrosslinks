@@ -7,8 +7,6 @@ crosslinks:
 - AskReddit
 - atheism
 - IAmA
-- livven
-- autotldr
 - legaladvice
 - Christianity
 - AskaJW

@@ -1,5 +1,0 @@
----
-title: CanopyGrowthCorp
-crosslinks:
-- autotldr
----

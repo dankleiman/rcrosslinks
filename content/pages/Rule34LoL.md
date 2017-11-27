@@ -1,7 +1,6 @@
 ---
 title: Rule34LoL
 crosslinks:
-- livven
 - WesternHentai
 - LoLFanArt
 - Pixiv

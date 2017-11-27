@@ -4,7 +4,6 @@ crosslinks:
 - INTP
 - INFPmusic
 - AskReddit
-- livven
 - hsp
 - aromantic
 - shittyMBTI

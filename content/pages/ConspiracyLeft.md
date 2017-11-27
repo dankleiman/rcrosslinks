@@ -1,5 +1,0 @@
----
-title: ConspiracyLeft
-crosslinks:
-- autotldr
----

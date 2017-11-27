@@ -4,7 +4,6 @@ crosslinks:
 - DataspillereNorge
 - xkcd
 - sweden
-- livven
 - Denmark
 - IAmA
 - AskReddit

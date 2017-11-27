@@ -20,5 +20,4 @@ crosslinks:
 - AMA
 - metal
 - reddevils
-- autotldr
 ---

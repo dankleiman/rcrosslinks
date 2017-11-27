@@ -1,7 +1,6 @@
 ---
 title: awwwtf
 crosslinks:
-- livven
 - WTF
 - aww
 - CutePetSnails

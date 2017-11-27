@@ -2,7 +2,6 @@
 title: GarlicBreadMemes
 crosslinks:
 - grilledcheese
-- livven
 - KarmaCourt
 - FreeCompliments
 - causeWhyNotMate

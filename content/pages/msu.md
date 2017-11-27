@@ -7,7 +7,6 @@ crosslinks:
 - Thicc
 - uofm
 - xkcd
-- autotldr
 - CFB
 - Serendipity
 - runescape

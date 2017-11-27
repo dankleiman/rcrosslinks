@@ -1,7 +1,6 @@
 ---
 title: Cosmos
 crosslinks:
-- autotldr
 - nycosmos
 - Christianity
 - overpopulation

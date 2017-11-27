@@ -11,7 +11,6 @@ crosslinks:
 - nattyorjuice
 - nSuns
 - gzcl
-- livven
 - fasting
 - CK2GameOfthrones
 - powerlifting

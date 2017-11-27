@@ -1,5 +1,0 @@
----
-title: BurningThrowaway
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: Technism
-crosslinks:
-- autotldr
----

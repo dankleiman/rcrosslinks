@@ -3,7 +3,6 @@ title: homeautomation
 crosslinks:
 - homeassistant
 - amazonecho
-- autotldr
 - xkcd
 - SmartThings
 - googlehome
@@ -19,6 +18,5 @@ crosslinks:
 - smarthome
 - esp8266
 - lawncare
-- livven
 - electricians
 ---

@@ -1,7 +1,6 @@
 ---
 title: gaybrosgonemild
 crosslinks:
-- livven
 - gaymers
 - Christianity
 - me_irl

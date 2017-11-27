@@ -1,7 +1,6 @@
 ---
 title: golf
 crosslinks:
-- livven
 - golfclassifieds
 - PuttStreams
 - wheretoplaygolf

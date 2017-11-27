@@ -1,7 +1,6 @@
 ---
 title: Toonami
 crosslinks:
-- autotldr
 - TokyoGhoul
 - anime_irl
 - stevenuniverse

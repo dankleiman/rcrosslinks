@@ -2,8 +2,6 @@
 title: QualitySocialism
 crosslinks:
 - socialism
-- autotldr
-- livven
 - LateStageCapitalism
 - Anarcho_Capitalism
 - worldnews

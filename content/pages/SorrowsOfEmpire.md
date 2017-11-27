@@ -1,5 +1,0 @@
----
-title: SorrowsOfEmpire
-crosslinks:
-- autotldr
----

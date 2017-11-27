@@ -1,5 +1,0 @@
----
-title: incomeinequality
-crosslinks:
-- autotldr
----

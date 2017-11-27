@@ -8,7 +8,6 @@ crosslinks:
 - highqualitygifs
 - orioles
 - dfsports
-- livven
 - redsox
 - NYYankees
 - JustinUptonSucks

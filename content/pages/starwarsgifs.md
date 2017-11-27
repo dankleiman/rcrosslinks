@@ -1,7 +1,6 @@
 ---
 title: starwarsgifs
 crosslinks:
-- livven
 - StarWars
 - PrequelMemes
 - HighQualityGifs

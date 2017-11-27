@@ -1,7 +1,6 @@
 ---
 title: Detroit
 crosslinks:
-- autotldr
 - news
 - Michigan
 - Pictures

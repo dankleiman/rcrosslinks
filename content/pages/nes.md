@@ -11,7 +11,6 @@ crosslinks:
 - crtgaming
 - Mario
 - RetroPie
-- livven
 - SummerReddit
 - speedrun
 - minines

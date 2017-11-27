@@ -1,14 +1,12 @@
 ---
 title: orlando
 crosslinks:
-- autotldr
 - TropicalWeather
 - ucf
 - playrust
 - florida
 - funny
 - explainlikeimfive
-- livven
 - Atlanta
 - InternetIsBeautiful
 - EnoughTrumpSpam

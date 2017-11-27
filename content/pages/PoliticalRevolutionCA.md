@@ -1,7 +1,6 @@
 ---
 title: PoliticalRevolutionCA
 crosslinks:
-- autotldr
 - JessicaSalans
 - SandersForPresident
 - LosAngeles

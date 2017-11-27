@@ -1,7 +1,6 @@
 ---
 title: lebowski
 crosslinks:
-- livven
 - Serendipity
 - MapPorn
 - golf

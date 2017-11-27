@@ -1,5 +1,0 @@
----
-title: IraqiInsurgency
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: MensRights
 crosslinks:
-- autotldr
 - Feminism
 - mensrightslinks
 - AskFeminists

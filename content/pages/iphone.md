@@ -15,7 +15,6 @@ crosslinks:
 - AndroidMasterRace
 - iphonehelp
 - Sprint
-- livven
 - funny
 - sideloaded
 - The_Donald

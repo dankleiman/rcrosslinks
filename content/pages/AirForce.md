@@ -1,8 +1,6 @@
 ---
 title: AirForce
 crosslinks:
-- livven
-- autotldr
 - Military
 - RateMyAFB
 - army

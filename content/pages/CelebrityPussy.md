@@ -1,7 +1,6 @@
 ---
 title: CelebrityPussy
 crosslinks:
-- livven
 - ItalianBoners
 - WatchItForThePlot
 - OutOfTheLoop

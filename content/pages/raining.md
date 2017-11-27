@@ -1,7 +1,6 @@
 ---
 title: raining
 crosslinks:
-- livven
 - CozyPlaces
 - pics
 - Cinemagraphs

@@ -1,7 +1,6 @@
 ---
 title: MagikarpJump
 crosslinks:
-- livven
 - pokemonmagikarpjump
 - xkcd
 - pokemon

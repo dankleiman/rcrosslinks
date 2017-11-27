@@ -2,7 +2,6 @@
 title: bloomington
 crosslinks:
 - TrueTrueReddit
-- autotldr
 - IndianaUniversity
 - BtownExchange
 - gifs

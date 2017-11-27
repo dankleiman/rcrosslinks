@@ -2,7 +2,6 @@
 title: predaddit
 crosslinks:
 - daddit
-- livven
 - namenerds
 - Fitness
 - CautiousBB

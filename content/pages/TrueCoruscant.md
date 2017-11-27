@@ -1,5 +1,0 @@
----
-title: TrueCoruscant
-crosslinks:
-- autotldr
----

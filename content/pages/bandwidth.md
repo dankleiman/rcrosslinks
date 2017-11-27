@@ -1,5 +1,0 @@
----
-title: bandwidth
-crosslinks:
-- autotldr
----

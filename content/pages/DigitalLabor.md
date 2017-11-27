@@ -1,5 +1,0 @@
----
-title: DigitalLabor
-crosslinks:
-- autotldr
----

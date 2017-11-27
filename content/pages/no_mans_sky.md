@@ -8,7 +8,6 @@ crosslinks:
 - NMSPortals
 - UnitedEuclidEmpireNMS
 - DualUniverse
-- livven
 - proceduralgeneration
 - gaming
 - NoMansSkyTheGame

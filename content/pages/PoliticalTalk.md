@@ -1,5 +1,0 @@
----
-title: PoliticalTalk
-crosslinks:
-- autotldr
----

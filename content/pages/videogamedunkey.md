@@ -2,7 +2,6 @@
 title: videogamedunkey
 crosslinks:
 - JonTron
-- livven
 - pcgaming
 - DeepFriedMemes
 - me_irl

@@ -1,5 +1,0 @@
----
-title: PrivacyBay
-crosslinks:
-- autotldr
----

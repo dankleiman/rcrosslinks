@@ -9,7 +9,6 @@ crosslinks:
 - Sissymakergame
 - AndroidNSFWgaming
 - NSFWGames
-- livven
 - Futanari_Games
 - adultgamedev
 - futanari

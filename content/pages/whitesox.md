@@ -12,7 +12,6 @@ crosslinks:
 - MLBStreams
 - CatsOnPizza
 - sportsreference
-- livven
 - WahoosTipi
 - copypasta
 - Dodgers

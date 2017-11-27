@@ -5,7 +5,6 @@ crosslinks:
 - AskHistorians
 - videos
 - mealtimevideos
-- autotldr
 - datasets
 - NameThatSong
 - flying

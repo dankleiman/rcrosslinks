@@ -1,5 +1,0 @@
----
-title: donaldtrump
-crosslinks:
-- autotldr
----

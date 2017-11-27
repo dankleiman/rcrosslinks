@@ -1,5 +1,0 @@
----
-title: ESFJ
-crosslinks:
-- livven
----

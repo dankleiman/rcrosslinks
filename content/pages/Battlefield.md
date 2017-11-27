@@ -1,14 +1,12 @@
 ---
 title: Battlefield
 crosslinks:
-- livven
 - gaming
 - pcmasterrace
 - AskReddit
 - xkcd
 - fakehistoryporn
 - MilitaryPorn
-- autotldr
 - nocontext
 - todayilearned
 - GamersBeingBros

@@ -1,5 +1,0 @@
----
-title: ganguro
-crosslinks:
-- livven
----

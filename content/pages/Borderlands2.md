@@ -3,7 +3,6 @@ title: Borderlands2
 crosslinks:
 - Borderlands
 - PandoranRedCross
-- livven
 - BorderlandsPreSequel
 - pcmasterrace
 - coopplay

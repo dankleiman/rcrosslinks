@@ -1,7 +1,6 @@
 ---
 title: PrettyGirlsUglyFaces
 crosslinks:
-- livven
 - handsomeguysuglyfaces
 - lonely
 - MaliciousCompliance

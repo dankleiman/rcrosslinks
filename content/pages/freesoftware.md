@@ -1,7 +1,6 @@
 ---
 title: freesoftware
 crosslinks:
-- autotldr
 - VFIO
 - changelog
 - linux

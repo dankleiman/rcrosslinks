@@ -4,7 +4,6 @@ crosslinks:
 - linux
 - unixporn
 - linuxquestions
-- autotldr
 - gnome
 - Yunit
 - xkcd

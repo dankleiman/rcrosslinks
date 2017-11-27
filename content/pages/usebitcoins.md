@@ -1,5 +1,0 @@
----
-title: usebitcoins
-crosslinks:
-- autotldr
----

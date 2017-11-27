@@ -1,5 +1,0 @@
----
-title: Georgegifs
-crosslinks:
-- livven
----

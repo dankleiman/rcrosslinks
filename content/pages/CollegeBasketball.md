@@ -2,9 +2,7 @@
 title: CollegeBasketball
 crosslinks:
 - CFB
-- livven
 - ncaaBBallStreams
-- autotldr
 - sports
 - BracketChallenge
 - NCAAW

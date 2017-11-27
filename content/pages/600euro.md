@@ -4,7 +4,6 @@ crosslinks:
 - Kopiernudeln
 - de
 - ausderschleife
-- autotldr
 - ScheisseDieRedditSagt
 - xkcd
 - DMT

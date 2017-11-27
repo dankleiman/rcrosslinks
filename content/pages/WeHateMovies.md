@@ -1,5 +1,0 @@
----
-title: WeHateMovies
-crosslinks:
-- autotldr
----

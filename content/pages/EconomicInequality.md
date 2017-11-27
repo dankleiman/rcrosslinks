@@ -1,5 +1,0 @@
----
-title: EconomicInequality
-crosslinks:
-- autotldr
----

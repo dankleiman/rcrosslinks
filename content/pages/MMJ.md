@@ -1,7 +1,6 @@
 ---
 title: MMJ
 crosslinks:
-- autotldr
 - CBD
 - vaporents
 - CanadianMOMs

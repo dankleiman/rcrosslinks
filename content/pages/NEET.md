@@ -4,7 +4,6 @@ crosslinks:
 - AskReddit
 - Fraudnet2
 - NEETByChoice
-- autotldr
 - LateStageCapitalism
 - freelanceWriters
 - ShrugLifeSyndicate

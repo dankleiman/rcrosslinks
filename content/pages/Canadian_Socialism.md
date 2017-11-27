@@ -2,7 +2,6 @@
 title: Canadian_Socialism
 crosslinks:
 - LeftCentral
-- autotldr
 - ModelOntario
 - SandersForPresident
 - CollectiveEducation

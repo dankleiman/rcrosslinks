@@ -3,7 +3,6 @@ title: animalssmiling
 crosslinks:
 - pics
 - aww
-- livven
 - titlegore
 - AnimalsBeingBros
 - OldManDog

@@ -1,5 +1,0 @@
----
-title: scientists
-crosslinks:
-- autotldr
----

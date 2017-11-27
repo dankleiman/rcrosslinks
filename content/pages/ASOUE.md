@@ -1,7 +1,6 @@
 ---
 title: ASOUE
 crosslinks:
-- livven
 - AskReddit
 - vfd
 - television
@@ -18,5 +17,4 @@ crosslinks:
 - defenders
 - explainlikeimfive
 - lost
-- autotldr
 ---

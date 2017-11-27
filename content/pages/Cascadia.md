@@ -1,7 +1,6 @@
 ---
 title: Cascadia
 crosslinks:
-- autotldr
 - FreeCascadia
 - Seattle
 - SeattleWA

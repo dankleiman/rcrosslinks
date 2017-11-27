@@ -1,5 +1,0 @@
----
-title: politicalnyc
-crosslinks:
-- autotldr
----

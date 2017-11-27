@@ -1,7 +1,6 @@
 ---
 title: hitboxgore
 crosslinks:
-- livven
 - GamePhysics
 - RocketLeague
 - tf2

@@ -1,8 +1,6 @@
 ---
 title: drugmemes
 crosslinks:
-- livven
-- autotldr
 - DrugNerds
 - pics
 - LSD

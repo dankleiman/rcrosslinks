@@ -1,9 +1,7 @@
 ---
 title: batman
 crosslinks:
-- autotldr
 - lego
-- livven
 - DCcomics
 - movies
 - DC_Cinematic

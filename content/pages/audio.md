@@ -11,7 +11,6 @@ crosslinks:
 - Twitch
 - livesound
 - hometheater
-- autotldr
 - AverageJoeAudiophile
 - playstation
 - Zeos

@@ -5,7 +5,6 @@ crosslinks:
 - IndieGaming
 - KoreanAdvice
 - GameDeals
-- livven
 - gatekeeping
 - gifsthatendtoosoon
 - pcgaming

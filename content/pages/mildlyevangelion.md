@@ -8,7 +8,6 @@ crosslinks:
 - AccidentalRenaissance
 - pics
 - Damnthatsinteresting
-- livven
 - TsundereSharks
 - CrappyDesign
 ---

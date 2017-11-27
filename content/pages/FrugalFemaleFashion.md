@@ -7,6 +7,5 @@ crosslinks:
 - frugalmalefashion
 - Indiemakeupandmore
 - ModSupport
-- livven
 - xxfitness
 ---

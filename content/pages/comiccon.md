@@ -3,7 +3,6 @@ title: comiccon
 crosslinks:
 - cosplay
 - replicaprops
-- autotldr
 - funkopop
 - software
 - sandiego

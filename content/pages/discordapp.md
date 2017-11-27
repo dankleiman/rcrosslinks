@@ -2,7 +2,6 @@
 title: discordapp
 crosslinks:
 - xkcd
-- livven
 - me_irl
 - linuxmasterrace
 - linux

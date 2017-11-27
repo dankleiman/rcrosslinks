@@ -1,7 +1,6 @@
 ---
 title: absolutelynotmeirl
 crosslinks:
-- livven
 - AskReddit
 - meirl
 - coaxedintoasnafu

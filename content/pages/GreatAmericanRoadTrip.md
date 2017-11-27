@@ -1,5 +1,0 @@
----
-title: GreatAmericanRoadTrip
-crosslinks:
-- autotldr
----

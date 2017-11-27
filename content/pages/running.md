@@ -7,7 +7,6 @@ crosslinks:
 - BarefootRunning
 - Fitness
 - trailrunning
-- autotldr
 - travelingsinglet
 - c25k
 - amileaday

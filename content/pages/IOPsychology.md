@@ -4,5 +4,4 @@ crosslinks:
 - statistics
 - rstats
 - Serendipity
-- autotldr
 ---

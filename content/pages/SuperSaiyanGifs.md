@@ -1,7 +1,6 @@
 ---
 title: SuperSaiyanGifs
 crosslinks:
-- livven
 - HighQualityGifs
 - HQGStudios
 - gifs

@@ -1,7 +1,6 @@
 ---
 title: socialism
 crosslinks:
-- autotldr
 - communism
 - LateStageCapitalism
 - Anarchism

@@ -1,7 +1,6 @@
 ---
 title: Dogberg
 crosslinks:
-- livven
 - BetterEveryLoop
 - AnimalsBeingDerps
 - youseeingthisshit

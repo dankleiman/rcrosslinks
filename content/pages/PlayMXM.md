@@ -4,7 +4,6 @@ crosslinks:
 - Guildwars2
 - modnews
 - elderscrollslegends
-- livven
 - wow
 - heroesofthestorm
 - DotA2

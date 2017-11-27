@@ -1,7 +1,6 @@
 ---
 title: timelapse
 crosslinks:
-- livven
 - anime
 - place
 - AlienBlue

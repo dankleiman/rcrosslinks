@@ -1,5 +1,0 @@
----
-title: Smartycats
-crosslinks:
-- livven
----

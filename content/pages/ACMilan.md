@@ -12,7 +12,6 @@ crosslinks:
 - OutOfTheLoop
 - AccidentalRenaissance
 - thesimpsons
-- livven
 - Gunners
 - italy
 - highqualitygifs

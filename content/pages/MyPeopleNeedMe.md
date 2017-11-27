@@ -1,7 +1,6 @@
 ---
 title: MyPeopleNeedMe
 crosslinks:
-- livven
 - GamePhysics
 - funny
 - gaming

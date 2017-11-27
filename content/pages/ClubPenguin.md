@@ -3,7 +3,6 @@ title: ClubPenguin
 crosslinks:
 - placestart
 - catalunya
-- livven
 - REEEEEE
 - FanFiction
 - DestinyTheGame
@@ -18,5 +17,4 @@ crosslinks:
 - wallpapers
 - theydidthefuckyou
 - factorio
-- autotldr
 ---

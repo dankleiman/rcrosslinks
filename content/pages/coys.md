@@ -5,7 +5,6 @@ crosslinks:
 - reddevils
 - soccerstreams
 - CoysCirclejerk
-- livven
 - chelseafc
 - FantasyPL
 - london

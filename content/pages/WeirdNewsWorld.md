@@ -1,5 +1,0 @@
----
-title: WeirdNewsWorld
-crosslinks:
-- autotldr
----

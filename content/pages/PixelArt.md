@@ -1,7 +1,6 @@
 ---
 title: PixelArt
 crosslinks:
-- livven
 - PixelArtWallpapers
 - redditgetsdrawn
 - UnworthyTheGame

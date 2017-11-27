@@ -2,7 +2,6 @@
 title: trucksim
 crosslinks:
 - ClassicCore
-- livven
 - Roadcam
 - oculus
 - CitiesSkylines

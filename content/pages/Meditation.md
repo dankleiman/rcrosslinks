@@ -10,7 +10,6 @@ crosslinks:
 - NaturalHigh
 - nondirective
 - zen
-- autotldr
 - kundalini
 - AstralProjection
 - Stoicism

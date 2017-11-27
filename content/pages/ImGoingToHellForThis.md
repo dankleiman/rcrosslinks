@@ -1,7 +1,6 @@
 ---
 title: ImGoingToHellForThis
 crosslinks:
-- livven
 - jesuschristreddit
 - Drama
 - ShitAmericansSay

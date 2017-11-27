@@ -2,9 +2,7 @@
 title: The_Mueller
 crosslinks:
 - politics
-- livven
 - The_Donald
-- autotldr
 - PhotoshopRequest
 - theNew_Donald
 - PoliticalHumor

@@ -3,10 +3,8 @@ title: UFOs
 crosslinks:
 - conspiracy
 - UAP
-- autotldr
 - aliens
 - Humanoidencounters
-- livven
 - news
 - IAmA
 - LosAngeles

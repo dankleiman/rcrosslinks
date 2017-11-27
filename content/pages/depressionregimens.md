@@ -7,7 +7,6 @@ crosslinks:
 - afinil
 - nootropics
 - DecidingToBeBetter
-- autotldr
 - ADHD
 - CPTSD
 - askpsychology

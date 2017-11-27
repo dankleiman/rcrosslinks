@@ -2,7 +2,6 @@
 title: InternetIsBeautiful
 crosslinks:
 - xkcd
-- autotldr
 - OutOfTheLoop
 - AskReddit
 - Fitness

@@ -1,7 +1,6 @@
 ---
 title: BlackPeopleTwitter
 crosslinks:
-- livven
 - AskReddit
 - xkcd
 - OutOfTheLoop

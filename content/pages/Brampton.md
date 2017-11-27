@@ -2,7 +2,6 @@
 title: Brampton
 crosslinks:
 - mississauga
-- livven
 - toronto
 - modnews
 - metacanada
@@ -16,7 +15,6 @@ crosslinks:
 - caledon
 - canada
 - ABCDesis
-- autotldr
 - IAmA
 - WWEstreams
 - SkylerTravels

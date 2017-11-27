@@ -1,7 +1,6 @@
 ---
 title: Snek
 crosslinks:
-- livven
 - place
 - Sneks
 - unexpectedoverwatch

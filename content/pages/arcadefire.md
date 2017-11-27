@@ -3,7 +3,6 @@ title: arcadefire
 crosslinks:
 - leakthreads
 - indieheads
-- livven
 - radiohead
 - ActLikeYouBelong
 - pics

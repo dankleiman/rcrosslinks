@@ -16,7 +16,6 @@ crosslinks:
 - TransDIY
 - transtimelines
 - ask_transgender
-- livven
 - transgendercirclejerk
 - cisparenttranskid
 - Challenger

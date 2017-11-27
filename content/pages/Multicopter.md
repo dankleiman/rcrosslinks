@@ -1,12 +1,10 @@
 ---
 title: Multicopter
 crosslinks:
-- livven
 - fpv
 - drones
 - TinyWhoop
 - 3Dprinting
-- autotldr
 - radiocontrol
 - RCClassifieds
 - xkcd

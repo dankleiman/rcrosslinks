@@ -2,7 +2,6 @@
 title: myfavoritemurder
 crosslinks:
 - UnresolvedMysteries
-- autotldr
 - trashy
 - CaseyAnthony
 - CrossStitch
@@ -10,5 +9,4 @@ crosslinks:
 - nosleep
 - UnsolvedMysteries
 - FeralAudio
-- livven
 ---

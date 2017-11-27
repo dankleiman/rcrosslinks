@@ -3,7 +3,6 @@ title: OTMemes
 crosslinks:
 - PrequelMemes
 - SequelMemes
-- livven
 - equelMemes
 - anthologymemes
 - The_Donald

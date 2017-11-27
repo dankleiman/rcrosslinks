@@ -4,7 +4,6 @@ crosslinks:
 - NerfExchange
 - HPAnerf
 - Deploy
-- livven
 - nerfdrama
 - xkcd
 - me_irl

@@ -4,7 +4,6 @@ crosslinks:
 - hapas
 - asiantwoX
 - aznidentity
-- autotldr
 - AsianMansBurden
 - AsianMasculinity
 - Fragility

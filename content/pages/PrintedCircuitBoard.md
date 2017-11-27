@@ -5,7 +5,6 @@ crosslinks:
 - AskElectronics
 - ECE
 - functionalprint
-- livven
 - diyelectronics
 - IAmA
 - VXJunkies

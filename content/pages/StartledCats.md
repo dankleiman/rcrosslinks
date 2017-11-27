@@ -1,7 +1,6 @@
 ---
 title: StartledCats
 crosslinks:
-- livven
 - thecatdimension
 - aww
 - MildlyStartledCats

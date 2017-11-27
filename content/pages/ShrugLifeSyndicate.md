@@ -16,7 +16,6 @@ crosslinks:
 - LSD
 - ShrugLyfeSyndicate
 - zen
-- autotldr
 - ImagesOfThe1950s
 - ChildrenOfTheLight
 - MonaLeslie

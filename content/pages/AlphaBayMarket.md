@@ -15,7 +15,6 @@ crosslinks:
 - OpenBazaarFraudStores
 - opiates
 - Futurology
-- autotldr
 - k1vztg
 - danknation
 - op5uet

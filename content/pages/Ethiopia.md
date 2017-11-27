@@ -6,6 +6,5 @@ crosslinks:
 - AMAAggregator
 - history
 - Somalia
-- autotldr
 - amharic
 ---

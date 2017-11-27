@@ -3,7 +3,6 @@ title: rva
 crosslinks:
 - RVAGameNight
 - VirginiaPolitics
-- autotldr
 - videos
 - pics
 - AskReddit

@@ -1,5 +1,0 @@
----
-title: starstruckstars
-crosslinks:
-- livven
----

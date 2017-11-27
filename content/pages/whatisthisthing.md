@@ -15,7 +15,6 @@ crosslinks:
 - tipofmytongue
 - mycology
 - legaladvice
-- translatorBOT
 - marijuanaenthusiasts
 - swords
 - HelpMeFind

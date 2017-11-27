@@ -2,7 +2,6 @@
 title: TheCatTrapIsWorking
 crosslinks:
 - Thisismylifemeow
-- livven
 - CatCircles
 - cats
 - MEOW_IRL

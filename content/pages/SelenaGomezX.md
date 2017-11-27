@@ -1,5 +1,0 @@
----
-title: SelenaGomezX
-crosslinks:
-- livven
----

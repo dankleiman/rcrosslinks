@@ -1,5 +1,0 @@
----
-title: goku
-crosslinks:
-- livven
----

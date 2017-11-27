@@ -5,5 +5,4 @@ crosslinks:
 - vinyl
 - PreWarBlues
 - Jazz
-- autotldr
 ---

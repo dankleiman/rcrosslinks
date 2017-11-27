@@ -4,7 +4,6 @@ crosslinks:
 - xkcd
 - rstats
 - datascience
-- autotldr
 - science
 - AskStatistics
 - actuary

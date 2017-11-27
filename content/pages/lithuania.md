@@ -1,7 +1,6 @@
 ---
 title: lithuania
 crosslinks:
-- autotldr
 - latvia
 - europe
 - papertowns

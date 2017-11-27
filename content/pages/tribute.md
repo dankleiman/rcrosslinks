@@ -1,5 +1,0 @@
----
-title: tribute
-crosslinks:
-- livven
----

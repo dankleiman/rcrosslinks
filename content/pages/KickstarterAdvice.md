@@ -1,5 +1,0 @@
----
-title: KickstarterAdvice
-crosslinks:
-- livven
----

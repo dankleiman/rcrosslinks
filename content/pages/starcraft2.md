@@ -4,7 +4,6 @@ crosslinks:
 - starcraft
 - AllThingsTerran
 - StarcraftCirclejerk
-- autotldr
 - allthingsprotoss
 - GosuMicro
 - allthingszerg

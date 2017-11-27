@@ -2,7 +2,6 @@
 title: characterdrawing
 crosslinks:
 - DnD
-- livven
 - ArtFundamentals
 - UnearthedArcana
 - DrawForMe

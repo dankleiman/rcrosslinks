@@ -4,7 +4,6 @@ crosslinks:
 - zeronet
 - GoldandBlack
 - Physical_Removal
-- autotldr
 - Anarchism
 - shitancapssay
 - Shitstatistssay
@@ -19,6 +18,5 @@ crosslinks:
 - communism
 - socialism
 - Bitcoin
-- livven
 - AnCapCopyPasta
 ---

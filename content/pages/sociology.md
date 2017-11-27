@@ -1,7 +1,6 @@
 ---
 title: sociology
 crosslinks:
-- autotldr
 - hapas
 - Economics
 - television

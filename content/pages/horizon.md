@@ -3,7 +3,6 @@ title: horizon
 crosslinks:
 - PS4
 - Gamingcirclejerk
-- livven
 - gaming
 - HorizonScreenshots
 - witcher

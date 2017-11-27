@@ -1,5 +1,0 @@
----
-title: DarkUniverse
-crosslinks:
-- autotldr
----

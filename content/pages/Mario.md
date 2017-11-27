@@ -1,7 +1,6 @@
 ---
 title: Mario
 crosslinks:
-- livven
 - gaming
 - nintendo
 - casualnintendo

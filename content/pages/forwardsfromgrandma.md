@@ -14,7 +14,6 @@ crosslinks:
 - Anarcho_Capitalism
 - ImGoingToHellForThis
 - science
-- livven
 - wholesomememes
 - CrappyDesign
 - news

@@ -4,6 +4,5 @@ crosslinks:
 - newsokur
 - highlevelkarma
 - newsg
-- autotldr
 - orovilledam
 ---

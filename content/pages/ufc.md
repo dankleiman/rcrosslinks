@@ -7,7 +7,6 @@ crosslinks:
 - UFC213wr
 - Boxing
 - AskReddit
-- autotldr
 - Serendipity
 - funny
 - ufc211miocicdos

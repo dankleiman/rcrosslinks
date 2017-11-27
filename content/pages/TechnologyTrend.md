@@ -1,5 +1,0 @@
----
-title: TechnologyTrend
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: blinkenlights
-crosslinks:
-- livven
----

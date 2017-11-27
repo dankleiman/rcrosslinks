@@ -1,7 +1,6 @@
 ---
 title: subnautica
 crosslinks:
-- livven
 - xkcd
 - pcmasterrace
 - SwedenOnPlace

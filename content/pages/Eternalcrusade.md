@@ -6,7 +6,6 @@ crosslinks:
 - ImaginaryWarhammer
 - xkcd
 - Warhammer
-- livven
 - deathwing
 - Overwatch
 - dotamasterrace

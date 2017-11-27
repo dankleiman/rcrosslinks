@@ -1,7 +1,6 @@
 ---
 title: pitbulls
 crosslinks:
-- livven
 - aww
 - sploot
 - Dogtraining

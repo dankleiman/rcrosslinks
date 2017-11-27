@@ -1,7 +1,6 @@
 ---
 title: eurovision
 crosslinks:
-- livven
 - esctournament
 - italy
 - worldnews

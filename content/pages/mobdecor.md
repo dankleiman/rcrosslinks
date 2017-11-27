@@ -1,5 +1,0 @@
----
-title: mobdecor
-crosslinks:
-- autotldr
----

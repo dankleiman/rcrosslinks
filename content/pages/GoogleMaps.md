@@ -3,7 +3,6 @@ title: GoogleMaps
 crosslinks:
 - MapPorn
 - japancirclejerk
-- autotldr
 - TheWire
 - iphone
 - TheSilphRoad
@@ -12,7 +11,6 @@ crosslinks:
 - CrusaderKings
 - london
 - pics
-- livven
 - GoogleEarthPictures
 - renderings
 ---

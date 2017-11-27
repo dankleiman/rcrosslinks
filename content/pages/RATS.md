@@ -1,9 +1,7 @@
 ---
 title: RATS
 crosslinks:
-- livven
 - REEEEEEEEEE
-- autotldr
 - me_irl
 - crochet
 - PetMice

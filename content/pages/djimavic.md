@@ -3,7 +3,6 @@ title: djimavic
 crosslinks:
 - dji
 - djiphantom
-- livven
 - AskReddit
 - VideoEditing
 - drones

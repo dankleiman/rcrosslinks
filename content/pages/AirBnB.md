@@ -2,7 +2,6 @@
 title: AirBnB
 crosslinks:
 - AskReddit
-- autotldr
 - Scams
 - legaladvice
 - churning

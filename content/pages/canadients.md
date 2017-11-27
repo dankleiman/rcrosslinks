@@ -10,7 +10,6 @@ crosslinks:
 - weedstocks
 - trees
 - canada
-- autotldr
 - cloneshare
 - chinaglass
 - EntExchange

@@ -1,5 +1,0 @@
----
-title: tomshardware
-crosslinks:
-- autotldr
----

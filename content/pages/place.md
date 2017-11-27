@@ -1,7 +1,6 @@
 ---
 title: place
 crosslinks:
-- livven
 - thefinalclean
 - osugame
 - GreenLattice

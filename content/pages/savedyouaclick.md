@@ -1,7 +1,6 @@
 ---
 title: savedyouaclick
 crosslinks:
-- autotldr
 - xkcd
 - todayilearned
 - IAmA

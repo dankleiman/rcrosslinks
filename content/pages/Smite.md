@@ -1,7 +1,6 @@
 ---
 title: Smite
 crosslinks:
-- livven
 - SmiteLFM
 - DrYoshiyahu
 - gank

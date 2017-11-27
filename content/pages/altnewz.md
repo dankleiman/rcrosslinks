@@ -1,7 +1,6 @@
 ---
 title: altnewz
 crosslinks:
-- autotldr
 - TopMindsOfReddit
 - justicedemocrats
 - geopolitics

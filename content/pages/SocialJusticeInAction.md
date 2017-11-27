@@ -1,7 +1,6 @@
 ---
 title: SocialJusticeInAction
 crosslinks:
-- autotldr
 - worldnews
 - Drama
 - GamerGhazi
@@ -15,7 +14,6 @@ crosslinks:
 - evergreen
 - SargonofAkkad
 - KotakuInAction
-- livven
 - ShitEvilModsSay
 - atheism
 - firstworldanarchists

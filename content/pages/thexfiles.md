@@ -1,5 +1,0 @@
----
-title: thexfiles
-crosslinks:
-- autotldr
----

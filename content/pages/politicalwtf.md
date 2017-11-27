@@ -1,5 +1,0 @@
----
-title: politicalwtf
-crosslinks:
-- autotldr
----

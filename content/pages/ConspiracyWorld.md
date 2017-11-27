@@ -1,5 +1,0 @@
----
-title: ConspiracyWorld
-crosslinks:
-- autotldr
----

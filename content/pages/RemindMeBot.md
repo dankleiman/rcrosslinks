@@ -4,7 +4,6 @@ crosslinks:
 - AskReddit
 - GifRecipes
 - pushshift
-- autotldr
 - wholesomememes
 - Games
 - heroesofthestorm

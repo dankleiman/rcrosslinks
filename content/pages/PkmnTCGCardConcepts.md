@@ -1,5 +1,0 @@
----
-title: PkmnTCGCardConcepts
-crosslinks:
-- livven
----

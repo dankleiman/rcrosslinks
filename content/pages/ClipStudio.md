@@ -1,5 +1,0 @@
----
-title: ClipStudio
-crosslinks:
-- livven
----

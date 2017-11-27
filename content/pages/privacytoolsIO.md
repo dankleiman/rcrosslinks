@@ -2,7 +2,6 @@
 title: privacytoolsIO
 crosslinks:
 - privacy
-- autotldr
 - emailprivacy
 - Monero
 - ProtonMail

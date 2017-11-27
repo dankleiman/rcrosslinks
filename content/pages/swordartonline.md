@@ -11,7 +11,6 @@ crosslinks:
 - OneTrueKlein
 - MixedRealityAnime
 - LaughingCoffinBase
-- livven
 - Philippines
 - TrueAnime
 - gayforkirito

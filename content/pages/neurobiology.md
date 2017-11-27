@@ -1,5 +1,0 @@
----
-title: neurobiology
-crosslinks:
-- autotldr
----

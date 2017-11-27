@@ -1,7 +1,6 @@
 ---
 title: Ohio
 crosslinks:
-- autotldr
 - ConstanceGadellNewton
 - dayton
 - The_Donald

@@ -1,9 +1,7 @@
 ---
 title: toosoon
 crosslinks:
-- autotldr
 - The_Donald
-- livven
 - toolate
 - pics
 - EnoughTrumpSpam

@@ -1,7 +1,6 @@
 ---
 title: ToyotaTacoma
 crosslinks:
-- livven
 - OCoffRoad
 - overlanding
 - camping

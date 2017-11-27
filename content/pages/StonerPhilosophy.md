@@ -2,7 +2,6 @@
 title: StonerPhilosophy
 crosslinks:
 - ShrugLifeSyndicate
-- autotldr
 - HarmReductionExperts
 - askpsychology
 - Polycentric_Law

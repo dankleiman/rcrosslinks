@@ -4,7 +4,6 @@ crosslinks:
 - JacquelineDevries
 - gonewildcouples
 - DrawMeNSFW
-- livven
 - JCDrawsStuff
 - gonewildcurvy
 - LatinasGW

@@ -1,7 +1,6 @@
 ---
 title: USUnited
 crosslinks:
-- autotldr
 - WayOfTheBern
 - news
 - enviroaction

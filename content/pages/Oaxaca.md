@@ -1,5 +1,0 @@
----
-title: Oaxaca
-crosslinks:
-- autotldr
----

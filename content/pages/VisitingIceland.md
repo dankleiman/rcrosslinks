@@ -10,5 +10,4 @@ crosslinks:
 - causeWhyNotMate
 - Suomi
 - learnicelandic
-- autotldr
 ---

@@ -1,8 +1,6 @@
 ---
 title: mistyfront
 crosslinks:
-- livven
-- autotldr
 - greece
 - motorcycles
 - Hair

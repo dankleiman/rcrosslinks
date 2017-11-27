@@ -5,7 +5,6 @@ crosslinks:
 - vexillology
 - HelloInternet
 - forsen
-- livven
 - ChargeYourPhone
 - Cosmic_Corner
 - EarthInPlace

@@ -6,7 +6,6 @@ crosslinks:
 - DeepFriedMemes
 - noshitouija
 - SUBREDDITNAME
-- livven
 - 2meirl4meirl
 - OnlyWholesomeMemes
 - wholesomememes

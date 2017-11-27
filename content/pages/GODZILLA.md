@@ -1,8 +1,6 @@
 ---
 title: GODZILLA
 crosslinks:
-- livven
-- autotldr
 - Monsterverse
 - whowouldwin
 - modnews

@@ -1,7 +1,6 @@
 ---
 title: aSongOfMemesAndRage
 crosslinks:
-- livven
 - freefolk
 - gameofthrones
 - gotgifs

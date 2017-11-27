@@ -1,7 +1,6 @@
 ---
 title: UnknownTradeCo
 crosslinks:
-- livven
 - fnv
 - NationalSocialism
 - Minecraft

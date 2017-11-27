@@ -1,5 +1,0 @@
----
-title: USDA
-crosslinks:
-- autotldr
----

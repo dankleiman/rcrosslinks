@@ -1,5 +1,0 @@
----
-title: VegasPG
-crosslinks:
-- livven
----

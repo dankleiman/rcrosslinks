@@ -2,7 +2,6 @@
 title: medical
 crosslinks:
 - Dermatology
-- autotldr
 - AskDocs
 - DiagnoseMe
 - medicine

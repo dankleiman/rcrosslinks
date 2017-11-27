@@ -2,7 +2,6 @@
 title: Fuckthealtright
 crosslinks:
 - The_Donald
-- autotldr
 - politics
 - EnoughTrumpSpam
 - altright
@@ -17,7 +16,6 @@ crosslinks:
 - SocialistRA
 - news
 - onguardforthee
-- livven
 - Drama
 - AsABlackMan
 - CringeAnarchy

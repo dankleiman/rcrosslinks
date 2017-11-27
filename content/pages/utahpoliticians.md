@@ -1,5 +1,0 @@
----
-title: utahpoliticians
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: HeavySeas
 crosslinks:
 - WarshipPorn
-- livven
 - pics
 - gifs
 - IrelandonReddit

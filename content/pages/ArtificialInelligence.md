@@ -1,5 +1,0 @@
----
-title: ArtificialInelligence
-crosslinks:
-- autotldr
----

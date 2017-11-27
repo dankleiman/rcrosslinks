@@ -11,7 +11,6 @@ crosslinks:
 - funny
 - The_Donald
 - TheWayWeWere
-- livven
 - AskHistorians
 - xkcd
 - AgainstKarmaWhores

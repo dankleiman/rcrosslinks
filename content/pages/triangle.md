@@ -6,7 +6,6 @@ crosslinks:
 - NorthCarolina
 - ClaytonNC
 - trianglefood
-- autotldr
 - childfree
 - metric_units
 - gifs

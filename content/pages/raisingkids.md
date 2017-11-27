@@ -1,7 +1,6 @@
 ---
 title: raisingkids
 crosslinks:
-- autotldr
 - Serendipity
 - casualiama
 - Health

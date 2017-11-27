@@ -1,7 +1,6 @@
 ---
 title: theydidthemath
 crosslinks:
-- livven
 - xkcd
 - theydidntdothemath
 - askscience

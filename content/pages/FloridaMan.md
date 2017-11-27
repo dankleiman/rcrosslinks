@@ -1,7 +1,6 @@
 ---
 title: FloridaMan
 crosslinks:
-- autotldr
 - EnoughTrumpSpam
 - The_Donald
 - wholesomefloridaman

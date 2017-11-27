@@ -2,7 +2,6 @@
 title: buffalobills
 crosslinks:
 - nfl
-- livven
 - The_Cardale
 - panthers
 - 716Place

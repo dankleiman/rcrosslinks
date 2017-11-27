@@ -1,7 +1,6 @@
 ---
 title: politics
 crosslinks:
-- autotldr
 - EnoughTrumpSpam
 - worldnews
 - news

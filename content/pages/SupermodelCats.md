@@ -4,7 +4,6 @@ crosslinks:
 - cats
 - Floof
 - Catloaf
-- livven
 - curledfeetsies
 - CatsInSinks
 - grumpycats

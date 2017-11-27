@@ -1,7 +1,6 @@
 ---
 title: AmericanPolitics
 crosslinks:
-- autotldr
 - politics
 - POLITIC
 - news

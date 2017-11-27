@@ -8,7 +8,6 @@ crosslinks:
 - sideloaded
 - apple
 - iphone
-- livven
 - ios
 - xkcd
 - 3dshacks

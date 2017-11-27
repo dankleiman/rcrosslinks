@@ -5,7 +5,6 @@ crosslinks:
 - MMA
 - nutrition
 - fitness
-- livven
 - me_irl
 - GetMotivated
 - NoNewsMMA

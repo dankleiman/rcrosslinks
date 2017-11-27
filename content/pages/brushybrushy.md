@@ -1,7 +1,6 @@
 ---
 title: brushybrushy
 crosslinks:
-- livven
 - gifs
 - tippr
 - aww

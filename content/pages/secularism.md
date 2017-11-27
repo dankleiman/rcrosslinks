@@ -1,5 +1,0 @@
----
-title: secularism
-crosslinks:
-- autotldr
----

@@ -9,7 +9,6 @@ crosslinks:
 - puffynipples
 - theratio
 - nakedladies
-- livven
 - LaineyLove
 - slightcellulite
 - feet

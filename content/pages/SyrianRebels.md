@@ -1,7 +1,6 @@
 ---
 title: SyrianRebels
 crosslinks:
-- autotldr
 - syriancivilwar
 - SyrianCirclejerkWar
 - pa

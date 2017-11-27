@@ -1,5 +1,0 @@
----
-title: TrumpGifs
-crosslinks:
-- livven
----

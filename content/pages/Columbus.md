@@ -1,7 +1,6 @@
 ---
 title: Columbus
 crosslinks:
-- autotldr
 - exmuslim
 - IAmA
 - BlueJackets

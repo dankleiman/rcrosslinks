@@ -1,5 +1,0 @@
----
-title: NaughtySelfie
-crosslinks:
-- livven
----

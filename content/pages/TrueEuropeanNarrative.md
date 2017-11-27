@@ -1,5 +1,0 @@
----
-title: TrueEuropeanNarrative
-crosslinks:
-- autotldr
----

@@ -4,7 +4,6 @@ crosslinks:
 - fairy_tail
 - manga
 - anime
-- livven
 - CharacterRant
 - eye
 - HighschoolDxD

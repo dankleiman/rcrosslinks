@@ -1,5 +1,0 @@
----
-title: Kotori
-crosslinks:
-- livven
----

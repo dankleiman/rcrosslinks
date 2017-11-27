@@ -6,7 +6,6 @@ crosslinks:
 - metalgearsolid
 - MGSVIDeathStranding
 - movies
-- autotldr
 - Gamingcirclejerk
 - gaming
 - ShittyDeathStranding

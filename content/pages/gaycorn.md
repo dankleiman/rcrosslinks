@@ -1,5 +1,0 @@
----
-title: gaycorn
-crosslinks:
-- livven
----

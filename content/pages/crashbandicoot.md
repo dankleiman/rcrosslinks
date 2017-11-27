@@ -1,7 +1,6 @@
 ---
 title: crashbandicoot
 crosslinks:
-- livven
 - IAmA
 - PS4
 - JonTron

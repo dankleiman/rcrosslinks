@@ -4,7 +4,6 @@ crosslinks:
 - comics
 - sadcomics
 - ComedyCemetery
-- livven
 - omaketheater
 - xkcd
 - 4amShower

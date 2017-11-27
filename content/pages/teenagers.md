@@ -1,7 +1,6 @@
 ---
 title: teenagers
 crosslinks:
-- livven
 - AskReddit
 - Pay_Respects
 - user_stats

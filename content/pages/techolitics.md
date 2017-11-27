@@ -1,5 +1,0 @@
----
-title: techolitics
-crosslinks:
-- autotldr
----

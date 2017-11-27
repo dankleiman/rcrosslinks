@@ -1,7 +1,6 @@
 ---
 title: JerkOffToCelebs
 crosslinks:
-- livven
 - DemiLovato
 - TaylorSwiftsLegs
 - Morphs

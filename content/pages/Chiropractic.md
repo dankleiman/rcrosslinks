@@ -1,7 +1,6 @@
 ---
 title: Chiropractic
 crosslinks:
-- autotldr
 - askscience
 - IAmA
 - WTF

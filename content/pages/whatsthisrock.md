@@ -13,7 +13,6 @@ crosslinks:
 - Minerals
 - Archeology
 - 90sdesign
-- livven
 - itsslag
 - spam
 - Lapidary

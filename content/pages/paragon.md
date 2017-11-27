@@ -1,7 +1,6 @@
 ---
 title: paragon
 crosslinks:
-- livven
 - ParagonLFG
 - TheSacredOrder
 - DotA2

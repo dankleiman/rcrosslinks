@@ -2,7 +2,6 @@
 title: rpdragrace
 crosslinks:
 - rupaulsdragrace
-- livven
 - RPDRDRAMA
 - 290qv61
 - rpdrcringe

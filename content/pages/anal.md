@@ -4,7 +4,6 @@ crosslinks:
 - Asshole_Lover
 - PornstarsXxx
 - SauceForGif
-- livven
 - fuckingWomen
 - NSFW_GIF
 - phealinphine69

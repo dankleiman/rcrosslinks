@@ -1,7 +1,6 @@
 ---
 title: AnimalTextGifs
 crosslinks:
-- livven
 - aww
 - gifs
 - rarepuppers

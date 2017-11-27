@@ -9,7 +9,6 @@ crosslinks:
 - conspiracy
 - AskReddit
 - ChinaTEFL
-- livven
 - ESLSCAMS
 - SeattleWA
 - Teacher

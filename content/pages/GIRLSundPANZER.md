@@ -4,7 +4,6 @@ crosslinks:
 - Pixiv
 - AskHistorians
 - anime
-- livven
 - YukariAkiyama
 - TankPorn
 - translator
@@ -13,7 +12,6 @@ crosslinks:
 - SCP
 - WorldofTanks
 - ProCSS
-- autotldr
 - aww
 - modelmakers
 - announcements

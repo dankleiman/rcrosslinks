@@ -3,7 +3,6 @@ title: circlejerkseattle
 crosslinks:
 - SeattleWA
 - Seattle
-- livven
 - WTF
 - Drama
 - fife

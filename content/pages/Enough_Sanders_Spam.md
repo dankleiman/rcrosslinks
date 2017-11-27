@@ -5,7 +5,6 @@ crosslinks:
 - SandersForPresident
 - politics
 - WayOfTheBern
-- autotldr
 - EnoughTrumpSpam
 - ChapoTrapHouse
 - The_Donald

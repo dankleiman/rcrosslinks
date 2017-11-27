@@ -3,14 +3,12 @@ title: snakes
 crosslinks:
 - Sneks
 - reptiles
-- livven
 - whatsthissnake
 - BallPythons
 - carpetpythons
 - pics
 - gifs
 - BeardedDragons
-- autotldr
 - retics
 - AskVet
 - UtricksBlog

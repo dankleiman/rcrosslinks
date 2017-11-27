@@ -5,7 +5,6 @@ crosslinks:
 - ocPoetry
 - poemVIDEOs
 - poetryreading
-- autotldr
 - AskLiteraryStudies
 - TheHaiku
 - Documentaries

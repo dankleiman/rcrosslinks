@@ -1,5 +1,0 @@
----
-title: ShitVictorSays
-crosslinks:
-- livven
----

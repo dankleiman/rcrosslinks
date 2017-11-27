@@ -3,7 +3,6 @@ title: VapePorn
 crosslinks:
 - Authentic_Vapeporn
 - Vaping
-- livven
 - ecigclassifieds
 - electronic_cigarette
 - Squonk_Life

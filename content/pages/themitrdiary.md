@@ -1,5 +1,0 @@
----
-title: themitrdiary
-crosslinks:
-- autotldr
----

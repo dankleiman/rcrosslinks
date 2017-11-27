@@ -18,7 +18,6 @@ crosslinks:
 - Meditation
 - Kava
 - asmr
-- autotldr
 - kratom
 - LifeProTips
 ---

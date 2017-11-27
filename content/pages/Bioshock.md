@@ -8,7 +8,6 @@ crosslinks:
 - iamversmart
 - cosplay
 - Serendipity
-- livven
 - whatever
 - AskReddit
 - cosplaygirls

@@ -5,9 +5,7 @@ crosslinks:
 - BigBrother
 - niceguys
 - Nicegirls
-- livven
 - LoveIslandTV
-- autotldr
 - survivor
 - BravoRealHousewives
 - MakeupAddiction

@@ -1,5 +1,0 @@
----
-title: globalisation
-crosslinks:
-- autotldr
----

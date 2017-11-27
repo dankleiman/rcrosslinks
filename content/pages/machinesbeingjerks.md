@@ -1,5 +1,0 @@
----
-title: machinesbeingjerks
-crosslinks:
-- livven
----

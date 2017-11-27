@@ -7,7 +7,6 @@ crosslinks:
 - linuxquestions
 - unixporn
 - applehelp
-- autotldr
 - dontyouknowwhoiam
 - Amd
 - nginx

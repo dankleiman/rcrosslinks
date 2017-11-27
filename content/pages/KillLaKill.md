@@ -1,7 +1,6 @@
 ---
 title: KillLaKill
 crosslinks:
-- livven
 - anime
 - Animewallpaper
 - OtakuVisualArts

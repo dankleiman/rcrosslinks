@@ -3,7 +3,6 @@ title: ArtCrit
 crosslinks:
 - learnart
 - redditgetsdrawn
-- livven
 - Art
 - ArtFundamentals
 - pics

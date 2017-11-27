@@ -2,7 +2,6 @@
 title: Adelaide
 crosslinks:
 - australia
-- autotldr
 - BneStrong
 - auslaw
 - PlasticSurgery
@@ -12,7 +11,6 @@ crosslinks:
 - WeAreTheMusicMakers
 - AustralianPlantSwap
 - Futurology
-- livven
 - StandUpComedy
 - meteorology
 - ausents

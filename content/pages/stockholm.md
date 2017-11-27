@@ -6,7 +6,6 @@ crosslinks:
 - PrivatEkonomi
 - Frozen
 - cykel
-- livven
 - 161cfax
 - theocho
 - MapPorn

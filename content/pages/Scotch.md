@@ -12,8 +12,6 @@ crosslinks:
 - MapPorn
 - Antiques
 - ExplainLikeImPHD
-- livven
-- autotldr
 - cognac
 - scotchswapEU
 - PowerShell

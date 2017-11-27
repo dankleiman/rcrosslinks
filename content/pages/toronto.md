@@ -1,11 +1,9 @@
 ---
 title: toronto
 crosslinks:
-- autotldr
 - canada
 - TorontoAnarchy
 - askTO
-- livven
 - vancouver
 - pics
 - The_Donald

@@ -12,6 +12,5 @@ crosslinks:
 - AskReddit
 - Health
 - antivax
-- livven
 - EverythingScience
 ---

@@ -1,7 +1,6 @@
 ---
 title: software
 crosslinks:
-- autotldr
 - Windows10
 - xkcd
 - techsupport

@@ -6,7 +6,6 @@ crosslinks:
 - Monero
 - NEO
 - vergecurrency
-- autotldr
 - altcoin
 - ArkEcosystem
 - Bitcoin

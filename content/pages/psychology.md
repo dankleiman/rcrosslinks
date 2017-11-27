@@ -1,7 +1,6 @@
 ---
 title: psychology
 crosslinks:
-- autotldr
 - science
 - neuro
 - politics

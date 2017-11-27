@@ -1,12 +1,10 @@
 ---
 title: Maine
 crosslinks:
-- autotldr
 - LAMaine
 - news
 - personalfinance
 - Permaculture
-- livven
 - pics
 - HateCrimeHoaxes
 - trees

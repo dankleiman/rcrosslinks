@@ -1,5 +1,0 @@
----
-title: christiansaredicks
-crosslinks:
-- autotldr
----

@@ -3,7 +3,6 @@ title: asianbros
 crosslinks:
 - Sino
 - pics
-- autotldr
 - confession
 - politics
 - changemyview

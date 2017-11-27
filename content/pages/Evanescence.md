@@ -1,5 +1,0 @@
----
-title: Evanescence
-crosslinks:
-- livven
----

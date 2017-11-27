@@ -10,7 +10,6 @@ crosslinks:
 - INJUSTICE
 - avengersacademyios
 - MAA
-- livven
 - ship
 - flash
 - FuturamaWOTgame

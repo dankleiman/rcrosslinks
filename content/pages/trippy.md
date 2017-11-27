@@ -2,7 +2,6 @@
 title: trippy
 crosslinks:
 - Drugs
-- livven
 - LSD
 - Simulated
 - ImaginaryMindscapes

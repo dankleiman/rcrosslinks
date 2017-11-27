@@ -3,7 +3,6 @@ title: SexWorkers
 crosslinks:
 - Hookers
 - usedpanties
-- autotldr
 - casualiama
 - gonewildstories
 - AskAnEscort
@@ -12,7 +11,6 @@ crosslinks:
 - Escorts
 - Bad_Cop_No_Donut
 - suicidewatch
-- livven
 - KIKSnaps
 - partnersofsexworkers
 - theydidthemath

@@ -1,5 +1,0 @@
----
-title: NatureIsFuckingGross
-crosslinks:
-- livven
----

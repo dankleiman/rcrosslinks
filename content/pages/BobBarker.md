@@ -1,5 +1,0 @@
----
-title: BobBarker
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: FullShrimp
 crosslinks:
 - Whatcouldgowrong
-- livven
 - HadToHurt
 - FullScorpion
 - WinStupidPrizes

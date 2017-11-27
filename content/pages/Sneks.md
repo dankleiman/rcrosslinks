@@ -1,7 +1,6 @@
 ---
 title: Sneks
 crosslinks:
-- livven
 - snakes
 - Michigan
 - gifs

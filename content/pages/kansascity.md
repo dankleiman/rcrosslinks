@@ -1,9 +1,7 @@
 ---
 title: kansascity
 crosslinks:
-- autotldr
 - heyKCwhatwasthatnoise
-- livven
 - news
 - The_Donald
 - place

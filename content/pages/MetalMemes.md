@@ -1,7 +1,6 @@
 ---
 title: MetalMemes
 crosslinks:
-- livven
 - gatekeeping
 - progmetal
 - ShitTheFalseSay

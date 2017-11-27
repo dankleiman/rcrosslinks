@@ -1,5 +1,0 @@
----
-title: interpolation
-crosslinks:
-- livven
----

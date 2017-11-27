@@ -7,7 +7,6 @@ crosslinks:
 - AskReddit
 - metric_units
 - japanesestreetwear
-- livven
 - pics
 - mfacirclejerk
 - FashionReps
@@ -16,7 +15,6 @@ crosslinks:
 - southpark
 - GoTMontages
 - MaleFashionMarket
-- autotldr
 - WTF
 - malefashion
 - Fitness

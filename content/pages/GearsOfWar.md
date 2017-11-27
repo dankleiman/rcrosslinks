@@ -1,14 +1,12 @@
 ---
 title: GearsOfWar
 crosslinks:
-- livven
 - GearsLFG
 - pcmasterrace
 - pcgaming
 - creepy
 - Gamingcirclejerk
 - UnexpectedWestworld
-- autotldr
 - leagueoflegends
 - The_Donald
 - tifu

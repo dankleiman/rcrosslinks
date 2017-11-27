@@ -1,7 +1,6 @@
 ---
 title: ferrets
 crosslinks:
-- livven
 - legaladvice
 - aww
 - metric_units

@@ -6,6 +6,5 @@ crosslinks:
 - OutOfTheLoop
 - dickgirls
 - SamandTolki
-- livven
 - Drama
 ---

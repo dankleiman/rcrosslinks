@@ -1,7 +1,6 @@
 ---
 title: Le_Pen
 crosslinks:
-- autotldr
 - The_Donald
 - france
 - The_Europe

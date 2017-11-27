@@ -7,5 +7,4 @@ crosslinks:
 - regularshow
 - CARTOON
 - TheKidsNextDoor
-- autotldr
 ---

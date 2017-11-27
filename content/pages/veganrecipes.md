@@ -6,7 +6,6 @@ crosslinks:
 - vegangifrecipes
 - VeganFoodPorn
 - vegancirclejerk
-- livven
 - veganfitness
 - GifRecipes
 - persianfood

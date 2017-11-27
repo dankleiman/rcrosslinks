@@ -1,7 +1,6 @@
 ---
 title: BadDragon
 crosslinks:
-- livven
 - SexToys
 - Incels
 - BDSMcommunity

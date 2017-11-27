@@ -1,9 +1,7 @@
 ---
 title: mildlyamusing
 crosslinks:
-- autotldr
 - mildyinfuriating
-- livven
 - canada
 - AlGore
 - answers

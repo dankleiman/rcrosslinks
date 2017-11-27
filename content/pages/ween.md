@@ -8,7 +8,6 @@ crosslinks:
 - K95Eo
 - interestingasfuck
 - nesclassicmods
-- livven
 - IAmA
 - OldSchoolCool
 ---

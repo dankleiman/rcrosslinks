@@ -3,13 +3,11 @@ title: tucker_carlson
 crosslinks:
 - The_Donald
 - TheNewRight
-- autotldr
 - politics
 - news
 - PresidentTrump2020
 - redacted
 - conspiracy
-- livven
 - BillNyeSucks
 - ShitPoliticsSays
 - EnoughTrumpSpam

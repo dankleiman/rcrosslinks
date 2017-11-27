@@ -4,7 +4,6 @@ crosslinks:
 - Serendipity
 - formula1
 - motorsportsstreams
-- livven
 - MotorsportsPickem
 - PirelliWorldChallenge
 - Drifting

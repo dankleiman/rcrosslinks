@@ -1,7 +1,6 @@
 ---
 title: GakiNoTsukai
 crosslinks:
-- livven
 - JapaneseGameShows
 - FunnyJapan
 - LearnJapanese

@@ -2,7 +2,6 @@
 title: gallifrey
 crosslinks:
 - doctorwho
-- autotldr
 - doctorwhocirclejerk
 - eurovision
 - factionparadox

@@ -1,7 +1,6 @@
 ---
 title: unexpectedjihad
 crosslinks:
-- livven
 - expectedjihad
 - videos
 - The_Donald

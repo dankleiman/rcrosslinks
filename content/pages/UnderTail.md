@@ -1,7 +1,6 @@
 ---
 title: UnderTail
 crosslinks:
-- livven
 - announcements
 - Undertale
 - Pixiv

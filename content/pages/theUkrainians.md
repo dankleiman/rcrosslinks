@@ -3,7 +3,6 @@ title: theUkrainians
 crosslinks:
 - ukraina
 - europe
-- autotldr
 - help
 - podemos
 - Turkey

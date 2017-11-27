@@ -6,6 +6,5 @@ crosslinks:
 - canada
 - uwo
 - yorku
-- autotldr
 - wholesomememes
 ---

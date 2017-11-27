@@ -5,7 +5,6 @@ crosslinks:
 - ClashRoyale
 - Brawl_Stars
 - BrawlRecruit
-- livven
 - titlegore
 - helpmewin
 - UofT

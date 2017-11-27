@@ -3,7 +3,6 @@ title: crossfit
 crosslinks:
 - Fitness
 - homegym
-- livven
 - weightlifting
 - gifs
 - IAmA

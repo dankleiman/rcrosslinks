@@ -4,7 +4,6 @@ crosslinks:
 - crtgaming
 - gamecollecting
 - snes
-- autotldr
 - RetroPie
 - tipofmyjoystick
 - consolerepair

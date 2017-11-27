@@ -1,7 +1,6 @@
 ---
 title: confusing_perspective
 crosslinks:
-- livven
 - pics
 - mildlyinteresting
 - funny

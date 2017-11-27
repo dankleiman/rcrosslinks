@@ -2,7 +2,6 @@
 title: howyoudoin
 crosslinks:
 - pics
-- livven
 - me_irl
 - JoeRogan
 - HIMYM

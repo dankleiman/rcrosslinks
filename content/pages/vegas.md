@@ -1,7 +1,6 @@
 ---
 title: vegas
 crosslinks:
-- autotldr
 - vegaslocals
 - SonyVegas
 - LasVegas
@@ -11,7 +10,6 @@ crosslinks:
 - cordcutters
 - xkcd
 - TalesFromTheFrontDesk
-- livven
 - videos
 - EDC
 - Accounting

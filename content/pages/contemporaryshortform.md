@@ -1,5 +1,0 @@
----
-title: contemporaryshortform
-crosslinks:
-- autotldr
----

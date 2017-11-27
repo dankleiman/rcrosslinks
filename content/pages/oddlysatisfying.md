@@ -1,7 +1,6 @@
 ---
 title: oddlysatisfying
 crosslinks:
-- livven
 - gifs
 - pics
 - mildlyinteresting

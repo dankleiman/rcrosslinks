@@ -15,7 +15,6 @@ crosslinks:
 - spicy
 - personalfinance
 - reactiongifs
-- livven
 - videos
 - lewronggeneration
 ---

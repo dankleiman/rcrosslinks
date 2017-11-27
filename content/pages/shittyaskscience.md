@@ -1,11 +1,9 @@
 ---
 title: shittyaskscience
 crosslinks:
-- livven
 - xkcd
 - pics
 - AskReddit
-- autotldr
 - funny
 - gifs
 - theydidthemath

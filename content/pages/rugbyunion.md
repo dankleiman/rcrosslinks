@@ -1,7 +1,6 @@
 ---
 title: rugbyunion
 crosslinks:
-- livven
 - JusticeForKeith
 - leicester_tigers
 - Cricket
@@ -18,7 +17,6 @@ crosslinks:
 - PhotoshopRequest
 - highqualitygifs
 - science
-- autotldr
 - Accounting
 - mangapond
 ---

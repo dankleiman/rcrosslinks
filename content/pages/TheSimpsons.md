@@ -1,12 +1,10 @@
 ---
 title: TheSimpsons
 crosslinks:
-- livven
 - simpsonsshitposting
 - HighQualityGifs
 - simpsonsdidit
 - pics
-- autotldr
 - IAmA
 - SimpsonsFaces
 - funny

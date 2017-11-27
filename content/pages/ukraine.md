@@ -1,7 +1,6 @@
 ---
 title: ukraine
 crosslinks:
-- autotldr
 - ukraina
 - europe
 - languagelearning

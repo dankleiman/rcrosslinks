@@ -9,7 +9,6 @@ crosslinks:
 - coaxedintoasnafu
 - ComedyNecrophilia
 - dankmemes
-- livven
 - Ooer
 - powdermemes
 - raimimemes

@@ -4,7 +4,6 @@ crosslinks:
 - rantgrumps
 - JonTron
 - WhichGGEpisode
-- livven
 - PolyGrumps
 - ConspiracyGrumps
 - underpopular

@@ -1,5 +1,0 @@
----
-title: nannystate
-crosslinks:
-- autotldr
----

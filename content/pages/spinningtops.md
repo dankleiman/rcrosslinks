@@ -1,5 +1,0 @@
----
-title: spinningtops
-crosslinks:
-- livven
----

@@ -3,12 +3,10 @@ title: LegendsOfTomorrow
 crosslinks:
 - FlashTV
 - arrow
-- livven
 - ReverseFlashTV
 - VixenCWSeed
 - nocontext
 - shield
-- autotldr
 - UnexpectedHamilton
 - whowouldwin
 - help

@@ -1,7 +1,6 @@
 ---
 title: littlespace
 crosslinks:
-- livven
 - littlesafe
 - LITTLEPERSONALS
 - KindVoice

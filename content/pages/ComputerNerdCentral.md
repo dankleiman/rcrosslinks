@@ -1,5 +1,0 @@
----
-title: ComputerNerdCentral
-crosslinks:
-- autotldr
----

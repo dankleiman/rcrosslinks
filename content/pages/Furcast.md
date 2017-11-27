@@ -1,5 +1,0 @@
----
-title: Furcast
-crosslinks:
-- autotldr
----

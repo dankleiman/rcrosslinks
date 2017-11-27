@@ -2,7 +2,6 @@
 title: TwinCities
 crosslinks:
 - Minneapolis
-- autotldr
 - Somalia
 - minnesota
 - Dashcam

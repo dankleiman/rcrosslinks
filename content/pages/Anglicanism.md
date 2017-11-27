@@ -2,7 +2,6 @@
 title: Anglicanism
 crosslinks:
 - Christianity
-- autotldr
 - OrthodoxChristianity
 - OpenChristian
 - Catholicism

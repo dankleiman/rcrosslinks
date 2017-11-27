@@ -1,5 +1,0 @@
----
-title: signesdelafin
-crosslinks:
-- autotldr
----

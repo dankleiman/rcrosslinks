@@ -1,7 +1,6 @@
 ---
 title: dogswithjobs
 crosslinks:
-- livven
 - AnimalsBeingBros
 - aww
 - AnimalTextGifs

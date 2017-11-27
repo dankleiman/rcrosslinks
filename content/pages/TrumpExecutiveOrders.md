@@ -1,5 +1,0 @@
----
-title: TrumpExecutiveOrders
-crosslinks:
-- autotldr
----

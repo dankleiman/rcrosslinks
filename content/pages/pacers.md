@@ -3,7 +3,6 @@ title: pacers
 crosslinks:
 - pavers
 - lakers
-- livven
 - NBA2k
 - Thunder
 - the_lance

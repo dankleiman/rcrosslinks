@@ -1,5 +1,0 @@
----
-title: GonWildCurvy
-crosslinks:
-- livven
----

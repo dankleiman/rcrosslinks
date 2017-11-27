@@ -1,5 +1,0 @@
----
-title: conspirology
-crosslinks:
-- autotldr
----

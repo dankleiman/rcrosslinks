@@ -1,7 +1,6 @@
 ---
 title: spelunky
 crosslinks:
-- livven
 - PixelDungeon
 - AskReddit
 - nocontext

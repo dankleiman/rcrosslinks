@@ -3,7 +3,6 @@ title: wildhockey
 crosslinks:
 - hockey
 - hockeyjerseys
-- livven
 - place
 - NHLStreams
 - LazyMan

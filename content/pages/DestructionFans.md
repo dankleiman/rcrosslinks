@@ -1,5 +1,0 @@
----
-title: DestructionFans
-crosslinks:
-- livven
----

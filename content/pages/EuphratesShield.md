@@ -1,5 +1,0 @@
----
-title: EuphratesShield
-crosslinks:
-- autotldr
----

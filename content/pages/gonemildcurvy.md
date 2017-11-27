@@ -1,5 +1,0 @@
----
-title: gonemildcurvy
-crosslinks:
-- livven
----

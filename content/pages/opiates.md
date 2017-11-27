@@ -2,7 +2,6 @@
 title: opiates
 crosslinks:
 - Drugs
-- autotldr
 - kratom
 - IAmA
 - AskReddit
@@ -10,7 +9,6 @@ crosslinks:
 - DarkNetMarkets
 - opiatesmemorial
 - opiates_gonewild
-- livven
 - OpiatesRecovery
 - fentanyl
 - pillhead

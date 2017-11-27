@@ -2,7 +2,6 @@
 title: ZettaiRyouiki
 crosslinks:
 - awwnime
-- livven
 - newsokunomoral
 - shorthairedwaifus
 - nier

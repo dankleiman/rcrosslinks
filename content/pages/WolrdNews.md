@@ -1,5 +1,0 @@
----
-title: WolrdNews
-crosslinks:
-- autotldr
----

@@ -5,8 +5,6 @@ crosslinks:
 - ScarletKnights
 - Seahawks
 - rolltide
-- livven
 - nfl
-- autotldr
 - SeattleWA
 ---

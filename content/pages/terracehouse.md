@@ -2,7 +2,6 @@
 title: terracehouse
 crosslinks:
 - terracehousejp
-- livven
 - metric_units
 - BlackSails
 - NetflixByProxy

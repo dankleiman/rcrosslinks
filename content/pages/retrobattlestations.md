@@ -4,7 +4,6 @@ crosslinks:
 - oldhardwareswap
 - VintageApple
 - pics
-- autotldr
 - pc98
 - retrogaming
 - unixporn

@@ -1,5 +1,0 @@
----
-title: ThisBlewMyMind
-crosslinks:
-- autotldr
----

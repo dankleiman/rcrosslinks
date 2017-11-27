@@ -1,5 +1,0 @@
----
-title: awesomemen
-crosslinks:
-- livven
----

@@ -6,7 +6,6 @@ crosslinks:
 - occult
 - lawofattractionrap
 - Oneirosophy
-- livven
 - ENFP
 - konmari
 - NoFap

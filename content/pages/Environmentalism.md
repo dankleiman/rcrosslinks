@@ -1,5 +1,0 @@
----
-title: Environmentalism
-crosslinks:
-- autotldr
----

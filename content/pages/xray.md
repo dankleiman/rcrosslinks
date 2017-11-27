@@ -1,7 +1,6 @@
 ---
 title: xray
 crosslinks:
-- livven
 - CandiceNeistat
 - PhotoXXXShops
 - fakerays

@@ -9,7 +9,6 @@ crosslinks:
 - explainlikeimfive
 - programming
 - xkcd
-- autotldr
 - iamverysmart
 - askphilosophy
 - shittymath

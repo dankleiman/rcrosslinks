@@ -1,7 +1,6 @@
 ---
 title: PrequelMemes
 crosslinks:
-- livven
 - StarWars
 - SequelMemes
 - movies

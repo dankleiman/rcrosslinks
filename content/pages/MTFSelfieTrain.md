@@ -1,5 +1,0 @@
----
-title: MTFSelfieTrain
-crosslinks:
-- livven
----

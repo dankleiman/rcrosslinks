@@ -1,5 +1,0 @@
----
-title: UKNonPartisan
-crosslinks:
-- autotldr
----

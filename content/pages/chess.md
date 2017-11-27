@@ -3,8 +3,6 @@ title: chess
 crosslinks:
 - AnarchyChess
 - xkcd
-- livven
-- autotldr
 - chessporn
 - askscience
 - woodworking

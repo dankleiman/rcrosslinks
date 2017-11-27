@@ -1,7 +1,6 @@
 ---
 title: CaliforniaSocialists
 crosslinks:
-- autotldr
 - socialism
 - Anarchism
 - ModelUSGov

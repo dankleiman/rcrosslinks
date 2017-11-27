@@ -1,7 +1,6 @@
 ---
 title: Animals
 crosslinks:
-- livven
 - whatisthisthing
 - Blep
 - animalsofportland

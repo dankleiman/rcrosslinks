@@ -5,7 +5,6 @@ crosslinks:
 - aves
 - EDCTickets
 - electronicmusic
-- livven
 - vegas
 - Coachella
 - UMF

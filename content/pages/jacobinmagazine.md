@@ -1,5 +1,0 @@
----
-title: jacobinmagazine
-crosslinks:
-- autotldr
----

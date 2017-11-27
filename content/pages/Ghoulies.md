@@ -1,5 +1,0 @@
----
-title: Ghoulies
-crosslinks:
-- livven
----

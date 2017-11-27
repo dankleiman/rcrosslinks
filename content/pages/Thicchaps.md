@@ -1,5 +1,0 @@
----
-title: Thicchaps
-crosslinks:
-- livven
----

@@ -1,9 +1,7 @@
 ---
 title: twinpeaks
 crosslinks:
-- autotldr
 - TrueFilm
-- livven
 - television
 - AMAAggregator
 - pics

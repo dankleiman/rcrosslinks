@@ -16,7 +16,6 @@ crosslinks:
 - AskEurope
 - edefreiheit
 - place
-- livven
 - tifu
 - AustriaPics
 - GEILOMOBIL

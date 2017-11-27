@@ -1,5 +1,0 @@
----
-title: bestmanforthejob
-crosslinks:
-- livven
----

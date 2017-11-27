@@ -1,7 +1,6 @@
 ---
 title: ElectricForest
 crosslinks:
-- livven
 - Drugs
 - festivals
 - EDM

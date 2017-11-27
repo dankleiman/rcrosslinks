@@ -1,7 +1,6 @@
 ---
 title: Sino
 crosslinks:
-- autotldr
 - CIWO
 - aznidentity
 - westerner

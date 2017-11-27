@@ -1,5 +1,0 @@
----
-title: GirlsofGoneWildCurvy
-crosslinks:
-- livven
----

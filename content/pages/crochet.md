@@ -4,7 +4,6 @@ crosslinks:
 - knitting
 - Seattle
 - yarnporn
-- livven
 - GeekyCrochet
 - YARNPOOLING
 - entwives

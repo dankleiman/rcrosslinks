@@ -1,5 +1,0 @@
----
-title: NakedSecurity
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: Iowa
 crosslinks:
-- autotldr
 - the_iowa
 - technology
 - IowaPolitics
@@ -19,6 +18,5 @@ crosslinks:
 - politicaltech
 - LateStageCapitalism
 - Serendipity
-- livven
 - killthosewhodisagree
 ---

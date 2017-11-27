@@ -1,7 +1,6 @@
 ---
 title: ancientegypt
 crosslinks:
-- autotldr
 - Anthropology
 - timetravel
 - Archaeology

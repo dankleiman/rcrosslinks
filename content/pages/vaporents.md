@@ -9,7 +9,6 @@ crosslinks:
 - chinaglass
 - GrassHopperVape
 - craftymighty
-- livven
 - ploompax
 - electronic_cigarette
 - arizer

@@ -1,7 +1,6 @@
 ---
 title: tytonreddit
 crosslinks:
-- autotldr
 - politics
 - media_criticism
 - Serendipity

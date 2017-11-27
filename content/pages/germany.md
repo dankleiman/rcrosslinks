@@ -1,7 +1,6 @@
 ---
 title: germany
 crosslinks:
-- autotldr
 - de
 - ShitAmericansSay
 - europrivacy

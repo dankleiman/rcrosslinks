@@ -1,5 +1,0 @@
----
-title: hotfun
-crosslinks:
-- livven
----

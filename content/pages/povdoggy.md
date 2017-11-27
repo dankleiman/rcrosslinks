@@ -1,5 +1,0 @@
----
-title: povdoggy
-crosslinks:
-- livven
----

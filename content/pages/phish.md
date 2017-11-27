@@ -1,7 +1,6 @@
 ---
 title: phish
 crosslinks:
-- livven
 - gratefuldead
 - place
 - PhishVideos

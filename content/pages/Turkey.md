@@ -1,7 +1,6 @@
 ---
 title: Turkey
 crosslinks:
-- autotldr
 - syriancivilwar
 - europe
 - worldnews

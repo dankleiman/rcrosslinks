@@ -2,7 +2,6 @@
 title: Toontown
 crosslinks:
 - toontownrewritten
-- livven
 - MaleBluDogLivesMatter
 - hockey
 - Serendipity
@@ -14,7 +13,6 @@ crosslinks:
 - rupaulsdragrace
 - ttrcirclejerk
 - lewronggeneration
-- autotldr
 - Pyongyang
 - woahdude
 - Pay_Respects

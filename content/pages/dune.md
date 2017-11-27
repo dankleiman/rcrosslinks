@@ -6,7 +6,6 @@ crosslinks:
 - dunememes
 - pics
 - scifi
-- livven
 - nuDune
 - Serendipity
 - Awwducational
@@ -18,6 +17,5 @@ crosslinks:
 - startrek
 - freemasons
 - PrequelMemes
-- autotldr
 - Fantasy
 ---

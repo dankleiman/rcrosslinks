@@ -1,7 +1,6 @@
 ---
 title: AustralianPolitics
 crosslinks:
-- autotldr
 - australia
 - The_Donald
 - AusPol

@@ -1,7 +1,6 @@
 ---
 title: LateStageCapitalism
 crosslinks:
-- autotldr
 - socialism
 - communism101
 - AskReddit
@@ -13,7 +12,6 @@ crosslinks:
 - funny
 - xkcd
 - news
-- livven
 - Anarchism
 - ABoringDystopia
 - IAmA

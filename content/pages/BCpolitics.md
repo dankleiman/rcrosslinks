@@ -1,5 +1,0 @@
----
-title: BCpolitics
-crosslinks:
-- autotldr
----

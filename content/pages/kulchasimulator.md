@@ -9,8 +9,6 @@ crosslinks:
 - atheism
 - IndiaSpeaks
 - indianews
-- autotldr
-- livven
 - hinduism
 - ShitAmericansSay
 - languagelearning

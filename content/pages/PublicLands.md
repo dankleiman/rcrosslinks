@@ -1,7 +1,6 @@
 ---
 title: PublicLands
 crosslinks:
-- autotldr
 - DeepGreenResistance
 - Missing411
 - NationalPark

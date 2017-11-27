@@ -4,6 +4,5 @@ crosslinks:
 - youngsheldoncomics
 - richandmorto
 - copypasta
-- livven
 - surrealmemes
 ---

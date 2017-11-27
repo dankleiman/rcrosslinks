@@ -3,7 +3,6 @@ title: aerospace
 crosslinks:
 - AskEngineers
 - EngineeringStudents
-- autotldr
 - spacex
 - FSAE
 - engineering
@@ -18,6 +17,5 @@ crosslinks:
 - Military
 - aviation
 - Serendipity
-- livven
 - IAmA
 ---

@@ -1,5 +1,0 @@
----
-title: Spazimals
-crosslinks:
-- livven
----

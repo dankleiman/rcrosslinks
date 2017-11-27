@@ -1,7 +1,6 @@
 ---
 title: GolfClash
 crosslinks:
-- livven
 - me_irl
 - ididthemath
 - '2013'

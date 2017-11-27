@@ -1,7 +1,6 @@
 ---
 title: LearnUselessTalents
 crosslinks:
-- livven
 - restofthefuckingowl
 - xkcd
 - DiWHY

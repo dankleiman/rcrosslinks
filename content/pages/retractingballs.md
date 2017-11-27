@@ -1,5 +1,0 @@
----
-title: retractingballs
-crosslinks:
-- livven
----

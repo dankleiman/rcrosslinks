@@ -1,7 +1,6 @@
 ---
 title: PinkFloydCircleJerk
 crosslinks:
-- livven
 - pinkfloyd
 - Drama
 - AMAAggregator

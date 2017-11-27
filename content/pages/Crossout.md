@@ -1,7 +1,6 @@
 ---
 title: Crossout
 crosslinks:
-- livven
 - Crossout_CarShow
 - pcmasterrace
 - crossoutlooking4group

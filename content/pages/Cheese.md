@@ -2,7 +2,6 @@
 title: Cheese
 crosslinks:
 - cheesemaking
-- autotldr
 - norge
 - ketorecipes
 - gso

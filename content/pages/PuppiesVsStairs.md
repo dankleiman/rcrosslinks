@@ -1,5 +1,0 @@
----
-title: PuppiesVsStairs
-crosslinks:
-- livven
----

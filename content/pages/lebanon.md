@@ -1,7 +1,6 @@
 ---
 title: lebanon
 crosslinks:
-- autotldr
 - place
 - Israel
 - science

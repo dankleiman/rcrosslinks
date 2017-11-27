@@ -4,7 +4,6 @@ crosslinks:
 - stylus
 - spectrex360
 - Dell
-- autotldr
 - IAmA
 - AskTechnology
 - Lenovo

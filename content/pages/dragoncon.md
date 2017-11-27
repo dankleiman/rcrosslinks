@@ -3,7 +3,6 @@ title: dragoncon
 crosslinks:
 - Atlanta
 - funny
-- livven
 - skyrim
 - gatekeeping
 - movies

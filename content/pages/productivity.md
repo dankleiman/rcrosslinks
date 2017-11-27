@@ -3,7 +3,6 @@ title: productivity
 crosslinks:
 - xkcd
 - todoist
-- autotldr
 - AskReddit
 - theXeffect
 - workflow

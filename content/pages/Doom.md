@@ -2,7 +2,6 @@
 title: Doom
 crosslinks:
 - snapmap
-- livven
 - gaming
 - speedrun
 - nvidia

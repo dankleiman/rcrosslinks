@@ -1,11 +1,9 @@
 ---
 title: Louisville
 crosslinks:
-- autotldr
 - modhelp
 - videos
 - AskReddit
-- livven
 - Kentucky
 - AmIFreeToGo
 - lexington

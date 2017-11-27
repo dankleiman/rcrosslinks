@@ -1,5 +1,0 @@
----
-title: idiotsintanks
-crosslinks:
-- livven
----

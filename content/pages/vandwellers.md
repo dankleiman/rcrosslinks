@@ -12,7 +12,6 @@ crosslinks:
 - pics
 - Linky_links
 - metric_units
-- livven
 - TargetedIndividuals
 - TargetedEnergyWeapons
 - leanfire

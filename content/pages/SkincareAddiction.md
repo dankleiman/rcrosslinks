@@ -7,7 +7,6 @@ crosslinks:
 - CompulsiveSkinPicking
 - AsianBeautyAdvice
 - wicked_edge
-- livven
 - skincareexchange
 - MakeupAddiction
 - curlyhair

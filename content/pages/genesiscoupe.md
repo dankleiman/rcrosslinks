@@ -1,5 +1,0 @@
----
-title: genesiscoupe
-crosslinks:
-- livven
----

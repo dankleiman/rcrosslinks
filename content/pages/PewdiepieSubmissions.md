@@ -2,7 +2,6 @@
 title: PewdiepieSubmissions
 crosslinks:
 - me_irl
-- livven
 - fidgetspin
 - helpmewin
 - counting

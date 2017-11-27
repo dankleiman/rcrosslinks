@@ -1,7 +1,6 @@
 ---
 title: JamesDamore
 crosslinks:
-- autotldr
 - tech
 - cscareerquestions
 - chess

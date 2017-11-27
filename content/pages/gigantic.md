@@ -3,7 +3,6 @@ title: gigantic
 crosslinks:
 - gaming
 - giganticheroconcepts
-- livven
 - heroesofthestorm
 - Paladins
 - giganticesports

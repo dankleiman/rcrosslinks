@@ -3,7 +3,6 @@ title: insurgency
 crosslinks:
 - gaming
 - DayofInfamy
-- livven
 - h1z1
 - joinsquad
 - linux_gaming

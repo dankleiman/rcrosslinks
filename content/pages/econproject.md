@@ -1,5 +1,0 @@
----
-title: econproject
-crosslinks:
-- livven
----

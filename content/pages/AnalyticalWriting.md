@@ -1,5 +1,0 @@
----
-title: AnalyticalWriting
-crosslinks:
-- autotldr
----

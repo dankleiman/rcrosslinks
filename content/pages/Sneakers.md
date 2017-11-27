@@ -4,7 +4,6 @@ crosslinks:
 - Repsneakers
 - streetwear
 - sneakermarket
-- livven
 - malefashionadvice
 - repsneakers
 - frugalmalefashion
@@ -13,7 +12,6 @@ crosslinks:
 - FashionReps
 - funny
 - AskReddit
-- autotldr
 - SneakersCanada
 - SneakerDeals
 - SneakyBackgroundFeet

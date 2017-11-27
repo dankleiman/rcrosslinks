@@ -8,7 +8,6 @@ crosslinks:
 - 3dshacks
 - retrogaming
 - asdfqweRnD
-- livven
 - Game_Boy
 - nesclassicmods
 - tipofmyjoystick

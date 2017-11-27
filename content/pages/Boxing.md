@@ -2,7 +2,6 @@
 title: Boxing
 crosslinks:
 - MMA
-- autotldr
 - chavezalvarez2
 - Philippines
 - NegativeWithGold

@@ -1,7 +1,6 @@
 ---
 title: governmentoppression
 crosslinks:
-- autotldr
 - DescentIntoTyranny
 - postnationalist
 - LateStageCapitalism

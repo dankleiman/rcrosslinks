@@ -15,5 +15,4 @@ crosslinks:
 - paypal
 - SLRep
 - GCtrade
-- livven
 ---

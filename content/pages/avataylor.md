@@ -1,5 +1,0 @@
----
-title: avataylor
-crosslinks:
-- livven
----

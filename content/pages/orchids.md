@@ -5,7 +5,6 @@ crosslinks:
 - succulents
 - ReefTank
 - xkcd
-- autotldr
 - HawaiiGardening
 - askscience
 - Greenhouses

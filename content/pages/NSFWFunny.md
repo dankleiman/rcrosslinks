@@ -7,7 +7,6 @@ crosslinks:
 - IAmA
 - funny
 - JavDownloadCenter
-- livven
 - WTF
 - whynotasource
 - NSFW411

@@ -1,5 +1,0 @@
----
-title: cosmicnovo
-crosslinks:
-- autotldr
----

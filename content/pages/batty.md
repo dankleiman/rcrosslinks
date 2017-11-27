@@ -2,7 +2,6 @@
 title: batty
 crosslinks:
 - BatFacts
-- livven
 - funny
 - kittens
 - KarmaCourt

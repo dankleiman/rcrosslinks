@@ -6,7 +6,6 @@ crosslinks:
 - SpaceBuckets
 - Photoflowers
 - HandsOnComplexity
-- livven
 - videos
 - shroomers
 - QWISOInfo

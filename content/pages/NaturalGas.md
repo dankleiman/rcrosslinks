@@ -1,5 +1,0 @@
----
-title: NaturalGas
-crosslinks:
-- autotldr
----

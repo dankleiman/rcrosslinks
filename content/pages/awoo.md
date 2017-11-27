@@ -1,7 +1,6 @@
 ---
 title: awoo
 crosslinks:
-- livven
 - awwnime
 - pouts
 - touhou

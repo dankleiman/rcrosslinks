@@ -6,7 +6,6 @@ crosslinks:
 - BustyPetite
 - AmazingCurves
 - ThatPerfectAss
-- livven
 - messyjessie58
 - lucypinder
 - SensualJane

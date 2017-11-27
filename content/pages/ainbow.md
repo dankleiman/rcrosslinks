@@ -1,7 +1,6 @@
 ---
 title: ainbow
 crosslinks:
-- autotldr
 - Drama
 - RightwingLGBT
 - The_Donald

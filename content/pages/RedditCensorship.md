@@ -15,7 +15,6 @@ crosslinks:
 - ModSupport
 - MarchAgainstTrump
 - TopMindsOfReddit
-- autotldr
 - MildRedditDrama
 - AskReddit
 - legaladviceofftopic

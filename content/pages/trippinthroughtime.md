@@ -10,7 +10,6 @@ crosslinks:
 - strippinthroughtime
 - FuckTammy
 - hatchery
-- livven
 - lifehacks
 - ComedyCemetery
 - museum

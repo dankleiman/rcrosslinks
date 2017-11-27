@@ -5,7 +5,6 @@ crosslinks:
 - techsupportmacgyver
 - pcmasterrace
 - talesfromtechsupport
-- livven
 - AyyMD
 - electricians
 - OutOfTheLoop

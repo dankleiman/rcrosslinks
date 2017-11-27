@@ -2,7 +2,6 @@
 title: LSAT
 crosslinks:
 - lawschooladmissions
-- livven
 - REEEEEEEEEE
 - Mcat
 - whitepeoplegifs

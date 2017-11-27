@@ -1,5 +1,0 @@
----
-title: scishow
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: manufacturing
 crosslinks:
-- autotldr
 - FrankOcean
 - technicalwriting
 - Sufjan

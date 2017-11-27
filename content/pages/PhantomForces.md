@@ -1,7 +1,6 @@
 ---
 title: PhantomForces
 crosslinks:
-- livven
 - SuicideWatch
 - REEEEEE
 - AskReddit

@@ -1,5 +1,0 @@
----
-title: CSSHaters
-crosslinks:
-- autotldr
----

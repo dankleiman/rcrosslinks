@@ -4,7 +4,6 @@ crosslinks:
 - curlyhair
 - FancyFollicles
 - HaircareScience
-- livven
 - Allthingshair
 - TheGirlSurvivalGuide
 - shorthairedhotties

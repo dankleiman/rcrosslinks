@@ -1,5 +1,0 @@
----
-title: FedEx
-crosslinks:
-- autotldr
----

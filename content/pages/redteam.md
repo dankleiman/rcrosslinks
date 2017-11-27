@@ -1,5 +1,0 @@
----
-title: redteam
-crosslinks:
-- livven
----

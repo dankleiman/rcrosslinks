@@ -4,7 +4,6 @@ crosslinks:
 - place
 - Nuclear_Throne
 - ireland
-- livven
 - gungodz
 - marijuanaenthusiasts
 - GameDeals

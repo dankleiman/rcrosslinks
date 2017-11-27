@@ -1,5 +1,0 @@
----
-title: UnlimitedAnarchy
-crosslinks:
-- autotldr
----

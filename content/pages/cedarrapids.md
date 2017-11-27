@@ -3,7 +3,6 @@ title: cedarrapids
 crosslinks:
 - shitriowasays
 - IowaCityFunnery
-- autotldr
 - help
 - REEEEEEEEEE
 - IowaCity

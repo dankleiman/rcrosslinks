@@ -6,5 +6,4 @@ crosslinks:
 - gundeals
 - ar15
 - guns
-- livven
 ---

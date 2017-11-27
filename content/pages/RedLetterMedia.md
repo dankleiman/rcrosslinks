@@ -1,7 +1,6 @@
 ---
 title: RedLetterMedia
 crosslinks:
-- livven
 - moviescirclejerk
 - movies
 - StarWars
@@ -12,7 +11,6 @@ crosslinks:
 - JonTron
 - moviedicks
 - startrek
-- autotldr
 - FanTheories
 - nfffffffluuuuuuuuuuuu
 - PrequelMemes

@@ -5,7 +5,6 @@ crosslinks:
 - DotA2
 - Portal
 - Steam
-- livven
 - Games
 - killthosewhodisagree
 - reddit_silver
@@ -14,7 +13,6 @@ crosslinks:
 - DataHoarder
 - taeyskadiedoaHAV
 - Serendipity
-- autotldr
 - gamedetectives
 - Physical_Removal
 - Artifact_Game

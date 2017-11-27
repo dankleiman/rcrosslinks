@@ -1,7 +1,6 @@
 ---
 title: WorldofTanks
 crosslinks:
-- livven
 - WorldofTanksConsole
 - Warthunder
 - xkcd

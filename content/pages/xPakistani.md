@@ -1,5 +1,0 @@
----
-title: xPakistani
-crosslinks:
-- autotldr
----

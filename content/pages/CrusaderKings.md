@@ -13,7 +13,6 @@ crosslinks:
 - CKCrusaders
 - paradoxpolitics
 - AskReddit
-- livven
 - dwarffortress
 - xkcd
 - Suomi

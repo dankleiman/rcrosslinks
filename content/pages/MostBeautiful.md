@@ -9,7 +9,6 @@ crosslinks:
 - india
 - travel
 - JapanTravel
-- livven
 - StartledCats
 - japanpics
 - mildlyinteresting

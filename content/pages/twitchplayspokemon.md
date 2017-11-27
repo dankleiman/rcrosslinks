@@ -10,7 +10,6 @@ crosslinks:
 - place
 - grandayy
 - PokemonPrism
-- livven
 - AskReddit
 - TheSilphRoad
 - wiiu

@@ -1,5 +1,0 @@
----
-title: FranklinExpedition
-crosslinks:
-- autotldr
----

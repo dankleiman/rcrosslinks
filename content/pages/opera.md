@@ -3,7 +3,6 @@ title: opera
 crosslinks:
 - NYCopera
 - classicalmusic
-- autotldr
 - OperaCircleJerk
 - AskHistorians
 - puzzles

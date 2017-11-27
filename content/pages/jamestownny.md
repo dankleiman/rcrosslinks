@@ -1,5 +1,0 @@
----
-title: jamestownny
-crosslinks:
-- autotldr
----

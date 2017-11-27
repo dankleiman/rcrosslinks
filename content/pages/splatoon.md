@@ -3,7 +3,6 @@ title: splatoon
 crosslinks:
 - mylittlepony
 - NintendoSwitch
-- livven
 - Saltoon
 - place
 - Callieism

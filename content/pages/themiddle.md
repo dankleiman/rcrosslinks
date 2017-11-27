@@ -1,5 +1,0 @@
----
-title: themiddle
-crosslinks:
-- autotldr
----

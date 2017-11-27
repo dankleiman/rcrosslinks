@@ -1,5 +1,0 @@
----
-title: buttfinger
-crosslinks:
-- livven
----

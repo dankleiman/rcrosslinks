@@ -1,10 +1,8 @@
 ---
 title: DeFranco
 crosslinks:
-- autotldr
 - videos
 - news
-- livven
 - The_Donald
 - SquaredCircle
 - OutOfTheLoop

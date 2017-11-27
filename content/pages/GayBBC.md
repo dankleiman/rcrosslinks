@@ -1,5 +1,0 @@
----
-title: GayBBC
-crosslinks:
-- livven
----

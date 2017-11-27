@@ -2,7 +2,6 @@
 title: k_on
 crosslinks:
 - Pixiv
-- livven
 - anime
 - Animemes
 - awwnime

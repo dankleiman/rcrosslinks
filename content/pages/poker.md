@@ -1,9 +1,7 @@
 ---
 title: poker
 crosslinks:
-- livven
 - IAmA
-- autotldr
 - golf
 - Poker_Theory
 - pokercirclejerk

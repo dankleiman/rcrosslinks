@@ -4,6 +4,5 @@ crosslinks:
 - Bitcoin
 - Bitcoincash
 - Buttcoin
-- autotldr
 - redditrequest
 ---

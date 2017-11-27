@@ -3,7 +3,6 @@ title: Piracy
 crosslinks:
 - trackers
 - megalinks
-- autotldr
 - VPN
 - CrackWatch
 - deezloader

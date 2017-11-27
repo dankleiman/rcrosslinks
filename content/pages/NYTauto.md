@@ -1,5 +1,0 @@
----
-title: NYTauto
-crosslinks:
-- autotldr
----

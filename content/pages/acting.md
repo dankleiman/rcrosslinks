@@ -17,7 +17,6 @@ crosslinks:
 - learnart
 - CorgiGifs
 - cocktails
-- autotldr
 - asoiaf
 - 2m4y492
 - VoiceActing

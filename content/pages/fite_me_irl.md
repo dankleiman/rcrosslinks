@@ -1,7 +1,6 @@
 ---
 title: fite_me_irl
 crosslinks:
-- livven
 - wtfstockphotos
 - Justfuckmyshitup
 - WTF

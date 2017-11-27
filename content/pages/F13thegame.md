@@ -1,7 +1,6 @@
 ---
 title: F13thegame
 crosslinks:
-- livven
 - fridaythe13th
 - FridayThe13thGame
 - movies

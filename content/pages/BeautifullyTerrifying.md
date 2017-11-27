@@ -1,5 +1,0 @@
----
-title: BeautifullyTerrifying
-crosslinks:
-- livven
----

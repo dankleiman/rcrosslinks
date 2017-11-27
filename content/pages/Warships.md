@@ -1,8 +1,6 @@
 ---
 title: Warships
 crosslinks:
-- autotldr
-- livven
 - news
 - WorldOfWarships
 - gifs

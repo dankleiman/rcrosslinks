@@ -20,5 +20,4 @@ crosslinks:
 - flyfishing
 - minimalism
 - work
-- autotldr
 ---

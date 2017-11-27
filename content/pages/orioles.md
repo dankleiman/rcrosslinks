@@ -2,12 +2,10 @@
 title: orioles
 crosslinks:
 - reddit_stream
-- livven
 - redsox
 - MLBStreams
 - highqualitygifs
 - nfl
-- autotldr
 - NYYankees
 - MLS
 - Nationals

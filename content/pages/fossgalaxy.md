@@ -1,5 +1,0 @@
----
-title: fossgalaxy
-crosslinks:
-- autotldr
----

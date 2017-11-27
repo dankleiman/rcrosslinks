@@ -2,7 +2,6 @@
 title: bdsm
 crosslinks:
 - BDSMcommunity
-- autotldr
 - MaxineSapphire
 - freeuse
 - gonewildaudio

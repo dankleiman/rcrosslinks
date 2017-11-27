@@ -15,5 +15,4 @@ crosslinks:
 - rarepuppers
 - 1200isplenty
 - Justrolledintotheshop
-- autotldr
 ---

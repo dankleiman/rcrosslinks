@@ -1,5 +1,0 @@
----
-title: theuncannyvalley
-crosslinks:
-- livven
----

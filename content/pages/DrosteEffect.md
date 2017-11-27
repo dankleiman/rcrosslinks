@@ -5,7 +5,6 @@ crosslinks:
 - pics
 - vexillologycirclejerk
 - me_irl
-- livven
 - gaming
 - funny
 - AnAttemptWasMade

@@ -1,5 +1,0 @@
----
-title: drought
-crosslinks:
-- autotldr
----

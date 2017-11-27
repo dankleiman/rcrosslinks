@@ -1,5 +1,0 @@
----
-title: shittymemes
-crosslinks:
-- livven
----

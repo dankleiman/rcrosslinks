@@ -1,7 +1,6 @@
 ---
 title: DotA2
 crosslinks:
-- livven
 - learndota2
 - Dota2Trade
 - TrueDoTA2

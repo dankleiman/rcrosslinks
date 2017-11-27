@@ -1,7 +1,6 @@
 ---
 title: michaelbaygifs
 crosslinks:
-- livven
 - funny
 - PeopleFuckingDying
 - WTF

@@ -1,9 +1,7 @@
 ---
 title: dubai
 crosslinks:
-- autotldr
 - pics
-- livven
 - AskReddit
 - india
 - Fitness

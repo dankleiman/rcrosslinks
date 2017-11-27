@@ -1,5 +1,0 @@
----
-title: AnimalsKillingPeople
-crosslinks:
-- livven
----

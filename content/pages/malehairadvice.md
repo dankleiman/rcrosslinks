@@ -6,7 +6,6 @@ crosslinks:
 - tressless
 - NoPoo
 - Pomade
-- livven
 - HaircareScience
 - FancyFollicles
 - malegrooming

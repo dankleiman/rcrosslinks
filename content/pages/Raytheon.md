@@ -1,7 +1,6 @@
 ---
 title: Raytheon
 crosslinks:
-- autotldr
 - me_irl
 - news
 - worldnews

@@ -1,7 +1,6 @@
 ---
 title: therewasanattempt
 crosslinks:
-- livven
 - gifs
 - funny
 - WhyWereTheyFilming

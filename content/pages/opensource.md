@@ -1,7 +1,6 @@
 ---
 title: opensource
 crosslinks:
-- autotldr
 - linux
 - xkcd
 - sysadmin

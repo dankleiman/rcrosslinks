@@ -13,7 +13,6 @@ crosslinks:
 - ArtistLounge
 - HungryArtists
 - SmutBuddy
-- livven
 - restofthefuckingowl
 - artlessons
 - NewMastersAcademy

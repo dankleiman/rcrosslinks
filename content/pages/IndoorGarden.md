@@ -19,6 +19,5 @@ crosslinks:
 - AmericanPlantSwap
 - aerogarden
 - terrariums
-- livven
 - coffee
 ---

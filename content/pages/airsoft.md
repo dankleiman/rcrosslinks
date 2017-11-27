@@ -3,7 +3,6 @@ title: airsoft
 crosslinks:
 - airsoftmarket
 - airsoftcirclejerk
-- livven
 - weekendgunnit
 - airsoftgore
 - airsoftmarketcanada

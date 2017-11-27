@@ -1,5 +1,0 @@
----
-title: OpenAzerbaijan
-crosslinks:
-- autotldr
----

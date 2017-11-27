@@ -1,7 +1,6 @@
 ---
 title: MineralPorn
 crosslinks:
-- livven
 - geologyporn
 - BrasilOnReddit
 - stevenuniverse

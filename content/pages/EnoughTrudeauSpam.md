@@ -1,5 +1,0 @@
----
-title: EnoughTrudeauSpam
-crosslinks:
-- livven
----

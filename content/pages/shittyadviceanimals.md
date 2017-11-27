@@ -2,7 +2,6 @@
 title: shittyadviceanimals
 crosslinks:
 - AdviceAnimals
-- livven
 - rickandmorty
 - ScottishPeopleTwitter
 - shittyshittyadviceani

@@ -1,10 +1,8 @@
 ---
 title: Miami
 crosslinks:
-- autotldr
 - ChismosasDeMiami
 - TropicalWeather
-- livven
 - SouthFlorida
 - VisitingMiami
 - legaladvice

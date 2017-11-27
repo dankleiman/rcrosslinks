@@ -1,7 +1,6 @@
 ---
 title: hardbodies
 crosslinks:
-- livven
 - fitgirls
 - Death_By_SnuSnu
 - FitAndNatural

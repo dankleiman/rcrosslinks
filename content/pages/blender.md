@@ -1,7 +1,6 @@
 ---
 title: blender
 crosslinks:
-- livven
 - Simulated
 - Daily3D
 - IAmA

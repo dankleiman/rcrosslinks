@@ -1,5 +1,0 @@
----
-title: Ghibligifs
-crosslinks:
-- livven
----

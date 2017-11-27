@@ -1,7 +1,6 @@
 ---
 title: IndieGaming
 crosslinks:
-- livven
 - indiegames
 - gaming
 - gamedev

@@ -2,7 +2,6 @@
 title: Charlotte
 crosslinks:
 - ShadowBan
-- autotldr
 - Atlanta
 - charlotteclassifieds
 - Charlotte_NC

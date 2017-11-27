@@ -5,7 +5,6 @@ crosslinks:
 - programmingtools
 - Python
 - ProgrammerHumor
-- autotldr
 - PHPhelp
 - learnpython
 - xkcd

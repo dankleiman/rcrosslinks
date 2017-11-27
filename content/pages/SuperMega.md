@@ -1,7 +1,6 @@
 ---
 title: SuperMega
 crosslinks:
-- livven
 - gamegrumps
 - me_irl
 - CrappyDesign
@@ -10,5 +9,4 @@ crosslinks:
 - FilthyFrank
 - vexillology
 - rantgrumps
-- autotldr
 ---

@@ -1,5 +1,0 @@
----
-title: CollectiveIQ
-crosslinks:
-- autotldr
----

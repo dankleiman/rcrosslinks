@@ -1,5 +1,0 @@
----
-title: philcollins
-crosslinks:
-- livven
----

@@ -5,8 +5,6 @@ crosslinks:
 - DisneyAnimalKingdom
 - Disneyland
 - disney
-- autotldr
-- livven
 - churning
 - TropicalWeather
 - DisneyPinSwap

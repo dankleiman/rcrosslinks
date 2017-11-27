@@ -6,7 +6,6 @@ crosslinks:
 - Drama
 - LateStageCapitalism
 - AskReddit
-- livven
 - copypasta
 - kangz
 - politics
@@ -16,7 +15,6 @@ crosslinks:
 - KotakuInAction
 - ImGoingToHellForThis
 - funny
-- autotldr
 - OutOfTheLoop
 - vegan
 - Wtfandom

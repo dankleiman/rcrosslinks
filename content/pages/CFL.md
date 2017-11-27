@@ -1,7 +1,6 @@
 ---
 title: CFL
 crosslinks:
-- livven
 - CFLStreams
 - onguardforthee
 - nfl

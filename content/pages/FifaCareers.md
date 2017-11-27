@@ -2,7 +2,6 @@
 title: FifaCareers
 crosslinks:
 - FIFA
-- livven
 - FIFA_YSL
 - raerth
 - safc

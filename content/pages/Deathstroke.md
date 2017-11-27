@@ -1,5 +1,0 @@
----
-title: Deathstroke
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: Theatre
 crosslinks:
-- autotldr
 - techtheatre
 - Plays
 - AMAAggregator

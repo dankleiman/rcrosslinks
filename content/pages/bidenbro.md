@@ -1,7 +1,6 @@
 ---
 title: bidenbro
 crosslinks:
-- livven
 - DankMemeArchive
 - ComedyCemetery
 - The_Donald

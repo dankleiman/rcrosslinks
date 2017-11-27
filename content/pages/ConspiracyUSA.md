@@ -1,5 +1,0 @@
----
-title: ConspiracyUSA
-crosslinks:
-- autotldr
----

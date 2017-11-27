@@ -1,5 +1,0 @@
----
-title: oscilloscope
-crosslinks:
-- livven
----

@@ -3,7 +3,6 @@ title: tinyanimalsonfingers
 crosslinks:
 - aww
 - thingsforants
-- livven
 - mildlyinteresting
 - Sneks
 - NatureIsFuckingLit

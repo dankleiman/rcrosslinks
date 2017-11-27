@@ -1,5 +1,0 @@
----
-title: Belichick
-crosslinks:
-- livven
----

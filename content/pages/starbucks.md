@@ -1,7 +1,6 @@
 ---
 title: starbucks
 crosslinks:
-- livven
 - keto
 - SirensGoneWild
 - shittychurning
@@ -10,7 +9,6 @@ crosslinks:
 - UnexpectedHamilton
 - LateStageCapitalism
 - Coffee
-- autotldr
 - gatekeeping
 - HailCorporate
 - funny

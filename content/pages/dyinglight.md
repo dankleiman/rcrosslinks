@@ -1,7 +1,6 @@
 ---
 title: dyinglight
 crosslinks:
-- livven
 - GameDeals
 - deadisland
 - oculus

@@ -5,7 +5,6 @@ crosslinks:
 - shinju
 - ochokocup
 - darksouls
-- livven
 - Gamingcirclejerk
 - PS4
 - gatekeeping

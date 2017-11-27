@@ -6,6 +6,5 @@ crosslinks:
 - MouseReview
 - programmingrequests
 - amazon
-- livven
 - Zeos
 ---

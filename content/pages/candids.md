@@ -1,5 +1,0 @@
----
-title: candids
-crosslinks:
-- livven
----

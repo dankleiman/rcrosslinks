@@ -14,7 +14,6 @@ crosslinks:
 - science
 - mentalhealth
 - woahdude
-- autotldr
 - hrtformentalhealth
 - poetry_critics
 - BipolarReddit

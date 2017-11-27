@@ -11,7 +11,6 @@ crosslinks:
 - Mi4c
 - android
 - EmulationOnAndroid
-- autotldr
 - xdacirclejerk
 - MotoG
 - 2428s5z

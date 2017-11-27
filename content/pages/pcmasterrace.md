@@ -2,7 +2,6 @@
 title: pcmasterrace
 crosslinks:
 - xkcd
-- autotldr
 - SuggestALaptop
 - microsoftsoftwareswap
 - overclocking

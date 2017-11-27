@@ -3,10 +3,8 @@ title: vfx
 crosslinks:
 - Filmmakers
 - movies
-- livven
 - headphones
 - VFXUnion
-- autotldr
 - MattePainting
 - VideoEditing
 - animation

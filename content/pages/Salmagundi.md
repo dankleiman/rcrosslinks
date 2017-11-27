@@ -1,5 +1,0 @@
----
-title: Salmagundi
-crosslinks:
-- autotldr
----

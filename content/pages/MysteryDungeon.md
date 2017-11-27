@@ -5,7 +5,6 @@ crosslinks:
 - pokemon
 - place
 - PMDCommunityProjects
-- livven
 - me_irl
 - Cannons
 - UnexpectedJoJo

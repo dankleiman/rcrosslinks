@@ -1,5 +1,0 @@
----
-title: BodyHarness
-crosslinks:
-- livven
----

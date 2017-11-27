@@ -12,5 +12,4 @@ crosslinks:
 - Smite
 - xkcd
 - GIRLSundPANZER
-- livven
 ---

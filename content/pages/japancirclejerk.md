@@ -16,7 +16,6 @@ crosslinks:
 - Drama
 - worldnews
 - teachinginjapan
-- autotldr
 - relationships
 - Laowinning
 - CringeAnarchy

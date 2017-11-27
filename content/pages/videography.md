@@ -4,7 +4,6 @@ crosslinks:
 - Filmmakers
 - PanasonicG7
 - photography
-- livven
 - editors
 - 8mm
 - GH5

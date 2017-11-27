@@ -1,7 +1,6 @@
 ---
 title: alltheleft
 crosslinks:
-- autotldr
 - LeftWithoutEdge
 - pics
 - progressive

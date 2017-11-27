@@ -1,7 +1,6 @@
 ---
 title: canada
 crosslinks:
-- autotldr
 - metacanada
 - xkcd
 - CanadaPolitics

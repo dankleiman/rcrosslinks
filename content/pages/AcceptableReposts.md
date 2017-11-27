@@ -1,5 +1,0 @@
----
-title: AcceptableReposts
-crosslinks:
-- livven
----

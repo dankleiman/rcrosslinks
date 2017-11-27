@@ -1,7 +1,6 @@
 ---
 title: acecombat
 crosslinks:
-- livven
 - civ
 - aviation
 - place

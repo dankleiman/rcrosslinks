@@ -1,8 +1,6 @@
 ---
 title: SiliconValleyHBO
 crosslinks:
-- livven
-- autotldr
 - ethtrader
 - IAmA
 - pics

@@ -1,5 +1,0 @@
----
-title: FuturamaGifs
-crosslinks:
-- livven
----

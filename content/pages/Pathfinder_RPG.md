@@ -16,7 +16,6 @@ crosslinks:
 - Ichthus95
 - gametales
 - DMDadJokes
-- livven
 - resurrection
 - xkcd
 - savageworlds

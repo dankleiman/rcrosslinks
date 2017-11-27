@@ -3,7 +3,6 @@ title: ipcirclejerk
 crosslinks:
 - Palestine
 - Israel
-- autotldr
 - IsraelPalestine
 - mylittlepony
 - AMAAggregator

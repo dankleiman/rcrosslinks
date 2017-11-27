@@ -1,7 +1,6 @@
 ---
 title: BritishTV
 crosslinks:
-- autotldr
 - panelshow
 - femalesleuths
 - usenet

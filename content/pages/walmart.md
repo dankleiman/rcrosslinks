@@ -1,8 +1,6 @@
 ---
 title: walmart
 crosslinks:
-- livven
-- autotldr
 - funny
 - Shoplifting
 - WalmartLogistics

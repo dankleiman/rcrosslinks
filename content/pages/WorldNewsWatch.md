@@ -1,5 +1,0 @@
----
-title: WorldNewsWatch
-crosslinks:
-- autotldr
----

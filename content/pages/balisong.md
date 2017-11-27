@@ -1,11 +1,9 @@
 ---
 title: balisong
 crosslinks:
-- livven
 - Knife_Swap
 - help
 - xkcd
-- autotldr
 - airsoft
 - knives
 - gifs

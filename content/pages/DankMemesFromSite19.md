@@ -3,7 +3,6 @@ title: DankMemesFromSite19
 crosslinks:
 - SCP
 - SCPDeclassified
-- livven
 - surrealmemes
 - 093game
 - fivenightsatfreddys

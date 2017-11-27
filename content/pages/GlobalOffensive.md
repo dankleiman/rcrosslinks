@@ -3,7 +3,6 @@ title: GlobalOffensive
 crosslinks:
 - NoParticipation
 - headphones
-- livven
 - DotA2
 - RecruitCS
 - Steam

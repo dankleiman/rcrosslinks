@@ -6,7 +6,6 @@ crosslinks:
 - EnoughBrocialistSpam
 - traaaaaaannnnnnnnnns
 - COMPLETEANIMEARCHY
-- livven
 - Gunime
 - socialism
 - TwoBestFriendsPlay

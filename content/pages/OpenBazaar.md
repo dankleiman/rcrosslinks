@@ -3,7 +3,6 @@ title: OpenBazaar
 crosslinks:
 - Buttcoin
 - Bitcoin
-- autotldr
 - ethereum
 - dashpay
 - ipfs

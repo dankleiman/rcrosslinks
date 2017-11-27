@@ -2,7 +2,6 @@
 title: ShittyGifRecipes
 crosslinks:
 - GifRecipes
-- livven
 - ketchuphate
 - thisiswhyyourefat
 - PutAnEggOnIt

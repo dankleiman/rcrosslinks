@@ -1,7 +1,6 @@
 ---
 title: Dinosaurs
 crosslinks:
-- autotldr
 - science
 - Paleontology
 - CoolDinosaurPictures

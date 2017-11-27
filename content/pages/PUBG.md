@@ -2,7 +2,6 @@
 title: PUBG
 crosslinks:
 - PUBATTLEGROUNDS
-- livven
 - Battlegrounds
 - REEEEEEEEEE
 - pcmasterrace

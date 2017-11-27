@@ -1,7 +1,6 @@
 ---
 title: ThickThighs
 crosslinks:
-- livven
 - Sexy_curves
 - ProgressiveGrowth
 - progresspics

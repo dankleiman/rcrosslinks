@@ -1,7 +1,6 @@
 ---
 title: youdontsurf
 crosslinks:
-- livven
 - wtfstockphotos
 - de
 - ComedyCemetery

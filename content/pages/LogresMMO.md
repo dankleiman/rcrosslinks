@@ -1,5 +1,0 @@
----
-title: LogresMMO
-crosslinks:
-- livven
----

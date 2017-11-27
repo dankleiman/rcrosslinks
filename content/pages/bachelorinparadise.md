@@ -1,5 +1,0 @@
----
-title: bachelorinparadise
-crosslinks:
-- autotldr
----

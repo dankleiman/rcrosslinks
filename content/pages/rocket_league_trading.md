@@ -8,5 +8,4 @@ crosslinks:
 - rocketleagueexhange
 - delusionalcraigslist
 - LowTierTradingRL
-- livven
 ---

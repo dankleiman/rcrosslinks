@@ -1,7 +1,6 @@
 ---
 title: sabaton
 crosslinks:
-- livven
 - asshole
 - nocontext
 - SwedenOnPlace

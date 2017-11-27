@@ -3,8 +3,6 @@ title: vegancirclejerk
 crosslinks:
 - vegan
 - vegetarian
-- livven
-- autotldr
 - EatCheapAndHealthy
 - interestingasfuck
 - AskReddit

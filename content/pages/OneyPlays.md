@@ -2,7 +2,6 @@
 title: OneyPlays
 crosslinks:
 - JonTron
-- livven
 - rantgrumps
 - CrappyDesign
 - iamverysmart

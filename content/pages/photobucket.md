@@ -1,5 +1,0 @@
----
-title: photobucket
-crosslinks:
-- autotldr
----

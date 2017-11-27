@@ -1,7 +1,6 @@
 ---
 title: EngineeringPorn
 crosslinks:
-- livven
 - mechanical_gifs
 - interestingasfuck
 - engineering
@@ -9,7 +8,6 @@ crosslinks:
 - videos
 - oddlysatisfying
 - Skookum
-- autotldr
 - gifsthatendtoosoon
 - VXJunkies
 - Machinists

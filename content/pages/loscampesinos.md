@@ -1,5 +1,0 @@
----
-title: loscampesinos
-crosslinks:
-- livven
----

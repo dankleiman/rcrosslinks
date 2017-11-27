@@ -1,5 +1,0 @@
----
-title: AmericansAgainstTrump
-crosslinks:
-- autotldr
----

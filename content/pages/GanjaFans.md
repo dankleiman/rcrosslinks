@@ -1,5 +1,0 @@
----
-title: GanjaFans
-crosslinks:
-- livven
----

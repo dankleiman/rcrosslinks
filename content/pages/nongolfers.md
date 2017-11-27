@@ -1,7 +1,6 @@
 ---
 title: nongolfers
 crosslinks:
-- livven
 - Frugal_Jerk
 - nocontext
 - todayilearned

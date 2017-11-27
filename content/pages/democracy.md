@@ -1,7 +1,6 @@
 ---
 title: democracy
 crosslinks:
-- autotldr
 - titlegore
 - philosophy
 - LeftCentral

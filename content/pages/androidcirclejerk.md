@@ -1,9 +1,7 @@
 ---
 title: androidcirclejerk
 crosslinks:
-- autotldr
 - Android
-- livven
 - applecirclejerk
 - xdacirclejerk
 - REEEEEEEEEE

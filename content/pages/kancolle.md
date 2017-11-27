@@ -4,7 +4,6 @@ crosslinks:
 - WorldOfWarships
 - Pixiv
 - KanMusu
-- livven
 - resinkits
 - REEEEEE
 - programming

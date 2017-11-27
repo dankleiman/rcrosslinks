@@ -1,9 +1,7 @@
 ---
 title: HiTMAN
 crosslinks:
-- livven
 - HITMANCONTRACTHUB
-- autotldr
 - Games
 - CrackWatch
 - respectthreads

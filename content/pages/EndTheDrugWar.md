@@ -1,5 +1,0 @@
----
-title: EndTheDrugWar
-crosslinks:
-- autotldr
----

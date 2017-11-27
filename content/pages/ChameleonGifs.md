@@ -1,5 +1,0 @@
----
-title: ChameleonGifs
-crosslinks:
-- livven
----

@@ -4,7 +4,6 @@ crosslinks:
 - nfl
 - EvilLeagueOfEvil
 - Colts
-- livven
 - Jaguars
 - Patriots
 - CoalitionAgainstEvil

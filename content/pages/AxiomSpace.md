@@ -1,5 +1,0 @@
----
-title: AxiomSpace
-crosslinks:
-- autotldr
----

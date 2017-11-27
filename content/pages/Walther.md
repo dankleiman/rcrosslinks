@@ -6,5 +6,4 @@ crosslinks:
 - aimdownsights
 - CCW
 - ThingsCutInHalfPorn
-- livven
 ---

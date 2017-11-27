@@ -2,7 +2,6 @@
 title: BoltEV
 crosslinks:
 - teslamotors
-- autotldr
 - cars
 - conspiracy
 - evplates

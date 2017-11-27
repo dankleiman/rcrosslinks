@@ -1,5 +1,0 @@
----
-title: DonaldTrumpIsAFaggot
-crosslinks:
-- autotldr
----

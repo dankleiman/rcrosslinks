@@ -2,7 +2,6 @@
 title: juicyasians
 crosslinks:
 - JavDownloadCenter
-- livven
 - NSFW_Hentai_n_Jav
 - anriokita
 - JavPreview

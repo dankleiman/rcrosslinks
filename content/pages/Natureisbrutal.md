@@ -1,7 +1,6 @@
 ---
 title: Natureisbrutal
 crosslinks:
-- livven
 - natureismetal
 - mildlyinteresting
 - awwwtf

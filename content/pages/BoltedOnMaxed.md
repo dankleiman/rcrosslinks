@@ -1,7 +1,6 @@
 ---
 title: BoltedOnMaxed
 crosslinks:
-- livven
 - glowtits
 - creepyasfuck
 - pornstarfashion

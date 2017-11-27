@@ -1,5 +1,0 @@
----
-title: aboutnews
-crosslinks:
-- livven
----

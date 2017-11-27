@@ -3,7 +3,6 @@ title: destiny2
 crosslinks:
 - DestinyTheGame
 - Fireteams
-- livven
 - DestinyFashion
 - pcmasterrace
 - Overwatch

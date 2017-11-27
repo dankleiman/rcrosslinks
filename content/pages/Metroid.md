@@ -7,7 +7,6 @@ crosslinks:
 - NintendoSwitch
 - metroidcirclejerk
 - 3DS
-- livven
 - gaming
 - metroidvania
 - place

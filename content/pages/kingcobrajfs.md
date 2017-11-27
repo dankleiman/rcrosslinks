@@ -1,7 +1,6 @@
 ---
 title: kingcobrajfs
 crosslinks:
-- livven
 - cringe
 - TheInternetCollective
 - Drama

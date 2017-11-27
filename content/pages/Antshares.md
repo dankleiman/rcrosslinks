@@ -10,9 +10,7 @@ crosslinks:
 - dogecoin
 - Neotrader
 - Antcoins
-- autotldr
 - NEO
-- livven
 - QRL
 - neocoins
 - Iota

@@ -1,5 +1,0 @@
----
-title: OddlyStabilized
-crosslinks:
-- livven
----

@@ -15,7 +15,6 @@ crosslinks:
 - formula1
 - mildlyinteresting
 - LinuxCringe
-- livven
 - allaccessplaylists
 - excgarated
 - The_Donald

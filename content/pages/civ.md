@@ -14,7 +14,6 @@ crosslinks:
 - tf2
 - gaming
 - civ_memes
-- livven
 - Steam
 - AskReddit
 - CivStrategy

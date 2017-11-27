@@ -1,7 +1,6 @@
 ---
 title: DNCleaks
 crosslinks:
-- autotldr
 - The_Donald
 - WikiLeaks
 - conspiracy

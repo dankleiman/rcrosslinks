@@ -1,5 +1,0 @@
----
-title: moonbases
-crosslinks:
-- autotldr
----

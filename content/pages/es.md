@@ -2,7 +2,6 @@
 title: es
 crosslinks:
 - zeronet
-- livven
 - europe
 - podemos
 - placeES
@@ -12,7 +11,6 @@ crosslinks:
 - Spanish
 - de
 - finanzas
-- autotldr
 - techsupport
 - NoStupidQuestions
 - exmuslim

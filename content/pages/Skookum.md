@@ -1,7 +1,6 @@
 ---
 title: Skookum
 crosslinks:
-- livven
 - Justrolledintotheshop
 - xkcd
 - VXJunkies
@@ -19,6 +18,5 @@ crosslinks:
 - BuyItForLife
 - Shitty_Car_Mods
 - keming
-- autotldr
 - amateurradio
 ---

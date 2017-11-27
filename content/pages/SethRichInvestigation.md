@@ -1,5 +1,0 @@
----
-title: SethRichInvestigation
-crosslinks:
-- autotldr
----

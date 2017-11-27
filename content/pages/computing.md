@@ -7,7 +7,6 @@ crosslinks:
 - gis
 - xkcd
 - Dell
-- autotldr
 - techsupport
 - google
 - SuggestALaptop

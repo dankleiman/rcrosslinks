@@ -1,7 +1,6 @@
 ---
 title: IndieDev
 crosslinks:
-- livven
 - gamedev
 - gameDevClassifieds
 - INAT

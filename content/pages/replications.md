@@ -1,7 +1,6 @@
 ---
 title: replications
 crosslinks:
-- livven
 - woahdude
 - LSD
 - Salvia

@@ -2,7 +2,6 @@
 title: TapTitans2
 crosslinks:
 - MintCoin
-- livven
 - TapTitans
 - Unity2D
 - coffeefromtaptitans

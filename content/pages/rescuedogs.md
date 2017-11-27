@@ -1,7 +1,6 @@
 ---
 title: rescuedogs
 crosslinks:
-- livven
 - dogs
 - BeautyQueens
 - Serendipity

@@ -5,7 +5,6 @@ crosslinks:
 - newreddits_nsfw
 - CyonakLegion
 - The_Donald_Lol
-- autotldr
 - xkcd
 - INEEEEDIT
 - HateCrimeHoaxes

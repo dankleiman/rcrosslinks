@@ -1,5 +1,0 @@
----
-title: thisviolentdelight
-crosslinks:
-- livven
----

@@ -6,7 +6,6 @@ crosslinks:
 - DIY
 - redditrequest
 - OSHA
-- autotldr
 - BuildingCodes
 - AskEngineers
 - Futurology
@@ -16,7 +15,6 @@ crosslinks:
 - BlueCollarWomen
 - dating
 - architecture
-- livven
 - interestingasfuck
 - videos
 - sales

@@ -9,9 +9,7 @@ crosslinks:
 - dash
 - BitcoinMarkets
 - xmrtrader
-- livven
 - ethereum
-- autotldr
 - jaxx
 - MoneroMarketing
 - CryptoMarkets

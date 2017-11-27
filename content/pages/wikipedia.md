@@ -2,7 +2,6 @@
 title: wikipedia
 crosslinks:
 - xkcd
-- autotldr
 - UnresolvedMysteries
 - changemyview
 - HitlerSpam

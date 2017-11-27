@@ -3,7 +3,6 @@ title: 49ers
 crosslinks:
 - nfl
 - reddit_stream
-- livven
 - NFL_Draft
 - EvilLeagueOfEvil
 - Redskins

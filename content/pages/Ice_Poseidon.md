@@ -2,7 +2,6 @@
 title: Ice_Poseidon
 crosslinks:
 - REEEEEEEEEE
-- livven
 - iceposeidonuncensored
 - LivestreamFail
 - 2007scape
@@ -16,7 +15,6 @@ crosslinks:
 - Scufious
 - OutOfTheLoop
 - Destiny
-- autotldr
 - Greekgodx
 - RoastMe
 - place

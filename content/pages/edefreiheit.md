@@ -3,7 +3,6 @@ title: edefreiheit
 crosslinks:
 - de
 - The_Donald
-- autotldr
 - europe
 - Austria
 - edefreiheitOhneRegeln

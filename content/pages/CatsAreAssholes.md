@@ -1,7 +1,6 @@
 ---
 title: CatsAreAssholes
 crosslinks:
-- livven
 - aww
 - CatsStandingUp
 - thecatdimension

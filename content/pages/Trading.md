@@ -4,6 +4,5 @@ crosslinks:
 - Hunting
 - numerai
 - Forex
-- autotldr
 - xkcd
 ---

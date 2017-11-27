@@ -1,8 +1,6 @@
 ---
 title: pettybickering
 crosslinks:
-- autotldr
-- livven
 - Fuckthealtright
 - CanadaPolitics
 - darklyironicnews

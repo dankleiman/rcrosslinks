@@ -1,5 +1,0 @@
----
-title: wildhorses
-crosslinks:
-- autotldr
----

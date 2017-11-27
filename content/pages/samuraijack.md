@@ -1,7 +1,6 @@
 ---
 title: samuraijack
 crosslinks:
-- livven
 - JonTron
 - xkcd
 - RemasterSamuraiJack

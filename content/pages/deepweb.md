@@ -6,7 +6,6 @@ crosslinks:
 - TOR
 - DNMSuperlist
 - darknetmarkets
-- autotldr
 - sadsatan
 - confession
 - emailprivacy

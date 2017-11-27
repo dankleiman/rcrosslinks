@@ -6,7 +6,6 @@ crosslinks:
 - KNSFarm
 - Serendipity
 - InternetIsInteresting
-- livven
 - packgoats
 - interestingasfuck
 ---

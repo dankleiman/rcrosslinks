@@ -1,5 +1,0 @@
----
-title: ucurations
-crosslinks:
-- autotldr
----

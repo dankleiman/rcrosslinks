@@ -3,7 +3,6 @@ title: danganronpa
 crosslinks:
 - ultimategamer
 - AceAttorney
-- livven
 - ultimateprogrammer
 - teenagers
 - ultimatedetective

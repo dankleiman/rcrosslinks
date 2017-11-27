@@ -1,5 +1,0 @@
----
-title: OurDailyNews
-crosslinks:
-- autotldr
----

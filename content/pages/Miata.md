@@ -1,7 +1,6 @@
 ---
 title: Miata
 crosslinks:
-- livven
 - AutoDetailing
 - cars
 - autodetailing

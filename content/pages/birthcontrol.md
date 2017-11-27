@@ -6,7 +6,6 @@ crosslinks:
 - SkincareAddiction
 - steroids
 - AskWomen
-- autotldr
 - PCOS
 - TheGirlSurvivalGuide
 - sex

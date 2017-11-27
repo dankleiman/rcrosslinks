@@ -1,5 +1,0 @@
----
-title: grantmacewan
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: srilanka
 crosslinks:
-- autotldr
 - WorldDailyTops
 - place
 - kuttichevuru

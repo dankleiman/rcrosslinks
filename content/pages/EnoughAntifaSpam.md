@@ -6,6 +6,5 @@ crosslinks:
 - worstof
 - Anarchism
 - FULLCOMMUNISM
-- autotldr
 - Physical_Removal
 ---

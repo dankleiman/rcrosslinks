@@ -3,7 +3,6 @@ title: tdi
 crosslinks:
 - Volkswagen
 - cars
-- autotldr
 - teslamotors
 - askcarsales
 - vandwelling

@@ -1,7 +1,6 @@
 ---
 title: Ponytails
 crosslinks:
-- livven
 - redlingerie
 - AmandaEliseLee
 - nsfw

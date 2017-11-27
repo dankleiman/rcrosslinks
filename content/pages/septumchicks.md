@@ -1,5 +1,0 @@
----
-title: septumchicks
-crosslinks:
-- livven
----

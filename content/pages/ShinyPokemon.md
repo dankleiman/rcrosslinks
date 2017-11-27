@@ -4,7 +4,6 @@ crosslinks:
 - pokemon
 - pokemontrades
 - friendsafari
-- livven
 - pokemonrng
 - stunfisk
 - Pokemongiveaway

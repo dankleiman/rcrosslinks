@@ -1,7 +1,6 @@
 ---
 title: birding
 crosslinks:
-- autotldr
 - vexillology
 - Ornithology
 - aww

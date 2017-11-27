@@ -1,7 +1,6 @@
 ---
 title: Jordan_Peterson_Memes
 crosslinks:
-- livven
 - IAmA
 - JordanPeterson
 - The_Donald

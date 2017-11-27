@@ -1,5 +1,0 @@
----
-title: BabyFawns
-crosslinks:
-- livven
----

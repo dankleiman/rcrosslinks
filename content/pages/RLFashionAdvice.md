@@ -3,7 +3,6 @@ title: RLFashionAdvice
 crosslinks:
 - RocketLeagueExchange
 - RocketLeague
-- livven
 - CoDCompetitive
 - HotWheelsSoccer
 - WorldofTanks

@@ -11,7 +11,6 @@ crosslinks:
 - CryptoCurrency
 - factom
 - EthAnalysis
-- autotldr
 - tezos
 - Augur
 - pivx

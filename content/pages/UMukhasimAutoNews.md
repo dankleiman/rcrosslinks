@@ -1,7 +1,6 @@
 ---
 title: UMukhasimAutoNews
 crosslinks:
-- autotldr
 - TheColorIsRed
 - TheColorIsBlue
 - me_irl

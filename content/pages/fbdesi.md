@@ -6,7 +6,6 @@ crosslinks:
 - TwoXChromosomes
 - aznidentity
 - Anarcho_Capitalism
-- autotldr
 - AsianMasculinity
 - DarkSkinnedDesis
 - india

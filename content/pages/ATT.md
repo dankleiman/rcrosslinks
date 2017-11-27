@@ -4,7 +4,6 @@ crosslinks:
 - verizon
 - NoContract
 - Sprint
-- autotldr
 - apple
 - cricketgroups
 - attwireless

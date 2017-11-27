@@ -2,7 +2,6 @@
 title: SneerClub
 crosslinks:
 - slatestarcodex
-- autotldr
 - discussion
 - shittankiessay
 - Drama

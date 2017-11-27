@@ -1,11 +1,9 @@
 ---
 title: Earwolf
 crosslinks:
-- autotldr
 - hdtgm
 - JamesBond
 - television
-- livven
 - GiftofGames
 - Harmontown
 - magictavern

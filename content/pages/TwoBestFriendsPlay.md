@@ -1,8 +1,6 @@
 ---
 title: TwoBestFriendsPlay
 crosslinks:
-- livven
-- autotldr
 - PeachSaliva
 - anime
 - Games

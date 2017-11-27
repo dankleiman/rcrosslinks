@@ -1,13 +1,11 @@
 ---
 title: Rochester
 crosslinks:
-- autotldr
 - politics
 - URochester
 - EarthPorn
 - Buffalo
 - Concerts
-- livven
 - Roadcam
 - IAmA
 - AskReddit

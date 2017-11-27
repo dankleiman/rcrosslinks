@@ -3,7 +3,6 @@ title: Standup
 crosslinks:
 - topjokes
 - StandUpComedy
-- autotldr
 - standupshots
 - opieandanthony
 - StandUpWorkshop

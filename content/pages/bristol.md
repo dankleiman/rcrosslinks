@@ -1,7 +1,6 @@
 ---
 title: bristol
 crosslinks:
-- autotldr
 - whatisthisthing
 - Yogscast
 - unitedkingdom

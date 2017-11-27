@@ -1,5 +1,0 @@
----
-title: YogaWorkouts
-crosslinks:
-- livven
----

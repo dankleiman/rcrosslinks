@@ -1,7 +1,6 @@
 ---
 title: rapbattles
 crosslinks:
-- livven
 - hiphopheads
 - RapWars
 - FinancialAdvice

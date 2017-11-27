@@ -1,5 +1,0 @@
----
-title: lathegifs
-crosslinks:
-- livven
----

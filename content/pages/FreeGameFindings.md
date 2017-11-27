@@ -11,7 +11,6 @@ crosslinks:
 - xkcd
 - NoStupidQuestions
 - apphookup
-- autotldr
 - QuakeChampions
 - metric_units
 - hearthstone

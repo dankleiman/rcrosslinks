@@ -1,7 +1,6 @@
 ---
 title: HeroesandGenerals
 crosslinks:
-- livven
 - HnGCircleJerk
 - pcmasterrace
 - talesfromtechsupport

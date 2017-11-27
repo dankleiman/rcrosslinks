@@ -7,5 +7,4 @@ crosslinks:
 - Serendipity
 - FloridaGators
 - fsusports
-- livven
 ---

@@ -2,7 +2,6 @@
 title: boulder
 crosslinks:
 - Denver
-- autotldr
 - coloradohikers
 - xkcd
 - freeflight
@@ -12,7 +11,6 @@ crosslinks:
 - lithuania
 - Slackline
 - tifu
-- livven
 - alpha
 - orlando
 - AdviceAnimals

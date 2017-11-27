@@ -8,7 +8,6 @@ crosslinks:
 - litecoin
 - Iota
 - tippr
-- autotldr
 - NEO
 - digix
 - theydidthemath

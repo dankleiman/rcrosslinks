@@ -2,7 +2,6 @@
 title: ula
 crosslinks:
 - spacex
-- autotldr
 - space
 - rocketry
 - flying

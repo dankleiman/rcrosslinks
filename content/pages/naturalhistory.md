@@ -1,5 +1,0 @@
----
-title: naturalhistory
-crosslinks:
-- autotldr
----

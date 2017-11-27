@@ -1,7 +1,6 @@
 ---
 title: brexit
 crosslinks:
-- autotldr
 - ukpolitics
 - unitedkingdom
 - ukright
@@ -15,5 +14,4 @@ crosslinks:
 - streetart
 - The3Million
 - eu
-- livven
 ---

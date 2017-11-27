@@ -1,5 +1,0 @@
----
-title: Foxtails
-crosslinks:
-- livven
----

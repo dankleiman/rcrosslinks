@@ -1,5 +1,0 @@
----
-title: KendraJames
-crosslinks:
-- livven
----

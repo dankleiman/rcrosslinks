@@ -3,7 +3,6 @@ title: bipolar
 crosslinks:
 - BipolarReddit
 - BipolarSOs
-- livven
 - BPD
 - stopdrinking
 - SuicideWatch

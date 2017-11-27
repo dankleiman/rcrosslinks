@@ -12,7 +12,6 @@ crosslinks:
 - SolusProject
 - linux
 - archlinux
-- autotldr
 - Windows10
 - Fedora
 - hardwareswap

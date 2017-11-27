@@ -1,7 +1,6 @@
 ---
 title: shittyrainbow6
 crosslinks:
-- livven
 - REEEEEEEEEE
 - MemeEconomy
 - BrasilOnReddit

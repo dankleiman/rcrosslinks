@@ -5,7 +5,6 @@ crosslinks:
 - homestead
 - woodworking
 - SelfSufficiency
-- autotldr
 - TheHopyard
 - energy
 - OffGrid

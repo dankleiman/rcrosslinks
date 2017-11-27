@@ -6,7 +6,6 @@ crosslinks:
 - DownvoteTrolling
 - wicked_edge
 - everymanshouldknow
-- autotldr
 - somethingimade
 - AskMen
 - frugalmalefashion

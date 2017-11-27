@@ -1,7 +1,6 @@
 ---
 title: Agitative
 crosslinks:
-- autotldr
 - TheColorIsBlue
 - ReddLineNews
 - soccer

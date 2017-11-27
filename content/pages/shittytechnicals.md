@@ -7,7 +7,6 @@ crosslinks:
 - awesometechnicals
 - TankPorn
 - LakeLaogai
-- livven
 - HistoryPorn
 - Warthunder
 - YouSeeComrade

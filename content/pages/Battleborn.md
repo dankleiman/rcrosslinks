@@ -1,7 +1,6 @@
 ---
 title: Battleborn
 crosslinks:
-- livven
 - Overwatch
 - Games
 - pcgaming

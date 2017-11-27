@@ -7,7 +7,6 @@ crosslinks:
 - ethtrader
 - RedPulseToken
 - Bitcoin
-- autotldr
 - BNBTrader
 - ethereum
 - NavCoin

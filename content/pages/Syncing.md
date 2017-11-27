@@ -1,5 +1,0 @@
----
-title: Syncing
-crosslinks:
-- livven
----

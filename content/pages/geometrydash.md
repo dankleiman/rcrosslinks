@@ -1,7 +1,6 @@
 ---
 title: geometrydash
 crosslinks:
-- livven
 - LearnHowToSpoken
 - titlegore
 - CeasarNet

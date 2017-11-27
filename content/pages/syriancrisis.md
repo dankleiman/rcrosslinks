@@ -1,5 +1,0 @@
----
-title: syriancrisis
-crosslinks:
-- autotldr
----

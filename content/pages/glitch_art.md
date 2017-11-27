@@ -1,7 +1,6 @@
 ---
 title: glitch_art
 crosslinks:
-- livven
 - intothetunnel
 - pixelsorting
 - pics

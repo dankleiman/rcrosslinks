@@ -2,7 +2,6 @@
 title: gwent
 crosslinks:
 - hearthstone
-- livven
 - witcher
 - Competitive_Gwent
 - gwentcirclejerk

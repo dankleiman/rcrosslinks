@@ -1,7 +1,6 @@
 ---
 title: newsokuvip
 crosslinks:
-- livven
 - newsokur
 - Pixiv
 - futuu

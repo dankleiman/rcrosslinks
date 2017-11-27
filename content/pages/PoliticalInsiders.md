@@ -1,5 +1,0 @@
----
-title: PoliticalInsiders
-crosslinks:
-- autotldr
----

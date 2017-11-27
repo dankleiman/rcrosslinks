@@ -1,7 +1,6 @@
 ---
 title: whitebeauty
 crosslinks:
-- livven
 - altright
 - Hawtschwitz
 - BlackLivesMatter

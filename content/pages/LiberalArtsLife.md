@@ -1,5 +1,0 @@
----
-title: LiberalArtsLife
-crosslinks:
-- autotldr
----

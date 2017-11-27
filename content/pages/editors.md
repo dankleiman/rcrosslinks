@@ -5,7 +5,6 @@ crosslinks:
 - makethecut25
 - AudioPost
 - premiere
-- autotldr
 - AfterEffects
 - hackintosh
 - videoediting
@@ -16,7 +15,6 @@ crosslinks:
 - thinkpad
 - letsplay
 - SuggestALaptop
-- livven
 - VideoEditors
 - wacom
 - pcmasterrace

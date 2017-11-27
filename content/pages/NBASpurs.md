@@ -2,7 +2,6 @@
 title: NBASpurs
 crosslinks:
 - warriors
-- livven
 - place
 - rockets
 - IAmA

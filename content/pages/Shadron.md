@@ -1,5 +1,0 @@
----
-title: Shadron
-crosslinks:
-- livven
----

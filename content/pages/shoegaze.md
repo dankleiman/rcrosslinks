@@ -2,7 +2,6 @@
 title: shoegaze
 crosslinks:
 - nocontext
-- livven
 - smashups
 - ComedyCemetery
 - trees

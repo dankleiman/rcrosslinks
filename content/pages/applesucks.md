@@ -1,9 +1,7 @@
 ---
 title: applesucks
 crosslinks:
-- autotldr
 - apple
-- livven
 - iphone
 - softwaregore
 - funny

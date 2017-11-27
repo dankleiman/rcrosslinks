@@ -1,7 +1,6 @@
 ---
 title: Dirtybomb
 crosslinks:
-- livven
 - gaming
 - place
 - RecruitDB

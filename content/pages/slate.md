@@ -1,5 +1,0 @@
----
-title: slate
-crosslinks:
-- autotldr
----

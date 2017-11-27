@@ -1,5 +1,0 @@
----
-title: hacker
-crosslinks:
-- autotldr
----

@@ -8,7 +8,6 @@ crosslinks:
 - wma
 - Fencing
 - knives
-- autotldr
 - HemaScholar
 - HistoricMallNinjaShit
 - lifehacks

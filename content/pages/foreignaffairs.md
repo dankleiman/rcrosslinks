@@ -1,5 +1,0 @@
----
-title: foreignaffairs
-crosslinks:
-- autotldr
----

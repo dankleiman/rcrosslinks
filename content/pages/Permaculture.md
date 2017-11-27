@@ -5,7 +5,6 @@ crosslinks:
 - gardening
 - farming
 - PaulWheatonWatch
-- autotldr
 - homestead
 - iamverysmart
 - collapse
@@ -18,7 +17,6 @@ crosslinks:
 - shill
 - MushroomGrowers
 - Permies
-- livven
 - HawaiiGardening
 - Rad_Decentralization
 ---

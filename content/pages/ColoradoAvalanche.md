@@ -3,7 +3,6 @@ title: ColoradoAvalanche
 crosslinks:
 - hockey
 - hockeyjerseys
-- livven
 - NHLStreams
 - wildhockey
 - puckstreams

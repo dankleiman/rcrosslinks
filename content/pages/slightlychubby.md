@@ -1,7 +1,6 @@
 ---
 title: slightlychubby
 crosslinks:
-- livven
 - RepressedGoneWild
 - niceguys
 - Outies

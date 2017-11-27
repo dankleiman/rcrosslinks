@@ -20,5 +20,4 @@ crosslinks:
 - ModelUSGov
 - PodemosExterior
 - xkcd
-- autotldr
 ---

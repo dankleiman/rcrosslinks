@@ -2,7 +2,6 @@
 title: retiredgif
 crosslinks:
 - gifs
-- livven
 - videos
 - instant_regret
 - TheoryOfReddit

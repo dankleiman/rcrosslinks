@@ -5,7 +5,6 @@ crosslinks:
 - CirclejerkSopranos
 - Mafia
 - television
-- livven
 - modelmakers
 - legaladviceofftopic
 - opieandanthony

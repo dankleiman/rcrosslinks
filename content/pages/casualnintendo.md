@@ -1,7 +1,6 @@
 ---
 title: casualnintendo
 crosslinks:
-- livven
 - NintendoSwitch
 - gaming
 - zelda

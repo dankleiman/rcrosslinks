@@ -3,7 +3,6 @@ title: Denver
 crosslinks:
 - denverlist
 - Colorado
-- autotldr
 - COents
 - The_Donald
 - coloradohikers

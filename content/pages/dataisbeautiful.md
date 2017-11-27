@@ -2,7 +2,6 @@
 title: dataisbeautiful
 crosslinks:
 - The_Donald
-- autotldr
 - AskReddit
 - MapPorn
 - goodlongposts

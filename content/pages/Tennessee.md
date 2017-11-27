@@ -2,7 +2,6 @@
 title: Tennessee
 crosslinks:
 - nashville
-- autotldr
 - Chattanooga
 - memphis
 - Sparta

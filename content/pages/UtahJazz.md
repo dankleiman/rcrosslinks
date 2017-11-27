@@ -2,7 +2,6 @@
 title: UtahJazz
 crosslinks:
 - smallmarketsurvivor
-- livven
 - heat
 - LAClippers
 - memphisgrizzlies

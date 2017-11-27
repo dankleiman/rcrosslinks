@@ -17,7 +17,6 @@ crosslinks:
 - speedrun
 - pics
 - cringe
-- livven
 - SoundersFC
 - Gunners
 - avfc

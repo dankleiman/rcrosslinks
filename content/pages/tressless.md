@@ -18,7 +18,6 @@ crosslinks:
 - curlyhair
 - titlegore
 - short
-- autotldr
 - nofap
 - TheseFuckingAccounts
 ---

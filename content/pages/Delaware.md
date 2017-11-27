@@ -4,7 +4,6 @@ crosslinks:
 - WilmingtonDE
 - Shoplifting
 - DEGuns
-- autotldr
 - ColorizedHistory
 - AmericanPlantSwap
 - xkcd

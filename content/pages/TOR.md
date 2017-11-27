@@ -1,7 +1,6 @@
 ---
 title: TOR
 crosslinks:
-- autotldr
 - onions
 - emailprivacy
 - DarkNetMarkets

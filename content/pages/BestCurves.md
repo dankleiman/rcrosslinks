@@ -1,5 +1,0 @@
----
-title: BestCurves
-crosslinks:
-- livven
----

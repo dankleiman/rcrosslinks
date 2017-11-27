@@ -17,7 +17,6 @@ crosslinks:
 - xkcd
 - weekendgunnit
 - pussypassdenied
-- livven
 - iamverysmart
 - ComedyCemetery
 - OutOfTheLoop

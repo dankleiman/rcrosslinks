@@ -2,7 +2,6 @@
 title: duelyst
 crosslinks:
 - PixelArt
-- livven
 - gwent
 - hearthstone
 - duelystmemes

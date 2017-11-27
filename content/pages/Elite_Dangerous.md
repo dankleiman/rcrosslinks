@@ -3,7 +3,6 @@ title: Elite_Dangerous
 crosslinks:
 - EliteDangerous
 - EliteOne
-- livven
 - FederalDefenseLeague
 - eliteexplorers
 - aspsinfrontofthings

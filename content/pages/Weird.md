@@ -1,7 +1,6 @@
 ---
 title: Weird
 crosslinks:
-- autotldr
 - lolwat
 - 30ROCK
 - pilonidalcyst

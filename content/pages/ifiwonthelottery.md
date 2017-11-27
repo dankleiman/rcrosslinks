@@ -5,7 +5,6 @@ crosslinks:
 - illinois
 - nevertellmetheodds
 - TheDepthsBelow
-- livven
 - RoomPorn
 - IAmA
 - Lottery

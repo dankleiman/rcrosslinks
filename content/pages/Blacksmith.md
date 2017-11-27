@@ -17,7 +17,6 @@ crosslinks:
 - electricians
 - wtfdidijustread
 - hammerporn
-- livven
 - ArmsandArmor
 - ShadowBan
 - Bushcraft

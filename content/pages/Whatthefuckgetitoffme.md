@@ -1,7 +1,6 @@
 ---
 title: Whatthefuckgetitoffme
 crosslinks:
-- livven
 - gifs
 - CatsISUOTTATFO
 - WeatherGifs

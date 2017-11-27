@@ -7,7 +7,6 @@ crosslinks:
 - slashgaming
 - sysadmin
 - titlegore
-- livven
 - OutOfTheLoop
 - me_irl
 - ElysiumProject

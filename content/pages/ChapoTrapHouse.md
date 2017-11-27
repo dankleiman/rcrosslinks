@@ -1,7 +1,6 @@
 ---
 title: ChapoTrapHouse
 crosslinks:
-- autotldr
 - politics
 - Enough_Sanders_Spam
 - The_Donald
@@ -17,7 +16,6 @@ crosslinks:
 - EnoughTrumpSpam
 - Cumtown
 - news
-- livven
 - BadSocialScience
 - worldnews
 - KotakuInAction

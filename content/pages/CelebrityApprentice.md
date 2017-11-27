@@ -1,5 +1,0 @@
----
-title: CelebrityApprentice
-crosslinks:
-- autotldr
----

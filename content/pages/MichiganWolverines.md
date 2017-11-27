@@ -5,6 +5,5 @@ crosslinks:
 - CFB
 - uofm
 - TheB1G
-- livven
 - placeDE
 ---

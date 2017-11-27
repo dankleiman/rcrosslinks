@@ -1,5 +1,0 @@
----
-title: notmypresident
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: gonwild
 crosslinks:
-- livven
 - perfectloops
 - holofractal
 - loadingicon

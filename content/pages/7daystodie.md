@@ -1,7 +1,6 @@
 ---
 title: 7daystodie
 crosslinks:
-- livven
 - 7DaysToDieServers
 - self
 - thewalkingreddits

@@ -1,7 +1,6 @@
 ---
 title: shills
 crosslinks:
-- autotldr
 - TheoryOfReddit
 - conspiracy
 - TrueReddit

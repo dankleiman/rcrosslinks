@@ -16,7 +16,6 @@ crosslinks:
 - altcoin
 - statusim
 - IndieGaming
-- autotldr
 - CryptocurrencySA
 - heatledger
 - xdp

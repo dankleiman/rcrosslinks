@@ -1,5 +1,0 @@
----
-title: californiahate
-crosslinks:
-- autotldr
----

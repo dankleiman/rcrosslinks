@@ -1,7 +1,6 @@
 ---
 title: cakeday
 crosslinks:
-- livven
 - xkcd
 - u_BM802
 - ChargeYourPhone

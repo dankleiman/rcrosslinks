@@ -1,5 +1,0 @@
----
-title: renaissancehistory
-crosslinks:
-- autotldr
----

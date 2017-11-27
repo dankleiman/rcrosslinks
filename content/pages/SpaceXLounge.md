@@ -2,7 +2,6 @@
 title: SpaceXLounge
 crosslinks:
 - spacex
-- autotldr
 - SpaceXMasterrace
 - SpaceX
 - Colonizemars
@@ -16,7 +15,6 @@ crosslinks:
 - SiliconValleyHBO
 - BoringCompany
 - Braveryjerk
-- livven
 - nasa
 - thefinalclean
 - Rainmeter

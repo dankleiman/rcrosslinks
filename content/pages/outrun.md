@@ -1,7 +1,6 @@
 ---
 title: outrun
 crosslinks:
-- livven
 - itookapicture
 - Art
 - pics

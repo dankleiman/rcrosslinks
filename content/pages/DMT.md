@@ -5,7 +5,6 @@ crosslinks:
 - Psychonaut
 - DrugsOver30
 - LSD
-- livven
 - drugscirclejerk
 - replications
 - Damokian

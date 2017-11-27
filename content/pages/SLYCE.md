@@ -1,5 +1,0 @@
----
-title: SLYCE
-crosslinks:
-- livven
----

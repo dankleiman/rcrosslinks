@@ -1,5 +1,0 @@
----
-title: employeeoftheyear
-crosslinks:
-- livven
----

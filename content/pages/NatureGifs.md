@@ -1,7 +1,6 @@
 ---
 title: NatureGifs
 crosslinks:
-- livven
 - NatureIn60FPS
 - BatFacts
 - NatureIsFuckingLit

@@ -1,11 +1,9 @@
 ---
 title: southafrica
 crosslinks:
-- autotldr
 - worldnews
 - Azania
 - Drama
-- livven
 - pics
 - movies
 - capetown

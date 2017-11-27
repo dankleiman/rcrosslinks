@@ -1,5 +1,0 @@
----
-title: interfacegore
-crosslinks:
-- livven
----

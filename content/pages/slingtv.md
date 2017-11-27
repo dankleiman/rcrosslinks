@@ -7,6 +7,5 @@ crosslinks:
 - Hulu
 - metric_units
 - HailCorporate
-- autotldr
 - Vue
 ---

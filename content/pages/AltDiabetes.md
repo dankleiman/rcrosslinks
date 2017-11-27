@@ -1,5 +1,0 @@
----
-title: AltDiabetes
-crosslinks:
-- autotldr
----

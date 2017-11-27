@@ -1,5 +1,0 @@
----
-title: AnalogyGIF
-crosslinks:
-- livven
----

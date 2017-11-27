@@ -1,7 +1,6 @@
 ---
 title: Scientits
 crosslinks:
-- livven
 - xkcd
 - mildlyvagina
 - Animemes

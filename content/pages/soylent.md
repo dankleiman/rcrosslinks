@@ -9,7 +9,6 @@ crosslinks:
 - 30DaysofSoylent
 - xkcd
 - jimmyjoy
-- autotldr
 - formula1
 - todayilearned
 - Lr6OhyJCEQ

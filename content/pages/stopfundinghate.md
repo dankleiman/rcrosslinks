@@ -1,5 +1,0 @@
----
-title: stopfundinghate
-crosslinks:
-- autotldr
----

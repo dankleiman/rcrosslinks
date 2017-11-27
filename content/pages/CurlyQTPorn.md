@@ -1,5 +1,0 @@
----
-title: CurlyQTPorn
-crosslinks:
-- livven
----

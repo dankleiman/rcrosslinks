@@ -1,7 +1,6 @@
 ---
 title: thewestwing
 crosslinks:
-- autotldr
 - IAmA
 - The_Donald
 - vexillologycirclejerk

@@ -1,5 +1,0 @@
----
-title: JonStewart
-crosslinks:
-- autotldr
----

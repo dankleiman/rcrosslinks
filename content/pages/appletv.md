@@ -2,7 +2,6 @@
 title: appletv
 crosslinks:
 - sideloaded
-- autotldr
 - cordcutters
 - KodionATV4
 - apple
@@ -18,7 +17,6 @@ crosslinks:
 - PlotTwist
 - fireTV
 - ATT
-- livven
 - sodaplayer
 - videos
 ---

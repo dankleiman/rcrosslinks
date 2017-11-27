@@ -10,7 +10,6 @@ crosslinks:
 - UpTech
 - rosin
 - EntExchange
-- livven
 - CBD
 - WaxRDA
 - vapeheads

@@ -1,7 +1,6 @@
 ---
 title: yaoi
 crosslinks:
-- livven
 - yaoipics
 - l_search
 - Pixiv

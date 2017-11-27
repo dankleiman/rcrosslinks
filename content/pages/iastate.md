@@ -6,6 +6,5 @@ crosslinks:
 - Cartalk
 - ThePack
 - Serendipity
-- livven
 - Iowa
 ---

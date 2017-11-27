@@ -1,5 +1,0 @@
----
-title: ShotaconLollicon
-crosslinks:
-- livven
----

@@ -5,5 +5,4 @@ crosslinks:
 - Antipsychiatry
 - autismacceptance
 - MandelaEffect
-- autotldr
 ---

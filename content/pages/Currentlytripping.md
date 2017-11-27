@@ -1,7 +1,6 @@
 ---
 title: Currentlytripping
 crosslinks:
-- livven
 - Art
 - FractalGifs
 - pics

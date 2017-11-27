@@ -10,7 +10,6 @@ crosslinks:
 - HBL
 - TheHopyard
 - winemaking
-- autotldr
 - xkcd
 - AskReddit
 - DIY

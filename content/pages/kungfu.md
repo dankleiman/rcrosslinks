@@ -5,7 +5,6 @@ crosslinks:
 - wma
 - taijiquan
 - AsianMartialArts
-- livven
 - Serendipity
 - trans
 - intmararts

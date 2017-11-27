@@ -1,5 +1,0 @@
----
-title: BackOfAPostageStamp
-crosslinks:
-- autotldr
----

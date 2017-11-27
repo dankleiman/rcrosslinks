@@ -1,7 +1,6 @@
 ---
 title: Alt_Right
 crosslinks:
-- autotldr
 - AskHistorians
 - samharris
 - Pyongyang

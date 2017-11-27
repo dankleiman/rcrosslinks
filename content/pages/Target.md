@@ -2,8 +2,6 @@
 title: Target
 crosslinks:
 - Shoplifting
-- livven
-- autotldr
 - lossprevention
 - mildlyinteresting
 - legaladvice

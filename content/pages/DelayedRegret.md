@@ -1,5 +1,0 @@
----
-title: DelayedRegret
-crosslinks:
-- livven
----

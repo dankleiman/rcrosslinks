@@ -1,5 +1,0 @@
----
-title: ProgressAmarillo
-crosslinks:
-- autotldr
----

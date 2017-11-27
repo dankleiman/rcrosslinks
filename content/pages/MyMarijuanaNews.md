@@ -1,5 +1,0 @@
----
-title: MyMarijuanaNews
-crosslinks:
-- autotldr
----

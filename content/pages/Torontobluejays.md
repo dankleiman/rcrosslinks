@@ -1,7 +1,6 @@
 ---
 title: Torontobluejays
 crosslinks:
-- livven
 - MLBStreams
 - NYYankees
 - canucks

@@ -1,5 +1,0 @@
----
-title: angrycowgifs
-crosslinks:
-- livven
----

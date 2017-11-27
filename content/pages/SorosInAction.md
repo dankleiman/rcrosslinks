@@ -1,5 +1,0 @@
----
-title: SorosInAction
-crosslinks:
-- autotldr
----

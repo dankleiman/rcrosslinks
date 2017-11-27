@@ -1,7 +1,6 @@
 ---
 title: Microbiome
 crosslinks:
-- autotldr
 - science
 - Nootropics
 - AMAAggregator

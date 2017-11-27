@@ -6,7 +6,6 @@ crosslinks:
 - ecigclassifieds
 - DIY_classifieds
 - Coilporn
-- livven
 - vapeitforward
 - Deeper_DIY
 - shitty_ecr
@@ -15,7 +14,6 @@ crosslinks:
 - Canadian_ecigarette
 - OpenPV
 - ejuice_reviews
-- autotldr
 - causeWhyNotMate
 - RDA
 - Vaping101

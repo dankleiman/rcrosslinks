@@ -6,7 +6,6 @@ crosslinks:
 - tipofmypenis
 - theSourcer
 - Asshole_Lover
-- livven
 - holdthemoan
 - nsfw
 - nsfw_gifs

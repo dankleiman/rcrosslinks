@@ -5,5 +5,4 @@ crosslinks:
 - summonerschool
 - CreatorSuite
 - AMAAggregator
-- livven
 ---

@@ -1,8 +1,6 @@
 ---
 title: 30ROCK
 crosslinks:
-- livven
-- autotldr
 - television
 - KimmySchmidt
 - GreatNewsTV

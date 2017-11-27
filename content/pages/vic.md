@@ -1,5 +1,0 @@
----
-title: vic
-crosslinks:
-- autotldr
----

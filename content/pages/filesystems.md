@@ -1,5 +1,0 @@
----
-title: filesystems
-crosslinks:
-- autotldr
----

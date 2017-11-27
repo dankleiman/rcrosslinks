@@ -16,7 +16,6 @@ crosslinks:
 - announcements
 - Judaism
 - ReformedLeft
-- autotldr
 - ChurchPlanters
 - theology
 - BestOfReports

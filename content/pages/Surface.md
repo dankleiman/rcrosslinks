@@ -3,7 +3,6 @@ title: Surface
 crosslinks:
 - Windows10
 - SurfaceGaming
-- autotldr
 - SurfaceLinux
 - hardwareswap
 - xkcd
@@ -12,7 +11,6 @@ crosslinks:
 - IAmA
 - apple
 - Dell
-- livven
 - thinkpad
 - windows
 - Android

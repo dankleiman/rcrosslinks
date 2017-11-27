@@ -1,7 +1,6 @@
 ---
 title: oddlyterrifying
 crosslinks:
-- livven
 - Simulated
 - gifs
 - CatastrophicFailure

@@ -1,7 +1,6 @@
 ---
 title: GreenParty
 crosslinks:
-- autotldr
 - jillstein
 - SethKaperDale
 - WayOfTheBern

@@ -1,5 +1,0 @@
----
-title: BuffaloWildWings
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: Poebat
-crosslinks:
-- livven
----

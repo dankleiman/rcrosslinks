@@ -1,7 +1,6 @@
 ---
 title: noisygifs
 crosslinks:
-- livven
 - gifs
 - oddlysatisfying
 - Simulated

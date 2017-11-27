@@ -9,5 +9,4 @@ crosslinks:
 - NEO
 - etheroll
 - EtherDelta
-- autotldr
 ---

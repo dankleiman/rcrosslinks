@@ -9,7 +9,6 @@ crosslinks:
 - Steam
 - KotakuInAction
 - fnv
-- livven
 - FO4mods
 - FO4ImmersiveGameplay
 - Gamingcirclejerk

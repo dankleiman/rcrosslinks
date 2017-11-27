@@ -1,5 +1,0 @@
----
-title: junamaki
-crosslinks:
-- livven
----

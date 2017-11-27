@@ -3,7 +3,6 @@ title: shittykickstarters
 crosslinks:
 - kickstarter
 - videos
-- autotldr
 - 3Dprinting
 - gadgets
 - IAmA

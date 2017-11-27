@@ -1,7 +1,6 @@
 ---
 title: holdmyfries
 crosslinks:
-- livven
 - Drama
 - holdmycosmo
 - todayilearned

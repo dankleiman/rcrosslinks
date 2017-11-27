@@ -1,8 +1,6 @@
 ---
 title: geology
 crosslinks:
-- autotldr
-- livven
 - geologycareers
 - whatsthisrock
 - pics

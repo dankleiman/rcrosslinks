@@ -1,7 +1,6 @@
 ---
 title: chicagobulls
 crosslinks:
-- livven
 - NYKnicks
 - SampleSize
 - washingtonwizards

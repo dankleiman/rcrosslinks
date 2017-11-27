@@ -8,7 +8,6 @@ crosslinks:
 - googleplaydeals
 - houkai3rd
 - vainglorygame
-- livven
 - incremental_games
 - place
 - spacerpg3

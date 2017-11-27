@@ -2,7 +2,6 @@
 title: GoNets
 crosslinks:
 - lakers
-- livven
 - kings
 - warriors
 - place
@@ -17,7 +16,6 @@ crosslinks:
 - AMAAggregator
 - BrooklynNets
 - clevelandcavs
-- autotldr
 - findaleague
 - Sneakers
 - AgainstKarmaWhores

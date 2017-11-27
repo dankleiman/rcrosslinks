@@ -1,5 +1,0 @@
----
-title: WillJosephCook
-crosslinks:
-- livven
----

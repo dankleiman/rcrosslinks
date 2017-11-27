@@ -1,7 +1,6 @@
 ---
 title: religion
 crosslinks:
-- autotldr
 - TiesThatBind
 - islam
 - Christianity

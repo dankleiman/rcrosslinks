@@ -5,5 +5,4 @@ crosslinks:
 - screenprinting
 - workshops
 - letterpress
-- livven
 ---

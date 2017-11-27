@@ -6,7 +6,6 @@ crosslinks:
 - progresspics
 - fitnesscirclejerk
 - gainit
-- livven
 - powerlifting
 - Brogress
 - Weakpots

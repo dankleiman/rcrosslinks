@@ -1,5 +1,0 @@
----
-title: NotMyPope
-crosslinks:
-- autotldr
----

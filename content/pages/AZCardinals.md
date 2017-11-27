@@ -2,7 +2,6 @@
 title: AZCardinals
 crosslinks:
 - nfl
-- livven
 - EvilLeagueOfEvil
 - reddit_stream
 - toosoon

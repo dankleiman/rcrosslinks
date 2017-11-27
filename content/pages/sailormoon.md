@@ -4,7 +4,6 @@ crosslinks:
 - Pixiv
 - OtakuVisualArts
 - Serendipity
-- livven
 - restofthefuckingowl
 - SailorMoonDrops
 - pokemon

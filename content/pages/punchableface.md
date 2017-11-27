@@ -3,7 +3,6 @@ title: punchableface
 crosslinks:
 - excgarated
 - The_Donald
-- livven
 - Music
 - Ice_Poseidon
 - xkcd

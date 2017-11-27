@@ -9,7 +9,6 @@ crosslinks:
 - Overwatch
 - MLPLounge
 - OnePunchMan
-- livven
 - FlashTV
 - anime
 - 4PanelCringe

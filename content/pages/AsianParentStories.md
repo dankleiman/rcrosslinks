@@ -3,7 +3,6 @@ title: AsianParentStories
 crosslinks:
 - hapas
 - aznidentity
-- autotldr
 - personalfinance
 - AskReddit
 - trees

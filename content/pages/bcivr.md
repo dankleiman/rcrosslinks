@@ -1,5 +1,0 @@
----
-title: bcivr
-crosslinks:
-- autotldr
----

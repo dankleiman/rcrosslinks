@@ -4,7 +4,6 @@ crosslinks:
 - SSBM
 - SSBPM
 - Kappa
-- livven
 - xkcd
 - CrazyHand
 - IAmA

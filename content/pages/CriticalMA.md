@@ -1,5 +1,0 @@
----
-title: CriticalMA
-crosslinks:
-- autotldr
----

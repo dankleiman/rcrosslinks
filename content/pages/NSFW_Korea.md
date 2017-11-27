@@ -1,7 +1,6 @@
 ---
 title: NSFW_Korea
 crosslinks:
-- livven
 - kpopfap
 - KoreanHotties
 - AsianHotties

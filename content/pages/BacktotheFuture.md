@@ -1,7 +1,6 @@
 ---
 title: BacktotheFuture
 crosslinks:
-- livven
 - Serendipity
 - Jeopardy
 - PrequelMemes

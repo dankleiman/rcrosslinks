@@ -1,5 +1,0 @@
----
-title: EddieLacyClub
-crosslinks:
-- livven
----

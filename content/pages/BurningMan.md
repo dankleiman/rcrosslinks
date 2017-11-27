@@ -1,9 +1,7 @@
 ---
 title: BurningMan
 crosslinks:
-- livven
 - 1z6a3aa
-- autotldr
 - furtherfuture
 - festivals
 - seduction

@@ -1,7 +1,6 @@
 ---
 title: Braveryjerk
 crosslinks:
-- livven
 - atheism
 - CringeAnarchy
 - elonjerk

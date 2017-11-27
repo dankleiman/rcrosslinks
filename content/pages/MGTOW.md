@@ -3,13 +3,11 @@ title: MGTOW
 crosslinks:
 - TheBluePill
 - relationships
-- autotldr
 - AskReddit
 - fucktheredpill
 - TheRedPill
 - TwoXChromosomes
 - MensRights
-- livven
 - Incels
 - confession
 - childfree

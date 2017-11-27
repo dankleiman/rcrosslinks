@@ -9,7 +9,6 @@ crosslinks:
 - discordapp
 - gamedeals
 - skyrimmods
-- livven
 - darksouls
 - StardewValley
 - patientgamers

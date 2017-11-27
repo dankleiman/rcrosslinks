@@ -1,7 +1,6 @@
 ---
 title: urbanplanning
 crosslinks:
-- autotldr
 - transit
 - Detroit
 - nyc

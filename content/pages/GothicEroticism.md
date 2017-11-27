@@ -1,5 +1,0 @@
----
-title: GothicEroticism
-crosslinks:
-- livven
----

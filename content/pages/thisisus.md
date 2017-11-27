@@ -1,7 +1,6 @@
 ---
 title: thisisus
 crosslinks:
-- autotldr
 - television
 - Anxiety
 - hoarding

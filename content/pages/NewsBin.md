@@ -1,5 +1,0 @@
----
-title: NewsBin
-crosslinks:
-- autotldr
----

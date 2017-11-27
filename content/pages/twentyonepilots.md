@@ -4,7 +4,6 @@ crosslinks:
 - place
 - TwennyWunPilots
 - Music
-- livven
 - Art
 - gatekeeping
 - '2012'

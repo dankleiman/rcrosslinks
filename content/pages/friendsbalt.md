@@ -1,5 +1,0 @@
----
-title: friendsbalt
-crosslinks:
-- livven
----

@@ -5,6 +5,5 @@ crosslinks:
 - excatholic
 - news
 - pokemon
-- autotldr
 - atheism
 ---

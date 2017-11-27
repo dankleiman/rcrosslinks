@@ -1,7 +1,6 @@
 ---
 title: daddit
 crosslinks:
-- livven
 - DIY
 - gifs
 - pics

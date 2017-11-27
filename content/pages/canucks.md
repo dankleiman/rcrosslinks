@@ -2,7 +2,6 @@
 title: canucks
 crosslinks:
 - hockey
-- livven
 - CalgaryFlames
 - hockeyjerseys
 - place

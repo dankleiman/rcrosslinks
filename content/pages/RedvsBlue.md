@@ -1,7 +1,6 @@
 ---
 title: RedvsBlue
 crosslinks:
-- livven
 - Serendipity
 - roosterteeth
 - PrequelMemes

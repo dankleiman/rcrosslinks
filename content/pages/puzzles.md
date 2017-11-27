@@ -10,7 +10,6 @@ crosslinks:
 - advertisingREDDIT
 - Wetshaving
 - Jigsawpuzzles
-- livven
 - crossword
 - whoisstraka
 - sports

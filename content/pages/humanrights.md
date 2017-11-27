@@ -1,7 +1,6 @@
 ---
 title: humanrights
 crosslinks:
-- autotldr
 - ThailandNews
 - islam
 - MGTOW

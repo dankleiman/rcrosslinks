@@ -13,7 +13,6 @@ crosslinks:
 - Kratom411
 - Enhanciosa
 - Kratom_Vendors
-- autotldr
 - IAmA
 - Kratomtree
 - Kratomgonewild

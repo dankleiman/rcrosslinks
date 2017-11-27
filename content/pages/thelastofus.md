@@ -10,7 +10,6 @@ crosslinks:
 - Triggered
 - movies
 - me_irl
-- livven
 - giefopensource
 - IAmA
 - Instantregret

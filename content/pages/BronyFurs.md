@@ -1,5 +1,0 @@
----
-title: BronyFurs
-crosslinks:
-- livven
----

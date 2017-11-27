@@ -14,7 +14,6 @@ crosslinks:
 - RPI
 - NHLstatheads
 - Tennesseetitans
-- livven
 - holdmyneal
 - puppies
 - MkeBucks

@@ -1,5 +1,0 @@
----
-title: captainobvious
-crosslinks:
-- autotldr
----

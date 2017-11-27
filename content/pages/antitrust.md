@@ -1,5 +1,0 @@
----
-title: antitrust
-crosslinks:
-- autotldr
----

@@ -4,7 +4,6 @@ crosslinks:
 - antinatalism
 - childfree
 - androgyny
-- autotldr
 - nihilism
 - Irony
 - vegas

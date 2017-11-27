@@ -5,7 +5,6 @@ crosslinks:
 - mitchjones
 - forsen
 - LivestreamFail
-- livven
 - Ice_Poseidon
 - REEEEEEEEEE
 - hearthstone

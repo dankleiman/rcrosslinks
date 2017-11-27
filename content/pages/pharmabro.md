@@ -1,5 +1,0 @@
----
-title: pharmabro
-crosslinks:
-- autotldr
----

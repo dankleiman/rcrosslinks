@@ -1,5 +1,0 @@
----
-title: MakeThatCameraWork
-crosslinks:
-- livven
----

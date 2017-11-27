@@ -19,6 +19,5 @@ crosslinks:
 - JapaneseInTheWild
 - LearnKanji
 - anki
-- translatorBOT
 - JTV
 ---

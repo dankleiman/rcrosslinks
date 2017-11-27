@@ -2,7 +2,6 @@
 title: Charlottesville
 crosslinks:
 - standupshots
-- autotldr
 - Serendipity
 - UVA
 - BlackPeopleTwitter

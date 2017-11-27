@@ -1,7 +1,6 @@
 ---
 title: StormComing
 crosslinks:
-- autotldr
 - science
 - worldnews
 - The_Donald

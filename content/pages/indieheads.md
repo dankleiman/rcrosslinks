@@ -17,7 +17,6 @@ crosslinks:
 - place
 - Emo
 - portugaltheman
-- autotldr
 - fatherjohnmisty
 - AmericanFlaginPlace
 - fantanoforever

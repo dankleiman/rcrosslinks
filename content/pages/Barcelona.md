@@ -1,7 +1,6 @@
 ---
 title: Barcelona
 crosslinks:
-- autotldr
 - zeronet
 - europe
 - catalunya

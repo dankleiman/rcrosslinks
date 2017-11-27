@@ -1,7 +1,6 @@
 ---
 title: cowboybebop
 crosslinks:
-- livven
 - OtakuVisualArts
 - Rainmeter
 - anime
@@ -14,5 +13,4 @@ crosslinks:
 - Overwatch
 - IAmA
 - Serendipity
-- autotldr
 ---

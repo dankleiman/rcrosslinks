@@ -1,7 +1,6 @@
 ---
 title: ETCshow
 crosslinks:
-- autotldr
 - Bandnames
 - ActLikeYouBelong
 - pcmasterrace

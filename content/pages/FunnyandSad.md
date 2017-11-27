@@ -1,9 +1,7 @@
 ---
 title: FunnyandSad
 crosslinks:
-- livven
 - Enough_Sanders_Spam
-- autotldr
 - comics
 - funny
 - comedynecromancy

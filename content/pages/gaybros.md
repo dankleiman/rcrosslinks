@@ -1,9 +1,7 @@
 ---
 title: gaybros
 crosslinks:
-- autotldr
 - RightwingLGBT
-- livven
 - gay
 - funny
 - gay_irl

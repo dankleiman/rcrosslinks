@@ -1,5 +1,0 @@
----
-title: qataricivilwar
-crosslinks:
-- autotldr
----

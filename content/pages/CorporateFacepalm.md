@@ -2,7 +2,6 @@
 title: CorporateFacepalm
 crosslinks:
 - videos
-- autotldr
 - LateStageCapitalism
 - assholedesign
 - australia

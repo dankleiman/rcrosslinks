@@ -1,5 +1,0 @@
----
-title: BismarckHQ
-crosslinks:
-- autotldr
----

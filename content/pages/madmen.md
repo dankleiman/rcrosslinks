@@ -1,9 +1,7 @@
 ---
 title: madmen
 crosslinks:
-- autotldr
 - AskReddit
-- livven
 - rogersterlingquotes
 - sounding
 - thesopranos

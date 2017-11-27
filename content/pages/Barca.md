@@ -8,7 +8,6 @@ crosslinks:
 - LiverpoolFC
 - psg
 - GODO
-- livven
 - MCFC
 - place
 - Fitness

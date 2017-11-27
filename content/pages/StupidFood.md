@@ -4,7 +4,6 @@ crosslinks:
 - FoodPorn
 - shittyfoodporn
 - CasualUK
-- livven
 - WeWantPlates
 - WTF
 - wankers

@@ -2,7 +2,6 @@
 title: hungary
 crosslinks:
 - europe
-- autotldr
 - Romania
 - MapPorn
 - hungarian

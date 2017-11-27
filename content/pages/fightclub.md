@@ -1,5 +1,0 @@
----
-title: fightclub
-crosslinks:
-- livven
----

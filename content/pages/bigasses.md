@@ -1,7 +1,6 @@
 ---
 title: bigasses
 crosslinks:
-- livven
 - BestTeenGirls
 - Sexy_Ass_White_Girls
 - ThatPerfectAss

@@ -9,7 +9,6 @@ crosslinks:
 - PFSENSE
 - pihole
 - homeautomation
-- autotldr
 - AmpliFi
 - PleX
 - organizr

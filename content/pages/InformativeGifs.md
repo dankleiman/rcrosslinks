@@ -1,5 +1,0 @@
----
-title: InformativeGifs
-crosslinks:
-- livven
----

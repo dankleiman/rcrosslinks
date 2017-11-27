@@ -7,7 +7,6 @@ crosslinks:
 - MilenaAngel
 - MiaSollis
 - Jenya_D
-- livven
 - Lena_Anderson
 - Sofi_A
 - TheRedFox

@@ -1,7 +1,6 @@
 ---
 title: economy
 crosslinks:
-- autotldr
 - worldpolitics
 - Missing411
 - Economics

@@ -1,7 +1,6 @@
 ---
 title: mallninjashit
 crosslinks:
-- livven
 - weekendgunnit
 - EDC
 - pics

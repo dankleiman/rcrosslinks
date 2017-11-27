@@ -1,5 +1,0 @@
----
-title: jonhamm
-crosslinks:
-- autotldr
----

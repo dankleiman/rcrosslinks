@@ -1,7 +1,6 @@
 ---
 title: lego
 crosslinks:
-- livven
 - www
 - StarWars
 - pics
@@ -12,7 +11,6 @@ crosslinks:
 - ucs_mf_75192
 - lepin
 - dynamic
-- autotldr
 - AFOL
 - legoleaks
 - place

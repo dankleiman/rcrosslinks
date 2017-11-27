@@ -6,7 +6,6 @@ crosslinks:
 - BitcoinMarkets
 - litecoin
 - Bitcoin
-- autotldr
 - NEO
 - ethereum
 - CryptoSafety

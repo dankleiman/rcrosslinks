@@ -1,5 +1,0 @@
----
-title: AmySchumer
-crosslinks:
-- livven
----

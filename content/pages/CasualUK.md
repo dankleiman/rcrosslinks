@@ -8,8 +8,6 @@ crosslinks:
 - AskUK
 - funny
 - soccer
-- autotldr
-- livven
 - videos
 - WeWantPlates
 - MapPorn

@@ -1,7 +1,6 @@
 ---
 title: machrandomness
 crosslinks:
-- livven
 - MoviePosterPorn
 - Art
 - ImaginaryMindscapes

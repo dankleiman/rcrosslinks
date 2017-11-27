@@ -1,7 +1,6 @@
 ---
 title: actuallesbians
 crosslinks:
-- livven
 - AskReddit
 - xkcd
 - funny

@@ -1,7 +1,6 @@
 ---
 title: CommunismWorldwide
 crosslinks:
-- autotldr
 - thenewcoldwar
 - alltheleft
 - nazi

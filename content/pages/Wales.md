@@ -3,9 +3,7 @@ title: Wales
 crosslinks:
 - place
 - learnwelsh
-- livven
 - ukpolitics
-- autotldr
 - unitedkingdom
 - CelticUnion
 - Scotland

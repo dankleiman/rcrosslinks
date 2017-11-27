@@ -1,14 +1,12 @@
 ---
 title: TheDepthsBelow
 crosslinks:
-- livven
 - WTF
 - natureismetal
 - NatureIsFuckingLit
 - sharks
 - pics
 - HeavySeas
-- autotldr
 - TheDerpsBelow
 - interestingasfuck
 - gifs

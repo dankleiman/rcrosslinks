@@ -5,5 +5,4 @@ crosslinks:
 - neutralnews
 - syriancivilwar
 - NorthKoreaNews
-- autotldr
 ---

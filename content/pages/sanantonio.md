@@ -4,7 +4,6 @@ crosslinks:
 - PaxPassExchange
 - Austin
 - texas
-- autotldr
 - UTSA
 - MarchForScienceSA
 - GrMD

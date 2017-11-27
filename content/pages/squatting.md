@@ -1,5 +1,0 @@
----
-title: squatting
-crosslinks:
-- autotldr
----

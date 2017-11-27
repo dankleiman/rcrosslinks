@@ -7,7 +7,6 @@ crosslinks:
 - Kaiserreich
 - eu4
 - vexillology
-- livven
 - HOI4Mods
 - xkcd
 - AskReddit

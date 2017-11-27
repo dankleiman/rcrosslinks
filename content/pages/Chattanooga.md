@@ -2,9 +2,7 @@
 title: Chattanooga
 crosslinks:
 - solareclipse
-- livven
 - pics
-- autotldr
 - ChattanoogaDND
 - ChattanoogaFC
 - politics

@@ -1,7 +1,6 @@
 ---
 title: Brawlhalla
 crosslinks:
-- livven
 - CompetitiveBH
 - BrawlhallaCircleJerk
 - gifsthatendtoosoon

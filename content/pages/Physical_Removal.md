@@ -16,7 +16,6 @@ crosslinks:
 - news
 - CapitalismVSocialism
 - TopMindsOfReddit
-- livven
 - BestofPR
 - socialism
 - COMPLETEANARCHY

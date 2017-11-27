@@ -2,7 +2,6 @@
 title: firefly
 crosslinks:
 - xkcd
-- livven
 - FanTheories
 - DIY
 - IAmA

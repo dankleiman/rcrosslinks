@@ -1,5 +1,0 @@
----
-title: americanbulldog
-crosslinks:
-- livven
----

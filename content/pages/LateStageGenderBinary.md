@@ -11,7 +11,6 @@ crosslinks:
 - COMPLETEANARCHY
 - csshelp
 - InternationalPosadism
-- livven
 - SocialistRA
 - LateStageCapitalism
 ---

@@ -5,7 +5,6 @@ crosslinks:
 - openwhispersystems
 - privacy
 - '0x7B1DEA01'
-- autotldr
 - Enhancement
 - CopperheadOS
 - ProtonMail

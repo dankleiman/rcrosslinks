@@ -13,7 +13,6 @@ crosslinks:
 - news
 - videos
 - movies
-- autotldr
 - MarchAgainstTrump
 - Showerthoughts
 - WTF

@@ -1,7 +1,6 @@
 ---
 title: totalwar
 crosslinks:
-- livven
 - historicaltotalwar
 - AskHistorians
 - Warhammer

@@ -1,7 +1,6 @@
 ---
 title: pittsburgh
 crosslinks:
-- autotldr
 - penguins
 - The_Donald
 - politics
@@ -18,7 +17,6 @@ crosslinks:
 - Bad_Cop_No_Donut
 - NHLStreams
 - personalfinance
-- livven
 - melts
 - Sikh
 ---

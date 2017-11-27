@@ -10,7 +10,6 @@ crosslinks:
 - CrusaderKings
 - nocontext
 - stellarisrpg
-- livven
 - eu4
 - askscience
 - EmpireDidNothingWrong

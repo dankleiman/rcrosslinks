@@ -1,5 +1,0 @@
----
-title: CaravanTech
-crosslinks:
-- livven
----

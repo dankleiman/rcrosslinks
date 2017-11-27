@@ -3,7 +3,6 @@ title: Military
 crosslinks:
 - MilitaryStories
 - army
-- livven
 - AirForce
 - Militaryfaq
 - AskHistorians

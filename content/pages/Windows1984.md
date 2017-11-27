@@ -8,5 +8,4 @@ crosslinks:
 - AyyMD
 - Windows10
 - PUBATTLEGROUNDS
-- autotldr
 ---

@@ -1,7 +1,6 @@
 ---
 title: FUTMobile
 crosslinks:
-- livven
 - FIFA
 - soccer
 - help

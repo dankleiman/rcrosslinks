@@ -1,7 +1,6 @@
 ---
 title: simps
 crosslinks:
-- livven
 - Innie
 - Ellie_Silk
 - nsfw

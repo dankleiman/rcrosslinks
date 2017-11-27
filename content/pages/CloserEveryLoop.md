@@ -1,5 +1,0 @@
----
-title: CloserEveryLoop
-crosslinks:
-- livven
----

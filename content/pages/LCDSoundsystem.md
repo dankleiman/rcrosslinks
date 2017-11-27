@@ -4,7 +4,6 @@ crosslinks:
 - FrankOcean
 - soulwax
 - LiveFromNewYork
-- livven
 - Coachella
 - mirin
 - Kanye

@@ -1,7 +1,6 @@
 ---
 title: goodnews
 crosslinks:
-- autotldr
 - upliftingtrends
 - UpliftingNews
 - HumansBeingBros

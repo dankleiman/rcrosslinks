@@ -1,7 +1,6 @@
 ---
 title: almostperfectloops
 crosslinks:
-- livven
 - H3VR
 - woahdude
 - masseffect

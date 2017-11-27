@@ -2,7 +2,6 @@
 title: AtlantaUnited
 crosslinks:
 - MLS
-- livven
 - OCLions
 - reddit_stream
 - soccer

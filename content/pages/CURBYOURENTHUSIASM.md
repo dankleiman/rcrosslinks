@@ -1,5 +1,0 @@
----
-title: CURBYOURENTHUSIASM
-crosslinks:
-- autotldr
----

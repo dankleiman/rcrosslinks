@@ -6,7 +6,6 @@ crosslinks:
 - Breadit
 - TheseFuckingAccounts
 - cookiedecorating
-- livven
 - succulents
 - whatsthisplant
 - recipes

@@ -8,7 +8,6 @@ crosslinks:
 - TCS_Withdrawal
 - depression
 - wicked_edge
-- autotldr
 - vegan
 - CrohnsDisease
 - AskDocs

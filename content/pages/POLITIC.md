@@ -1,7 +1,6 @@
 ---
 title: POLITIC
 crosslinks:
-- autotldr
 - conspiracy
 - postnationalist
 - WhereIsAssange
@@ -12,7 +11,6 @@ crosslinks:
 - news
 - politics
 - Ask_Politics
-- livven
 - WikiLeaks
 - me_irl
 - worldnews

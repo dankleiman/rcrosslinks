@@ -1,5 +1,0 @@
----
-title: FuturePharma
-crosslinks:
-- autotldr
----

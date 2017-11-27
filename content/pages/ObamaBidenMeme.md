@@ -1,5 +1,0 @@
----
-title: ObamaBidenMeme
-crosslinks:
-- livven
----

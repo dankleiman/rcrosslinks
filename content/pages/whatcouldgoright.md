@@ -1,7 +1,6 @@
 ---
 title: whatcouldgoright
 crosslinks:
-- livven
 - Whatcouldgowrong
 - Unexpected
 - Expected

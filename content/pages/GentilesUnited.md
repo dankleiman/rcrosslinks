@@ -1,7 +1,6 @@
 ---
 title: GentilesUnited
 crosslinks:
-- autotldr
 - conspiracy
 - europeannationalism
 - InternetHitlers

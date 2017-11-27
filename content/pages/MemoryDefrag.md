@@ -7,7 +7,6 @@ crosslinks:
 - grandorder
 - TalesofLink
 - Kings_Raid
-- livven
 - negxw2
 - help
 - cakeday

@@ -4,7 +4,6 @@ crosslinks:
 - riseofagon
 - FlashTV
 - MMORPG
-- autotldr
 - iamverysmart
 - ultimaonline
 - all

@@ -1,7 +1,6 @@
 ---
 title: hillaryclinton
 crosslinks:
-- autotldr
 - The_Donald
 - politics
 - SandersForPresident

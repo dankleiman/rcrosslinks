@@ -5,7 +5,6 @@ crosslinks:
 - anime
 - androidapps
 - EarthPorn
-- livven
 - modnews
 - AskReddit
 - help

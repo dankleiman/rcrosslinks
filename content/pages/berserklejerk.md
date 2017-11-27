@@ -1,7 +1,6 @@
 ---
 title: berserklejerk
 crosslinks:
-- livven
 - Berserk
 - GoneWyald
 - sysadmin

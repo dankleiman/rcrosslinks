@@ -7,7 +7,6 @@ crosslinks:
 - askscience
 - whowouldwin
 - meirl
-- livven
 - evenwithcontext
 - especiallywithcontext
 - WordAvalanches

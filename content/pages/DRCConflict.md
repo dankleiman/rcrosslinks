@@ -1,5 +1,0 @@
----
-title: DRCConflict
-crosslinks:
-- autotldr
----

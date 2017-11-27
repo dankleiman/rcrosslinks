@@ -1,5 +1,0 @@
----
-title: MaxGaf
-crosslinks:
-- livven
----

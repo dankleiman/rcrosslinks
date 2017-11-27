@@ -7,7 +7,6 @@ crosslinks:
 - curvy
 - Amandalove
 - BiggerThanYouThought
-- livven
 - lipstickery
 - LauraleeMcintyre
 - NudieWorld

@@ -1,5 +1,0 @@
----
-title: TheShield
-crosslinks:
-- livven
----

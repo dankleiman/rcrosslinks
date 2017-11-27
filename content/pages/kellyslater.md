@@ -1,5 +1,0 @@
----
-title: kellyslater
-crosslinks:
-- livven
----

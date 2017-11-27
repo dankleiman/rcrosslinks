@@ -8,7 +8,6 @@ crosslinks:
 - findfashion
 - videos
 - WTF
-- livven
 - aww
 - whatisthisthing
 - todayilearned

@@ -5,7 +5,6 @@ crosslinks:
 - NintendoSwitch
 - 3DS
 - Games
-- livven
 - Gamingcirclejerk
 - pokemon
 - gamecollecting
@@ -20,5 +19,4 @@ crosslinks:
 - truezelda
 - Flipping
 - AskReddit
-- autotldr
 ---

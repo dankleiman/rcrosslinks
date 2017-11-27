@@ -5,5 +5,4 @@ crosslinks:
 - SouthBend
 - politics
 - Serendipity
-- autotldr
 ---

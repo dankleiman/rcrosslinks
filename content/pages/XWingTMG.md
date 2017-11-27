@@ -1,7 +1,6 @@
 ---
 title: XWingTMG
 crosslinks:
-- livven
 - Miniswap
 - StarWarsLeaks
 - XWingTTS

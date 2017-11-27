@@ -1,7 +1,6 @@
 ---
 title: theratio
 crosslinks:
-- livven
 - AmandaEliseLee
 - datgap
 - DollyCastro

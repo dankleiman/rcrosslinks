@@ -1,7 +1,6 @@
 ---
 title: survivor
 crosslinks:
-- livven
 - IAmA
 - survivorcirclejerk
 - BigBrother

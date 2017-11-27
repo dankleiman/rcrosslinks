@@ -14,7 +14,6 @@ crosslinks:
 - TittyDrop
 - palegirls
 - 60fpsporn
-- livven
 - NSFWFunny
 - WtSSTaDaMiT
 - cosplaygirls

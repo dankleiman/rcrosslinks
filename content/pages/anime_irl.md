@@ -1,7 +1,6 @@
 ---
 title: anime_irl
 crosslinks:
-- livven
 - wholesomeanimemes
 - hentai_irl
 - anime

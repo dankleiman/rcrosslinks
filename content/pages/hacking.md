@@ -1,7 +1,6 @@
 ---
 title: hacking
 crosslinks:
-- autotldr
 - HowToHack
 - xkcd
 - netsec
@@ -10,7 +9,6 @@ crosslinks:
 - AskNetsec
 - itsaunixsystem
 - Fraudnet2
-- livven
 - switcharoo
 - ReverseEngineering
 - conspiracy

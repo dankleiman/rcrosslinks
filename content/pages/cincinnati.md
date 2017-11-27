@@ -1,7 +1,6 @@
 ---
 title: cincinnati
 crosslinks:
-- autotldr
 - GoBearcats
 - pics
 - politics

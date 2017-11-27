@@ -1,7 +1,6 @@
 ---
 title: TrueTrueReddit
 crosslinks:
-- autotldr
 - psychology
 - UpliftingNews
 - lectures

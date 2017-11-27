@@ -5,7 +5,6 @@ crosslinks:
 - FortCollinsNewInTown
 - metric_units
 - FortCollinsClassified
-- autotldr
 - colorado
 - DrawForMe
 - MTB

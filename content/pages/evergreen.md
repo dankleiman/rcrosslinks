@@ -7,7 +7,6 @@ crosslinks:
 - WWII
 - HateCrimeHoaxes
 - Drama
-- autotldr
 - roc
 - OutOfTheLoop
 - FULLCOMMUNISM

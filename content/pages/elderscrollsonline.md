@@ -2,7 +2,6 @@
 title: elderscrollsonline
 crosslinks:
 - ESOGuilds
-- livven
 - teslore
 - esotulfg
 - TrueSTL

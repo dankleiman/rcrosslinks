@@ -1,5 +1,0 @@
----
-title: FOLHAauto
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: MasterReturns
 crosslinks:
-- livven
 - aww
 - Frisson
 - wolves

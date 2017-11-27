@@ -1,7 +1,6 @@
 ---
 title: rit
 crosslinks:
-- livven
 - technology
 - TheSilphRoad
 - INTP

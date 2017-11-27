@@ -2,7 +2,6 @@
 title: CanadaPolitics
 crosslinks:
 - canada
-- autotldr
 - vancouver
 - metacanada
 - The_Donald

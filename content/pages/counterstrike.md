@@ -7,7 +7,6 @@ crosslinks:
 - DonChodeTipline
 - microsoftsoftwareswap
 - PCMasterRace
-- livven
 - csgo
 - DotA2
 - LearnCSGO

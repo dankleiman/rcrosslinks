@@ -1,5 +1,0 @@
----
-title: dekaihentai
-crosslinks:
-- livven
----

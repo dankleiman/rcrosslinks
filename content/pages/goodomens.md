@@ -1,5 +1,0 @@
----
-title: goodomens
-crosslinks:
-- autotldr
----

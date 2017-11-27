@@ -1,5 +1,0 @@
----
-title: RealOrSatire
-crosslinks:
-- autotldr
----

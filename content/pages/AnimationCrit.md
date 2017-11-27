@@ -1,5 +1,0 @@
----
-title: AnimationCrit
-crosslinks:
-- livven
----

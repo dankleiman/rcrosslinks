@@ -5,6 +5,4 @@ crosslinks:
 - MemeEconomy
 - Anarchism
 - listentothis
-- livven
-- autotldr
 ---

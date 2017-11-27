@@ -3,7 +3,6 @@ title: logodesign
 crosslinks:
 - freedesign
 - restofthefuckingowl
-- livven
 - graphic_design
 - Overwatch
 - funny
@@ -13,7 +12,6 @@ crosslinks:
 - Minecraft
 - '2014'
 - mildlyvagina
-- autotldr
 - freelogodesign
 - illustration
 - Serendipity

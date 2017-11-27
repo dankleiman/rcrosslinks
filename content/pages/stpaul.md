@@ -1,5 +1,0 @@
----
-title: stpaul
-crosslinks:
-- autotldr
----

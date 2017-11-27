@@ -1,7 +1,6 @@
 ---
 title: pwned
 crosslinks:
-- autotldr
 - softwaregore
 - netsecstudents
 - Windows10

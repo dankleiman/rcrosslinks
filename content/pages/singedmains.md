@@ -2,7 +2,6 @@
 title: singedmains
 crosslinks:
 - leagueoflegends
-- livven
 - TryndamereMains
 - GravesMains
 - UrgotMains

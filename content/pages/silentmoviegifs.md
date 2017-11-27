@@ -1,7 +1,6 @@
 ---
 title: silentmoviegifs
 crosslinks:
-- livven
 - movies
 - noisygifs
 - perfectloops

@@ -1,7 +1,6 @@
 ---
 title: soundsaboutright
 crosslinks:
-- autotldr
 - nottheonion
 - science
 - terrifyingstatistics

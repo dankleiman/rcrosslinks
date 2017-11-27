@@ -3,7 +3,6 @@ title: luciomains
 crosslinks:
 - Overwatch
 - LucioRollouts
-- livven
 - OverwatchUniversity
 - Competitiveoverwatch
 - disneyvacation

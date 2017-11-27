@@ -1,5 +1,0 @@
----
-title: farright
-crosslinks:
-- autotldr
----

@@ -4,7 +4,6 @@ crosslinks:
 - EDC
 - mildlyinteresting
 - MTB
-- livven
 - shittyfoodporn
 - Ultralight
 - ThriftStoreHauls

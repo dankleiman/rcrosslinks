@@ -8,7 +8,6 @@ crosslinks:
 - VaporwaveArt
 - outrun
 - simpsonswave
-- livven
 - DataHoarder
 - 808State
 - VaporwaveMiniDiscs
@@ -20,5 +19,4 @@ crosslinks:
 - HailCorporate
 - Serendipity
 - cloudrap
-- autotldr
 ---

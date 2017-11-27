@@ -1,7 +1,6 @@
 ---
 title: nasa
 crosslinks:
-- autotldr
 - IAmA
 - xkcd
 - space

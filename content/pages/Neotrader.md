@@ -6,8 +6,6 @@ crosslinks:
 - icocrypto
 - CryptoCurrency
 - onchain
-- livven
-- autotldr
 - UnresolvedMysteries
 - WTF
 - me_irl

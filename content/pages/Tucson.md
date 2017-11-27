@@ -2,7 +2,6 @@
 title: Tucson
 crosslinks:
 - TucsonTrekkers
-- autotldr
 - RetroTucson
 - phoenix
 - lfg
@@ -14,7 +13,6 @@ crosslinks:
 - MaliciousCompliance
 - starterpacks
 - WTF
-- livven
 - xkcd
 - LetsNotMeet
 - googlepixel

@@ -4,7 +4,6 @@ crosslinks:
 - turning
 - DIY
 - handtools
-- livven
 - finishing
 - pics
 - marijuanaenthusiasts

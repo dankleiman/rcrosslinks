@@ -1,5 +1,0 @@
----
-title: hammersarecool
-crosslinks:
-- autotldr
----

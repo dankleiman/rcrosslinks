@@ -4,7 +4,6 @@ crosslinks:
 - dtvn_accountmarket
 - cordcutters
 - Vue
-- autotldr
 - DirecTV
 - appletv
 - ATT
@@ -13,6 +12,5 @@ crosslinks:
 - amazonecho
 - ProtonVPN
 - BestOfStreamingVideo
-- livven
 - FrenchWestIndies
 ---

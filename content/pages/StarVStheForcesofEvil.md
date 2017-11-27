@@ -2,7 +2,6 @@
 title: StarVStheForcesofEvil
 crosslinks:
 - stevenuniverse
-- livven
 - EchoCreek
 - gravityfalls
 - Pixiv

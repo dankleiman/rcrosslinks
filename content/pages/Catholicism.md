@@ -2,7 +2,6 @@
 title: Catholicism
 crosslinks:
 - AMA
-- autotldr
 - Christianity
 - place
 - todayilearned

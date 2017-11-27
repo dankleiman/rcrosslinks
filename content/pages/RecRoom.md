@@ -2,7 +2,6 @@
 title: RecRoom
 crosslinks:
 - Vive
-- livven
 - oculus
 - IAmA
 - AccidentalWesAnderson

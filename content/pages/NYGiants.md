@@ -3,7 +3,6 @@ title: NYGiants
 crosslinks:
 - nfl
 - EvilLeagueOfEvil
-- livven
 - Patriots
 - CoalitionAgainstEvil
 - NFL_Draft

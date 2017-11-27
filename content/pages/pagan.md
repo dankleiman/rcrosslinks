@@ -5,7 +5,6 @@ crosslinks:
 - asatru
 - PaganCommunity
 - Paganacht
-- autotldr
 - france
 - DMAcademy
 - DreamInterpretation

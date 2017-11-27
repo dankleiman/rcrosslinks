@@ -1,7 +1,6 @@
 ---
 title: Kappa
 crosslinks:
-- livven
 - StreetFighter
 - salty
 - Tekken
@@ -12,7 +11,6 @@ crosslinks:
 - VoHiYo
 - SF4
 - Fighters
-- autotldr
 - cummingonfigurines
 - CrackWatch
 - mvci

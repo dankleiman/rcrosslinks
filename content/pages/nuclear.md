@@ -1,7 +1,6 @@
 ---
 title: nuclear
 crosslinks:
-- autotldr
 - NuclearPower
 - news
 - energy

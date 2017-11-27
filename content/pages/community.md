@@ -17,7 +17,6 @@ crosslinks:
 - StarWars
 - rickandmorty
 - writing
-- autotldr
 - todayilearned
 - AskHistorians
 - HighQualityGifs

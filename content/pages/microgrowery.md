@@ -4,7 +4,6 @@ crosslinks:
 - SpaceBuckets
 - HandsOnComplexity
 - trees
-- livven
 - Autoflowers
 - Head2HeadMG
 - macrogrowery

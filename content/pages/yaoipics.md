@@ -1,5 +1,0 @@
----
-title: yaoipics
-crosslinks:
-- livven
----

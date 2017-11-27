@@ -3,7 +3,6 @@ title: sweden
 crosslinks:
 - SwedenOnPlace
 - kundtjanst
-- livven
 - skitswedditsager
 - svenskpolitik
 - The_Donald
@@ -17,7 +16,6 @@ crosslinks:
 - cykel
 - norge
 - OutOfTheLoop
-- autotldr
 - iksdagen
 - IAmA
 - stockholm

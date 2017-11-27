@@ -1,5 +1,0 @@
----
-title: KarmaBazar
-crosslinks:
-- livven
----

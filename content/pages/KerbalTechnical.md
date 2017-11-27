@@ -1,5 +1,0 @@
----
-title: KerbalTechnical
-crosslinks:
-- livven
----

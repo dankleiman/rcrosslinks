@@ -1,7 +1,6 @@
 ---
 title: MetalSlugAttack
 crosslinks:
-- livven
 - Pixiv
 - place
 - MetalSlugDefense

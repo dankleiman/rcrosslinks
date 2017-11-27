@@ -1,7 +1,6 @@
 ---
 title: meirl
 crosslinks:
-- livven
 - me_irl
 - funny
 - xkcd

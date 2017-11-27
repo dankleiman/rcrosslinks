@@ -1,7 +1,6 @@
 ---
 title: Cinema4D
 crosslinks:
-- livven
 - Simulated
 - outrun
 - twinpeaks

@@ -8,7 +8,6 @@ crosslinks:
 - xkcd
 - askhistorians
 - circojeca
-- autotldr
 - LegitimaDefesa
 - vzla
 - tiodopave

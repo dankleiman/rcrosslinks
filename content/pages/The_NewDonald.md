@@ -1,7 +1,6 @@
 ---
 title: The_NewDonald
 crosslinks:
-- livven
 - 2me4irl
 - OTMemes
 - gaycumsluts

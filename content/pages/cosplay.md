@@ -1,7 +1,6 @@
 ---
 title: cosplay
 crosslinks:
-- livven
 - cosplaygirls
 - funny
 - SacramentoCosplay

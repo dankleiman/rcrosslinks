@@ -2,7 +2,6 @@
 title: MLPLounge
 crosslinks:
 - mylittlepony
-- livven
 - xkcd
 - AMAAggregator
 - MLPdrawingschool

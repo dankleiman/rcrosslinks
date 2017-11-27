@@ -1,7 +1,6 @@
 ---
 title: Warthunder
 crosslinks:
-- livven
 - DestroyedTanks
 - GaijinPlease
 - AskHistorians

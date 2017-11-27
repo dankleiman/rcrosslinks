@@ -7,7 +7,6 @@ crosslinks:
 - Briggs
 - DBGpatchnotes
 - harasser
-- livven
 - Connery
 - planetsidearmor
 - gaming

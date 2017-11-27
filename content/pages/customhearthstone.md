@@ -3,7 +3,6 @@ title: customhearthstone
 crosslinks:
 - hearthstone
 - hearthstonecirclejerk
-- livven
 - custommagic
 - OutOfTheLoop
 - ImaginaryAzeroth

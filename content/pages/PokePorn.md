@@ -2,7 +2,6 @@
 title: PokePorn
 crosslinks:
 - Pixiv
-- livven
 - FeralPokePorn
 - Rule34FMK
 - spnati

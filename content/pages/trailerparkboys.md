@@ -4,7 +4,6 @@ crosslinks:
 - mildlyinfuriating
 - pics
 - therewasanattempt
-- autotldr
 - IAmA
 - iamsmart
 - notreallyfamous

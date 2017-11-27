@@ -1,7 +1,6 @@
 ---
 title: theworldnews
 crosslinks:
-- autotldr
 - europrivacy
 - Suomi
 - europe

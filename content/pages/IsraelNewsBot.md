@@ -1,5 +1,0 @@
----
-title: IsraelNewsBot
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: objectmanipulation
-crosslinks:
-- livven
----

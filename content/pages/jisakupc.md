@@ -3,7 +3,6 @@ title: jisakupc
 crosslinks:
 - Amd
 - hardware
-- autotldr
 - steamr
 - BakaNewsJP
 - EtJT

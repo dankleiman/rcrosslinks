@@ -1,5 +1,0 @@
----
-title: guesstheonion
-crosslinks:
-- autotldr
----

@@ -2,7 +2,6 @@
 title: perth
 crosslinks:
 - australia
-- autotldr
 - circlejerkaustralia
 - straya
 - ShitAmericansSay

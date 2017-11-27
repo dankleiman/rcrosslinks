@@ -1,5 +1,0 @@
----
-title: PupsAfraidOfStairs
-crosslinks:
-- livven
----

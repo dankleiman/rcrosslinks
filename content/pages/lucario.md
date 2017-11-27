@@ -1,5 +1,0 @@
----
-title: lucario
-crosslinks:
-- livven
----

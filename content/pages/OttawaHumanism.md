@@ -1,5 +1,0 @@
----
-title: OttawaHumanism
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: OurPresident
 crosslinks:
-- autotldr
 - The_Donald
 - politics
 - Enough_Sanders_Spam
@@ -19,6 +18,5 @@ crosslinks:
 - PoliticalDiscussion
 - justicedemocrats
 - Drama
-- livven
 - NeutralPolitics
 ---

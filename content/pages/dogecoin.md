@@ -4,7 +4,6 @@ crosslinks:
 - dogemarket
 - sodogetip
 - dogecoindev
-- livven
 - WeSellCrypto
 - xdp
 - CryptoCurrency

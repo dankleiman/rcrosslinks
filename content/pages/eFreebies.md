@@ -19,5 +19,4 @@ crosslinks:
 - overlanding
 - uvtrade
 - AndroidQuestions
-- autotldr
 ---

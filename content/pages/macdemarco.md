@@ -5,7 +5,6 @@ crosslinks:
 - leakthreads
 - Atlanta
 - TySegall
-- autotldr
 - ween
 - Homeshake
 - weezer

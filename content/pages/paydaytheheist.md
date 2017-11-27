@@ -16,7 +16,6 @@ crosslinks:
 - locomasterrace
 - PrequelMemes
 - todayilearned
-- livven
 - Payday_2
 - titlegore
 - theydidthemath

@@ -1,7 +1,6 @@
 ---
 title: NekoIRL
 crosslinks:
-- livven
 - cosplaygirls
 - GirlswithNeonHair
 - KaylaErinCosplay

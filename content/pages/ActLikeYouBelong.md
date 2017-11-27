@@ -1,12 +1,10 @@
 ---
 title: ActLikeYouBelong
 crosslinks:
-- livven
 - xkcd
 - videos
 - LivestreamFail
 - legaladvice
-- autotldr
 - SocialEngineering
 - AskReddit
 - gatekeeping

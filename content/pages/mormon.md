@@ -9,7 +9,6 @@ crosslinks:
 - todayilearned
 - AMAAggregator
 - CommunityOfChrist
-- autotldr
 - lds
 - Exmo_Spirituality
 - atheistvids

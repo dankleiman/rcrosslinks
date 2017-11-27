@@ -11,7 +11,6 @@ crosslinks:
 - swanseacity
 - crystalpalace
 - cocaine
-- livven
 - coys
 - lowendgaming
 - MMA

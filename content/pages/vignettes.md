@@ -1,5 +1,0 @@
----
-title: vignettes
-crosslinks:
-- autotldr
----

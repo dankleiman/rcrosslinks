@@ -1,7 +1,6 @@
 ---
 title: NYKnicks
 crosslinks:
-- livven
 - ripcity
 - rockets
 - denvernuggets

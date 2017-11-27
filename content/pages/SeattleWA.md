@@ -3,14 +3,12 @@ title: SeattleWA
 crosslinks:
 - circlejerkseattle
 - Seattle
-- autotldr
 - The_Donald
 - Drama
 - xkcd
 - IAmA
 - AskReddit
 - pics
-- livven
 - The_Seattle
 - politics
 - news

@@ -4,8 +4,6 @@ crosslinks:
 - australia
 - pics
 - ipswich
-- autotldr
-- livven
 - AMAAggregator
 - AusFinance
 - AskReddit

@@ -4,7 +4,6 @@ crosslinks:
 - DestinyTheGame
 - Ice_Poseidon
 - TheDickShow
-- autotldr
 - IAmA
 - LivestreamFail
 - starcraft

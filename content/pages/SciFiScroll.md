@@ -1,7 +1,6 @@
 ---
 title: SciFiScroll
 crosslinks:
-- autotldr
 - scifimovies
 - sciencefiction
 - TheExpanse

@@ -1,5 +1,0 @@
----
-title: Yim
-crosslinks:
-- livven
----

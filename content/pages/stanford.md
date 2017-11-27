@@ -1,7 +1,6 @@
 ---
 title: stanford
 crosslinks:
-- autotldr
 - paloalto
 - ApplyingToCollege
 - spam

@@ -1,7 +1,6 @@
 ---
 title: electricvehicles
 crosslinks:
-- autotldr
 - teslamotors
 - leaf
 - volt

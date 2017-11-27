@@ -3,7 +3,6 @@ title: TheWitness
 crosslinks:
 - thewitnessirl
 - patientgamers
-- livven
 - xkcd
 - IAmA
 - confusing_perspective

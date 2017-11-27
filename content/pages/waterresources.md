@@ -1,5 +1,0 @@
----
-title: waterresources
-crosslinks:
-- autotldr
----

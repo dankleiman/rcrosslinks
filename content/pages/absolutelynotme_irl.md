@@ -1,7 +1,6 @@
 ---
 title: absolutelynotme_irl
 crosslinks:
-- livven
 - me_irl
 - wholesomememes
 - furry_irl

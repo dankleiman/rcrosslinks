@@ -1,5 +1,0 @@
----
-title: upstatebrewersanon
-crosslinks:
-- autotldr
----

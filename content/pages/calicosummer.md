@@ -1,7 +1,6 @@
 ---
 title: calicosummer
 crosslinks:
-- livven
 - Futurology
 - xkcd
 - Unexpected

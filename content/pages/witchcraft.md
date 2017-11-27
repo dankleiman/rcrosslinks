@@ -18,7 +18,6 @@ crosslinks:
 - Occultism
 - energy_work
 - fascist
-- autotldr
 - Jung
 - Buddhism
 ---

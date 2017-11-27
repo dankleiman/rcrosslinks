@@ -7,7 +7,6 @@ crosslinks:
 - gonewildcolor
 - LatinasGW
 - gonewildcouples
-- livven
 - drawme
 - AreolasGW
 - ArtGW

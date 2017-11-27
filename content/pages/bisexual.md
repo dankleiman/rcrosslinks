@@ -2,7 +2,6 @@
 title: bisexual
 crosslinks:
 - polyamory
-- livven
 - RoleReversal
 - AskReddit
 - OkCupid

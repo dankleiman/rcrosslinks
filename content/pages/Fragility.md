@@ -5,8 +5,6 @@ crosslinks:
 - AngryAsianMen
 - hapas
 - AznLivesMatter
-- autotldr
-- livven
 - canada
 - Defenders
 - AsianMasculinity

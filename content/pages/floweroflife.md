@@ -1,5 +1,0 @@
----
-title: floweroflife
-crosslinks:
-- livven
----

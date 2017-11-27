@@ -1,9 +1,7 @@
 ---
 title: USMC
 crosslinks:
-- autotldr
 - Military
-- livven
 - forwardsfromgunny
 - AirForce
 - army

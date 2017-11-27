@@ -1,5 +1,0 @@
----
-title: Mylifehacker
-crosslinks:
-- autotldr
----

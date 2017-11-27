@@ -3,7 +3,6 @@ title: PDFs
 crosslinks:
 - digitalcurrency
 - vexillology
-- autotldr
 - lego
 - Anarcho_Capitalism
 - typewriters

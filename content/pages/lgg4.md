@@ -4,7 +4,6 @@ crosslinks:
 - Android
 - lgv20
 - lgg6
-- autotldr
 - techsupport
 - oneplus
 - lgg5

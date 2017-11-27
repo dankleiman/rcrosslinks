@@ -1,7 +1,6 @@
 ---
 title: ANormalDayInRussia
 crosslinks:
-- livven
 - WTF
 - slavs_squatting
 - pics
@@ -9,7 +8,6 @@ crosslinks:
 - gifs
 - ShitAmericansSay
 - hmmm
-- autotldr
 - funny
 - rant
 - ANormalDayInAmerica

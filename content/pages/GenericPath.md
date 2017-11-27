@@ -1,5 +1,0 @@
----
-title: GenericPath
-crosslinks:
-- livven
----

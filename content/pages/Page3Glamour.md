@@ -8,7 +8,6 @@ crosslinks:
 - SpankSafe
 - LShima
 - EllisAttard
-- livven
 - Sammy_Braddy
 - mellisaclarke
 - Sophie_Coady

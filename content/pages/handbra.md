@@ -1,7 +1,6 @@
 ---
 title: handbra
 crosslinks:
-- livven
 - Carter_Cruise
 - LifeIsABeach
 - RayleneX

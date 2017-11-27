@@ -4,7 +4,6 @@ crosslinks:
 - OsuSkins
 - osureport
 - place
-- livven
 - OSU
 - YeXD
 - osumapping

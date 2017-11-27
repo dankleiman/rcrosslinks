@@ -1,5 +1,0 @@
----
-title: pinoyent
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: Coldplay
 crosslinks:
-- livven
 - radiohead
 - FrankOcean
 - imaginedragons

@@ -1,7 +1,6 @@
 ---
 title: Trump_Watch
 crosslinks:
-- autotldr
 - worldnews
 - quotes
 - The_Donald

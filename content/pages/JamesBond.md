@@ -8,7 +8,6 @@ crosslinks:
 - MovieDetails
 - AskReddit
 - onetruegod
-- autotldr
 - HotWheels
 - calledit
 - '2006'

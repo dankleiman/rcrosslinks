@@ -1,7 +1,6 @@
 ---
 title: hwstartups
 crosslinks:
-- autotldr
 - landscaping
 - redditads
 - PrintedCircuitBoard

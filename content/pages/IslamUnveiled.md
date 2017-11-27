@@ -1,7 +1,6 @@
 ---
 title: IslamUnveiled
 crosslinks:
-- autotldr
 - IslamUncensored
 - The_Donald
 - islam

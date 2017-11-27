@@ -3,11 +3,9 @@ title: freefolk
 crosslinks:
 - asoiaf
 - gameofthrones
-- livven
 - asoiafcirclejerk
 - GoTlinks
 - megalinks
-- autotldr
 - Weirwood_net
 - IAmA
 - got4spoilswar

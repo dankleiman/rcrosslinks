@@ -4,5 +4,4 @@ crosslinks:
 - socalhiking
 - WildernessBackpacking
 - Serendipity
-- autotldr
 ---

@@ -1,5 +1,0 @@
----
-title: unixmasterrace
-crosslinks:
-- autotldr
----

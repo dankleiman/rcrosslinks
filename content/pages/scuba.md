@@ -2,14 +2,12 @@
 title: scuba
 crosslinks:
 - UKDiving
-- livven
 - GladiusAdventure
 - Scholar
 - underwaterphotography
 - KeyWest
 - TheDerpsBelow
 - Pseudoscience
-- autotldr
 - comics
 - e
 - SneakyBackgroundFeet

@@ -2,7 +2,6 @@
 title: wwi
 crosslinks:
 - AskHistorians
-- autotldr
 - AviationHistory
 - dancarlin
 - anime

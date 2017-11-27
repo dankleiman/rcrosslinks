@@ -1,5 +1,0 @@
----
-title: thatsnotai
-crosslinks:
-- autotldr
----

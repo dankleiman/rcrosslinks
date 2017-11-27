@@ -6,7 +6,6 @@ crosslinks:
 - all
 - Serendipity
 - giveaways
-- autotldr
 - BlackSquad
 - freegamefindings
 - lostidols

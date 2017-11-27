@@ -10,7 +10,6 @@ crosslinks:
 - Emmycity
 - noellespanties
 - laineylove
-- livven
 - SonjaHaze
 - CeliaKat
 - CarliKanePorn

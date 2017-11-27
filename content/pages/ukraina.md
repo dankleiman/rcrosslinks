@@ -6,7 +6,6 @@ crosslinks:
 - ukraine
 - announcements
 - ukrainian_flag
-- autotldr
 - worldnews
 - place
 - mykolaiv

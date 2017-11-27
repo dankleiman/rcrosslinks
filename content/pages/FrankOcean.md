@@ -3,7 +3,6 @@ title: FrankOcean
 crosslinks:
 - hiphopheads
 - Kanye
-- livven
 - place
 - KendrickLamar
 - donaldglover

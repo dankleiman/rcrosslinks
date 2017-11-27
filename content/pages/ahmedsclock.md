@@ -1,5 +1,0 @@
----
-title: ahmedsclock
-crosslinks:
-- autotldr
----

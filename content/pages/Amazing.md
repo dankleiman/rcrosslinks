@@ -1,5 +1,0 @@
----
-title: Amazing
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: Corridor
 crosslinks:
-- livven
 - videos
 - UnexpectedRT
 - place

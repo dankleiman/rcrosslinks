@@ -1,7 +1,6 @@
 ---
 title: missoula
 crosslinks:
-- autotldr
 - nfl
 - creepy
 - technology

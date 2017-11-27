@@ -8,7 +8,6 @@ crosslinks:
 - chinaglass
 - SpaceBuckets
 - microgrowery
-- autotldr
 - StonerEngineering
 - eldertrees
 - AmsterdamEnts

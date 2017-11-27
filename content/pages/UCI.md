@@ -1,9 +1,7 @@
 ---
 title: UCI
 crosslinks:
-- livven
 - orangecounty
-- autotldr
 - chanceme
 - ididthemath
 - UCI_FWB

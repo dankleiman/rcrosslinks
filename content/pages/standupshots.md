@@ -9,7 +9,6 @@ crosslinks:
 - ComedyCemetery
 - Jokes
 - The_Donald
-- livven
 - ShitAmericansSay
 - niceguys
 - funny

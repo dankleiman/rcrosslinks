@@ -10,7 +10,6 @@ crosslinks:
 - Fuckthealtright
 - free_kekistan
 - REEEEEE
-- autotldr
 - societalengineering
 - MHOC
 - assignedmale

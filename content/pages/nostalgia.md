@@ -1,7 +1,6 @@
 ---
 title: nostalgia
 crosslinks:
-- livven
 - xkcd
 - gatekeeping
 - HailCorporate

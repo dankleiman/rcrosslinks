@@ -1,5 +1,0 @@
----
-title: DiamondJackson
-crosslinks:
-- livven
----

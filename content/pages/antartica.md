@@ -1,5 +1,0 @@
----
-title: antartica
-crosslinks:
-- autotldr
----

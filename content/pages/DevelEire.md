@@ -1,7 +1,6 @@
 ---
 title: DevelEire
 crosslinks:
-- autotldr
 - ireland
 - galway
 - cscareerquestions

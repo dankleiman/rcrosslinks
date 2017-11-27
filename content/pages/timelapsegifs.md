@@ -4,7 +4,6 @@ crosslinks:
 - WeatherGifs
 - woahdude
 - oddlysatisfying
-- livven
 - BeAmazed
 - space
 - interestingasfuck

@@ -1,7 +1,6 @@
 ---
 title: amateurcumsluts
 crosslinks:
-- livven
 - gwcumsluts
 - kellyfans
 - funsizedasian

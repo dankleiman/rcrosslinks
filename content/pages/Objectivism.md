@@ -1,7 +1,6 @@
 ---
 title: Objectivism
 crosslinks:
-- autotldr
 - socialism
 - altright
 - xkcd

@@ -3,7 +3,6 @@ title: OWConsole
 crosslinks:
 - Overwatch
 - OverwatchUniversity
-- livven
 - Competitiveoverwatch
 - OverwatchLFT
 - luciomains

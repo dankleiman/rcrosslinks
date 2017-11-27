@@ -14,6 +14,5 @@ crosslinks:
 - LifeProTips
 - london
 - personalfinance
-- livven
 - Justrolledintotheshop
 ---

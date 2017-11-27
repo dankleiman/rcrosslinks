@@ -1,7 +1,6 @@
 ---
 title: BostonTerrier
 crosslinks:
-- livven
 - dogs
 - Serendipity
 - teefies

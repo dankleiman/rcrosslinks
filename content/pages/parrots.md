@@ -1,7 +1,6 @@
 ---
 title: parrots
 crosslinks:
-- livven
 - cockatiel
 - PartyParrot
 - redditgetsdrawn
@@ -14,7 +13,6 @@ crosslinks:
 - aww
 - SuicideWatch
 - Needlefelting
-- autotldr
 - Zoomies
 - PhysicsStudents
 - RealLifeShinies

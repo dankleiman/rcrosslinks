@@ -1,7 +1,6 @@
 ---
 title: notinteresting
 crosslinks:
-- livven
 - mildlyinteresting
 - SurrealNSFW
 - slightlyinteresting

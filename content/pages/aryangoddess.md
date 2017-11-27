@@ -1,5 +1,0 @@
----
-title: aryangoddess
-crosslinks:
-- livven
----

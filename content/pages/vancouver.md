@@ -2,10 +2,8 @@
 title: vancouver
 crosslinks:
 - canada
-- autotldr
 - 'null'
 - PersonalFinanceCanada
-- livven
 - AskReddit
 - xkcd
 - todayilearned

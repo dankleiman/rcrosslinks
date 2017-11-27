@@ -1,7 +1,6 @@
 ---
 title: elonmusk
 crosslinks:
-- autotldr
 - spacex
 - SpaceXMasterrace
 - teslamotors
@@ -19,6 +18,5 @@ crosslinks:
 - announcements
 - dgu
 - xkcd
-- livven
 - The_Donald
 ---

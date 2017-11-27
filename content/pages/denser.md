@@ -1,5 +1,0 @@
----
-title: denser
-crosslinks:
-- autotldr
----

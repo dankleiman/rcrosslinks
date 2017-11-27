@@ -1,13 +1,11 @@
 ---
 title: ems
 crosslinks:
-- livven
 - Firefighting
 - ProtectAndServe
 - nursing
 - medicine
 - pics
-- autotldr
 - medicalschool
 - nottheonion
 - EKGs

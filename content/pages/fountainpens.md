@@ -6,7 +6,6 @@ crosslinks:
 - sixwordstories
 - Handwriting
 - Calligraphy
-- livven
 - wicked_edge
 - Watches
 - pens

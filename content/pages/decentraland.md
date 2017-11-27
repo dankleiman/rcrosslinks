@@ -4,5 +4,4 @@ crosslinks:
 - ethtrader
 - NewDecentraland
 - ethdev
-- autotldr
 ---

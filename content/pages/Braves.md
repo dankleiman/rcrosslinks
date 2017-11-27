@@ -3,7 +3,6 @@ title: Braves
 crosslinks:
 - reddit_stream
 - BravesGIFs
-- livven
 - MLBStreams
 - NewYorkMets
 - Nationals

@@ -1,7 +1,6 @@
 ---
 title: bitchimabus
 crosslinks:
-- livven
 - BitchImATrain
 - titleporn
 - WTF

@@ -1,7 +1,6 @@
 ---
 title: overpopulation
 crosslinks:
-- autotldr
 - EnoughTrumpSpam
 - childfree
 - collapse

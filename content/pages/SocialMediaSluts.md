@@ -3,7 +3,6 @@ title: SocialMediaSluts
 crosslinks:
 - allisoncalvaruso
 - MelissaSandoval
-- livven
 - juliakelly
 - JizzedToThis
 - instahotties

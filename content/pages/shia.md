@@ -2,7 +2,6 @@
 title: shia
 crosslinks:
 - islam
-- autotldr
 - syriancivilwar
 - vexillology
 - DeadBedrooms

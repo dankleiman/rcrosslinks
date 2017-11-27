@@ -5,7 +5,6 @@ crosslinks:
 - ComedyCemetery
 - DeepFriedMemes
 - MemeEconomy
-- livven
 - copypasta
 - lewronggeneration
 - me_irl

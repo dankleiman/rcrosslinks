@@ -2,7 +2,6 @@
 title: IndianCJ
 crosslinks:
 - IndiaSpeaks
-- autotldr
 - modnews
 - CarolinaRamirez
 - indiadiscussion
@@ -13,5 +12,4 @@ crosslinks:
 - ukpolitics
 - worldnews
 - india
-- livven
 ---

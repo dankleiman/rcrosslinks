@@ -1,7 +1,6 @@
 ---
 title: animegifs
 crosslinks:
-- livven
 - anime
 - araragi
 - Animemes

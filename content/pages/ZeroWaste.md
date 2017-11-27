@@ -5,7 +5,6 @@ crosslinks:
 - clothpads
 - Frugal
 - minimalism
-- autotldr
 - science
 - pics
 - Futurology

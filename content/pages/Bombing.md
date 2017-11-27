@@ -2,7 +2,6 @@
 title: Bombing
 crosslinks:
 - Graffiti
-- livven
 - handstyles
 - graffhelp
 - Shoplifting

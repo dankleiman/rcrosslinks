@@ -1,7 +1,6 @@
 ---
 title: TrueCrime
 crosslinks:
-- autotldr
 - UnresolvedMysteries
 - TrueCrimeDiscussion
 - serialkillers

@@ -8,7 +8,6 @@ crosslinks:
 - Music
 - outrun
 - csshelp
-- livven
 - IAmA
 - radiohead
 - FrankOcean

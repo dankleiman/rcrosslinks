@@ -1,7 +1,6 @@
 ---
 title: Anticonsumption
 crosslinks:
-- autotldr
 - ZeroWaste
 - simpleliving
 - Degrowth

@@ -4,7 +4,6 @@ crosslinks:
 - TopMindsOfReddit
 - conspiracy
 - C_S_T
-- autotldr
 - Retconned
 - holofractal
 - topmindsofconspiracy

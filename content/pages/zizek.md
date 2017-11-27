@@ -8,6 +8,5 @@ crosslinks:
 - LaKanYeShiva
 - CommunismOnly
 - BrasildoB
-- autotldr
 - Futurology
 ---

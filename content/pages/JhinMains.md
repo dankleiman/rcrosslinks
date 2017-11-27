@@ -2,7 +2,6 @@
 title: JhinMains
 crosslinks:
 - leagueoflegends
-- livven
 - Draven
 - summonerschool
 - Suomi

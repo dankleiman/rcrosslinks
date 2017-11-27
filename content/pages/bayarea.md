@@ -9,7 +9,6 @@ crosslinks:
 - SanJose
 - conspiracy
 - santarosa
-- livven
 - gatekeeping
 - SanFranciscoII
 - legaladvice

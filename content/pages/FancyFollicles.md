@@ -4,7 +4,6 @@ crosslinks:
 - curlyhair
 - HaircareScience
 - Hair
-- livven
 - PhotoshopRequest
 - shorthairedhotties
 - toast

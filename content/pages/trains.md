@@ -1,7 +1,6 @@
 ---
 title: trains
 crosslinks:
-- livven
 - norwayonreddit
 - CringeAnarchy
 - TrainPorn
@@ -14,7 +13,6 @@ crosslinks:
 - WWII
 - Breadit
 - Amtrak
-- autotldr
 - chemistry
 - shittyHDR
 - OSHA

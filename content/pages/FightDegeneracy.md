@@ -1,5 +1,0 @@
----
-title: FightDegeneracy
-crosslinks:
-- autotldr
----

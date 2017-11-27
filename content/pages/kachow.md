@@ -1,7 +1,6 @@
 ---
 title: kachow
 crosslinks:
-- livven
 - Shitty_Car_Mods
 - ATBGE
 - mst3k

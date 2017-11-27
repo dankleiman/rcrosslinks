@@ -1,5 +1,0 @@
----
-title: theculling
-crosslinks:
-- autotldr
----

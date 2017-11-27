@@ -1,5 +1,0 @@
----
-title: geneticdrawings
-crosslinks:
-- livven
----

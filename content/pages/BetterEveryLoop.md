@@ -1,7 +1,6 @@
 ---
 title: BetterEveryLoop
 crosslinks:
-- livven
 - gifs
 - funny
 - Unexpected

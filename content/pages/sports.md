@@ -1,8 +1,6 @@
 ---
 title: sports
 crosslinks:
-- livven
-- autotldr
 - gifs
 - MMA
 - AskReddit

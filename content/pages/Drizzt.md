@@ -1,5 +1,0 @@
----
-title: Drizzt
-crosslinks:
-- livven
----

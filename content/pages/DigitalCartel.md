@@ -1,7 +1,6 @@
 ---
 title: DigitalCartel
 crosslinks:
-- autotldr
 - conspiracy
 - Electromagnetics
 - OldSchoolCool

@@ -1,5 +1,0 @@
----
-title: animalsfindingmirrors
-crosslinks:
-- livven
----

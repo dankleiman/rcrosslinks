@@ -2,7 +2,6 @@
 title: bettafish
 crosslinks:
 - Aquariums
-- livven
 - AquaSwap
 - PlantedTank
 - aww

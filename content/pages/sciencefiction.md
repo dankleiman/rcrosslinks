@@ -1,7 +1,6 @@
 ---
 title: sciencefiction
 crosslinks:
-- autotldr
 - printSF
 - HFY
 - scifi

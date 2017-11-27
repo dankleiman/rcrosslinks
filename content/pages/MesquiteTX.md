@@ -1,5 +1,0 @@
----
-title: MesquiteTX
-crosslinks:
-- autotldr
----

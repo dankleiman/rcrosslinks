@@ -1,5 +1,0 @@
----
-title: WorldNewsRevenge
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: mobilelegends
 crosslinks:
-- livven
 - vainglorygame
 - Pay_Respects
 - AndroidGaming

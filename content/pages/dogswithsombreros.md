@@ -1,5 +1,0 @@
----
-title: dogswithsombreros
-crosslinks:
-- livven
----

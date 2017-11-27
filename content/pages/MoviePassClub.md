@@ -1,7 +1,6 @@
 ---
 title: MoviePassClub
 crosslinks:
-- autotldr
 - moviepass
 - Austin
 - tomorrow
@@ -10,5 +9,4 @@ crosslinks:
 - EditingAndLayout
 - 2rpwhvk
 - FanTheories
-- livven
 ---

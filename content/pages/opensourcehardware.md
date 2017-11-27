@@ -1,5 +1,0 @@
----
-title: opensourcehardware
-crosslinks:
-- autotldr
----

@@ -6,7 +6,6 @@ crosslinks:
 - ethereum
 - Augur
 - StarWarsMarketplace
-- autotldr
 - Monero
 - icocrypto
 - Wagerr

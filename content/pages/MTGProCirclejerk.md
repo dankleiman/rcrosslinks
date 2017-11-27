@@ -1,5 +1,0 @@
----
-title: MTGProCirclejerk
-crosslinks:
-- livven
----

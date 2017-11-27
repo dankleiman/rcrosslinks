@@ -1,5 +1,0 @@
----
-title: AsianAscendance
-crosslinks:
-- autotldr
----

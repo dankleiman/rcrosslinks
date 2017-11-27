@@ -1,5 +1,0 @@
----
-title: RealLifeAvatar
-crosslinks:
-- livven
----

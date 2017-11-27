@@ -1,7 +1,6 @@
 ---
 title: MURICAAA
 crosslinks:
-- autotldr
 - news
 - BlackPeopleTwitter
 - AsianMasculinity

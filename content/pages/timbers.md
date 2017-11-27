@@ -2,7 +2,6 @@
 title: timbers
 crosslinks:
 - MLS
-- livven
 - askportland
 - SoundersFC
 - funny

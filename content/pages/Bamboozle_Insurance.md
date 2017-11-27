@@ -4,6 +4,5 @@ crosslinks:
 - KarmaCourt
 - me_irl
 - Pickles
-- livven
 - MemeEconomy
 ---

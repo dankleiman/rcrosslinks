@@ -1,5 +1,0 @@
----
-title: PoliticsPDFs
-crosslinks:
-- autotldr
----

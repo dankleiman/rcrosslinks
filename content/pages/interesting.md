@@ -1,8 +1,6 @@
 ---
 title: interesting
 crosslinks:
-- autotldr
-- livven
 - AcademicPsychology
 - ShitAmericansSay
 - awesome

@@ -1,7 +1,6 @@
 ---
 title: justicedemocrats
 crosslinks:
-- autotldr
 - Enough_Sanders_Spam
 - WayOfTheBern
 - Kossacks_for_Sanders

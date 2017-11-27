@@ -6,7 +6,6 @@ crosslinks:
 - CryptoCurrency
 - Bitcoin
 - DarkNetMarkets
-- autotldr
 - tippr
 - MoneroCommunity
 - MoneroMarketing

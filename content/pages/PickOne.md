@@ -11,5 +11,4 @@ crosslinks:
 - FestivalSluts
 - fitgirls
 - NSFW_GIF
-- livven
 ---

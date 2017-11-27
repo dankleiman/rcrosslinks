@@ -8,7 +8,6 @@ crosslinks:
 - LiDAR
 - QGIS
 - learnpython
-- autotldr
 - excel
 - rstats
 - nyc

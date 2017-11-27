@@ -2,7 +2,6 @@
 title: hearthstonecirclejerk
 crosslinks:
 - hearthstone
-- livven
 - CompetitiveHS
 - REEEEEEEEEE
 - customhearthstone

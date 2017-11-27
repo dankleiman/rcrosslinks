@@ -2,7 +2,6 @@
 title: tories
 crosslinks:
 - ukpolitics
-- autotldr
 - FULLCOMMUNISM
 - SKZCartoons
 - AskReddit

@@ -2,9 +2,7 @@
 title: UCSD
 crosslinks:
 - place
-- livven
 - cscareerquestions
-- autotldr
 - kansas
 - makemychoice
 - getdisciplined

@@ -1,7 +1,6 @@
 ---
 title: InterestingGifs
 crosslinks:
-- livven
 - gifs
 - popping
 - shittylifehacks

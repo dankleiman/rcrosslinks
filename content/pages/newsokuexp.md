@@ -12,6 +12,4 @@ crosslinks:
 - newsokunomoral
 - reddit_jp
 - NewNewSokuR
-- autotldr
-- livven
 ---

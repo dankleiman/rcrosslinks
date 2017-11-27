@@ -6,7 +6,6 @@ crosslinks:
 - pics
 - OutOfTheLoop
 - oakland
-- livven
 - donate
 - chelseafc
 - Reality

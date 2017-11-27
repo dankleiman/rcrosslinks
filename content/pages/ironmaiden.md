@@ -6,7 +6,6 @@ crosslinks:
 - Metal
 - PaulDiAnno
 - Metallica
-- livven
 - gatekeeping
 - rush
 - KarmaCourt

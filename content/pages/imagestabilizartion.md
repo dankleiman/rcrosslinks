@@ -1,5 +1,0 @@
----
-title: imagestabilizartion
-crosslinks:
-- livven
----

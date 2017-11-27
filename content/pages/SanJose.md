@@ -1,7 +1,6 @@
 ---
 title: SanJose
 crosslinks:
-- autotldr
 - SJSU
 - rit
 - jino6c
@@ -12,7 +11,6 @@ crosslinks:
 - LosAngeles
 - LateStageCapitalism
 - funny
-- livven
 - PanicHistory
 - ShitSlumlordsSay
 - Incels

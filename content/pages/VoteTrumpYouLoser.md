@@ -1,5 +1,0 @@
----
-title: VoteTrumpYouLoser
-crosslinks:
-- livven
----

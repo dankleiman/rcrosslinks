@@ -1,5 +1,0 @@
----
-title: ChurchOfNaoto
-crosslinks:
-- livven
----

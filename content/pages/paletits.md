@@ -1,5 +1,0 @@
----
-title: paletits
-crosslinks:
-- livven
----

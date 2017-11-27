@@ -1,7 +1,6 @@
 ---
 title: animenocontext
 crosslinks:
-- livven
 - animegifs
 - KizunaA_Irl
 - anime_irl

@@ -1,5 +1,0 @@
----
-title: Skullduggery
-crosslinks:
-- autotldr
----

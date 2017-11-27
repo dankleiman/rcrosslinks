@@ -1,5 +1,0 @@
----
-title: Rohingya
-crosslinks:
-- autotldr
----

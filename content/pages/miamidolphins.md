@@ -3,7 +3,6 @@ title: miamidolphins
 crosslinks:
 - nfl
 - place
-- livven
 - NFL_Draft
 - reddit_stream
 - CoalitionAgainstEvil

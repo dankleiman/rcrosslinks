@@ -7,7 +7,6 @@ crosslinks:
 - Korean
 - French
 - LearnJapaneseNovice
-- livven
 - Finland
 - GREEK
 - LanguagePals

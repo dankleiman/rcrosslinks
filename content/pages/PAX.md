@@ -16,7 +16,6 @@ crosslinks:
 - dndnext
 - Seattle
 - Pathfinder_RPG
-- livven
 - chumpydo
 - 358137p
 - TheCTeam

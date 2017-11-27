@@ -1,5 +1,0 @@
----
-title: BundleOfBrittany
-crosslinks:
-- livven
----

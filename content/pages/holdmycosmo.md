@@ -1,7 +1,6 @@
 ---
 title: holdmycosmo
 crosslinks:
-- livven
 - metric_units
 - holdmyfries
 - killthecameraman

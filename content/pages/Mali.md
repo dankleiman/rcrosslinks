@@ -1,5 +1,0 @@
----
-title: Mali
-crosslinks:
-- autotldr
----

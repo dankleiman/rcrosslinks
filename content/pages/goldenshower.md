@@ -1,5 +1,0 @@
----
-title: goldenshower
-crosslinks:
-- autotldr
----

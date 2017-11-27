@@ -1,7 +1,6 @@
 ---
 title: GabrielDropout
 crosslinks:
-- livven
 - Tenma
 - satania
 - anime

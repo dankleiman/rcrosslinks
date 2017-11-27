@@ -1,5 +1,0 @@
----
-title: Moneybags
-crosslinks:
-- livven
----

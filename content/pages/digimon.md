@@ -1,7 +1,6 @@
 ---
 title: digimon
 crosslinks:
-- livven
 - NextOrder
 - Crunchyroll
 - cosplay

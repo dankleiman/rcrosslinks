@@ -1,5 +1,0 @@
----
-title: SteamArtwork
-crosslinks:
-- livven
----

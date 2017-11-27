@@ -6,6 +6,5 @@ crosslinks:
 - emulation
 - LaserActive
 - crtgaming
-- livven
 - tipofmyjoystick
 ---

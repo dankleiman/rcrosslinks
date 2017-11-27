@@ -17,7 +17,6 @@ crosslinks:
 - SuicideLaws
 - ForeverAlone
 - LateStageCapitalism
-- autotldr
 - 2meirl42meirl4meirl
 - science
 - pics

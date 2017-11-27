@@ -1,7 +1,6 @@
 ---
 title: wichita
 crosslinks:
-- autotldr
 - kansas
 - EnoughTrumpSpam
 - gifs

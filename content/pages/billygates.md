@@ -1,5 +1,0 @@
----
-title: billygates
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: baconreader
 crosslinks:
 - AskReddit
-- livven
 - worldnews
 - pics
 - news

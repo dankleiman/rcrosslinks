@@ -1,5 +1,0 @@
----
-title: trumptheracist
-crosslinks:
-- autotldr
----

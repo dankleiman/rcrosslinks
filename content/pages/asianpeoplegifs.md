@@ -1,7 +1,6 @@
 ---
 title: asianpeoplegifs
 crosslinks:
-- livven
 - gifs
 - MadeMeSmile
 - Kerala

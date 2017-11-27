@@ -3,7 +3,6 @@ title: COMPLETEANARCHY
 crosslinks:
 - TOTALCOMMUNALISM
 - FULLCOMMUNISM
-- livven
 - Anarchism
 - Ultraleft
 - socialism
@@ -14,7 +13,6 @@ crosslinks:
 - The_Donald
 - ANI_COMMUNISM
 - Anarchy101
-- autotldr
 - ChapoTrapHouse
 - Drama
 - FULLDISCOURSE

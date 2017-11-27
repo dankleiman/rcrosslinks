@@ -1,11 +1,9 @@
 ---
 title: medicalschool
 crosslinks:
-- livven
 - medicine
 - step1
 - premed
-- autotldr
 - nursing
 - churning
 - doctorsthatgame

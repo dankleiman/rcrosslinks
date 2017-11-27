@@ -1,5 +1,0 @@
----
-title: dogsonplanes
-crosslinks:
-- livven
----

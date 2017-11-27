@@ -1,7 +1,6 @@
 ---
 title: xsmallgirls
 crosslinks:
-- livven
 - RealGirls
 - anorexic
 - sweetfru1t

@@ -1,7 +1,6 @@
 ---
 title: spirograph
 crosslinks:
-- livven
 - oddlysatisfying
 - loadingicon
 - JRSSightings

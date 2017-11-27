@@ -13,7 +13,6 @@ crosslinks:
 - hardware
 - Amd
 - Bitcoin
-- autotldr
 - DDWRT
 - dankmemes
 - privacy

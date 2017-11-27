@@ -1,5 +1,0 @@
----
-title: gonewildcury
-crosslinks:
-- livven
----

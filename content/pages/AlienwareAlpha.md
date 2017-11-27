@@ -7,6 +7,5 @@ crosslinks:
 - Alienware
 - pcmasterrace
 - ultrawidemasterrace
-- autotldr
 - h1z1
 ---

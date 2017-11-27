@@ -1,5 +1,0 @@
----
-title: FreeRepublican
-crosslinks:
-- autotldr
----

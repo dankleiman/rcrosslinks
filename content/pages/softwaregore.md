@@ -1,7 +1,6 @@
 ---
 title: softwaregore
 crosslinks:
-- livven
 - xkcd
 - assholedesign
 - ProgrammerHumor

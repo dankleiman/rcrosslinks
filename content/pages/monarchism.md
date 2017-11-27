@@ -1,7 +1,6 @@
 ---
 title: monarchism
 crosslinks:
-- autotldr
 - AskHistorians
 - TraditionalCatholics
 - EnoughCommieSpam

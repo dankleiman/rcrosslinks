@@ -2,7 +2,6 @@
 title: Blind
 crosslinks:
 - SPACEVAMPIRES
-- autotldr
 - AutoNewspaper
 - AudioGames
 - AskReddit

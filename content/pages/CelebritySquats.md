@@ -1,5 +1,0 @@
----
-title: CelebritySquats
-crosslinks:
-- livven
----

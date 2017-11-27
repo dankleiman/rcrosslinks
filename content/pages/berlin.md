@@ -1,11 +1,9 @@
 ---
 title: berlin
 crosslinks:
-- autotldr
 - germany
 - de
 - German
-- livven
 - HistoryPorn
 - jwd
 - worldnews

@@ -4,6 +4,5 @@ crosslinks:
 - icocrypto
 - Buttcoin
 - ethtrader
-- autotldr
 - CryptoCurrencies
 ---

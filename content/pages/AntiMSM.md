@@ -1,7 +1,6 @@
 ---
 title: AntiMSM
 crosslinks:
-- autotldr
 - worldpolitics
 - geopolitics
 - antiMainStreamMedia

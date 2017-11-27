@@ -1,7 +1,6 @@
 ---
 title: Calgary
 crosslinks:
-- autotldr
 - canada
 - PersonalFinanceCanada
 - xkcd
@@ -10,7 +9,6 @@ crosslinks:
 - AskReddit
 - funny
 - NoRulesCalgary
-- livven
 - vancouver
 - CalgaryDashCams
 - metacanada

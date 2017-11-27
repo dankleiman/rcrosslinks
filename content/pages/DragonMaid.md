@@ -2,7 +2,6 @@
 title: DragonMaid
 crosslinks:
 - anime
-- livven
 - Pixiv
 - awwnime
 - TheDragonGoddess

@@ -17,7 +17,6 @@ crosslinks:
 - casualnintendo
 - adoptmyvillager
 - iPhone
-- livven
 - Stellaris
 - gameswap
 - DolphinEmulator

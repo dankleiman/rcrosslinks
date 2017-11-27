@@ -1,8 +1,6 @@
 ---
 title: td_uncensored
 crosslinks:
-- autotldr
-- livven
 - The_Donald
 - Conservative
 - VlaamsBelang

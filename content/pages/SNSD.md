@@ -2,7 +2,6 @@
 title: SNSD
 crosslinks:
 - kpop
-- livven
 - place
 - Pixiv
 - thesimpsons

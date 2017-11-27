@@ -1,7 +1,6 @@
 ---
 title: RotMG
 crosslinks:
-- livven
 - place
 - RotMGDLS
 - REEEEEEEEEE
@@ -14,7 +13,6 @@ crosslinks:
 - DarzasDominion
 - modnews
 - 2007scape
-- autotldr
 - AskReddit
 - BuffHydra
 - gaming

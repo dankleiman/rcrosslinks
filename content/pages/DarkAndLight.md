@@ -6,6 +6,5 @@ crosslinks:
 - playark
 - me_irl
 - DnL
-- livven
 - evilco_dnl
 ---

@@ -1,5 +1,0 @@
----
-title: eradicateislam
-crosslinks:
-- autotldr
----

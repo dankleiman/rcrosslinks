@@ -1,5 +1,0 @@
----
-title: bohwaz
-crosslinks:
-- autotldr
----

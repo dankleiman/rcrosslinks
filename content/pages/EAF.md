@@ -1,7 +1,6 @@
 ---
 title: EAF
 crosslinks:
-- livven
 - interestingasfuck
 - juggling
 - nonononoyes

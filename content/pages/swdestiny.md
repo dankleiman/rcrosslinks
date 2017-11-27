@@ -3,7 +3,6 @@ title: swdestiny
 crosslinks:
 - pkmntcgreferences
 - XWingTMG
-- livven
 - patreon
 - dominion
 - PAX

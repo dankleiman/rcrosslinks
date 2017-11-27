@@ -2,7 +2,6 @@
 title: geek
 crosslinks:
 - help
-- livven
 - xkcd
 - INEEEEDIT
 - interestingasfuck

@@ -5,6 +5,5 @@ crosslinks:
 - gardening
 - somethingimade
 - Fungi
-- autotldr
 - Futurology
 ---

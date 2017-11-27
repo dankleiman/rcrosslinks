@@ -1,8 +1,6 @@
 ---
 title: HumansBeingBros
 crosslinks:
-- livven
-- autotldr
 - AskReddit
 - reverseanimalrescue
 - pics

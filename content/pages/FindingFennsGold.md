@@ -8,7 +8,6 @@ crosslinks:
 - rickandmorty
 - ToFF
 - walmart
-- autotldr
 - funny
 - UnresolvedMysteries
 - todayilearned

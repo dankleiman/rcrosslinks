@@ -6,7 +6,6 @@ crosslinks:
 - LifeProTips
 - yep
 - Jokes
-- livven
 - TodayIFuckedACoconut
 - popping
 - CrazyRussianHacker

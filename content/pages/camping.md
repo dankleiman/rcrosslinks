@@ -8,7 +8,6 @@ crosslinks:
 - myog
 - pics
 - nosleep
-- livven
 - CampingGear
 - politics
 - vandwellers

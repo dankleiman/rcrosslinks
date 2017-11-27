@@ -1,5 +1,0 @@
----
-title: nopixels
-crosslinks:
-- livven
----

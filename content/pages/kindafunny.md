@@ -2,7 +2,6 @@
 title: kindafunny
 crosslinks:
 - ColinsLastStand
-- livven
 - CoolGamesInc
 - hotones
 - OutOfTheLoop

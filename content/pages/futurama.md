@@ -5,7 +5,6 @@ crosslinks:
 - AskReddit
 - pics
 - xkcd
-- autotldr
 - HailCorporate
 - IAmA
 - AMAAggregator

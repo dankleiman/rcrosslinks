@@ -1,5 +1,0 @@
----
-title: iwannafuckingdie
-crosslinks:
-- livven
----

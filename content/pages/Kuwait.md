@@ -4,7 +4,6 @@ crosslinks:
 - WorldDailyTops
 - funny
 - Advice
-- autotldr
 - Bahrain
 - Serendipity
 - AntiSemitismWatch

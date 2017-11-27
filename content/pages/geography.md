@@ -1,7 +1,6 @@
 ---
 title: geography
 crosslinks:
-- autotldr
 - MapPorn
 - xkcd
 - IslandRulers

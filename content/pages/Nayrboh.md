@@ -1,5 +1,0 @@
----
-title: Nayrboh
-crosslinks:
-- livven
----

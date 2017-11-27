@@ -2,7 +2,6 @@
 title: SCJerk
 crosslinks:
 - SquaredCircle
-- livven
 - REEEEEEEEEE
 - AMAAggregator
 - WrestleWithThePlot

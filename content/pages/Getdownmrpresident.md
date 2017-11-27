@@ -1,7 +1,6 @@
 ---
 title: Getdownmrpresident
 crosslinks:
-- livven
 - Overwatch
 - titanfall
 - Paladins

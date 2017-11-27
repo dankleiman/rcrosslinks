@@ -1,7 +1,6 @@
 ---
 title: Wildlands
 crosslinks:
-- livven
 - GhostRecon
 - WildlandsLFG
 - wildlandsyeti

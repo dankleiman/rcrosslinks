@@ -1,5 +1,0 @@
----
-title: PeopleofColor
-crosslinks:
-- autotldr
----

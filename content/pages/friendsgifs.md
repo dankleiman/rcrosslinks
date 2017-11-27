@@ -1,5 +1,0 @@
----
-title: friendsgifs
-crosslinks:
-- livven
----

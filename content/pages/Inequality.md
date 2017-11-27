@@ -1,5 +1,0 @@
----
-title: Inequality
-crosslinks:
-- autotldr
----

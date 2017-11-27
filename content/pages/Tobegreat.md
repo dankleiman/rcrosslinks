@@ -1,5 +1,0 @@
----
-title: Tobegreat
-crosslinks:
-- livven
----

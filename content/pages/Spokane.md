@@ -1,7 +1,6 @@
 ---
 title: Spokane
 crosslinks:
-- autotldr
 - techsupport
 - Washington
 - WAlitics

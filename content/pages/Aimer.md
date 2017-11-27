@@ -1,5 +1,0 @@
----
-title: Aimer
-crosslinks:
-- livven
----

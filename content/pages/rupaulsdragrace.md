@@ -1,7 +1,6 @@
 ---
 title: rupaulsdragrace
 crosslinks:
-- livven
 - RPDRDRAMA
 - '2013'
 - Drama

@@ -1,7 +1,6 @@
 ---
 title: Outdoors
 crosslinks:
-- autotldr
 - hiking
 - ireland
 - nationalparks

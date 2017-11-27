@@ -1,7 +1,6 @@
 ---
 title: necrodancer
 crosslinks:
-- livven
 - placeAtlas
 - nocontext
 - ShadowBanned

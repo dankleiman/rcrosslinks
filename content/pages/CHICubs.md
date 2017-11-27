@@ -15,8 +15,6 @@ crosslinks:
 - orioles
 - manfeelings839
 - Glitch_in_the_Matrix
-- autotldr
-- livven
 - KCRoyals
 - Dodgers
 - CardinalsVexillology

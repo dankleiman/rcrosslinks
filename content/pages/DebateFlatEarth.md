@@ -7,7 +7,6 @@ crosslinks:
 - xkcd
 - pcmasterrace
 - forensics
-- livven
 - Flat_Earth
 - Geocentrism
 ---

@@ -2,7 +2,6 @@
 title: GCSE
 crosslinks:
 - 6thForm
-- livven
 - teenagers
 - fountainpens
 - AMAAggregator

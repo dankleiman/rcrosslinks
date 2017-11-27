@@ -1,5 +1,0 @@
----
-title: SayNoToPot
-crosslinks:
-- autotldr
----

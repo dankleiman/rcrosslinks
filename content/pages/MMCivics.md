@@ -1,5 +1,0 @@
----
-title: MMCivics
-crosslinks:
-- autotldr
----

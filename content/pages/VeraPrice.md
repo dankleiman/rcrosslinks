@@ -1,5 +1,0 @@
----
-title: VeraPrice
-crosslinks:
-- livven
----

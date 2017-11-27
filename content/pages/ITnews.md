@@ -1,5 +1,0 @@
----
-title: ITnews
-crosslinks:
-- autotldr
----

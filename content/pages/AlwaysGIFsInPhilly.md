@@ -1,5 +1,0 @@
----
-title: AlwaysGIFsInPhilly
-crosslinks:
-- livven
----

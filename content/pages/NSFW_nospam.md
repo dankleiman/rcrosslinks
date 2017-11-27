@@ -1,7 +1,6 @@
 ---
 title: NSFW_nospam
 crosslinks:
-- livven
 - nsfw
 - LilyIvy
 - eyecontact

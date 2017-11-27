@@ -1,7 +1,6 @@
 ---
 title: EndFPTP
 crosslinks:
-- autotldr
 - TrueReddit
 - politics
 - Voting

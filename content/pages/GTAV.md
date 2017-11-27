@@ -2,7 +2,6 @@
 title: GTAV
 crosslinks:
 - gtaonline
-- livven
 - RedditDads
 - GrandTheftAutoV
 - gtaglitches
@@ -17,7 +16,6 @@ crosslinks:
 - REBL
 - MCCEO
 - gtaonlinecrews
-- autotldr
 - pcmasterrace
 - gtacartel
 - GTA

@@ -1,7 +1,6 @@
 ---
 title: BlackwakeGame
 crosslinks:
-- livven
 - clans
 - nononono
 - OutOfTheLoop

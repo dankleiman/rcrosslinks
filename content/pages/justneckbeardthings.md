@@ -2,7 +2,6 @@
 title: justneckbeardthings
 crosslinks:
 - Incels
-- livven
 - The_Donald
 - AskReddit
 - Drama
@@ -10,7 +9,6 @@ crosslinks:
 - REEEEEEEEEE
 - niceguys
 - atheism
-- autotldr
 - CringeAnarchy
 - waifuism
 - nocontext

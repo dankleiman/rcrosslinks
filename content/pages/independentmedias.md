@@ -6,7 +6,6 @@ crosslinks:
 - technology
 - canada
 - Military
-- autotldr
 - economy
 - unitedkingdom
 ---

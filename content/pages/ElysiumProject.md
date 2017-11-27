@@ -4,7 +4,6 @@ crosslinks:
 - wowservers
 - Nostalrius
 - iamverysmart
-- livven
 - wow
 - LegacyAddons
 - EnoughTaxoroSpam

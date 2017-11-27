@@ -1,7 +1,6 @@
 ---
 title: redorchestra
 crosslinks:
-- livven
 - rs2vietnam
 - oddlysatisfying
 - pics

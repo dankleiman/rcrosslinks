@@ -1,7 +1,6 @@
 ---
 title: nerdcubed
 crosslinks:
-- livven
 - place
 - xkcd
 - Games
@@ -16,7 +15,6 @@ crosslinks:
 - flightsim
 - EmmaBlackery
 - Serendipity
-- autotldr
 - ShitRedditSays
 - stage9
 - Destiny

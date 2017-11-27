@@ -1,5 +1,0 @@
----
-title: ethbefore
-crosslinks:
-- livven
----

@@ -6,7 +6,6 @@ crosslinks:
 - Coachella
 - festivals
 - Incel
-- autotldr
 - TheseFuckingAccounts
 - BurningMan
 - Tipper

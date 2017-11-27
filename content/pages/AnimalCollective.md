@@ -7,7 +7,6 @@ crosslinks:
 - titlegore
 - whales
 - Anarchism
-- livven
 - BMSR
 - shitpost
 - gratefuldead

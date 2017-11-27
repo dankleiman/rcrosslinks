@@ -1,7 +1,6 @@
 ---
 title: longevity
 crosslinks:
-- autotldr
 - science
 - Nootropics
 - GrassrootsLongevity

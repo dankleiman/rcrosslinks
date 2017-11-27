@@ -1,7 +1,6 @@
 ---
 title: xdfp
 crosslinks:
-- livven
 - anime
 - Kappa
 - SSBM

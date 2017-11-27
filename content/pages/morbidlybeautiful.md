@@ -9,7 +9,6 @@ crosslinks:
 - toronto
 - FullScorpion
 - hitmanimals
-- livven
 - WTF
 - selfharmpics
 - Enhancement

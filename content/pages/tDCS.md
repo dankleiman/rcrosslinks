@@ -1,7 +1,6 @@
 ---
 title: tDCS
 crosslinks:
-- autotldr
 - Futurology
 - Damnthatsinteresting
 - science

@@ -1,7 +1,6 @@
 ---
 title: media
 crosslinks:
-- autotldr
 - worldpolitics
 - russia
 - LevantineWar

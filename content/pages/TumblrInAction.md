@@ -4,7 +4,6 @@ crosslinks:
 - xkcd
 - KotakuInAction
 - nocontext
-- autotldr
 - AskReddit
 - The_Donald
 - CringeAnarchy

@@ -1,7 +1,6 @@
 ---
 title: absolver
 crosslinks:
-- livven
 - forhonor
 - TwoBestFriendsPlay
 - Warframe

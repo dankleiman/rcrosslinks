@@ -1,7 +1,6 @@
 ---
 title: OneY
 crosslinks:
-- autotldr
 - FAUncensored
 - TheBluePill
 - SampleSize

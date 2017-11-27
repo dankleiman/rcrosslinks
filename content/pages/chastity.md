@@ -1,7 +1,6 @@
 ---
 title: chastity
 crosslinks:
-- livven
 - keyholdercaptions
 - chastitytraining
 - BDSMcommunity

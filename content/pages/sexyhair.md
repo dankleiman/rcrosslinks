@@ -1,7 +1,6 @@
 ---
 title: sexyhair
 crosslinks:
-- livven
 - gifs
 - katerinarozmajzl
 - PrettyGirls

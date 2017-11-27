@@ -1,5 +1,0 @@
----
-title: VPDP
-crosslinks:
-- livven
----

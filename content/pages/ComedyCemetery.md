@@ -14,7 +14,6 @@ crosslinks:
 - ReallyWackyTicTacs
 - CringeAnarchy
 - forwardsfromgrandma
-- livven
 - nukedmemes
 - THE_PACK
 - Adam_fkn_Ellis_again

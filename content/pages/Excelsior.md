@@ -1,5 +1,0 @@
----
-title: Excelsior
-crosslinks:
-- autotldr
----

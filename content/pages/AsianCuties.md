@@ -2,7 +2,6 @@
 title: AsianCuties
 crosslinks:
 - ArtworkAsia
-- livven
 - AsianFeet
 - asianfitgirls
 - AsianHotties

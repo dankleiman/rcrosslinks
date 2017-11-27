@@ -1,5 +1,0 @@
----
-title: computek
-crosslinks:
-- autotldr
----

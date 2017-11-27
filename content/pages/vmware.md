@@ -3,7 +3,6 @@ title: vmware
 crosslinks:
 - sysadmin
 - xkcd
-- autotldr
 - Hewlett_Packard
 - hackintosh
 - esxi

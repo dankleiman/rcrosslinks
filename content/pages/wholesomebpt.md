@@ -18,7 +18,6 @@ crosslinks:
 - Overwatch
 - announcements
 - homestead
-- autotldr
 - all
 - explainlikeimfive
 ---

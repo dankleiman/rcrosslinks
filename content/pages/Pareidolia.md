@@ -2,7 +2,6 @@
 title: Pareidolia
 crosslinks:
 - mildlyinteresting
-- livven
 - pics
 - funny
 - xkcd

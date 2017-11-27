@@ -1,5 +1,0 @@
----
-title: CorporationsAreDicks
-crosslinks:
-- autotldr
----

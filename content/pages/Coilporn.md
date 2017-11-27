@@ -8,7 +8,6 @@ crosslinks:
 - IgnorantImgur
 - ecigclassifieds
 - Ecig_reviews
-- livven
 - coils
 - joyetechlogos
 - VapePorn

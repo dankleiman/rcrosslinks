@@ -1,5 +1,0 @@
----
-title: ResponsibleWorldNews
-crosslinks:
-- autotldr
----

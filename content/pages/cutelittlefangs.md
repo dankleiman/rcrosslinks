@@ -18,7 +18,6 @@ crosslinks:
 - Vigne
 - tyingherhairup
 - KemonoFriends
-- livven
 - twintails
 - kemonomimi
 ---

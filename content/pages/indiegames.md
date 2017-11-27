@@ -1,7 +1,6 @@
 ---
 title: indiegames
 crosslinks:
-- livven
 - projecthedra
 - computerfiguur
 - gamedev

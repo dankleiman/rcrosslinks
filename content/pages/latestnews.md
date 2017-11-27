@@ -1,5 +1,0 @@
----
-title: latestnews
-crosslinks:
-- autotldr
----

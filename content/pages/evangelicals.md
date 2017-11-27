@@ -1,5 +1,0 @@
----
-title: evangelicals
-crosslinks:
-- autotldr
----

@@ -3,8 +3,6 @@ title: WWE
 crosslinks:
 - SquaredCircle
 - WrestleWithThePlot
-- livven
-- autotldr
 - WWEstreams
 - Wrasslin
 - whowouldwin

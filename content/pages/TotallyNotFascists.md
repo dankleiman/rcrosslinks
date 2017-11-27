@@ -1,5 +1,0 @@
----
-title: TotallyNotFascists
-crosslinks:
-- autotldr
----

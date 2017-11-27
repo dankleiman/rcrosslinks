@@ -1,7 +1,6 @@
 ---
 title: FRC
 crosslinks:
-- livven
 - FTC
 - xkcd
 - place
@@ -19,6 +18,5 @@ crosslinks:
 - titanfall
 - Kevin
 - ShittyLifeProTips
-- autotldr
 - SequelMemes
 ---

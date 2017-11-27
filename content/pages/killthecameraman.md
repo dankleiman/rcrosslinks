@@ -1,7 +1,6 @@
 ---
 title: killthecameraman
 crosslinks:
-- livven
 - IdiotsNearlyDying
 - nononono
 - thecatdimension

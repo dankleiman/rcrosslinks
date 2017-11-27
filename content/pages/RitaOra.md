@@ -1,5 +1,0 @@
----
-title: RitaOra
-crosslinks:
-- livven
----

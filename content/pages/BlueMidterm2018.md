@@ -1,7 +1,6 @@
 ---
 title: BlueMidterm2018
 crosslinks:
-- autotldr
 - Political_Revolution
 - Enough_Sanders_Spam
 - RalphNortham

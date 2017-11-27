@@ -6,6 +6,5 @@ crosslinks:
 - BeautifulMinecraft
 - MCBuildSchool
 - textureaday
-- livven
 - chunky
 ---

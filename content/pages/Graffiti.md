@@ -17,7 +17,6 @@ crosslinks:
 - SeattleWA
 - surfing
 - museum
-- livven
 - modelmakers
 - lewronggeneration
 - literature

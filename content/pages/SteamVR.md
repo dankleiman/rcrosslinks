@@ -8,7 +8,6 @@ crosslinks:
 - vridge
 - hlvr
 - AMAAggregator
-- autotldr
 - unrealengine
 - vrArcade
 - RiftintotheMind
@@ -17,5 +16,4 @@ crosslinks:
 - oculusnsfw
 - PSVR
 - Amd
-- livven
 ---

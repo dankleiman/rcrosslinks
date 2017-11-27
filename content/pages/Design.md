@@ -1,10 +1,8 @@
 ---
 title: Design
 crosslinks:
-- autotldr
 - graphic_design
 - pics
-- livven
 - logodesign
 - UofT
 - Entrepreneur

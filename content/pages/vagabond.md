@@ -14,7 +14,6 @@ crosslinks:
 - Velo
 - ActLikeYouBelong
 - myog
-- livven
 - SummerReddit
 - latestagecapitalism
 - DumpsterDiving

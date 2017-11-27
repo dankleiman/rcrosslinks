@@ -7,7 +7,6 @@ crosslinks:
 - hoi4
 - AskHistorians
 - Stellaris
-- livven
 - CargoShortsSensei
 - Games
 - Kaiserreich

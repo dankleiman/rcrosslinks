@@ -1,5 +1,0 @@
----
-title: DailyPositiveNews
-crosslinks:
-- autotldr
----

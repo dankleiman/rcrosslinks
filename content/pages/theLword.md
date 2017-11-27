@@ -1,5 +1,0 @@
----
-title: theLword
-crosslinks:
-- livven
----

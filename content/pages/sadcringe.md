@@ -12,7 +12,6 @@ crosslinks:
 - niceguys
 - xkcd
 - EnoughTrumpSpam
-- livven
 - OutOfTheLoop
 - funny
 - uwaterloo

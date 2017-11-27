@@ -1,7 +1,6 @@
 ---
 title: amazonecho
 crosslinks:
-- autotldr
 - homeautomation
 - xkcd
 - sonos

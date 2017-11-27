@@ -1,7 +1,6 @@
 ---
 title: iranian
 crosslinks:
-- autotldr
 - syriancivilwar
 - iran
 - OnThisDateInBahai

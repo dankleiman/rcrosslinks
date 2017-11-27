@@ -1,7 +1,6 @@
 ---
 title: ConcentrationOfWealth
 crosslinks:
-- autotldr
 - politics
 - TrueReddit
 - news

@@ -18,7 +18,6 @@ crosslinks:
 - learnart
 - Art
 - Sketching
-- livven
 - drawing
 - graphic_design
 ---

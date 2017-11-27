@@ -1,5 +1,0 @@
----
-title: BallStretching
-crosslinks:
-- livven
----

@@ -11,7 +11,6 @@ crosslinks:
 - indieheads
 - regularcarreviews
 - DumpsterDiving
-- autotldr
 - woahdude
 - vintageaudio
 - Vaporwave

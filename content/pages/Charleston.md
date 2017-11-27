@@ -3,7 +3,6 @@ title: Charleston
 crosslinks:
 - CharlestonUncensored
 - CharlestonJerk
-- autotldr
 - The_Donald
 - TropicalWeather
 - CofC
@@ -19,6 +18,5 @@ crosslinks:
 - GMAT
 - Music
 - mechmarket
-- livven
 - CharlestonTech
 ---

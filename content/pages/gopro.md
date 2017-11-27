@@ -1,7 +1,6 @@
 ---
 title: gopro
 crosslinks:
-- livven
 - pics
 - flying
 - me_irl

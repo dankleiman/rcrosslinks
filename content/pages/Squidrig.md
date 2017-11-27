@@ -1,5 +1,0 @@
----
-title: Squidrig
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: Verdacomb
-crosslinks:
-- livven
----

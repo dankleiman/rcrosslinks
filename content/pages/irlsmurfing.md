@@ -6,7 +6,6 @@ crosslinks:
 - funny
 - youseeingthisshit
 - xkcd
-- livven
 - SurpriseAppearances
 - delusionalartists
 - videos

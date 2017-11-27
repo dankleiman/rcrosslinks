@@ -9,7 +9,6 @@ crosslinks:
 - Enhancement
 - gaming
 - kingdomcome
-- livven
 - Ruiner
 - witcher
 - gamedetectives

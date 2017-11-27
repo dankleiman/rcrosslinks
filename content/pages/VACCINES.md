@@ -10,7 +10,6 @@ crosslinks:
 - medicine
 - help
 - VaccinesAreMoreAwesomeThanSex
-- autotldr
 - worldnews
 - EverythingScience
 - VaccinesAreGodsGiftToMan

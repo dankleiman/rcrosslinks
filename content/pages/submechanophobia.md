@@ -1,7 +1,6 @@
 ---
 title: submechanophobia
 crosslinks:
-- livven
 - interestingasfuck
 - HeavySeas
 - WarshipPorn

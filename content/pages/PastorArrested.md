@@ -1,5 +1,0 @@
----
-title: PastorArrested
-crosslinks:
-- autotldr
----

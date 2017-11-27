@@ -1,5 +1,0 @@
----
-title: papercraft
-crosslinks:
-- livven
----

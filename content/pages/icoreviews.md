@@ -1,5 +1,0 @@
----
-title: icoreviews
-crosslinks:
-- autotldr
----

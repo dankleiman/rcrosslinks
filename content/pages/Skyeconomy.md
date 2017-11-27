@@ -1,5 +1,0 @@
----
-title: Skyeconomy
-crosslinks:
-- autotldr
----

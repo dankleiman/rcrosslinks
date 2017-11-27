@@ -6,7 +6,6 @@ crosslinks:
 - askscience
 - xkcd
 - science
-- autotldr
 - pics
 - UFOs
 - programming

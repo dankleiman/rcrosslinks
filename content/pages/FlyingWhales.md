@@ -1,5 +1,0 @@
----
-title: FlyingWhales
-crosslinks:
-- livven
----

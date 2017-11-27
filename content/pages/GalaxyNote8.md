@@ -2,7 +2,6 @@
 title: GalaxyNote8
 crosslinks:
 - GalaxyS8
-- livven
 - GalaxyS7
 - galaxyphotography
 - samsung
@@ -11,7 +10,6 @@ crosslinks:
 - GalaxyNote7
 - galaxys8
 - Gear360
-- autotldr
 - iphone
 - IrelandonReddit
 - frugalmalefashion

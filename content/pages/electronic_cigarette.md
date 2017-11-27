@@ -19,6 +19,5 @@ crosslinks:
 - ECR_UK
 - Coilporn
 - PVcommission
-- livven
 - shitty_ecr
 ---

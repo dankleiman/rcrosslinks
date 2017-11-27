@@ -1,5 +1,0 @@
----
-title: IsraeliMossad
-crosslinks:
-- autotldr
----

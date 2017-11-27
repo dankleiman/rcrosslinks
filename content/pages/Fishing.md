@@ -1,11 +1,9 @@
 ---
 title: Fishing
 crosslinks:
-- livven
 - pics
 - BrasilOnReddit
 - MicroFishing
-- autotldr
 - troutfishing
 - houston
 - WTF

@@ -2,7 +2,6 @@
 title: sixers
 crosslinks:
 - lakers
-- livven
 - Kanye
 - eagles
 - RedditAlternatives

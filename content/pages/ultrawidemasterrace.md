@@ -7,7 +7,6 @@ crosslinks:
 - Monitors
 - nvidia
 - PUBATTLEGROUNDS
-- livven
 - Lightpack
 - Hewlett_Packard
 - hardwareswap

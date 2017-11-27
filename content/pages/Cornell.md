@@ -9,6 +9,5 @@ crosslinks:
 - premed
 - asktrp
 - ABCDesis
-- livven
 - ApplyingToCollege
 ---

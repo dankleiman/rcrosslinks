@@ -10,7 +10,6 @@ crosslinks:
 - movies
 - EmpireDidNothingWrong
 - StarWarsAnalysis
-- autotldr
 - SpaceBearLeak
 - FanTheories
 - PrequelMemes

@@ -2,7 +2,6 @@
 title: 2meirl4meirl
 crosslinks:
 - 2meirl42meirl4meirl
-- livven
 - AskReddit
 - me_irl
 - xkcd

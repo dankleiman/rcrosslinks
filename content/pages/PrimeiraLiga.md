@@ -5,7 +5,6 @@ crosslinks:
 - SportingCP
 - portugal
 - soccerstreams
-- livven
 - Hammers
 - KendrickLamar
 - vergonhaalheira

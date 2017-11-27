@@ -16,7 +16,6 @@ crosslinks:
 - scifi
 - DataVizRequests
 - ForeverAlone
-- autotldr
 - australia
 - CFBAnalysis
 - changelog

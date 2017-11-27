@@ -4,7 +4,6 @@ crosslinks:
 - ethereum
 - gnosisPM
 - GolemProject
-- livven
 - ethtrader
 - xkcd
 - jaxx

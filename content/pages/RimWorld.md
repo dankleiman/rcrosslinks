@@ -3,7 +3,6 @@ title: RimWorld
 crosslinks:
 - ShitRimworldSays
 - RimWorldSeeds
-- livven
 - RimworldArt
 - xkcd
 - nocontext

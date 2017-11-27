@@ -3,7 +3,6 @@ title: suns
 crosslinks:
 - lakers
 - clevelandcavs
-- livven
 - place
 - NintendoSwitch
 - DetroitPistons

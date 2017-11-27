@@ -1,11 +1,9 @@
 ---
 title: gameflysocial
 crosslinks:
-- livven
 - Games
 - help
 - gameofthrones
-- autotldr
 - flatearth
 - Gunsforsale
 - Gamingcirclejerk

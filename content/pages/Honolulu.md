@@ -1,7 +1,6 @@
 ---
 title: Honolulu
 crosslinks:
-- autotldr
 - grilledcheese
 - Oahu
 - Hawaii

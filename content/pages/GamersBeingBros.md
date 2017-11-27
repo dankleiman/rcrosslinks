@@ -2,7 +2,6 @@
 title: GamersBeingBros
 crosslinks:
 - Overwatch
-- livven
 - gaming
 - titanfall
 - Paladins

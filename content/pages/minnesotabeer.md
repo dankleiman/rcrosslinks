@@ -1,5 +1,0 @@
----
-title: minnesotabeer
-crosslinks:
-- autotldr
----

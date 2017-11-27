@@ -2,12 +2,10 @@
 title: Hunting
 crosslinks:
 - guns
-- autotldr
 - Waterfowl
 - Trappit
 - videos
 - Shitstatistssay
-- livven
 - NOWTTYG
 - conservation
 - ems

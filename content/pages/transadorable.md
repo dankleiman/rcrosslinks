@@ -1,7 +1,6 @@
 ---
 title: transadorable
 crosslinks:
-- livven
 - transpassing
 - science
 - transtimelines

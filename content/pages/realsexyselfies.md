@@ -1,7 +1,6 @@
 ---
 title: realsexyselfies
 crosslinks:
-- livven
 - danilanio
 - FitAndNatural
 - LilyIvy

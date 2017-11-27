@@ -8,7 +8,6 @@ crosslinks:
 - BGCCJDiscussion
 - muacirclejerk
 - MakeupAddiction
-- livven
 - Nicegirls
 - explainlikeIAmA
 - JonTron

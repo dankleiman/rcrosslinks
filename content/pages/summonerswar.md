@@ -2,7 +2,6 @@
 title: summonerswar
 crosslinks:
 - swguilds
-- livven
 - ToasterMon
 - xkcd
 - 290qz5e

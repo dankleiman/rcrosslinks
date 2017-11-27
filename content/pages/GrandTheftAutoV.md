@@ -2,7 +2,6 @@
 title: GrandTheftAutoV
 crosslinks:
 - gtaonline
-- livven
 - gtaglitches
 - GrandTheftAutoV_PC
 - HeistTeams

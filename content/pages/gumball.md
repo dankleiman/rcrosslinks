@@ -1,7 +1,6 @@
 ---
 title: gumball
 crosslinks:
-- livven
 - television
 - BeachCity
 - StarVStheForcesofEvil

@@ -8,6 +8,5 @@ crosslinks:
 - wholesomememes
 - VitaTV
 - Fallout
-- livven
 - modnews
 ---

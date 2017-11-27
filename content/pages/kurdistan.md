@@ -2,7 +2,6 @@
 title: kurdistan
 crosslinks:
 - syriancivilwar
-- autotldr
 - Turkey
 - iran
 - Assyria

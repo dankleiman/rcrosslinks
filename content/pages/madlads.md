@@ -1,13 +1,11 @@
 ---
 title: madlads
 crosslinks:
-- livven
 - AskReddit
 - funny
 - firstworldanarchists
 - HailCorporate
 - OutOfTheLoop
-- autotldr
 - me_irl
 - PrequelMemes
 - h3h3productions

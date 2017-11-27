@@ -1,7 +1,6 @@
 ---
 title: illinois
 crosslinks:
-- autotldr
 - chicago
 - science
 - UIUC

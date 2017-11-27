@@ -1,5 +1,0 @@
----
-title: AnalAction
-crosslinks:
-- livven
----

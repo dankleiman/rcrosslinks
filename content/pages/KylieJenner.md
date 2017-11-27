@@ -5,7 +5,6 @@ crosslinks:
 - Serendipity
 - Drama
 - YovannaVentura
-- livven
 - kendalljenner
 - FlashTV
 ---

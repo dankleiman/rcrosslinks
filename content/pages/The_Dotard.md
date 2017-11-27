@@ -6,7 +6,6 @@ crosslinks:
 - politics
 - Drama
 - pics
-- autotldr
 - esist
 - EnoughTrumpSpam
 - xkcd

@@ -15,7 +15,6 @@ crosslinks:
 - AskAnEngineer
 - woodworking
 - wheredidthesodago
-- livven
 - HVAC
 - SneakyBackgroundFeet
 - Machinists

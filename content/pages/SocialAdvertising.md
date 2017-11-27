@@ -1,5 +1,0 @@
----
-title: SocialAdvertising
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: Buechelbart
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: HumansAreMetal
 crosslinks:
-- livven
 - gifs
 - WTF
 - HFY

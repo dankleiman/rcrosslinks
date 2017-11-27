@@ -1,5 +1,0 @@
----
-title: timelapsegrowery
-crosslinks:
-- livven
----

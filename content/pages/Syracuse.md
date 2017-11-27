@@ -1,7 +1,6 @@
 ---
 title: Syracuse
 crosslinks:
-- autotldr
 - science
 - Reddit_Burns
 - childfree

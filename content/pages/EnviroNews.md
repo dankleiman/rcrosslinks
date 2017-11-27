@@ -1,7 +1,6 @@
 ---
 title: EnviroNews
 crosslinks:
-- autotldr
 - shill
 - environment
 - science

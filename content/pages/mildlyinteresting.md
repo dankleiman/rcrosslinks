@@ -2,7 +2,6 @@
 title: mildlyinteresting
 crosslinks:
 - pics
-- livven
 - funny
 - HailCorporate
 - xkcd
@@ -17,7 +16,6 @@ crosslinks:
 - WTF
 - untrustworthypoptarts
 - todayilearned
-- autotldr
 - Pareidolia
 - mildlypenis
 - gifs

@@ -13,7 +13,6 @@ crosslinks:
 - occult
 - microdosing
 - shrooms
-- autotldr
 - researchchemicals
 - DigitalCartel
 - Meditation

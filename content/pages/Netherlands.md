@@ -1,7 +1,6 @@
 ---
 title: Netherlands
 crosslinks:
-- autotldr
 - AmsterdamEnts
 - Amsterdam
 - The_Donald

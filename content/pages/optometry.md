@@ -8,7 +8,6 @@ crosslinks:
 - Keratoconus
 - personalfinance
 - WTF
-- livven
 - AskDocs
 - eyes
 - explainlikeimfive

@@ -1,7 +1,6 @@
 ---
 title: MEOW_IRL
 crosslinks:
-- livven
 - aww
 - i_irl
 - cats

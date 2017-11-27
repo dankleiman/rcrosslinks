@@ -1,5 +1,0 @@
----
-title: babyspidergifs
-crosslinks:
-- livven
----

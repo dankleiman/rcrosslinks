@@ -1,7 +1,6 @@
 ---
 title: computertechs
 crosslinks:
-- autotldr
 - techsupport
 - ITCareerQuestions
 - TronScript

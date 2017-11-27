@@ -5,5 +5,4 @@ crosslinks:
 - doctorsthatgame
 - aviation
 - medicalschool
-- autotldr
 ---

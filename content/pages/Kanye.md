@@ -1,7 +1,6 @@
 ---
 title: Kanye
 crosslinks:
-- livven
 - hiphopheads
 - FrankOcean
 - KanyeLeaks

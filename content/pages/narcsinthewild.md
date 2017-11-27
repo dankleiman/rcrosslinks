@@ -2,7 +2,6 @@
 title: narcsinthewild
 crosslinks:
 - darknetmarketsOZ
-- autotldr
 - DeFranco
 - sociopath
 - videos

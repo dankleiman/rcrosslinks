@@ -1,7 +1,6 @@
 ---
 title: solar
 crosslinks:
-- autotldr
 - energy
 - esp8266
 - familysolar

@@ -1,5 +1,0 @@
----
-title: TheCelebrityDeathPool
-crosslinks:
-- autotldr
----

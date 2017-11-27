@@ -6,7 +6,6 @@ crosslinks:
 - TrueCrimeDiscussion
 - truecrimereview
 - DelphiMurders
-- autotldr
 - UnsolvedMysteries
 - EARONS
 - serial_killers

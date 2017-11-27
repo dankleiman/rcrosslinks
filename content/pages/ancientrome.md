@@ -3,7 +3,6 @@ title: ancientrome
 crosslinks:
 - AskHistorians
 - papertowns
-- autotldr
 - manholeporn
 - MapPorn
 - italy

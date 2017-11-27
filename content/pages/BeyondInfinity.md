@@ -1,5 +1,0 @@
----
-title: BeyondInfinity
-crosslinks:
-- autotldr
----

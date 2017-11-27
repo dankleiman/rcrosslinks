@@ -1,5 +1,0 @@
----
-title: SFCHRONauto
-crosslinks:
-- autotldr
----

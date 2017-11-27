@@ -4,7 +4,6 @@ crosslinks:
 - legaladvice
 - xkcd
 - AmIFreeToGo
-- autotldr
 - whatisthisthing
 - videos
 - AskReddit

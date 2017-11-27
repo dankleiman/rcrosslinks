@@ -1,5 +1,0 @@
----
-title: tightpants
-crosslinks:
-- livven
----

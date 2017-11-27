@@ -1,5 +1,0 @@
----
-title: royals
-crosslinks:
-- autotldr
----

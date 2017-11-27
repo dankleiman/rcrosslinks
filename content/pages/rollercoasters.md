@@ -2,7 +2,6 @@
 title: rollercoasters
 crosslinks:
 - RMCMeanStreak
-- livven
 - rollercoasterjerk
 - CoasterDraft
 - Themepark
@@ -13,7 +12,6 @@ crosslinks:
 - gifs
 - washingtondc
 - gif
-- autotldr
 - nocontext
 - ReallyWackyTicTacs
 - PlanetCoaster

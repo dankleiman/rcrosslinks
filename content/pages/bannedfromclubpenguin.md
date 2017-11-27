@@ -6,7 +6,6 @@ crosslinks:
 - AskReddit
 - The_Donald
 - dankmemes
-- livven
 - Pay_Respects
 - TitlePapercut
 - WikipediaVandalism

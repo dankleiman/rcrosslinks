@@ -1,5 +1,0 @@
----
-title: ClimatePics
-crosslinks:
-- livven
----

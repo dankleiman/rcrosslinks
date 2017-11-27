@@ -1,7 +1,6 @@
 ---
 title: Iraq
 crosslinks:
-- autotldr
 - syriancivilwar
 - MiddleEast
 - kurdistan

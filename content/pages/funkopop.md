@@ -3,7 +3,6 @@ title: funkopop
 crosslinks:
 - funkoswap
 - fivenightsatfreddys
-- livven
 - starwarscollecting
 - FunkoPopDeals
 - funny

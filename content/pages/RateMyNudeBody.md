@@ -1,7 +1,6 @@
 ---
 title: RateMyNudeBody
 crosslinks:
-- livven
 - MassiveCock
 - gonewildcouples
 - normalnudes

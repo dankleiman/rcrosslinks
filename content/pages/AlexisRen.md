@@ -1,7 +1,6 @@
 ---
 title: AlexisRen
 crosslinks:
-- livven
 - RachelCook
 - Serendipity
 - FamousFaces

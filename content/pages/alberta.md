@@ -1,7 +1,6 @@
 ---
 title: alberta
 crosslinks:
-- autotldr
 - Calgary
 - canada
 - xkcd

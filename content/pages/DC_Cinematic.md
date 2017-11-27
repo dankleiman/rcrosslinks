@@ -5,9 +5,7 @@ crosslinks:
 - SuperheroCirclejerk
 - DCEUleaks
 - marvelstudios
-- autotldr
 - movies
-- livven
 - DCcomics
 - BrasilOnReddit
 - Znyder

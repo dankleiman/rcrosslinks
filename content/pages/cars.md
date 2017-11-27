@@ -1,7 +1,6 @@
 ---
 title: cars
 crosslinks:
-- autotldr
 - teslamotors
 - AutoDetailing
 - askcarsales

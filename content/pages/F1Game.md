@@ -4,7 +4,6 @@ crosslinks:
 - simracing
 - formula1
 - VirtualWDCPC
-- livven
 - BrasilOnReddit
 - motogp
 - pcmasterrace

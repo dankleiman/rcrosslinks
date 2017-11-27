@@ -1,8 +1,6 @@
 ---
 title: actuary
 crosslinks:
-- autotldr
-- livven
 - learnmath
 - Insurance
 - askmath

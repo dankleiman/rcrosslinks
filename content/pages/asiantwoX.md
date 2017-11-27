@@ -3,7 +3,6 @@ title: asiantwoX
 crosslinks:
 - hapas
 - EasternSunRising
-- autotldr
 - Drama
 - HalfBlack
 - aznidentity

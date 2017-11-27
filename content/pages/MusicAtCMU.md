@@ -1,5 +1,0 @@
----
-title: MusicAtCMU
-crosslinks:
-- livven
----

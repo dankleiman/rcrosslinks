@@ -1,7 +1,6 @@
 ---
 title: pakistan
 crosslinks:
-- autotldr
 - india
 - exmuslim
 - islam
@@ -20,5 +19,4 @@ crosslinks:
 - PakistanSuperLeague
 - AskHistorians
 - chutyapa
-- livven
 ---

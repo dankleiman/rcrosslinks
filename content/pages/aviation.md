@@ -1,9 +1,7 @@
 ---
 title: aviation
 crosslinks:
-- autotldr
 - flying
-- livven
 - Shittyaskflying
 - videos
 - pics

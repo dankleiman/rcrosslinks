@@ -1,7 +1,6 @@
 ---
 title: programming
 crosslinks:
-- autotldr
 - ProgrammerHumor
 - rust
 - cpp

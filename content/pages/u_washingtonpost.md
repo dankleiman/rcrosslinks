@@ -10,7 +10,6 @@ crosslinks:
 - technology
 - PoliticalHumor
 - all
-- autotldr
 - The_Mueller
 - Ask_Politics
 - keming

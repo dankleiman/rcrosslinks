@@ -1,5 +1,0 @@
----
-title: SouthKoreanPolitics
-crosslinks:
-- autotldr
----

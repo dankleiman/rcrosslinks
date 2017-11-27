@@ -9,7 +9,6 @@ crosslinks:
 - Eirents
 - NintendoSwitch
 - MarioMakerJr
-- livven
 - nintendo
 - BestOfReports
 - speedrun

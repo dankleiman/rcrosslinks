@@ -1,7 +1,6 @@
 ---
 title: Grimdank
 crosslinks:
-- livven
 - Warhammer40k
 - 40kLore
 - Warhammer
@@ -19,6 +18,5 @@ crosslinks:
 - DataHoarder
 - gravityfalls
 - Anarchism
-- autotldr
 - AMAAggregator
 ---

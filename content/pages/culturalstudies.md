@@ -1,5 +1,0 @@
----
-title: culturalstudies
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: thisismylifenow
 crosslinks:
-- livven
 - Thisismylifemeow
 - aww
 - funny

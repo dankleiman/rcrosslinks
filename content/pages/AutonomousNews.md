@@ -1,5 +1,0 @@
----
-title: AutonomousNews
-crosslinks:
-- autotldr
----

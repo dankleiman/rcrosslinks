@@ -1,5 +1,0 @@
----
-title: geekdays
-crosslinks:
-- autotldr
----

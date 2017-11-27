@@ -1,7 +1,6 @@
 ---
 title: manchester
 crosslinks:
-- autotldr
 - cyclemcr
 - CasualUK
 - AccidentalRacism

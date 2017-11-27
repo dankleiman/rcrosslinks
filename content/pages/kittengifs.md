@@ -1,7 +1,6 @@
 ---
 title: kittengifs
 crosslinks:
-- livven
 - aww
 - gifs
 - Animalsthatlovemagic

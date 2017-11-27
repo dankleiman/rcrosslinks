@@ -1,7 +1,6 @@
 ---
 title: HillaryForPrison
 crosslinks:
-- autotldr
 - The_Donald
 - TopMindsOfReddit
 - conspiracy
@@ -15,7 +14,6 @@ crosslinks:
 - redacted
 - BrasilOnReddit
 - Entrepreneurs
-- livven
 - Sorosforprison
 - shills
 - BreakingNews24hr

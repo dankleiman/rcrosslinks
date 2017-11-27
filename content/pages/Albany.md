@@ -2,7 +2,6 @@
 title: Albany
 crosslinks:
 - Troy
-- autotldr
 - HomeImprovement
 - sextoys
 - drunk
@@ -10,7 +9,6 @@ crosslinks:
 - hawaii
 - MusicInTheMaking
 - googletown
-- livven
 - xkcd
 - Roadcams
 - Hawaii

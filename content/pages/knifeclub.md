@@ -11,7 +11,6 @@ crosslinks:
 - knifecringe
 - knife_swap
 - metric_units
-- livven
 - knifemaking
 - paracord
 - flashlight

@@ -1,7 +1,6 @@
 ---
 title: unitedairlines
 crosslinks:
-- autotldr
 - videos
 - FUCK_United_Airlines
 - OutOfTheLoop

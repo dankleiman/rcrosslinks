@@ -6,7 +6,6 @@ crosslinks:
 - EmulationOnAndroid
 - pcmasterrace
 - EmuDev
-- autotldr
 - programming
 - CEMUcaches
 - Citra

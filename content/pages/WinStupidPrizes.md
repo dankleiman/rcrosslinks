@@ -1,7 +1,6 @@
 ---
 title: WinStupidPrizes
 crosslinks:
-- livven
 - AskReddit
 - Whatcouldgowrong
 - noisygifs

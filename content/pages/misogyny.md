@@ -1,5 +1,0 @@
----
-title: misogyny
-crosslinks:
-- livven
----

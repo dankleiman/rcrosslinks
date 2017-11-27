@@ -1,5 +1,0 @@
----
-title: brosbeinghumans
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: TheColorIsBlue
 crosslinks:
-- autotldr
 - me_irl
 - ReddLineNews
 - BreakingNews24hr

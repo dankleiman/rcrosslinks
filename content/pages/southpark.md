@@ -1,11 +1,9 @@
 ---
 title: southpark
 crosslinks:
-- livven
 - SouthParkPhone
 - funny
 - xkcd
-- autotldr
 - AskReddit
 - metacanada
 - IAmA

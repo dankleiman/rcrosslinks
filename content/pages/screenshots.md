@@ -1,7 +1,6 @@
 ---
 title: screenshots
 crosslinks:
-- livven
 - ChargeYourPhone
 - AskReddit
 - juxtaposition

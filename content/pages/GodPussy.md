@@ -5,5 +5,4 @@ crosslinks:
 - gloria_sol
 - MelisaMendiny
 - MiaSollis
-- livven
 ---

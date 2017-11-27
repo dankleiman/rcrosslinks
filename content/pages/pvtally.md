@@ -1,5 +1,0 @@
----
-title: pvtally
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: IOT
 crosslinks:
-- autotldr
 - security
 - intel
 - Lawfare

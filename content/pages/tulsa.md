@@ -1,10 +1,8 @@
 ---
 title: tulsa
 crosslinks:
-- autotldr
 - oklahoma
 - xkcd
-- livven
 - cordcutters
 - AskReddit
 - UpliftingNews

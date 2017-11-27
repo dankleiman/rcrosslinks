@@ -6,7 +6,6 @@ crosslinks:
 - FashionReps
 - goodyearwelt
 - supremeclothing
-- livven
 - expensivehumanfashion
 - Cordwaining
 - NoPoo

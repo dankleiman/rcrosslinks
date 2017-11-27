@@ -12,7 +12,6 @@ crosslinks:
 - Mommit
 - Yosemite
 - RBI
-- livven
 - Amtrak
 - glacier
 - teslamotors

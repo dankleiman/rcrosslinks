@@ -1,5 +1,0 @@
----
-title: nsfwautomatedparadise
-crosslinks:
-- livven
----

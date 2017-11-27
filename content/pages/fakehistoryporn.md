@@ -1,7 +1,6 @@
 ---
 title: fakehistoryporn
 crosslinks:
-- livven
 - Chinese_Bootleg_Memes
 - The_Donald
 - gonewilder

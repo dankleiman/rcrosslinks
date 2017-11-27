@@ -1,5 +1,0 @@
----
-title: CausesForImpeachment
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: furry_irl
 crosslinks:
-- livven
 - furry
 - yiff
 - AskReddit

@@ -4,5 +4,4 @@ crosslinks:
 - iamverysmart
 - cringepics
 - WeWantPlates
-- autotldr
 ---

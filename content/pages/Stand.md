@@ -5,6 +5,5 @@ crosslinks:
 - Alternativefacts
 - Serendipity
 - worldpolitics
-- autotldr
 - MarchForNetNeutrality
 ---

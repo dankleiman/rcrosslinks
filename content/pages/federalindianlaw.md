@@ -1,5 +1,0 @@
----
-title: federalindianlaw
-crosslinks:
-- autotldr
----

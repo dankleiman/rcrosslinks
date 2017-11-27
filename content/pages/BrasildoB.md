@@ -1,7 +1,6 @@
 ---
 title: BrasildoB
 crosslinks:
-- autotldr
 - worldnews
 - LateStageCapitalism
 - AskReddit

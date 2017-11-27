@@ -1,5 +1,0 @@
----
-title: Destroyerofkings
-crosslinks:
-- livven
----

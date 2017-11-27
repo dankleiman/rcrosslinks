@@ -3,7 +3,6 @@ title: RWBYNSFW
 crosslinks:
 - Pixiv
 - RWBY
-- livven
 - amazonposition
 - traphentai
 - petplay

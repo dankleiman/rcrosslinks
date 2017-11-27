@@ -1,5 +1,0 @@
----
-title: Themoneyrevolution
-crosslinks:
-- autotldr
----

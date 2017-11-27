@@ -1,7 +1,6 @@
 ---
 title: drugscirclejerk
 crosslinks:
-- livven
 - Drugs
 - LSD
 - Stims
@@ -13,7 +12,6 @@ crosslinks:
 - trashy
 - saplings
 - FuckingTweakers
-- autotldr
 - AskDrugNerds
 - highqualitygifs
 - changemyview

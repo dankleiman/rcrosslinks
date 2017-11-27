@@ -1,5 +1,0 @@
----
-title: bulldog
-crosslinks:
-- livven
----

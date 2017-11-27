@@ -1,7 +1,6 @@
 ---
 title: cosplaygirls
 crosslinks:
-- livven
 - latexcosplay
 - newsokunomoral
 - OtakuVisualArts

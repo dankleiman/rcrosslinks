@@ -4,7 +4,6 @@ crosslinks:
 - redsox
 - yankees
 - MLBStreams
-- livven
 - BankOnChase
 - orioles
 - '2013'

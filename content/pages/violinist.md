@@ -4,7 +4,6 @@ crosslinks:
 - classicalmusic
 - Jazz
 - jazz
-- livven
 - skeptic
 - Gear4Sale
 - MusicEd

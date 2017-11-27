@@ -1,5 +1,0 @@
----
-title: Magnaboy
-crosslinks:
-- livven
----

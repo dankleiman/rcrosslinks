@@ -2,7 +2,6 @@
 title: armenia
 crosslinks:
 - europe
-- autotldr
 - Turkey
 - Kavkaz
 - kurdistan

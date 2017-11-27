@@ -1,7 +1,6 @@
 ---
 title: Freethought
 crosslinks:
-- autotldr
 - xkcd
 - NeutralPolitics
 - savedyouadick

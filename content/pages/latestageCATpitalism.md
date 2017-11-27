@@ -1,5 +1,0 @@
----
-title: latestageCATpitalism
-crosslinks:
-- livven
----

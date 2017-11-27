@@ -2,7 +2,6 @@
 title: poland
 crosslinks:
 - Polska
-- autotldr
 - europe
 - The_Donald
 - de

@@ -1,5 +1,0 @@
----
-title: TheInternetsLastStop
-crosslinks:
-- autotldr
----

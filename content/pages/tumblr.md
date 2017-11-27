@@ -6,7 +6,6 @@ crosslinks:
 - tippr
 - WritingPrompts
 - funny
-- livven
 - pics
 - HFY
 - nocontext

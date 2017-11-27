@@ -11,7 +11,6 @@ crosslinks:
 - lecherous_hump
 - korrasami
 - r9kElsaProject
-- livven
 - pics
 - mittromney
 - funny

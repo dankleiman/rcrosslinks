@@ -1,5 +1,0 @@
----
-title: paleolibertarian
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: BritishPolitics
 crosslinks:
-- autotldr
 - ukpolitics
 - unitedkingdom
 - MurderedByWords

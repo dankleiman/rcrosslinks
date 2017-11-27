@@ -1,7 +1,6 @@
 ---
 title: megalophobia
 crosslinks:
-- livven
 - creepy
 - pics
 - woahdude

@@ -1,7 +1,6 @@
 ---
 title: pharmacy
 crosslinks:
-- autotldr
 - medicine
 - Drugs
 - PharmacyTechnician
@@ -12,7 +11,6 @@ crosslinks:
 - Steroidsourcetalk
 - PrePharmacy
 - financialindependence
-- livven
 - news
 - xkcd
 - Indiana

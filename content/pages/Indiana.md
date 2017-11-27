@@ -1,7 +1,6 @@
 ---
 title: Indiana
 crosslinks:
-- autotldr
 - TrueCrimeDiscussion
 - indianapolis
 - ShitPoliticsSays

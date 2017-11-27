@@ -4,7 +4,6 @@ crosslinks:
 - ethereum
 - ethtrader
 - Buttcoin
-- autotldr
 - ethereumfraud
 - ethdev
 - EtherMining

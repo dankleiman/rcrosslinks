@@ -1,7 +1,6 @@
 ---
 title: forsen
 crosslinks:
-- livven
 - hearthstone
 - place
 - LivestreamFail

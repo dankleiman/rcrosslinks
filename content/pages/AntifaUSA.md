@@ -1,5 +1,0 @@
----
-title: AntifaUSA
-crosslinks:
-- autotldr
----

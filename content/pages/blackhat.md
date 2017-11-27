@@ -1,7 +1,6 @@
 ---
 title: blackhat
 crosslinks:
-- autotldr
 - HowToHack
 - itsaunixsystem
 - Python

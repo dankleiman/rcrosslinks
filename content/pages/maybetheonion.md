@@ -1,5 +1,0 @@
----
-title: maybetheonion
-crosslinks:
-- autotldr
----

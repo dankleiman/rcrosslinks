@@ -1,9 +1,7 @@
 ---
 title: Frasier
 crosslinks:
-- autotldr
 - howyoudoin
-- livven
 - DataHoarder
 - todayilearned
 - raiseyourdongers

@@ -1,9 +1,7 @@
 ---
 title: Sherlock
 crosslinks:
-- livven
 - arrow
-- autotldr
 - xkcd
 - MGTOW
 - iamverysmart

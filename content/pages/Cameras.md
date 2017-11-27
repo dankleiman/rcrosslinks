@@ -13,7 +13,6 @@ crosslinks:
 - pentax
 - weirdglass
 - Gunpla
-- autotldr
 - Dashcam
 - toycameras
 - photographycirclejerk

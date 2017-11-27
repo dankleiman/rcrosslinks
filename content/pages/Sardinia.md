@@ -1,5 +1,0 @@
----
-title: Sardinia
-crosslinks:
-- autotldr
----

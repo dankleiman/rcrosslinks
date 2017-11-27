@@ -9,7 +9,6 @@ crosslinks:
 - syriancivilwar
 - SuicideWatch
 - atheism
-- autotldr
 - SikhNews
 - Donald
 - AskThe_Donald

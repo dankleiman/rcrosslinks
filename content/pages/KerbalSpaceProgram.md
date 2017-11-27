@@ -1,7 +1,6 @@
 ---
 title: KerbalSpaceProgram
 crosslinks:
-- livven
 - jatwaaspaceprogram
 - RealSolarSystem
 - Kos

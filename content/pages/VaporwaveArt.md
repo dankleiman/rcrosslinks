@@ -1,7 +1,6 @@
 ---
 title: VaporwaveArt
 crosslinks:
-- livven
 - intothetunnel
 - VaporwaveAesthetics
 - pics

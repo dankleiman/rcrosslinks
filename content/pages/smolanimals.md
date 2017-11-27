@@ -1,5 +1,0 @@
----
-title: smolanimals
-crosslinks:
-- livven
----

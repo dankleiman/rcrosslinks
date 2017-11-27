@@ -2,7 +2,6 @@
 title: stevenuniverse
 crosslinks:
 - gem_irl
-- livven
 - SULeaks
 - xkcd
 - Gregfuckedarock

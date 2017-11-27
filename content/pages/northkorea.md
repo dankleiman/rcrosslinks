@@ -1,7 +1,6 @@
 ---
 title: northkorea
 crosslinks:
-- autotldr
 - Pyongyang
 - christianpersecution
 - tinfoil
@@ -14,7 +13,6 @@ crosslinks:
 - espionage
 - Switzerland
 - IAmA
-- translatorBOT
 - Minecraft
 - shittankiessay
 - swedetzerland

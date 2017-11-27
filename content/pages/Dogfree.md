@@ -5,7 +5,6 @@ crosslinks:
 - reactivedogs
 - relationships
 - petfree
-- livven
 - therewasanattempt
 - Garlic
 - TwinCities
@@ -15,5 +14,4 @@ crosslinks:
 - NoStupidQuestions
 - funny
 - ShitDogPeopleSay
-- autotldr
 ---

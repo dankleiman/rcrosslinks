@@ -1,7 +1,6 @@
 ---
 title: EA_NHL
 crosslinks:
-- livven
 - NHLHUT
 - EANHLfranchise
 - EANHLGoalie

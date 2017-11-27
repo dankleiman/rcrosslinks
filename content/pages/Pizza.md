@@ -3,7 +3,6 @@ title: Pizza
 crosslinks:
 - iamveryculinary
 - food
-- livven
 - KnightsOfPineapple
 - Breadit
 - veganpizza
@@ -14,7 +13,6 @@ crosslinks:
 - Seattle
 - SneakyBackgroundFeet
 - stupidpeople
-- autotldr
 - SWARJE
 - lava_porn
 - thatsathing

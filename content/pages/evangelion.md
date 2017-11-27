@@ -7,7 +7,6 @@ crosslinks:
 - explainlikeimfive
 - TrueFilm
 - homestuck
-- livven
 - MadokaMagica
 - mildlyevangelion
 - cosplaygirls

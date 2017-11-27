@@ -1,5 +1,0 @@
----
-title: WhenHerSmileFadesAway
-crosslinks:
-- livven
----

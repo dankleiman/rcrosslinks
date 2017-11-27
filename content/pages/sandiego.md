@@ -2,7 +2,6 @@
 title: sandiego
 crosslinks:
 - SanDiego_Photography
-- autotldr
 - sandiegoshows
 - Moving2SanDiego
 - The_Donald
@@ -18,7 +17,6 @@ crosslinks:
 - nottheonion
 - LifeProTips
 - ShitPoliticsSays
-- livven
 - Economics
 - changemyview
 ---

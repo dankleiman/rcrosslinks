@@ -13,7 +13,6 @@ crosslinks:
 - OutOfTheLoop
 - topofreddit
 - xkcd
-- livven
 - fidgetspin
 - place
 - GECKOGARY

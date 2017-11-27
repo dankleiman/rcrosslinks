@@ -1,7 +1,6 @@
 ---
 title: NatureIsFuckingLit
 crosslinks:
-- livven
 - gifs
 - pics
 - AskReddit
@@ -14,7 +13,6 @@ crosslinks:
 - funny
 - aww
 - askscience
-- autotldr
 - IAmA
 - todayilearned
 - hatchery

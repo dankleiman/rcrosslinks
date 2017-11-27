@@ -1,7 +1,6 @@
 ---
 title: chemistry
 crosslinks:
-- livven
 - crystalgrowing
 - chemhelp
 - xkcd

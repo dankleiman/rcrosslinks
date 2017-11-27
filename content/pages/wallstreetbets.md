@@ -1,7 +1,6 @@
 ---
 title: wallstreetbets
 crosslinks:
-- livven
 - investing
 - stocks
 - LateStageCapitalism

@@ -1,5 +1,0 @@
----
-title: fidgetspinnertricks
-crosslinks:
-- livven
----

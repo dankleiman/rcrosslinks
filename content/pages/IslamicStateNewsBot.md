@@ -1,5 +1,0 @@
----
-title: IslamicStateNewsBot
-crosslinks:
-- autotldr
----

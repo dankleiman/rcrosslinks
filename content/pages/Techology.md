@@ -1,5 +1,0 @@
----
-title: Techology
-crosslinks:
-- autotldr
----

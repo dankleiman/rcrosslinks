@@ -6,6 +6,5 @@ crosslinks:
 - Astronomy
 - science
 - IAmA
-- autotldr
 - space
 ---

@@ -5,7 +5,6 @@ crosslinks:
 - place
 - FloridaGators
 - NCAAW
-- livven
 - TheWhiteVoid
 - ukplace
 - MichiganWolverines
@@ -20,5 +19,4 @@ crosslinks:
 - CFBStreams
 - Braveryjerk
 - DoingTheMost
-- autotldr
 ---

@@ -1,7 +1,6 @@
 ---
 title: CryptoCurrency
 crosslinks:
-- autotldr
 - ethtrader
 - ethereumfraud
 - Monero
@@ -17,7 +16,6 @@ crosslinks:
 - litecoin
 - waltonchain
 - Ripple
-- livven
 - ArkEcosystem
 - factom
 - siacoin

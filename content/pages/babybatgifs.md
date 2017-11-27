@@ -1,5 +1,0 @@
----
-title: babybatgifs
-crosslinks:
-- livven
----

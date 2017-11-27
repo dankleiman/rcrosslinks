@@ -1,5 +1,0 @@
----
-title: TrojanTrolls
-crosslinks:
-- livven
----

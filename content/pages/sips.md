@@ -1,7 +1,6 @@
 ---
 title: sips
 crosslinks:
-- livven
 - Yogscast
 - prisonarchitect
 - gaming

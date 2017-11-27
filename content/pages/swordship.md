@@ -1,5 +1,0 @@
----
-title: swordship
-crosslinks:
-- livven
----

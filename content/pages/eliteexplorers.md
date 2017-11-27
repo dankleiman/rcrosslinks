@@ -6,7 +6,6 @@ crosslinks:
 - EliteOllo
 - EliteOne
 - Canonn
-- livven
 - LV426
 - EliteLore
 - titlegore

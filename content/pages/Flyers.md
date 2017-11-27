@@ -3,7 +3,6 @@ title: Flyers
 crosslinks:
 - hockey
 - reddit_stream
-- livven
 - hockeyjerseys
 - eagles
 - philadelphia

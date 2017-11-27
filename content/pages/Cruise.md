@@ -1,7 +1,6 @@
 ---
 title: Cruise
 crosslinks:
-- autotldr
 - churning
 - virginislands
 - KeyWest

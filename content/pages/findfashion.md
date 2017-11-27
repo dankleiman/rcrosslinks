@@ -2,7 +2,6 @@
 title: findfashion
 crosslinks:
 - HelpMeFind
-- livven
 - malefashionadvice
 - streetwear
 - DunderMifflin

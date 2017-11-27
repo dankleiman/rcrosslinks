@@ -1,7 +1,6 @@
 ---
 title: firstworldanarchists
 crosslinks:
-- livven
 - funny
 - xkcd
 - pics

@@ -5,6 +5,5 @@ crosslinks:
 - ethereum
 - etheroll
 - Buttcoin
-- livven
 - Bitcoin
 ---

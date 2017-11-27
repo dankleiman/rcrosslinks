@@ -1,7 +1,6 @@
 ---
 title: streetart
 crosslinks:
-- livven
 - pics
 - Cartalk
 - Graffiti
@@ -10,7 +9,6 @@ crosslinks:
 - PhonesAreBad
 - singapore
 - Portland
-- autotldr
 - BrasilOnReddit
 - Serendipity
 - confusing_perspective

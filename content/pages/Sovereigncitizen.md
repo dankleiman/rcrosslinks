@@ -1,5 +1,0 @@
----
-title: Sovereigncitizen
-crosslinks:
-- autotldr
----

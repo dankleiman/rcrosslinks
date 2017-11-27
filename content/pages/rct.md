@@ -3,7 +3,6 @@ title: rct
 crosslinks:
 - openrct2
 - rollercoastercontests
-- livven
 - RCTTouch
 - pcgaming
 - rct3

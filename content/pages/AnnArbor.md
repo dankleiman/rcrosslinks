@@ -2,7 +2,6 @@
 title: AnnArbor
 crosslinks:
 - uofm
-- autotldr
 - chicago
 - MichiganGamers
 - fidgetspin

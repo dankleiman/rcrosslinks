@@ -1,5 +1,0 @@
----
-title: Iloilo
-crosslinks:
-- livven
----

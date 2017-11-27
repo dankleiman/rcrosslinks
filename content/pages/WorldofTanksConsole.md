@@ -1,7 +1,6 @@
 ---
 title: WorldofTanksConsole
 crosslinks:
-- livven
 - WorldofTanks
 - TankPorn
 - shittytheydidthemath

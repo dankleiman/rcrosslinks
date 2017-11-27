@@ -19,6 +19,5 @@ crosslinks:
 - askscience
 - Ronuos
 - vexillology
-- livven
 - Flogoria
 ---

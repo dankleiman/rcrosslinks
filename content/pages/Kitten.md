@@ -1,5 +1,0 @@
----
-title: Kitten
-crosslinks:
-- livven
----

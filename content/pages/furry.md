@@ -3,13 +3,11 @@ title: furry
 crosslinks:
 - furry_irl
 - EvilJackCarver
-- livven
 - place
 - yiff
 - FurryArtSchool
 - xkcd
 - zootopia
-- autotldr
 - gifs
 - NightInTheWoods
 - TheBlueCorner

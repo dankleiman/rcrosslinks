@@ -5,7 +5,6 @@ crosslinks:
 - IsraelPalestine
 - ipcirclejerk
 - ukpolitics
-- autotldr
 - india
 - palestine
 - redditrequest

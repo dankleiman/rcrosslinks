@@ -1,7 +1,6 @@
 ---
 title: UnusualArt
 crosslinks:
-- livven
 - ImaginaryCharacters
 - museum
 - PrequelMemes

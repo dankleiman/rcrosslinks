@@ -1,10 +1,8 @@
 ---
 title: Sense8
 crosslinks:
-- livven
 - television
 - S01E01
-- autotldr
 - BrasilOnReddit
 - ModSupport
 - twinpeaks

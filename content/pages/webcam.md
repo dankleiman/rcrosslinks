@@ -1,5 +1,0 @@
----
-title: webcam
-crosslinks:
-- livven
----

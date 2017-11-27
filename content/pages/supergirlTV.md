@@ -1,10 +1,8 @@
 ---
 title: supergirlTV
 crosslinks:
-- livven
 - arrow
 - gallifrey
-- autotldr
 - FlashTV
 - '2013'
 - SuperheroCirclejerk

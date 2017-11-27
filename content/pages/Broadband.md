@@ -1,5 +1,0 @@
----
-title: Broadband
-crosslinks:
-- autotldr
----

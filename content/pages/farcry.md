@@ -13,7 +13,6 @@ crosslinks:
 - GiftofGames
 - outrun
 - Games
-- livven
 - PS4
 - IAmA
 - cirlcejerk

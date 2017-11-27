@@ -1,7 +1,6 @@
 ---
 title: lookatmydog
 crosslinks:
-- livven
 - Chihuahua
 - aww
 - Dalmatian

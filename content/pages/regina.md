@@ -7,7 +7,6 @@ crosslinks:
 - reactiongifs
 - xkcd
 - skleague
-- autotldr
 - photomarket
 - PersonalFinanceCanada
 - CFLStreams

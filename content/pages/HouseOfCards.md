@@ -1,7 +1,6 @@
 ---
 title: HouseOfCards
 crosslinks:
-- livven
 - FuckTammy
 - The_Donald
 - unexpectedhogwarts

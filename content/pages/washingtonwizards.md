@@ -2,7 +2,6 @@
 title: washingtonwizards
 crosslinks:
 - torontoraptors
-- livven
 - whowouldwin
 - Nationals
 - NBAGIFS

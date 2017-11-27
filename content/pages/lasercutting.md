@@ -7,7 +7,6 @@ crosslinks:
 - cad
 - ChineseLaserCutters
 - laser
-- livven
 - xkcd
 - ANormalDayInRussia
 - finishing

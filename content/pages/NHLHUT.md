@@ -2,7 +2,6 @@
 title: NHLHUT
 crosslinks:
 - HUTrep
-- livven
 - hutcoinsales
 - EASPORTS_NHL
 - FIFA

@@ -1,7 +1,6 @@
 ---
 title: TrollXWeddings
 crosslinks:
-- livven
 - weddingplanning
 - JUSTNOMIL
 - TrollXChromosomes

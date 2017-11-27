@@ -2,7 +2,6 @@
 title: japan
 crosslinks:
 - japancirclejerk
-- autotldr
 - japanlife
 - JapanTravel
 - worldnews

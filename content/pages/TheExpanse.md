@@ -3,8 +3,6 @@ title: TheExpanse
 crosslinks:
 - IAmA
 - LangBelta
-- autotldr
-- livven
 - xkcd
 - place
 - space

@@ -4,7 +4,6 @@ crosslinks:
 - videosurveillance
 - legaladvice
 - guns
-- autotldr
 - Dashcam
 - SpyGadgets
 - SecurityCamera
@@ -12,7 +11,6 @@ crosslinks:
 - redditmarketing
 - nashville
 - tasker
-- livven
 - netsec
 - HomeServer
 - saplings

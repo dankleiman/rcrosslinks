@@ -15,7 +15,6 @@ crosslinks:
 - skyrim
 - pics
 - Steam
-- autotldr
 - FO4_TIPS
 - fodust
 - MoxdogTheWriter

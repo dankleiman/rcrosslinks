@@ -6,9 +6,7 @@ crosslinks:
 - JapanTravel
 - jvlog
 - japan
-- livven
 - SayonaraSales
-- autotldr
 - LearnJapanese
 - Serendipity
 - titlegore

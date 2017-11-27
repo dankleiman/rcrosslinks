@@ -5,5 +5,4 @@ crosslinks:
 - CooperativeAgorism
 - Anarcho_Capitalism
 - Ancapraxis
-- autotldr
 ---

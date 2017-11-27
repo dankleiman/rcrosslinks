@@ -3,8 +3,6 @@ title: diabetes
 crosslinks:
 - keto
 - ketorecipes
-- autotldr
-- livven
 - ketogains
 - ketoscience
 - science

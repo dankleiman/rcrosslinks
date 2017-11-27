@@ -1,5 +1,0 @@
----
-title: desourcing
-crosslinks:
-- autotldr
----

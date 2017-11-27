@@ -1,5 +1,0 @@
----
-title: TrumpLies
-crosslinks:
-- autotldr
----

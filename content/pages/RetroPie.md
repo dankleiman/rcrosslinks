@@ -17,7 +17,6 @@ crosslinks:
 - newretrowave
 - xkcd
 - PokemonROMhacks
-- autotldr
 - 3dshacks
 - PSP
 - learnprogramming

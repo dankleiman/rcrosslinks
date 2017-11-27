@@ -4,7 +4,6 @@ crosslinks:
 - Scotland
 - AskReddit
 - ShitAmericansSay
-- autotldr
 - glasgowmarket
 - exmuslim
 - WTF

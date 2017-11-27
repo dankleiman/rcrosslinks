@@ -1,7 +1,6 @@
 ---
 title: kpopgfys
 crosslinks:
-- livven
 - kpop
 - kpopfap
 - kpics

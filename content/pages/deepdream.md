@@ -5,7 +5,6 @@ crosslinks:
 - MachineLearning
 - LSD
 - Fifthworldgonewild
-- livven
 - woahdude
 - Currentlytripping
 - DeepStart

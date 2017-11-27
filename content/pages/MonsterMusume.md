@@ -1,7 +1,6 @@
 ---
 title: MonsterMusume
 crosslinks:
-- livven
 - anime
 - KissAnime
 - Pixiv

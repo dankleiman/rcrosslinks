@@ -1,7 +1,6 @@
 ---
 title: catpranks
 crosslinks:
-- livven
 - StartledCats
 - thecatdimension
 - nocontext

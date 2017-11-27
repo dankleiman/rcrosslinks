@@ -1,7 +1,6 @@
 ---
 title: Iceland
 crosslinks:
-- autotldr
 - europe
 - france
 - asatru

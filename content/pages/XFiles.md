@@ -1,9 +1,7 @@
 ---
 title: XFiles
 crosslinks:
-- livven
 - television
-- autotldr
 - davidduchovny
 - '2012'
 - IAmA

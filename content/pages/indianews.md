@@ -1,7 +1,6 @@
 ---
 title: indianews
 crosslinks:
-- autotldr
 - india
 - indiaundelete
 - IndiaSpeaks
@@ -12,7 +11,6 @@ crosslinks:
 - exmuslim
 - Uttarakhand
 - atheism
-- livven
 - worldnews
 - Nepal
 - geopolitics

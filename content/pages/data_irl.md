@@ -8,7 +8,6 @@ crosslinks:
 - dataisugly
 - NintendoSwitch
 - selfharmpics
-- livven
 - funny
 - DataWithoutGreenland
 ---

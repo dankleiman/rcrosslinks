@@ -9,7 +9,6 @@ crosslinks:
 - Dodgers
 - Mariners
 - hockey
-- livven
 - NewYorkMets
 - aww
 - orioles

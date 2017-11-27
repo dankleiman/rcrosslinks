@@ -2,7 +2,6 @@
 title: masseffect
 crosslinks:
 - Gamingcirclejerk
-- livven
 - MECoOp
 - ShareYourRyders
 - dragonage

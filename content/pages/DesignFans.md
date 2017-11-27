@@ -1,5 +1,0 @@
----
-title: DesignFans
-crosslinks:
-- livven
----

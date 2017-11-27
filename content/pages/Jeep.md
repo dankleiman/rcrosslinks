@@ -2,7 +2,6 @@
 title: Jeep
 crosslinks:
 - Wrangler
-- livven
 - CherokeeXJ
 - GrandCherokee
 - Shitty_Car_Mods

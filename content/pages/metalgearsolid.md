@@ -2,7 +2,6 @@
 title: metalgearsolid
 crosslinks:
 - NeverBeGameOver
-- livven
 - gaming
 - GameDeals
 - MetalGearAntiNuclear

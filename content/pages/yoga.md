@@ -2,7 +2,6 @@
 title: yoga
 crosslinks:
 - ashtanga
-- livven
 - Pranayama
 - Fitness
 - YogaTutorials
@@ -13,7 +12,6 @@ crosslinks:
 - gifs
 - news
 - YogaWorkouts
-- autotldr
 - foodhacks
 - vegan
 - xxfitness

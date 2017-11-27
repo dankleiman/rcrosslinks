@@ -1,7 +1,6 @@
 ---
 title: lexington
 crosslinks:
-- autotldr
 - Kentucky
 - MadeMeSmile
 - communism

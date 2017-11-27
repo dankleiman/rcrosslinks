@@ -3,7 +3,6 @@ title: northdakota
 crosslinks:
 - FargoMoorhead
 - fargo
-- autotldr
 - GreaterGrandForks
 - relationship_advice
 - SouthDakota

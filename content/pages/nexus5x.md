@@ -18,7 +18,6 @@ crosslinks:
 - Chromecast
 - Lottery
 - Nexus
-- autotldr
 - restofthefuckingowl
 - Nexusography
 ---

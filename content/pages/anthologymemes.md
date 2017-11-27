@@ -17,7 +17,6 @@ crosslinks:
 - UnexpectedHamilton
 - starwarsgifs
 - surrealmemes
-- livven
 - StarWarsDadJokes
 - tipofmytongue
 - StarWarsLeaks

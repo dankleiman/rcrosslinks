@@ -13,7 +13,6 @@ crosslinks:
 - NZXT
 - HadToHurt
 - simracing
-- livven
 - Serendipity
 - fidgetspin
 - aio

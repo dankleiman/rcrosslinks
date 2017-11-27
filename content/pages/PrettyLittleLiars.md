@@ -1,7 +1,6 @@
 ---
 title: PrettyLittleLiars
 crosslinks:
-- livven
 - riverdale
 - IAmA
 - '2013'

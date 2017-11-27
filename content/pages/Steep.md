@@ -1,7 +1,6 @@
 ---
 title: Steep
 crosslinks:
-- livven
 - GhostRecon
 - SweatyPalms
 - PS4

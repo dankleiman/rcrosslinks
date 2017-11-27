@@ -5,7 +5,6 @@ crosslinks:
 - gaming
 - skyrimmods
 - Games
-- livven
 - QuakeChampions
 - elderscrollsonline
 - Drama

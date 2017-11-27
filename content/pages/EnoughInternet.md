@@ -1,7 +1,6 @@
 ---
 title: EnoughInternet
 crosslinks:
-- livven
 - ConfusedBoners
 - furry_irl
 - jesuschristreddit

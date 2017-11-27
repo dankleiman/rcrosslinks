@@ -1,5 +1,0 @@
----
-title: AJTPhysicsResources
-crosslinks:
-- livven
----

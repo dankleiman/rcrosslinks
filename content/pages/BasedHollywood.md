@@ -1,5 +1,0 @@
----
-title: BasedHollywood
-crosslinks:
-- autotldr
----

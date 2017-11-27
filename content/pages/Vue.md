@@ -2,7 +2,6 @@
 title: Vue
 crosslinks:
 - cordcutters
-- autotldr
 - DirecTVNow
 - CFB
 - naranon

@@ -1,7 +1,6 @@
 ---
 title: CatastrophicFailure
 crosslinks:
-- livven
 - watchpeopledie
 - pics
 - WTF

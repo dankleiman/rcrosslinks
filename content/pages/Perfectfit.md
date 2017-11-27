@@ -1,7 +1,6 @@
 ---
 title: Perfectfit
 crosslinks:
-- livven
 - HailCorporate
 - oddlysatisfying
 - KarmaConspiracy

@@ -1,5 +1,0 @@
----
-title: MinkaKelly
-crosslinks:
-- autotldr
----

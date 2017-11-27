@@ -1,7 +1,6 @@
 ---
 title: crusadersquest
 crosslinks:
-- livven
 - roosterteeth
 - csshelp
 - PuzzleAndDragons

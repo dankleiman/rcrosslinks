@@ -1,5 +1,0 @@
----
-title: blackpower
-crosslinks:
-- autotldr
----

@@ -3,7 +3,6 @@ title: CHIBears
 crosslinks:
 - nfl
 - NFL_Draft
-- livven
 - EvilLeagueOfEvil
 - the_mitchell
 - detroitlions

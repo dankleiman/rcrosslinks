@@ -1,5 +1,0 @@
----
-title: JadaFire
-crosslinks:
-- livven
----

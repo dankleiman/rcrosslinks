@@ -2,7 +2,6 @@
 title: joinsquad
 crosslinks:
 - squadup
-- livven
 - SquadOps
 - arma
 - dayz

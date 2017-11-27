@@ -1,5 +1,0 @@
----
-title: compsec
-crosslinks:
-- autotldr
----

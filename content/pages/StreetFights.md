@@ -1,7 +1,6 @@
 ---
 title: StreetFights
 crosslinks:
-- livven
 - IAmA
 - PrideNeverDies
 - pussypassdenied

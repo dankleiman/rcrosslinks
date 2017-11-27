@@ -4,7 +4,6 @@ crosslinks:
 - NintendoSwitch
 - MasterMummyMasterRace
 - nintendo
-- livven
 - splatoon
 - Vive
 - whatisthisthing
@@ -20,5 +19,4 @@ crosslinks:
 - AMAAggregator
 - nintendoswitch
 - WholesomePeople
-- autotldr
 ---

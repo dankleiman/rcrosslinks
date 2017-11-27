@@ -17,7 +17,6 @@ crosslinks:
 - nameaserver
 - WEPES
 - netflix
-- autotldr
 - MCFC
 - highqualitygifs
 - HighQualityGifs

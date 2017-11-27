@@ -11,7 +11,6 @@ crosslinks:
 - lifeisstrange
 - rickandmorty
 - FanTheories
-- autotldr
 - darksouls3
 - GreenLattice
 - shower_thoughts

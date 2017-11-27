@@ -1,7 +1,6 @@
 ---
 title: FreePolDiscussion
 crosslinks:
-- autotldr
 - WayOfTheBern
 - DNCleaks
 - The_Donald

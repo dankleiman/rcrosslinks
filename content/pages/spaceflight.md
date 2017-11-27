@@ -1,7 +1,6 @@
 ---
 title: spaceflight
 crosslinks:
-- autotldr
 - spacex
 - xkcd
 - VulcanAerospace

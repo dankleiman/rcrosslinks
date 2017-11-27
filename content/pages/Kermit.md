@@ -1,5 +1,0 @@
----
-title: Kermit
-crosslinks:
-- livven
----

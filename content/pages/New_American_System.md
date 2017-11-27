@@ -1,7 +1,6 @@
 ---
 title: New_American_System
 crosslinks:
-- autotldr
 - science
 - C_S_T
 - conspiracy

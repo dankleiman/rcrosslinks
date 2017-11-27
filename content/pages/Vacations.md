@@ -1,5 +1,0 @@
----
-title: Vacations
-crosslinks:
-- livven
----

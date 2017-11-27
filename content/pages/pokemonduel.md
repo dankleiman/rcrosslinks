@@ -6,7 +6,6 @@ crosslinks:
 - PokeFodder
 - ptcgo
 - PokemonShuffle
-- livven
 - ShadowBan
 - MemoryDefrag
 - metric_units

@@ -1,10 +1,8 @@
 ---
 title: gaymers
 crosslinks:
-- livven
 - furry_irl
 - dragonage
-- autotldr
 - 2007scape
 - rupaulsdragrace
 - ffxiv

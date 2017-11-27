@@ -7,7 +7,6 @@ crosslinks:
 - jaipaul
 - radiohead
 - LCDSoundsystem
-- livven
 - europe
 - AskReddit
 - CageTheElephant

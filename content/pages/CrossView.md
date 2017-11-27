@@ -2,7 +2,6 @@
 title: CrossView
 crosslinks:
 - ParallelView
-- livven
 - xkcd
 - StLouis
 - mildlyinfuriating

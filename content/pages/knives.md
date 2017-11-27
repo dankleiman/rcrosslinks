@@ -3,7 +3,6 @@ title: knives
 crosslinks:
 - EDC
 - knifemaking
-- livven
 - Bladesmith
 - Knife_Swap
 - knifecringe

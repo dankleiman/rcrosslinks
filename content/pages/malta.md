@@ -1,7 +1,6 @@
 ---
 title: malta
 crosslinks:
-- autotldr
 - france
 - WorldDailyTops
 - vegan

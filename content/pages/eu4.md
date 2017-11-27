@@ -5,7 +5,6 @@ crosslinks:
 - CrusaderKings
 - xkcd
 - AskHistorians
-- livven
 - europe
 - eu4achievements
 - MapPorn

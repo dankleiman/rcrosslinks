@@ -2,7 +2,6 @@
 title: greenville
 crosslinks:
 - southcarolina
-- autotldr
 - reactiongifs
 - NoStupidQuestions
 - Documentaries

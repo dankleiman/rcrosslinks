@@ -6,7 +6,6 @@ crosslinks:
 - startrek
 - printSF
 - TheExpanse
-- autotldr
 - IAmA
 - The_Donald
 - Fantasy

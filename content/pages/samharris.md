@@ -7,7 +7,6 @@ crosslinks:
 - The_Donald
 - IAmA
 - AskPhilosophyFAQ
-- autotldr
 - ChristopherHitchens
 - altright
 - politics

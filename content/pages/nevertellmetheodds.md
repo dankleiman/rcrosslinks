@@ -1,7 +1,6 @@
 ---
 title: nevertellmetheodds
 crosslinks:
-- livven
 - mildlyinteresting
 - juxtaposition
 - pics

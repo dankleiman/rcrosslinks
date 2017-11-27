@@ -1,5 +1,0 @@
----
-title: rainforests
-crosslinks:
-- autotldr
----

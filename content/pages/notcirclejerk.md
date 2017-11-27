@@ -4,7 +4,6 @@ crosslinks:
 - politics
 - atheism
 - AMAAggregator
-- autotldr
 - REEEEEE
 - AskReddit
 - Stealing

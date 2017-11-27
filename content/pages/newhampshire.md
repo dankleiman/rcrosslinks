@@ -1,7 +1,6 @@
 ---
 title: newhampshire
 crosslinks:
-- autotldr
 - The_Donald
 - vermont
 - pussypassdenied

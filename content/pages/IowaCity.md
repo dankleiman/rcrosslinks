@@ -5,7 +5,6 @@ crosslinks:
 - tipofmypenis
 - wtf
 - Iowa_City
-- livven
 - yoga
 - IowaCityFunnery
 - IowaPolitics

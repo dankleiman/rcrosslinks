@@ -6,7 +6,6 @@ crosslinks:
 - forhonor
 - Gregfuckedarock
 - middleschoolroasts
-- livven
 - FuckAquamarine
 - kindcupman
 - RoastMe

@@ -6,6 +6,5 @@ crosslinks:
 - 45acpcirclejerk
 - dgu
 - OffDutyBrazilianCop
-- autotldr
 - WhyWereTheyFilming
 ---

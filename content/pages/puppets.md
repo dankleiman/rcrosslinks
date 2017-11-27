@@ -1,5 +1,0 @@
----
-title: puppets
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: typography
 crosslinks:
-- livven
 - typedesign
 - Design
 - Architecture
@@ -16,6 +15,5 @@ crosslinks:
 - graphic_design
 - identifythisfont
 - starcitizen
-- autotldr
 - explainlikeimfive
 ---

@@ -1,5 +1,0 @@
----
-title: TheDonaldIsTrump
-crosslinks:
-- autotldr
----

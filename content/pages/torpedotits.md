@@ -1,7 +1,6 @@
 ---
 title: torpedotits
 crosslinks:
-- livven
 - Puffies
 - YeOldeNudes
 - ABraThatFits

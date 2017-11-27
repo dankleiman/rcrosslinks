@@ -18,7 +18,6 @@ crosslinks:
 - WiiHacks
 - TraditionalMarioMaker
 - xkcd
-- livven
 - AMAAggregator
 - PS4
 ---

@@ -7,7 +7,6 @@ crosslinks:
 - xkcd
 - reactjs
 - ProgrammerHumor
-- autotldr
 - typescript
 - aureliajs
 - Angular2

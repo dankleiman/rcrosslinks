@@ -1,5 +1,0 @@
----
-title: fortran
-crosslinks:
-- autotldr
----

@@ -13,7 +13,6 @@ crosslinks:
 - solar
 - dogecoin
 - BitcoinMarkets
-- autotldr
 - etherium
 - Serendipity
 - BitMarket

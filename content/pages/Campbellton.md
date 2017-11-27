@@ -1,5 +1,0 @@
----
-title: Campbellton
-crosslinks:
-- livven
----

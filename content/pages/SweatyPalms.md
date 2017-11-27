@@ -1,7 +1,6 @@
 ---
 title: SweatyPalms
 crosslinks:
-- livven
 - watchpeopledie
 - gifs
 - WTF

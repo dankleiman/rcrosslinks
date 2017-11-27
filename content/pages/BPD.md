@@ -9,7 +9,6 @@ crosslinks:
 - BPDirc
 - GetMotivated
 - AskReddit
-- livven
 - BPDrecovery
 - opieandanthony
 - OCD

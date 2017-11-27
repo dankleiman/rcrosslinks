@@ -1,5 +1,0 @@
----
-title: joeyfisher
-crosslinks:
-- livven
----

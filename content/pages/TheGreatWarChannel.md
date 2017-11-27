@@ -6,7 +6,6 @@ crosslinks:
 - ColorizedHistory
 - PORTUGALCARALHO
 - movies
-- autotldr
 - wwi
 - Suomi
 - funny

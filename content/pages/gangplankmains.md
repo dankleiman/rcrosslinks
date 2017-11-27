@@ -3,7 +3,6 @@ title: gangplankmains
 crosslinks:
 - leagueoflegends
 - summonerschool
-- livven
 - LOLDyrus
 - 2007scape
 - Dariusmains

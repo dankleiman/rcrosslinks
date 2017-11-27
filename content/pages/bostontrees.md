@@ -1,7 +1,6 @@
 ---
 title: bostontrees
 crosslinks:
-- autotldr
 - Waxpen
 - MassTreeTrade
 - DCents

@@ -7,5 +7,4 @@ crosslinks:
 - sysadmin
 - programming
 - ETL
-- autotldr
 ---

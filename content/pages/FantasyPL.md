@@ -13,7 +13,6 @@ crosslinks:
 - fpl
 - Gunners
 - MCFC
-- livven
 - Hammers
 - AMAAggregator
 - metric_units

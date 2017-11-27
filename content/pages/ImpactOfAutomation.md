@@ -1,5 +1,0 @@
----
-title: ImpactOfAutomation
-crosslinks:
-- autotldr
----

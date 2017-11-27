@@ -1,7 +1,6 @@
 ---
 title: transformation
 crosslinks:
-- livven
 - gonewildaudio
 - TransformationRP
 - Pixiv

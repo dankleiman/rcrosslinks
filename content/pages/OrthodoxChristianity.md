@@ -5,7 +5,6 @@ crosslinks:
 - Catholicism
 - ExCopticOrthodox
 - OrthodoxChants
-- autotldr
 - cosmicservant
 - Reformed
 - exmormon

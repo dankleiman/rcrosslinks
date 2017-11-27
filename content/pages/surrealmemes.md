@@ -1,7 +1,6 @@
 ---
 title: surrealmemes
 crosslinks:
-- livven
 - SurrealLore
 - me_irl
 - Ooer

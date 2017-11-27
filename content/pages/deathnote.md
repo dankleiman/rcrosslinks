@@ -15,7 +15,6 @@ crosslinks:
 - DeathNoteMemes
 - KissAnime
 - ShitRedditSays
-- autotldr
 - animememes
 - DeathNoteNetflix
 ---

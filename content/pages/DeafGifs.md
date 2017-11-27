@@ -1,5 +1,0 @@
----
-title: DeafGifs
-crosslinks:
-- livven
----

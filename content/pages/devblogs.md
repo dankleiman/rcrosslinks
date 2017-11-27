@@ -2,7 +2,6 @@
 title: devblogs
 crosslinks:
 - cielfledge
-- livven
 - Unity3D
 - xkcd
 - Serendipity

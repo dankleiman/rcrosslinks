@@ -1,7 +1,6 @@
 ---
 title: LeftHanging
 crosslinks:
-- livven
 - righthanging
 - Cricket
 - cringepics

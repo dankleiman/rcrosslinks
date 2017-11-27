@@ -1,7 +1,6 @@
 ---
 title: nyc
 crosslinks:
-- autotldr
 - AskNYC
 - Drama
 - pics

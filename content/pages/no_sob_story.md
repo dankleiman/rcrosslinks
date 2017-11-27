@@ -20,5 +20,4 @@ crosslinks:
 - HumansBeingBros
 - YUROP
 - MarchAgainstTrump
-- livven
 ---

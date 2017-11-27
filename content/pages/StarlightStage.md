@@ -8,6 +8,5 @@ crosslinks:
 - all
 - BanGDream
 - place
-- livven
 - yaraon
 ---

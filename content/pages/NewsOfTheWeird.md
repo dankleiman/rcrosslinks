@@ -1,7 +1,6 @@
 ---
 title: NewsOfTheWeird
 crosslinks:
-- autotldr
 - LateStageCapitalism
 - guns
 - FrontPageOfGoogle

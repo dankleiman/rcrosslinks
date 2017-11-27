@@ -1,5 +1,0 @@
----
-title: Mofoe
-crosslinks:
-- livven
----

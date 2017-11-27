@@ -1,5 +1,0 @@
----
-title: Stickfight
-crosslinks:
-- livven
----

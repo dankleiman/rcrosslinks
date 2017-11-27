@@ -1,5 +1,0 @@
----
-title: FOXauto
-crosslinks:
-- autotldr
----

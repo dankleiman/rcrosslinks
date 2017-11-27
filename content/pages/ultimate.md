@@ -1,7 +1,6 @@
 ---
 title: ultimate
 crosslinks:
-- livven
 - UKUltimate
 - ultimategifs
 - AskReddit
@@ -11,7 +10,6 @@ crosslinks:
 - e
 - emojipasta
 - nocontext
-- autotldr
 - xkcd
 - fantasyultimate
 - funny

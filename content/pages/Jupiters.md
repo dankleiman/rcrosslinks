@@ -1,5 +1,0 @@
----
-title: Jupiters
-crosslinks:
-- autotldr
----

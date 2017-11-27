@@ -15,7 +15,6 @@ crosslinks:
 - The_Donald
 - Ooer
 - dontdeadopeninside
-- autotldr
 - ooerintensifies
 - AteThePasta
 - osugame

@@ -2,7 +2,6 @@
 title: minnesotavikings
 crosslinks:
 - nfl
-- livven
 - MemeasotaVikings
 - GreenBayPackers
 - detroitlions

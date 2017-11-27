@@ -8,7 +8,6 @@ crosslinks:
 - nflstreams
 - Flyers
 - chelseafc
-- livven
 - Tennesseetitans
 - CHIBears
 - reddit_stream

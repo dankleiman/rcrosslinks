@@ -1,5 +1,0 @@
----
-title: Divest
-crosslinks:
-- autotldr
----

@@ -4,7 +4,6 @@ crosslinks:
 - place
 - ShitLewisSays
 - Terraria
-- livven
 - xkcd
 - sips
 - yogsgaming

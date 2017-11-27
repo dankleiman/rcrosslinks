@@ -1,7 +1,6 @@
 ---
 title: Rad_Decentralization
 crosslinks:
-- autotldr
 - IAmA
 - Anarchism
 - ethereum

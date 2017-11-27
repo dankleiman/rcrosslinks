@@ -4,7 +4,6 @@ crosslinks:
 - Kanye
 - FrankOcean
 - hiphopheads
-- livven
 - donaldglover
 - rickandmorty
 - savemoneycrew

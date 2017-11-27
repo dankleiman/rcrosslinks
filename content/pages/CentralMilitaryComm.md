@@ -1,5 +1,0 @@
----
-title: CentralMilitaryComm
-crosslinks:
-- autotldr
----

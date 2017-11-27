@@ -5,7 +5,6 @@ crosslinks:
 - 1710forlife
 - xkcd
 - FeedTheBeastCrashes
-- livven
 - psispellcompendium
 - allthemods
 - factorio

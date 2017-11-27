@@ -3,7 +3,6 @@ title: CGPGrey2
 crosslinks:
 - HelloInternet
 - EndFPTP
-- autotldr
 - CGPGrey
 - videos
 - Cortex

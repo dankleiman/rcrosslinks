@@ -4,6 +4,5 @@ crosslinks:
 - AlternativeHistory
 - Tulpas
 - Paranormal
-- autotldr
 - RacismSureIsFunny
 ---

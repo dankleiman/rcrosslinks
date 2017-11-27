@@ -1,7 +1,6 @@
 ---
 title: youseeingthisshit
 crosslinks:
-- livven
 - gifs
 - funny
 - aww

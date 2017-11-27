@@ -1,5 +1,0 @@
----
-title: NaturalMania
-crosslinks:
-- livven
----

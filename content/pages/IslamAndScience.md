@@ -1,5 +1,0 @@
----
-title: IslamAndScience
-crosslinks:
-- autotldr
----

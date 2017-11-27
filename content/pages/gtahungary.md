@@ -1,5 +1,0 @@
----
-title: gtahungary
-crosslinks:
-- livven
----

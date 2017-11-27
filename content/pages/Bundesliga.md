@@ -13,6 +13,5 @@ crosslinks:
 - PremierLeague
 - reddevils
 - LateStageCapitalism
-- autotldr
 - MLS
 ---

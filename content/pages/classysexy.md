@@ -6,7 +6,6 @@ crosslinks:
 - BeautyQueens
 - eyecontact
 - updos
-- livven
 - redlingerie
 - ElegantNSFW
 - SheriVi

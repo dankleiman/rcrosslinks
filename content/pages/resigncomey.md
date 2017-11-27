@@ -1,5 +1,0 @@
----
-title: resigncomey
-crosslinks:
-- autotldr
----

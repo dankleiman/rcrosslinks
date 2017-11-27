@@ -5,7 +5,6 @@ crosslinks:
 - ACT
 - OutOfTheLoop
 - me_irl
-- livven
 - IBO
 - grammar
 - funny

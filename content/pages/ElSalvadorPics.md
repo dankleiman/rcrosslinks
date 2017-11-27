@@ -1,5 +1,0 @@
----
-title: ElSalvadorPics
-crosslinks:
-- livven
----

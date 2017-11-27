@@ -1,5 +1,0 @@
----
-title: inbreeding
-crosslinks:
-- livven
----

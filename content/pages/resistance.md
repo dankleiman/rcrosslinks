@@ -1,5 +1,0 @@
----
-title: resistance
-crosslinks:
-- autotldr
----

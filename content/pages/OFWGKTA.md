@@ -11,7 +11,6 @@ crosslinks:
 - FrenchWestIndies
 - me_irl
 - titlegore
-- livven
 - eromecom
 - AMAAggregator
 - wholesomecomments

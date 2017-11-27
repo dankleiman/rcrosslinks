@@ -1,5 +1,0 @@
----
-title: Bitfinexed
-crosslinks:
-- autotldr
----

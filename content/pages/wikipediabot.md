@@ -1,5 +1,0 @@
----
-title: wikipediabot
-crosslinks:
-- livven
----

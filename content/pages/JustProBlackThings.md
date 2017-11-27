@@ -1,7 +1,6 @@
 ---
 title: JustProBlackThings
 crosslinks:
-- autotldr
 - Blackfellas
 - The_Donald
 - hapas

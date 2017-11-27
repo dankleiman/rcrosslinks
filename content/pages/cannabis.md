@@ -1,7 +1,6 @@
 ---
 title: cannabis
 crosslinks:
-- autotldr
 - trees
 - EnoughTrumpSpam
 - kratom
@@ -17,6 +16,5 @@ crosslinks:
 - news
 - Ohio
 - leaves
-- livven
 - NoShitSherlock
 ---

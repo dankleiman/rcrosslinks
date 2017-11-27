@@ -4,7 +4,6 @@ crosslinks:
 - michael________
 - FactorioBlueprints
 - xkcd
-- livven
 - FactorioMMO
 - dwarffortress
 - dtandersen
@@ -18,7 +17,6 @@ crosslinks:
 - nocontext
 - Amd
 - SS13
-- autotldr
 - explainlikeimfive
 - VXJunkies
 ---

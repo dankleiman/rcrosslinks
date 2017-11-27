@@ -1,7 +1,6 @@
 ---
 title: KidsAreFuckingStupid
 crosslinks:
-- livven
 - EDC
 - therewasanattempt
 - videos

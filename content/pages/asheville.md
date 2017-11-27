@@ -1,7 +1,6 @@
 ---
 title: asheville
 crosslinks:
-- autotldr
 - explainlikeimfive
 - NegativeWithGold
 - Political_Revolution
@@ -17,7 +16,6 @@ crosslinks:
 - OutOfTheLoop
 - AshevilleClassifieds
 - metric_units
-- livven
 - DeadBedrooms
 - appstate
 - lfg

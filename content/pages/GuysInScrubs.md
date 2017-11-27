@@ -1,5 +1,0 @@
----
-title: GuysInScrubs
-crosslinks:
-- livven
----

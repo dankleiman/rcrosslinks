@@ -4,7 +4,6 @@ crosslinks:
 - Iota
 - CryptoCurrency
 - ethtrader
-- autotldr
 - Bitcoin
 - NoFap
 - litecoin

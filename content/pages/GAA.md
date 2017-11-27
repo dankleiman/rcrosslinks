@@ -1,7 +1,6 @@
 ---
 title: GAA
 crosslinks:
-- livven
 - ireland
 - hurling
 - IrelandonReddit

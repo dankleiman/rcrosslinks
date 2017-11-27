@@ -9,7 +9,6 @@ crosslinks:
 - detroitlions
 - Dodgers
 - lakers
-- livven
 - NFL_Draft
 - Chargers
 - ronpaulshops

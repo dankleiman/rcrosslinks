@@ -4,7 +4,6 @@ crosslinks:
 - xkcd
 - math
 - cscareerquestions
-- autotldr
 - programming
 - learnprogramming
 - rust

@@ -1,10 +1,8 @@
 ---
 title: Astronomy
 crosslinks:
-- autotldr
 - telescopes
 - astrophotography
-- livven
 - xkcd
 - space
 - gameflysocial

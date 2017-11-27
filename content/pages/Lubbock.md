@@ -9,7 +9,6 @@ crosslinks:
 - CFB
 - swoleacceptance
 - MusicInTheMaking
-- livven
 - Serendipity
 - Roadcam
 ---

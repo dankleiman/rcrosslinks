@@ -1,7 +1,6 @@
 ---
 title: thedavidpakmanshow
 crosslinks:
-- autotldr
 - The_Donald
 - NeutralPolitics
 - politics
@@ -16,7 +15,6 @@ crosslinks:
 - conspiracy
 - SandersForPresident
 - JamesDamore
-- livven
 - intp
 - Intactivists
 - OutOfTheLoop

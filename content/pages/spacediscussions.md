@@ -6,5 +6,4 @@ crosslinks:
 - SpaceVideos
 - Physics
 - AskReddit
-- autotldr
 ---

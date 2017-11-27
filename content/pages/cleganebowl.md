@@ -1,7 +1,6 @@
 ---
 title: cleganebowl
 crosslinks:
-- livven
 - freefolk
 - gameofthrones
 - datascience

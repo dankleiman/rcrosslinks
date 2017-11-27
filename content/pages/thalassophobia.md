@@ -1,7 +1,6 @@
 ---
 title: thalassophobia
 crosslinks:
-- livven
 - pics
 - gifs
 - WTF

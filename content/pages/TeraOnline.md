@@ -2,7 +2,6 @@
 title: TeraOnline
 crosslinks:
 - teraoffline
-- livven
 - MMORPG
 - ffxiv
 - videos

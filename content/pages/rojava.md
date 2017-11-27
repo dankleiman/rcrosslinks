@@ -3,7 +3,6 @@ title: rojava
 crosslinks:
 - syriancivilwar
 - Communalists
-- autotldr
 - kurdistan
 - socialism
 - TOTALCOMMUNALISM

@@ -3,8 +3,6 @@ title: Ghost_in_the_Shell
 crosslinks:
 - anime
 - asianamerican
-- autotldr
-- livven
 - MoviePosterPorn
 - Psychopass
 - transhumanism

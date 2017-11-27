@@ -1,7 +1,6 @@
 ---
 title: snowden
 crosslinks:
-- autotldr
 - privacy
 - AMAAggregator
 - freefolk

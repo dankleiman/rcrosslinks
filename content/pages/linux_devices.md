@@ -4,6 +4,5 @@ crosslinks:
 - MiniPCs
 - gpdwin
 - linux
-- autotldr
 - amateurradio
 ---

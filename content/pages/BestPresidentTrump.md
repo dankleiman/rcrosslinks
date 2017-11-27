@@ -1,5 +1,0 @@
----
-title: BestPresidentTrump
-crosslinks:
-- autotldr
----

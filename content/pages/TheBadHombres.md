@@ -1,5 +1,0 @@
----
-title: TheBadHombres
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: Aquariums
 crosslinks:
 - JosVermeulen
-- livven
 - PlantedTank
 - Cichlid
 - metric_units
@@ -11,7 +10,6 @@ crosslinks:
 - ReefTank
 - Jarrariums
 - xkcd
-- autotldr
 - shrimptank
 - aquarium
 - Fishing

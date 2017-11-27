@@ -1,7 +1,6 @@
 ---
 title: ConfusingGravity
 crosslinks:
-- livven
 - woahdude
 - pics
 - interestingasfuck

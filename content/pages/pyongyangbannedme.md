@@ -1,5 +1,0 @@
----
-title: pyongyangbannedme
-crosslinks:
-- autotldr
----

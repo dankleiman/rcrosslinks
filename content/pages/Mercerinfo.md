@@ -1,7 +1,6 @@
 ---
 title: Mercerinfo
 crosslinks:
-- autotldr
 - politics
 - NeutralPolitics
 - thenewcoldwar

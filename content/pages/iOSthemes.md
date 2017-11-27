@@ -4,7 +4,6 @@ crosslinks:
 - hizinfiz
 - androidthemes
 - iWallpaper
-- livven
 - EarthPorn
 - iphonewallpapers
 - ChargeYourPhone

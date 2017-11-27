@@ -1,7 +1,6 @@
 ---
 title: mspaintsartrace
 crosslinks:
-- livven
 - OfficialAFS
 - rupaulsdragrace
 - LSFYL

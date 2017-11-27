@@ -4,8 +4,6 @@ crosslinks:
 - Mushrooms
 - terrariums
 - MushroomGrowers
-- autotldr
-- livven
 - mildlyinteresting
 - Slimemolds
 - whatisthismushroom

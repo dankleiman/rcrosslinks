@@ -2,7 +2,6 @@
 title: whatsapp
 crosslinks:
 - Android
-- autotldr
 - iphone
 - pics
 - switcharoo

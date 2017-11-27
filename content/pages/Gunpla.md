@@ -2,7 +2,6 @@
 title: Gunpla
 crosslinks:
 - Gundam
-- livven
 - modelmakers
 - advancedGunpla
 - BuildFightSystem

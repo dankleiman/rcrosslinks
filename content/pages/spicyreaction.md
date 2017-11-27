@@ -1,5 +1,0 @@
----
-title: spicyreaction
-crosslinks:
-- livven
----

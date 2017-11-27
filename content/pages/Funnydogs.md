@@ -1,5 +1,0 @@
----
-title: Funnydogs
-crosslinks:
-- livven
----

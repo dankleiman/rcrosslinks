@@ -1,5 +1,0 @@
----
-title: stratechery
-crosslinks:
-- autotldr
----

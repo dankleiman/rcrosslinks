@@ -1,5 +1,0 @@
----
-title: GifsThatBeginTooSoon
-crosslinks:
-- livven
----

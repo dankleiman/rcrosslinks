@@ -1,7 +1,6 @@
 ---
 title: jillstein
 crosslinks:
-- autotldr
 - AnarchismOnline
 - WayOfTheBern
 - GreenParty

@@ -1,7 +1,6 @@
 ---
 title: GamingDetails
 crosslinks:
-- livven
 - Overwatch
 - anodyne
 - falloutlore

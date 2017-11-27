@@ -1,7 +1,6 @@
 ---
 title: sustainability
 crosslinks:
-- autotldr
 - singapore
 - HailCorporate
 - aftertheflood

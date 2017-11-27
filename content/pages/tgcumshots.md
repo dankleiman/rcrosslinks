@@ -1,5 +1,0 @@
----
-title: tgcumshots
-crosslinks:
-- livven
----

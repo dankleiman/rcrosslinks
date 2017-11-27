@@ -1,5 +1,0 @@
----
-title: gbinfifteenseconds
-crosslinks:
-- livven
----

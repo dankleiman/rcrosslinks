@@ -1,7 +1,6 @@
 ---
 title: linuxunplugged
 crosslinks:
-- autotldr
 - linux
 - Pyra
 - endlessos

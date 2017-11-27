@@ -1,5 +1,0 @@
----
-title: southamerica
-crosslinks:
-- autotldr
----

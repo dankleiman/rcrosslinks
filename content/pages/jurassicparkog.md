@@ -1,5 +1,0 @@
----
-title: jurassicparkog
-crosslinks:
-- livven
----

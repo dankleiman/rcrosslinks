@@ -1,7 +1,6 @@
 ---
 title: netflix
 crosslinks:
-- autotldr
 - television
 - The_Donald
 - ShitRedditSays

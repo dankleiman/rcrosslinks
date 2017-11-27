@@ -1,7 +1,6 @@
 ---
 title: ebikes
 crosslinks:
-- autotldr
 - xkcd
 - MTB
 - metric_units

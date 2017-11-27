@@ -1,7 +1,6 @@
 ---
 title: Animemes
 crosslinks:
-- livven
 - anime_irl
 - anime
 - thighdeology

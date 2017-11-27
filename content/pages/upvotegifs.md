@@ -1,7 +1,6 @@
 ---
 title: upvotegifs
 crosslinks:
-- livven
 - gifs
 - startrekgifs
 - HighQualityGifs

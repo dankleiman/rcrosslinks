@@ -13,7 +13,6 @@ crosslinks:
 - pettyrevenge
 - funny
 - unexpectedhogwarts
-- livven
 - LateStageCapitalism
 - Jokes
 - todayilearned

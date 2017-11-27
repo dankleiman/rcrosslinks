@@ -2,7 +2,6 @@
 title: 7kglobal
 crosslinks:
 - Pixiv
-- livven
 - sevenknightsfriends
 - Kings_Raid
 - summonerswar

@@ -1,5 +1,0 @@
----
-title: submechaniphobia
-crosslinks:
-- livven
----

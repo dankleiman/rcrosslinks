@@ -1,5 +1,0 @@
----
-title: PixelBook
-crosslinks:
-- autotldr
----

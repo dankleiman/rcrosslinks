@@ -1,5 +1,0 @@
----
-title: KyoukainoKanata
-crosslinks:
-- livven
----

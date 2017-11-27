@@ -1,7 +1,6 @@
 ---
 title: BicyclingCirclejerk
 crosslinks:
-- livven
 - cycling
 - Velo
 - fredcycling

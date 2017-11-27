@@ -2,7 +2,6 @@
 title: arizona
 crosslinks:
 - phoenix
-- autotldr
 - news
 - worldnews
 - Serendipity
@@ -13,7 +12,6 @@ crosslinks:
 - AskAnAmerican
 - pics
 - WatchRedditDie
-- livven
 - Marijuana
 - todayilearned
 - relationshipadvice

@@ -2,7 +2,6 @@
 title: detroitlions
 crosslinks:
 - nfl
-- livven
 - NFL_Draft
 - NYGiants
 - nflstreams

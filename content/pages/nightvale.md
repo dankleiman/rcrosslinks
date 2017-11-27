@@ -1,7 +1,6 @@
 ---
 title: nightvale
 crosslinks:
-- livven
 - LateStageCapitalism
 - SCP
 - Staples

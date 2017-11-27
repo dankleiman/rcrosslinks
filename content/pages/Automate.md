@@ -1,7 +1,6 @@
 ---
 title: Automate
 crosslinks:
-- autotldr
 - Futurology
 - BasicIncome
 - videos

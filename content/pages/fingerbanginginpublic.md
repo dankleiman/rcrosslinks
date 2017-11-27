@@ -1,5 +1,0 @@
----
-title: fingerbanginginpublic
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: guitarcirclejerk
 crosslinks:
 - Guitar
-- livven
 - guitarpedalsjerk
 - mildlyinteresting
 - WTF
@@ -14,7 +13,6 @@ crosslinks:
 - metallicacirclejerk
 - ImagesOfThe1940s
 - Korean
-- autotldr
 - AMAAggregator
 - ProRevenge
 - telecaster

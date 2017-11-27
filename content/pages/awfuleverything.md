@@ -9,7 +9,6 @@ crosslinks:
 - howardstern
 - OopsDidntMeanTo
 - WouldNotBang
-- autotldr
 - muacirclejerk
 - niceguys
 - trashpandas

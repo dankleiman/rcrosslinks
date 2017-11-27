@@ -1,7 +1,6 @@
 ---
 title: MarchForScience
 crosslinks:
-- autotldr
 - xkcd
 - politics
 - science

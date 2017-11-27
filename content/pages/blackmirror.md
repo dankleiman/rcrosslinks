@@ -1,8 +1,6 @@
 ---
 title: blackmirror
 crosslinks:
-- autotldr
-- livven
 - IAmA
 - shortscarystories
 - BrasilOnReddit

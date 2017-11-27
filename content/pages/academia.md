@@ -2,7 +2,6 @@
 title: academia
 crosslinks:
 - GradSchool
-- autotldr
 - LadiesofScience
 - AskLiteraryStudies
 - ADHD

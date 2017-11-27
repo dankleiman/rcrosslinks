@@ -1,5 +1,0 @@
----
-title: InvisibleHand
-crosslinks:
-- autotldr
----

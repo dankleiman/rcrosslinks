@@ -1,8 +1,6 @@
 ---
 title: nazi
 crosslinks:
-- autotldr
-- livven
 - copypasta
 - europeannationalism
 - ImGoingToHellForThis

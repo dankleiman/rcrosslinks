@@ -1,7 +1,6 @@
 ---
 title: ChristiansAwake2NWO
 crosslinks:
-- autotldr
 - conspiracy
 - Trump_Conservative
 - UNAgenda21

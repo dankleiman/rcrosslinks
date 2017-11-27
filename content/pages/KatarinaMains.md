@@ -4,7 +4,6 @@ crosslinks:
 - leagueoflegends
 - summonerschool
 - akalimains
-- livven
 - zedmains
 - taliyahmains
 - AhriMains

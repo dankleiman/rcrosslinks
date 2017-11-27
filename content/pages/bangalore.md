@@ -3,7 +3,6 @@ title: bangalore
 crosslinks:
 - india
 - nyc
-- autotldr
 - kannada
 - Blogging
 - tressless

@@ -1,7 +1,6 @@
 ---
 title: dankchristianmemes
 crosslinks:
-- livven
 - Christianity
 - Izlam
 - DeepFriedMemes

@@ -1,7 +1,6 @@
 ---
 title: restofthefuckingowl
 crosslinks:
-- livven
 - educationalgifs
 - interestingasfuck
 - LearnUselessTalents

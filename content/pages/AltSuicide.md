@@ -1,5 +1,0 @@
----
-title: AltSuicide
-crosslinks:
-- livven
----

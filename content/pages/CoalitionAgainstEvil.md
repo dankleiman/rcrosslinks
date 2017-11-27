@@ -9,7 +9,6 @@ crosslinks:
 - Patriots
 - Browns
 - minnesotavikings
-- livven
 - BIRDTEAMS
 - EvilerLeagueOfEvil
 - NYGiants

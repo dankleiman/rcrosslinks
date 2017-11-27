@@ -1,14 +1,12 @@
 ---
 title: CriticalTheory
 crosslinks:
-- autotldr
 - makhaevism
 - Anarchism
 - ByTheBookofThySelf
 - contpoltheor
 - sorceryofthespectacle
 - philosophy
-- livven
 - FULLCOMMUNISM
 - Political_Revolution
 - criticalthinking

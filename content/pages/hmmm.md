@@ -7,7 +7,6 @@ crosslinks:
 - mildlyinteresting
 - me_irl
 - AskReddit
-- livven
 - gifs
 - hatchery
 - aww

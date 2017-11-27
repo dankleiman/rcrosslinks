@@ -14,7 +14,6 @@ crosslinks:
 - latin
 - satanism
 - Metal
-- livven
 - PopArtNouveau
 - highqualitygifs
 - Purson

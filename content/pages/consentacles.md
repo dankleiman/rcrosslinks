@@ -1,7 +1,6 @@
 ---
 title: consentacles
 crosslinks:
-- livven
 - SlimeGirls
 - BoredandIgnored
 - sounding

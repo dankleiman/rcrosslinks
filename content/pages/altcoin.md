@@ -19,6 +19,5 @@ crosslinks:
 - Signatum
 - AirToken
 - elixirtoken
-- autotldr
 - KingsDS
 ---

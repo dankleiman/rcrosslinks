@@ -8,7 +8,6 @@ crosslinks:
 - ardidos
 - GraciasPenaNieto
 - PostCardExchange
-- livven
 - '2013'
 - redditrequest
 ---

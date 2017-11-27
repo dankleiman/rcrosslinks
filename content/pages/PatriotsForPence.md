@@ -1,5 +1,0 @@
----
-title: PatriotsForPence
-crosslinks:
-- autotldr
----

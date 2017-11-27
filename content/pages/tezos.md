@@ -4,7 +4,6 @@ crosslinks:
 - ethtrader
 - ethereum
 - Bitcoin
-- autotldr
 - tezostrader
 - Buttcoin
 - tezosicosupport

@@ -1,5 +1,0 @@
----
-title: idleuniverse
-crosslinks:
-- livven
----

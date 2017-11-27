@@ -1,5 +1,0 @@
----
-title: EmmanuelMacron
-crosslinks:
-- autotldr
----

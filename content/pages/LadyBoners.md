@@ -1,7 +1,6 @@
 ---
 title: LadyBoners
 crosslinks:
-- livven
 - BrasilOnReddit
 - MajesticManes
 - Serendipity

@@ -1,7 +1,6 @@
 ---
 title: doggos
 crosslinks:
-- livven
 - aww
 - toofers
 - mlem

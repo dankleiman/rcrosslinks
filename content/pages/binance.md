@@ -11,7 +11,6 @@ crosslinks:
 - NEO
 - district0x
 - Bitcoin
-- autotldr
 - Antshares
 - icocrypto
 - PoeBinance

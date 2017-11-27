@@ -1,5 +1,0 @@
----
-title: onlyblondes
-crosslinks:
-- livven
----

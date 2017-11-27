@@ -2,7 +2,6 @@
 title: roosterteeth
 crosslinks:
 - funhaus
-- livven
 - RWBY
 - CowChop
 - TheCreatures

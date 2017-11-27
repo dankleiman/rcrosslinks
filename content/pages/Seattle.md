@@ -3,11 +3,9 @@ title: Seattle
 crosslinks:
 - SeattleTransparency
 - SeaList
-- autotldr
 - IAmA
 - The_Donald
 - NeutralPolitics
-- livven
 - pics
 - SeattleWA
 - politics

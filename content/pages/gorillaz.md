@@ -6,7 +6,6 @@ crosslinks:
 - leakthreads
 - TheBath
 - vinyl
-- livven
 - place
 - Kanye
 - xTrill

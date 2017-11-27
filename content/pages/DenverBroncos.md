@@ -2,7 +2,6 @@
 title: DenverBroncos
 crosslinks:
 - nfl
-- livven
 - oaklandraiders
 - place
 - KansasCityChiefs

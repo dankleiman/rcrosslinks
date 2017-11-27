@@ -2,7 +2,6 @@
 title: sploot
 crosslinks:
 - aww
-- livven
 - gifs
 - funny
 - foxes

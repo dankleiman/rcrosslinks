@@ -4,7 +4,6 @@ crosslinks:
 - pics
 - Megadeth
 - IAmA
-- livven
 - Metal
 - KarmaCourt
 - mildlyinfuriating

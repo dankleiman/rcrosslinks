@@ -1,5 +1,0 @@
----
-title: jameswebb
-crosslinks:
-- autotldr
----

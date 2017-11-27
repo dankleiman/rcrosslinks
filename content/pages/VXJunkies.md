@@ -1,7 +1,6 @@
 ---
 title: VXJunkies
 crosslinks:
-- livven
 - xkcd
 - mechanical_gifs
 - whatisthisthing

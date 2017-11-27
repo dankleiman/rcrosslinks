@@ -5,7 +5,6 @@ crosslinks:
 - gundeals
 - guns
 - Firearms
-- autotldr
 - progun
 - Gunsforsale
 - ak47

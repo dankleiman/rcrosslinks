@@ -5,7 +5,6 @@ crosslinks:
 - india
 - IndiaSpeaks
 - indianews
-- autotldr
 - hinduism
 - place
 - vexillology

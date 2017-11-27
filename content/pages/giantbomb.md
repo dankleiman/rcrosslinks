@@ -4,7 +4,6 @@ crosslinks:
 - IAmA
 - Games
 - CoolGamesInc
-- livven
 - place
 - OutOfTheLoop
 - PUBATTLEGROUNDS

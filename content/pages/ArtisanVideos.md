@@ -15,7 +15,6 @@ crosslinks:
 - gatekeeping
 - explainlikeimfive
 - synthesizers
-- livven
 - mealtimevideos
 - goodyearwelt
 - cardistry

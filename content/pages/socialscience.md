@@ -1,7 +1,6 @@
 ---
 title: socialscience
 crosslinks:
-- autotldr
 - societalengineering
 - AskSocialScience
 - polyamory

@@ -4,5 +4,4 @@ crosslinks:
 - newjersey
 - RutgersNewark
 - jerseycity
-- autotldr
 ---

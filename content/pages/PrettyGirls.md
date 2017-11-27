@@ -1,7 +1,6 @@
 ---
 title: PrettyGirls
 crosslinks:
-- livven
 - RoastMe
 - BrasilOnReddit
 - KatyaLischina

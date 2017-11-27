@@ -1,5 +1,0 @@
----
-title: PatriotsFTW
-crosslinks:
-- livven
----

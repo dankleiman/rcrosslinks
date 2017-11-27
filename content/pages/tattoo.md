@@ -2,7 +2,6 @@
 title: tattoo
 crosslinks:
 - tattoos
-- livven
 - ArtisanVideos
 - OutOfTheLoop
 - toronto

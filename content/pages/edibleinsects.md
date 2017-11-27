@@ -1,5 +1,0 @@
----
-title: edibleinsects
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: debian
 crosslinks:
-- autotldr
 - linux
 - unixporn
 - Dell

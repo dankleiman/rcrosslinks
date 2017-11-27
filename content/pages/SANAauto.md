@@ -1,5 +1,0 @@
----
-title: SANAauto
-crosslinks:
-- autotldr
----

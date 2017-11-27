@@ -16,7 +16,6 @@ crosslinks:
 - restomemes
 - Frugal_Jerk
 - ComedyCemetery
-- livven
 - CasualUK
 - commentgore
 - gatekeeping

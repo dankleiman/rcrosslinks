@@ -1,5 +1,0 @@
----
-title: Naturwissenschaft
-crosslinks:
-- autotldr
----

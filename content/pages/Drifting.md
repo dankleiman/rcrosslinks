@@ -1,7 +1,6 @@
 ---
 title: Drifting
 crosslinks:
-- livven
 - 240sx
 - InitialDvideos
 - KoreanAdvice

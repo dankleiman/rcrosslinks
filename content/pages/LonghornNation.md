@@ -4,7 +4,6 @@ crosslinks:
 - CFB
 - UTAustin
 - gameofthrones
-- autotldr
 - sports
 - GetMotivated
 - hockey
@@ -20,5 +19,4 @@ crosslinks:
 - oneplus
 - corgi
 - CFBStreams
-- livven
 ---

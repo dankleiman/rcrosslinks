@@ -1,7 +1,6 @@
 ---
 title: SelfDrivingCars
 crosslinks:
-- autotldr
 - teslamotors
 - Atlanta
 - xkcd

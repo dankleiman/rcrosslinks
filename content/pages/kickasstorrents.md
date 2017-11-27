@@ -8,6 +8,5 @@ crosslinks:
 - emulation
 - xmen
 - megalinks
-- autotldr
 - technology
 ---

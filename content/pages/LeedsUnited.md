@@ -2,7 +2,6 @@
 title: LeedsUnited
 crosslinks:
 - soccerstreams
-- livven
 - NUFC
 - soccer
 - KarmaCourt

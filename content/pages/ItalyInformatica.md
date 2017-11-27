@@ -2,7 +2,6 @@
 title: ItalyInformatica
 crosslinks:
 - italy
-- autotldr
 - linux
 - italygames
 - xkcd

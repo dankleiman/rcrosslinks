@@ -1,12 +1,10 @@
 ---
 title: mexico
 crosslinks:
-- autotldr
 - TechoBlanco
 - Ardidos
 - place
 - worldnews
-- livven
 - NopalTech
 - Monterrey
 - MilitaryPorn

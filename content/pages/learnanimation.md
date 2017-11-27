@@ -1,5 +1,0 @@
----
-title: learnanimation
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: Nekomimi
 crosslinks:
 - Pixiv
-- livven
 - pantsu
 - awwnime
 - Animewallpaper

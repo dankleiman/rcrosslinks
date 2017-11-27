@@ -4,7 +4,6 @@ crosslinks:
 - modnews
 - italy
 - me_irl
-- autotldr
 - pics
 - italia
 - all

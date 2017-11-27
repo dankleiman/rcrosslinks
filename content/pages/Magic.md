@@ -9,7 +9,6 @@ crosslinks:
 - EDC
 - comics
 - 2meirl4meirl
-- autotldr
 - funny
 - '2013'
 - keming

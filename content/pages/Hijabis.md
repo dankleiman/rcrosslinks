@@ -2,7 +2,6 @@
 title: Hijabis
 crosslinks:
 - islam
-- autotldr
 - offmychest
 - niceguys
 - AsABlackMan

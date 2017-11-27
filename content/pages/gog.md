@@ -7,7 +7,6 @@ crosslinks:
 - gamingsuggestions
 - Drama
 - Steam
-- autotldr
 - linux_gaming
 - FREE
 - Serendipity

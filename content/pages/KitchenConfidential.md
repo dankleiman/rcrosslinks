@@ -2,7 +2,6 @@
 title: KitchenConfidential
 crosslinks:
 - WeWantPlates
-- livven
 - TalesFromYourServer
 - AskReddit
 - zeronet
@@ -11,7 +10,6 @@ crosslinks:
 - AskCulinary
 - shittyfoodporn
 - funny
-- autotldr
 - gatekeeping
 - Frugal_Jerk
 - IAmA

@@ -1,5 +1,0 @@
----
-title: TheColorIsGreen
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: gifsthatkeepongiving
 crosslinks:
-- livven
 - gifs
 - funny
 - interestingasfuck

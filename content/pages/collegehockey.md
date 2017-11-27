@@ -12,7 +12,5 @@ crosslinks:
 - rit
 - miamioh
 - WeArePennState
-- livven
 - AFL
-- autotldr
 ---

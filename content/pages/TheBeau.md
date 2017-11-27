@@ -1,5 +1,0 @@
----
-title: TheBeau
-crosslinks:
-- livven
----

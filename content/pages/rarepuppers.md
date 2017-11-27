@@ -1,7 +1,6 @@
 ---
 title: rarepuppers
 crosslinks:
-- livven
 - aww
 - LifePupperTips
 - gifs

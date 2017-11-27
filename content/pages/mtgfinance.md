@@ -14,7 +14,6 @@ crosslinks:
 - MagicCardPulls
 - Serendipity
 - Drama
-- livven
 - derp
 - magictcg
 - ScryGlass

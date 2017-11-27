@@ -9,7 +9,6 @@ crosslinks:
 - ItalyInformatica
 - italian
 - vzla
-- livven
 - todayilearned
 - Newsitalia
 - italymeltdown

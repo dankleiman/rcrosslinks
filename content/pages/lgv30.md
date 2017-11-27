@@ -6,7 +6,6 @@ crosslinks:
 - lgv20
 - androidapps
 - androidthemes
-- autotldr
 - camping
 - lgg4
 - headphones

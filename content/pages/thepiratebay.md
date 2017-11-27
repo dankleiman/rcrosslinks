@@ -10,5 +10,4 @@ crosslinks:
 - Buttcoin
 - fakeid
 - trackers
-- autotldr
 ---

@@ -1,5 +1,0 @@
----
-title: WeAreIndia
-crosslinks:
-- autotldr
----

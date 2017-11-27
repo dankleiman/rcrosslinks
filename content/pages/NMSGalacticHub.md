@@ -19,6 +19,5 @@ crosslinks:
 - Gamingcirclejerk
 - NMS_GHuB_Baseplace
 - nomansskyshots
-- livven
 - gifs
 ---

@@ -1,7 +1,6 @@
 ---
 title: Cleveland
 crosslinks:
-- autotldr
 - news
 - grilledcheese
 - WahoosTipi

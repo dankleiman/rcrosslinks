@@ -7,7 +7,6 @@ crosslinks:
 - pcmasterrace
 - overclocking
 - hardware
-- livven
 - watercooling
 - softwaregore
 - nvidia

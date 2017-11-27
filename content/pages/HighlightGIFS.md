@@ -1,5 +1,0 @@
----
-title: HighlightGIFS
-crosslinks:
-- livven
----

@@ -5,7 +5,6 @@ crosslinks:
 - Xiaomi
 - chinapcs
 - stylus
-- autotldr
 - ASUS
 - HailCorporate
 - hardwareswap

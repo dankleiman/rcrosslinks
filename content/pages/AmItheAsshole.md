@@ -9,7 +9,6 @@ crosslinks:
 - JusticeServed
 - Volvo
 - creepyPMs
-- autotldr
 - Art
 - NegativeWithGold
 - greentext

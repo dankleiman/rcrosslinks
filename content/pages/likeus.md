@@ -1,7 +1,6 @@
 ---
 title: likeus
 crosslinks:
-- livven
 - vegan
 - gifs
 - aww
@@ -9,7 +8,6 @@ crosslinks:
 - funny
 - videos
 - youseeingthisshit
-- autotldr
 - MadeMeSmile
 - AnimalsBeingJerks
 - parrots

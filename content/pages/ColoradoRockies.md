@@ -4,7 +4,6 @@ crosslinks:
 - SFGiants
 - highqualitygifs
 - pics
-- livven
 - MLBStreams
 - Dodgers
 - phillies

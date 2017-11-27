@@ -1,7 +1,6 @@
 ---
 title: pugs
 crosslinks:
-- livven
 - rarepuppers
 - aww
 - unexpectedhogwarts

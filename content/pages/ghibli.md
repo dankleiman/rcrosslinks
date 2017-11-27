@@ -3,7 +3,6 @@ title: ghibli
 crosslinks:
 - place
 - Miyazaki
-- livven
 - CrossStitch
 - AnimeDeals
 - QUALITYanime

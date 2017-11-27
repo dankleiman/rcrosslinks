@@ -1,7 +1,6 @@
 ---
 title: Nordiccountries
 crosslinks:
-- autotldr
 - modnews
 - mexico
 - Norway

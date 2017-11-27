@@ -2,7 +2,6 @@
 title: ChineseLanguage
 crosslinks:
 - translator
-- translatorBOT
 - languagelearning
 - China
 - LearnJapanese

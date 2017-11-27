@@ -9,5 +9,4 @@ crosslinks:
 - schizophrenia
 - Donald
 - Trumpgret
-- autotldr
 ---

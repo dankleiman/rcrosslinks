@@ -1,8 +1,6 @@
 ---
 title: arresteddevelopment
 crosslinks:
-- livven
-- autotldr
 - pics
 - WhyICorrectBryanPCox
 - gameofthrones

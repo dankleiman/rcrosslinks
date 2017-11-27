@@ -1,7 +1,6 @@
 ---
 title: lawbreakers
 crosslinks:
-- livven
 - IAmA
 - titanfall
 - gatekeeping

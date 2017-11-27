@@ -2,7 +2,6 @@
 title: EmDrive
 crosslinks:
 - Physics_AWT
-- autotldr
 - Physics
 - askscience
 - xkcd

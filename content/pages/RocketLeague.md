@@ -1,7 +1,6 @@
 ---
 title: RocketLeague
 crosslinks:
-- livven
 - RocketLeagueExchange
 - RocketLeagueFriends
 - RLCustomTraining

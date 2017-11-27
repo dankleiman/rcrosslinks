@@ -1,8 +1,6 @@
 ---
 title: BernieSanders
 crosslinks:
-- autotldr
-- livven
 - WayOfTheBern
 - EndFPTP
 - SandersForPresident

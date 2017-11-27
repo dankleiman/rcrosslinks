@@ -3,7 +3,6 @@ title: HomeKit
 crosslinks:
 - Hue
 - homeautomation
-- autotldr
 - xkcd
 - huelights
 - oznu

@@ -4,7 +4,6 @@ crosslinks:
 - KissCartoon
 - lootcratespoilers
 - videos
-- livven
 - BrasilOnReddit
 - rickandmorty_C137
 - AnimationMemes

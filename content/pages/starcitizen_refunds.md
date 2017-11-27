@@ -14,8 +14,6 @@ crosslinks:
 - GameStop
 - dayz
 - StarCitizen
-- livven
-- autotldr
 - ShadowBan
 - Starcitizen_Leaks
 - northcounty

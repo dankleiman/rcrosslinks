@@ -19,6 +19,5 @@ crosslinks:
 - pics
 - LearnJapanese
 - ukplace
-- livven
 - comiccon
 ---

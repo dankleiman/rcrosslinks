@@ -1,5 +1,0 @@
----
-title: interestingnames
-crosslinks:
-- autotldr
----

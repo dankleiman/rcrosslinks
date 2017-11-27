@@ -4,7 +4,6 @@ crosslinks:
 - conspiracy
 - IAmA
 - WikiLeaks
-- autotldr
 - The_Donald
 - wikileaks
 - POLITIC

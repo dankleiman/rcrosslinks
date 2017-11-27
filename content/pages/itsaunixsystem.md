@@ -3,7 +3,6 @@ title: itsaunixsystem
 crosslinks:
 - xkcd
 - interject
-- livven
 - videos
 - StallmanWasRight
 - comedynecromancy

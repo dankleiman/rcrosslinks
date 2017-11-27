@@ -1,7 +1,6 @@
 ---
 title: Journalism
 crosslinks:
-- autotldr
 - PressFreedom
 - europrivacy
 - worldpolitics
@@ -20,5 +19,4 @@ crosslinks:
 - AskReddit
 - BusinessOfMedia
 - LosAngeles
-- livven
 ---

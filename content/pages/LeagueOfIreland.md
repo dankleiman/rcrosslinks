@@ -4,5 +4,4 @@ crosslinks:
 - ireland
 - soccer
 - CanadaSoccer
-- autotldr
 ---

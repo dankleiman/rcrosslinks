@@ -11,8 +11,6 @@ crosslinks:
 - lggwatchr
 - smartwatch3
 - lgwatchsport
-- autotldr
-- livven
 - GearS3
 - xkcd
 - androidapps

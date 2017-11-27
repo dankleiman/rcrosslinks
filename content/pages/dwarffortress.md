@@ -6,7 +6,6 @@ crosslinks:
 - place
 - catalunya
 - MenacesWithSplinters
-- livven
 - RimWorld
 - cataclysmdda
 - DfOneWorld

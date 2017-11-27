@@ -6,7 +6,6 @@ crosslinks:
 - Drama
 - KotakuInAction
 - ChrisRayGun
-- autotldr
 - sadcringe
 - TwoXChromosomes
 - handholding

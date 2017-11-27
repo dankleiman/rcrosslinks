@@ -2,7 +2,6 @@
 title: Everton
 crosslinks:
 - soccer
-- livven
 - soccerstreams
 - swanseacity
 - lcfc

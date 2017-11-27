@@ -2,7 +2,6 @@
 title: Christianity
 crosslinks:
 - christianityUnchained
-- autotldr
 - Catholicism
 - cosmicservant
 - atheism

@@ -10,7 +10,6 @@ crosslinks:
 - 49ers
 - CHIBears
 - steelers
-- livven
 - oaklandraiders
 - EvilerLeagueOfEvil
 - minnesotavikings

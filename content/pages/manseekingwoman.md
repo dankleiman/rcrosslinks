@@ -1,5 +1,0 @@
----
-title: manseekingwoman
-crosslinks:
-- autotldr
----

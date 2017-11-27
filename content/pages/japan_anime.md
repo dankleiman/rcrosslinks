@@ -1,7 +1,6 @@
 ---
 title: japan_anime
 crosslinks:
-- livven
 - anime
 - awwnime
 - KemonoFriends

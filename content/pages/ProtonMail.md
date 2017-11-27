@@ -4,7 +4,6 @@ crosslinks:
 - ProtonVPN
 - privacy
 - privacytoolsIO
-- autotldr
 - xkcd
 - VPN
 - hearthstone

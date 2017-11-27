@@ -1,7 +1,6 @@
 ---
 title: LipsThatGrip
 crosslinks:
-- livven
 - NSFW_GIF
 - suctiondildos
 - GWCouples

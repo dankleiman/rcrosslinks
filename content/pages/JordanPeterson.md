@@ -4,7 +4,6 @@ crosslinks:
 - zeronet
 - samharris
 - IAmA
-- autotldr
 - JoeRogan
 - Jordan_Peterson_Memes
 - askphilosophy
@@ -16,7 +15,6 @@ crosslinks:
 - sorceryofthespectacle
 - TopMindsOfReddit
 - TrueReddit
-- livven
 - The_Donald
 - SYO
 - Buddhism

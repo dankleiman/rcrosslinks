@@ -1,7 +1,6 @@
 ---
 title: arielwinter
 crosslinks:
-- livven
 - nocontext
 - DownvoteTrolling
 - OopsDidntMeanTo

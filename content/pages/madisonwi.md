@@ -14,7 +14,6 @@ crosslinks:
 - WTF
 - Serendipity
 - altright
-- autotldr
 - wisconsingamers
 - DIY
 - lastimages

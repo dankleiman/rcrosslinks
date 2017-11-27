@@ -1,7 +1,6 @@
 ---
 title: Unity3D
 crosslinks:
-- livven
 - gamedev
 - Unity2D
 - justgamedevthings

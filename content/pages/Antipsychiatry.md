@@ -1,7 +1,6 @@
 ---
 title: Antipsychiatry
 crosslinks:
-- autotldr
 - processthinking
 - TargetedEnergyWeapons
 - Psychiatry

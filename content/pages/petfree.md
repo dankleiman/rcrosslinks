@@ -2,7 +2,6 @@
 title: petfree
 crosslinks:
 - NoParticipation
-- autotldr
 - childfree
 - Dogfree
 - aww

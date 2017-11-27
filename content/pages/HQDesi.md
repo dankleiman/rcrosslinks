@@ -1,5 +1,0 @@
----
-title: HQDesi
-crosslinks:
-- livven
----

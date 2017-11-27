@@ -3,7 +3,6 @@ title: Tentai
 crosslinks:
 - consentacles
 - Allthewaythrough
-- livven
 - futanari
 - DataHoarder
 - NSFWgaming

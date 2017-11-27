@@ -1,7 +1,6 @@
 ---
 title: TheOnion
 crosslinks:
-- autotldr
 - '2013'
 - irlsmurfing
 - nostalgia

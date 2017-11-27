@@ -8,7 +8,6 @@ crosslinks:
 - manga
 - HxH_OC
 - OnePiece
-- livven
 - lifeisstrange
 - HeavensArena
 - Toonami

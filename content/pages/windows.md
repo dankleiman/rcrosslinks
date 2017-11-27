@@ -2,7 +2,6 @@
 title: windows
 crosslinks:
 - Windows10
-- autotldr
 - techsupport
 - sysadmin
 - Surface

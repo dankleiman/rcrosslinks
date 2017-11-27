@@ -7,5 +7,4 @@ crosslinks:
 - skiing
 - toronto
 - Fitness
-- autotldr
 ---

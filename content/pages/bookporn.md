@@ -5,7 +5,6 @@ crosslinks:
 - discworld
 - Wellthatsucks
 - dune
-- livven
 - BookCollecting
 - GeometryIsNeat
 - RoomPorn

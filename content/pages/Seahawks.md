@@ -4,7 +4,6 @@ crosslinks:
 - nfl
 - falcons
 - nflstreams
-- livven
 - redditsync
 - place
 - SeattleWA

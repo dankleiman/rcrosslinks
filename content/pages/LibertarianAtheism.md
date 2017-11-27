@@ -1,5 +1,0 @@
----
-title: LibertarianAtheism
-crosslinks:
-- autotldr
----

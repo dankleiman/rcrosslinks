@@ -1,9 +1,7 @@
 ---
 title: JusticeServed
 crosslinks:
-- autotldr
 - Roadcam
-- livven
 - pussypassdenied
 - videos
 - IAmA

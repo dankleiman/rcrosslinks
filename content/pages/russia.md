@@ -2,7 +2,6 @@
 title: russia
 crosslinks:
 - NoParticipation
-- autotldr
 - worldpolitics
 - worldnews
 - MapPorn
@@ -16,7 +15,6 @@ crosslinks:
 - The_DonaldUnleashed
 - conspiracy
 - Sino
-- livven
 - metacanada
 - technology
 - xkcd

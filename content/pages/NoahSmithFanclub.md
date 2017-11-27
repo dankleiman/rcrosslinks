@@ -1,5 +1,0 @@
----
-title: NoahSmithFanclub
-crosslinks:
-- autotldr
----

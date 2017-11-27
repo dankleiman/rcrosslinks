@@ -1,7 +1,6 @@
 ---
 title: Sysadminhumor
 crosslinks:
-- livven
 - xkcd
 - talesfromtechsupport
 - networkingmemes

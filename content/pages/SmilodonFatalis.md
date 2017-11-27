@@ -1,5 +1,0 @@
----
-title: SmilodonFatalis
-crosslinks:
-- livven
----

@@ -2,7 +2,6 @@
 title: BattleRite
 crosslinks:
 - BattleriteFanConcepts
-- livven
 - pcgaming
 - BattleriteLFF
 - waifuism

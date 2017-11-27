@@ -3,7 +3,6 @@ title: FULLDISCOURSE
 crosslinks:
 - communism
 - FULLCOMMUNISM
-- autotldr
 - communism101
 - LateStageCapitalism
 - azureScapegoat

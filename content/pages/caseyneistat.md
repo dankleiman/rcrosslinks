@@ -1,7 +1,6 @@
 ---
 title: caseyneistat
 crosslinks:
-- livven
 - AskHistorians
 - juststart
 - gifs

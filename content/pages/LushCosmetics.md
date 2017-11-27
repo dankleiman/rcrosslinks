@@ -2,7 +2,6 @@
 title: LushCosmetics
 crosslinks:
 - Lush_Kitchen
-- livven
 - SkincareAddiction
 - AsianBeauty
 - ireland

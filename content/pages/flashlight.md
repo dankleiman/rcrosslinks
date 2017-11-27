@@ -5,7 +5,6 @@ crosslinks:
 - xkcd
 - electronic_cigarette
 - EDCexchange
-- livven
 - preppers
 - EDC
 - pics

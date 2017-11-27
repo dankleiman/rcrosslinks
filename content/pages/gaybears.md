@@ -1,7 +1,6 @@
 ---
 title: gaybears
 crosslinks:
-- livven
 - Suomi
 - me_irl
 - Chasers

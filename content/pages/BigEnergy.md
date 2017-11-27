@@ -1,5 +1,0 @@
----
-title: BigEnergy
-crosslinks:
-- autotldr
----

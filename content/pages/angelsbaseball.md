@@ -4,7 +4,6 @@ crosslinks:
 - reddit_stream
 - Mariners
 - Dodgers
-- livven
 - ducks
 - AnaheimDucks
 - motorcitykitties

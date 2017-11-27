@@ -15,7 +15,6 @@ crosslinks:
 - me_irl
 - dirtykikpals
 - techsupportmacgyver
-- livven
 - todayilearned
 - lgg6
 - dnd

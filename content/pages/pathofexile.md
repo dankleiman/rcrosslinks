@@ -1,7 +1,6 @@
 ---
 title: pathofexile
 crosslinks:
-- livven
 - PathOfExileBuilds
 - xkcd
 - pathofexiledev

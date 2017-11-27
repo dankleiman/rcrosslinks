@@ -1,7 +1,6 @@
 ---
 title: netneutrality
 crosslinks:
-- autotldr
 - CGPGrey
 - BlueMidterm2018
 - Serendipity

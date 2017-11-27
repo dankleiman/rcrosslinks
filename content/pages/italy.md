@@ -7,7 +7,6 @@ crosslinks:
 - ItalyMotori
 - simacefiga
 - AskReddit
-- autotldr
 - italy_SS
 - food
 - italygames

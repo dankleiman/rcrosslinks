@@ -1,5 +1,0 @@
----
-title: ArdellaCosplay
-crosslinks:
-- livven
----

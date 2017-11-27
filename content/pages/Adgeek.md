@@ -1,5 +1,0 @@
----
-title: Adgeek
-crosslinks:
-- autotldr
----

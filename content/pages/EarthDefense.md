@@ -1,5 +1,0 @@
----
-title: EarthDefense
-crosslinks:
-- autotldr
----

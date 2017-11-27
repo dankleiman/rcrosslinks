@@ -1,7 +1,6 @@
 ---
 title: RivalsOfAether
 crosslinks:
-- livven
 - roacirclejerk
 - Brawlhalla
 - Overwatch

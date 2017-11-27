@@ -1,5 +1,0 @@
----
-title: Eunseo
-crosslinks:
-- livven
----

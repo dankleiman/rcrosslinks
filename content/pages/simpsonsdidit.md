@@ -1,10 +1,8 @@
 ---
 title: simpsonsdidit
 crosslinks:
-- livven
 - TheSimpsons
 - WTF
-- autotldr
 - mildlyinteresting
 - SimpsonsFaces
 - Patriots

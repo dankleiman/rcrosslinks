@@ -1,5 +1,0 @@
----
-title: ChrissyTeigen
-crosslinks:
-- livven
----

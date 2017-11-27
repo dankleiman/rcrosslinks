@@ -1,5 +1,0 @@
----
-title: PERSIAN
-crosslinks:
-- livven
----

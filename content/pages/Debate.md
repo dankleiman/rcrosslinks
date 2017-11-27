@@ -11,7 +11,6 @@ crosslinks:
 - lincolndouglas
 - gue
 - Military
-- autotldr
 - flatearth
 - sex
 ---

@@ -1,7 +1,6 @@
 ---
 title: topjokes
 crosslinks:
-- livven
 - me_irl
 - SquaredCircle
 - cleanjokes

@@ -2,7 +2,6 @@
 title: kotk
 crosslinks:
 - h1z1
-- livven
 - PUBATTLEGROUNDS
 - REEEEEEEEEE
 - H1Z1LFG

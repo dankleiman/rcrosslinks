@@ -1,7 +1,6 @@
 ---
 title: vzla
 crosslinks:
-- autotldr
 - tippr
 - podemos
 - socialism

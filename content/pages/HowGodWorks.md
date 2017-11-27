@@ -1,5 +1,0 @@
----
-title: HowGodWorks
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: Washington
 crosslinks:
-- autotldr
 - SeattleWA
 - WAlitics
 - Seattle

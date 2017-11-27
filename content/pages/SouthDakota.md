@@ -1,7 +1,6 @@
 ---
 title: SouthDakota
 crosslinks:
-- autotldr
 - twinpeaks
 - funny
 - AmericanPlantSwap

@@ -15,7 +15,6 @@ crosslinks:
 - GiveEmHeck
 - PortOfPain
 - ManchurianCandidates
-- livven
 - portofpain
 - nqmod
 - wearethewalrus

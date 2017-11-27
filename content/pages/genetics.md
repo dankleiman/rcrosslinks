@@ -1,7 +1,6 @@
 ---
 title: genetics
 crosslinks:
-- autotldr
 - nutrition
 - OpenandHonest
 - keto

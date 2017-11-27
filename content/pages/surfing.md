@@ -1,9 +1,7 @@
 ---
 title: surfing
 crosslinks:
-- livven
 - videos
-- autotldr
 - pics
 - BetterEveryLoop
 - 1sided

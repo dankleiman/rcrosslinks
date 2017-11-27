@@ -2,11 +2,9 @@
 title: TopGear
 crosslinks:
 - thegrandtour
-- livven
 - AskReddit
 - Clarity
 - flightsim
-- autotldr
 - Mirai
 - AgainstKarmaWhores
 - gatekeeping

@@ -1,7 +1,6 @@
 ---
 title: propaganda
 crosslinks:
-- autotldr
 - ActiveMeasures
 - worldpolitics
 - legaladviceofftopic

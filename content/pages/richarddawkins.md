@@ -1,5 +1,0 @@
----
-title: richarddawkins
-crosslinks:
-- autotldr
----

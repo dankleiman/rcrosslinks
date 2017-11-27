@@ -8,7 +8,6 @@ crosslinks:
 - Conspiracys
 - tipofmytongue
 - TWRP
-- autotldr
 - SteveMillerBand
 - Go_PlayalongTrax
 - gifs

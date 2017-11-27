@@ -1,7 +1,6 @@
 ---
 title: bmx
 crosslinks:
-- livven
 - WTF
 - momsspaghetti
 - nevertellmetheodds

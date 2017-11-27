@@ -3,7 +3,6 @@ title: ShoebillStorks
 crosslinks:
 - gifs
 - OldSchoolCool
-- livven
 - PartyParrot
 - drawing
 - Awwducational

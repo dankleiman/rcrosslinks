@@ -1,7 +1,6 @@
 ---
 title: me_irlgbt
 crosslinks:
-- livven
 - gay_irl
 - DeepFriedMemes
 - xkcd

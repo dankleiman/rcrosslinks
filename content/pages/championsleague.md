@@ -1,5 +1,0 @@
----
-title: championsleague
-crosslinks:
-- autotldr
----

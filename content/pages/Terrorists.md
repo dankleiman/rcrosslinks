@@ -1,5 +1,0 @@
----
-title: Terrorists
-crosslinks:
-- autotldr
----

@@ -1,8 +1,6 @@
 ---
 title: JoeRogan
 crosslinks:
-- autotldr
-- livven
 - samharris
 - The_Donald
 - JordanPeterson

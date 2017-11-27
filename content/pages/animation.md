@@ -1,7 +1,6 @@
 ---
 title: animation
 crosslinks:
-- livven
 - AfterEffects
 - Illustration
 - ArtFundamentals
@@ -15,7 +14,6 @@ crosslinks:
 - sketches
 - indianpeoplereddit
 - KingOfTheHill
-- autotldr
 - moho_animation
 - SuperSaiyanGifs
 - Art

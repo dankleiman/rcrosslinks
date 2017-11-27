@@ -3,7 +3,6 @@ title: Embroidery
 crosslinks:
 - CrossStitch
 - Etsy
-- livven
 - ArtisanGifts
 - streetwear
 - entwives

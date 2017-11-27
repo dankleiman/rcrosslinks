@@ -1,7 +1,6 @@
 ---
 title: NoFilterNews
 crosslinks:
-- autotldr
 - me_irl
 - rageagainstthetoupee
 - EndlessWar

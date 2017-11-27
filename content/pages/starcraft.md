@@ -4,7 +4,6 @@ crosslinks:
 - allthingsprotoss
 - allthingszerg
 - AllThingsTerran
-- livven
 - StarcraftCirclejerk
 - dedgaem
 - DotA2
@@ -15,7 +14,6 @@ crosslinks:
 - place
 - leagueoflegends
 - Overwatch
-- autotldr
 - Destiny
 - Games
 - Guildwars2

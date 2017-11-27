@@ -3,7 +3,6 @@ title: Bakersfield
 crosslinks:
 - news
 - iamverysmart
-- autotldr
 - mildlyinteresting
 - nin
 - The_Donald

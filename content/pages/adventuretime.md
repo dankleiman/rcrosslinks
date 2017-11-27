@@ -1,13 +1,11 @@
 ---
 title: adventuretime
 crosslinks:
-- livven
 - stevenuniverse
 - ImaginaryOoo
 - place
 - rpg
 - ICanDrawThat
-- autotldr
 - AdventureTheory
 - TrollXChromosome
 - tattoos

@@ -1,5 +1,0 @@
----
-title: EverythingTrump
-crosslinks:
-- livven
----

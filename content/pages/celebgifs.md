@@ -1,5 +1,0 @@
----
-title: celebgifs
-crosslinks:
-- livven
----

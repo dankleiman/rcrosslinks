@@ -1,5 +1,0 @@
----
-title: Vrbatim
-crosslinks:
-- autotldr
----

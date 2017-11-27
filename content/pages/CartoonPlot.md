@@ -1,5 +1,0 @@
----
-title: CartoonPlot
-crosslinks:
-- livven
----

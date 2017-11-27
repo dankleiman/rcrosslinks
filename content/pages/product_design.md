@@ -5,5 +5,4 @@ crosslinks:
 - shittykickstarters
 - Design
 - Drumming
-- livven
 ---

@@ -5,7 +5,6 @@ crosslinks:
 - 4kTV
 - changelog
 - funny
-- livven
 - twinpeaks
 - PrequelMemes
 - Vaporwave

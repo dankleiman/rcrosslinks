@@ -1,7 +1,6 @@
 ---
 title: AutoNewspaper
 crosslinks:
-- autotldr
 - me_irl
 - paralympics
 - FrenchWestIndies

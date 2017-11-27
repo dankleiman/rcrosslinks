@@ -1,5 +1,0 @@
----
-title: HopeForArchitecture
-crosslinks:
-- livven
----

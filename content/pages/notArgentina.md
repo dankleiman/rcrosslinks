@@ -6,7 +6,6 @@ crosslinks:
 - mexico
 - worldnews
 - gifs
-- livven
 - MapPorn
 - IAmA
 - GODO

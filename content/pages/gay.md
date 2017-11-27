@@ -1,7 +1,6 @@
 ---
 title: gay
 crosslinks:
-- autotldr
 - GayMen
 - LGBTQnews
 - BrasilOnReddit
@@ -9,7 +8,6 @@ crosslinks:
 - The_Donald
 - gayr4r
 - gaymers
-- livven
 - self
 - dankmemes
 - transgender

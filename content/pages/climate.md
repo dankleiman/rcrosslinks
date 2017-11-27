@@ -1,7 +1,6 @@
 ---
 title: climate
 crosslinks:
-- autotldr
 - EcoInternet
 - collapse
 - xkcd

@@ -10,7 +10,6 @@ crosslinks:
 - osx
 - pcmasterrace
 - unixporn
-- autotldr
 - AMDhackintosh
 - unRAID
 - MacOS

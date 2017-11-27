@@ -1,7 +1,6 @@
 ---
 title: bicycleculture
 crosslinks:
-- autotldr
 - ukpolitics
 - kzoo
 - pantyhose

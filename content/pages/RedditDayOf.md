@@ -1,9 +1,7 @@
 ---
 title: RedditDayOf
 crosslinks:
-- livven
 - xkcd
-- autotldr
 - MapPorn
 - VintageMenus
 - videos

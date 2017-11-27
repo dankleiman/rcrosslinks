@@ -1,7 +1,6 @@
 ---
 title: DBZDokkanBattle
 crosslinks:
-- livven
 - DBZDokkanMarketplace
 - OnePieceTC
 - '2013'

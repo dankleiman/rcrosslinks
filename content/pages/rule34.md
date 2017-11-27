@@ -2,7 +2,6 @@
 title: rule34
 crosslinks:
 - iateacrayon
-- livven
 - Palpz
 - spnati
 - futanari

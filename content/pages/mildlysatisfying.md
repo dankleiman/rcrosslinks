@@ -1,7 +1,6 @@
 ---
 title: mildlysatisfying
 crosslinks:
-- livven
 - nyc
 - pooping
 - KarmaConspiracy

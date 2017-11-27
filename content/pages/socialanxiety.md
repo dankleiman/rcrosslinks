@@ -2,7 +2,6 @@
 title: socialanxiety
 crosslinks:
 - socialskills
-- livven
 - IAmA
 - AskReddit
 - Anxiety

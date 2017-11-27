@@ -6,7 +6,6 @@ crosslinks:
 - gunpolitics
 - gundeals
 - guns
-- autotldr
 - NOWTTYG
 - progun
 - weekendgunnit

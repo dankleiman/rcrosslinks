@@ -1,7 +1,6 @@
 ---
 title: singapore
 crosslinks:
-- autotldr
 - AskReddit
 - malaysia
 - AsianBeauty

@@ -1,7 +1,6 @@
 ---
 title: oddlyweird
 crosslinks:
-- livven
 - creepy
 - mildlypenis
 - HistoryPorn

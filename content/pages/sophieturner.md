@@ -1,7 +1,6 @@
 ---
 title: sophieturner
 crosslinks:
-- livven
 - niceguys
 - pics
 - schuhe

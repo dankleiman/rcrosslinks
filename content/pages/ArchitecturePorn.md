@@ -18,7 +18,6 @@ crosslinks:
 - ArtDeco
 - london
 - IndiaMain
-- livven
 - ArchitectureVids
 - europe
 ---

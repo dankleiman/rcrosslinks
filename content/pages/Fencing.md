@@ -3,7 +3,6 @@ title: Fencing
 crosslinks:
 - AskHistorians
 - wma
-- livven
 - kendo
 - AccurateBattleSim
 - vexillology

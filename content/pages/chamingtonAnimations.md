@@ -1,5 +1,0 @@
----
-title: chamingtonAnimations
-crosslinks:
-- livven
----

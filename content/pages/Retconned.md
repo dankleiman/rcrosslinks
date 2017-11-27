@@ -17,7 +17,6 @@ crosslinks:
 - Mandelaeffectdecoded
 - holofractal
 - Paranormal
-- autotldr
 - nosleep
 - ShitAmericansSay
 - Electromagnetics

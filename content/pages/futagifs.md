@@ -1,5 +1,0 @@
----
-title: futagifs
-crosslinks:
-- livven
----

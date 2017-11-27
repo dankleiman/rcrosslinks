@@ -1,7 +1,6 @@
 ---
 title: SwiggitySwootyGifs
 crosslinks:
-- livven
 - gifs
 - aww
 - asseffect

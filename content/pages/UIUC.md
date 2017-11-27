@@ -4,9 +4,7 @@ crosslinks:
 - place
 - ApplyingToCollege
 - uofm
-- autotldr
 - Purdue
-- livven
 - KarmaCourt
 - xkcd
 - uiuccirclejerk

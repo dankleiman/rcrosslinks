@@ -2,7 +2,6 @@
 title: TrumpPA
 crosslinks:
 - The_Donald
-- autotldr
 - philadelphia
 - The_Donald_MD
 - TheNewRight

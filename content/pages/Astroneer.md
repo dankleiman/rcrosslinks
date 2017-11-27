@@ -1,7 +1,6 @@
 ---
 title: Astroneer
 crosslinks:
-- livven
 - Art
 - place
 - im12andthisisfunny

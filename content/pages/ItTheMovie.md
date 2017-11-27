@@ -1,7 +1,6 @@
 ---
 title: ItTheMovie
 crosslinks:
-- autotldr
 - movies
 - stephenking
 - FinnWolfhard

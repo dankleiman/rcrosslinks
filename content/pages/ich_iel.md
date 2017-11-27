@@ -3,7 +3,6 @@ title: ich_iel
 crosslinks:
 - de
 - Kopiernudeln
-- livven
 - deOhneRegeln
 - VeganDE
 - surrealmemes

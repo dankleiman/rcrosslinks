@@ -1,7 +1,6 @@
 ---
 title: traps
 crosslinks:
-- livven
 - LewdLynx8Inch
 - NikkiSapphire
 - SpankSafe

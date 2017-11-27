@@ -8,5 +8,4 @@ crosslinks:
 - mildlyinteresting
 - AccidentalRenaissance
 - HumansBeingBros
-- livven
 ---

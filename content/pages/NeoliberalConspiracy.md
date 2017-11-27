@@ -1,5 +1,0 @@
----
-title: NeoliberalConspiracy
-crosslinks:
-- autotldr
----

@@ -6,6 +6,5 @@ crosslinks:
 - xkcd
 - me_irl
 - javascript
-- autotldr
 - GetMotivated
 ---

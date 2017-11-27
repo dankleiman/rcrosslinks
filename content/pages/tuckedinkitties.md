@@ -3,7 +3,6 @@ title: tuckedinkitties
 crosslinks:
 - aww
 - Thisismylifemeow
-- livven
 - cats
 - Purrito
 - curledfeetsies

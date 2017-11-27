@@ -1,7 +1,6 @@
 ---
 title: HongKong
 crosslinks:
-- autotldr
 - China
 - HongKongMusic
 - aznidentity
@@ -11,7 +10,6 @@ crosslinks:
 - ATC
 - japan
 - Sino
-- livven
 - conspiracy
 - asianamerican
 - IWantToLearn

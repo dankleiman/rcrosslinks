@@ -8,7 +8,6 @@ crosslinks:
 - yunyun
 - Lalatina
 - naut
-- livven
 - seiyuu
 - AnimePhoneWallpapers
 - AnimeFaggotGifs

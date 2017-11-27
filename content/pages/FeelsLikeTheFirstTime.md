@@ -1,7 +1,6 @@
 ---
 title: FeelsLikeTheFirstTime
 crosslinks:
-- livven
 - Vive
 - AskReddit
 - Instantregret

@@ -3,7 +3,6 @@ title: gunpolitics
 crosslinks:
 - shitguncontrollerssay
 - Firearms
-- autotldr
 - GunsAreCool
 - progun
 - dgu
@@ -19,6 +18,5 @@ crosslinks:
 - NegativeWithGold
 - gundeals
 - theydidthemath
-- livven
 - longrange
 ---

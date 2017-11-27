@@ -1,7 +1,6 @@
 ---
 title: edtech
 crosslinks:
-- autotldr
 - artificial
 - edtechweekly
 - education

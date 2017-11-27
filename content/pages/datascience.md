@@ -2,7 +2,6 @@
 title: datascience
 crosslinks:
 - MachineLearning
-- autotldr
 - statistics
 - Python
 - datasets

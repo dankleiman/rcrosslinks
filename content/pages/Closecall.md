@@ -1,5 +1,0 @@
----
-title: Closecall
-crosslinks:
-- livven
----

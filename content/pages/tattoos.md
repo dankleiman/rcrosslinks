@@ -1,7 +1,6 @@
 ---
 title: tattoos
 crosslinks:
-- livven
 - DrawMyTattoo
 - IASIP
 - AskReddit

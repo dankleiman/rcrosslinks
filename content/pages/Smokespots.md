@@ -1,5 +1,0 @@
----
-title: Smokespots
-crosslinks:
-- livven
----

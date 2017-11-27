@@ -1,7 +1,6 @@
 ---
 title: Instantregret
 crosslinks:
-- livven
 - gifs
 - instant_regret
 - WTF

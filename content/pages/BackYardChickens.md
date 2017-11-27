@@ -1,8 +1,6 @@
 ---
 title: BackYardChickens
 crosslinks:
-- livven
-- autotldr
 - homestead
 - restofthefuckingowl
 - knitting

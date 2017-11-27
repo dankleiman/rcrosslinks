@@ -1,5 +1,0 @@
----
-title: GlobalNews
-crosslinks:
-- autotldr
----

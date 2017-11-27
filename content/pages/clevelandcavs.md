@@ -1,7 +1,6 @@
 ---
 title: clevelandcavs
 crosslinks:
-- livven
 - Browns
 - heat
 - torontoraptors

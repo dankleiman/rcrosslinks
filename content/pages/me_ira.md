@@ -1,7 +1,6 @@
 ---
 title: me_ira
 crosslinks:
-- livven
 - AskHistorians
 - ireland
 - AskReddit

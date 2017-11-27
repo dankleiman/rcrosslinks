@@ -1,5 +1,0 @@
----
-title: characterdesigns
-crosslinks:
-- livven
----

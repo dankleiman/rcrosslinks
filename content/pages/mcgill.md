@@ -17,5 +17,4 @@ crosslinks:
 - tifu
 - DataHoarder
 - slavs_squatting
-- livven
 ---

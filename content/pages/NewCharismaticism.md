@@ -1,5 +1,0 @@
----
-title: NewCharismaticism
-crosslinks:
-- autotldr
----

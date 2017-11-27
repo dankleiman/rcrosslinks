@@ -1,5 +1,0 @@
----
-title: MuchBitcoin
-crosslinks:
-- autotldr
----

@@ -10,7 +10,6 @@ crosslinks:
 - SanAntonioFC
 - USLD3
 - Serendipity
-- livven
 - ultimate
 - gifs
 - tvmemes

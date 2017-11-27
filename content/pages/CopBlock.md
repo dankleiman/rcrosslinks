@@ -1,5 +1,0 @@
----
-title: CopBlock
-crosslinks:
-- autotldr
----

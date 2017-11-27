@@ -6,7 +6,6 @@ crosslinks:
 - loltyler1
 - YasuoMains
 - KoreanAdvice
-- livven
 - ThreshMains
 - ivernmains
 - DravenSchool

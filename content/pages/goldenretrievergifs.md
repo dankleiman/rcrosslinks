@@ -1,5 +1,0 @@
----
-title: goldenretrievergifs
-crosslinks:
-- livven
----

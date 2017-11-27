@@ -9,7 +9,6 @@ crosslinks:
 - ZadocPaet
 - Overwatch
 - gaming
-- autotldr
 - PS4Deals
 - SampleSize
 ---

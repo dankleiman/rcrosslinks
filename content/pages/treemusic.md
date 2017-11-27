@@ -2,7 +2,6 @@
 title: treemusic
 crosslinks:
 - sixthworldmusic
-- livven
 - Serendipity
 - Music
 - trance

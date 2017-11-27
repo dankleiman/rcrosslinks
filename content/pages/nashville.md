@@ -1,7 +1,6 @@
 ---
 title: nashville
 crosslinks:
-- autotldr
 - hockey
 - Conservative
 - wtf

@@ -1,7 +1,6 @@
 ---
 title: PeopleFuckingDying
 crosslinks:
-- livven
 - gifs
 - funny
 - aww

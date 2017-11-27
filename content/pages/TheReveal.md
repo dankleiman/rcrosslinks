@@ -1,5 +1,0 @@
----
-title: TheReveal
-crosslinks:
-- livven
----

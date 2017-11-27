@@ -8,7 +8,6 @@ crosslinks:
 - learnpython
 - Python
 - Cogmind
-- livven
 - veinsoftheearth
 - pcgaming
 - linux_gaming

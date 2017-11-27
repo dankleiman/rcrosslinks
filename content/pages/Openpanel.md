@@ -1,5 +1,0 @@
----
-title: Openpanel
-crosslinks:
-- livven
----

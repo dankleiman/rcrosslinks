@@ -1,10 +1,8 @@
 ---
 title: ParadoxExtra
 crosslinks:
-- livven
 - eu4
 - paradoxplaza
-- autotldr
 - comics
 - Kaiserreich
 - NattyComics

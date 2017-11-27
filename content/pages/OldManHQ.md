@@ -1,5 +1,0 @@
----
-title: OldManHQ
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: decentralizeweb
-crosslinks:
-- autotldr
----

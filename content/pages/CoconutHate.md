@@ -1,7 +1,6 @@
 ---
 title: CoconutHate
 crosslinks:
-- livven
 - accidentalswastika
 - onionhate
 - Judaism

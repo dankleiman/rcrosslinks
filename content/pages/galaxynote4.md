@@ -7,7 +7,6 @@ crosslinks:
 - Android
 - GalaxyS7
 - ShitEvilModsSay
-- livven
 - googleplaydeals
 - educationalgifs
 - kustom

@@ -1,5 +1,0 @@
----
-title: FireflyGifs
-crosslinks:
-- livven
----

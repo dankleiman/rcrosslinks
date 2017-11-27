@@ -1,5 +1,0 @@
----
-title: Cypherpass
-crosslinks:
-- autotldr
----

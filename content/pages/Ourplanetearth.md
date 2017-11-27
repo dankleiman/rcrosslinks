@@ -1,5 +1,0 @@
----
-title: Ourplanetearth
-crosslinks:
-- autotldr
----

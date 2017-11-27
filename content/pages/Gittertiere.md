@@ -1,5 +1,0 @@
----
-title: Gittertiere
-crosslinks:
-- livven
----

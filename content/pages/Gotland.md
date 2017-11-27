@@ -1,5 +1,0 @@
----
-title: Gotland
-crosslinks:
-- autotldr
----

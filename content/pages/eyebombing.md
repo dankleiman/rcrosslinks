@@ -1,7 +1,6 @@
 ---
 title: eyebombing
 crosslinks:
-- livven
 - pics
 - excgarated
 - LaserCleaningPorn

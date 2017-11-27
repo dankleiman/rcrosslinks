@@ -1,7 +1,6 @@
 ---
 title: IgnorantImgur
 crosslinks:
-- livven
 - all
 - crimgur
 - WackyTicTacs

@@ -1,7 +1,6 @@
 ---
 title: breakingbad
 crosslinks:
-- livven
 - Turkey
 - FanTheories
 - pics

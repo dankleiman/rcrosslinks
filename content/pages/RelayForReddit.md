@@ -1,7 +1,6 @@
 ---
 title: RelayForReddit
 crosslinks:
-- livven
 - search
 - androidapps
 - changelog

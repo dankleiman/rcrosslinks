@@ -16,7 +16,6 @@ crosslinks:
 - cutekorean
 - JodieComer
 - Hot_Women_Gifs
-- livven
 - AlexCurry
 - TalkShowGirls
 - mavrinmodels

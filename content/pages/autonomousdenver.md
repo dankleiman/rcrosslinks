@@ -1,5 +1,0 @@
----
-title: autonomousdenver
-crosslinks:
-- autotldr
----

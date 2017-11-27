@@ -2,7 +2,6 @@
 title: NewYorkIslanders
 crosslinks:
 - hockey
-- livven
 - hockeyjerseys
 - reddit_stream
 - puckstreams

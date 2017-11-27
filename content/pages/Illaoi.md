@@ -6,5 +6,4 @@ crosslinks:
 - UrgotMains
 - summonerschool
 - AMAAggregator
-- livven
 ---

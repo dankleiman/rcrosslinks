@@ -1,5 +1,0 @@
----
-title: brooklyndecker
-crosslinks:
-- livven
----

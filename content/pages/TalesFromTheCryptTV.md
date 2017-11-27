@@ -1,5 +1,0 @@
----
-title: TalesFromTheCryptTV
-crosslinks:
-- autotldr
----

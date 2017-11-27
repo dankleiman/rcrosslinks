@@ -6,7 +6,6 @@ crosslinks:
 - Ooer
 - Feminism
 - AskFemmeThoughts
-- autotldr
 - WhiteRights
 - dontdeadopeninside
 - againstmensrights

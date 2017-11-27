@@ -1,7 +1,6 @@
 ---
 title: anonymous
 crosslinks:
-- autotldr
 - TargetedEnergyWeapons
 - netsec
 - IAmA

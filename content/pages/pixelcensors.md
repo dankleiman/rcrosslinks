@@ -1,5 +1,0 @@
----
-title: pixelcensors
-crosslinks:
-- livven
----

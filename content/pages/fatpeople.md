@@ -1,5 +1,0 @@
----
-title: fatpeople
-crosslinks:
-- livven
----

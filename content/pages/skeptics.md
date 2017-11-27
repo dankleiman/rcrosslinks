@@ -1,5 +1,0 @@
----
-title: skeptics
-crosslinks:
-- autotldr
----

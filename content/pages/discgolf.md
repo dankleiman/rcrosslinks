@@ -1,7 +1,6 @@
 ---
 title: discgolf
 crosslinks:
-- livven
 - discexchange
 - discdyeing
 - ATLdiscgolf

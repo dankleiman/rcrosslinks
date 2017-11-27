@@ -6,6 +6,4 @@ crosslinks:
 - queerconlangers
 - WTF
 - cormacmccarthy
-- autotldr
-- livven
 ---

@@ -6,7 +6,6 @@ crosslinks:
 - DrugNerds
 - ReagentTesting
 - Borax
-- livven
 - mdmatherapy
 - LSD
 - DNMUK

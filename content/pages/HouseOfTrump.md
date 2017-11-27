@@ -1,5 +1,0 @@
----
-title: HouseOfTrump
-crosslinks:
-- autotldr
----

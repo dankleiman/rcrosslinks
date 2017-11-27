@@ -1,9 +1,7 @@
 ---
 title: milanavayntrub
 crosslinks:
-- livven
 - FuckTammy
-- autotldr
 - shorthairedhotties
 - unexpectedgimli
 - rickandmorty

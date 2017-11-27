@@ -1,9 +1,7 @@
 ---
 title: houston
 crosslinks:
-- autotldr
 - TropicalWeather
-- livven
 - pics
 - news
 - AskReddit

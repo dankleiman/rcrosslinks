@@ -1,5 +1,0 @@
----
-title: asbigasithought
-crosslinks:
-- livven
----

@@ -4,7 +4,6 @@ crosslinks:
 - flatearth
 - theworldisflat
 - space
-- livven
 - OurFlatWorld
 - shitdenierssay
 - TopMindsOfReddit

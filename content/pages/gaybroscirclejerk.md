@@ -3,7 +3,6 @@ title: gaybroscirclejerk
 crosslinks:
 - AskReddit
 - gayyoungold
-- livven
 - steroids
 - gaysian
 - self

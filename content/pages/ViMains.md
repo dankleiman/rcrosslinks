@@ -4,6 +4,5 @@ crosslinks:
 - leagueoflegends
 - summonerschool
 - CamilleMains
-- livven
 - ekkomains
 ---

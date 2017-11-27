@@ -8,7 +8,6 @@ crosslinks:
 - IAmA
 - place
 - lewronggeneration
-- livven
 - codes
 - The_Donald
 - '2013'

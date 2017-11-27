@@ -1,7 +1,6 @@
 ---
 title: HVAC
 crosslinks:
-- livven
 - DIY
 - talesfromthetrades
 - ProHVACR

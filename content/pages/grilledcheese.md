@@ -2,7 +2,6 @@
 title: grilledcheese
 crosslinks:
 - melts
-- livven
 - food
 - ketchuphate
 - xkcd
@@ -14,7 +13,6 @@ crosslinks:
 - FoodPorn
 - FilthyFrank
 - tomatohate
-- autotldr
 - Breadit
 - grilledcheesegonewild
 - onionhate

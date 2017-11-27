@@ -1,5 +1,0 @@
----
-title: launchers
-crosslinks:
-- autotldr
----

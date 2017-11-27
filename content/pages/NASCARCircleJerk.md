@@ -1,5 +1,0 @@
----
-title: NASCARCircleJerk
-crosslinks:
-- livven
----

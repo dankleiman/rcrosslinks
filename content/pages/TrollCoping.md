@@ -1,7 +1,6 @@
 ---
 title: TrollCoping
 crosslinks:
-- livven
 - TooMeIrlForMeIrl
 - BlackPeopleTwitter
 - Drama

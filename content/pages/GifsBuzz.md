@@ -1,5 +1,0 @@
----
-title: GifsBuzz
-crosslinks:
-- livven
----

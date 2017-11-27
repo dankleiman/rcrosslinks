@@ -1,5 +1,0 @@
----
-title: Stilettos
-crosslinks:
-- livven
----

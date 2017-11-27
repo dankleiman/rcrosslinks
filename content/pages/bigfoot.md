@@ -2,7 +2,6 @@
 title: bigfoot
 crosslinks:
 - Missing411
-- autotldr
 - Bigfoot1
 - worldpolitics
 - AskReddit
@@ -16,7 +15,6 @@ crosslinks:
 - pics
 - HomoGiganticus
 - OldSchoolCool
-- livven
 - paragon
 - xkcd
 - Sculpture

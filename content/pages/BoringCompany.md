@@ -2,7 +2,6 @@
 title: BoringCompany
 crosslinks:
 - EnoughMuskSpam
-- autotldr
 - elonmusk
 - teslamotors
 - spacex

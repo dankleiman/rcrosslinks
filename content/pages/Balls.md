@@ -1,7 +1,6 @@
 ---
 title: Balls
 crosslinks:
-- livven
 - penis
 - softies
 - BigBalls

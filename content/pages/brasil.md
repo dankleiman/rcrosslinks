@@ -1,14 +1,12 @@
 ---
 title: brasil
 crosslinks:
-- autotldr
 - xkcd
 - AskReddit
 - AskHistorians
 - IAmA
 - worldnews
 - portugal
-- livven
 - tiodopave
 - The_Donald
 - place

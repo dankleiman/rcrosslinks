@@ -14,7 +14,6 @@ crosslinks:
 - wargames
 - MassiveDarkness
 - sagathegame
-- livven
 - yoyhammer
 - DnDIY
 - XWingTMG

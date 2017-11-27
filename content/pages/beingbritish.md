@@ -1,5 +1,0 @@
----
-title: beingbritish
-crosslinks:
-- autotldr
----

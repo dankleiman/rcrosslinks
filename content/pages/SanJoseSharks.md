@@ -3,7 +3,6 @@ title: SanJoseSharks
 crosslinks:
 - hockey
 - hockeyjerseys
-- livven
 - canucks
 - LazyMan
 - BeauregardTheFloofy

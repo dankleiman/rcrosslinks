@@ -8,7 +8,6 @@ crosslinks:
 - Serendipity
 - OtakuVisualArts
 - greatestgen
-- livven
 - funny
 - trek
 - TrekRP

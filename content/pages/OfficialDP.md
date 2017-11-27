@@ -1,7 +1,6 @@
 ---
 title: OfficialDP
 crosslinks:
-- autotldr
 - drunkenpeasants
 - SargonofAkkad
 - The_Donald
@@ -11,7 +10,6 @@ crosslinks:
 - videos
 - REEEEEEEEEE
 - Anarchism
-- livven
 - LaurenSouthern
 - AMAAggregator
 - watchpeopledie

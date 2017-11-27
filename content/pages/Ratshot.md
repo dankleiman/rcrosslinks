@@ -1,5 +1,0 @@
----
-title: Ratshot
-crosslinks:
-- livven
----

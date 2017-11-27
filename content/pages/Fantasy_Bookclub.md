@@ -4,6 +4,5 @@ crosslinks:
 - KingkillerChronicle
 - Malazan
 - ReadeBookOnline
-- autotldr
 - Fantasy
 ---

@@ -2,7 +2,6 @@
 title: Flipping
 crosslinks:
 - nottheonion
-- autotldr
 - flippingcirclejerk
 - FulfillmentByAmazon
 - ThriftStoreHauls

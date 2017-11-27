@@ -1,5 +1,0 @@
----
-title: alphabet
-crosslinks:
-- autotldr
----

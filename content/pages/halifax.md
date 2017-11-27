@@ -2,7 +2,6 @@
 title: halifax
 crosslinks:
 - NovaScotia
-- autotldr
 - canada
 - CanadianForces
 - OutOfTheLoop
@@ -11,7 +10,6 @@ crosslinks:
 - CanadianMOMs
 - metacanada
 - LifeProTips
-- livven
 - PersonalFinanceCanada
 - vancouver
 - facepalm

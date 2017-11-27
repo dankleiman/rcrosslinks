@@ -6,7 +6,6 @@ crosslinks:
 - dirtgame
 - iRacing
 - pcars
-- livven
 - gaming
 - pcgaming
 - rfactor2

@@ -1,7 +1,6 @@
 ---
 title: imdbvg
 crosslinks:
-- autotldr
 - PS4
 - StarWars
 - Portuguese
@@ -15,7 +14,6 @@ crosslinks:
 - Games
 - Flipping
 - Doom
-- livven
 - saiyanpeopletwitter
 - Random_Acts_Of_Pizza
 - syriancivilwar

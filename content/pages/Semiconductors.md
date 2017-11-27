@@ -1,5 +1,0 @@
----
-title: Semiconductors
-crosslinks:
-- autotldr
----

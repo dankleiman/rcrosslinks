@@ -1,5 +1,0 @@
----
-title: DogHotel
-crosslinks:
-- livven
----

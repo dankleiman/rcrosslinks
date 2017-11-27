@@ -5,7 +5,6 @@ crosslinks:
 - AskReddit
 - The_Donald
 - comedynecromancy
-- livven
 - funny
 - wholesomememes
 - pics

@@ -2,7 +2,6 @@
 title: waltonchain
 crosslinks:
 - CryptoCurrency
-- autotldr
 - ethtrader
 - NEO
 - crypto

@@ -1,5 +1,0 @@
----
-title: ideasforgovt
-crosslinks:
-- autotldr
----

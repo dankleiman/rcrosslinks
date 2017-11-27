@@ -4,7 +4,6 @@ crosslinks:
 - polyamory
 - childfree
 - FemmeThoughts
-- autotldr
 - BPD
 - malefashionadvice
 - AsABlackMan

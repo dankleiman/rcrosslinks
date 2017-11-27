@@ -5,7 +5,6 @@ crosslinks:
 - europe
 - Roadcam
 - shittyTIL
-- autotldr
 - FUCK_United_Airlines
 - BlackFathers
 - shittyaskscience

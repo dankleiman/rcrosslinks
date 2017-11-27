@@ -1,5 +1,0 @@
----
-title: chinesepolitics
-crosslinks:
-- autotldr
----

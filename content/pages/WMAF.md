@@ -5,7 +5,6 @@ crosslinks:
 - EasternSunRising
 - ChanWatch
 - hapas
-- autotldr
 - LuWatch
 - asiantwoX
 - whiteworship

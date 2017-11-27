@@ -1,7 +1,6 @@
 ---
 title: arabs
 crosslinks:
-- autotldr
 - islam
 - worldnews
 - AskHistorians

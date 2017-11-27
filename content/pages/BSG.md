@@ -1,7 +1,6 @@
 ---
 title: BSG
 crosslinks:
-- autotldr
 - OSHA
 - DaystromInstitute
 - AMAAggregator
@@ -9,6 +8,5 @@ crosslinks:
 - BSGDeadlock
 - SciFiModels
 - askscience
-- livven
 - NetflixViaVPN
 ---

@@ -1,8 +1,6 @@
 ---
 title: Cyberpunk
 crosslinks:
-- autotldr
-- livven
 - pics
 - outrun
 - interestingasfuck

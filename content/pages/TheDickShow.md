@@ -3,9 +3,7 @@ title: TheDickShow
 crosslinks:
 - Destiny
 - MadcastMedia
-- livven
 - asterios
-- autotldr
 - The_Donald
 - xkcd
 - Drama

@@ -1,5 +1,0 @@
----
-title: columbuscirclejerk
-crosslinks:
-- autotldr
----

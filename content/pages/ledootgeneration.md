@@ -1,7 +1,6 @@
 ---
 title: ledootgeneration
 crosslinks:
-- livven
 - Ooer
 - THE_PACK
 - SummerReddit

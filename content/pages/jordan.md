@@ -8,6 +8,5 @@ crosslinks:
 - TopMindsOfReddit
 - Ultralight
 - worldnews
-- autotldr
 - ButtSharpies
 ---

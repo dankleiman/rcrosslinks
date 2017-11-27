@@ -1,5 +1,0 @@
----
-title: jihadwatch
-crosslinks:
-- autotldr
----

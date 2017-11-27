@@ -2,7 +2,6 @@
 title: ChiefKeef
 crosslinks:
 - hiphopheads
-- livven
 - MDMA
 - Music
 - DesignerReps

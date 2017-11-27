@@ -6,7 +6,6 @@ crosslinks:
 - weightlifting
 - gzcl
 - nattyorjuice
-- livven
 - Strongman
 - whitepeoplegifs
 - steroids

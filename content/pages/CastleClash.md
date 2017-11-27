@@ -1,7 +1,6 @@
 ---
 title: CastleClash
 crosslinks:
-- livven
 - wayport
 - GraftersCC
 - SwordsOfWar

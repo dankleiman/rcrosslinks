@@ -1,7 +1,6 @@
 ---
 title: SovietWomble
 crosslinks:
-- livven
 - AskReddit
 - FindAUnit
 - WTF

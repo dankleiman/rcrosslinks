@@ -1,7 +1,6 @@
 ---
 title: SubredditSimulator_SS
 crosslinks:
-- livven
 - The_Donald
 - nottheonion
 - circlejerk

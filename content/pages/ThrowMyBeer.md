@@ -1,5 +1,0 @@
----
-title: ThrowMyBeer
-crosslinks:
-- livven
----

@@ -1,5 +1,0 @@
----
-title: AllArchitecture
-crosslinks:
-- autotldr
----

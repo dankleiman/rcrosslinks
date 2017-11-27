@@ -4,5 +4,4 @@ crosslinks:
 - arielwinter
 - makeafake
 - picrequests
-- livven
 ---

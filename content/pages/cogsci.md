@@ -1,7 +1,6 @@
 ---
 title: cogsci
 crosslinks:
-- autotldr
 - law
 - worldpolitics
 - AskAnthropology

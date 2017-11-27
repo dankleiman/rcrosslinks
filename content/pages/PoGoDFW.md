@@ -9,6 +9,5 @@ crosslinks:
 - PokemonGoSpoofing
 - PokemongoAustin
 - pokemongomiami
-- livven
 - pokemongo
 ---

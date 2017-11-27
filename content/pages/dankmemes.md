@@ -2,7 +2,6 @@
 title: dankmemes
 crosslinks:
 - xkcd
-- livven
 - MemeEconomy
 - me_irl
 - funny

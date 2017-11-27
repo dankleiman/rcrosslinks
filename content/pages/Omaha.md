@@ -1,7 +1,6 @@
 ---
 title: Omaha
 crosslinks:
-- autotldr
 - changemyview
 - gifs
 - iamverysmart
@@ -15,6 +14,5 @@ crosslinks:
 - podcasts
 - GamingOmaha
 - technology
-- livven
 - WTF
 ---

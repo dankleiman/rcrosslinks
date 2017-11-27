@@ -1,7 +1,6 @@
 ---
 title: Chihuahua
 crosslinks:
-- livven
 - gifs
 - Assistance
 - aww

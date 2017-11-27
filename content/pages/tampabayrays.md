@@ -2,7 +2,6 @@
 title: tampabayrays
 crosslinks:
 - place
-- livven
 - '2013'
 - NYYankees
 - yankees

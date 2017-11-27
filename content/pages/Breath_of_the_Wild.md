@@ -2,7 +2,6 @@
 title: Breath_of_the_Wild
 crosslinks:
 - zelda
-- livven
 - NintendoSwitch
 - truezelda
 - zelfies

@@ -7,6 +7,5 @@ crosslinks:
 - deeplearning
 - Bitcoin
 - hwstartups
-- autotldr
 - internetofshit
 ---

@@ -7,7 +7,6 @@ crosslinks:
 - StarWars
 - SPACEVAMPIRES
 - jarjarism
-- livven
 - pokemonconspiracies
 - Blind
 - announcements

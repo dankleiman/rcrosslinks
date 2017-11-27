@@ -2,7 +2,6 @@
 title: HillaryMeltdown
 crosslinks:
 - The_Donald
-- autotldr
 - politics
 - AskReddit
 - all
@@ -13,7 +12,6 @@ crosslinks:
 - metacanada
 - SargonofAkkad
 - REEEEEEEEEE
-- livven
 - enoughtrumpspam
 - gatekeeping
 - killthosewhodisagree

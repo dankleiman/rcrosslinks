@@ -1,7 +1,6 @@
 ---
 title: PrivateInternetAccess
 crosslinks:
-- autotldr
 - privateinternet
 - VPN
 - technology

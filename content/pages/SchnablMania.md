@@ -1,5 +1,0 @@
----
-title: SchnablMania
-crosslinks:
-- livven
----

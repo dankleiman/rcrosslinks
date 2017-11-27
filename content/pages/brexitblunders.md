@@ -1,5 +1,0 @@
----
-title: brexitblunders
-crosslinks:
-- autotldr
----

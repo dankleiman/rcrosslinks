@@ -4,7 +4,6 @@ crosslinks:
 - learnart
 - Art
 - drawme
-- livven
 - lifehacks
 - asmr
 - writing

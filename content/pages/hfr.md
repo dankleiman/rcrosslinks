@@ -5,5 +5,4 @@ crosslinks:
 - Monitors
 - Vive
 - hardware
-- autotldr
 ---

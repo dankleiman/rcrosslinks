@@ -1,10 +1,8 @@
 ---
 title: howardstern
 crosslinks:
-- livven
 - opieandanthony
 - conspiracy
-- autotldr
 - Drama
 - The_Donald
 - artiequitter

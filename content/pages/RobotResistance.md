@@ -1,5 +1,0 @@
----
-title: RobotResistance
-crosslinks:
-- autotldr
----

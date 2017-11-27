@@ -1,7 +1,6 @@
 ---
 title: hitmanimals
 crosslinks:
-- livven
 - gifs
 - CatSlaps
 - aww

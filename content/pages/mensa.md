@@ -5,6 +5,5 @@ crosslinks:
 - dril
 - announcements
 - iamverysmart
-- autotldr
 - INTP
 ---

@@ -1,5 +1,0 @@
----
-title: labelednews
-crosslinks:
-- autotldr
----

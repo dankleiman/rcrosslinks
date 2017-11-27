@@ -3,7 +3,6 @@ title: Leeds
 crosslinks:
 - xkcd
 - unitedkingdom
-- autotldr
 - TranslationStudies
 - OutOfTheLoop
 - SLRep
@@ -11,7 +10,6 @@ crosslinks:
 - shittykickstarters
 - AskUK
 - york
-- livven
 - analog
 - hmm
 - LoudBangsInLeeds

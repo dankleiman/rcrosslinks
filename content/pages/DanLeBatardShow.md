@@ -1,9 +1,7 @@
 ---
 title: DanLeBatardShow
 crosslinks:
-- livven
 - nfl
-- autotldr
 - funny
 - starterpacks
 - freefolk

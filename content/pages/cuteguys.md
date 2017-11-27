@@ -1,5 +1,0 @@
----
-title: cuteguys
-crosslinks:
-- livven
----

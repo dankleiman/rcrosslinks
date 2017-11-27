@@ -1,7 +1,6 @@
 ---
 title: islam
 crosslinks:
-- autotldr
 - exmuslim
 - news
 - worldnews

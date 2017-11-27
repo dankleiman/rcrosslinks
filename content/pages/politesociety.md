@@ -1,5 +1,0 @@
----
-title: politesociety
-crosslinks:
-- autotldr
----

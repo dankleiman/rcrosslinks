@@ -1,5 +1,0 @@
----
-title: AnythingGoesPolitics
-crosslinks:
-- autotldr
----

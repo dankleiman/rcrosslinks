@@ -1,7 +1,6 @@
 ---
 title: berkeley
 crosslinks:
-- autotldr
 - EnoughTrumpSpam
 - The_Donald
 - ShitRedditSays

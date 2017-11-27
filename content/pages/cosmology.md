@@ -1,7 +1,6 @@
 ---
 title: cosmology
 crosslinks:
-- autotldr
 - PhilosophyofScience
 - askscience
 - SpaceTime_Relativity

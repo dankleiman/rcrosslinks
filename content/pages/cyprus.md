@@ -2,7 +2,6 @@
 title: cyprus
 crosslinks:
 - greece
-- autotldr
 - europe
 - WorldDailyTops
 - islam

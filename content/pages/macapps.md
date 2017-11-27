@@ -3,7 +3,6 @@ title: macapps
 crosslinks:
 - privacy
 - BlogsAndThinkpieces
-- autotldr
 - Serendipity
 - Jazz
 - Chromecast

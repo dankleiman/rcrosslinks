@@ -14,7 +14,6 @@ crosslinks:
 - politics
 - pics
 - sadcringe
-- autotldr
 - HailCorporate
 - lewronggeneration
 - shitpost

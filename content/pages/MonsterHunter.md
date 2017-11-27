@@ -5,7 +5,6 @@ crosslinks:
 - monsterhunterrage
 - 3dshacks
 - NintendoSwitch
-- livven
 - placestart
 - MHF
 - MH34u

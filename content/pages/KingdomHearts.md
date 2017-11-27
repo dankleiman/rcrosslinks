@@ -1,7 +1,6 @@
 ---
 title: KingdomHearts
 crosslinks:
-- livven
 - KHUx
 - dfj3xxx
 - gaming

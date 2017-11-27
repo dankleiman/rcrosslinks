@@ -4,7 +4,6 @@ crosslinks:
 - supremeclothing
 - streetwear
 - FashionReps
-- livven
 - ThatPeelingFeeling
 - streetweardiscussion
 - Supreme

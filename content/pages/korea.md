@@ -1,7 +1,6 @@
 ---
 title: korea
 crosslinks:
-- autotldr
 - hapas
 - worldnews
 - Korean

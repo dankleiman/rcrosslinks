@@ -8,6 +8,5 @@ crosslinks:
 - toronto
 - ShatterDeals
 - macrogrowery
-- autotldr
 - Waxpen
 ---

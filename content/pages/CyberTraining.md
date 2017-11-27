@@ -1,5 +1,0 @@
----
-title: CyberTraining
-crosslinks:
-- autotldr
----

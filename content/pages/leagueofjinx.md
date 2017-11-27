@@ -4,5 +4,4 @@ crosslinks:
 - leagueoflegends
 - TwitchMains
 - summonerschool
-- livven
 ---

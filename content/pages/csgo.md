@@ -1,7 +1,6 @@
 ---
 title: csgo
 crosslinks:
-- livven
 - RecruitCS
 - Steam
 - me_irl

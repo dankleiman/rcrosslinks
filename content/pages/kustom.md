@@ -4,7 +4,6 @@ crosslinks:
 - androidthemes
 - tasker
 - earthporn
-- livven
 - popular
 - spaceporn
 - AnimalCrossing

@@ -1,5 +1,0 @@
----
-title: Tribbing
-crosslinks:
-- livven
----

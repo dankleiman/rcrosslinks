@@ -2,14 +2,12 @@
 title: 3Dprinting
 crosslinks:
 - functionalprint
-- livven
 - MPSelectMiniOwners
 - FixMyPrint
 - Reprap
 - voroncorexy
 - PrintedMinis
 - xkcd
-- autotldr
 - reprapPIF
 - minipainting
 - 3Dprintmything

@@ -1,5 +1,0 @@
----
-title: BibiFox
-crosslinks:
-- livven
----

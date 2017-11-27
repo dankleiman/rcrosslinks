@@ -1,5 +1,0 @@
----
-title: EuroDebate
-crosslinks:
-- autotldr
----

@@ -1,7 +1,6 @@
 ---
 title: GirlsMirin
 crosslinks:
-- livven
 - pmstealyogirl
 - 4chan
 - gifs

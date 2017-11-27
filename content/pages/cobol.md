@@ -1,5 +1,0 @@
----
-title: cobol
-crosslinks:
-- autotldr
----

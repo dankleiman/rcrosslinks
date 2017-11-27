@@ -4,5 +4,4 @@ crosslinks:
 - wetalkgames
 - crtgaming
 - FPS
-- livven
 ---

@@ -1,7 +1,6 @@
 ---
 title: BSD
 crosslinks:
-- autotldr
 - all
 - thinkpad
 - NetBSD

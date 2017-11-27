@@ -1,7 +1,6 @@
 ---
 title: wholesomegifs
 crosslinks:
-- livven
 - gifs
 - videos
 - funny

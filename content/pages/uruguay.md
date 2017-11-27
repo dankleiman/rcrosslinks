@@ -5,7 +5,6 @@ crosslinks:
 - WorldDailyTops
 - AskReddit
 - MapPorn
-- livven
 - notArgentina
 - BrasilOnReddit
 - vexillology
@@ -20,5 +19,4 @@ crosslinks:
 - place
 - redditores
 - todayilearned
-- autotldr
 ---

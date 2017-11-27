@@ -3,8 +3,6 @@ title: TheDarkTower
 crosslinks:
 - movies
 - stephenking
-- autotldr
-- livven
 - DestinyTheGame
 - darktower
 - glassheads

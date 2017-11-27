@@ -4,7 +4,6 @@ crosslinks:
 - CFB
 - place
 - UNL
-- livven
 - sooners
 - TheSimpsons
 - ducks

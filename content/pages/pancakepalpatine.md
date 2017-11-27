@@ -1,5 +1,0 @@
----
-title: pancakepalpatine
-crosslinks:
-- autotldr
----

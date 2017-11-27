@@ -1,10 +1,8 @@
 ---
 title: robotics
 crosslinks:
-- autotldr
 - arduino
 - FTC
-- livven
 - FRC
 - xkcd
 - AskElectronics

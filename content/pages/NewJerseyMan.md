@@ -1,5 +1,0 @@
----
-title: NewJerseyMan
-crosslinks:
-- autotldr
----

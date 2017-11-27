@@ -1,7 +1,6 @@
 ---
 title: meme
 crosslinks:
-- livven
 - memes
 - The_Donald
 - Serendipity

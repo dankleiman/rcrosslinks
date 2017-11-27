@@ -1,7 +1,6 @@
 ---
 title: RenewableEnergy
 crosslinks:
-- autotldr
 - energy
 - aftertheflood
 - worldnews

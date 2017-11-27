@@ -10,7 +10,6 @@ crosslinks:
 - t
 - longhair
 - Seahawks
-- autotldr
 - MakeupSelfies
 - tressless
 - malehairadvice

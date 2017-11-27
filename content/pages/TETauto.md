@@ -1,5 +1,0 @@
----
-title: TETauto
-crosslinks:
-- autotldr
----

@@ -9,7 +9,6 @@ crosslinks:
 - TwoXChromosomes
 - patientgamers
 - pcmasterrace
-- autotldr
 - me_irl
 - ClashRoyale
 - IAmA

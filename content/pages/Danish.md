@@ -1,5 +1,0 @@
----
-title: Danish
-crosslinks:
-- autotldr
----

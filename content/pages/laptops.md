@@ -18,7 +18,6 @@ crosslinks:
 - Surface
 - Amd
 - MSILaptops
-- autotldr
 - eGPU
 - chromeos
 ---

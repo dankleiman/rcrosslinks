@@ -4,7 +4,6 @@ crosslinks:
 - AskReddit
 - TrollXFunny
 - childfree
-- autotldr
 - funny
 - '2013'
 - TwoXChromosomes

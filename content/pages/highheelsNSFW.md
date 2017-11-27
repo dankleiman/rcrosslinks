@@ -9,7 +9,6 @@ crosslinks:
 - sharizel
 - SpankSafe
 - PlayMe
-- livven
 - RayleneX
 - MelisaMendiny
 - nicoleneal

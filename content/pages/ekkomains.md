@@ -2,7 +2,6 @@
 title: ekkomains
 crosslinks:
 - leagueoflegends
-- livven
 - summonerschool
 - AhriMains
 - akalimains

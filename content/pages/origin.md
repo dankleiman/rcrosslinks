@@ -4,6 +4,5 @@ crosslinks:
 - masseffect
 - techsupport
 - patientgamers
-- livven
 - softwaregore
 ---

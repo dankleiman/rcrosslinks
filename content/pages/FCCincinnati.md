@@ -4,7 +4,6 @@ crosslinks:
 - MLS
 - USLPRO
 - cincinnati
-- livven
 - LouisvilleCityFC
 - USOC_PickEm
 - TheMassive
@@ -14,6 +13,5 @@ crosslinks:
 - sports
 - rickandmorty
 - AskReddit
-- autotldr
 - soccer
 ---

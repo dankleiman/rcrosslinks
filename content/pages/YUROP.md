@@ -2,8 +2,6 @@
 title: YUROP
 crosslinks:
 - alleu
-- autotldr
-- livven
 - europe
 - vexillology
 - worldpoliticalhumour

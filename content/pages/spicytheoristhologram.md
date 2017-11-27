@@ -1,5 +1,0 @@
----
-title: spicytheoristhologram
-crosslinks:
-- livven
----

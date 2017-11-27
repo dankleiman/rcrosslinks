@@ -1,7 +1,6 @@
 ---
 title: Idaho
 crosslinks:
-- autotldr
 - Boise
 - DeepGreenResistance
 - camping

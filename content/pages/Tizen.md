@@ -1,5 +1,0 @@
----
-title: Tizen
-crosslinks:
-- autotldr
----

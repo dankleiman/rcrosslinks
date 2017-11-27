@@ -1,7 +1,6 @@
 ---
 title: Our_Politics
 crosslinks:
-- autotldr
 - WayOfTheBern
 - Conservative
 - pics

@@ -1,7 +1,6 @@
 ---
 title: APStudents
 crosslinks:
-- livven
 - APUSH
 - ApplyingToCollege
 - RateMySchedule

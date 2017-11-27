@@ -9,7 +9,6 @@ crosslinks:
 - nothingeverhappens
 - iamverysmart
 - EnoughTrumpSpam
-- autotldr
 - OutOfTheLoop
 - MemeYourEnthusiasm
 - todayilearned

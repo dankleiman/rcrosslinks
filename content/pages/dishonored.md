@@ -1,7 +1,6 @@
 ---
 title: dishonored
 crosslinks:
-- livven
 - disnonored
 - dishonoredlore
 - xkcd

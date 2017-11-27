@@ -3,7 +3,6 @@ title: realmadrid
 crosslinks:
 - soccer
 - Barca
-- livven
 - BrasilOnReddit
 - soccerstreams
 - soccercirclejerk

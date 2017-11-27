@@ -1,5 +1,0 @@
----
-title: independentnews
-crosslinks:
-- autotldr
----

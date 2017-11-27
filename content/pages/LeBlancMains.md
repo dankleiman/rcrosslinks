@@ -7,7 +7,6 @@ crosslinks:
 - CamilleMains
 - TaliyahMains
 - YasuoMains
-- livven
 - ekkomains
 - Syndra
 - KoreanAdvice

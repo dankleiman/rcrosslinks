@@ -1,5 +1,0 @@
----
-title: PositiveTrumpNews
-crosslinks:
-- autotldr
----

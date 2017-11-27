@@ -1,7 +1,6 @@
 ---
 title: perfectloops
 crosslinks:
-- livven
 - gifs
 - Cinemagraphs
 - almostperfectloops

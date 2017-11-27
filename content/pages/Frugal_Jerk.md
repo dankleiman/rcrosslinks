@@ -1,7 +1,6 @@
 ---
 title: Frugal_Jerk
 crosslinks:
-- livven
 - Frugal
 - AskReddit
 - PFJerk

@@ -2,7 +2,6 @@
 title: OreGairuSNAFU
 crosslinks:
 - anime
-- livven
 - Pixiv
 - highqualitygifs
 - user

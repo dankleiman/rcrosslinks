@@ -1,7 +1,6 @@
 ---
 title: cinematography
 crosslinks:
-- livven
 - videography
 - Filmmakers
 - me_irl

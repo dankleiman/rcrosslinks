@@ -8,6 +8,5 @@ crosslinks:
 - MapPorn
 - ElectorsOfJeff
 - OutOfTheLoop
-- livven
 - PlantedTank
 ---

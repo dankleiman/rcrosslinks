@@ -1,10 +1,8 @@
 ---
 title: Accounting
 crosslinks:
-- livven
 - accountinghumor
 - accunting
-- autotldr
 - consulting
 - excel
 - AMAAggregator

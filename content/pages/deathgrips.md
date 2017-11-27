@@ -1,7 +1,6 @@
 ---
 title: deathgrips
 crosslinks:
-- livven
 - AskOuija
 - hiphopheads
 - streetwear

@@ -1,5 +1,0 @@
----
-title: furryjerk
-crosslinks:
-- livven
----

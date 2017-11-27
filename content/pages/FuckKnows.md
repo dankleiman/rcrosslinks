@@ -1,5 +1,0 @@
----
-title: FuckKnows
-crosslinks:
-- livven
----

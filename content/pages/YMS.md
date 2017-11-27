@@ -14,7 +14,6 @@ crosslinks:
 - arrow
 - TwoBestFriendsPlay
 - AskReddit
-- autotldr
 - westworld
 - Meme_Graveyard
 - changemyview

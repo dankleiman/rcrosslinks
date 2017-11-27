@@ -1,5 +1,0 @@
----
-title: realityprocessing
-crosslinks:
-- autotldr
----

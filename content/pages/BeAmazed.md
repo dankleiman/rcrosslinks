@@ -1,7 +1,6 @@
 ---
 title: BeAmazed
 crosslinks:
-- livven
 - gifs
 - pics
 - woahdude

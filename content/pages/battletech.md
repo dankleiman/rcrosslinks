@@ -5,7 +5,6 @@ crosslinks:
 - BattleTechDesigns
 - mechwarrior
 - Warhammer40k
-- livven
 - MWLL
 - aww
 - NatureIsFuckingLit

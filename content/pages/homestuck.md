@@ -1,14 +1,12 @@
 ---
 title: homestuck
 crosslinks:
-- livven
 - india
 - xkcd
 - Homesmut
 - stevenuniverse
 - AlternateMewniverse
 - place
-- autotldr
 - homestuckyuri
 - gaming
 - Hiveswap

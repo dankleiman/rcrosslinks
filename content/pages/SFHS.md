@@ -1,5 +1,0 @@
----
-title: SFHS
-crosslinks:
-- livven
----

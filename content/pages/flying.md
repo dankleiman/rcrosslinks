@@ -3,9 +3,7 @@ title: flying
 crosslinks:
 - Shittyaskflying
 - aviation
-- autotldr
 - xkcd
-- livven
 - AskReddit
 - medicalschool
 - stratux

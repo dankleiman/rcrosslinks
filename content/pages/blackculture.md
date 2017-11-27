@@ -1,5 +1,0 @@
----
-title: blackculture
-crosslinks:
-- autotldr
----

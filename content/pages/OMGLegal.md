@@ -1,5 +1,0 @@
----
-title: OMGLegal
-crosslinks:
-- autotldr
----

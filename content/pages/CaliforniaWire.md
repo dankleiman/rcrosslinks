@@ -1,5 +1,0 @@
----
-title: CaliforniaWire
-crosslinks:
-- autotldr
----

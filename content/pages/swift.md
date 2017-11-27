@@ -10,7 +10,6 @@ crosslinks:
 - cs50
 - security
 - elixir
-- autotldr
 - news
 - iamverysmart
 - androiddev

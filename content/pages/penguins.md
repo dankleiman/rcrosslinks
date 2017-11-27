@@ -2,7 +2,6 @@
 title: penguins
 crosslinks:
 - hockey
-- livven
 - NHLStreams
 - hockeyjerseys
 - puckstreams

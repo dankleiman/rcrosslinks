@@ -1,7 +1,6 @@
 ---
 title: DCcomics
 crosslinks:
-- autotldr
 - comicreadingorders
 - theflash
 - DC_Cinematic
@@ -13,7 +12,6 @@ crosslinks:
 - FlashTV
 - Deathstroke
 - WonderWoman
-- livven
 - BookofOA
 - IAmA
 - Gamingcirclejerk

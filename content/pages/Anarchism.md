@@ -1,7 +1,6 @@
 ---
 title: Anarchism
 crosslinks:
-- autotldr
 - Drama
 - socialism
 - The_Donald

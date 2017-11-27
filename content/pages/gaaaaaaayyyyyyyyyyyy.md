@@ -1,7 +1,6 @@
 ---
 title: gaaaaaaayyyyyyyyyyyy
 crosslinks:
-- livven
 - furry_irl
 - notgayporn
 - GayWincest

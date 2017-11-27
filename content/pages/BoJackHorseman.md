@@ -3,7 +3,6 @@ title: BoJackHorseman
 crosslinks:
 - furry_irl
 - AskReddit
-- autotldr
 - rickandmorty
 - TVDetails
 - television

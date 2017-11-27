@@ -1,7 +1,6 @@
 ---
 title: cryptography
 crosslinks:
-- autotldr
 - crypto
 - cicada
 - morse

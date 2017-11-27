@@ -1,7 +1,6 @@
 ---
 title: IASIP
 crosslinks:
-- autotldr
 - funny
 - The_Dennis
 - AskReddit

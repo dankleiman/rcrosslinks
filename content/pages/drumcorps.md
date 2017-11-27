@@ -2,7 +2,6 @@
 title: drumcorps
 crosslinks:
 - drumcorpscirclejerk
-- livven
 - xkcd
 - me_irl
 - Damnthatsinteresting

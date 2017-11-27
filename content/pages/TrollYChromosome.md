@@ -1,7 +1,6 @@
 ---
 title: TrollYChromosome
 crosslinks:
-- livven
 - TrollXChromosomes
 - short
 - funny

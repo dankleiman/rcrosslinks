@@ -3,7 +3,6 @@ title: wgtow
 crosslinks:
 - MGTOW
 - Drama
-- autotldr
 - asamale
 - ShitPoliticsSays
 - confession

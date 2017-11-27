@@ -2,8 +2,6 @@
 title: psychicpebbles
 crosslinks:
 - JonTron
-- autotldr
-- livven
 - GradeAUnderA
 - OutOfTheLoop
 - kachow

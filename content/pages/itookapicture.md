@@ -11,7 +11,6 @@ crosslinks:
 - AccidentalRenaissance
 - HailCorporate
 - analog
-- livven
 - OldSchoolCool
 - IrelandonReddit
 - worldnews

@@ -6,7 +6,6 @@ crosslinks:
 - LiverpoolFC
 - Barca
 - chelseafc
-- livven
 - coys
 - soccerstreams
 - MCFC

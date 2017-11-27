@@ -2,7 +2,6 @@
 title: trashpandas
 crosslinks:
 - aww
-- livven
 - funny
 - cars
 - pics

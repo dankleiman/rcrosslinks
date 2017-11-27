@@ -6,5 +6,4 @@ crosslinks:
 - 3Dprinting
 - learnpython
 - TwoXChromosomes
-- autotldr
 ---

@@ -4,7 +4,6 @@ crosslinks:
 - graffhelp
 - Graffiti
 - calligraffiti
-- livven
 - typography
 - darksouls
 ---

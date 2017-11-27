@@ -1,10 +1,8 @@
 ---
 title: pebble
 crosslinks:
-- autotldr
 - smartwatch
 - AppleWatch
-- livven
 - AndroidWear
 - place
 - Xiaomi

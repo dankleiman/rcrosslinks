@@ -1,7 +1,6 @@
 ---
 title: aoe2
 crosslinks:
-- livven
 - place
 - aoe
 - aoe4

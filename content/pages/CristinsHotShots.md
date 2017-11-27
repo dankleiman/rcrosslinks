@@ -1,5 +1,0 @@
----
-title: CristinsHotShots
-crosslinks:
-- livven
----

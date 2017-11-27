@@ -9,7 +9,6 @@ crosslinks:
 - worldnews
 - TorontoAnarchy
 - ontario
-- livven
 - toronto
 - ottawa
 - ShitRedditSays

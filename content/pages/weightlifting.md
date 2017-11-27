@@ -8,7 +8,6 @@ crosslinks:
 - Fitness
 - o
 - worldnews
-- livven
 - metric_units
 - videos
 - malefashionadvice

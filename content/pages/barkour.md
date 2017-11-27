@@ -1,7 +1,6 @@
 ---
 title: barkour
 crosslinks:
-- livven
 - oddlysatisfying
 - NatureIsFuckingLit
 - restofthefuckingowl

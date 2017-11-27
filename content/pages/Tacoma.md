@@ -10,7 +10,6 @@ crosslinks:
 - makinghiphop
 - SeattleWA
 - news
-- livven
 - personalfinance
 - CompTIA
 - gatekeeping

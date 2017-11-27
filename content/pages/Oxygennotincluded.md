@@ -1,7 +1,6 @@
 ---
 title: Oxygennotincluded
 crosslinks:
-- livven
 - StarshipTheory
 - RimWorld
 - WTF

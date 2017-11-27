@@ -1,7 +1,6 @@
 ---
 title: PandR
 crosslinks:
-- livven
 - pics
 - WhyICorrectBryanPCox
 - AMAAggregator

@@ -6,7 +6,6 @@ crosslinks:
 - delusionalcraigslist
 - Nissan
 - Shitty_Car_Mods
-- livven
 - Honda
 - muddytoclean
 - Iowa

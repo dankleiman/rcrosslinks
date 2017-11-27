@@ -1,12 +1,10 @@
 ---
 title: Hawaii
 crosslinks:
-- autotldr
 - Honolulu
 - Oahu
 - HawaiiGardening
 - HawaiiVisitors
-- livven
 - xkcd
 - worldpolitics
 - worldnews

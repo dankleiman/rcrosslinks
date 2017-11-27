@@ -1,7 +1,6 @@
 ---
 title: redditsync
 crosslinks:
-- livven
 - askreddit
 - funny
 - announcements

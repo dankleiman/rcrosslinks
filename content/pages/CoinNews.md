@@ -1,5 +1,0 @@
----
-title: CoinNews
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: democraticsocialists
-crosslinks:
-- autotldr
----

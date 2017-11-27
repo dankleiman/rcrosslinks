@@ -1,5 +1,0 @@
----
-title: TrumpHate
-crosslinks:
-- livven
----

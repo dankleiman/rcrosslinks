@@ -12,7 +12,6 @@ crosslinks:
 - ledootgeneration
 - forgottengold
 - nocontext
-- livven
 - PrequelMemes
 - iamverysmart
 - KarmaCourt

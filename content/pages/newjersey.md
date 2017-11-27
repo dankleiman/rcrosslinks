@@ -1,10 +1,8 @@
 ---
 title: newjersey
 crosslinks:
-- autotldr
 - NewBrunswickNJ
 - nyc
-- livven
 - SethKaperDale
 - zeropointmodule
 - xkcd

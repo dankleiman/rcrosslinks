@@ -6,7 +6,6 @@ crosslinks:
 - Outlier
 - BuyItForLife
 - HerOneBag
-- autotldr
 - OutlierMarket
 - naut
 ---

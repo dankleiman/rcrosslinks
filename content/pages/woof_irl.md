@@ -1,7 +1,6 @@
 ---
 title: woof_irl
 crosslinks:
-- livven
 - i_irl
 - rarepuppers
 - aww

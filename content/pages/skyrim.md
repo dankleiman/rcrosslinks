@@ -2,7 +2,6 @@
 title: skyrim
 crosslinks:
 - skyrimmods
-- livven
 - teslore
 - Gamingcirclejerk
 - SkyrimPorn

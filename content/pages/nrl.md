@@ -8,7 +8,6 @@ crosslinks:
 - ARL
 - DarryB
 - AskReddit
-- livven
 - '2013'
 - GoldCoastTitans
 - straya

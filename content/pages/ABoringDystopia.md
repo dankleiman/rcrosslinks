@@ -1,7 +1,6 @@
 ---
 title: ABoringDystopia
 crosslinks:
-- autotldr
 - LateStageCapitalism
 - mildlyinteresting
 - news
@@ -13,7 +12,6 @@ crosslinks:
 - sports
 - FULLCOMMUNISM
 - MovieDetails
-- livven
 - linuxmint
 - theinternetofshit
 - Windows10Sucks

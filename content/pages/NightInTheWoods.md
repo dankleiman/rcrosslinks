@@ -1,7 +1,6 @@
 ---
 title: NightInTheWoods
 crosslinks:
-- livven
 - furry
 - Games
 - AskLEO

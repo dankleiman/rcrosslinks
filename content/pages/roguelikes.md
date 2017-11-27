@@ -15,7 +15,6 @@ crosslinks:
 - RimWorld
 - SilRL
 - isleward
-- livven
 - SonsOfTheVoid
 - ASCII_porn
 - nethack

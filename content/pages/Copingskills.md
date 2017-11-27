@@ -1,5 +1,0 @@
----
-title: Copingskills
-crosslinks:
-- livven
----

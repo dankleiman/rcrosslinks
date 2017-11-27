@@ -1,7 +1,6 @@
 ---
 title: demsocialist
 crosslinks:
-- autotldr
 - ChapoTrapHouse
 - POLITIC
 - Suomi

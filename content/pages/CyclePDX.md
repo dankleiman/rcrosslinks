@@ -1,5 +1,0 @@
----
-title: CyclePDX
-crosslinks:
-- livven
----

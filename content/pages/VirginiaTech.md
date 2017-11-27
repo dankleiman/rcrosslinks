@@ -1,7 +1,6 @@
 ---
 title: VirginiaTech
 crosslinks:
-- livven
 - politics
 - xkcd
 - fakeid

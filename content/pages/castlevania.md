@@ -5,7 +5,5 @@ crosslinks:
 - gamingnostalgia
 - Bloodstained
 - Berserk
-- livven
-- autotldr
 - ComedyCemetery
 ---

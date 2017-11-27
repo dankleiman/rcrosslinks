@@ -1,7 +1,6 @@
 ---
 title: killingfloor
 crosslinks:
-- livven
 - oculus
 - GameDeals
 - Amd

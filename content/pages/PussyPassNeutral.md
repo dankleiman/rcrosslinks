@@ -5,7 +5,6 @@ crosslinks:
 - AskReddit
 - Donald
 - southafrica
-- autotldr
 - pussypassdenied
 - KarmaCourt
 - MensRights

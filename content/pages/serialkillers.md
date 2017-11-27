@@ -2,7 +2,6 @@
 title: serialkillers
 crosslinks:
 - UnresolvedMysteries
-- autotldr
 - CrimeScene
 - EARONS
 - LPOTL

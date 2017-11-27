@@ -1,5 +1,0 @@
----
-title: VoxelArt
-crosslinks:
-- livven
----

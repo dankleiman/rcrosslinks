@@ -1,8 +1,6 @@
 ---
 title: PKA
 crosslinks:
-- livven
-- autotldr
 - SexyKyle
 - LivestreamFail
 - sarah_xxx

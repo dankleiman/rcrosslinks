@@ -1,5 +1,0 @@
----
-title: simplydogs
-crosslinks:
-- livven
----

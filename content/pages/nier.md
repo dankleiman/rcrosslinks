@@ -2,7 +2,6 @@
 title: nier
 crosslinks:
 - Pixiv
-- livven
 - 2Booty
 - nierautomataconcert
 - 2Bx9S

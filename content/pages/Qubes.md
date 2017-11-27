@@ -9,5 +9,4 @@ crosslinks:
 - NetflixViaVPN
 - linux_gaming
 - ledgerwallet
-- autotldr
 ---

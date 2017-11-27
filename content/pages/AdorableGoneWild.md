@@ -1,5 +1,0 @@
----
-title: AdorableGoneWild
-crosslinks:
-- livven
----

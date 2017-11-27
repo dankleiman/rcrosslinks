@@ -7,7 +7,6 @@ crosslinks:
 - stocking_paradise
 - BeautyQueens
 - lingerie
-- livven
 - ThatPerfectAss
 - nsfw
 - Sierra_Skye

@@ -6,7 +6,6 @@ crosslinks:
 - AskReddit
 - mildlyinfuriating
 - DollarTree
-- autotldr
 - ImagesOfTexas
 - StandUpComedy
 - gameofthrones

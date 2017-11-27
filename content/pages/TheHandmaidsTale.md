@@ -2,7 +2,6 @@
 title: TheHandmaidsTale
 crosslinks:
 - HandmaidsTale_Show
-- autotldr
 - IAmA
 - Tiki
 - changemyview

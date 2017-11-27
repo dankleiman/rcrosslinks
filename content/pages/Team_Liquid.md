@@ -6,7 +6,6 @@ crosslinks:
 - LoLeventVoDs
 - CLG
 - TeamSolomid
-- livven
 - fifteefiftee
 - summonerschool
 - VideoEditing

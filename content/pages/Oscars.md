@@ -9,7 +9,6 @@ crosslinks:
 - pics
 - movies
 - TheOscarsTroll2017
-- livven
 - thedonald
 - moviescirclejerk
 - AliensAmongUs

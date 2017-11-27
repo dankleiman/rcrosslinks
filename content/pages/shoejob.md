@@ -1,5 +1,0 @@
----
-title: shoejob
-crosslinks:
-- livven
----

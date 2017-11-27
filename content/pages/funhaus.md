@@ -1,12 +1,10 @@
 ---
 title: funhaus
 crosslinks:
-- livven
 - roosterteeth
 - CowChop
 - videos
 - place
-- autotldr
 - OutOfTheLoop
 - fithaus
 - Watches

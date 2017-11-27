@@ -1,5 +1,0 @@
----
-title: MarketAnarchism
-crosslinks:
-- autotldr
----

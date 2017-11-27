@@ -2,13 +2,11 @@
 title: arrow
 crosslinks:
 - FlashTV
-- livven
 - CWArrow
 - OneTrueDiggle
 - supergirlTV
 - LegendsOfTomorrow
 - OnBenchNow
-- autotldr
 - FlarrowPorn
 - shield
 - PrequelMemes

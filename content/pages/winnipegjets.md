@@ -5,7 +5,6 @@ crosslinks:
 - leafs
 - NHL_Stats
 - CutCBC
-- livven
 - LAINE
 - NHLStreams
 - en2

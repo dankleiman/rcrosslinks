@@ -4,7 +4,6 @@ crosslinks:
 - nukedmemes
 - DeepFriedMemes
 - Ooer
-- livven
 - PrequelMemes
 - Sheldor
 - UnexpectedDeathNote

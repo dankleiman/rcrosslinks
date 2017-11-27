@@ -5,7 +5,6 @@ crosslinks:
 - Fallout
 - Gamingcirclejerk
 - ManyATrueNerd
-- livven
 - guns
 - falloutlore
 - 4chan

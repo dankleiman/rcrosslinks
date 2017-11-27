@@ -5,7 +5,6 @@ crosslinks:
 - The_Donald
 - running
 - ProtectAndServe
-- autotldr
 - DentonClassifieds
 - legalization
 - DFWApartments

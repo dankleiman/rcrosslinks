@@ -2,7 +2,6 @@
 title: SonOfAShepherd
 crosslinks:
 - megalinks
-- livven
 - MemeTemplatesOfficial
 - EdEddnEddyMemes
 - unexpectedwave

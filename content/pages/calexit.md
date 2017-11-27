@@ -1,7 +1,6 @@
 ---
 title: calexit
 crosslinks:
-- autotldr
 - ShitThe_DonaldSays
 - FreeCascadia
 - vexillology

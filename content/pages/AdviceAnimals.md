@@ -8,7 +8,6 @@ crosslinks:
 - IAmA
 - funny
 - OutOfTheLoop
-- livven
 - todayilearned
 - news
 - PoliticalHumor

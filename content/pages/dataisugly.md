@@ -11,7 +11,6 @@ crosslinks:
 - mildlyinfuriating
 - dataisfunny
 - Infographics
-- livven
 - AVoid5
 - ShittyMapPorn
 - dontdeadopeninside

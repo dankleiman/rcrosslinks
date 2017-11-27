@@ -1,7 +1,6 @@
 ---
 title: TrollXFunny
 crosslinks:
-- livven
 - TrollXChromosomes
 - funny
 - wholesomememes

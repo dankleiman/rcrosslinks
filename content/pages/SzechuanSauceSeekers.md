@@ -2,7 +2,6 @@
 title: SzechuanSauceSeekers
 crosslinks:
 - rickandmorty
-- autotldr
 - HailCorporate
 - Harmontown
 - KeepOurNetFree

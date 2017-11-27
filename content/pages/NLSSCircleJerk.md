@@ -1,10 +1,8 @@
 ---
 title: NLSSCircleJerk
 crosslinks:
-- livven
 - northernlion
 - BigBrother
-- autotldr
 - furry_irl
 - place
 - h3h3productions

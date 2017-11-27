@@ -17,7 +17,6 @@ crosslinks:
 - thisismylifenow
 - AskReddit
 - exoticspotting
-- autotldr
 - TopGear
 - hentai
 - ATBGE

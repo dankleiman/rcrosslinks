@@ -15,7 +15,6 @@ crosslinks:
 - GetMotivated
 - Serendipity
 - TsundereSharks
-- autotldr
 - ForeverAlone
 - videos
 - titlegore

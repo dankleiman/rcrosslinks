@@ -2,7 +2,6 @@
 title: gamindustri
 crosslinks:
 - Pixiv
-- livven
 - 49ers
 - place
 - GreenLattice

@@ -1,5 +1,0 @@
----
-title: ChuckNorris
-crosslinks:
-- livven
----

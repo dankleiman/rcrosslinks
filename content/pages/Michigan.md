@@ -1,7 +1,6 @@
 ---
 title: Michigan
 crosslinks:
-- autotldr
 - MIWeatherCircleJerk
 - Detroit
 - politics

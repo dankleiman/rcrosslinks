@@ -1,12 +1,10 @@
 ---
 title: climbing
 crosslinks:
-- livven
 - xkcd
 - pics
 - videos
 - metric_units
-- autotldr
 - AskReddit
 - loseit
 - travel

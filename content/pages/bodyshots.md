@@ -1,7 +1,6 @@
 ---
 title: bodyshots
 crosslinks:
-- livven
 - cumcoveredfucking
 - SpankSafe
 - NSFW_GIF

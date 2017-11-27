@@ -1,7 +1,6 @@
 ---
 title: ripcity
 crosslinks:
-- livven
 - denvernuggets
 - rockets
 - place

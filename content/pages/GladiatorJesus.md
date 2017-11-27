@@ -1,5 +1,0 @@
----
-title: GladiatorJesus
-crosslinks:
-- livven
----

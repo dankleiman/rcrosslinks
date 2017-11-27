@@ -1,5 +1,0 @@
----
-title: CanadianAtheism
-crosslinks:
-- autotldr
----

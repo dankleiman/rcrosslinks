@@ -1,10 +1,8 @@
 ---
 title: HIMYM
 crosslinks:
-- livven
 - AskReddit
 - sadcringe
-- autotldr
 - interestingasfuck
 - GhostedTV
 - NotHowDrugsWork

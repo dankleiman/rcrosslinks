@@ -1,5 +1,0 @@
----
-title: countermine
-crosslinks:
-- autotldr
----

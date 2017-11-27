@@ -1,7 +1,6 @@
 ---
 title: collared
 crosslinks:
-- livven
 - MrLionMissBunny
 - petplay
 - ShinyPorn

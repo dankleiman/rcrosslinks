@@ -1,7 +1,6 @@
 ---
 title: deadbydaylight
 crosslinks:
-- livven
 - F13thegame
 - REEEEEEEEEE
 - Cooljak96

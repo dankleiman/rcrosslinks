@@ -10,7 +10,6 @@ crosslinks:
 - gamedesign
 - stopdrinking
 - ShadowBan
-- autotldr
 - stopsmoking
 - TheRedPill
 - MuLegend

@@ -6,6 +6,5 @@ crosslinks:
 - MMAFantasy
 - Craps
 - Casino
-- autotldr
 - SoccerBetting
 ---

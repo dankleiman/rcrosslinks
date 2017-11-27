@@ -1,7 +1,6 @@
 ---
 title: ontario
 crosslinks:
-- autotldr
 - toronto
 - metacanada
 - canada

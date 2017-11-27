@@ -1,7 +1,6 @@
 ---
 title: CoincidenceTheorist
 crosslinks:
-- autotldr
 - TruthLeaks
 - conspiracy
 - The_Donald

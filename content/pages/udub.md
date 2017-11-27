@@ -4,7 +4,6 @@ crosslinks:
 - SeattleWA
 - xkcd
 - place
-- livven
 - videos
 - drama
 - NationalSocialism
@@ -12,7 +11,6 @@ crosslinks:
 - explainlikeimjive
 - canigetintouwcse
 - gatekeeping
-- autotldr
 - ApplyingToCollege
 - evergreenstate
 - Purdue

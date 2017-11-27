@@ -1,7 +1,6 @@
 ---
 title: OnlyTheHottestGirls
 crosslinks:
-- livven
 - nsfwcosplay
 - Randomgirls
 - NSFWScience

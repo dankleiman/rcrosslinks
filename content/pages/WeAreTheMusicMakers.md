@@ -10,7 +10,6 @@ crosslinks:
 - makinghiphop
 - piano
 - MusicInTheMaking
-- autotldr
 - songaweek
 - Reaper
 - lewronggeneration

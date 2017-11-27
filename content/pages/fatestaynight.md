@@ -4,7 +4,6 @@ crosslinks:
 - Pixiv
 - grandorder
 - anime
-- livven
 - RWBY
 - User_Simulator
 - NoStupidQuestions

@@ -1,9 +1,7 @@
 ---
 title: police
 crosslinks:
-- autotldr
 - ProtectAndServe
-- livven
 - Bad_Cops_No_Donuts
 - AskLEO
 - policeuk

@@ -14,7 +14,6 @@ crosslinks:
 - exchristian
 - askTheology
 - OpenChristian
-- autotldr
 - Anarchism
 - ancientegypt
 - IslamicStudies

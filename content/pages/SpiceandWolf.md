@@ -5,7 +5,6 @@ crosslinks:
 - Dakimakuras
 - closetsanta
 - Animewallpaper
-- livven
 - REEEEEEEEEE
 - cutelittlefangs
 - Serendipity

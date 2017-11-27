@@ -4,7 +4,6 @@ crosslinks:
 - soccer
 - soccerstreams
 - galatasaray
-- livven
 - aww
 - AccidentalSwedish
 ---

@@ -1,5 +1,0 @@
----
-title: labourshitposts
-crosslinks:
-- livven
----

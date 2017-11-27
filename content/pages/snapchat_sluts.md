@@ -1,7 +1,6 @@
 ---
 title: snapchat_sluts
 crosslinks:
-- livven
 - gonewild
 - TaylorWhite
 - AllisonParker

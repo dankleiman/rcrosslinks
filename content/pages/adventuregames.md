@@ -6,7 +6,6 @@ crosslinks:
 - empathygame
 - tipofmyjoystick
 - CrackWatch
-- livven
 - truegaming
 - gatekeeping
 - adventuregamestudio

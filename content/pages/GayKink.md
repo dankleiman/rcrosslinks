@@ -1,7 +1,6 @@
 ---
 title: GayKink
 crosslinks:
-- livven
 - chastity
 - MenWithToys
 - gaymers

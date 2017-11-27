@@ -1,5 +1,0 @@
----
-title: NewYorker
-crosslinks:
-- autotldr
----

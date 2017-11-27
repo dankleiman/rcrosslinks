@@ -2,7 +2,6 @@
 title: Jewish
 crosslinks:
 - Judaism
-- autotldr
 - Christianity
 - nottheonion
 - titlegore

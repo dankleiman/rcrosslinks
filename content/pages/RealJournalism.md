@@ -1,5 +1,0 @@
----
-title: RealJournalism
-crosslinks:
-- autotldr
----

@@ -1,5 +1,0 @@
----
-title: PoliticalRevCanada
-crosslinks:
-- autotldr
----

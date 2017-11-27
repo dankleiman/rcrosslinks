@@ -5,7 +5,6 @@ crosslinks:
 - place
 - CFBStreams
 - ockytop
-- livven
 - fsu
 - florida
 - nfl

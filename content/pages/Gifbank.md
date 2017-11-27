@@ -1,5 +1,0 @@
----
-title: Gifbank
-crosslinks:
-- livven
----

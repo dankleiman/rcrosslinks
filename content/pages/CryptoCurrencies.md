@@ -2,7 +2,6 @@
 title: CryptoCurrencies
 crosslinks:
 - CryptoCurrency
-- autotldr
 - Monero
 - PoloniexForum
 - ethereum

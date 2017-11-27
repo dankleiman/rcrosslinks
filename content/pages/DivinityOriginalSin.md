@@ -5,7 +5,6 @@ crosslinks:
 - DivinityOriginalSin2
 - gatekeeping
 - nocontext
-- livven
 - fnv
 - hearthstone
 - HaloOnline

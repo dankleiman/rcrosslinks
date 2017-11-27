@@ -4,5 +4,4 @@ crosslinks:
 - COMPLETEANARCHY
 - FULLCOMMUNISM
 - Ultraleft
-- autotldr
 ---

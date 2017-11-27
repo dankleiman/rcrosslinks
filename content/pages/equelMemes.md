@@ -15,6 +15,5 @@ crosslinks:
 - BattlefrontMemes
 - starwarsmemes
 - prequel
-- livven
 - LakeLaogai
 ---

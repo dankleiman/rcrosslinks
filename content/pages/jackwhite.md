@@ -1,5 +1,0 @@
----
-title: jackwhite
-crosslinks:
-- autotldr
----

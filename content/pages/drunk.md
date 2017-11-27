@@ -1,7 +1,6 @@
 ---
 title: drunk
 crosslinks:
-- livven
 - AMAAggregator
 - cripplingalcoholism
 - stopdrinking
@@ -9,7 +8,6 @@ crosslinks:
 - xkcd
 - gatekeeping
 - LifeProTips
-- autotldr
 - scifi
 - turkishmidgetgayporn
 - announcements

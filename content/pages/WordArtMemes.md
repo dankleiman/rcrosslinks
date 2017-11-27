@@ -1,5 +1,0 @@
----
-title: WordArtMemes
-crosslinks:
-- livven
----

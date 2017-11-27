@@ -1,7 +1,6 @@
 ---
 title: ghostbusters
 crosslinks:
-- autotldr
 - gaming
 - metric_units
 - cade

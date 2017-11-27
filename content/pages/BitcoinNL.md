@@ -1,5 +1,0 @@
----
-title: BitcoinNL
-crosslinks:
-- autotldr
----

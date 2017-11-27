@@ -1,5 +1,0 @@
----
-title: Phijkchu
-crosslinks:
-- livven
----

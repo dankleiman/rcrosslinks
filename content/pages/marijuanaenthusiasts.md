@@ -16,7 +16,6 @@ crosslinks:
 - TreesSuckingOnThings
 - KarmaCourt
 - mycology
-- autotldr
 - Ceanothus
 - IndoorGarden
 - treeleaves

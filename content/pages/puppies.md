@@ -1,7 +1,6 @@
 ---
 title: puppies
 crosslinks:
-- livven
 - husky
 - PuppySmiles
 - Cockapoo

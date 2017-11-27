@@ -1,7 +1,6 @@
 ---
 title: onetruegod
 crosslinks:
-- livven
 - funny
 - Cagecoin
 - KarmaCourt

@@ -4,7 +4,6 @@ crosslinks:
 - gaming
 - AndroidGaming
 - IndieGame
-- autotldr
 - Amd
 - FreeGamesOnSteam
 - Loadout
@@ -18,6 +17,5 @@ crosslinks:
 - ProjectReality
 - mentalhealth
 - Unity3D
-- livven
 - GiftofGames
 ---

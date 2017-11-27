@@ -11,7 +11,6 @@ crosslinks:
 - eliteoutfitters
 - EliteMiners
 - EliteCCN
-- livven
 - place
 - eliteanal
 - eliteexplorers

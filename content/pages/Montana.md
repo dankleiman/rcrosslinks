@@ -1,7 +1,6 @@
 ---
 title: Montana
 crosslinks:
-- autotldr
 - IndianCountry
 - Shitty_Car_Mods
 - AmericanPlantSwap
@@ -16,7 +15,6 @@ crosslinks:
 - KeepOurNetFree
 - Bozeman
 - The_Donald
-- livven
 - MontanaPolitics
 - esist
 - malegrooming

@@ -1,5 +1,0 @@
----
-title: Blasfemia
-crosslinks:
-- livven
----

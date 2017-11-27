@@ -18,7 +18,6 @@ crosslinks:
 - changemyview
 - Nootropics
 - funny
-- autotldr
 - AskReddit
 - AskPhilosophyFAQ
 ---

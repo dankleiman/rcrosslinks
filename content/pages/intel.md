@@ -2,7 +2,6 @@
 title: intel
 crosslinks:
 - Amd
-- autotldr
 - hardware
 - nvidia
 - AyyMD

@@ -1,5 +1,0 @@
----
-title: Alec
-crosslinks:
-- autotldr
----

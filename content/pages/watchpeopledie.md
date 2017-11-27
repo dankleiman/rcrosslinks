@@ -1,7 +1,6 @@
 ---
 title: watchpeopledie
 crosslinks:
-- livven
 - jesuschristreddit
 - WTF
 - videos

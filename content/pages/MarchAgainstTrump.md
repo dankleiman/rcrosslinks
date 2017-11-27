@@ -1,10 +1,8 @@
 ---
 title: MarchAgainstTrump
 crosslinks:
-- autotldr
 - The_Donald
 - politics
-- livven
 - EnoughTrumpSpam
 - news
 - TrumpInvestigation

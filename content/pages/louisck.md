@@ -7,6 +7,5 @@ crosslinks:
 - BillBurr
 - NormMacdonald
 - OldSchoolCool
-- autotldr
 - muglife
 ---

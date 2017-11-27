@@ -1,5 +1,0 @@
----
-title: CouldntHaveGoneWorse
-crosslinks:
-- livven
----

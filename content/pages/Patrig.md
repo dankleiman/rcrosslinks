@@ -7,7 +7,6 @@ crosslinks:
 - Pyongyang
 - coaxedintoasnafu
 - DeepFriedMemes
-- livven
 - 4PanelCringe
 - jesuschristreddit
 ---

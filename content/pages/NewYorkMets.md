@@ -3,7 +3,6 @@ title: NewYorkMets
 crosslinks:
 - PanicCiti
 - reddit_stream
-- livven
 - place
 - MLBStreams
 - mets

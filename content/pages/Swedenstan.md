@@ -1,5 +1,0 @@
----
-title: Swedenstan
-crosslinks:
-- autotldr
----

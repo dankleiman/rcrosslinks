@@ -8,6 +8,5 @@ crosslinks:
 - astromarket
 - Damnthatsinteresting
 - mildlyinteresting
-- autotldr
 - telescope
 ---

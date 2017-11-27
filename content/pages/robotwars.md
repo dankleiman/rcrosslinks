@@ -8,7 +8,6 @@ crosslinks:
 - korea
 - nongolfers
 - commandandconquer
-- autotldr
 - pics
 - '2013'
 - place

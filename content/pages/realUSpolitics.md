@@ -1,5 +1,0 @@
----
-title: realUSpolitics
-crosslinks:
-- autotldr
----

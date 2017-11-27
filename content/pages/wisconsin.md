@@ -1,7 +1,6 @@
 ---
 title: wisconsin
 crosslinks:
-- autotldr
 - madisonwi
 - milwaukee
 - Economics

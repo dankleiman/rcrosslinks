@@ -1,9 +1,7 @@
 ---
 title: TheLeftovers
 crosslinks:
-- livven
 - lost
-- autotldr
 - FuckChuck
 - FargoTV
 - Glitch_in_the_Matrix

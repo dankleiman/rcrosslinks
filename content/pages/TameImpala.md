@@ -3,7 +3,6 @@ title: TameImpala
 crosslinks:
 - tameimpalacirclejerk
 - KGATLW
-- livven
 - IAmA
 - drums
 - SongStems

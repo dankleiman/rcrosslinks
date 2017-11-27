@@ -2,7 +2,6 @@
 title: brandnew
 crosslinks:
 - IslandParkNY
-- livven
 - PPLMVR
 - zooolanderconspiracy
 - Emo

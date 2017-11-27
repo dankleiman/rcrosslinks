@@ -2,8 +2,6 @@
 title: Kerala
 crosslinks:
 - india
-- autotldr
-- livven
 - askreddit
 - indiadiscussion
 - MuseumOfReddit

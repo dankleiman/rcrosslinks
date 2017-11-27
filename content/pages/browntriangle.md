@@ -1,5 +1,0 @@
----
-title: browntriangle
-crosslinks:
-- livven
----

@@ -7,7 +7,6 @@ crosslinks:
 - aww
 - mildlyinfuriating
 - gaming
-- livven
 - gifs
 - WTF
 - interestingasfuck

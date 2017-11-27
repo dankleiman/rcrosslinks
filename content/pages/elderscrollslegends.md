@@ -4,7 +4,6 @@ crosslinks:
 - CustomLegends
 - hearthstone
 - teslore
-- livven
 - duelyst
 - gwent
 - pcmasterrace

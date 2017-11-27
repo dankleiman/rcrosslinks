@@ -2,7 +2,6 @@
 title: BBQ
 crosslinks:
 - smoking
-- livven
 - grilling
 - food
 - iamveryculinary

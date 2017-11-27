@@ -2,7 +2,6 @@
 title: excatholic
 crosslinks:
 - Catholicism
-- autotldr
 - exchristian
 - atheism
 - exmormon

@@ -8,7 +8,6 @@ crosslinks:
 - Tinder
 - aznidentity
 - CIWO
-- autotldr
 - videos
 - misasandry
 - AskMen

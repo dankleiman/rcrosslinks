@@ -1,7 +1,6 @@
 ---
 title: WorldOfWarships
 crosslinks:
-- livven
 - WarshipPorn
 - WorldofTanks
 - modnews

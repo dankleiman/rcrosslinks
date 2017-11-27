@@ -1,7 +1,6 @@
 ---
 title: MadeOfStyrofoam
 crosslinks:
-- livven
 - selfharm
 - selfharmgifs
 - Jokes

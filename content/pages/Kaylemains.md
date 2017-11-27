@@ -5,5 +5,4 @@ crosslinks:
 - leagueoflegends
 - supportlol
 - ChampionMains
-- livven
 ---

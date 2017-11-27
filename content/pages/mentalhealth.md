@@ -1,7 +1,6 @@
 ---
 title: mentalhealth
 crosslinks:
-- autotldr
 - BPD
 - Anger
 - SWResources

@@ -1,7 +1,6 @@
 ---
 title: nature
 crosslinks:
-- autotldr
 - BrasilOnReddit
 - DeepGreenResistance
 - iamsmart

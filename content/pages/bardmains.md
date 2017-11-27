@@ -3,7 +3,6 @@ title: bardmains
 crosslinks:
 - leagueoflegends
 - supportlol
-- livven
 - place
 - JhinMains
 - LoLFanArt

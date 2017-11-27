@@ -3,7 +3,6 @@ title: mac
 crosslinks:
 - apple
 - applehelp
-- autotldr
 - hackintosh
 - osx
 - hardwareswap
@@ -12,7 +11,6 @@ crosslinks:
 - xkcd
 - macapps
 - technology
-- livven
 - applecirclejerk
 - outrun
 - macpro

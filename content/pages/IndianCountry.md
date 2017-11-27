@@ -1,7 +1,6 @@
 ---
 title: IndianCountry
 crosslinks:
-- autotldr
 - AskHistorians
 - NoDAPL
 - Navajo

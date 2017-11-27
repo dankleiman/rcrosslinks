@@ -5,6 +5,5 @@ crosslinks:
 - DaystromInstitute
 - MGTOW
 - SignalYourVirtue
-- livven
 - '2017'
 ---

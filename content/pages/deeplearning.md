@@ -5,5 +5,4 @@ crosslinks:
 - netsec
 - artificial
 - 3Dmodeling
-- autotldr
 ---

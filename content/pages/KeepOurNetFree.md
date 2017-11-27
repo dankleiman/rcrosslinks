@@ -1,7 +1,6 @@
 ---
 title: KeepOurNetFree
 crosslinks:
-- autotldr
 - technology
 - netneutrality
 - privacy
@@ -17,7 +16,6 @@ crosslinks:
 - EnoughTrumpSpam
 - esist
 - NeutralPolitics
-- livven
 - explainlikeimfive
 - SzechuanSauceSeekers
 - spacex

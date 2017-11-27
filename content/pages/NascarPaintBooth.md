@@ -1,5 +1,0 @@
----
-title: NascarPaintBooth
-crosslinks:
-- livven
----

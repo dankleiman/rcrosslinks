@@ -1,7 +1,6 @@
 ---
 title: libertarianmeme
 crosslinks:
-- livven
 - Shitstatistssay
 - AnCapitalists
 - GoldandBlack

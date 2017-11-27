@@ -1,7 +1,6 @@
 ---
 title: foreignpolicy
 crosslinks:
-- autotldr
 - Lawfare
 - geopolitics
 - caspianreport

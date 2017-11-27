@@ -1,9 +1,7 @@
 ---
 title: americangods
 crosslinks:
-- autotldr
 - television
-- livven
 - EarthPorn
 - xkcd
 - Eve

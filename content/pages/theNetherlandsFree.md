@@ -4,6 +4,5 @@ crosslinks:
 - MapPorn
 - NietOpDeHoogte
 - europe
-- autotldr
 - xkcd
 ---

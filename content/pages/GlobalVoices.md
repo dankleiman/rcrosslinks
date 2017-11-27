@@ -1,5 +1,0 @@
----
-title: GlobalVoices
-crosslinks:
-- autotldr
----

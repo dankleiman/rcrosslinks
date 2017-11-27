@@ -10,7 +10,6 @@ crosslinks:
 - xkcd
 - help
 - slideforreddit
-- livven
 - androidapps
 - androidthemes
 - essential

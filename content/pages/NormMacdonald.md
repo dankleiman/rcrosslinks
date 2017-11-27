@@ -3,8 +3,6 @@ title: NormMacdonald
 crosslinks:
 - opieandanthony
 - cockcutters
-- livven
-- autotldr
 - howardstern
 - IAmA
 - norm

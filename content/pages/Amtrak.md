@@ -1,5 +1,0 @@
----
-title: Amtrak
-crosslinks:
-- autotldr
----

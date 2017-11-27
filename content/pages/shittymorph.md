@@ -3,7 +3,6 @@ title: shittymorph
 crosslinks:
 - AskReddit
 - funny
-- livven
 - gifs
 - pics
 - mildlyinteresting

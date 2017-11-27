@@ -3,7 +3,6 @@ title: uofm
 crosslinks:
 - place
 - OSU
-- autotldr
 - Finland
 - Fitness
 - TheB1G

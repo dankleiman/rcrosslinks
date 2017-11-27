@@ -1,7 +1,6 @@
 ---
 title: milliondollarextreme
 crosslinks:
-- autotldr
 - hapas
 - IAmA
 - JoeRogan

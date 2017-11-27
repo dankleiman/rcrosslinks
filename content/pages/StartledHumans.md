@@ -1,5 +1,0 @@
----
-title: StartledHumans
-crosslinks:
-- livven
----

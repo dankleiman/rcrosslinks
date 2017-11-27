@@ -1,5 +1,0 @@
----
-title: GanondorfMains
-crosslinks:
-- livven
----

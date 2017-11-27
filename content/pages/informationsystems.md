@@ -1,5 +1,0 @@
----
-title: informationsystems
-crosslinks:
-- autotldr
----

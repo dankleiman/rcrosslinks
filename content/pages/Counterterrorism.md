@@ -1,5 +1,0 @@
----
-title: Counterterrorism
-crosslinks:
-- autotldr
----

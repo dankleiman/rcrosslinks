@@ -1,11 +1,9 @@
 ---
 title: watch_dogs
 crosslinks:
-- livven
 - TOR
 - needforspeed
 - gaming
-- autotldr
 - The_Donald
 - playrust
 - Serendipity

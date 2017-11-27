@@ -13,7 +13,6 @@ crosslinks:
 - consoledeals
 - shitpost
 - Overwatch
-- autotldr
 - Gamingcirclejerk
 - anything
 - patientgamers

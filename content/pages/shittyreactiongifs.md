@@ -1,7 +1,6 @@
 ---
 title: shittyreactiongifs
 crosslinks:
-- livven
 - reactiongifs
 - gifs
 - funny

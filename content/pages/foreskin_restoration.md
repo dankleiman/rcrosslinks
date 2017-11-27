@@ -7,7 +7,6 @@ crosslinks:
 - Foregen
 - Intactivists
 - Phimosis
-- autotldr
 - whatisthisthing
 - sex
 - Transhuman

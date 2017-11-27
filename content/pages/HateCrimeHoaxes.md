@@ -1,7 +1,6 @@
 ---
 title: HateCrimeHoaxes
 crosslinks:
-- autotldr
 - etarded
 - PussyPass
 - sanantonio

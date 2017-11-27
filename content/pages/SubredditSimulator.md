@@ -4,7 +4,6 @@ crosslinks:
 - AskHistorians
 - twitchplayspokemon
 - pics
-- livven
 - zen
 - AskReddit
 - oddlysatisfying

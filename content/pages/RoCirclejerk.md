@@ -2,7 +2,6 @@
 title: RoCirclejerk
 crosslinks:
 - Romania
-- livven
 - romania_ss
 - MustarDeTecuci
 - RoGonewild

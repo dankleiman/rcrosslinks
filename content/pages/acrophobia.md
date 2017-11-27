@@ -1,5 +1,0 @@
----
-title: acrophobia
-crosslinks:
-- livven
----

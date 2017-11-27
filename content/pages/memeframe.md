@@ -1,7 +1,6 @@
 ---
 title: memeframe
 crosslinks:
-- livven
 - Warframe
 - leagueoflegends
 - Overwatch

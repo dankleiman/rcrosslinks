@@ -2,10 +2,8 @@
 title: Supernatural
 crosslinks:
 - fandomnatural
-- livven
 - AskReddit
 - '2013'
-- autotldr
 - MenofLetters
 - FlashTV
 - WritingPrompts

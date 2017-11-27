@@ -4,8 +4,6 @@ crosslinks:
 - Bitcoin
 - CryptoCurrency
 - LitecoinMarkets
-- autotldr
-- livven
 - ethtrader
 - litecoinmining
 - CoinBase

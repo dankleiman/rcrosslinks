@@ -1,5 +1,0 @@
----
-title: BSL
-crosslinks:
-- livven
----

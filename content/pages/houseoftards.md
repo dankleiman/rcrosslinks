@@ -1,5 +1,0 @@
----
-title: houseoftards
-crosslinks:
-- autotldr
----

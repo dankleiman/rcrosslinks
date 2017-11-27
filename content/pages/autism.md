@@ -2,12 +2,10 @@
 title: autism
 crosslinks:
 - aspergers
-- autotldr
 - aspergirls
 - AskReddit
 - neurodiversity
 - everyfuckingthread
-- livven
 - The_Donald
 - aww
 - SargonofAkkad

@@ -2,7 +2,6 @@
 title: MachineLearning
 crosslinks:
 - reinforcementlearning
-- autotldr
 - learnmachinelearning
 - artificial
 - DotA2

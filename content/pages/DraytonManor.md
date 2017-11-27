@@ -1,5 +1,0 @@
----
-title: DraytonManor
-crosslinks:
-- autotldr
----

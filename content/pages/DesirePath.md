@@ -3,7 +3,6 @@ title: DesirePath
 crosslinks:
 - DesirePaths
 - Wellworn
-- livven
 - thingsforants
 - mildlyinteresting
 - oddlysatisfying

@@ -1,7 +1,6 @@
 ---
 title: bigdata
 crosslinks:
-- autotldr
 - programming
 - datascience
 - datasets

@@ -3,8 +3,6 @@ title: HelloInternet
 crosslinks:
 - vexillology
 - CGPGrey
-- autotldr
-- livven
 - xkcd
 - Flaggyflag
 - CGPGrey2

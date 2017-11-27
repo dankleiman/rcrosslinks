@@ -1,5 +1,0 @@
----
-title: Famine
-crosslinks:
-- autotldr
----

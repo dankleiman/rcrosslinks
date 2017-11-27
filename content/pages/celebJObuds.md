@@ -1,7 +1,6 @@
 ---
 title: celebJObuds
 crosslinks:
-- livven
 - JizzedToThis
 - lindseypelas
 - SelenaGomez

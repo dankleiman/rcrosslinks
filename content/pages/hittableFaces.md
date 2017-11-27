@@ -4,7 +4,6 @@ crosslinks:
 - The_Donald
 - CringeAnarchy
 - todayilearned
-- livven
 - theyoungturks
 - RoastMe
 - ComedyCemetery

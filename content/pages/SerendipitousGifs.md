@@ -1,5 +1,0 @@
----
-title: SerendipitousGifs
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: SexyShemales
 crosslinks:
-- livven
 - traps
 - randomtgirl
 - shemalesHQ

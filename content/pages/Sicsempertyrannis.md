@@ -1,5 +1,0 @@
----
-title: Sicsempertyrannis
-crosslinks:
-- livven
----

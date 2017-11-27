@@ -2,7 +2,6 @@
 title: saskatoon
 crosslinks:
 - saskatchewan
-- autotldr
 - uncensorednews
 - Drama
 - WTF

@@ -5,7 +5,6 @@ crosslinks:
 - r
 - Guitar
 - AskReddit
-- livven
 - kickstarter
 - letstradepedals
 ---

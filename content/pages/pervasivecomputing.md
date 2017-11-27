@@ -1,5 +1,0 @@
----
-title: pervasivecomputing
-crosslinks:
-- autotldr
----

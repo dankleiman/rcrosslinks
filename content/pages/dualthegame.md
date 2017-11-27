@@ -1,5 +1,0 @@
----
-title: dualthegame
-crosslinks:
-- livven
----

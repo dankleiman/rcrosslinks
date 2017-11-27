@@ -8,7 +8,6 @@ crosslinks:
 - minnesotavikings
 - falcons
 - falconshate
-- livven
 - canes
 - detroitlions
 - CatTeamBrotherhood

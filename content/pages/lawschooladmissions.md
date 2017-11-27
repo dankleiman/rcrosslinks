@@ -7,7 +7,6 @@ crosslinks:
 - consulting
 - whiskey
 - ofcoursethatsathing
-- autotldr
 - MBA
 - ModSupport
 - niceguys

@@ -1,5 +1,0 @@
----
-title: foodarticles
-crosslinks:
-- autotldr
----

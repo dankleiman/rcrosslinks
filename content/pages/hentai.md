@@ -2,7 +2,6 @@
 title: hentai
 crosslinks:
 - Pixiv
-- livven
 - futanari
 - doujinshi
 - Palpz

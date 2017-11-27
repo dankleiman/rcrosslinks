@@ -5,7 +5,6 @@ crosslinks:
 - Justrolledintotheshop
 - OutOfTheLoop
 - ofcoursethatsathing
-- livven
 - funny
 - TheReportOfTheWeek
 - findareddit

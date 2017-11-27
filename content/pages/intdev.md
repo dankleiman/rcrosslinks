@@ -1,5 +1,0 @@
----
-title: intdev
-crosslinks:
-- autotldr
----

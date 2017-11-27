@@ -1,7 +1,6 @@
 ---
 title: Rainmeter
 crosslinks:
-- livven
 - Windows10
 - wallpapers
 - pcmasterrace

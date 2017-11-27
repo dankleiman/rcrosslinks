@@ -5,7 +5,6 @@ crosslinks:
 - toronto
 - canada
 - OutOfTheLoop
-- autotldr
 - legaladvice
 - ottawa
 - canadients

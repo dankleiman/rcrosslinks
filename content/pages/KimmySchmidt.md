@@ -1,7 +1,6 @@
 ---
 title: KimmySchmidt
 crosslinks:
-- livven
 - expectedhamilton
 - cakefarts
 - all

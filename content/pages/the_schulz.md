@@ -2,8 +2,6 @@
 title: the_schulz
 crosslinks:
 - de
-- livven
-- autotldr
 - germany
 - europe
 - the_schulz_meta

@@ -1,9 +1,7 @@
 ---
 title: thedonald
 crosslinks:
-- autotldr
 - The_Donald
-- livven
 - REEEEEEEEEE
 - facepalm
 - EnoughTrumpSpam

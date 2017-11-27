@@ -1,5 +1,0 @@
----
-title: YoungMonroe
-crosslinks:
-- livven
----

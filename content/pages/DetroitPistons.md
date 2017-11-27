@@ -4,7 +4,6 @@ crosslinks:
 - detroitlions
 - GoNets
 - '2016'
-- livven
 - '2013'
 - Detroit
 - kings

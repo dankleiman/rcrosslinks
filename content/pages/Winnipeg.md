@@ -1,7 +1,6 @@
 ---
 title: Winnipeg
 crosslinks:
-- autotldr
 - worldnews
 - onguardforthee
 - xkcd

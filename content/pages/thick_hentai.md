@@ -4,7 +4,6 @@ crosslinks:
 - Pixiv
 - ecchi
 - HentaiSource
-- livven
 - Tohru
 - photography
 - amazonposition

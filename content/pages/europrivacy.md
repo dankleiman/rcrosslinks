@@ -1,7 +1,6 @@
 ---
 title: europrivacy
 crosslinks:
-- autotldr
 - privacy
 - europe
 - europeanunion

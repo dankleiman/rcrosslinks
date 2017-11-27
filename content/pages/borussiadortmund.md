@@ -7,8 +7,6 @@ crosslinks:
 - schalke04
 - soccerstreams
 - placestart
-- autotldr
-- livven
 - Gunners
 - ChurchOfSchmelle
 - Bundesliga

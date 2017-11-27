@@ -6,7 +6,6 @@ crosslinks:
 - CryptoCurrency
 - Crypto_Currency_News
 - dashpay
-- autotldr
 - ethtrader
 - altcoin
 - redditrequest

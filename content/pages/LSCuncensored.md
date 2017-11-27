@@ -1,7 +1,6 @@
 ---
 title: LSCuncensored
 crosslinks:
-- autotldr
 - funny
 - australia
 - pics
@@ -9,7 +8,6 @@ crosslinks:
 - facepalm
 - FULLCOMMUNISM
 - toronto
-- livven
 - FunnyandSad
 - anime_irl
 - Anarchism

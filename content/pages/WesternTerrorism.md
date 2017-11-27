@@ -1,7 +1,6 @@
 ---
 title: WesternTerrorism
 crosslinks:
-- autotldr
 - WayOfTheBern
 - politics
 - Serendipity

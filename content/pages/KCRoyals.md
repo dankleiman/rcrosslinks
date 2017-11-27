@@ -12,7 +12,6 @@ crosslinks:
 - WhitMerrifield
 - ImagesOfCanada
 - AskReddit
-- livven
 - tifu
 - WahoosTipi
 - videos

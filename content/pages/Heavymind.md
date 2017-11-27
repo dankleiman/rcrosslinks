@@ -2,7 +2,6 @@
 title: Heavymind
 crosslinks:
 - Art
-- livven
 - Perceptions
 - doodles
 - interestingasfuck

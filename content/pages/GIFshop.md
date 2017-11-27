@@ -1,5 +1,0 @@
----
-title: GIFshop
-crosslinks:
-- livven
----

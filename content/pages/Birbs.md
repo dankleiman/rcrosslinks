@@ -1,7 +1,6 @@
 ---
 title: Birbs
 crosslinks:
-- livven
 - parrots
 - pics
 - gifs

@@ -17,5 +17,4 @@ crosslinks:
 - VPN
 - surface
 - DIY
-- autotldr
 ---

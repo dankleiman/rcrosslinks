@@ -1,5 +1,0 @@
----
-title: Lithos
-crosslinks:
-- livven
----

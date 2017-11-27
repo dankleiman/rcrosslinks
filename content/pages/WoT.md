@@ -4,7 +4,6 @@ crosslinks:
 - Fantasy
 - respectthreads
 - thelegendarium
-- livven
 - xkcd
 - AskReddit
 - Cosmere

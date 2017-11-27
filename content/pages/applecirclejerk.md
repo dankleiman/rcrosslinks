@@ -1,8 +1,6 @@
 ---
 title: applecirclejerk
 crosslinks:
-- autotldr
-- livven
 - REEEEEEEEEE
 - androidcirclejerk
 - apple

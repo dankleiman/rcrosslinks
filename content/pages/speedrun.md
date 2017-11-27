@@ -8,7 +8,6 @@ crosslinks:
 - xkcd
 - Games
 - gamesdonequick
-- livven
 - asktransgender
 - gaming
 - Breath_of_the_Wild

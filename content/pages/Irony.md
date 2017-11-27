@@ -1,7 +1,6 @@
 ---
 title: Irony
 crosslinks:
-- autotldr
 - Serendipity
 - narcsinthewild
 - funny
@@ -16,5 +15,4 @@ crosslinks:
 - LateStageCapitalism
 - coincidence
 - replygore
-- livven
 ---

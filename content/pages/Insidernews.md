@@ -1,5 +1,0 @@
----
-title: Insidernews
-crosslinks:
-- autotldr
----

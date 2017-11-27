@@ -2,7 +2,6 @@
 title: shittyprogramming
 crosslinks:
 - xkcd
-- livven
 - Shittyspamming
 - delusionalartists
 - UKIP

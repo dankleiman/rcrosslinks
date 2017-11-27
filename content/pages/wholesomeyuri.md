@@ -3,7 +3,6 @@ title: wholesomeyuri
 crosslinks:
 - awwnime
 - Pixiv
-- livven
 - pharmercy
 - anime
 - yuri

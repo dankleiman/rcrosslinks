@@ -8,5 +8,4 @@ crosslinks:
 - LifeProTips
 - Stutter
 - toledo
-- autotldr
 ---

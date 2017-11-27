@@ -1,5 +1,0 @@
----
-title: GambianCrisis
-crosslinks:
-- autotldr
----

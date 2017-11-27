@@ -10,7 +10,6 @@ crosslinks:
 - VPNTorrents
 - utorrent
 - TOR
-- autotldr
 - linux
 - OpenSignups
 - opentrackerproject

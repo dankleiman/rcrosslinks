@@ -1,5 +1,0 @@
----
-title: gwcosplay
-crosslinks:
-- livven
----

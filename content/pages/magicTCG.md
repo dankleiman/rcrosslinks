@@ -7,7 +7,6 @@ crosslinks:
 - ModernMagic
 - magicthecirclejerking
 - lrcast
-- livven
 - CompetitiveEDH
 - mtgfinance
 - mtgvorthos

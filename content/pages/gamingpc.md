@@ -3,7 +3,6 @@ title: gamingpc
 crosslinks:
 - pcmasterrace
 - hardwareswap
-- livven
 - watercooling
 - multiwall
 - reactiongifs

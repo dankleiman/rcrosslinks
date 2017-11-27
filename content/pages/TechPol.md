@@ -1,5 +1,0 @@
----
-title: TechPol
-crosslinks:
-- autotldr
----

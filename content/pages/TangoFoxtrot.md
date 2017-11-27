@@ -1,5 +1,0 @@
----
-title: TangoFoxtrot
-crosslinks:
-- autotldr
----

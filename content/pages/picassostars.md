@@ -1,5 +1,0 @@
----
-title: picassostars
-crosslinks:
-- livven
----

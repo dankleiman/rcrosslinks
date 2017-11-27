@@ -3,7 +3,6 @@ title: hinduism
 crosslinks:
 - india
 - indianews
-- autotldr
 - Buddhism
 - ABCDesis
 - kriyayoga
@@ -11,7 +10,6 @@ crosslinks:
 - truehinduism
 - TheImperialCult
 - Creation
-- livven
 - AskHistorians
 - depression_help
 - AdvaitaVedanta

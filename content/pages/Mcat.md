@@ -2,7 +2,6 @@
 title: Mcat
 crosslinks:
 - premed
-- livven
 - MCATforsale
 - Anki
 - medicalschool

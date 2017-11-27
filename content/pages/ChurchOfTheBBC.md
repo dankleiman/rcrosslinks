@@ -1,7 +1,6 @@
 ---
 title: ChurchOfTheBBC
 crosslinks:
-- livven
 - Pornstars_NSFW
 - IWantToSuckCock
 - BlackWorldOrder

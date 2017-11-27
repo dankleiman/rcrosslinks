@@ -4,7 +4,6 @@ crosslinks:
 - AutoDetailingDeals
 - TheDetailDirectory
 - plastidip
-- livven
 - Miata
 - MechanicAdvice
 - DetailSwap

@@ -1,5 +1,0 @@
----
-title: PhysicalPhysics
-crosslinks:
-- livven
----

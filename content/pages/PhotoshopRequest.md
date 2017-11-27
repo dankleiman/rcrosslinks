@@ -1,7 +1,6 @@
 ---
 title: PhotoshopRequest
 crosslinks:
-- livven
 - colorizationrequests
 - photoshop
 - pics

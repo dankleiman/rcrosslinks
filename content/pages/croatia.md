@@ -4,7 +4,6 @@ crosslinks:
 - europe
 - novotvorenice
 - jakosampametan
-- livven
 - AskReddit
 - MapPorn
 - xkcd
@@ -13,7 +12,6 @@ crosslinks:
 - thehulk
 - pics
 - IAmA
-- autotldr
 - hrvatska
 - asoiaf
 - OutOfTheLoop

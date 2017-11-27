@@ -1,7 +1,6 @@
 ---
 title: Rainbow6
 crosslinks:
-- livven
 - R6STeams
 - SiegeAcademy
 - pcmasterrace

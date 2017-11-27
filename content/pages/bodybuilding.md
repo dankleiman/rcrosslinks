@@ -12,7 +12,6 @@ crosslinks:
 - OldSchoolCool
 - fit
 - weightlifting
-- livven
 - Brogress
 - AdvancedFitness
 - ketogains

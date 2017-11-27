@@ -1,7 +1,6 @@
 ---
 title: Unexpected
 crosslinks:
-- livven
 - gifs
 - xkcd
 - funny

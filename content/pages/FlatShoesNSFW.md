@@ -1,5 +1,0 @@
----
-title: FlatShoesNSFW
-crosslinks:
-- livven
----

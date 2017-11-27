@@ -3,7 +3,6 @@ title: vinyl
 crosslinks:
 - VinylCollectors
 - audiophile
-- livven
 - vintageaudio
 - VinylReleases
 - Jazz
@@ -17,7 +16,6 @@ crosslinks:
 - hiphopvinyl
 - BudgetAudiophile
 - KGATLW
-- autotldr
 - gorillaz
 - AskReddit
 - pics

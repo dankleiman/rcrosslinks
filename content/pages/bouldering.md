@@ -1,7 +1,6 @@
 ---
 title: bouldering
 crosslinks:
-- livven
 - BlocEurope
 - HighQualityGifs
 - manga

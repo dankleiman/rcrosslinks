@@ -1,7 +1,6 @@
 ---
 title: Hot_Women_Gifs
 crosslinks:
-- livven
 - AsianHotties
 - RileyReid
 - BrasilOnReddit

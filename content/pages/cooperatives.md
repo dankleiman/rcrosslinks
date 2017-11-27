@@ -1,7 +1,6 @@
 ---
 title: cooperatives
 crosslinks:
-- autotldr
 - AMAAggregator
 - AnarchismOnline
 - Anarchism

@@ -1,5 +1,0 @@
----
-title: VANGUARDauto
-crosslinks:
-- autotldr
----

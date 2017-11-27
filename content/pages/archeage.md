@@ -1,7 +1,6 @@
 ---
 title: archeage
 crosslinks:
-- livven
 - MMORPG
 - Eve
 - 2007scape

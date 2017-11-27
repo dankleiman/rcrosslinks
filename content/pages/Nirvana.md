@@ -4,7 +4,6 @@ crosslinks:
 - Music
 - pics
 - ProCSS
-- autotldr
 - LifeProTips
 - FaithNoMore
 - Guitar
@@ -13,6 +12,5 @@ crosslinks:
 - Soundgarden
 - modnews
 - funny
-- livven
 - gatekeeping
 ---

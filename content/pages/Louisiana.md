@@ -1,7 +1,6 @@
 ---
 title: Louisiana
 crosslinks:
-- autotldr
 - Acadiana
 - news
 - politics

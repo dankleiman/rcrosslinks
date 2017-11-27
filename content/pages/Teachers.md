@@ -13,7 +13,6 @@ crosslinks:
 - matheducation
 - xkcd
 - ukvisa
-- autotldr
 - AskReddit
 - statistics
 - CSEducation

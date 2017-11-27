@@ -1,5 +1,0 @@
----
-title: MissPalestine
-crosslinks:
-- livven
----

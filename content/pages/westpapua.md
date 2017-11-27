@@ -1,5 +1,0 @@
----
-title: westpapua
-crosslinks:
-- autotldr
----

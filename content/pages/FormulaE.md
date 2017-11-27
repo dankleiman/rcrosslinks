@@ -5,7 +5,6 @@ crosslinks:
 - MotorsportsHighlights
 - MotorsportsReplays
 - motorsportsstreams
-- livven
 - wec
 - cars
 - motogp

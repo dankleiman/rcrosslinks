@@ -1,7 +1,6 @@
 ---
 title: NewMexico
 crosslinks:
-- autotldr
 - worldpolitics
 - meowwolf
 - spicy

@@ -1,5 +1,0 @@
----
-title: YamTechnocrats
-crosslinks:
-- livven
----

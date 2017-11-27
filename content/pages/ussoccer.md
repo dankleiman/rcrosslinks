@@ -14,7 +14,6 @@ crosslinks:
 - rangersfc
 - BrasilOnReddit
 - theydidthemaths
-- livven
 - nfl
 - AMAAggregator
 - PhillyUnion

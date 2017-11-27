@@ -5,5 +5,4 @@ crosslinks:
 - relationship_advice
 - THE_PACK
 - trashy
-- autotldr
 ---

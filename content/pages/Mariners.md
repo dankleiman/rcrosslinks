@@ -9,7 +9,6 @@ crosslinks:
 - Seahawks
 - mildlyinteresting
 - Seattle
-- livven
 - '1277397'
 - phillies
 - copypasta

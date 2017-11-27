@@ -3,9 +3,7 @@ title: LGBTeens
 crosslinks:
 - LGBTaf
 - LGBTeensGoneMild
-- autotldr
 - gay
-- livven
 - AskReddit
 - communism101
 - gay_irl

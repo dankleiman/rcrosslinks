@@ -1,7 +1,6 @@
 ---
 title: TrollXFitness
 crosslinks:
-- livven
 - TrollXChromosomes
 - gainit
 - community

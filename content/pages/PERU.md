@@ -2,7 +2,6 @@
 title: PERU
 crosslinks:
 - place
-- autotldr
 - argentina
 - Paladins
 - notArgentina

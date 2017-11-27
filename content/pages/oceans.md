@@ -1,7 +1,6 @@
 ---
 title: oceans
 crosslinks:
-- autotldr
 - AMAAggregator
 - whales
 - FringeTheory

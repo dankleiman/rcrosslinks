@@ -17,7 +17,6 @@ crosslinks:
 - BlackPeopleTwitter
 - hapas
 - Fragility
-- autotldr
 - AsianBloc
 - mixedrace
 - AAdiscussions

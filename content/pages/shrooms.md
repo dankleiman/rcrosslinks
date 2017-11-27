@@ -7,7 +7,6 @@ crosslinks:
 - microdosing
 - shroomers
 - Drugs
-- livven
 - replications
 - ShroomID
 - MushroomGrowers
@@ -15,7 +14,6 @@ crosslinks:
 - researchchemicals
 - DrugNerds
 - DMT
-- autotldr
 - place
 - MDMA
 - explainlikeimfive

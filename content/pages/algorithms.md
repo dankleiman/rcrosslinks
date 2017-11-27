@@ -3,7 +3,6 @@ title: algorithms
 crosslinks:
 - learnprogramming
 - compsci
-- autotldr
 - Serendipity
 - xkcd
 - programming

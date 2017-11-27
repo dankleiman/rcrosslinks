@@ -1,5 +1,0 @@
----
-title: CartoonLogicGifs
-crosslinks:
-- livven
----

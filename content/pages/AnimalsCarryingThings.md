@@ -1,5 +1,0 @@
----
-title: AnimalsCarryingThings
-crosslinks:
-- livven
----

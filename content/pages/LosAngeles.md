@@ -1,13 +1,11 @@
 ---
 title: LosAngeles
 crosslinks:
-- autotldr
 - LAFD
 - AskLosAngeles
 - LAlist
 - The_Donald
 - news
-- livven
 - videos
 - California
 - socalhiking

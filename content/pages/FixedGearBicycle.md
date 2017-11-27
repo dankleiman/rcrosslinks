@@ -8,7 +8,6 @@ crosslinks:
 - singlespeed
 - EDC
 - gatekeeping
-- livven
 - 2yovjhg
 - MTB
 - AliensAmongUs

@@ -1,5 +1,0 @@
----
-title: theglobalunion
-crosslinks:
-- autotldr
----

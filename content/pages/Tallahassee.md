@@ -1,7 +1,6 @@
 ---
 title: Tallahassee
 crosslinks:
-- autotldr
 - fsu
 - TropicalWeather
 - florida

@@ -1,5 +1,0 @@
----
-title: Bilderberg
-crosslinks:
-- autotldr
----

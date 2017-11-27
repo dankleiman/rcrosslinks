@@ -1,7 +1,6 @@
 ---
 title: transporn
 crosslinks:
-- livven
 - CarolinaRamirez
 - cocklady
 - kittylynn

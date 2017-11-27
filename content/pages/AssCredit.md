@@ -6,9 +6,7 @@ crosslinks:
 - theydidthefuckyou
 - videos
 - AskOuija
-- autotldr
 - theydidnotdothemath
-- livven
 - r
 - relationships
 - shittyaskreddit

@@ -1,5 +1,0 @@
----
-title: Applebees
-crosslinks:
-- autotldr
----

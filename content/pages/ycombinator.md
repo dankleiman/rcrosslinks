@@ -1,5 +1,0 @@
----
-title: ycombinator
-crosslinks:
-- autotldr
----

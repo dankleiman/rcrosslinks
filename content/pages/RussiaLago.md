@@ -1,7 +1,6 @@
 ---
 title: RussiaLago
 crosslinks:
-- autotldr
 - politics
 - OutOfTheLoop
 - The_Donald

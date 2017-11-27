@@ -1,7 +1,6 @@
 ---
 title: WastedGifs
 crosslinks:
-- livven
 - gifs
 - Wellthatsucks
 - hockey

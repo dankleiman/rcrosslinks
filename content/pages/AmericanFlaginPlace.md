@@ -8,7 +8,6 @@ crosslinks:
 - indieheads
 - The_Donald
 - EraseThePlace
-- livven
 - straya
 - sweden
 - FlagAlliance

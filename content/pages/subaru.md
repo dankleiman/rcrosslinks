@@ -3,7 +3,6 @@ title: subaru
 crosslinks:
 - XVcrosstrek
 - AutoDetailing
-- livven
 - WRX
 - ft86
 - Shitty_Car_Mods

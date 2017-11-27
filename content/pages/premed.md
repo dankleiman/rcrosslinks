@@ -1,12 +1,10 @@
 ---
 title: premed
 crosslinks:
-- livven
 - medicalschool
 - tommytext
 - Mcat
 - medicine
-- autotldr
 - depression
 - AMAAggregator
 - AskReddit

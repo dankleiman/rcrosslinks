@@ -1,7 +1,6 @@
 ---
 title: TrueReddit
 crosslinks:
-- autotldr
 - goodlongposts
 - ConcentrationOfWealth
 - politics

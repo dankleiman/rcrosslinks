@@ -4,7 +4,6 @@ crosslinks:
 - WackyTicTacs
 - ReallyWackyTicTacs
 - comedynecromancy
-- livven
 - Shadman
 - DeepFriedMemes
 - titlegore

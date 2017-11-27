@@ -1,7 +1,6 @@
 ---
 title: NationalSocialism
 crosslinks:
-- autotldr
 - PsychicWarfare
 - EnoughCommieSpam
 - syriancivilwar

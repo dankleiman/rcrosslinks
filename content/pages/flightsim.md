@@ -3,7 +3,6 @@ title: flightsim
 crosslinks:
 - flying
 - hoggit
-- livven
 - aviation
 - nvidia
 - hotas

@@ -1,7 +1,6 @@
 ---
 title: moderatepolitics
 crosslinks:
-- autotldr
 - politics
 - ShitAmericansSay
 - The_Donald

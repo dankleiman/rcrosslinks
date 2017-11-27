@@ -2,7 +2,6 @@
 title: Hamilton
 crosslinks:
 - metacanada
-- autotldr
 - HBGG
 - hamiltonmusical
 - kitchener

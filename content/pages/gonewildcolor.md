@@ -1,7 +1,6 @@
 ---
 title: gonewildcolor
 crosslinks:
-- livven
 - Gonewild18
 - workgonewild
 - ThrasherCorpse895

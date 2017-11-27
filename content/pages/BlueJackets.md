@@ -6,7 +6,6 @@ crosslinks:
 - penguins
 - hockeyjerseys
 - puckstreams
-- livven
 - nhl_games
 - hawks
 - hockeycirclejerk

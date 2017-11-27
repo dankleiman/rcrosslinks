@@ -2,7 +2,6 @@
 title: Trumpgret
 crosslinks:
 - The_Donald
-- autotldr
 - politics
 - IAmA
 - Enough_Sanders_Spam
@@ -13,7 +12,6 @@ crosslinks:
 - OutOfTheLoop
 - BannedFromThe_Donald
 - AskTrumpSupporters
-- livven
 - Drama
 - worldnews
 - esist

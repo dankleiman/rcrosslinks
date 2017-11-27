@@ -1,7 +1,6 @@
 ---
 title: mountandblade
 crosslinks:
-- livven
 - AskHistorians
 - MountAndBall
 - MountandBand

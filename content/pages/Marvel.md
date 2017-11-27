@@ -2,9 +2,7 @@
 title: Marvel
 crosslinks:
 - marvelstudios
-- autotldr
 - xmen
-- livven
 - Runaways
 - Spiderman
 - movies

@@ -1,7 +1,6 @@
 ---
 title: CrappyDesign
 crosslinks:
-- livven
 - funny
 - xkcd
 - dontdeadopeninside

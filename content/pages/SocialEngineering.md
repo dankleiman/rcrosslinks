@@ -1,7 +1,6 @@
 ---
 title: SocialEngineering
 crosslinks:
-- autotldr
 - ActLikeYouBelong
 - videos
 - hiphopheads

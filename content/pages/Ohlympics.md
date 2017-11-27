@@ -5,7 +5,6 @@ crosslinks:
 - HottestFemaleAthletes
 - mariasharapova
 - PaigeSpiranac
-- livven
 - FitAndNatural
 - DaryaKlishina
 - LilyJames

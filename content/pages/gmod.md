@@ -1,7 +1,6 @@
 ---
 title: gmod
 crosslinks:
-- livven
 - hammer
 - DarkRP
 - place

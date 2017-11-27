@@ -3,7 +3,6 @@ title: ContestOfChampions
 crosslinks:
 - ContestOfChampionsLFG
 - ContestOfChampsArena
-- livven
 - modnews
 - Pay_Respects
 - askwomenadvice

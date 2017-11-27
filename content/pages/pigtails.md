@@ -1,7 +1,6 @@
 ---
 title: pigtails
 crosslinks:
-- livven
 - LisaAnn
 - haileyleigh
 - Sofi_A

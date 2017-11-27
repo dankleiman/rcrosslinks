@@ -1,7 +1,6 @@
 ---
 title: Pennsylvania
 crosslinks:
-- autotldr
 - ShitPoliticsSays
 - philadelphia
 - NEPA

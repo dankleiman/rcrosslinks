@@ -7,7 +7,6 @@ crosslinks:
 - AskHistorians
 - pa
 - MURICA
-- autotldr
 - worldnews
 - pakistan
 - IAmA

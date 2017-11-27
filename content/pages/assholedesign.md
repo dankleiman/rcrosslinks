@@ -3,7 +3,6 @@ title: assholedesign
 crosslinks:
 - xkcd
 - softwaregore
-- livven
 - gaming
 - mildlyinfuriating
 - LateStageCapitalism

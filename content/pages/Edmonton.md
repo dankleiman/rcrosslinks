@@ -10,7 +10,6 @@ crosslinks:
 - legaladvice
 - canadients
 - EdmontonOilers
-- livven
 - videos
 - WTF
 - toronto

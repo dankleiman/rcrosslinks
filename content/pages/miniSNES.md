@@ -8,7 +8,6 @@ crosslinks:
 - GameStop
 - mtgfinance
 - 3dshacks
-- livven
 - RivalsOfAether
 - vinyl
 - RetroPie

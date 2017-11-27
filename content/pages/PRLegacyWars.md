@@ -4,6 +4,5 @@ crosslinks:
 - SuperSentaiLegacyWars
 - PowerRangersLegacyWar
 - GoldarDestroyers
-- livven
 - powerrangers
 ---

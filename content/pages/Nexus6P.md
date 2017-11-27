@@ -13,7 +13,6 @@ crosslinks:
 - androidcirclejerk
 - Nexus
 - Nexus5
-- autotldr
 - skeptic
 - MotoG
 - htcu11

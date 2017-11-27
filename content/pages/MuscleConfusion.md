@@ -1,7 +1,6 @@
 ---
 title: MuscleConfusion
 crosslinks:
-- livven
 - HomeGyms
 - wheredidthesodago
 - whitepeoplegifs

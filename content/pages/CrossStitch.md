@@ -10,7 +10,6 @@ crosslinks:
 - howyoudoin
 - crochet
 - grilledcheese
-- livven
 - twioat
 - london
 - rarepuppers

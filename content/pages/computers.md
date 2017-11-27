@@ -2,7 +2,6 @@
 title: computers
 crosslinks:
 - techsupport
-- autotldr
 - SuggestALaptop
 - learnprogramming
 - pcmasterrace

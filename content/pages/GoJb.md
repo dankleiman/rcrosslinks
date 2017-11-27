@@ -1,5 +1,0 @@
----
-title: GoJb
-crosslinks:
-- livven
----

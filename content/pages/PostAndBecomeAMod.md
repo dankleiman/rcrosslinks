@@ -3,7 +3,6 @@ title: PostAndBecomeAMod
 crosslinks:
 - AutoMauderator
 - vexillology
-- livven
 - ShittyPoetry
 - cats
 - GoForGold

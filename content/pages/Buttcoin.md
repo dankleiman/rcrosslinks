@@ -6,7 +6,6 @@ crosslinks:
 - BitcoinMarkets
 - ethtrader
 - DarkNetMarkets
-- autotldr
 - CryptoCurrency
 - CoinBase
 - litecoin

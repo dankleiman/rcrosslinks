@@ -1,7 +1,6 @@
 ---
 title: LibertarianPartyUSA
 crosslinks:
-- autotldr
 - GaryJohnson
 - conspiracy
 - me_irl

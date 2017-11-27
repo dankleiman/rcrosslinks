@@ -1,5 +1,0 @@
----
-title: ClubAmerica
-crosslinks:
-- livven
----

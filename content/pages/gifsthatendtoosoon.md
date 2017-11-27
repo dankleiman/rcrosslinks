@@ -1,7 +1,6 @@
 ---
 title: gifsthatendtoosoon
 crosslinks:
-- livven
 - gifs
 - interestingasfuck
 - oddlysatisfying

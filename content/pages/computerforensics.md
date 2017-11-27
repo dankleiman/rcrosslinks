@@ -1,7 +1,6 @@
 ---
 title: computerforensics
 crosslinks:
-- autotldr
 - netsec
 - computers
 - cars

@@ -3,7 +3,6 @@ title: GrandTheftAutoV_PC
 crosslinks:
 - gtaonline
 - HeistTeams
-- livven
 - GTAGivers
 - Steam
 - GrandTheftAutoV

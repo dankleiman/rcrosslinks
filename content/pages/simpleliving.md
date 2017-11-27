@@ -4,7 +4,6 @@ crosslinks:
 - minimalism
 - financialindependence
 - AskReddit
-- autotldr
 - nosurf
 - WWOOF
 - videos

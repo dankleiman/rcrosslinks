@@ -3,7 +3,6 @@ title: azirmains
 crosslinks:
 - leagueoflegends
 - LeBlancMains
-- livven
 - Kindred
 - TaliyahMains
 - zedmains

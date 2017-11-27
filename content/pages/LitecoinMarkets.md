@@ -12,7 +12,6 @@ crosslinks:
 - GirlsGoneLiteCoin
 - litecoinmining
 - peercoin
-- autotldr
 - conspiracy
 - casualiama
 - fakeid

@@ -1,5 +1,0 @@
----
-title: spirographs
-crosslinks:
-- livven
----

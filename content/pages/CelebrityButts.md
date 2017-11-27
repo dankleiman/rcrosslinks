@@ -1,7 +1,6 @@
 ---
 title: CelebrityButts
 crosslinks:
-- livven
 - WatchItForThePlot
 - WrestleWithThePlot
 - ArianaGrande

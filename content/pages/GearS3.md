@@ -8,5 +8,4 @@ crosslinks:
 - samsungcirclejerk
 - GalaxyNote3
 - samsung
-- autotldr
 ---

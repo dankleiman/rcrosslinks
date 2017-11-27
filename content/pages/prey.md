@@ -1,7 +1,6 @@
 ---
 title: prey
 crosslinks:
-- livven
 - IAmA
 - titlegore
 - Games

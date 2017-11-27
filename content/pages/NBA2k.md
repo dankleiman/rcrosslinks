@@ -1,7 +1,6 @@
 ---
 title: NBA2k
 crosslinks:
-- livven
 - NBA2kTeamUp
 - MaddenUltimateTeam
 - NBA2KDesign

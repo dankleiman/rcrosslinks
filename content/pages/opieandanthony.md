@@ -1,8 +1,6 @@
 ---
 title: opieandanthony
 crosslinks:
-- autotldr
-- livven
 - amiugly
 - The_Donald
 - LegionOfSkanks

@@ -1,5 +1,0 @@
----
-title: iamverysmug
-crosslinks:
-- livven
----

@@ -1,7 +1,6 @@
 ---
 title: shittyrobots
 crosslinks:
-- livven
 - xkcd
 - videos
 - gifs

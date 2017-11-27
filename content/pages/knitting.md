@@ -2,7 +2,6 @@
 title: knitting
 crosslinks:
 - crochet
-- livven
 - Kitting
 - Drunkknitting
 - succulents

@@ -2,7 +2,6 @@
 title: AnarchismOnline
 crosslinks:
 - Anarchism
-- autotldr
 - LeftWithoutEdge
 - peoplesmetanarchism
 - socialism

@@ -1,7 +1,6 @@
 ---
 title: Staples
 crosslinks:
-- livven
 - OfficeDepot
 - AskReddit
 - TalesFromRetail

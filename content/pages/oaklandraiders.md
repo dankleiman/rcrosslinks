@@ -2,7 +2,6 @@
 title: oaklandraiders
 crosslinks:
 - nfl
-- livven
 - DenverBroncos
 - nflstreams
 - raiders

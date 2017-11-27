@@ -4,7 +4,6 @@ crosslinks:
 - homeautomation
 - tasker
 - amazonecho
-- autotldr
 - homeassistant
 - Chromecast
 - Android

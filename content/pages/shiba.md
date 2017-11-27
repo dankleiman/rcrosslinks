@@ -1,7 +1,6 @@
 ---
 title: shiba
 crosslinks:
-- livven
 - Dogtraining
 - aww
 - WhatsWrongWithYourDog

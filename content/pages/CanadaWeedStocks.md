@@ -1,7 +1,6 @@
 ---
 title: CanadaWeedStocks
 crosslinks:
-- autotldr
 - canadients
 - weedstocks
 - toronto

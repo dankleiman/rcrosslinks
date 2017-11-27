@@ -15,7 +15,6 @@ crosslinks:
 - adultchildren
 - longisland
 - The_Donald
-- autotldr
 - FierceFlow
 - VirginiaBeach
 - FunnyandSad

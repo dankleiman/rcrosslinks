@@ -1,7 +1,6 @@
 ---
 title: RotationGirls
 crosslinks:
-- livven
 - ClaireGerhardstein
 - SexyButNotPorn
 - faithschroder

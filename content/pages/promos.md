@@ -9,7 +9,6 @@ crosslinks:
 - The_Donald
 - latterdaysaints
 - lacortenews
-- autotldr
 - exmormon
 - videos
 - exmuslim

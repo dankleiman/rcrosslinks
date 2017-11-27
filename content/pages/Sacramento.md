@@ -1,9 +1,7 @@
 ---
 title: Sacramento
 crosslinks:
-- autotldr
 - xkcd
-- livven
 - kings
 - pics
 - The_Donald

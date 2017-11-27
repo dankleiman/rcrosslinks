@@ -11,7 +11,6 @@ crosslinks:
 - pcmasterrace
 - RocketLeague
 - aomthegame
-- livven
 - gifs
 - funny
 - Madden

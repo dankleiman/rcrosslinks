@@ -1,13 +1,11 @@
 ---
 title: LiveFromNewYork
 crosslinks:
-- autotldr
 - IAmA
 - television
 - The_Donald
 - atmidnight
 - niceguys
-- livven
 - laughfactory
 - rupaulsdragrace
 - NormMacdonald

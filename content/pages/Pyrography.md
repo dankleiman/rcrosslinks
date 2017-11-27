@@ -1,7 +1,6 @@
 ---
 title: Pyrography
 crosslinks:
-- livven
 - doctorwho
 - dragons
 - splatoon

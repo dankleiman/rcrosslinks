@@ -1,7 +1,6 @@
 ---
 title: DigitalPainting
 crosslinks:
-- livven
 - ArtCrit
 - wacom
 - redditgetsdrawn

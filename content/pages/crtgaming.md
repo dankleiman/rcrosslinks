@@ -19,6 +19,5 @@ crosslinks:
 - SSBM
 - Commodore
 - DIY
-- livven
 - neogeo
 ---

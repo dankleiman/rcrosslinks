@@ -18,7 +18,6 @@ crosslinks:
 - '2014'
 - theplunderhood
 - AskReddit
-- livven
 - TampaBayRowdies
 - IAmA
 ---

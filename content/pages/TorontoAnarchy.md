@@ -17,7 +17,6 @@ crosslinks:
 - fo4
 - pokemongo
 - CanadaPolitics
-- autotldr
 - news
 - pokemon
 - TheRedPill

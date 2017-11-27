@@ -2,7 +2,6 @@
 title: Cubers
 crosslinks:
 - BigfootTouchedMe
-- livven
 - xkcd
 - tippr
 - AskReddit

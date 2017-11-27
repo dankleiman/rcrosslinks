@@ -1,5 +1,0 @@
----
-title: allaboutconspiracies
-crosslinks:
-- autotldr
----

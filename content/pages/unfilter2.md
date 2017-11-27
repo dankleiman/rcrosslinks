@@ -1,7 +1,6 @@
 ---
 title: unfilter2
 crosslinks:
-- autotldr
 - politics
 - unfilter
 - thedavidpakmanshow

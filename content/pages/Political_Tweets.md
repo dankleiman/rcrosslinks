@@ -11,7 +11,6 @@ crosslinks:
 - gatekeeping
 - MensRights
 - offmychest
-- autotldr
 - european
 - IAmA
 - marchfortrump

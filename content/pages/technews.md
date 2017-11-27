@@ -1,7 +1,6 @@
 ---
 title: technews
 crosslinks:
-- autotldr
 - Serendipity
 - kodi
 - xkcd

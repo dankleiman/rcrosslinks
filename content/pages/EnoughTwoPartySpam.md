@@ -6,7 +6,6 @@ crosslinks:
 - Negareddit
 - New_Movement
 - technology
-- autotldr
 - EnoughTrumpSpam
 - esist
 - progressive

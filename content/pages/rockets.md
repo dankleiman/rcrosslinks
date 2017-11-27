@@ -1,7 +1,6 @@
 ---
 title: rockets
 crosslinks:
-- livven
 - rarehardens
 - NYKnicks
 - NBASpurs

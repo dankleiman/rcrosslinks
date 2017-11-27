@@ -6,7 +6,5 @@ crosslinks:
 - Socialism_101
 - Rad_Decentralization
 - FreeCascadia
-- livven
-- autotldr
 - todayilearned
 ---

@@ -1,7 +1,6 @@
 ---
 title: WayOfTheBern
 crosslinks:
-- autotldr
 - Enough_Sanders_Spam
 - conspiracy
 - SandersForPresident

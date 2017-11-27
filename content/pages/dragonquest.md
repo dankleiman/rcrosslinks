@@ -1,7 +1,6 @@
 ---
 title: dragonquest
 crosslinks:
-- livven
 - 3dshacks
 - rit
 - 3DS

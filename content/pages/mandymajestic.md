@@ -1,5 +1,0 @@
----
-title: mandymajestic
-crosslinks:
-- livven
----

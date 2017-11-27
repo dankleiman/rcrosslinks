@@ -7,7 +7,6 @@ crosslinks:
 - GooglePixel
 - NoContract
 - churning
-- autotldr
 - AndroidWear
 - verizon
 - mintsim
